@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha476 -->
+<LanguageData>
+
+<Orders.label>Διαταγές</Orders.label>
+    <Orders.description>Δώστε συγκεκριμένες εντολές για συγκεκριμένα πράγματα.</Orders.description>
+
+<Zone.label>Ζώνες</Zone.label>
+    <Zone.description>Θέστε ζώνες στις οποίες οι άποικοι θα κάνουν συγκεκριμένες δραστηριότητες.</Zone.description>
+
+<Structure.label>Οικοδομή</Structure.label>
+    <Structure.description>Δομικές κατασκευές όπως τοίχοι και καλώδια.</Structure.description>
+
+<Production.label>Παραγωγή</Production.label>
+    <Production.description>Οικοδομήματα που χρησιμοποιούνται για την παραγωγή αγαθών.</Production.description>
+
+<Furniture.label>Επίπλωση</Furniture.label>
+    <Furniture.description>Διάφορα έπιπλα.</Furniture.description>
+
+<Power.label>Ενέργεια</Power.label>
+    <Power.description>Παραγωγή,μετάδωση και διαχείριση ηλεκτρισμού.</Power.description>
+
+<Security.label>Ασφάλεια</Security.label>
+    <Security.description>Κατασκευές ασφαλείας και πολεμικής φύσης.</Security.description>
+
+<Misc.label>Διάφορα</Misc.label>
+    <Misc.description>Διάφορες κατασκευές.</Misc.description>
+
+<Floors.label>Δάπεδο</Floors.label>
+    <Floors.description>Διάφορες επιστρώσεις για εσωτερικά και εξωτερικά δάπεδα.</Floors.description>
+
+<Decoration.label>Διακόσμηση</Decoration.label>
+    <Decoration.description>Όμορφα αντικείμενα για να ανεβάσετε την διάθεση των αποίκων.</Decoration.description>
+
+<Ship.label>Διαστημόπλοιο</Ship.label>
+    <Ship.description>Τα μέρη του διαστημοπλοίου διαφηγής.</Ship.description>
+
+</LanguageData>

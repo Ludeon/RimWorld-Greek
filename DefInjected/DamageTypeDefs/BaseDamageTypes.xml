@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha476 -->
+<LanguageData>
+
+<Crush.deathMessage>{0} έχει συνθλιβεί μέχρι θανάτου.</Crush.deathMessage>
+
+<Bludgeon.deathMessage>{0} έχει ξυκολκοπηθεί μέχρι θανάτου.</Bludgeon.deathMessage>
+
+<Bullet.deathMessage>{0} έχει πυροβοληθεί μέχρι θανάτου.</Bullet.deathMessage>
+
+<Bomb.deathMessage>{0} πέθανε σε μία έκρηξη.</Bomb.deathMessage>
+
+<Flame.deathMessage>{0} κάηκε μέχρι θανάτου.</Flame.deathMessage>
+
+<Stun.deathMessage>{0} αναισθητοποιήθηκε μέχρι θανάτου.</Stun.deathMessage>
+
+<Bleeding.deathMessage>{0} πέθανε από αιμοραγία.</Bleeding.deathMessage>
+
+<Suffocation.deathMessage>{0} πέθανε από ασφυξία.</Suffocation.deathMessage>
+
+<Starvation.deathMessage>{0} πέθανε από λιμοκτονία.</Starvation.deathMessage>
+
+
+</LanguageData>

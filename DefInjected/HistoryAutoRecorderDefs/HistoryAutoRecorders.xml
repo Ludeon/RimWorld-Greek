@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Compatible vAlpha479 -->
+<LanguageData>
+
+  <WealthTotal.label>Αξία (συνολική)</WealthTotal.label>
+  <WealthItems.label>Αξία (αντικειμένων)</WealthItems.label>
+  <WealthBuildings.label>Αξία (κτιρίων)</WealthBuildings.label>
+  <FreeColonists.label>Ελεύθεροι άποικοι</FreeColonists.label>
+  <Prisoners.label>Κρατούμενοι</Prisoners.label>
+  <ColonistMood.label>Διάθεση κατοίκων</ColonistMood.label>
+
+  <!--
+<ColonistFear.label>Φόβος κατοίκων</ColonistFear.label>
+-->
+  
+</LanguageData>

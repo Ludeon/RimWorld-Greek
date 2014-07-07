@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha486 -->
+<LanguageData>
+
+<!--========= General ============-->	
+
+<Goto.reportString>Πήγαινε.</Goto.reportString>
+
+<Wait.reportString>Περίμενε.</Wait.reportString>
+
+<AttackStatic.reportString>Πυροβόλησε TargetA.</AttackStatic.reportString>
+
+    <AttackMelee.reportString>Πάλεψε TargetA.</AttackMelee.reportString>
+
+<UseVerbOnThing.reportString>Συζήτησε.</UseVerbOnThing.reportString>	
+
+<Equip.reportString>Εξοπλίσου TargetA.</Equip.reportString>
+
+<!--============= Misc ============-->
+
+<Wear.reportString>Φόρεσε TargetA.</Wear.reportString>
+
+<Strip.reportString>Βγάλε TargetA.</Strip.reportString>
+
+<Hunt.reportString>Κυνήγησε TargetA.</Hunt.reportString>
+
+<ManThing.reportString>Χειρήσου το μηχάνιμα.</ManThing.reportString>
+
+<EnterLongsleepPod.reportString>Μπες στην κάψουλα κρυογενούς ύπνου.</EnterLongsleepPod.reportString>
+
+<!--============ Fire ============-->
+
+<Ignite.reportString>Ανάφλεξε TargetA.</Ignite.reportString>
+
+<BeatFire.reportString>Σβήσε την φωτιά.</BeatFire.reportString>
+
+<ExtinguishSelf.reportString>Σβήσε την φωτιά που έπιασες.</ExtinguishSelf.reportString>
+
+<!--============ Need satisfaction ============-->
+
+<EatFood.reportString>Φάε από TargetA.</EatFood.reportString>
+
+<Sleep.reportString>Κοιμισμένος.</Sleep.reportString>
+
+<!--============= Item hauling ===============-->
+
+<HaulToCell.reportString>Ανάσυρε το TargetA στο έδαφος.</HaulToCell.reportString>
+
+<HaulToContainer.reportString>Ανάσυρε το TargetA.</HaulToContainer.reportString>	
+
+<!--============= Pawn hauling ===============-->
+
+<Rescue.reportString>Porte secours à TargetA.</Rescue.reportString>
+
+<Capture.reportString>Διάσωσε τον/η TargetA.</Capture.reportString>
+
+<Arrest.reportString>Σύλλαβε τον/η TargetA.</Arrest.reportString>
+
+<EscortPrisonerToBed.reportString>Συνόδευσε τον κρατούμενο TargetA στο δωμάτιό του.</EscortPrisonerToBed.reportString>
+
+<TakeWoundedPrisonerToBed.reportString>Συνόδευσε τον πληγωμένο κρατούμενο TargetA στο δωμάτιό του.</TakeWoundedPrisonerToBed.reportString>	
+
+<Kidnap.reportString>Απήγαγε τον/η TargetA.</Kidnap.reportString>
+
+
+
+
+
+
+
+<DeliverFood.reportString>Παράδωσε TargetB στο TargetA.</DeliverFood.reportString>
+
+<FeedPatient.reportString>Τάησε TargetB στο TargetA.</FeedPatient.reportString>
+
+<PlaceNoCostFrame.reportString>Φτιάξε TargetA.</PlaceNoCostFrame.reportString>
+
+<DoBill.reportString>Ετοίμασε τον λογαργιασμό TargetA.</DoBill.reportString>
+
+<Clean.reportString>Καθάρησε TargetA.</Clean.reportString>
+
+<Research.reportString>Ερεύνησε.</Research.reportString>
+
+<UseCommsConsole.reportString>Χρησιμοποίησε την κονσόλα επικοινωνίας.</UseCommsConsole.reportString>
+
+<Mine.reportString>Εξόρυξε TargetA.</Mine.reportString>
+
+<Repair.reportString>Επισκέυασε TargetA.</Repair.reportString>
+
+<FinishFrame.reportString>Κατασκέυασε TargetA.</FinishFrame.reportString>
+
+<Sow.reportString>Πριόνισε TargetA.</Sow.reportString>
+
+<Harvest.reportString>Θέρισε TargetA.</Harvest.reportString>
+
+<CutPlant.reportString>Κόψε TargetA.</CutPlant.reportString>
+
+<Deconstruct.reportString>Διέλυσε TargetA.</Deconstruct.reportString>
+
+<PrisonerFriendlyChat.reportString>Συζήτησε φιλικά με τον κρατούμενο TargetA.</PrisonerFriendlyChat.reportString>
+
+<PrisonerBeatingMild.reportString>Ξυλοκόπησε τον κρατούμενο TargetA.</PrisonerBeatingMild.reportString>
+
+<PrisonerBeatingVicious.reportString>Ξυλοκόπησε άγρια τον κρατούμενο TargetA.</PrisonerBeatingVicious.reportString>
+
+<PrisonerExecution.reportString>Εκτέλεσε τον κρατούμενο TargetA.</PrisonerExecution.reportString>
+
+</LanguageData>

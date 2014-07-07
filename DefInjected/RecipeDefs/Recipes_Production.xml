@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha486 -->
+<LanguageData>
+
+<MakeStoneBlocks.label>Φτιάξε πέτρινα τούβλα</MakeStoneBlocks.label>
+<MakeStoneBlocks.description>Μετατρέπει τα πέτρινα κομμάτια σε χρήσιμα πέτρινα τούβλα</MakeStoneBlocks.description>
+<MakeStoneBlocks.jobString>Φτιάχνει πέτρινα τούβλα.</MakeStoneBlocks.jobString>
+<!--
+<MakeWoodPlanks_Hand.label>Φτιάξε ξύλινες σανίδες</MakeWoodPlanks_Hand.label>
+<MakeWoodPlanks_Hand.description>Κόβει 10 κούτσουρα σε 25 ξύλινες σανίδες με το χέρι. Αρκετά αργό.</MakeWoodPlanks_Hand.description>
+<MakeWoodPlanks_Hand.jobString>Φτιάχνει ξύλινες σανίδες.</MakeWoodPlanks_Hand.jobString>
+<MakeWoodPlanks_Electric.label>Φτιάξε ξύλινες σανίδες</MakeWoodPlanks_Electric.label>
+<MakeWoodPlanks_Electric.description>Κόβει 10 κούτσουρα σε 25 ξύλινες σανίδες.</MakeWoodPlanks_Electric.description>
+<MakeWoodPlanks_Electric.jobString>Φτιάχνει ξύλινες σανίδες.</MakeWoodPlanks_Electric.jobString>
+-->
+<ExtractMetalFromSlag.label>Απέσπασε το μέταλο από την σκουριά</ExtractMetalFromSlag.label>
+<ExtractMetalFromSlag.description>Χρησιμοποίησε υψηλές θερμοκρασίες και ισχυρούς ηλεκτρομαγνίτες για να διαχωρίσεις το μέταλο από τα σκουριασμένα ερείπια.</ExtractMetalFromSlag.description>
+<ExtractMetalFromSlag.jobString>Αποσπά μέταλο.</ExtractMetalFromSlag.jobString>	
+
+</LanguageData>

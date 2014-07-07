@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha479 -->
+<LanguageData>
+
+<Root.Label>Ρίζα</Root.Label>
+
+<Resources.Label>Πόροι</Resources.Label>
+<Manufactured.Label>Κατασκευασμένα προϊόντα</Manufactured.Label>
+<ResourcesRaw.Label>Πρώτες ύλες</ResourcesRaw.Label>
+
+<Foods.Label>Φαγώσιμα</Foods.Label>
+<FoodMeals.Label>Γεύματα</FoodMeals.Label>
+<FoodRaw.Label>Ωμή τροφή</FoodRaw.Label>
+<MeatRaw.Label>Ωμό κρέας</MeatRaw.Label>
+<PlantFoodRaw.Label>Χορτοφάγος</PlantFoodRaw.Label>
+
+<Items.Label>Αντικείμενα</Items.Label>
+<Weapons.Label>Όπλα</Weapons.Label>
+
+<Apparel.Label>Ενδύματα</Apparel.Label>
+
+<Chunks.Label>Κομμάτια</Chunks.Label>
+
+<Corpses.Label>Πτώματα</Corpses.Label>
+<CorpsesHumanoid.Label>Ανθρώπινα πτώματα</CorpsesHumanoid.Label>
+<CorpsesAnimal.Label>Πτώματα ζώων</CorpsesAnimal.Label>
+<CorpsesMechanoid.Label>Πτώματα μηχανικών πλασμάτων</CorpsesMechanoid.Label>
+
+</LanguageData>
