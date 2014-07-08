@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha479 -->
+<LanguageData>
+
+  <!-- ============================ Mechanoids ========================== -->
+  
+<!-- Centipede -->
+    <Mechanoid_Centipede.label>Σαρανταποδαρούσα</Mechanoid_Centipede.label>
+    <Mechanoid_Centipede.description>Ισχυρό μηχανικό πλάσμα που γλιστρούν σε δεκάδες πόδια. Η σκληρή τους άμυνα και η πολεμική τους ισχύς τους κάνει αποτελεσματικούς ενάντια σε στάσιμους στόχους. Είναι κάπως ευάλωτες ενάντια σε κινούμενους εχθρούς.</Mechanoid_Centipede.description>
+  
+<!-- Scyther -->
+    <Mechanoid_Scyther.label>Εντομοειδές</Mechanoid_Scyther.label>
+    <Mechanoid_Scyther.description>Γρήγορο, μικρό πολεμικό μηχανικό πλάσμα. Συνήθως έχουν ένα κύριο όπλο μακρινής εμβέλειας και τα σώματά τους είναι καλυμένα με πολλαπλές αιχμηρές προεξοχές που τους καθιστούν θανάσιμους στις μάχες σώμα με σώμα. Δεν χρησιμοποιούν καλύψεις. </Mechanoid_Scyther.description>
+  
+</LanguageData>

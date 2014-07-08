@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha4f -->
+<LanguageData>
+  
+
+<!--=============== Currency ====================-->
+
+<Silver.label>Ασήμι</Silver.label>
+<Silver.description>Χρησιμοποιείται κυρίως για συναλαγές.</Silver.description>
+
+
+<!--=============== Construction ====================-->
+
+<Metal.label>Μέταλο</Metal.label>
+<Metal.description>Για την κατασκευή αντικειμένων.<Metal.description>
+
+<StoneBlocks.label>Πέτρινα τούβλα</StoneBlocks.label>
+<StoneBlocks.description>Για την κατασκευή αντικειμένων.</StoneBlocks.description>
+
+<WoodLog.label>Ξύλο</WoodLog.label>
+<WoodLog.description>Για την κατασκευή αντικειμένων. Μπορούν να μετατραπούν σε ξύλινες σανίδες</WoodLog.description>
+
+<!--
+<WoodPlank.label>Ξύλινες σανίδες</WoodPlank.label>
+<WoodPlank.description>Για την κατασκευή αντικειμένων.</WoodPlank.description>
+
+
+<!--=============== Raw foods ====================-->
+
+<RawPotatoes.label>Πατάτες</RawPotatoes.label>	
+<RawPotatoes.description>Άψητες πατάτες.</RawPotatoes.description>
+
+<RawBerries.label>Μούρα</RawBerries.label>
+<RawBerries.description>Ανάμεικτα μούρα. Νόστιμα ακόμη και ωμά.</RawBerries.description>
+
+<RawAgave.label>Φρούτα αγαύης</RawAgave.label>	
+<RawAgave.description>Φρούτα από δεντρο αγαύης.</RawAgave.description>	
+
+
+<!--=============== Unused resources ====================-->
+
+<Uranium.label>Ουράνιο</Uranium.label>
+<Uranium.description>Τροφοδοτεί αντιδραστήρες.</Uranium.description>
+
+<Medicine.label>Φάρμακα</Medicine.label>
+<Medicine.description>Ιατρικά πράγματα που χρησημοποιούνται για να γιατρεύσουν τους πληγωμένους.</Medicine.description>
+
+<Shells.label>Οβίδες</Shells.label>
+<Shells.description>Εκτοξεύονται από τα κανόνια.</Shells.description>
+
+<Missiles.label>Πύραυλοι</Missiles.label>
+<Missiles.description>Εκτοξέυονται από εκτοξευτές πυραύλων.</Missiles.description>	
+
+</LanguageData>

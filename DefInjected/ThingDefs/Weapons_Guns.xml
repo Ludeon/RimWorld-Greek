@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha486 -->
+<LanguageData>
+
+<!-- ============================================================== -->
+
+<Bullet_Pistol.label>Σφαίρες πιστολιού</Bullet_Pistol.label>
+<Gun_Pistol.label>Πιστόλι</Gun_Pistol.label>
+<Gun_Pistol.description>Μικρή εμβέλεια και αδύναμο αλλά γρήγορο.</Gun_Pistol.description>
+
+<!-- ============================================================== -->
+
+<Bullet_PumpShotgun.label>Σφαίρες δικάνου</Bullet_PumpShotgun.label>
+<Gun_PumpShotgun.label>Δίκανο</Gun_PumpShotgun.label>
+<Gun_PumpShotgun.description>Φονικό όμως μικρής εμβέλειας.</Gun_PumpShotgun.description>
+
+<!-- ============================================================== -->
+
+<Bullet_LeeEnfield.label>Σφαίρες τουφεκιού</Bullet_LeeEnfield.label>
+<Gun_LeeEnfield.label>LeeEnfield</Gun_LeeEnfield.label>
+<Gun_LeeEnfield.description>Καλή εμβέλεια και δύναμη όμως είναι αργό.</Gun_LeeEnfield.description>
+
+<!-- ============================================== -->
+
+<Bullet_M16Rifle.label>Σφαίρες M16</Bullet_M16Rifle.label>
+<Gun_M16Rifle.label>M-16</Gun_M16Rifle.label>
+<Gun_M16Rifle.description>Τρεις συνεχόμενες βολές. Καλή εμβέλεια, μικρή δύναμη και γρήγορο.</Gun_M16Rifle.description>
+
+<!-- ============================================== -->
+
+<Bullet_M24Rifle.label>Σφαίρες M24</Bullet_M24Rifle.label>
+<Gun_M24Rifle.label>M-24</Gun_M24Rifle.label>
+<Gun_M24Rifle.description>Όπλο ελέυθερης βολής. Μεγάλη εμβέλεια, πολύ καλός στόχος και δύναμη.</Gun_M24Rifle.description>
+
+<!-- ============================================== -->
+
+<Bullet_Uzi.label>Σφαίρες Uzi</Bullet_Uzi.label>
+<Gun_Uzi.label>Uzi</Gun_Uzi.label>
+<Gun_Uzi.description>Ένα μικρό πολυβόλο όπλο. Μικρή εμβέλεια, μικρή δύναμη αλλά γρήγορο.</Gun_Uzi.description>
+
+<!-- ============================================== -->
+
+<Bullet_T9IncendiaryLauncher.label>Εμπρειστική βολή T-9</Bullet_T9IncendiaryLauncher.label>
+<Gun_T9IncendiaryLauncher.label>Εκτοξευτήρας T-9</Gun_T9IncendiaryLauncher.label>
+<Gun_T9IncendiaryLauncher.description>Εκτοξεύει εμπρειστικές βολές.</Gun_T9IncendiaryLauncher.description>
+
+<!-- ============================================== -->
+
+<Bullet_L15LMG.label>Σφαίρες L-15</Bullet_L15LMG.label>
+<Gun_L15LMG.label>Ελαφρύ πολυβόλο L-15</Gun_L15LMG.label>
+<Gun_L15LMG.description>Ένα ελαφρύ πολυβόλο.</Gun_L15LMG.description>
+
+<!-- ============================================== -->
+
+<Bullet_R4ChargeRifle.label>Ενεργειακά βλήματα R-4</Bullet_R4ChargeRifle.label>
+<Gun_R4ChargeRifle.label>Ενεργειακό όπλο R-4</Gun_R4ChargeRifle.label>
+<Gun_R4ChargeRifle.description>Εκτοξεύει ενεργειακά βλήματα.</Gun_R4ChargeRifle.description>
+
+<!-- ============================================== -->
+
+<Bullet_TurretImprovised.label>Σφαίρες αυτοσχέδιου πυργίσκου</Bullet_TurretImprovised.label>
+<Gun_TurretImprovised.label>Αυτοσχαίδιος πυργίσκος</Gun_TurretImprovised.label>
+<Gun_TurretImprovised.description>Αυτόματος πυργίσκος με ένα απλό όπλο.</Gun_TurretImprovised.description>
+
+<!-- ============================================== -->
+
+<Bullet_Minigun.label>Σφαίρες Minigun</Bullet_Minigun.label>
+<Gun_Minigun.label>Minigun</Gun_Minigun.label>
+<Gun_Minigun.description>Ένα όπλο με πολλαπλούς κυλίνδρους και τρομερή ταχύτητα. Μηχανικά φτιαγμένο.</Gun_Minigun.description>
+
+<!-- ============================================== -->
+
+<Bullet_ChargeBlasterHeavy.label>Ενεργειακές σφαίρες για Blaster</Bullet_ChargeBlasterHeavy.label>
+<Gun_ChargeBlasterHeavy.label>Βαρύ ενεργειακό όπλο Blaster</Gun_ChargeBlasterHeavy.label>
+<Gun_ChargeBlasterHeavy.description>Όπλο που καταπνίγει με βλήματα μία περιοχή. Μηχανικά φτιαγμένο.</Gun_ChargeBlasterHeavy.description>
+
+<!-- ============================================== -->	
+
+<Bullet_InfernoCannon.label>Οβίδα κανονιού κολάσεως</Bullet_InfernoCannon.label>
+<Gun_InfernoCannon.label>Κανόνι κολάσεως</Gun_InfernoCannon.label>
+<Gun_InfernoCannon.description>Ένα χειροκίνητο μικρό κανόνι βομβαρδισμού εμπρειστικών βομβών. Μηχανικά φτιαγμένο.</Gun_InfernoCannon.description>
+
+<!-- ================= Mechanoid charge lance ================= -->
+
+<Bullet_ChargeLance.label>Ενεργειακές κοφτερές σφαίρες</Bullet_ChargeLance.label>
+<Gun_ChargeLance.label>Ενεργειακός "τρυπητής"</Gun_ChargeLance.label>
+<Gun_ChargeLance.description>Ενεργειακών βολών, βοηθητικά στηριζόμενο όπλο. Εκτοξεύει μια απλή ενεργειακή βολή σε τεράστια ταχύτητα</Gun_ChargeLance.description>	
+
+
+</LanguageData>

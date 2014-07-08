@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha4f -->
+<LanguageData>
+
+<SunLamp.label>Ηλιακή Λάμπα</SunLamp.label>
+<Sunlamp.description>Φωτίζει την γύρω περιοχή αρκετά δυνατά ώστε να μεγαλώνουν οι καλλιέργειες.</Sunlamp.description>
+
+<OrbitalTradeBeacon.label>Φάρος εμπορίου πλανητικής τροχιάς</OrbitalTradeBeacon.label>
+<OrbitalTradeBeacon.description>Απαιτήται για εμπόριο πλανητικής τροχιάς.Μπορείς να πουλήσεις αγαθά μόνο αν αυτά βρίσκονται σε έναν τέτοιο φάρο και δεν πρέπει να βρίσκεται κάτω από οροφή. Οι τροχιακοί έμποροι θα στέλνουν επίσης τα αγαθά τους κοντά του.</OrbitalTradeBeacon.description>
+
+<ResearchBench.label>Πάγκος έρευνας</ResearchBench.label>
+<ResearchBench.description>Οι ερευνητές δουλεύουν εδώ για να εφεύρνουν καινούργια πράγματα.</ResearchBench.description>
+
+<CommsConsole.label>Κονσόλα επικοινωνίας</CommsConsole.label>
+<CommsConsole.description>Επικοινωνήστε με διαστημόπλοια που βρίσκονται σε τροχιά γύρω από τον πλανήτη για να διαπραγματευτείτε και να ανταλλάξετε αγαθά.</CommsConsole.description>
+
+<Grave.label>Τάφος</Grave.label>
+<Grave.description>Θάψτε τους νεκρούς για να τους δώσετε ένα τελευταίο και αξιοπρεπές μέρος για τον τελευταίο και μεγάλο ύπνο τους.</Grave.description>
+
+<FertilizerPump.label>Αγωγός λιπάσματος</FertilizerPump.label>
+<FertilizerPump.description>Μετατρέπει αργά την περιοχή γύρο του σε καλλιεργήσιμο έδαφος.</FertilizerPump.description>
+
+</LanguageData>

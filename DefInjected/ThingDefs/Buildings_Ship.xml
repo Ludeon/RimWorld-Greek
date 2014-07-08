@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha479 -->
+<LanguageData>
+
+  <!-- Beam -->
+
+    <Ship_Beam.label>Βασικό μέρος διαστημοπλοίου</Ship_Beam.label>
+    <Ship_Beam.description>Μία δομική "δοκός" γύρο από την οποία θα μπούν τα υπόλοιπα μέλη του διαστημοπλοίου.</Ship_Beam.description>
+
+  <!-- Longsleep pod -->
+
+    <Ship_LongsleepPod.label>Κάψουλα κρυογενούς ύπνου</Ship_LongsleepPod.label>
+    <Ship_LongsleepPod.description>Μία κάψουλα κρυογενούς ύπνου ενισχυμένη ενάντια στους κίνδυνους του διαστήματος. Ικανή να διατηρήσει έναν άνθρωππο σε κρυογενές ύπνο για αιώνες και ικανό να επιζήσει είσοδο σε ατμόσφαιρα.</Ship_LongsleepPod.description>
+
+  <!-- Computer core -->
+  
+    <Ship_ComputerCore.label>Πυρήνας υπολογιστή διαστημοπλοίου</Ship_ComputerCore.label>
+    <Ship_ComputerCore.description>Ένας υπολογιστής που μπορεί να φιλοξενήσει τεχνιτή νοημοσίνη για την καθοδήγηση του σκάφους στο διάστημα.</Ship_ComputerCore.description>
+  
+  <!-- Reactor -->
+
+    <Ship_Reactor.label>Αντιδραστήρας διαστημοπλοίου</Ship_Reactor.label>
+    <Ship_Reactor.description>Τροφοδοτεί με ενέργεια ένα σκάφος για το μακρινό του ταξίδι στο διάστημα.</Ship_Reactor.description>
+
+  <!-- Engine -->
+
+    <Ship_Engine.label>Προωθητής διαστημοπλοίου</Ship_Engine.label>
+    <Ship_Engine.description>Ένας προωθητής που μπορεί να οθήσει το σκάφος σε τροχιά γύρο από πλανήτες αλλά και σε διαστρικές τροχιές.</Ship_Engine.description>
+
+</LanguageData>

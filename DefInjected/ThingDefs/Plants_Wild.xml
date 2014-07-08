@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha4f -->
+<LanguageData>
+
+  <!--=========================== Wild - clustering bushes (some harvestable) ==============================-->
+
+<PlantAgave.label>Αγαύη</PlantAgave.label>
+<PlantAgave.description>Ένα φυτό με μεγάλα φύλα που βρίσκεται στην έρημο και είναι φαγώσιμο.</PlantAgave.description>
+
+<PlantRaspberry.label>Βατομουριά</PlantRaspberry.label>
+<PlantRaspberry.description>Θαμνόδες φυτό με υπέροχα κόκκινα μούρα.</PlantRaspberry.description>
+
+<PlantBush.label>Θάμνος</PlantBush.label>
+<PlantBush.description>Ένας μικρός θάμνος. Δεν μιλάει συνήθως</PlantBush.description>
+
+  <!--======================= Wild plants - carpets ========================-->
+
+<PlantPovertyGrass.label>Φτωχό χωρτάρι</PlantPovertyGrass.label>
+<PlantPovertyGrass.description>Φυτρώνει παντού και καθιστούν το έδαφος ελαφρώς θρεπτικό.</PlantPovertyGrass.description>
+
+  <PlantDandelion.label>Μαργαρίτες</PlantDandelion.label>
+<PlantDandelion.description>Ένα συνηθισμένο λουλουδάκι. Αν και θεωρείται συχνά χωρταρικό, είναι ευχάριστο να το κοιτάς.</PlantDandelion.description>
+
+
+  <!--============================ Wild - Trees ============================-->
+
+<PlantTreeOak.label>Βελανιδιά</PlantTreeOak.label>
+<PlantTreeOak.description>Ένα δένδρο.</PlantTreeOak.description>
+
+
+  <!--============================ Wild - Cacti ============================-->
+
+  <PlantSaguaroCactus.label>Κάκτος Saguaro</PlantSaguaroCactus.label>
+<PlantSaguaroCactus.description>Μεγάλος κάκτος που συναντάται σε ξηρά κλίματα.</PlantSaguaroCactus.description>
+
+<PlantPincushionCactus.label>Κάκτος Pincushion</PlantPincushionCactus.label>
+<PlantPincushionCactus.description>Ένα είδος μικρού κάκτου.</PlantPincushionCactus.description>
+
+</LanguageData>

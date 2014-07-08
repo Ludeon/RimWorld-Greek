@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha479 -->
+<LanguageData>
+
+  <!-- ============================ Animals ========================== -->
+
+    <Muffalo.label>Βοοειδές</Muffalo.label>
+    <Muffalo.description>Ένα ζώο που είναι απόγωνος των αγελάδων και είναι προσαρμοσμένος σε εξωτικό περιβάλλον. Είναι γαλήνιος εκτώς και αν ενοχληθεί</Muffalo.description>
+
+    <Squirrel.label>Σκίουρος</Squirrel.label>
+    <Squirrel.description>Ένα σκληρό, ευέλικτο είδος τρωκτικού που ακολουθεί το ανθρώπινο γένος όπου και αν εξαπλωθεί.</Squirrel.description>
+
+    <Boomrat.label>Μεγάλο τρωκτικό</Boomrat.label>
+    <Boomrat.description>Είτε ως ένα σκόπιμο όπλο, είτε ως ένας ασυνήθιστος αμυντικός μηχανισμός, αυτά τα πλάσματα εκρήγνονται όταν πεθάνουν.</Boomrat.description>
+
+</LanguageData>
