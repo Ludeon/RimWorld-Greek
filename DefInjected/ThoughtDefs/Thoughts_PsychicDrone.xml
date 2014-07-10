@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha479 -->
+<LanguageData>
+
+<!-- Psychic drone -->
+   <PsychicDroneLow.label>Ψυχικό δρόμενο (ελάχιστο)</PsychicDroneLow.label>
+<PsychicDroneLow.description>Νιώθω κάτι να με γαργαλάει το πίσω μέρος του μυαλού μου. Μια φωνή, ψιθυρίζει. Μπορώ να καταλάβω μόνο λίγες λέξεις, όμως δεν μου αρέσουν.</PsychicDroneLow.description>
+
+<PsychicDroneMedium.label>Ψυχικό δρόμενο (κανονικό)</PsychicDroneMedium.label>
+<PsychicDroneMedium.description>Νιώθω οτι κάποιος με παρακολουθεί και μου μιλάει. Η φωνή αλλάζει αλλά όχι το μύνημα. Μου λέει ότι πρέπει να βλάψω ανθρώπους. Κάντε το να φύγει!</PsychicDroneMedium.description>
+
+<PsychicDroneHigh.label>Ψυχικό δρόμενο (Υψηλό)</PsychicDroneHigh.label>
+<PsychicDroneHigh.description>Η φωνή ειναι δυσβάσταχτα δυνατή. Είναι δύσκολο να συγκεντρωθείς. Βρίσκω τον εαυτό μου να μιλάει με αυτό, να του φωνάζει. Όμως αυτό συνεχίζει να ουρλιάζει!</PsychicDroneHigh.description>
+
+<PsychicDroneExtreme.label>Ψυχικό δρόμενο (Ακραίο)</PsychicDroneExtreme.label>
+<PsychicDroneExtreme.description>Η καρδιά μου σφυροκοπεί και ιδρώνω. Το μόνο που μπορώ να σκεφτώ είναι θάνατος και βάσανα. Είναι και όλοι οι εχθροί γύρο μου! Είναι ο εφιάλτης μου, ο εφιάλτης μου, ο εφιάλτης μου...</PsychicDroneExtreme.description>
+ 
+
+</LanguageData>
