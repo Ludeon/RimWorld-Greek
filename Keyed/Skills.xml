@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Level>Επίπεδο</Level>
+  <ProgressToNextLevel>Πρόοδος προς το επόμενο επίπεδο</ProgressToNextLevel>
+  <Experience>Εμπειρία</Experience>
+  <Passion>Πάθος</Passion>
+  <PassionNone>κανένα (μαθαίνει x{0})</PassionNone>
+  <PassionMinor>ενδιαφέρεται (μαθαίνει x{0}, κέρδος ψυχαγωγίας)</PassionMinor>
+  <PassionMajor>φλογερό (μαθαίνει x{0}, κέρδος ψυχαγωγίας 2x)</PassionMajor>
+  <LearnedMaxToday>Έμαθε το μέγιστο σήμερα ({0}/{1}, επιπλέον μάθηση πολλαπλασιάζεται επί {2})</LearnedMaxToday>
+  <EffectsAtLevel>Επιπτώσεις στο επίπεδο {0}</EffectsAtLevel>
+  <SkillMax>ΜΕΓΙΣΤΟ</SkillMax>
+
+  <Skill0>Μόλις που το άκουσε</Skill0>
+  <Skill1>Αρχάριος</Skill1>
+  <Skill2>Πρωτάρης</Skill2>
+  <Skill3>Βασική εξοικείωση</Skill3>
+  <Skill4>Ερασιτέχνης</Skill4>
+  <Skill5>Έμπειρος ερασιτέχνης</Skill5>
+  <Skill6>Έμπειρος</Skill6>
+  <Skill7>Αρκετά έμπειρος</Skill7>
+  <Skill8>Επαγγελματίας</Skill8>
+  <Skill9>Έμπειρος επαγγελματίας</Skill9>
+  <Skill10>Ειδικός</Skill10>
+  <Skill11>Έμπειρος ειδικός</Skill11>
+  <Skill12>Πολύ έμπειρος ειδικός</Skill12>
+  <Skill13>Δάσκαλος</Skill13>
+  <Skill14>Έμπειρος δάσκαλος</Skill14>
+  <Skill15>Δάσκαλος πλανητικών διαστάσεων</Skill15>
+  <Skill16>Δάσκαλος διαστάσεων συστήματος</Skill16>
+  <Skill17>Σεβαστός δάσκαλος</Skill17>
+  <Skill18>Οραματιστής</Skill18>
+  <Skill19>Θρυλικός</Skill19>
+  <Skill20>Θεϊκός</Skill20>
+  
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <LetterDay>η</LetterDay>
+  <LetterHour>ω</LetterHour>
+  <LetterMinute>λ</LetterMinute>
+  <LetterSecond>δ</LetterSecond>
+  
+  <DaysLower>ημέρες</DaysLower>
+  <SecondsLower>δευτερόλεπτα</SecondsLower>
+
+  <SeasonSpring>άνοιξη</SeasonSpring>
+  <SeasonSummer>καλοκαίρι</SeasonSummer>
+  <SeasonFall>φθινόπωρο</SeasonFall>
+  <SeasonWinter>χειμώνας</SeasonWinter>
+
+  <Born>Γεννήθηκε: {0}</Born>
+  <AgeChronological>Χρονολογική ηλικία: {0} χρόνια, {1} εποχές, {2} ημέρες</AgeChronological>
+  <AgeBiological>Βιολογική ηλικία: {0} χρόνια, {1} εποχές, {2} ημέρες</AgeBiological>
+
+  <!-- Date periods -->
+	<Period1Year>1 χρόνο</Period1Year>
+  <PeriodYears>{0} χρόνια</PeriodYears>
+  <Period1Season>1 εποχή</Period1Season>
+  <PeriodSeasons>{0} εποχές</PeriodSeasons>
+  <Period1Day>1 ημέρα</Period1Day>
+  <PeriodDays>{0} ημέρες΄</PeriodDays>
+  <Period1Hour>1 ώρα</Period1Hour>
+  <PeriodHours>{0} ώρες</PeriodHours>
+
+  <!-- Misc -->
+  <Started>Ξεκίνησε</Started>
+  <Lasted>Διήρκησε</Lasted>
+  <OccurredTimeAgo>συνέβη πριν από {0}</OccurredTimeAgo>
+  
+</LanguageData>
