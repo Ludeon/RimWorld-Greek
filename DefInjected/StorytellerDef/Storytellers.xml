@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cassandra.label>Η κλασική Cassandra</Cassandra.label>
+  <Cassandra.description>Η Cassandra δημιουργεί γεγονότα σε έναν σταθερά αυξανόμενο βαθμό με προκλήσεις και εντάσεις.</Cassandra.description>
+
+  <Phoebe.label>Φιλική Phoebe</Phoebe.label>
+  <Phoebe.description>Η Phoebe δεν θέλει να βλάψει κανέναν. Θέλει απλά μία χαλαρωτική ιστορία με ανθρώπους που χτίζουν μία αποικία. Οπότε είναι πολύ φιλική</Phoebe.description>
+
+  <Randy.label>Τυχαίος Randy</Randy.label>
+  <Randy.description>Ο Randy δεν ακολουθεί κανόνες. Θα δημιουργεί τυχαία γεγονότα, και δεν τον νοιάζει αν θα πρόκειται για ιστορία θριάμβου ή απόλυτης απελπισίας. Γι'αυτόν είναι ένα δράμα.</Randy.description>
+
+  <Tutor.label>Tutor Hidden</Tutor.label>
+
+
+</LanguageData>

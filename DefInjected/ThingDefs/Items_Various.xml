@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--<DoorKey.label>Κλειδί</DoorKey.label>-->
+  <!--<DoorKey.description>Κάποιες πόρτες θα ανοίξουν για όποιον έχει αυτό το κλειδί.</DoorKey.description>-->
+
+  <!--<Puddle_Fuel.label>Λακούβα καυσίμων</Puddle_Fuel.label>-->
+  <!--<Puddle_Fuel.description>Καίγεται στο έδαφος.</Puddle_Fuel.description>-->
+
+  <!--<OilCan.label>Βαρέλι πετρελαίου</OilCan.label>-->
+  <!--<OilCan.description>Εκρήγνεται όταν καταστρέφεται.</OilCan.description>-->
+
+  <!--<PressurizedCanister.label>Συμπιεσμένη σφαίρα</PressurizedCanister.label>-->
+  <!--<PressurizedCanister.description>Πετάγεται και εκρήγνεται όταν καταστρέφεται.</PressurizedCanister.description>-->
+
+  <!--<ElectricalBox.label>Ηλεκτρικός πίνακας</ElectricalBox.label>-->
+  <!--<ElectricalBox.description>Εκρήγνεται και αναφλέγεται όπως και η περιοχή γύρω του, όταν καταστρέφεται.</ElectricalBox.description>-->
+
+  <!--<DropPodIncoming.label>Κάψουλα προσγείωσης (εισερχόμενη)</DropPodIncoming.label>-->
+
+  <!--<DropPod.label>Κάψουλα προσγείωσης</DropPod.label>-->
+
+  <!--<Fire.label>Φωτιά</Fire.label>-->
+
+  <!--<Spark.label>Σπίθα</Spark.label>-->
+
+</LanguageData>

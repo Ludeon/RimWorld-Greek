@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!--=========== Main menu ==========-->
@@ -42,17 +42,18 @@
   <WorldSeed>Seed</WorldSeed>
   <RandomizeSeed>Τυχαίο seed</RandomizeSeed>
   <PlanetCoverageTip>Ο πλανήτης έχει πάντα την ίδια διάμετρο, αλλά μιας και είναι πολύ μεγαλύτερος από ότι χρειάζεται για το παιχνίδι, δεν παράγουμε ολόκληρη την επιφάνεια γιατί μπορεί να καθυστερήσει πολύ. Αυτό είναι το ποσοστό της επιφάνειας που θέλεις να παραχθεί.</PlanetCoverageTip>
+  <WorldFactionsTab>Factions</WorldFactionsTab>
 
   <!--=========== Select world ===================-->
   <SelectWorld>Επιλογή κόσμου</SelectWorld>
   <WorldChooseButton>Επιλογή</WorldChooseButton>
   <NoWorldsFilesFound>Δεν βρέθηκαν αρχεία κόσμου. Δημιούργησε ένα κόσμο πρώτα.</NoWorldsFilesFound>
-  
+
   <!--=========== Version info ==========-->
   <BuildNowAvailable>Η έκδοση {0} είναι πλέον διαθέσιμη. Έλεγξε το ludeon.com για περισσότερες πληροφορίες.</BuildNowAvailable>
-	<BuildUpToDate>Αυτή είναι η πιο πρόσφατη έκδοσή.</BuildUpToDate>
-	<ErrorGettingVersionInfo>Σφάλμα κατά την λήψη πληροφοριών έκδοσης: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Φόρτωση πληροφοριών έκδοσης...</LoadingVersionInfo>
+  <BuildUpToDate>Αυτή είναι η πιο πρόσφατη έκδοσή.</BuildUpToDate>
+  <ErrorGettingVersionInfo>Σφάλμα κατά την λήψη πληροφοριών έκδοσης: {0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>Φόρτωση πληροφοριών έκδοσης...</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
   <GenerateWorld>Παραγωγή κόσμου</GenerateWorld>
@@ -78,14 +79,14 @@
   <ModNotMadeForThisVersion>Αυτό το mod δεν δημιουργήθηκε για αυτή την έκδοση του RimWorld, και πιθανόν δεν θα λειτουργεί σωστά.</ModNotMadeForThisVersion>
   <MessageModNeedsWellFormattedTargetVersion>Το mod χρειάζεται μία σωστά δομημένο έκδοση στόχου στο About.xml. Σαν αυτό: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
   <DragToReorder>Σύρε για αναταξινόμηση</DragToReorder>
-  
+
   <!--=========== Select scenario =============-->
   <ChooseScenario>Επιλογή σεναρίου</ChooseScenario>
   <ScenariosCustom>Προσαρμοσμένο</ScenariosCustom>
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
   <ScenarioEditor>Επεξεργαστής σεναρίου</ScenarioEditor>
   <Delete>Διαγραφή</Delete>
-  
+
   <!--============ Scenario editor ===============-->
   <Seed>seed</Seed>
   <Load>Φόρτωση</Load>
@@ -98,7 +99,7 @@
   <Incompatible>Ασύμβατο</Incompatible>
   <TooMany>Πάρα πολλά (μέγιστο {0}): </TooMany>
   <CanBeUpdatedOnWorkshop>Μπορέι να αναβαθμιστεί στο Workshop, αφού είσαι ο δημιουργός.</CanBeUpdatedOnWorkshop>
-  
+
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Επέλεξε ΤΝ αφηγητή</ChooseAIStoryteller>
   <HowStorytellersWork>Η ΤΝ αφηγητή δημιουργεί γεγονότα όπως επιδρομές πειρατών, πτώσεις πόρων ή επιθέσεις ζώων. Οι επιλογές τους θα επηρεάσουν την ιστορία της αποικίας σου. Μπορείς να αλλάξεις αυτές τις ρυθμίσεις ανά πάσα στιγμή.</HowStorytellersWork>
@@ -114,27 +115,37 @@
   <BiomeNotImplemented>Το βιοσύστημα δεν έχει υλοποιηθεί</BiomeNotImplemented>
   <CannotLandImpassableMountains>Δεν μπορείς να προσεδαφιστείς σε αδιάβατα βουνά.</CannotLandImpassableMountains>
   <BaseAlreadyThere>Οι {0} έχουν ήδη βάση εκεί.</BaseAlreadyThere>
+  <YourBaseAlreadyThere>You already have a base there.</YourBaseAlreadyThere>
+  <TileOccupied>This tile is occupied.</TileOccupied>
+  <FactionBaseAdjacent>Settlements cannot be directly adjacent to each other.</FactionBaseAdjacent>
   <Biome>Βιοσύστημα</Biome>
   <Terrain>Έδαφος</Terrain>
+  <Road>Road</Road>
+  <River>River</River>
   <Elevation>Υψόμετρο</Elevation>
   <Fertility>Γονιμότητα</Fertility>
   <AvgTemp>Μέση θερμοκρασία</AvgTemp>
   <AvgSummerTemp>Θερινή θερμοκρασία</AvgSummerTemp>
-	<AvgWinterTemp>Χειμερινή θερμοκρασία</AvgWinterTemp>
-	<Rainfall>Βροχόπτωση</Rainfall>
+  <AvgWinterTemp>Χειμερινή θερμοκρασία</AvgWinterTemp>
+  <Rainfall>Βροχόπτωση</Rainfall>
+  <SpecialFeatures>Special features</SpecialFeatures>
   <HasCoast0>Βόρεια ακτή</HasCoast0>
   <HasCoast1>Ανατολική ακτή</HasCoast1>
   <HasCoast2>Νότια ακτή</HasCoast2>
   <HasCoast3>Δυτική ακτή</HasCoast3>
+  <HasCaves>caves</HasCaves>
   <FactionBase>Βάση φατρίας</FactionBase>
   <StoneTypesHere>Τύπος πετρώματος</StoneTypesHere>
   <TimeZone>Ζώνη ώρας</TimeZone>
-	<MovementTimeNow>Τρέχων χρόνος κίνησης</MovementTimeNow>
-	<MovementTimeSummer>Θερινός χρόνος κίνησης</MovementTimeSummer>
-	<MovementTimeWinter>Χειμερινός χρόνος κίνησης</MovementTimeWinter>
+  <MovementTimeNow>Τρέχων χρόνος κίνησης</MovementTimeNow>
+  <MovementTimeSummer>Θερινός χρόνος κίνησης</MovementTimeSummer>
+  <MovementTimeWinter>Χειμερινός χρόνος κίνησης</MovementTimeWinter>
+  <AnimalsCanGrazeNow>Animals can graze now</AnimalsCanGrazeNow>
+  <AverageDiseaseFrequency>Average disease frequency</AverageDiseaseFrequency>
+  <PerYear>per year</PerYear>
 
 
-	<!--=========== Character chooser ==========-->
+  <!--=========== Character chooser ==========-->
   <CreateCharacters>Δημιουργία χαρακτήρων</CreateCharacters>
   <FirstNameDesc>Το μικρό όνομα του χαρακτήρα.\n\nΠροβάλλεται μόνο σε συγκεκριμένα μενού.</FirstNameDesc>
   <ShortIdentifierDesc>Το υποκοριστικό του χαρακτήρα.\n\nΠροβάλλεται συνεχώς. Μπορεί να είναι το μικρό όνομα ή το επίθετο, ή ένα ψευδώνυμο.</ShortIdentifierDesc>
@@ -154,7 +165,10 @@
   <Pain>Πόνος</Pain>
   <Health>Υγεία</Health>
   <Relations>Σχέσεις</Relations>
-  
+  <TeamSkills>Team skills</TeamSkills>
+  <StartingPawnsSelected>Selected</StartingPawnsSelected>
+  <StartingPawnsLeftBehind>Left behind</StartingPawnsLeftBehind>
+
   <!--=========== Misc ==========-->
   <Start>Εκκίνηση</Start>
   <Advanced>Για προχωρημένους</Advanced>
@@ -165,9 +179,10 @@
   <EveryoneNeedsValidName>Κάθε άτομο χρειάζεται ένα έγκυρο όνομα.</EveryoneNeedsValidName>
   <Quit>Έξοδος</Quit>
   <Ignore>Αγνόηση</Ignore>
-  
+
   <!--============ Progress bar==============-->
   <GeneratingWorld>Δημιουργία κόσμου</GeneratingWorld>
+  <GeneratingPlanet>Generating planet</GeneratingPlanet>
   <GeneratingMap>Δημιουργία χάρτη</GeneratingMap>
   <GeneratingMapForNewEncounter>Δημιουργία χάρτη για νέα συνάντηση</GeneratingMapForNewEncounter>
 

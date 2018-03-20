@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--<ShipBasics.label>Τα βασικά του διαστημόπλοιου</ShipBasics.label>-->
+  <!--<ShipBasics.description> Σου επιτρέπει να ξεκινήσεις την έρευνα για εξελιγμένες τεχνολογίες κατασκευής διαστιμοπλοίων και τελικά να φτιάξεις ο ίδιος ένα διαστημόπλοιο διαφηγής από τον πλανήτη.</ShipBasics.description>-->
+
+  <!--<ShipLongsleep.label>Κάψουλες κρυογενούς ύπνου</ShipLongsleep.label>-->
+  <!--<ShipLongsleep.description>Σου επιτρέπει να φτιάξεις κάψουλες κρυογενούς ύπνου μέσα στις οποίες θα βρίσκονται οι άποικοι κατά την διάρκεια του ταξιδιού ανάμεσα στα άστρα.</ShipLongsleep.description>-->
+
+  <!--<ShipReactor.label>Αντιδραστήρας αντιϋλης</ShipReactor.label>-->
+  <!--<ShipReactor.description>Σου επιτρέπει να χρησιμοποιήσεις έναν πυρήνα περιορισμού αντιϋλης με τον οποίο μπορείς να φτιάξεις έναν αντιδραστήρα αντιϋλης για να δώσεις ενέργεια στο διαστημόπλοιό σου.</ShipReactor.description>-->
+
+  <!--<ShipEngine.label>Προωθητής αντιϋλης</ShipEngine.label>-->
+  <!--<ShipEngine.description> Σου επιτρέπει να χρισημοποιήσεις έναν πυρήνα περιορισμού αντιϋλης με τον οποίο μπορείς να φτάξεις έναν προωθητή αντιϋλης για το διαστημόπλοιο.</ShipEngine.description>-->
+
+  <!--<ShipComputerCore.label>Πυρήνας υπολογιστή διαστημοπλοίου</ShipComputerCore.label>-->
+  <!--<ShipComputerCore.description>Σου επιτρέπει να δημιουργήσεις τεχνιτή νοημοσίνη για την καθοδήγηση του διαστημοπλοίου.</ShipComputerCore.description>-->
+
+</LanguageData>

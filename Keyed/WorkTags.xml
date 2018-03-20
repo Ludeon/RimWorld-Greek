@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <WorkTagNone>Κανένα</WorkTagNone>
@@ -8,7 +8,6 @@
   <WorkTagViolent>Βίαιος</WorkTagViolent>
   <WorkTagCaring>Φροντίδα</WorkTagCaring>
   <WorkTagSocial>κοινωνικότητα</WorkTagSocial>
-  <WorkTagScary>Φόβος</WorkTagScary>
   <WorkTagAnimals>Κτηνοτροφία</WorkTagAnimals>
   <WorkTagArtistic>Καλλιτεχνία</WorkTagArtistic>
   <WorkTagCrafting>Χειροτεχνία</WorkTagCrafting>
@@ -18,5 +17,7 @@
   <WorkTagHauling>Μεταφορά</WorkTagHauling>
   <WorkTagPlantWork>Καλλιέργεια</WorkTagPlantWork>
   <WorkTagMining>Εξόρυξη</WorkTagMining>
+
+  <!--<WorkTagScary>Φόβος</WorkTagScary>-->
 
 </LanguageData>

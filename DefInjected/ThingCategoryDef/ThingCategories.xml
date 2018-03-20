@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Root.label>Ρίζα</Root.label>
+
+
+  <!-- Foods -->
+
+  <Foods.label>Φαγώσιμα</Foods.label>
+  <FoodMeals.label>Γεύματα</FoodMeals.label>
+  <FoodRaw.label>Ωμή τροφή</FoodRaw.label>
+  <MeatRaw.label>Ωμό κρέας</MeatRaw.label>
+  <PlantFoodRaw.label>Χορτοφάγος</PlantFoodRaw.label>
+  <AnimalProductRaw.label>animal products</AnimalProductRaw.label>
+  <EggsUnfertilized.label>eggs (unfert.)</EggsUnfertilized.label>
+  <EggsFertilized.label>eggs (fert.)</EggsFertilized.label>
+
+
+  <!-- Manufactured -->
+
+  <Manufactured.label>Κατασκευασμένα προϊόντα</Manufactured.label>
+  <Textiles.label>textiles</Textiles.label>
+  <Leathers.label>leathers</Leathers.label>
+  <Medicine.label>medicine</Medicine.label>
+  <Drugs.label>drugs</Drugs.label>
+  <MortarShells.label>mortar shells</MortarShells.label>
+
+
+  <!-- Raw resources -->
+
+  <ResourcesRaw.label>Πρώτες ύλες</ResourcesRaw.label>
+  <PlantMatter.label>plant matter</PlantMatter.label>
+  <StoneBlocks.label>stone blocks</StoneBlocks.label>
+
+
+  <!-- Items -->
+
+  <Items.label>Αντικείμενα</Items.label>
+  <Art.label>art</Art.label>
+  <Furniture.label>furniture</Furniture.label>
+  <Unfinished.label>unfinished</Unfinished.label>
+  <Artifacts.label>artifacts</Artifacts.label>
+  <BodyParts.label>body parts</BodyParts.label>
+  <BodyPartsNatural.label>natural</BodyPartsNatural.label>
+  <BodyPartsArtificial.label>artificial</BodyPartsArtificial.label>
+
+
+  <!-- Weapons -->
+
+  <Weapons.label>Όπλα</Weapons.label>
+  <WeaponsMelee.label>melee weapons</WeaponsMelee.label>
+  <WeaponsRanged.label>ranged weapons</WeaponsRanged.label>
+  <Grenades.label>grenades</Grenades.label>
+
+
+  <!-- Apparel -->
+
+  <Apparel.label>Ενδύματα</Apparel.label>
+  <Headgear.label>headgear</Headgear.label>
+
+
+  <!-- Chunks -->
+
+  <Chunks.label>Κομμάτια</Chunks.label>
+  <StoneChunks.label>stone chunks</StoneChunks.label>
+
+
+  <!-- Corpses -->
+
+  <Corpses.label>Πτώματα</Corpses.label>
+  <CorpsesHumanlike.label>humanlike corpses</CorpsesHumanlike.label>
+  <CorpsesAnimal.label>Πτώματα ζώων</CorpsesAnimal.label>
+  <CorpsesInsect.label>insect corpses</CorpsesInsect.label>
+  <CorpsesMechanoid.label>Πτώματα μηχανικών πλασμάτων</CorpsesMechanoid.label>
+
+
+</LanguageData>

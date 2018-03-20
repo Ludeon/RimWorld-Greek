@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <!--========================= Doors =============================-->
+
+  <!--<DoorPowered.label>Ηλεκτική πόρτα</DoorPowered.label>-->
+  <!--<DoorPowered.description>Διαχωρίζει δωμάτια. Επειδή είναι ηλεκτρική δίνει την δυνατότητα γρήγορης μετακίνησης.</DoorPowered.description>-->
+
+  <!--<DoorWood.label>Ξύλινη πόρτα</DoorWood.label>-->
+  <!--<DoorWood.description>Διαχωρίζει δωμάτια. Επειδή ανοιγοκλείνεται χειροκίνητα καθυστερεί τους αποίκους.</DoorWood.description>-->
+
+
+
+  <!--========================= Walls =============================-->
+
+  <!--<WallLog.label>Τείχος από κούτσουρα</WallLog.label>-->
+  <!--<WallLog.description>Ένας τείχος φτιαγμένος από δεσμίδες κούτσουρων. Είναι δυνατός και γρήγορος στην κατασκευή του αλλά είναι έφλεκτος και δεν μεταφέρει ηλεκτρική ενέργεια.</WallLog.description>-->
+
+  <!--<WallWood.label>Ξύλινο τείχος</WallWood.label>-->
+  <!--<WallWood.description>Ένας τείχος φτιαγμένος από ξύλινες σανίδες και εντοιχισμένα καλόδια. Φθεινός και εύκολος στην κατασκευή αλλά είναι αδύναμος.</WallWood.description>-->
+
+  <!--<WallMetal.label>Μεταλικό τείχος</WallMetal.label>-->
+  <!--<WallMetal.description>Ένας μεταλικός τείχος με εντοιχισμένα καλόδια. Δυνατός, αλλά ακριβός και κατασκευάζεται αργά.</WallMetal.description>-->
+
+  <!--<WallStone.label>Πέτρινος τείχος</WallStone.label>-->
+  <!--<WallStone.description>Ένας πέτρινος τείχος. Μπορεί να αντέξει για δεκαετίες. Δεν καίγεται και δεν μεταφέρει ρεύμα.</WallStone.description>-->
+
+</LanguageData>

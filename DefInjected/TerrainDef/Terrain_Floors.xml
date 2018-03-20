@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+
+  <Concrete.label>Τσιμέντο</Concrete.label>
+  <Concrete.description>Κακοστρωμένο τσιμέντο. Περπατάς γρήγορα πάνω του όμως είναι άσχημο. Πρέπει πρώτα να σκάψεις το έδαφος για να το στρώσεις</Concrete.description>
+
+  <PavedTile.label>Πλακόστρωμα</PavedTile.label>
+  <PavedTile.description>Επίστρωση από τσιμέντο. Γρήγορη μετακίνηση πάνο του αλλά φαίνεται άσχημο.</PavedTile.description>
+
+  <WoodPlankFloor.label>Ξύλινο πάτωμα</WoodPlankFloor.label>
+  <WoodPlankFloor.description>Ξύλινη επίστρωση. Γι'αυτήν τηνο θερμή, σπιτική αίσθηση.</WoodPlankFloor.description>
+
+  <MetalTile.label>Μεταλικά Πλακάκια</MetalTile.label>
+  <MetalTile.description>Μεταλικά πλακάκια, για διακόσμιση παρόμοια με διαστιμοπλοίου!.</MetalTile.description>
+
+  <SilverTile.label>silver tile</SilverTile.label>
+  <SilverTile.description>Expensive and slow to build, but very pretty. Fits perfectly into luxurious rooms.</SilverTile.description>
+
+  <GoldTile.label>gold tile</GoldTile.label>
+  <GoldTile.description>The most beautiful and impressive kind of floor. Very expensive and requires a lot of work to build.</GoldTile.description>
+
+  <SterileTile.label>sterile tile</SterileTile.label>
+  <SterileTile.description>Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</SterileTile.description>
+
+
+  <!-- Carpets -->
+
+  <CarpetRed.label>Κόκκινο Χαλί</CarpetRed.label>
+  <CarpetRed.description>Βελούδινο χαλί σε πανέμορφη κόκκινη απόχρωση.</CarpetRed.description>
+
+  <CarpetGreen.label>Πράσινο Χαλί</CarpetGreen.label>
+  <CarpetGreen.description>Πράσινο χαλί στο χρώμα της φύσης.</CarpetGreen.description>
+
+  <CarpetBlue.label>Μπλέ Χαλί</CarpetBlue.label>
+  <CarpetBlue.description>Το βελούδινο χαλί που αγκαλιάζει τα δάχτυλα των ποδιών σε ένα σαγηνευτικό μπλέ χρώμα.</CarpetBlue.description>
+
+  <CarpetCream.label>cream carpet</CarpetCream.label>
+  <CarpetCream.description>Inviting cream-colored carpet.</CarpetCream.description>
+
+  <CarpetDark.label>dark carpet</CarpetDark.label>
+  <CarpetDark.description>Professional-looking dark gray carpet.</CarpetDark.description>
+
+
+  <!-- ================= Wood floor ================= -->
+  <!-- ================= Tile ================= -->
+  <!--<StoneTile.Label>Πέτρινα Πλακάκια</StoneTile.Label>-->
+  <!--<StoneTile.Description>Καθαρά πέτρινα πλακάκια για μία μεσαιωνική αίσθηση!.</StoneTile.Description>-->
+  <!-- ================= Carpets ================= -->
+  <!-- ================= Foundation solids ================= -->
+  <!--<SmoothStone.Label>Δάπεδο από λείες πέτρες</SmoothStone.Label>-->
+  <!--<SmoothStone.Description>Φυσικές λείες πέτρες. Περπατάς γρήγορα πάνω τους και δείχνουν υπέροχες.</SmoothStone.Description>-->
+  <!--<RoughHewnRock.Label>Δάπεδο από απότομα λαξευμένες πέτρες</RoughHewnRock.Label>-->
+  <!--<WoodPlankFloor.Label>Ξύλινο πάτωμα</WoodPlankFloor.Label>-->
+  <!--<WoodPlankFloor.Description>Ξύλινη επίστρωση. Γι'αυτήν τηνο θερμή, σπιτική αίσθηση.</WoodPlankFloor.Description>-->
+  <!--<MetalTile.Label>Μεταλικά Πλακάκια</MetalTile.Label>-->
+  <!--<MetalTile.Description>Μεταλικά πλακάκια, για διακόσμιση παρόμοια με διαστιμοπλοίου!.</MetalTile.Description>-->
+  <!--<PavedTile.Label>Πλακόστρωμα</PavedTile.Label>-->
+  <!--<PavedTile.Description>Επίστρωση από τσιμέντο. Γρήγορη μετακίνηση πάνο του αλλά φαίνεται άσχημο.</PavedTile.Description>-->
+  <!--<CarpetRed.Label>Κόκκινο Χαλί</CarpetRed.Label>-->
+  <!--<CarpetRed.Description>Βελούδινο χαλί σε πανέμορφη κόκκινη απόχρωση.</CarpetRed.Description>-->
+  <!--<CarpetGreen.Label>Πράσινο Χαλί</CarpetGreen.Label>-->
+  <!--<CarpetGreen.Description>Πράσινο χαλί στο χρώμα της φύσης.</CarpetGreen.Description>-->
+  <!--<CarpetBlue.Label>Μπλέ Χαλί</CarpetBlue.Label>-->
+  <!--<CarpetBlue.Description>Το βελούδινο χαλί που αγκαλιάζει τα δάχτυλα των ποδιών σε ένα σαγηνευτικό μπλέ χρώμα.</CarpetBlue.Description>-->
+  <!--<Concrete.Label>Τσιμέντο</Concrete.Label>-->
+  <!--<Concrete.Description>Κακοστρωμένο τσιμέντο. Περπατάς γρήγορα πάνω του όμως είναι άσχημο. Πρέπει πρώτα να σκάψεις το έδαφος για να το στρώσεις</Concrete.Description>-->
+
+</LanguageData>

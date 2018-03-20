@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <MainPageCredit>Ένας προσομοιωτής αποικίας από τον Tynan Sylvester</MainPageCredit>
-  
+
   <Credits_Developers>Προγραμματιστές</Credits_Developers>
   <Credit_DirectionVarious>Σκηνοθεσία, σχεδιασμός, κώδικας, τέχνη</Credit_DirectionVarious>
   <Credit_MusicAndSound>Μουσική και ήχος</Credit_MusicAndSound>
@@ -10,8 +10,11 @@
   <Credit_GameArt>Εικαστικά παιχνιδιού</Credit_GameArt>
   <Credit_MenuArt>Εικαστικά μενού</Credit_MenuArt>
   <Credit_AdditionalCode>Επιπλέον κώδικας</Credit_AdditionalCode>
-  
+
+  <Credits_AdditionalDevelopment>Additional development</Credits_AdditionalDevelopment>
+
   <Credit_SpecialThanks>Ιδιαίτερες ευχαριστίες</Credit_SpecialThanks>
+
 
   <Credits_TitleCommunity>Εθελοντές κοινότητας</Credits_TitleCommunity>
   <Credit_Tester>Tester</Credit_Tester>

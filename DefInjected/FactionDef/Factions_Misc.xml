@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Outlander.label>Ξένοι</Outlander.label>
+  <Outlander.description>Μια μικρή κοινωνία επιζώντων.\n\nΟι άνθρωποι αυτοί κατοικούν την περιοχή για αιώνες. Έχουν χάσει την τεχνολογία που τους έφερε μέχρι εδώ, χρησημοποιούν σπάνια εργαλεία και κτίρια και αμύνονται με εξελιγμένα όπλα μπαρουτιού.\n\nΧωρίς να είναι επιθετικοί, αλλά ούτε και αδύναμοι, τους ενδιαφέρει η επιβίωση, η εμπιστοσύνη αλλά και το εμπόριο.</Outlander.description>
+  <Outlander.pawnsPlural>outlanders</Outlander.pawnsPlural>
+  <Outlander.leaderTitle>prime councilor</Outlander.leaderTitle>
+
+  <Tribe.label>tribe</Tribe.label>
+  <Tribe.description>These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nSome tribes are more aggressive than others; many are open to trade and alliances, even with strange peoples like yourselves. Close cooperation or recruitment will be very difficult because of the vast sociotechnological and linguistic gap between the tribals and yourselves.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.</Tribe.description>
+  <Tribe.pawnsPlural>tribespeople</Tribe.pawnsPlural>
+  <Tribe.leaderTitle>chief</Tribe.leaderTitle>
+
+  <Pirate.label>Πειρατές</Pirate.label>
+  <Pirate.description>Συμμορία εγκληματιών.\n\nΔεν σπέρνουν, δεν χρίζουν και σπάνια ανταλλάζουν. Πλουτίζουν κυρίως από επιδρομές και ληστείες στις πιο παραγωγηκές ομάδες στην περιοχή.\n\nΤο τεχνολογικό τους επίπεδο εξαρτάται κυρίως από αυτών που έκλεψαν επιτυχώς πρόσφατα. Οι περισσότεροι κατέχουν όπλα μπαρουτιού, όμως μπορεί κάποιοι να έχουν εξεληγμένα ενεργειακά όπλα ή απλά να πολεμούν τους εχθρούς τους από κοντά.</Pirate.description>
+  <Pirate.pawnsPlural>pirates</Pirate.pawnsPlural>
+  <Pirate.leaderTitle>boss</Pirate.leaderTitle>
+
+
+</LanguageData>

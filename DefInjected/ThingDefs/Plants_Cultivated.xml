@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--=========================== Crops ==============================-->
+
+  <!--<PlantPotato.label>Φυτευμένη πατάτα</PlantPotato.label>-->
+  <!--<PlantPotato.description>Ένας απλός, θρεπτικός βολβός. Μεγαλώνει ακώμη και σε θρεπτικά πτωχό έδαφος.</PlantPotato.description>-->
+
+  <!--<PlantStrawberry.label>Φραουλιά</PlantStrawberry.label>-->
+  <!--<PlantStrawberry.description>Ένα ευαισθητο αλλά εύγεστο φρούτο. Νοστιμότατο ακόμη και ωμό, χρειάζεται θρεπτικά πλούσιο έδαφος.</PlantStrawberry.description>-->
+
+
+  <!--=========================== Decorative ==============================-->
+
+  <!--<PlantRose.label>Τριαντάφυλλο</PlantRose.label>-->
+  <!--<PlantRose.description>Ένα υπέροχο λουλούδι.</PlantRose.description>-->
+
+  <!--<PlantDaylily.label>Κρίνος</PlantDaylily.label>-->
+  <!--<PlantDaylily.description>Ένα υπέροχο λουλούδι.</PlantDaylily.description>-->
+
+</LanguageData>

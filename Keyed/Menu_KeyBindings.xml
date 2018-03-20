@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <SaveButton>Αποθήκευση</SaveButton>
@@ -8,5 +8,5 @@
   <BindingButtonToolTip>Αριστερό κλικ για να δεσμεύσεις αυτό το πλήκτρο ή δεξί κλικ για επιλογές</BindingButtonToolTip>
   <PressAnyKeyOrEsc>Πίεσε κάποιο πλήκτρο ή πάτα Esc για ακύρωση...</PressAnyKeyOrEsc>
   <KeyBindingOverwritten>Η έσμευση πλήκτρου αντικαταστάθηκε: {0}</KeyBindingOverwritten>
-  
+
 </LanguageData>

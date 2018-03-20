@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <FactionGreetingHostile>Ο/Η {0} πετάει μερικά επίθετα στο μικρόφωνο και αποσυνδέεται.</FactionGreetingHostile>
@@ -18,9 +18,9 @@
   <RequestTrader>Ζήτησε ένα εμπορικό καραβάνι (κόστος: {0} ασήμι)</RequestTrader>
   <ChooseTraderKind>Ο/Η {0} ρωτάει τι είδους εμπορικό καραβάνι θέλεις.</ChooseTraderKind>
   <TraderSent>Ο/Η {0} συμφωνεί να σου στείλουν ένα εμπορικό καραβάνι. Θα φτάσει εντός μερικών ημερών.</TraderSent>
-	<WaitTime>αναμονή {0}</WaitTime>
-	
-	
+  <WaitTime>αναμονή {0}</WaitTime>
+
+
   <!-- military aid request -->
   <RequestMilitaryAid>Ζήτησε άμεση στρατιωτική υποστήριξη (κόστος: {0} καλής θέλησης).</RequestMilitaryAid>
   <MilitaryAidConfirmMutualEnemy>Ο/Η {0} δεν θα σε βοηθήσει να πολεμήσεις κάποια άλλη φατρία που δεν είναι εχθροί τους. Αυτό περιλαμβάνει και αυτούς που σε απειλούν, {1}. Θέλεις ακόμα να ζητήσεις στρατιωτική υποστήριξη;</MilitaryAidConfirmMutualEnemy>

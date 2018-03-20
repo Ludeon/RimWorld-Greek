@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- ============================================================== -->
+
+  <!--<Hungry.label>Πεινασμένος/η</Hungry.label>-->
+  <!--<Hungry.description>Δεν έχω φάει εδώ και λίγη ώρα.</Hungry.description>-->
+
+  <!--<UrgentlyHungry.label>Επειγόντως πεινασμένος/η</UrgentlyHungry.label>-->
+  <!--<UrgentlyHungry.description>Τα σωθικά μου είναι χάλια. Χρειάζομαι φαγητό γιατί θα λιμοκτονήσω.</UrgentlyHungry.description>-->
+
+  <!--<Starving.label>Λιμοκτονεί</Starving.label>-->
+  <!--<Starving.description>Θέλω να φάω κάτι, οτιδήποτε. Νιώθω το σώμα μου να πεθαίνει. Πονάει...</Starving.description>-->
+
+  <!-- ============================================================== -->
+
+  <!--<Tired.label>Κουρασμένος/η</Tired.label>-->
+  <!--<Tired.description>Δεν έχω κοιμηθεί εδώ και λίγη ώρα.</Tired.description>-->
+
+  <!--<VeryTired.label>Πολύ κουρασμένος/η</VeryTired.label>-->
+  <!--<VeryTired.description>Είμαι τόσο κουρασμένος. Θέλω απλά να ξαπλώσω κάτω και να ξεκουραστώ για λίγα λεπτά...</VeryTired.description>-->
+
+  <!--<Exhausted.label>Εξαντλημένος</Exhausted.label>-->
+  <!--<Exhausted.description>Είμαι τόσο εξαντλημένος ώστε να μην μπορώ να σταθώ στα πόδια μου. Νιώθω τα μάτια μου να κλείνουν. Άσε με να κοιμηθώ...</Exhausted.description>-->
+
+  <!-- ============================================================== -->
+
+  <!--<EnvironmentUgly.label>Άσχημο περιβάλλον</EnvironmentUgly.label>-->
+  <!--<EnvironmentUgly.description>Ένα μέρος που είναι δυσάρεστο να βρίσκεσαι.</EnvironmentUgly.description>-->
+
+  <!--<EnvironmentVeryUgly.label>Πολύ άσχημο περιβάλλον</EnvironmentVeryUgly.label>-->
+  <!--<EnvironmentVeryUgly.description>Το μέρος αυτό είναι πολύ ανεπιθύμητο. Δεν θέλω να βρίσκομαι εδώ.</EnvironmentVeryUgly.description>-->
+
+  <!--<EnvironmentHideous.label>Φρικτό περιβάλλον</EnvironmentHideous.label>-->
+  <!--<EnvironmentHideous.description>Το μέρος είναι δυσβάσταχτο! Πάρε με από εδώ...</EnvironmentHideous.description>-->
+
+  <!--<EnvironmentPretty.label>Ευχάριστο περιβάλλον</EnvironmentPretty.label>-->
+  <!--<EnvironmentPretty.description>Όμορφο περιβάλλον.</EnvironmentPretty.description>-->
+
+  <!--<EnvironmentVeryPretty.label>Πολύ ευχάριστο περιβάλλον</EnvironmentVeryPretty.label>-->
+  <!--<EnvironmentVeryPretty.description>Το μέρος αυτό είναι όμορφο. Μου αρέσει πραγματικά.</EnvironmentVeryPretty.description>-->
+
+  <!--<EnvironmentBeautiful.label>Καταπληκτικό περιβάλλον</EnvironmentBeautiful.label>-->
+  <!--<EnvironmentBeautiful.description>Το μέρος είναι πανέμορφο. Με αναζωογονεί και με κάνει να νιώθω πιο ανάλαφρος/η.</EnvironmentBeautiful.description>-->
+
+  <!--<EnvironmentCramped.label>Πυκνό περιβάλλον</EnvironmentCramped.label>-->
+  <!--<EnvironmentCramped.description>Το μέρος αυτό είναι τόσο κλειστό. Νιώθω ότι δεν υπάρχει χώρος να αναπνεύσω.</EnvironmentCramped.description>-->
+
+  <!--<EnvironmentVeryCramped.label>Πολύ πυκνό περιβάλλον</EnvironmentVeryCramped.label>-->
+  <!--<EnvironmentVeryCramped.description>Είναι πολύ κλειστοφοβικό μέρος. Νιώθεις σαν ένα ποντίκι σε ένα μικροσκοπικό κελί. Θέλω να φύγω.</EnvironmentVeryCramped.description>-->
+
+  <!--<EnvironmentSpaciousInterior.label>Ευρύχωρο δωμάτιο</EnvironmentSpaciousInterior.label>-->
+  <!--<EnvironmentSpaciousInterior.description>Είναι πραγματικά ένα πολύ βολικό και ανοιχτό δωμάτιο.</EnvironmentSpaciousInterior.description>-->
+
+  <!--<EnvironmentDark.label>Σκοτεινό</EnvironmentDark.label>-->
+  <!--<EnvironmentDark.description>Είμαι εδώ και λίγη ώρα σε σκοτάδι. Δεν μου αρέσει.</EnvironmentDark.description>-->
+
+  <!-- ============================================================== -->
+
+  <!--<CabinFeverMild.label>Καταθλιψη (ήπια)</CabinFeverMild.label>-->
+  <!--<CabinFeverMild.description>Έχω κλειστεί μέσα εδώ και μέρες. Πρέπει να βγω έξω.</CabinFeverMild.description>-->
+
+  <!--<CabinFeverSerious.label>Κατάθλιψη (σοβαρή)</CabinFeverSerious.label>-->
+  <!--<CabinFeverSerious.description>Έχω παγειδευτεί σαν ζώο εδώ για τόσο πολύ! Χρειάζομαι απελπισμένα να βγώ έξω αλλιώς θα τρελαθώ!</CabinFeverSerious.description>-->
+
+  <!-- ============================================================== -->
+
+  <!--<Naked.label>Γυμνός/ή</Naked.label>-->
+  <!--<Naked.description>Είμαι γυμνός/ή. Είναι ντροπιαστικό.</Naked.description>-->
+
+
+  <!--<Imprisoned.label>Φυλακισμένος/η</Imprisoned.label>-->
+  <!--<Imprisoned.description>Σιχαίνομαι να με έχουν κλειδωμένο/η.</Imprisoned.description>-->
+
+
+  <!--<SharedBedroom.label>Μειρασμένο υπνοδωμάτιο</SharedBedroom.label>-->
+  <!--<SharedBedroom.description>Είναι ενοχλητικό να μοιράζομαι ένα δωμάτιο με άλλους. Θέλω τον χώρο μου.</SharedBedroom.description>-->
+
+
+  <!--<ColonistLeftUnburied.label>Άφαυτος άποικος</ColonistLeftUnburied.label>-->
+  <!--<ColonistLeftUnburied.description>Ένας από μας πέθανε και εμέις αφήνουμε το σώμα του να κείτεται στα ανοιχτά. Κανείς δεν το αξίζει αυτό. Όλοι οι άνθρωποι αξίζουν μία αξιοπρεπής ταφή.</ColonistLeftUnburied.description>-->
+
+</LanguageData>

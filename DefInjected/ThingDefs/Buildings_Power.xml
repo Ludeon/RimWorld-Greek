@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--<PowerConduit.label>Καλώδια ηλεκτρικού ρεύματος</PowerConduit.label>-->
+  <!--<PowerConduit.description>Μεταφέρουν ηλεκτρισμό.</PowerConduit.description>-->
+
+  <!--<SolarGenerator.label>Ηλιακή γεννήτρια</SolarGenerator.label>-->
+  <!--<SolarGenerator.description>Παράγει ηλεκτρισμό από το φως του ήλιου. Δεν λειτουργεί στο σκοτάδι.</SolarGenerator.description>-->
+
+  <!--<GeothermalGenerator.label>Γεοθερμική γεννήτρια</GeothermalGenerator.label>-->
+  <!--<GeothermalGenerator.description>Παράγει ενέργεια από τον ατμό των θερμών πιδάκων. Πρέπει να τοποθετηθεί πάνω από έναν πίδακα.</GeothermalGenerator.description>-->
+
+  <!--<Battery.label>Μπαταρία</Battery.label>-->
+  <!--<Battery.description>Αποθηκέυει ενέργεια. ΠΡΟΣΟΧΗ - Οι φορτισμένες μπαταρίες μπορεί να εκραγούν αν βραχούν ή ζεσταθούν.</Battery.description>-->
+
+</LanguageData>

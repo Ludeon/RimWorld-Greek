@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sand.label>Άμμος</Sand.label>
+  <Soil.label>Χώμα</Soil.label>
+  <MarshyTerrain.label>marshy soil</MarshyTerrain.label>
+  <SoilRich.label>Πλούσιο χώμα</SoilRich.label>
+  <Mud.label>mud</Mud.label>
+  <Marsh.label>marsh</Marsh.label>
+  <Gravel.label>Χαλίκι</Gravel.label>
+  <MossyTerrain.label>lichen-covered dirt</MossyTerrain.label>
+  <Ice.label>Ice</Ice.label>
+
+
+  <!--<RoughStone.Label>Σκληρή πέτρα</RoughStone.Label>-->
+  <!--<Sand.Label>Άμμος</Sand.Label>-->
+  <!--<Soil.Label>Χώμα</Soil.Label>-->
+  <!--<SoilRich.Label>Πλούσιο χώμα</SoilRich.Label>-->
+  <!--<Gravel.Label>Χαλίκι</Gravel.Label>-->
+
+</LanguageData>

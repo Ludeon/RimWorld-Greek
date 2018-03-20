@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--<AllowCorpsesColonist.label>Επιτρέψτε πτώματα κατοίκων</AllowCorpsesColonist.label>-->
+  <!--<AllowCorpsesColonist.description>Επιτρέψτε να υπάρχουν πτώματα αποίκων.</AllowCorpsesColonist.description>-->
+
+  <!--<AllowCorpsesStranger.label>Επιτρέψτε πτώματα ξένων</AllowCorpsesStranger.label>-->
+  <!--<AllowCorpsesStranger.description>Επιτρέψτε να υπάρχουν πτώματα ξένων.</AllowCorpsesStranger.description>-->
+
+  <!--<AllowBuried.label>Επιτρέψτε θαμένα πτώματα</AllowBuried.label>-->
+  <!--<AllowBuried.description>Επιτρέψτε την ταφή των πτωμάτων.</AllowBuried.description>-->
+
+</LanguageData>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- General -->
+
+  <Goto.reportString>Πήγαινε.</Goto.reportString>
+  <GotoSafeTemperature.reportString>seeking safe temperature.</GotoSafeTemperature.reportString>
+  <GotoWander.reportString>wandering.</GotoWander.reportString>
+  <Wait.reportString>Περίμενε.</Wait.reportString>
+  <WaitMaintainPosture.reportString>standing.</WaitMaintainPosture.reportString>
+  <WaitDowned.reportString>downed.</WaitDowned.reportString>
+  <WaitSafeTemperature.reportString>waiting in safe temperature.</WaitSafeTemperature.reportString>
+  <WaitWander.reportString>wandering.</WaitWander.reportString>
+  <WaitCombat.reportString>watching for targets.</WaitCombat.reportString>
+  <AttackStatic.reportString>Πυροβόλησε TargetA.</AttackStatic.reportString>
+  <AttackMelee.reportString>Πάλεψε TargetA.</AttackMelee.reportString>
+  <SocialFight.reportString>fighting with TargetA.</SocialFight.reportString>
+  <UseVerbOnThing.reportString>Συζήτησε.</UseVerbOnThing.reportString>
+  <Equip.reportString>Εξοπλίσου TargetA.</Equip.reportString>
+  <TakeInventory.reportString>taking TargetA.</TakeInventory.reportString>
+  <GiveToPackAnimal.reportString>taking TargetA.</GiveToPackAnimal.reportString>
+  <Wear.reportString>Φόρεσε TargetA.</Wear.reportString>
+  <RemoveApparel.reportString>removing TargetA.</RemoveApparel.reportString>
+  <DropEquipment.reportString>dropping TargetA.</DropEquipment.reportString>
+  <Strip.reportString>Βγάλε TargetA.</Strip.reportString>
+  <Open.reportString>opening TargetA.</Open.reportString>
+  <RearmTrap.reportString>rearming TargetA.</RearmTrap.reportString>
+  <Refuel.reportString>refueling TargetA.</Refuel.reportString>
+  <FillFermentingBarrel.reportString>filling TargetA.</FillFermentingBarrel.reportString>
+  <TakeBeerOutOfFermentingBarrel.reportString>taking beer out of TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  <UnloadInventory.reportString>unloading TargetA.</UnloadInventory.reportString>
+  <UnloadYourInventory.reportString>unloading inventory.</UnloadYourInventory.reportString>
+  <ManTurret.reportString>operating turret.</ManTurret.reportString>
+  <EnterCryptosleepCasket.reportString>entering cryptosleep casket.</EnterCryptosleepCasket.reportString>
+  <UseNeurotrainer.reportString>using neurotrainer.</UseNeurotrainer.reportString>
+  <UseArtifact.reportString>activating artifact.</UseArtifact.reportString>
+  <UseItem.reportString>using TargetA.</UseItem.reportString>
+  <TriggerFirefoamPopper.reportString>triggering firefoam popper.</TriggerFirefoamPopper.reportString>
+  <ClearSnow.reportString>clearing snow.</ClearSnow.reportString>
+  <Vomit.reportString>vomiting.</Vomit.reportString>
+  <Flick.reportString>flicking switch.</Flick.reportString>
+  <TradeWithPawn.reportString>trading with TargetA.</TradeWithPawn.reportString>
+  <Flee.reportString>fleeing.</Flee.reportString>
+  <FleeAndCower.reportString>fleeing.</FleeAndCower.reportString>
+  <EnterTransporter.reportString>entering TargetA.</EnterTransporter.reportString>
+  <Resurrect.reportString>resurrecting TargetA.</Resurrect.reportString>
+  <Insult.reportString>insulting TargetA.</Insult.reportString>
+  <HaulCorpseToPublicPlace.reportString>hauling TargetA.</HaulCorpseToPublicPlace.reportString>
+  <InducePrisonerToEscape.reportString>inducing TargetA to escape.</InducePrisonerToEscape.reportString>
+
+
+  <!-- Fire -->
+
+  <Ignite.reportString>Ανάφλεξε TargetA.</Ignite.reportString>
+  <BeatFire.reportString>Σβήσε την φωτιά.</BeatFire.reportString>
+  <ExtinguishSelf.reportString>Σβήσε την φωτιά που έπιασες.</ExtinguishSelf.reportString>
+
+
+  <!-- Need satisfaction -->
+
+  <Ingest.reportString>consuming TargetA.</Ingest.reportString>
+  <LayDown.reportString>lying down.</LayDown.reportString>
+
+
+  <!-- Love -->
+
+  <Lovin.reportString>lovin'.</Lovin.reportString>
+
+
+</LanguageData>

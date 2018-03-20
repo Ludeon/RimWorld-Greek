@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<ClickToJumpToProblem>Click to jump to problem</ClickToJumpToProblem>
+  <ClickToJumpToProblem>Click to jump to problem</ClickToJumpToProblem>
 
   <BreakRiskMinor>Μικρός κίνδυνος κατάρρευσης</BreakRiskMinor>
   <BreakRiskMajor>Μεγάλος κίνδυνος κατάρρευσης</BreakRiskMajor>
@@ -10,7 +10,7 @@
   <BreakRiskMajorDesc>Αυτοί οι άποικοι είναι σε πολύ κακή διάθεση και μπορεί να πάθουν μία μεγάλη ψυχολογική κατάρρευση ανά πάσα στιγμή:\n\n{0}</BreakRiskMajorDesc>
   <BreakRiskExtremeDesc>Αυτοί οι άποικοι είναι σε πολύ ακραία διάθεση και μπορεί να πάθουν μία ακραία ψυχολογική κατάρρευση( και πιθανών βίαιη) από στιγμή σε στιγμή:\n\n{0}</BreakRiskExtremeDesc>
   <BreakRiskDescEnding>Έλεγξε την καρτέλα Αναγκών αυτών των αποίκων για να δεις τι τους ενοχλεί.\n\nΓια να τους κάνεις να νοιώσουν καλύτερα, μπορείς να κάνεις κάτι όπως φανταχτερά γεύματα, να τους δώσεις περισσότερες ώρες ψυχαγωγίας ανά μέρα και καλύτερα αντικείμενα ψυχαγωγίας, να τους τοποθετήσεις σε όμορφο περιβάλλον, να τους δώσεις να πιούν ή να καπνίσουν και λοιπά.</BreakRiskDescEnding>
-  
+
   <ColonistNeedsRescue>Κάποιος άποικος χρειάζεται διάσωση</ColonistNeedsRescue>
   <ColonistsNeedRescue>Κάποιοι άποικοι χρειάζονται διάσωση</ColonistsNeedRescue>
   <ColonistsNeedRescueDesc>  Αυτοί οι άποικοι είναι πλέον ανίκανοι και πεσμένοι στο έδαφος:\n\n{0}\nΣτείλε κάποιον άλλο άποικο να τους διασώσει και να τους μεταφέρει στο κρεβάτι.\n\n(Για να διασώσεις, επέλεξε κάποιον άλλο άποικο, μετά κάνε δεξί κλικ στο θύμα και επέλεξε Διάσωση).</ColonistsNeedRescueDesc>
@@ -33,7 +33,7 @@
   <LowMedicine>Ελάχιστα φάρμακα</LowMedicine>
   <LowMedicineDesc>Έχεις μόνο {0} φάρμακα στην αποθήκη.\n\nΑγόρασε περισσότερα φάρμακα από έμπορους.</LowMedicineDesc>
   <NoMedicineDesc>Δεν έχεις άλλα φάρμακα στην αποθήκη.\n\nΑγόρασε περισσότερα φάρμακα από έμπορους.</NoMedicineDesc>
-  
+
   <NeedColonistBeds>Χρειάζονται κρεβάτια για τους άποικους</NeedColonistBeds>
   <NeedColonistBedsDesc>Έχεις περισσότερους άποικους σε σχέση με τα διαθέσιμα κρεβάτια. Κάποιος δεν θα έχει που να κοιμηθεί.\n\nΕίτε κατασκεύασε περισσότερα κρεβάτια, είτε άλλαξε ένα κρεβάτι φυλακισμένου σε κρεβάτι άποικου.\n\nΑν δεν έχεις διαθέσιμους πόρους, τα σημεία ύπνου είναι δωρεάν και μπορούν να τοποθετηθούν άμεσα.</NeedColonistBedsDesc>
 
@@ -43,10 +43,10 @@
   <AlertTatteredApparel>Κατεστραμμένος ρουχισμός</AlertTatteredApparel>
   <AlertTatteredApparelDesc>Αυτοί οι άποικοι φοροάνε κατεστραμμένα ρούχα, πράγμα που τους κάνει δυστυχισμένους:\n\n{0}\nΔώσε τους ρουχισμό που να είναι σε καλύτερη κατάσταση.\n\nΜπορείς να ράψεις ρουχισμό σε έναν σταθμό ραπτικής ή να αγοράσεις από έμπορους.</AlertTatteredApparelDesc>
 
-	<AlertUnhappyNudity>Ανεπιθύμητη γυμνότητα</AlertUnhappyNudity>
-	<AlertUnhappyNudityDesc>Αυτοί οι άποικοι είναι γυμνοί και δεν τους αρέσει:\n\n{0}\nΔώσε τους κάποια ρούχα.\n\nΜπορείς να ράψεις ρουχισμό σε έναν σταθμό ραπτικής ή να αγοράσεις από έμπορους.</AlertUnhappyNudityDesc>
+  <AlertUnhappyNudity>Ανεπιθύμητη γυμνότητα</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>Αυτοί οι άποικοι είναι γυμνοί και δεν τους αρέσει:\n\n{0}\nΔώσε τους κάποια ρούχα.\n\nΜπορείς να ράψεις ρουχισμό σε έναν σταθμό ραπτικής ή να αγοράσεις από έμπορους.</AlertUnhappyNudityDesc>
 
-	<Starvation>Λιμοκτονία</Starvation>
+  <Starvation>Λιμοκτονία</Starvation>
   <StarvationDesc>Αυτοί οι άποικοι λιμοκτονούν:\n\n{0}\nΔώσε τους φαγητό.</StarvationDesc>
 
   <StarvationAnimals>Λιμοκτονία ζώων</StarvationAnimals>
@@ -75,7 +75,7 @@
 
   <NeedResearchProject>Χρειάζεται κάποιο ερευνητικό έργο</NeedResearchProject>
   <NeedResearchProjectDesc>Έχεις τον εξοπλισμό για να κάνεις έρευνα αλλά δεν έχεις επιλέξει κάποιο έργο.\n\nΆνοιξε το μενού έρευνας και επέλεξε κάποιο έργο.</NeedResearchProjectDesc>
-  
+
   <ColonistsIdle>{0} άποικοι άεργοι</ColonistsIdle>
   <ColonistsIdleDesc>Αυτοί οι άποικοι περιφέρονται άεργα:\n\n{0}\nΜάλλον πρέπει να τους βρεις κάτι παραγωγικό να κάνουν.</ColonistsIdleDesc>
 
@@ -84,7 +84,7 @@
 
   <AlertHypothermia>Υποθερμία</AlertHypothermia>
   <AlertHypothermiaDesc>Αυτοί οι άποικοι πάσχουν από υποθερμία.\n\n{0}\nΣιγουρέψου ότι φοράνε τον κατάλληλο ρουχισμό για την εποχή και ότι οι εσωτερικοί χώροι είναι επαρκώς θερμενόμενοι.</AlertHypothermiaDesc>
-  
+
   <PatientsAwaitingMedicalOperation>{0} ασθενείς περιμένουν χειρουργική επέμβαση</PatientsAwaitingMedicalOperation>
   <PatientsAwaitingMedicalOperationDesc>Αυτοί οι ασθενείς περιμένουν χειρουργική επέμβαση:\n\n{0}\nΣιγουρέψου πως διαθέτεις όλα τα απαραίτητα ιατρικά εργαλεία και έναν διαθέσιμο γιατρό.</PatientsAwaitingMedicalOperationDesc>
 
@@ -105,8 +105,8 @@
   <NeedWarmClothesDesc1>Τουλάχιστον {0} από τους άποικούς σου δεν θα έχουν ζεστά ρούχα όταν έρθει ο χειμώνας.</NeedWarmClothesDesc1>
   <NeedWarmClothesDesc1All>Όλοι σου οι άποικοι δεν θα έχουν ζεστά ρούχα όταν έρθει ο χειμώνας.</NeedWarmClothesDesc1All>
   <NeedWarmClothesDesc2>Η εξωτερική θερμοκρασία θα πλησιάσει τους  {0} βαθμούς.\n\nΜπορείς να ράψεις ζεστά ρούχα στον σταθμό ραπτικής ή να αγοράσεις από έμπορους.</NeedWarmClothesDesc2>
-  
+
   <ImmobileCaravan>Ακινητοποιημένο καραβάνι</ImmobileCaravan>
   <ImmobileCaravanDesc>Ένα από τα καραβάνια σου είναι ακινητοποιημένο επειδή κουβαλάει πάρα πολλά.\n\nΜπορεί να κινητοποιήσεις πάλι αφαιρώντας κάποια αντικείμενα από την καρτέλα ΑΝΤΙΚΕΙΜΕΝΑ.</ImmobileCaravanDesc>
-  
+
 </LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--<Sandbags.label>Αμμόσακοι</Sandbags.label>-->
+  <!--<Sandbags.description>Κάλυψη από τα βλήματα.</Sandbags.description>-->
+
+  <!--=============== Improvised turret ===============-->
+  <!--<TurretGun.label>Αυτοσχέδιος πυργίσκος</TurretGun.label>-->
+  <!--<TurretGun.description>Ένας αδύναμος αυτοσχέδιος πυργίσκος που πυροβολεί αυτόματα τους εχθρούς. Εκρήγνεται όταν καταστρέφεται</TurretGun.description>-->
+
+  <!--=============== Mortar turret ===============-->
+  <!--<Turret_MortarIncendiary.label>Κανόνι εμπρηστικού βομβαρδισμού</Turret_MortarIncendiary.label>-->
+  <!--<Turret_MortarIncendiary.description>Ένα κανόνι που εκτοξεύει εμπρηστικές βόμβες. Εκρήγνεται όταν καταστρέφεται.</Turret_MortarIncendiary.description>-->
+
+  <!--=============== Mortar turret ===============-->
+  <!--<Turret_MortarBomb.label>Κανόνι εκρηκτικού βομβαρδισμού</Turret_MortarBomb.label>-->
+  <!--<Turret_MortarBomb.description>Ένα κανόνι που εκτοξέυει εκρηκτικές βόμβες. Εκρήγνεται όταν καταστρέφεται.</Turret_MortarBomb.description>-->
+
+</LanguageData>

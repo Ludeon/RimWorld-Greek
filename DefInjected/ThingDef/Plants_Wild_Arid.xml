@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bushes -->
+
+  <PlantAgave.label>Αγαύη</PlantAgave.label>
+  <PlantAgave.description>Ένα φυτό με μεγάλα φύλα που βρίσκεται στην έρημο και είναι φαγώσιμο.</PlantAgave.description>
+
+  <PlantPincushionCactus.label>Κάκτος Pincushion</PlantPincushionCactus.label>
+  <PlantPincushionCactus.description>Ένα είδος μικρού κάκτου.</PlantPincushionCactus.description>
+
+
+  <!-- Trees -->
+
+  <PlantSaguaroCactus.label>Κάκτος Saguaro</PlantSaguaroCactus.label>
+  <PlantSaguaroCactus.description>Μεγάλος κάκτος που συναντάται σε ξηρά κλίματα.</PlantSaguaroCactus.description>
+
+  <PlantTreeDrago.label>drago tree</PlantTreeDrago.label>
+  <PlantTreeDrago.description>A hardy desert tree topped with thick, pointed leaves.</PlantTreeDrago.description>
+
+
+</LanguageData>

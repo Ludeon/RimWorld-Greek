@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AllowCorpsesColonist.label>Επιτρέψτε πτώματα κατοίκων</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.description>Επιτρέψτε να υπάρχουν πτώματα αποίκων.</AllowCorpsesColonist.description>
+
+  <AllowCorpsesStranger.label>Επιτρέψτε πτώματα ξένων</AllowCorpsesStranger.label>
+  <AllowCorpsesStranger.description>Επιτρέψτε να υπάρχουν πτώματα ξένων.</AllowCorpsesStranger.description>
+
+  <AllowRotten.label>allow rotten</AllowRotten.label>
+  <AllowRotten.description>Allow organic things which have started to rot.</AllowRotten.description>
+
+  <AllowPlantFood.label>allow plant food</AllowPlantFood.label>
+  <AllowPlantFood.description>Allow foods that are of quality equivalent to unharvested plants, like hay.</AllowPlantFood.description>
+
+  <AllowSmeltable.label>allow smeltable</AllowSmeltable.label>
+  <AllowNonSmeltableWeapons.label>allow non-smeltable</AllowNonSmeltableWeapons.label>
+  <AllowNonDeadmansApparel.label>allow non-deadman's apparel</AllowNonDeadmansApparel.label>
+
+
+</LanguageData>

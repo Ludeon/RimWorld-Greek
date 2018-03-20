@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<!-- Compatible vAlpha479 -->
-<LanguageData>
-
-<RoofConstructed.Label>Κατασκευάστηκε οροφή</RoofConstructed.Label>
-<RoofRockThin.Label>Πέτρινη οροφή(λεπτή)</RoofRockThin.Label>
-<RoofRockThick.Label>Πέτρινη οροφή(μεγάλη)</RoofRockThick.Label>
-
-</LanguageData>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <ClockTime>Ώρα</ClockTime>
@@ -7,8 +7,8 @@
   <DateReadoutTip>Ημέρες που πέρασαν από την άφιξή σου: {0}\nΗ κάθε εποχή έχει {1} ημέρες.\nΤρέχουσα εποχή: {2}</DateReadoutTip>
 
   <FullDate>{0} από {1}, {2}</FullDate>
-	<DateReadout>{0} από {1}, {2}</DateReadout>
+  <DateReadout>{0} από {1}, {2}</DateReadout>
   <SeasonFullDate>{0} από {1}</SeasonFullDate>
   <WholeYear>Ολόκληρο έτος</WholeYear>
-  
+
 </LanguageData>
