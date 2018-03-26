@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LetterDay>η</LetterDay>
+  <LetterHour>ω</LetterHour>
+  <LetterMinute>λ</LetterMinute>
+  <LetterSecond>δ</LetterSecond>
+
+  <DaysLower>ημέρες</DaysLower>
+  <SecondsLower>δευτερόλεπτα</SecondsLower>
+
+  <SeasonSpring>άνοιξη</SeasonSpring>
+  <SeasonSummer>καλοκαίρι</SeasonSummer>
+  <SeasonFall>φθινόπωρο</SeasonFall>
+  <SeasonWinter>χειμώνας</SeasonWinter>
+  <SeasonPermanentSummer>μόνιμο καλοκαίρι</SeasonPermanentSummer>
+  <SeasonPermanentWinter>μόνιμος χειμώνας</SeasonPermanentWinter>
+
+  <QuadrumAprimay>Απριμάιος</QuadrumAprimay>
+  <QuadrumJugust>Ιουλαύγουστος</QuadrumJugust>
+  <QuadrumSeptober>Σεπτοκτώβριος</QuadrumSeptober>
+  <QuadrumDecembary>Δεκιανουάριος</QuadrumDecembary>
+
+  <Born>Γεννήθηκε: {0}</Born>
+  <AgeChronological>Χρονολογική ηλικία: {0} χρόνια, {1} εποχές, {2} ημέρες</AgeChronological>
+  <AgeBiological>Βιολογική ηλικία: {0} χρόνια, {1} εποχές, {2} ημέρες</AgeBiological>
+
+  <!-- Περίοδοι ημέρας (Date periods) -->
+  <Period1Year>1 χρόνο</Period1Year>
+  <PeriodYears>{0} χρόνια</PeriodYears>
+  <Period1Quadrum>1 τετράκιο</Period1Quadrum>
+  <PeriodQuadrums>{0} τετράκια</PeriodQuadrums>
+  <Period1Day>1 ημέρα</Period1Day>
+  <PeriodDays>{0} ημέρες</PeriodDays>
+  <Period1Hour>1 ώρα</Period1Hour>
+  <PeriodHours>{0} ώρες</PeriodHours>
+
+  <!-- Διάφορα (Misc) -->
+  <Started>Ξεκίνησε</Started>
+  <Lasted>Διήρκεσε</Lasted>
+  <OccurredTimeAgo>συνέβη πριν από {0}</OccurredTimeAgo>
+
+</LanguageData>

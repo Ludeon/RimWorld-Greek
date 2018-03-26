@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ======================== Μη ομαδοποιημένα (Non-grouped) ========================-->
+
+  <ScenPart_PlayerFaction>Η φατρία σου θα είναι μία {0}.</ScenPart_PlayerFaction>
+
+  <ScenPart_StartWithPawns>Ξεκίνα με {0} άτομα.</ScenPart_StartWithPawns>
+  <ScenPart_StartWithPawns_OutOf>επιλέχθηκαν από</ScenPart_StartWithPawns_OutOf>
+  <RandomPet>τυχαίο κατοικίδιο</RandomPet>
+
+  <ScenPart_StartingResearchFinished>Ξεκίνα με την έρευνα: {0}</ScenPart_StartingResearchFinished>
+
+  <ScenPart_ArriveInDropPods>Άφιξη μέσα σε ακάτους.</ScenPart_ArriveInDropPods>
+
+  <ScenPart_StatFactor>Το στατιστικό "{0}" θα πολλαπλασιάζεται καθολικά κατά {1}.</ScenPart_StatFactor>
+
+
+  <!-- Τροποποιητές πιονιού (Pawn modifiers) -->
+  <ScenPart_PawnsHaveHediff>Ο/Η {0} έχει {1} πιθανότητα να ξεκινήσει με {2}.</ScenPart_PawnsHaveHediff>
+  <ConfigurableSeverity>σοβαρότητα: {0}</ConfigurableSeverity>
+
+  <ScenPart_SetNeed>Ο/Η {0} έχει {1} πιθανότητα να έχει το στοιχείο {2} μεταξύ {3} και {4}.</ScenPart_SetNeed>
+  <ConfigurableLevel>επίπεδο: {0}</ConfigurableLevel>
+
+  <ScenPart_PawnsHaveTrait>Ο/Η {0} έχει {1} πιθανότητα να ξεκινήσει με το χαρακτηριστικό: {2}</ScenPart_PawnsHaveTrait>
+  <ScenPart_OnPawnDeathExplode>Οι χαρακτήρες και τα πλάσματα εκρήγνυνται όταν πεθάνουν ({0}, ακτίνα {1}).</ScenPart_OnPawnDeathExplode>
+
+  <!-- Φίλτρα πιονιού (Pawn filters) -->
+  <ScenPart_StartingPawnAgeMin>Οι άποικοί σου θα είναι τουλάχιστον {0} χρονών.</ScenPart_StartingPawnAgeMin>
+  <ScenPart_StartingPawnAgeMax>Οι άποικοί σου θα είναι το πολύ {0} χρονών.</ScenPart_StartingPawnAgeMax>
+  <ScenPart_StartingPawnAgeRange>Οι άποικοί σου θα είναι μεταξύ {0} και {1} χρονών.</ScenPart_StartingPawnAgeRange>
+
+
+  <!-- ======================== Ομαδοποιημένα (Grouped) ========================-->
+
+  <ScenPart_StartWith>Ξεκίνα με</ScenPart_StartWith>
+  <ScenPart_MapScatteredWith>Ο χάρτης είναι διάσπαρτος</ScenPart_MapScatteredWith>
+  <ScenPart_PermaGameCondition>Σταθερή συνθήκη(ες) παιχνιδιού</ScenPart_PermaGameCondition>
+  <ScenPart_DisableIncident>Απρόοπτο(α) απενεργοποιήθηκαν</ScenPart_DisableIncident>
+  <ScenPart_CreateIncident>Απρόοπτο δημιουργήθηκε</ScenPart_CreateIncident>
+  <ScenPart_DisallowBuilding>Δεν μπορεί ποτέ να οικοδομήσει</ScenPart_DisallowBuilding>
+
+</LanguageData>

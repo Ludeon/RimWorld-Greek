@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WorkTagNone>τίποτα</WorkTagNone>
+  <WorkTagIntellectual>ευφυΐα</WorkTagIntellectual>
+  <WorkTagManualDumb>χειρωνακτική εργασία</WorkTagManualDumb>
+  <WorkTagManualSkilled>επιδέξια εργασία</WorkTagManualSkilled>
+  <WorkTagViolent>βία</WorkTagViolent>
+  <WorkTagCaring>Φροντίδα</WorkTagCaring>
+  <WorkTagSocial>κοινωνικότητα</WorkTagSocial>
+  <WorkTagAnimals>κτηνοτροφία</WorkTagAnimals>
+  <WorkTagArtistic>καλλιτεχνία</WorkTagArtistic>
+  <WorkTagCrafting>χειροτεχνία</WorkTagCrafting>
+  <WorkTagCooking>μαγειρική</WorkTagCooking>
+  <WorkTagFirefighting>πυρόσβεση</WorkTagFirefighting>
+  <WorkTagCleaning>καθάρισμα</WorkTagCleaning>
+  <WorkTagHauling>μεταφορά</WorkTagHauling>
+  <WorkTagPlantWork>καλλιέργεια</WorkTagPlantWork>
+  <WorkTagMining>εξόρυξη</WorkTagMining>
+
+</LanguageData>

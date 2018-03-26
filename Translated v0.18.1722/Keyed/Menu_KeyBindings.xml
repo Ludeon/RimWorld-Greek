@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SaveButton>Αποθήκευση</SaveButton>
+  <!--<CancelButton>Cancel</CancelButton>-->
+  <ClearBinding>Καθαρισμός</ClearBinding>
+  <ResetBinding>Επαναφορά στις προεπιλογές</ResetBinding>
+  <BindingButtonToolTip>Αριστερό κλικ για να δεσμεύσεις αυτό το πλήκτρο ή δεξί κλικ για επιλογές</BindingButtonToolTip>
+  <PressAnyKeyOrEsc>Πίεσε κάποιο πλήκτρο ή πάτα Esc για ακύρωση...</PressAnyKeyOrEsc>
+  <KeyBindingOverwritten>Η δέσμευση πλήκτρου αντικαταστάθηκε: {0}</KeyBindingOverwritten>
+
+</LanguageData>
