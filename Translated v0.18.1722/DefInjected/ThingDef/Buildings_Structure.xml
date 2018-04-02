@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Πόρτες (Doors) -->
+
+  <Door.label>ξύλινη πόρτα</Door.label>
+  <Door.description>Διαχωρίζει δωμάτια. Επειδή ανοιγοκλείνεται χειροκίνητα καθυστερεί τους αποίκους.</Door.description>
+  <Door_Blueprint.label>πόρτα (προσχέδιο)</Door_Blueprint.label>
+  <Door_Frame.label>πόρτα (κατασκευή)</Door_Frame.label>
+  <Door_Frame.description>Διαχωρίζει δωμάτια. Επειδή ανοιγοκλείνεται χειροκίνητα καθυστερεί τους αποίκους.</Door_Frame.description>
+
+  <Autodoor.label>αυτόματη πόρτα</Autodoor.label>
+  <Autodoor.description>Διαχωρίζει τα δωμάτια. Η τροφοδοτούμενη λειτουργία της, επιτρέπει στους ανθρώπους να κινούνται μέσα από την πόρτα χωρίς να επιβραδύνουν.</Autodoor.description>
+  <Autodoor_Blueprint.label>αυτόματη πόρτα (προσχέδιο)</Autodoor_Blueprint.label>
+  <Autodoor_Frame.label>αυτόματη πόρτα (κατασκευή)</Autodoor_Frame.label>
+  <Autodoor_Frame.description>Διαχωρίζει τα δωμάτια. Η τροφοδοτούμενη λειτουργία της, επιτρέπει στους ανθρώπους να κινούνται μέσα από την πόρτα χωρίς να επιβραδύνουν.</Autodoor_Frame.description>
+
+
+  <!-- Τοίχοι (Walls) -->
+
+  <Wall.label>τοίχος</Wall.label>
+  <Wall.description>Ένα αδιάβατο τοίχο. Ικανό να κρατάει μια στέγη.</Wall.description>
+  <Wall_Blueprint.label>τοίχος (προσχέδιο)</Wall_Blueprint.label>
+  <Wall_Frame.label>τοίχος (προσχέδιο)</Wall_Frame.label>
+  <Wall_Frame.description>Ένα αδιάβατο τοίχο. Ικανό να κρατάει μια στέγη.</Wall_Frame.description>
+
+
+</LanguageData>

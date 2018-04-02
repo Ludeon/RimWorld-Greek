@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Caravan.label>καραβάνι</Caravan.label>
+  <Caravan.description>Μια ομάδα ανθρώπων που ταξιδεύουν.</Caravan.description>
+
+  <FactionBase.label>βάση φατρίας</FactionBase.label>
+  <FactionBase.description>Μια βάση μιας από τις φατρίες.</FactionBase.description>
+
+  <AbandonedFactionBase.label>εγκαταλελειμμένη βάση φατρίας</AbandonedFactionBase.label>
+  <AbandonedFactionBase.description>Μια εγκαταλελειμμένη βάση μιας από τις φατρίες.</AbandonedFactionBase.description>
+
+  <DestroyedFactionBase.label>κατεστραμμένη βάση φατρίας</DestroyedFactionBase.label>
+  <DestroyedFactionBase.description>Μία κατεστραμμένη βάση φατρίας.</DestroyedFactionBase.description>
+
+  <EscapeShip.label>προσγειωμένο διαστημόπλοιο</EscapeShip.label>
+  <EscapeShip.description>Η τοποθεσία ενός κρυμμένου διαστημόπλοιου που μπορεί να σας βοηθήσει να ξεφύγετε από τον πλανήτη.</EscapeShip.description>
+
+  <AttackedCaravan.label>καραβάνι που δέχεται επίθεση</AttackedCaravan.label>
+  <AttackedCaravan.description>Ένα καραβάνι κάτω από επίθεση.</AttackedCaravan.description>
+
+  <TravelingTransportPods.label>άτρακτοι μεταφοράς</TravelingTransportPods.label>
+  <TravelingTransportPods.description>Άτρακτοι μεταφοράς κατά την πτήση.</TravelingTransportPods.description>
+
+  <RoutePlannerWaypoint.label>σημείο αναφοράς</RoutePlannerWaypoint.label>
+  <RoutePlannerWaypoint.description>Ένα προσωρινό σημείο.</RoutePlannerWaypoint.description>
+
+  <PeaceTalks.label>ειρηνευτικές συνομιλίες</PeaceTalks.label>
+  <PeaceTalks.description>Ένας τόπος που έχει οριστεί για ειρηνευτικές συνομιλίες.</PeaceTalks.description>
+
+
+</LanguageData>

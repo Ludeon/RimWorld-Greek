@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Inspect.label>επιτήρηση</Inspect.label>
+
+  <Architect.label>αρχιτεκτονική</Architect.label>
+  <Architect.description>Ορίστε τι και πού οι άποικοι θα πρέπει να οικοδομήσουν, να καλλιεργήσουν, να αποθηκεύσουν αντικείμενα και ούτω κάθε εξής.</Architect.description>
+
+  <Work.label>εργασία</Work.label>
+  <Work.description>Επιλέξτε ποιος αποικιστής κάνει συγκεκριμένου είδους εργασία, και με ποια σειρά προτεραιότητας.</Work.description>
+
+  <Restrict.label>περιορισμοί</Restrict.label>
+  <Restrict.description>Περιορίστε τους αποίκους σε ορισμένες δραστηριότητες σε συγκεκριμένες ώρες της ημέρας ή σε συγκεκριμένες επιτρεπόμενες περιοχές.</Restrict.description>
+
+  <Assign.label>διαμόρφωση</Assign.label>
+  <Assign.description>Καθορίστε τι επιτρέπεται να φέρει ο κάθε αποικιστής και πώς θα αντιδρούν στους κοντινούς εχθρούς.</Assign.description>
+
+  <Animals.label>ζώα</Animals.label>
+  <Animals.description>Διαμορφώστε τον τρόπο με τον οποίο θα πρέπει να αντιμετωπίζονται τα εξημερωμένα ζώα της αποικίας.</Animals.description>
+
+  <Research.label>έρευνα</Research.label>
+  <Research.description>Εξετάστε και αποφασίστε για τα ερευνητικά έργα.</Research.description>
+
+  <World.label>κόσμος</World.label>
+  <World.description>Εξετάστε το χάρτη του κόσμου.</World.description>
+
+  <History.label>ιστορικό</History.label>
+  <History.description>Δείτε τις εγγραφές του ιστορικού της αποικίας.</History.description>
+
+  <Factions.label>φατρίες</Factions.label>
+  <Factions.description>Ελέγξτε τις φατρίες που είναι γνωστές στην αποικία και τις σχέσεις τους.</Factions.description>
+
+  <Menu.label>επιλογές</Menu.label>
+  <Menu.description>Αλλαγή ρυθμίσεων, αποθήκευση, φόρτωση ή έξοδος από το παιχνίδι.</Menu.description>
+
+
+</LanguageData>

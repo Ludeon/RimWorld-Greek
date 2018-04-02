@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Chicken.label>κότα</Chicken.label>
+  <Chicken.description>Το πιο παραδοσιακό οικόσιτο πουλερικό, το κοτόπουλο ανατρέφεται για τα αυγά και το κρέας του.</Chicken.description>
+  <Chicken.tools.0.label>νύχια</Chicken.tools.0.label>
+  <Chicken.tools.2.label>κεφάλι</Chicken.tools.2.label>
+  <!-- Ποσότητα Δέρματος: 0 (Leather Amount: 0) -->
+  <Chicken_Meat.label>κρέας κοτόπουλου</Chicken_Meat.label>
+  <Chicken_Meat.description>κρέας από κοτόπουλο</Chicken_Meat.description>
+  <Chicken_Corpse.label>πτώμα κοτόπουλο</Chicken_Corpse.label>
+  <Chicken_Corpse.description>πτώμα κοτόπουλου</Chicken_Corpse.description>
+
+  <Pig.label>γουρούνι</Pig.label>
+  <Pig.description>Ο χοίρος ήταν ένα από τα πρώτα ζώα που εξημερώθηκαν από τους ανθρώπους. Συνήθως ανατρέφεται για κρέας και δέρμα του και είναι εύκολο να ταϊστεί λόγω της παμφάγιας διατροφής του.</Pig.description>
+  <Pig.tools.1.label>κεφάλι</Pig.tools.1.label>
+  <Pig_Leather.label>γουρουνόπετσα</Pig_Leather.label>
+  <Pig_Leather.description>δέρμα από γουρούνι</Pig_Leather.description>
+  <Pig_Leather.stuffProps.stuffAdjective>γουρουνόπετσα</Pig_Leather.stuffProps.stuffAdjective>
+  <Pig_Meat.label>χοιρινό</Pig_Meat.label>
+  <Pig_Meat.description>κρέας από γουρούνι</Pig_Meat.description>
+  <Pig_Corpse.label>πτώμα γουρουνιού</Pig_Corpse.label>
+  <Pig_Corpse.description>πτώμα γουρουνιού</Pig_Corpse.description>
+
+  <Cow.label>αγελάδα</Cow.label>
+  <Cow.description>Ένα πολύ κοινό κατοικίδιο ζώο. Μπορεί να παράγει μεγάλες ποσότητες γάλακτος ή να σφαγιαστεί για νόστιμο φαγητό.</Cow.description>
+  <Cow.tools.1.label>κεφάλι</Cow.tools.1.label>
+  <Cow_Leather.label>αγελαδοτόμαρο</Cow_Leather.label>
+  <Cow_Leather.description>δέρμα από αγελάδα</Cow_Leather.description>
+  <Cow_Leather.stuffProps.stuffAdjective>αγελαδοτόμαρο</Cow_Leather.stuffProps.stuffAdjective>
+  <Cow_Meat.label>βοδινό</Cow_Meat.label>
+  <Cow_Meat.description>κρέας από αγελάδα</Cow_Meat.description>
+  <Cow_Corpse.label>πτώμα αγελάδας</Cow_Corpse.label>
+  <Cow_Corpse.description>πτώμα αγελάδας</Cow_Corpse.description>
+
+  <Alpaca.label>αλπακά</Alpaca.label>
+  <Alpaca.description>Ένα μεσαίου μεγέθους οπληφόρο που σχετίζεται στενά με το λάμα, η αλπακά συχνά εκτρέφεται για το εξαιρετικά μαλακό μαλλί της.</Alpaca.description>
+  <Alpaca.tools.0.label>αριστερή οπλή</Alpaca.tools.0.label>
+  <Alpaca.tools.1.label>δεξιά οπλή</Alpaca.tools.1.label>
+  <Alpaca.tools.3.label>κεφάλι</Alpaca.tools.3.label>
+  <Alpaca_Leather.label>δέρμα αλπακάς</Alpaca_Leather.label>
+  <Alpaca_Leather.description>τομάρι από αλπακά</Alpaca_Leather.description>
+  <Alpaca_Leather.stuffProps.stuffAdjective>δέρμα αλπακάς</Alpaca_Leather.stuffProps.stuffAdjective>
+  <Alpaca_Meat.label>κρέας αλπακάς</Alpaca_Meat.label>
+  <Alpaca_Meat.description>κρέας από αλπακά</Alpaca_Meat.description>
+  <Alpaca_Corpse.label>πτώμα αλπακάς</Alpaca_Corpse.label>
+  <Alpaca_Corpse.description>πτώμα αλπακάς</Alpaca_Corpse.description>
+
+
+</LanguageData>

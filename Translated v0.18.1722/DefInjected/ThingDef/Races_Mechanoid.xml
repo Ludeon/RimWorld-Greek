@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mechanoid_Centipede.label>σαρανταποδαρούσα</Mechanoid_Centipede.label>
+  <Mechanoid_Centipede.description>Ισχυρό μηχανικό πλάσμα που γλιστρούν σε δεκάδες πόδια. Η σκληρή τους άμυνα και η πολεμική τους ισχύς τους κάνει αποτελεσματικούς ενάντια σε στάσιμους στόχους. Είναι κάπως ευάλωτες ενάντια σε κινούμενους εχθρούς.</Mechanoid_Centipede.description>
+  <Mechanoid_Centipede.tools.0.label>κεφάλι</Mechanoid_Centipede.tools.0.label>
+  <!-- Τύπος Σάρκας: Μηχανοειδές (Flesh Type: Mechanoid) -->
+  <Mechanoid_Centipede_Corpse.label>κουφάρι σαρανταποδαρούσας</Mechanoid_Centipede_Corpse.label>
+  <Mechanoid_Centipede_Corpse.description>πτώμα σαρανταποδαρούσας</Mechanoid_Centipede_Corpse.description>
+
+
+  <!-- Δρεπανοφόρο (Scyther) -->
+
+  <Mechanoid_Scyther.label>δρεπανοφόρο</Mechanoid_Scyther.label>
+  <Mechanoid_Scyther.description>Γρήγορο, μικρό πολεμικό μηχανικό πλάσμα. Συνήθως έχουν ένα κύριο όπλο μακρινής εμβέλειας και τα σώματά τους είναι καλυμένα με πολλαπλές αιχμηρές προεξοχές που τους καθιστούν θανάσιμους στις μάχες σώμα με σώμα. Δεν χρησιμοποιούν καλύψεις. Αντιμετωπίζεται καλύτερα με συγκεντρωμένη, συντριπτική στρατιωτική δύναμη.</Mechanoid_Scyther.description>
+  <Mechanoid_Scyther.tools.0.label>αριστερή λεπίδα</Mechanoid_Scyther.tools.0.label>
+  <Mechanoid_Scyther.tools.1.label>δεξιά λεπίδα</Mechanoid_Scyther.tools.1.label>
+  <Mechanoid_Scyther.tools.2.label>κεφάλι</Mechanoid_Scyther.tools.2.label>
+  <!-- Τύπος Σάρκας: Μηχανοειδές (Flesh Type: Mechanoid) -->
+  <Mechanoid_Scyther_Corpse.label>κουφάρι δρεπανοφόρου</Mechanoid_Scyther_Corpse.label>
+  <Mechanoid_Scyther_Corpse.description>πτώμα δρεπανοφόρου</Mechanoid_Scyther_Corpse.description>
+
+
+</LanguageData>

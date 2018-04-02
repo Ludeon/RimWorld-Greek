@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AridShrubland.label>ξηρή θαμνώδης έκταση</AridShrubland.label>
+  <AridShrubland.description>Μια ξηρή περιοχή, αλλά όχι αρκετά ξηρή για να γίνει πραγματική έρημος. Οι ανοικτές πεδιάδες με χορτάρια και θάμνους δίνουν τη θέση τους σε άλση από δέντρα. Τα φυτά είναι ανθεκτικά και υπάρχει μέτρια πυκνότητα ζώων.</AridShrubland.description>
+
+  <Desert.label>έρημος</Desert.label>
+  <Desert.description>Μια πολύ ξηρή περιοχή που υποστηρίζει ελάχιστη ζωή. Οι έρημοι μπορεί να είναι ζεστές ή αρκετά κρύες.</Desert.description>
+
+  <ExtremeDesert.label>ακραία έρημος</ExtremeDesert.label>
+  <ExtremeDesert.description>Μια εξαιρετικά ζεστή, ξηρή περιοχή, απαλλαγμένη από σχεδόν από όλα τα ζωντανά πλάσματα. Η υψηλή θερμότητα και η περιορισμένη βλάστηση καθιστούν πολύ δύσκολο να επιβιώσουν εδώ, ακόμη και τα καλά προσαρμοσμένα ζώα.</ExtremeDesert.description>
+
+
+</LanguageData>

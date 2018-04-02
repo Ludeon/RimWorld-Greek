@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Διάφορα κομμάτια (Misc chunks) -->
+
+  <ChunkSlagSteel.label>κομμάτι σκουριασμένου ατσαλιού</ChunkSlagSteel.label>
+  <ChunkSlagSteel.description>Ένα κομμάτι σκουριασμένου ατσαλιού. Δεν είναι πολύ χρήσιμο στην τρέχουσα μορφή του, αλλά είναι δυνατό να εκκαμινευτεί το ατσάλι από αυτό.</ChunkSlagSteel.description>
+
+
+  <!-- Αμμόλιθος (Sandstone) -->
+
+  <Sandstone.label>αμμόλιθος</Sandstone.label>
+  <Sandstone.description>Ένα ιζηματογενές βράχο αποτελούμενο από συμπιεσμένα σωματίδια άμμου.</Sandstone.description>
+
+  <ChunkSandstone.label>κομμάτι αμμόλιθου</ChunkSandstone.label>
+  <ChunkSandstone.description>Ένα κομμάτι βράχου. Είναι δυνατή η κοπή χρησιμοποιήσιμων λίθινων τούβλων από αυτό.</ChunkSandstone.description>
+
+  <BlocksSandstone.label>τούβλα αμμόλιθου</BlocksSandstone.label>
+  <BlocksSandstone.description>Τούβλα στερεού αμμόλιθου. Ο αμμόλιθος είναι ένας σχετικά μαλακός βράχος και θρυμματίζετε εύκολα.</BlocksSandstone.description>
+  <BlocksSandstone.stuffProps.stuffAdjective>αμμόλιθο</BlocksSandstone.stuffProps.stuffAdjective>
+
+
+  <!-- Γρανίτης (Granite) -->
+
+  <Granite.label>γρανίτης</Granite.label>
+  <Granite.description>Ένας πολύ σκληρός πυριγενής βράχος.</Granite.description>
+
+  <ChunkGranite.label>κομμάτι γρανίτη</ChunkGranite.label>
+  <ChunkGranite.description>Ένα κομμάτι βράχου. Είναι δυνατή η κοπή χρησιμοποιήσιμων λίθινων τούβλων από αυτό.</ChunkGranite.description>
+
+  <BlocksGranite.label>τούβλα γρανίτη</BlocksGranite.label>
+  <BlocksGranite.description>Τούβλα στερεού γρανίτη. Ο γρανίτης είναι μια πολύ σκληρή πέτρα.</BlocksGranite.description>
+  <BlocksGranite.stuffProps.stuffAdjective>γρανίτη</BlocksGranite.stuffProps.stuffAdjective>
+
+
+  <!-- Ασβεστόλιθος (Limestone) -->
+
+  <Limestone.label>ασβεστόλιθος</Limestone.label>
+  <Limestone.description>Ένας ιζηματογενής βράχος που σχηματίστηκε από τα συμπαγή υπολείμματα αρχαίων κοραλλιών.</Limestone.description>
+
+  <ChunkLimestone.label>κομμάτι ασβεστόλιθου</ChunkLimestone.label>
+  <ChunkLimestone.description>Ένα κομμάτι βράχου. Είναι δυνατή η κοπή χρησιμοποιήσιμων λίθινων τούβλων από αυτό.</ChunkLimestone.description>
+
+  <BlocksLimestone.label>τούβλα ασβεστόλιθου</BlocksLimestone.label>
+  <BlocksLimestone.description>Τούβλα από συμπαγή ασβεστόλιθο.</BlocksLimestone.description>
+  <BlocksLimestone.stuffProps.stuffAdjective>ασβεστόλιθο</BlocksLimestone.stuffProps.stuffAdjective>
+
+
+  <!-- Σχιστόλιθος (Slate) -->
+
+  <Slate.label>σχιστόλιθος</Slate.label>
+  <Slate.description>Ένας μεταμορφωμένος βράχος σκούρου χρώματος. Οι λεπτές στρώσεις του είναι αποτέλεσμα της σχιστολιθικής διάσπασης.</Slate.description>
+
+  <ChunkSlate.label>κομμάτι σχιστόλιθου</ChunkSlate.label>
+  <ChunkSlate.description>Ένα κομμάτι βράχου. Είναι δυνατή η κοπή χρησιμοποιήσιμων λίθινων τούβλων από αυτό.</ChunkSlate.description>
+
+  <BlocksSlate.label>τούβλα σχιστόλιθου</BlocksSlate.label>
+  <BlocksSlate.description>Τούβλα στερεού σχιστόλιθου. Ένας πορώδης βράχος που θρυμματίζετε εύκολα.</BlocksSlate.description>
+  <BlocksSlate.stuffProps.stuffAdjective>σχιστόλιθο</BlocksSlate.stuffProps.stuffAdjective>
+
+
+  <!-- Μάρμαρο (Marble) -->
+
+  <Marble.label>μάρμαρο</Marble.label>
+  <Marble.description>Ένας απαλός μεταμορφώσιμος βράχος.</Marble.description>
+
+  <ChunkMarble.label>μαρμάρινο κομμάτι</ChunkMarble.label>
+  <ChunkMarble.description>Ένα κομμάτι βράχου. Είναι δυνατή η κοπή χρησιμοποιήσιμων λίθινων τούβλων από αυτό.</ChunkMarble.description>
+
+  <BlocksMarble.label>μαρμάρινα τούβλα</BlocksMarble.label>
+  <BlocksMarble.description>Τούβλα από συμπαγές μάρμαρο. Το μάρμαρο είναι μια μαλακή, όμορφη πέτρα, γνωστή για το ότι είναι εύκολο να σμιλευτεί.</BlocksMarble.description>
+  <BlocksMarble.stuffProps.stuffAdjective>μάρμαρο</BlocksMarble.stuffProps.stuffAdjective>
+
+
+</LanguageData>

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LetterLabelAnimalInsanitySingle>Τρελό ζώο</LetterLabelAnimalInsanitySingle>
+  <AnimalInsanitySingle>Ένα ντόπιο {0} τρελάθηκε. Θα επιτεθεί σε όποιον βρει μπροστά του.</AnimalInsanitySingle>
+  <LetterLabelAnimalInsanityMultiple>Τρελά ζώα!</LetterLabelAnimalInsanityMultiple>
+  <AnimalInsanityMultiple>Κάποιο είδος ψυχικού κύματος σάρωσε το τοπίο. Οι άποικοί σας είναι εντάξει, αλλά...\n\nΦαίνεται ότι πολλά από τα {0} στην περιοχή έχουν οδηγηθεί στην παράνοια.</AnimalInsanityMultiple>
+
+  <LetterLabelCropBlight>Μάστιγα</LetterLabelCropBlight>
+  <LetterCropBlight>Ένας άποικος παρατήρησε μια ασθένεια στις καλλιέργειές σας! Πρέπει να κόψετε ή να κάψετε τα φυτά που έχουν υποστεί φθορά πριν εξαπλωθεί.</LetterCropBlight>
+
+  <LetterLabelMiracleHeal>Θαύμα</LetterLabelMiracleHeal>
+  <MiracleHeal>{0} έχει βιώσει μια θαυματουργή ίαση!</MiracleHeal>
+
+  <!-- Εχθρικές επιδρομές (Enemy raids) -->
+  <EnemyRaidWalkIn>Μία αμάδα της {0} από {1} έχει αφιχθεί.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>Μια ομάδα της {0} από το {1} έχει φτάσει μέσα σε ακάτους ρίψης.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>Μία ομάδα της {0} από {1} έχει πέσει ακριβώς επάνω σας!</EnemyRaidCenterDrop>
+  <EnemyRaidLeaderPresent>Ένας από τους {0} - {1}, είναι ο ηγέτης της φατρίας.</EnemyRaidLeaderPresent>
+
+  <!-- Φιλικές επισκέψεις (Friendly raids) -->
+  <FriendlyRaidWalkIn>Μία αμάδα των φιλικών {0} από {1} έχουν έρθει κοντά.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>Μία αμάδα των φιλικών {0} από {1} έχουν πέσει από την τροχεία περιστροφής τους εδώ κοντά.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>Μία αμάδα των φιλικών {0} από {1} έχουν πέσει από την τροχεία περιστροφής τους επάνω σας!</FriendlyRaidCenterDrop>
+  <FriendlyRaidLeaderPresent>Ένας από τους {0} - {1}, είναι ο ηγέτης της φατρίας.</FriendlyRaidLeaderPresent>
+
+  <LetterLabelRefugeePodCrash>Άτρακτος διαφυγής</LetterLabelRefugeePodCrash>
+  <RefugeePodCrash>Εντοπίσατε μια άτρακτο διαφυγής που συντρίφθηκε πολύ κοντά.\n\nΑν κάποιος επέζησε από την πρόσκρουση, θα έχει τραυματιστεί σοβαρά.\n\nΜπορείτε να τους διασώσετε και να τους στείλετε στο δρόμο τους. Ή, να τους συλλάβετε για στρατολόγηση ή σκλαβιά.</RefugeePodCrash>
+
+  <LetterLabelCargoPodCrash>Άτρακτοι φορτίου</LetterLabelCargoPodCrash>
+  <CargoPodCrash>Εντοπίσατε θραύσματα από ατράκτους φορτίου που συνετρίβησαν κοντά.\n\nΊσως να βρείτε κάτι χρήσιμο στα συντρίμμια.</CargoPodCrash>
+
+  <AnElectricalConduit>ένας ηλεκτρικός αγωγός</AnElectricalConduit>
+  <ShortCircuit>Ένα σφάλμα στο {0} προκάλεσε βραχυκύκλωμα.</ShortCircuit>
+  <ShortCircuitStartedFire>Ένα σφάλμα στο {0} προκάλεσε βραχυκύκλωμα. το οποίο ξεκίνησε μια φωτιά.</ShortCircuitStartedFire>
+  <ShortCircuitDischargedEnergy>Όλα τα {0} Wd ενέργειας στις συνδεδεμένες μπαταρίες έχουν εκφορτιστεί σε ηλεκτρική έκρηξη.</ShortCircuitDischargedEnergy>
+  <ShortCircuitWasLarge>Αυτή η μεγάλη ποσότητα ενέργειας έχει δημιουργήσει μια έκρηξη σημαντικού μεγέθους.</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge>Αυτή είναι πραγματικά μια τεράστια έκρηξη. Ουάου.</ShortCircuitWasHuge>
+
+  <TraderArrival>Ένα εμπορικό διαστημόπλοιο περνάει κοντά.\n\nΕίναι γνωστοί ως {0}. Είναι ένα {1}.</TraderArrival>
+
+  <SingleTravelerPassing>Ένα {0} από {1} περνάει. HECAP Ονομάζεται {2}.</SingleTravelerPassing>
+  <GroupTravelersPassing>Περνάει μία ομάδα ταξιδιωτών από {0}.</GroupTravelersPassing>
+
+  <LetterLabelSingleVisitorArrives>Επισκέπτης</LetterLabelSingleVisitorArrives>
+  <SingleVisitorArrives>Ένας {0} από {1} επισκέπτεται την αποικία.\n\nHECAP ονομάζετε {2}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\nHECAP φαίνεται να έχει μερικά πράγματα για εμπόριο.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\nHECAP είναι ο αρχηγός της φατρίας.</SingleVisitorArrivesLeaderInfo>
+  <LetterLabelGroupVisitorsArrive>Επισκέπτες</LetterLabelGroupVisitorsArrive>
+  <GroupVisitorsArrive>Μία ομάδα από {0} επισκέπτεται την αποικία.{1}{2}</GroupVisitorsArrive>
+  <GroupVisitorsArriveTraderInfo>\n\nThey φαίνεται να έχουν μερικά πράγματα για εμπόριο.</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveLeaderInfo>\n\nΈνας από τους επισκέπτες - {0}, είναι ο αρχηγός της φατρίας.</GroupVisitorsArriveLeaderInfo>
+  <VisitorsLeaving>Οι επισκέπτες από {0} φεύγουν.</VisitorsLeaving>
+
+  <LetterLabelWandererJoin>Ένωση με περιπλανώμενο</LetterLabelWandererJoin>
+  <WandererJoin>Ένας {0} που ονομάζετε NAME έφτασε και προσχωρεί στην αποικία. HECAP είναι ένας {1}.</WandererJoin>
+
+  <LetterLabelManhunterPackArrived>Συμμορία ανθρωποκυνηγών</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>Μία συμμορία από ανθρωποκυνηγούς {0} έχει εισέλθει στην περιοχή. Θα περιπλανηθούν στην περιοχή, κυνηγώντας σάρκα ανθρωποειδών.\n\nΔεν μπορούν να περάσουν τις πόρτες, οπότε αν μένετε πίσω από τους τοίχους θα πρέπει να είστε ασφαλείς. Δεν θα επιτεθούν σε ανενεργούς πυργίσκους, γυρίστε τους πυργίσκους σας αν θέλετε να τους σώσετε.\n\nΘα φύγουν από την περιοχή σε λίγες μέρες.</ManhunterPackArrived>
+
+  <!-- Τμήμα διαστημοπλοίου που έχει συντρίβει (Crashed ship part)-->
+  <MessageAnimalInsanityPulse>Η αρχαία δομή εκπέμπει έναν ψυχικό παλμό που οδηγεί τα κοντινά ζώα σε τρελά.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>Το τμήμα του συντριμμένου πλοίου εκπέμπει έναν ρυθμικό ψυχικό παλμό ο οποίος έχει οδηγήσει τον άποικο {0} σε παραλογισμό.</LetterShipPartDroveColonistInsane>
+  <AwokeDaysAgo>Ξύπνησε {0} ημέρες πριν</AwokeDaysAgo>
+  <PsychicDroneLevel>Επίπεδο ψυχικού βόμβου: {0}</PsychicDroneLevel>
+  <PsychicDroneLevelLow>Χαμηλό</PsychicDroneLevelLow>
+  <PsychicDroneLevelMedium>Μεσαίο</PsychicDroneLevelMedium>
+  <PsychicDroneLevelHigh>Υψηλό</PsychicDroneLevelHigh>
+  <PsychicDroneLevelExtreme>Ακραίο</PsychicDroneLevelExtreme>
+  <LetterLabelPsychicDroneLevelIncreased>Ο βόμβος εντείνετε</LetterLabelPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Το τμήμα του συντριμμένου πλοίου τώρα εκπέμπει ένα πιο ισχυρό είδος πνευματικού βόμβου. Κάθε άνθρωπος στην περιοχή τώρα αισθάνεται πιο ενοχλημένος, τρομοκρατημένος και παρανοϊκός.</LetterPsychicDroneLevelIncreased>
+
+  <!-- Αποκάλυψη πράκτορα (Agent revealed) -->
+  <LetterLabelAgentRevealed>Πράκτορας</LetterLabelAgentRevealed>
+  <LetterAgentRevealed>{0} έχει αποκαλυφθεί ως πράκτορας του εχθρού σας {1}.\n\nΤώρα προσπαθεί να διαφύγει.</LetterAgentRevealed>
+
+  <!-- Απομακρυσμένος πνευματικός βόμβος (Distant psychic drone) -->
+  <LetterLabelPsychicDrone>Πνευματικό βόμβος</LetterLabelPsychicDrone>
+  <LetterIncidentPsychicDrone>Κάθε άποικος του {0} φύλου ταράσσετε στον πόνο!\n\nΚάποια μακρινή μηχανή μίσους τους αναταράσσει. Παράσχει ένα ισχυρό πνευματικό βόμβο σε ολόκληρη την περιοχή, σε μια συχνότητα που φαίνεται να επηρεάζει μόνο το {0} φύλο. Για μερικές ημέρες, η διάθεση κάποιων ανθρώπων θα είναι κάπως χειρότερη.</LetterIncidentPsychicDrone>
+
+  <LetterLabelPsychicSoothe>Ψυχική καταπράυνση</LetterLabelPsychicSoothe>
+  <LetterIncidentPsychicSoothe>Κάθε άποικος του {0} φύλου χαμογελάει με ικανοποίηση!\n\nΚάποια μακρινή μηχανή ευτυχίας τους επηρεάζει. Παράσχει ένα ισχυρό πνευματικό βόμβο σε ολόκληρη την περιοχή, σε μια συχνότητα που φαίνεται να επηρεάζει μόνο το {0} φύλο. Για λίγες μέρες, η διάθεση κάποιων ανθρώπων θα είναι αρκετά καλύτερη.</LetterIncidentPsychicSoothe>
+
+  <!-- Κάστορες (Beavers) -->
+  <LetterLabelBeaversArrived>Κάστορες!</LetterLabelBeaversArrived>
+  <BeaversArrived>Μια ομάδα πεινασμένων αλφακαστόρων μόλις έφτασε.\n\nΠροσπαθήστε να τους εξαλείψετε προτού αποδεκατίσει και το τελευταίο δέντρο στην περιοχή.</BeaversArrived>
+
+  <!-- Κυνηγημένος πρόσφυγας  (Refugee chased) -->
+  <RefugeeChasedTitle>Κυνηγημένος πρόσφυγας στο {0}</RefugeeChasedTitle>
+  <RefugeeChasedInitial>Ένας {1} που ονομάζεται {0} σας φωνάζει εδώ κοντά. HECAP έχει κυνηγηθεί από {2} από {3}!\n\nHECAP ζητάει ασφάλεια και προσφέρετε να ενταχθεί στην αποικία σας. Βιολογικά, HE είναι {4} ετών.\n\nΝα είστε προετοιμασμένοι - αν αποδεχθείτε, θα πρέπει να πολεμήσετε {2} αυτούς που HIS ακολουθούν.</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>Προσφορά ασφάλειας</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>Αγνόηση μηνύματος</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>{0} φωνάζει με πανικό μέσω του τενεκεδένιου ηχείου πριν διακόψει τη μετάδοση.</RefugeeChasedRejected>
+
+  <!-- Αυτό-εξημερωμένο (Self-tame) -->
+  <LetterLabelAnimalSelfTame>{0} εξημερώθηκε μόνο του</LetterLabelAnimalSelfTame>
+  <LetterAnimalSelfTame>{0} εξημερώθηκε.</LetterAnimalSelfTame>
+  <LetterAnimalSelfTameAndNameNumerical>{0} εξημερώθηκε. Αυτό τώρα ορίζεται {1}.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>{0} εξημερώθηκε. Οι άποικοι αποφάσισαν να το ονομάσουν {1}.</LetterAnimalSelfTameAndName>
+
+  <!-- Εκτρεφόμενα ζώα περιπλανιούνται (Farm animals wander in) -->
+  <LetterLabelFarmAnimalsWanderIn>{0} εντάχθηκαν</LetterLabelFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>Μια ομάδα {0}, εγκαταλειμμένη ή χαμένη, περιπλανήθηκε στην περιοχή.\n\nΦαίνονται συνηθισμένα στην ανθρώπινη επαφή και ενώνονται με την αποικία.</LetterFarmAnimalsWanderIn>
+
+  <!-- Το θράμπο περνάει (Thrumbo passes) -->
+  <LetterLabelThrumboPasses>Σπάνια θράμπο</LetterLabelThrumboPasses>
+  <LetterThrumboPasses>Ένα μικρό κοπάδι από θράμπο περιπλανιέται στην περιοχή.\n\nΕιρηνικά από τη φύση τους, αυτά τα σπάνια πλάσματα είναι εξαιρετικά επικίνδυνα όταν αντιμετωπιστούν. Μερικοί έμποροι είναι πρόθυμοι να πληρώσουν πολλά χρήματα για το πολύτιμο δέρμα και κέρατο.\n\nΤα θράμπο θα εγκαταλείψουν την περιοχή σε λίγες μέρες.</LetterThrumboPasses>
+
+  <!-- Καραβάνι εμπόρων (Trader caravan) -->
+  <LetterLabelTraderCaravanArrival>{1} από {0}</LetterLabelTraderCaravanArrival>
+  <LetterTraderCaravanArrival>Ένα καραβάνι από το {0} πλησιάζει. Είναι ένα {1}.\n\nΘα απλωθούν γύρω από την αποικία για λίγες μέρες πριν φύγουν. Μπορείτε να τους επιτεθείτε - αλλά αυτό θα θυμώνει τη φατρία τους!</LetterTraderCaravanArrival>
+
+  <!-- Σπασμένη κατασκευή (Building breaks down) -->
+  <LetterLabelBuildingBrokenDown>Έσπασε: {0}</LetterLabelBuildingBrokenDown>
+  <LetterBuildingBrokenDown>Ένα από τα μηχανήματά σας ({0}) έχει σπάσει. Δεν θα λειτουργήσει μέχρι ένας άποικος με είδος εργασίας Κατασκευή και να το διορθώσει.</LetterBuildingBrokenDown>
+
+  <!-- Απαίτηση λύτρων (Ransom demand) -->
+  <RansomDemandTitle>Απαίτηση λύτρων από {0}</RansomDemandTitle>
+  <RansomDemand>{1} επικοινωνεί μαζί σας στον ασύρματο. Κρατούν τον πρώην άποικό σας {0} για λύτρα.\n\nΕίναι πρόθυμοι να απελευθερώσουν HIM πίσω σε σας με αντάλλαγμα {2} ασήμι.</RansomDemand>
+  <RansomDemand_Accept>Αποδοχή</RansomDemand_Accept>
+  <RansomDemand_Reject>Απόρριψη</RansomDemand_Reject>
+
+  <!-- Σχετικά με τα ταξίδια (Journey-related) -->
+  <JourneyOffer>Μία φιλική Τεχνητή Νοημοσύνη από το παρελθόν σας με το όνομα Τσάρλον Γουάιτστον σας έστειλε ένα μήνυμα!\n\nΣας αποκάλυψε ότι έχει ένα αστρόπλοιο κρυμμένο σε αυτόν τον πλανήτη, και σας στέλνει τις συντεταγμένες του.\n\nΤο αστρόπλοιο βρίσκεται σήμερα σε κατάσταση βαθιάς αδρανοποίησης. Θα πρέπει να το εκκινήσετε όταν φτάσετε και, στη συνέχεια, να το υπερασπιστείτε από επιδρομείς που προσπαθούν να το κλέψουν μέχρι να ολοκληρωθεί η διαδικασία ενεργοποίησης.\n\nΕάν μπορέσετε να ανυψώσετε το αστρόπλοιο από το έδαφος, ο Τσάρλον θα σας μεταφέρει από αυτό τον εξωπλανήτη, στα αστέρια.</JourneyOffer>
+  <EscapeShipFoundLabel>Εύρεση αστρόπλοιου</EscapeShipFoundLabel>
+  <EscapeShipFound>Έχετε φτάσει στις συντεταγμένες που έστειλε ο Τσάρλον Γουάιτστον και ανακαλύψατε το κρυφό αστρόπλοιο.\n\nΟ αντιδραστήρας του αστρόπλοιου βρίσκεται ακόμα σε κατάσταση βαθιάς αδρανοποίησης, οπότε δεν μπορεί ακόμα να πετάξει. Μπορείτε να τον ξεκινήσετε αλληλεπιδρώντας με τον πυρήνα του υπολογιστή.\n\nΟ Τσάρλον Γουάτιστον σας προειδοποιεί ότι η διαδικασία εκκίνησης θα διαρκέσει περίπου 15 ημέρες και το ενεργειακό αποτύπωμα θα είναι ανιχνεύσιμο σε μεγάλη απόσταση. Αυτό το είδος ενεργειακού αποτυπώματος δείχνει διαστημική ικανότητα πτήσης, και θα προσελκύσει συμμορίες απελπισμένων επιδρομέων και κυνηγούς θησαυρών. Βεβαιωθείτε πρώτα ότι έχετε προετοιμάσει τις άμυνές σας.</EscapeShipFound>
+  <EscapeShipLostLabel>Καταστροφή αστρόπλοιου</EscapeShipLostLabel>
+  <EscapeShipLost>Ο Τσάρλον Γουάιτστον σάς στέλνει ένα μήνυμα.\n\nΒλέπει ότι έχετε χάσει τον έλεγχο του εκφορτωθέντος αστρόπλοιου. Για να αποτρέψει να πέσει σε λάθος χέρια, αναγκάστηκε να ενεργοποιήσει τον μηχανισμό αυτοκαταστροφής του αστρόπλοιου. Το αστρόπλοιο είναι τώρα ένας κρατήρας.\n\nΘα χρειαστεί να βρείτε έναν άλλο τρόπο διαφυγής από αυτόν τον πλανήτη.</EscapeShipLost>
+
+  <!-- Συνάντηση καραβανιού (Caravan meeting) -->
+  <CaravanMeetingTitle>Συνάντηση καραβανιού με {0}</CaravanMeetingTitle>
+  <CaravanMeeting>Το καραβάνι σας συναντήθηκε ειρηνικά με ένα καραβάνι από το {0}. Το άλλο καραβάνι αποτελείται από:\n\n{1}</CaravanMeeting>
+  <CaravanMeeting_Trade>Εμπόριο</CaravanMeeting_Trade>
+  <CaravanMeeting_Attack>Επίθεση</CaravanMeeting_Attack>
+  <CaravanMeeting_MoveOn>Προσπέραση</CaravanMeeting_MoveOn>
+  <CaravanMeeting_TradeIncapable>κανένα μέλος του καραβανιού δεν είναι ικανό για εμπόριο</CaravanMeeting_TradeIncapable>
+
+  <!-- Αίτηση για καραβάνι (Caravan request) -->
+  <LetterLabelCaravanRequest>Αίτηση για καραβάνι</LetterLabelCaravanRequest>
+  <LetterCaravanRequest>Ένας κοντινός οικισμός, {0}, επικοινώνησε μαζί σας για ένα συγκεκριμένο εμπορικό αίτημα. Θα ήθελαν να αγοράσουν:\n\n  {1}\n\nΣε αντάλλαγμα, προσφέρουν:\n\n  {2}\n\nΑυτό το αίτημα λήγει μετά από: {3}\n\nΑν θέλετε να κάνετε το εμπόριο, στείλτε ένα καραβάνι με τις ζητούμενες προμήθειες. Μπορείτε να ελέγξετε αυτήν την προσφορά επιλέγοντας {0} στον παγκόσμιο χάρτη.</LetterCaravanRequest>
+  <CaravanRequestInfo>Ζήτηση: {0}, Ανταμοιβή: {1} ({2} απομένουν)</CaravanRequestInfo>
+
+  <!-- Αξίωση καραβανιού (Caravan demand) -->
+  <CaravanDemandTitle>Αξίωση καραβανιού από {0}</CaravanDemandTitle>
+  <CaravanDemand>Το καραβάνι σας έχει εμπλακεί από μία ομάδα των {1} {3} από {0}. Θα επιτεθούν αν δεν τους δώσετε:\n\n{2}</CaravanDemand>
+  <CaravanDemand_Give>Δώστε και περάστε</CaravanDemand_Give>
+  <CaravanDemand_Fight>Απορρίψτε και πολεμήστε</CaravanDemand_Fight>
+
+  <!-- Προσωρινά κρυμμένο αντικείμενο (Temporary item stash) -->
+  <ItemStashQuestTitle>Ευκαιρία κρυμμένου αντικειμένου</ItemStashQuestTitle>
+  <ItemStashQuest_Accept>Αποδοχή</ItemStashQuest_Accept>
+  <ItemStashQuest_Reject>Απόρριψη</ItemStashQuest_Reject>
+  <ItemStashQuestFeeDemand>{0} είναι πρόθυμος να μας πει τη θέση της απόκρυψης με αντάλλαγμα {1} ασήμι.</ItemStashQuestFeeDemand>
+  <ItemStashSitePart_Unknown>Δυστυχώς, {0} δεν έχει ιδέα ποιος ή τι - ή κάτι άλλο - μπορεί να προστατεύει την απόκρυψη.</ItemStashSitePart_Unknown>
+  <ItemStashSitePart_Nothing>{0} λέει ότι η απόκρυψη είναι αφύλακτη.</ItemStashSitePart_Nothing>
+  <ItemStashSitePart_Part>{0} λέει ότι {1}.</ItemStashSitePart_Part>
+
+
+</LanguageData>

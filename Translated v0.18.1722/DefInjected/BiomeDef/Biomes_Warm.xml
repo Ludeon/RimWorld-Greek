@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TropicalRainforest.label>τροπικό δάσος</TropicalRainforest.label>
+  <TropicalRainforest.description>Μια πυκνή, υγρή ζούγκλα. Παρά την οπτική της ομορφιά, αυτός είναι ένα πολύ επικίνδυνο βιότοπος. Πνιγερή υπερανάπτυξη, επιθετικά ζώα, και συνεχή ασθένεια είναι για μερικούς εξερευνητές αυτό που αποκαλούν "πράσινη κόλαση".</TropicalRainforest.description>
+
+  <TropicalSwamp.label>τροπικός βάλτος</TropicalSwamp.label>
+  <TropicalSwamp.description>Μια πυκνή ζούγκλα με πολλά έλη και λάσπη. Η δυσκολία στη κίνηση, ο μικρός χώρος για την κατασκευή βαρέων δομών, τα επιθετικά ζώα και οι συνεχείς ασθένειες καθιστούν τη ζωή εδώ έναν εφιάλτη.</TropicalSwamp.description>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Επιπέδου 4: Υψηλής τεχνολογίας πάγκος έρευνας με πολυαναλυτή (Tier 4: Hi-tech research bench with multi-analyzer) -->
+
+  <ShipBasics.label>ναυπήγηση διαστημόπλοιου</ShipBasics.label>
+  <ShipBasics.description>Σου επιτρέπει να ξεκινήσεις την έρευνα για εξελιγμένες τεχνολογίες κατασκευής διαστημόπλοιων και τελικά να φτιάξετε ένα διαστημόπλοιο διαφυγής από τον πλανήτη.</ShipBasics.description>
+
+  <ShipCryptosleep.label>κάψουλες κρυογενούς ύπνου διαστημοπλοίου</ShipCryptosleep.label>
+  <ShipCryptosleep.description>Σου επιτρέπει να φτιάξεις κάψουλες κρυογενούς ύπνου μέσα στις οποίες θα βρίσκονται οι άποικοι κατά την διάρκεια του ταξιδιού ανάμεσα στα άστρα.</ShipCryptosleep.description>
+
+  <ShipReactor.label>αντιδραστήρας αντιύλης διαστημοπλοίου</ShipReactor.label>
+  <ShipReactor.description>Σου επιτρέπει να χρησιμοποιήσεις έναν πυρήνα περιορισμού αντιύλης με τον οποίο μπορείς να φτιάξεις έναν αντιδραστήρα αντιύλης για να δώσεις ενέργεια στο διαστημόπλοιό σου.</ShipReactor.description>
+
+  <ShipEngine.label>προωθητής αντιύλης διαστημοπλοίου</ShipEngine.label>
+  <ShipEngine.description>Σου επιτρέπει να χρησιμοποιήσεις έναν πυρήνα περιορισμού αντιύλης με τον οποίο μπορείς να φτιάξεις έναν προωθητή αντιύλης για το διαστημόπλοιο.</ShipEngine.description>
+
+  <ShipComputerCore.label>πυρήνας υπολογιστή διαστημοπλοίου</ShipComputerCore.label>
+  <ShipComputerCore.description>Σου επιτρέπει να δημιουργήσεις τεχνητή νοημοσύνη για την καθοδήγηση του διαστημοπλοίου.</ShipComputerCore.description>
+
+  <ShipSensorCluster.label>σύμπλεγμα αισθητήρων διαστημοπλοίου</ShipSensorCluster.label>
+  <ShipSensorCluster.description>Σου επιτρέπει να κατασκευάσεις μεγάλου εύρους αισθητήρες για το διαστημόπλοιο.</ShipSensorCluster.description>
+
+
+</LanguageData>

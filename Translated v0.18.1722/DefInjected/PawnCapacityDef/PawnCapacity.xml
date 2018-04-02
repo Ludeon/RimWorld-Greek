@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Consciousness.label>συνειδητοποίηση</Consciousness.label>
+  <Consciousness.labelMechanoids>Επεξεργασία δεδομένων</Consciousness.labelMechanoids>
+
+  <Moving.label>κίνηση</Moving.label>
+  <Manipulation.label>χειρισμός</Manipulation.label>
+
+  <Talking.label>ομιλία</Talking.label>
+  <Talking.labelMechanoids>Επικοινωνία</Talking.labelMechanoids>
+
+  <Eating.label>κατάποση</Eating.label>
+  <Sight.label>όραση</Sight.label>
+  <Hearing.label>ακοή</Hearing.label>
+  <Breathing.label>αναπνοή</Breathing.label>
+  <BloodFiltration.label>αντιμετώπιση ασθεν.</BloodFiltration.label>
+  <BloodPumping.label>κυκλοφορία αίματος</BloodPumping.label>
+  <Metabolism.label>μεταβολισμός</Metabolism.label>
+
+
+</LanguageData>

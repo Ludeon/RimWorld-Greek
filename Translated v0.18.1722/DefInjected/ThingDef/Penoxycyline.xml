@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Penoxycyline.label>πενεξυκυλίνη</Penoxycyline.label>
+  <Penoxycyline.description>Ένα φάρμακο για την πρόληψη εμφάνισης των λοιμώξεων. Αποκλείει την ελονοσία, την υπνηλία και την πανούκλα. Χορήγηση κάθε πέντε ημέρες. Σημείωση: Αυτό το φάρμακο δεν κάνει τίποτα για να θεραπεύσει υπάρχουσες λοιμώξεις - αποτρέπει μόνο νέες.</Penoxycyline.description>
+  <Penoxycyline.ingestible.ingestCommandString>Πάρε {0}</Penoxycyline.ingestible.ingestCommandString>
+  <Penoxycyline.ingestible.ingestReportString>Λήψη {0}.</Penoxycyline.ingestible.ingestReportString>
+
+
+</LanguageData>

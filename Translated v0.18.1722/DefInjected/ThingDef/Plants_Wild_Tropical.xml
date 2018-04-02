@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Τάπητες (Carpets) -->
+
+  <PlantShrubLow.label>χαμηλά χαμόδεντρα</PlantShrubLow.label>
+  <PlantShrubLow.description>Χαμηλοί πλατύφυλλοι θάμνοι. Αυτά αναπτύσσονται σε ομάδες και επιβραδύνουν κάπως την κίνηση.</PlantShrubLow.description>
+
+
+  <!-- Θάμνοι (Bushes) -->
+
+  <PlantAlocasia.label>αλοκασία</PlantAlocasia.label>
+  <PlantAlocasia.description>Ένα κοινό τροπικό φυτό πλατύφυλλων.</PlantAlocasia.description>
+
+  <PlantClivia.label>κλίβια</PlantClivia.label>
+  <PlantClivia.description>Ένα ασυνήθιστο φυτό με ψηλά, όμορφα λουλούδια. Κάποιοι αποκαλούν το «κρίνο των θάμνων».</PlantClivia.description>
+
+  <PlantRafflesia.label>γιγάντια ραφλέσια</PlantRafflesia.label>
+  <PlantRafflesia.description>Ένα σπάνιο γιγάντιο λουλούδι. Θα σκεφτόσαστε ότι ένα τεράστιο λουλούδι θα ήταν όμορφο, αλλά αυτό είναι αρκετά δύσοσμο και άσχημο.</PlantRafflesia.description>
+
+
+  <!-- Άγρια - Δέντρα (Wild - Trees) -->
+
+  <PlantTreeTeak.label>δέντρο τικ</PlantTreeTeak.label>
+  <PlantTreeTeak.description>Ένα πολύ ισχυρό δέντρο από σκληρό ξύλο, που χρησιμοποιούταν στην αρχαιότητα για την κατασκευή ιστιοπλοϊκών πλοίων.</PlantTreeTeak.description>
+
+  <PlantTreeCecropia.label>κεκροπία</PlantTreeCecropia.label>
+  <PlantTreeCecropia.description>Ένα από τα πιο κοινά δέντρα τροπικών δασών. Αυξάνεται πολύ γρήγορα, αλλά παράγει ελάχιστα χρησιμοποιήσιμο ξύλο.</PlantTreeCecropia.description>
+
+  <PlantTreePalm.label>φοίνικας</PlantTreePalm.label>
+  <PlantTreePalm.description>Ένα τροπικό δέντρο με ένα μακρύ, γυμνό κορμό που στη κορυφή έχει μια συστάδα φύλλων.</PlantTreePalm.description>
+
+  <PlantTreeBamboo.label>μπαμπού</PlantTreeBamboo.label>
+  <PlantTreeBamboo.description>Ένα ταχέως αναπτυσσόμενο που μοιάζει δέντρο είδος που μεγαλώνει σε συστάδες. Το μπαμπού μπορεί να συγκομιστεί για τον σαν ξύλο κορμό του. Το ίδιο το φυτό δεν είναι όμορφο.</PlantTreeBamboo.description>
+
+
+</LanguageData>

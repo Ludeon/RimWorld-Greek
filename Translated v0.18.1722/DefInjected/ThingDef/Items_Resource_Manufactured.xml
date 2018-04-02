@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ιατρική (Medicine) -->
+
+  <HerbalMedicine.label>βότανα</HerbalMedicine.label>
+  <HerbalMedicine.description>Ένα πακέτο βοτανικών παρασκευασμάτων που εκχυλίζονται τυπικά από το φυτό της γιατρόριζας. Λιγότερο ισχυρό από τα βιομηχανικά φαρμακευτικά προϊόντα, αλλά πολύ καλύτερο από το τίποτα.</HerbalMedicine.description>
+
+  <Medicine.label>φάρμακο</Medicine.label>
+  <Medicine.description>Το ιατρικό προσωπικό χρησιμοποιεί αυτές τις προμήθειες για να θεραπεύσει τους τραυματίες.</Medicine.description>
+
+  <GlitterworldMedicine.label>ιατρική λαμπρόκοσμου</GlitterworldMedicine.label>
+  <GlitterworldMedicine.description>Προηγμένες ιατρικές προμήθειες από έναν λαμπρό κόσμο υψηλής τεχνολογίας.</GlitterworldMedicine.description>
+
+
+  <!-- Εξάρτημα (Component) -->
+
+  <Component.label>εξάρτημα</Component.label>
+  <Component.description>Διάφορα γρανάζια, πυκνωτές, κυκλώματα, σωλήνες, τροχοί, αισθητήρες, καλώδια, τσιπ, επεξεργαστές και άλλα ηλεκτρονικά και βιομηχανικά μέρη. Απαραίτητο για τη συναρμολόγηση πολύπλοκων μηχανών ή ηλεκτρονικών.</Component.description>
+
+  <AdvancedComponent.label>προηγμένο εξάρτημα</AdvancedComponent.label>
+  <AdvancedComponent.description>Υψηλής ποιότητας ηλεκτρονικός εξοπλισμός, μικροσκοπικός και σκληρυμένος για τις πιο περίπλοκες εφαρμογές.</AdvancedComponent.description>
+
+
+  <!-- Ουδετερομίνη (Neutroamine) -->
+
+  <Neutroamine.label>ουδετερομίνη</Neutroamine.label>
+  <Neutroamine.description>Ένα προπαρασκευαστικό συνθετικό χημικό. Άχρηστο από μόνο τους, αλλά πολλά φάρμακα απαιτούν ουδετερομίνη ως συστατικό.</Neutroamine.description>
+
+
+  <!-- Χημικό καύσιμο (Chemfuel) -->
+
+  <Chemfuel.label>χημικό καύσιμο</Chemfuel.label>
+  <Chemfuel.description>Πτητική υγρή χημική ένωση. Χρησιμοποιείται ως καύσιμο σε πυραύλους και άλλες μηχανές.</Chemfuel.description>
+
+
+</LanguageData>

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CreateWorldParams.text>Καλώς ήλθατε στο RimWorld! Αυτός ο οδηγός θα σας διδάξει πώς να παίξετε το παιχνίδι.\n\nΤο πρώτο βήμα είναι να δημιουργήσετε έναν κόσμο στον οποίο θα παίξετε.\n\nΑυτή η σελίδα ρυθμίζει τον τρόπο με τον οποίο θα δημιουργηθεί ο κόσμος σας.\n\nΟι προεπιλεγμένες ρυθμίσεις εδώ είναι καλές - προχωρήστε κάνοντας  κλικ στο κουμπί ΔΗΜΙΟΥΡΓΙΑ!</CreateWorldParams.text>
+
+  <ChooseLandingSite.text>Εδώ, επιλέγετε τον τόπο προσγείωσής σας.\n\nΥπάρχουν πολλοί βιότοποι, αλλά για τώρα, ας ξεκινήσουμε με ένα φιλικό.\n\nΚάντε κλικ σε μια τοποθεσία προσγείωσης με βιότοπο ένα εύκρατο δάσος και επίπεδο έδαφος και κάντε κλικ στο ΕΠΟΜΕΝΟ.\n\nΜπορείτε να χρησιμοποιήσετε την καρτέλα ΕΔΑΦΟΣ για να δείτε πληροφορίες σχετικά με το επιλεγμένο κελί.</ChooseLandingSite.text>
+  <ChooseLandingSite.rejectInputMessage>Παρακαλώ επιλέξτε ένα εύκρατο δάσος με επίπεδο έδαφος.</ChooseLandingSite.rejectInputMessage>
+
+  <ReorderCharacters.text>Τώρα μπορείτε να επιλέξετε χαρακτήρες!\n\nΚάντε κλικ στην αριστερή περιοχή για να επιλέξετε από τους διαθέσιμους χαρακτήρες. Αν βρείτε έναν χαρακτήρα που σας αρέσει, σύρετέ τον στην κορυφή με την ετικέτα ΕΠΙΛΕΓΜΕΝΟΙ.</ReorderCharacters.text>
+  <ReorderCharacters.rejectInputMessage>Παρακαλώ προσπαθήστε να επιλέξετε ένα χαρακτήρα πρώτα.</ReorderCharacters.rejectInputMessage>
+
+  <RandomizeCharacter.text>Αν δεν σου αρέσει ένας χαρακτήρας, μπορείς να δημιουργήσετε έναν!\n\nΔοκίμασε τυχαία ένα χαρακτήρα με το πλήκτρο ΤΥΧΑΙΟΣ.</RandomizeCharacter.text>
+  <RandomizeCharacter.rejectInputMessage>Παρακαλώ δοκιμάστε να δημιουργήσετε έναν τυχαίο χαρακτήρα πρώτα.</RandomizeCharacter.rejectInputMessage>
+
+  <AcceptStartingPawns.text>Εξαιρετικά!\n\nΔημιουργήστε περισσότερους τυχαίους χαρακτήρες, αν θέλετε - αλλά μην προσπαθήσετε να έχετε τους τέλειους χαρακτήρες. Ο καθένας έχει ελαττώματα και κάνει την ιστορία πιο ενδιαφέρουσα!\n\nΜπορείτε επίσης να αλλάξετε τα ονόματα στους χαρακτήρες κάνοντας κλικ στα ονόματά τους.\n\nΚάντε κλικ στο ΕΚΚΙΝΗΣΗ όταν είστε έτοιμοι.</AcceptStartingPawns.text>
+  <MapCameraDolly.text>Εδώ βρίσκεστε στην επιφάνεια!\n\nΤώρα προσπαθήστε να μετακινήσετε την κάμερα.\n\nΧρησιμοποιήστε τα πλήκτρα {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} ή κάντε κλικ και σύρετε με το μεσαίο κουμπί του ποντικιού.\n\nΔοκιμάστε το τώρα!</MapCameraDolly.text>
+  <MapCameraZoom.text>Υπέροχα!\n\nΕπίσης μπορείτε να κάνετε μεγέθυνση και σμίκρυνση με τη ροδέλα του ποντικιού ή τα πλήκτρα {Key:MapZoomIn} και {Key:MapZoomOut}.\n\nΔοκιμάστε το τώρα!</MapCameraZoom.text>
+  <Pause.text>Μπορείτε να κάνετε παύση στο χρόνο.\n\nΑυτό σημαίνει ότι ποτέ δεν χρειάζεται να βιάζεστε. Μπορείτε πάντα να κάνετε παύση και να αφιερώσετε χρόνο στο να δώσετε εντολές.\n\nΔοκιμάστε να κάνετε παύση με το πλήκτρο {Key:TogglePause} ή χρησιμοποιώντας τα πλήκτρα ελέγχου χρόνου στο κάτω δεξιό μέρος.</Pause.text>
+  <TimeControls.text>Μπορείτε επίσης να επιταχύνετε το χρόνο.\n\nΔοκιμάστε να ελέγξετε το χρόνο με τα πλήκτρα {Key:TimeSpeedNormal}, {Key:TimeSpeedFast} και {Key:TimeSpeedSuperfast}, ή χρησιμοποιώντας τα πλήκτρα ελέγχου χρόνου στο κάτω δεξιό μέρος.</TimeControls.text>
+
+  <MakeStockpile.text>Εξαιρετικά!\n\nΤώρα, φτιαχτέ μία αποθήκη ώστε οι άποικοί σας να ξέρουν πού να τοποθετούν τα αντικείμενα.\n\n1. Κάντε κλικ στην καρτέλα ΑΡΧΙΤΕΚΤΟΝΙΚΗ στο κάτω αριστερό μέρος.\n2. Κάντε κλικ στην κατηγορία ΖΩΝΗ/ΠΕΡΙΟΧΗ.\n3. Επιλέξτε το εργαλείο ΖΩΝΗ ΑΠΟΘΗΚΕΥΣΗΣ.\n4. Κάντε κλικ και σύρετε ένα τετράγωνο όπως υποδεικνύεται στο χάρτη.</MakeStockpile.text>
+  <MakeStockpile.rejectInputMessage>Παρακαλώ δημιουργήστε μία αποθήκη στην υποδεικνυόμενη περιοχή.</MakeStockpile.rejectInputMessage>
+  <MakeStockpile.onMapInstruction>Τοποθετήστε την αποθήκη εδώ\n(σύρετε από γωνία σε γωνία)</MakeStockpile.onMapInstruction>
+
+  <EndStockpileDesignating.text>Κάντε δεξί κλικ για να βγείτε από την δημιουργία σχεδιασμού αποθήκης.</EndStockpileDesignating.text>
+
+  <UnforbidStartingResources.text>Τώρα, για να επιτρέψετε στους αποίκους σας να φέρουν τα αντικείμενά σας στην αποθήκη, πρέπει να άρετε την απαγόρευση από τα αντικείμενα.\n\n1. Κάντε κλικ στα αρχικά αντικείμενα για να τα επιλέξετε.\n2. Κάντε κλικ στην εντολή Απαγόρευση για να άρετε την απαγόρευση τους.\n\n(Προχωρημένη συμβουλή: Κάντε διπλό κλικ σε ένα αντικείμενο για να επιλέξετε όλα του ίδιου τύπου στην οθόνη.)</UnforbidStartingResources.text>
+  <UnforbidStartingResources.rejectInputMessage>Παρακαλώ καταργήστε την απαγόρευση στα αρχικά αντικείμενα.</UnforbidStartingResources.rejectInputMessage>
+  <UnforbidStartingResources.onMapInstruction>Άρση απαγόρευσης αυτού</UnforbidStartingResources.onMapInstruction>
+
+  <BuildRoomWalls.text>Φοβερά! Στη συνέχεια, θα χτίσουμε ένα δωμάτιο.\n\n1. Κάντε κλικ στο ΑΡΧΙΤΕΚΤΟΝΙΚΗ.\n2. Κάντε κλικ στο στοιχείο ΟΙΚΟΔΟΜΗ.\n3. Επιλέξτε ΤΟΙΧΟΣ.\n4. Επιλέξτε ΞΥΛΟ ως υλικό.\n5. Σύρετε τέσσερις τοίχους για να σχηματίσουν το σχήμα που υποδεικνύεται στο χάρτη.</BuildRoomWalls.text>
+  <BuildRoomWalls.rejectInputMessage>Παρακαλώ κατασκευάστε τους ξύλινους τοίχους κατά μήκος των άκρων του επισημασμένου ορθογωνίου.</BuildRoomWalls.rejectInputMessage>
+  <BuildRoomWalls.onMapInstruction>Κατασκευάστε τοίχους</BuildRoomWalls.onMapInstruction>
+
+  <BuildRoomDoor.text>Τώρα τοποθετήστε μία ΠΟΡΤΑ σε οποιαδήποτε πλευρά του τοίχους.\n\nΗ ΠΟΡΤΑ είναι ακριβώς δίπλα στο ΤΟΙΧΟΣ μέσα στο μενού ΑΡΧΙΤΕΚΤΟΝΙΚΗ.</BuildRoomDoor.text>
+  <BuildRoomDoor.rejectInputMessage>Παρακαλώ τοποθετήστε μία ξύλινη πόρτα σε μία από τις πλευρές του δωματίου.</BuildRoomDoor.rejectInputMessage>
+  <BuildRoomDoor.onMapInstruction>Κτίστε μία πόρτα πάνω σε έναν τοίχο</BuildRoomDoor.onMapInstruction>
+
+  <BuildBeds.text>Οι άποικοί σας θα κατασκευάσουν τώρα το δωμάτιο! Τώρα πρέπει κάπου να κοιμηθούν. Τοποθετήστε τρία ΚΡΕΒΑΤΙΑ μέσα στο δωμάτιο.\n\nΒρείτε τα στην κατηγορία ΕΠΙΠΛΩΣΗ.\n\nΜπορείτε να χρησιμοποιήσετε τα πλήκτρα {Key:DesignatorRotateLeft} και {Key:DesignatorRotateRight} για να περιστρέψετε τη κατασκευή.</BuildBeds.text>
+  <BuildBeds.rejectInputMessage>Παρακαλώ κατασκευάστε ξύλινα κρεβάτια μέσα στο δωμάτιο.</BuildBeds.rejectInputMessage>
+  <BuildBeds.onMapInstruction>Κατασκευάστε τρία κρεβάτια μέσα στο δωμάτιο</BuildBeds.onMapInstruction>
+
+  <BuildTorchLamp.text>Θα χρειαστείτε επίσης και κάποιο φως στο εσωτερικό, αλλιώς οι άποικοί σας θα σκοντάφτουν στο σκοτάδι.\n\nΚατασκευάστε ένα ΠΥΡΣΟ μέσα στο δωμάτιο.</BuildTorchLamp.text>
+  <BuildTorchLamp.rejectInputMessage>Παρακαλώ κατασκευάστε ένα πυρσό μέσα στο δωμάτιο.</BuildTorchLamp.rejectInputMessage>
+  <BuildTorchLamp.onMapInstruction>Κατασκευάστε ένα πυρσό μέσα στο δωμάτιο</BuildTorchLamp.onMapInstruction>
+
+  <BuildAnimalSleepingSpot.text>Επίσης και το ζώο σας θα κοιμάται μέσα μαζί με εσάς, τοποθέτησε ένα ΣΗΜΕΙΟ ΥΠΝΟΥ ΖΩΟΥ στο εσωτερικό του δωματίου.\n\nΤα σημεία ύπνου δεν είναι αληθινές κατασκευές - απλά είναι σημεία στο έδαφος διαμορφωμένα για ύπνο.</BuildAnimalSleepingSpot.text>
+  <BuildAnimalSleepingSpot.rejectInputMessage>Παρακαλώ τοποθέτησε ένα σημείο ύπνου ζώου στο εσωτερικό του δωματίου.</BuildAnimalSleepingSpot.rejectInputMessage>
+  <BuildAnimalSleepingSpot.onMapInstruction>Φτιάξτε ένα σημείο ύπνου ζώου\nμέσα στο δωμάτιο</BuildAnimalSleepingSpot.onMapInstruction>
+
+  <BuildHorseshoesPin.text>Οι άποικοί σας χρειάζονται τρόπους διασκέδασης αλλιώς θα λυπηθούν με την πάροδο του χρόνου.\n\nΚατασκευάστε ένα ΚΑΡΦΙ ΠΕΤΑΛΩΝ έξω, κοντά στο δωμάτιο.</BuildHorseshoesPin.text>
+  <BuildHorseshoesPin.rejectInputMessage>Παρακαλώ τοποθετήστε ένα καρφί πετάλων κάπου κοντά στο δωμάτιο.</BuildHorseshoesPin.rejectInputMessage>
+  <BuildHorseshoesPin.onMapInstruction>Φτιάξτε ένα καρφί πετάλων\nέξω από το δωμάτιο</BuildHorseshoesPin.onMapInstruction>
+
+  <MakeGrowingZone.text>Το σπίτι χτίζεται!\n\nΟι άποικοι σας θα χρειαστούν κάτι για φαγητό, οπότε τοποθετήστε μια ΖΩΝΗ ΚΑΛΛΙΕΡΓΕΙΑΣ όπως υποδεικνύεται στο χάρτη.\n\nΑυτή είναι εκεί που οι άποικοι σας θα σπείρουν καλλιέργειες.</MakeGrowingZone.text>
+  <MakeGrowingZone.rejectInputMessage>Παρακαλώ δημιουργήστε μία ζώνης καλλιέργειας στην επισημασμένη περιοχή.</MakeGrowingZone.rejectInputMessage>
+  <MakeGrowingZone.onMapInstruction>Βάλτε τη ζώνη καλλιέργειας εδώ\n(σύρετε από γωνία σε γωνία)</MakeGrowingZone.onMapInstruction>
+
+  <SetToGrowRice.text>Μπορείτε να αποφασίσετε ποια φυτά θα σπείρουν οι άποικοι σας σε μια ζώνη καλλιέργειας.\n\n1. Κάντε δεξί κλικ για έξοδο από την λειτουργία αρχιτεκτονικής.\n2. Κάντε κλικ στην ζώνη καλλιέργειας για να την επιλέξετε.\n3. Κάντε κλικ στην εντολή "Επιλογή φυτού" στο κάτω μέρος και αλλάξτε την σε Ρύζι.</SetToGrowRice.text>
+  <SetToGrowRice.rejectInputMessage>Παρακαλώ ορίστε στην ζώνη καλλιέργειας να φυτρώνει ρύζι.</SetToGrowRice.rejectInputMessage>
+  <SetToGrowRice.onMapInstruction>Θέστε σε αυτή την ζώνη καλλιέργειας να φυτρώνει ρύζι.</SetToGrowRice.onMapInstruction>
+
+  <EquipWeapons.text>Έχετε να εξοπλίσετε τους αποίκους σας με τα αρχικά όπλα. Για να εξοπλιστείτε με ένα όπλο:\n\n1. Κάντε κλικ σε έναν αποικιστή για να τον επιλέξετε.\n2. Κάντε δεξί κλικ στο όπλο που θέλετε να εξοπλιστεί.\n3. Κάντε κλικ στο 'εξοπλίσου με το όπλο' στο αναδυόμενο μενού.\n\nΚάντε το  αυτό για κάθε άποικο.</EquipWeapons.text>
+  <EquipWeapons.rejectInputMessage>Παρακαλώ εξόπλισε τους αποίκους σου με όπλα.</EquipWeapons.rejectInputMessage>
+  <EquipWeapons.onMapInstruction>Εξοπλίσου με αυτό</EquipWeapons.onMapInstruction>
+
+  <BuildFueledStove.text>Υπέροχα!\n\nΤώρα πρέπει να φτιάξετε ένα φούρνο για να μαγειρέψετε φαγητό.\n\nΚατασκευάστε ένα ΞΥΛΟΦΟΥΡΝΟ στο εσωτερικό του δωματίου.</BuildFueledStove.text>
+  <BuildFueledStove.rejectInputMessage>Παρακαλώ κατασκευάστε τον ξυλόφουρνο μέσα στο δωμάτιο που φτιάξετε νωρίτερα.</BuildFueledStove.rejectInputMessage>
+  <BuildFueledStove.onMapInstruction>Φτιάξτε ένα ξυλόφουρνο μέσα στο δωμάτιο</BuildFueledStove.onMapInstruction>
+
+  <AddBillSimpleMeal.text>Οι αποικιστές πρέπει να ενημερωθούν για το τι πρέπει να μαγειρεύουν.\n\nΠαραγγελίες μαγειρέματος προστίθενται στην ίδια την κουζίνα. Μόλις οριστεί μία εργασία, οι άποικοι θα κάνουν αυτόματα την εργασία.\n\n1. Περιμένετε να κατασκευαστεί ο φούρνος.\n2. Κάντε κλικ στο φούρνο για να τον επιλέξετε.\n3. Ανοίξτε την καρτέλα ΕΡΓΑΣΙΕΣ.\n4. Κάντε κλικ στο κουμπί ΠΡΟΣΘΗΚΗ ΕΡΓΑΣΙΑΣ.\n5. Επιλέξτε το ΜΑΓΕΙΡΕΜΑ ΑΠΛΟΥ ΓΕΥΜΑΤΟΣ στο συμφραζόμενο μενού.\n6. Κάντε κλικ στο κουμπί + για να αυξήσετε την καταμέτρηση σε 10.\n\nΘυμηθείτε ότι μπορείτε να επιταχύνετε το χρόνο αν η κατασκευή χρειαστεί πολύ χρόνο.\n\nΜπορείτε επίσης να επιλέξετε έναν αποικιστή και να κάνετε δεξί κλικ στον φούρνο για να δοθεί προτεραιότητα στην κατασκευή του.</AddBillSimpleMeal.text>
+  <AddBillSimpleMeal.rejectInputMessage>Παρακαλώ προσθέστε μια παραγγελία για μαγείρεμα απλού γεύματος στον φούρνο μαγειρέματος.</AddBillSimpleMeal.rejectInputMessage>
+  <AddBillSimpleMeal.onMapInstruction>Επιλέξτε αυτό</AddBillSimpleMeal.onMapInstruction>
+
+  <MineSteel.text>Τώρα οι άποικοί σας θα μαγειρέψουν κάποιο φαγητό! Νόστιμα!\n\nΣτη συνέχεια, θα θέλετε να εξορύξετε μερικά ορυκτά. Έχουμε δημιουργήσει κάποιο μετάλλευμα ατσαλιού κοντά στη βάση σας.\n\nΕπιλέξτε τον σχεδιαστή ΕΞΟΡΥΞΗ και σύρετε πάνω από το ατσάλι για να το ορίσετε για εξόρυξη.</MineSteel.text>
+  <MineSteel.rejectInputMessage>Παρακαλώ χρησιμοποιήστε τον σχεδιαστή "εξόρυξη" πάνω στο συμπαγές ατσάλι.</MineSteel.rejectInputMessage>
+  <MineSteel.onMapInstruction>Συμαδεύτε όλο αυτό\nγια εξόρυξη</MineSteel.onMapInstruction>
+
+  <ChopTrees.text>Θα θελήσετε να μαζέψετε μερικά ξύλα. Ορίστε μερικά δέντρα για να κοπούν.\n\nΕπιλέξτε τον σχεδιαστή ΚΟΠΗ ΞΥΛΟΥ και ορίστε 10 δέντρα για να τεμαχιστούν.\n\n(Προχωρημένη συμβουλή: Μπορείτε να σύρετε ένα πλαίσιο πάνω από τα δέντρα για να μαρκάρατε ταυτόχρονα αρκετά.)</ChopTrees.text>
+  <ChopTrees.rejectInputMessage>Παρακαλώ σύρετε το σχεδιαστή "κοπή ξύλου" πάνω από μερικά δέντρα.</ChopTrees.rejectInputMessage>
+
+  <OpenMainTabWork.text>Μπορείτε να ελέγξετε ποιος άποικος θα κάνει συγκεκριμένο είδους εργασία.\n\nΑνοίξτε την καρτέλα ΕΡΓΑΣΙΑ στο κάτω μέρος της οθόνης.</OpenMainTabWork.text>
+  <OpenMainTabWork.rejectInputMessage>Παρακαλώ ανοίξτε την καρτέλα "Εργασία".</OpenMainTabWork.rejectInputMessage>
+
+  <ChangeWorkSettings.text>Μπορείτε να ελέγξετε ποιος θα κάνει συγκεκριμένο είδους εργασία χρησιμοποιώντας τα πλαίσια επιλογής. Οι αποικιστές θα κάνουν τα καθήκοντά τους, από αριστερά προς τα δεξιά.\n\nΔοκιμάστε να αλλάξετε κάποιες ρυθμίσεις τώρα.\n\nΠροσοχή - Οι αποικιστές ακολουθούν πάντα τις προτεραιότητες εργασίας τους, ακόμα κι αν αυτό τους κάνει να κάνουν χαζά πράγματα! Η δημιουργία ενός έξυπνου καθεστώτος εργασίας αποτελεί βασική δεξιότητα για την επιτυχία στο RimWorld. Ορίστε τις ρυθμίσεις εργασίας προσεκτικά και επανεξετάστε τις συχνά!</ChangeWorkSettings.text>
+  <ChangeWorkSettings.rejectInputMessage>Παρακαλώ ανοίξτε την καρτέλα "Εργασία" και αλλάξτε μερικές ρυθμίσεις.</ChangeWorkSettings.rejectInputMessage>
+
+  <BuildSimpleResearchBench.text>Για να προχωρήσετε, θα πρέπει να διερευνήσετε νέες τεχνολογίες.\n\nΚατασκευάστε ένα ξύλινο ΑΠΛΟ ΠΑΓΚΟ ΕΡΕΥΝΑΣ μέσα στο δωμάτιό σας.</BuildSimpleResearchBench.text>
+  <BuildSimpleResearchBench.rejectInputMessage>Παρακαλώ τοποθετήστε τον ξύλινο απλό ερευνητικό πάγκο μέσα στο δωμάτιο που φτιάξετε νωρίτερα.</BuildSimpleResearchBench.rejectInputMessage>
+  <BuildSimpleResearchBench.onMapInstruction>Φτιάξτε ένα ξύλινο απλό ερευνητικό πάγκο\nμέσα στο δωμάτιο</BuildSimpleResearchBench.onMapInstruction>
+
+  <OpenMainTabResearch.text>Έξοχα! Στη συνέχεια, θα πρέπει να επιλέξετε τι θέλετε να ερευνήσετε.\n\nΑνοίξτε την καρτέλα ΕΡΕΥΝΑ.</OpenMainTabResearch.text>
+  <OpenMainTabResearch.rejectInputMessage>Παρακαλώ ανοίξτε την καρτέλα "Έρευνα".</OpenMainTabResearch.rejectInputMessage>
+
+  <SelectResearchProject.text>Τώρα απλά επιλέξτε τι θέλετε να ερευνήσετε πρώτα.\n\nΊσως χρειαστεί να περιμένετε να κατασκευαστεί ο ερευνητικός πάγκος ή να τεμαχιστούν τα δέντρα σε ξύλο.\n\nΕάν διαρκεί πολύ, χρησιμοποιήστε την καρτέλα ΕΡΓΑΣΙΑ για να εκχωρήσετε περισσότερους αποίκους στην Κατασκευή.</SelectResearchProject.text>
+  <SelectResearchProject.rejectInputMessage>Παρακαλώ επέλεξε μία μελέτη για έρευνα.</SelectResearchProject.rejectInputMessage>
+
+  <ExpandAreaHome.text>Στη συνέχεια, θα μάθετε να επεκτείνετε την ΠΕΡΙΟΧΗ ΣΠΙΤΙΟΥ.\n\nΟι αποικιστές θα καθαρίσουν τα δάπεδα και θα σβήσουν τις πυρκαγιές μόνο στην περιοχή σπιτιού και θα αγνοήσουν τις πυρκαγιές ή τη βρωμιά έξω από αυτή.\n\nΗ περιοχή σπιτιού προστίθεται αυτόματα όταν κτίζετε πράγματα - αλλά μπορείτε επίσης να την αναπτύξετε με μη αυτόματο τρόπο.\n\nΕπιλέξτε το εργαλείο ΕΠΕΚΤΑΣΗ ΠΕΡΙΟΧΗΣ ΣΠΙΤΙΟΥ και σύρετε μια νέα περιοχή στον χάρτη.</ExpandAreaHome.text>
+  <ExpandAreaHome.rejectInputMessage>Παρακαλώ επεκτείνετε την περιοχή σπιτιού για λίγο, απλά για πρακτική.</ExpandAreaHome.rejectInputMessage>
+
+  <ExpandAreaBuildRoof.text>Η ΚΑΤΑΣΚΕΥΗ ΠΕΡΙΟΧΗΣ ΟΡΟΦΗΣ καθορίζει το σημείο όπου οι άποικοι σας θα προσπαθήσουν να χτίσουν στέγες.\n\nΌταν ολοκληρώνετε ένα νέο δωμάτιο σκεπάζατε αυτόματα.\n\nΕπιλέξτε το εργαλείο ΕΠΕΚΤΑΣΗ ΠΕΡΙΟΧΗΣ ΟΡΟΦΗΣ και σχεδιάστε ακριβός στα όρια της οροφής μία βεράντα στο μπροστινό μέρος του σπιτιού.</ExpandAreaBuildRoof.text>
+  <ExpandAreaBuildRoof.rejectInputMessage>Παρακαλώ επεκτείνετε την περιοχή οροφής για λίγο, απλά για πρακτική.</ExpandAreaBuildRoof.rejectInputMessage>
+
+  <BuildSandbags.text>Εξαιρετικά! Έχετε τώρα μια βασική αποικία να τρέχει! Τελικά, οι εχθροί θα επιτεθούν στην αποικία σας. Ήρθε η ώρα να προετοιμαστείτε γι' αυτό. \n\nΕπιλέξτε τον σχεδιαστή ΑΜΜΟΣΑΚΟΙ και σύρετε τους αμμόσακους έξω στην καθορισμένη περιοχή.</BuildSandbags.text>
+  <BuildSandbags.rejectInputMessage>Παρακαλώ τοποθετήστε αμμόσακους στην επισημασμένη περιοχή.</BuildSandbags.rejectInputMessage>
+  <BuildSandbags.onMapInstruction>Τοποθετήστε αμμόσακους εδώ</BuildSandbags.onMapInstruction>
+
+  <FinishSandbags.text>Ας περιμένουμε όλες τις κατασκευές σας να χτιστούν.\n\nΣκεφθείτε να χρησιμοποιήσετε την καρτέλα ΕΡΓΑΣΙΑ για να αντιστοιχίσετε περισσότερους αποίκους στην Κατασκευή.\n\nΕπίσης, μπορείτε να επιταχύνετε το χρόνο για να μειώσετε την αναμονή.\n\nΜόλις χτιστούν τα πάντα, θα στείλουμε έναν επιτιθέμενο για να δοκιμάσει τις άμυνές σας!</FinishSandbags.text>
+  <FinishSandbags.rejectInputMessage>Παρακαλώ περιμένετε οι άποικοί σας να τοποθετήσουν τους αμμόσακους.</FinishSandbags.rejectInputMessage>
+
+  <DownRaider.text>Τώρα στείλαμε έναν επιδρομέα για να επιτεθεί στην αποικία σας!\n\n1. Κάνε παύση του παιχνιδιού πατώντας {Key:TogglePause}!\n2. Διαβάστε το κόκκινο γράμμα στην κάτω δεξιά πλευρά της οθόνης.\n3. ΣΤΡΑΤΟΛΟΓΗΣΕ τους αποίκους σας επιλέγοντάς τους και πατώντας την εντολή ΣΤΡΑΤΟΛΟΓΗΣΗ.\n4. Κάντε δεξί στις θέσεις μέσα στο τετράγωνο των αμμόσακων, αγγίζοντας τους σάκους άμμου.\n5. Πατήστε εκκίνηση.\n\nΟι αποικιστές πρέπει να αγγίζουν το κάλυμμα για να επωφεληθούν από αυτό. Μόλις τελειώσετε, περιμένετε να πλησιάσει ο εισβολέας. Οι άποικοι σας θα πυροβολήσουν αυτόματα.</DownRaider.text>
+  <DownRaider.rejectInputMessage>Παρακαλώ συγκεντρωθείτε στη νίκη της μάχης!</DownRaider.rejectInputMessage>
+  <DownRaider.onMapInstruction>Στείλε τους αποίκους εδώ\nάγγιξε τους αμμόσακους για κάλυψη</DownRaider.onMapInstruction>
+
+  <UndraftAll.text>Επιτυχία! Τώρα ΑΠΟΛΥΣΤΕ όλους τους αποίκους σας χρησιμοποιώντας την ίδια εντολή όπως πριν. Αυτό θα τους αφήσει να επιστρέψουν στα δικά τους χρονοδιαγράμματα.</UndraftAll.text>
+  <UndraftAll.rejectInputMessage>Παρακαλώ απολύστε τους αποίκους σας.</UndraftAll.rejectInputMessage>
+
+  <ChooseStoryteller.text>Αυτό είναι το τέλος του οδηγού εκμάθησης!\n\nΥπάρχουν ακόμα πάρα πολλά περισσότερα για να μάθετε, συμπεριλαμβανομένων των κρατουμένων, το κυνήγι, το εμπόριο, την εξημέρωση των ζώων και πολλά άλλα. Αλλά γνωρίζετε τα βασικά πάνω, κάτω.\n\nΤα τυχαία συμβάντα απενεργοποιήθηκαν κατά τη διάρκεια αυτού του σεμιναρίου. Για να ξεκινήσετε ένα πραγματικό παιχνίδι:\n\n1. Ανοίξτε την καρτέλα ΜΕΝΟΥ στην κάτω δεξιά γωνία.\n2. Επιλέξτε ΕΠΙΛΟΓΕΣ.\n3. Κάντε κλικ στο κουμπί ΕΠΙΛΟΓΗ ΑΦΗΓΗΤΗ.\n4. Επιλέξτε έναν αφηγητή και το επίπεδο δυσκολίας που σας ταιριάζει.\n\nΚαλή τύχη και καλή διασκέδαση.</ChooseStoryteller.text>
+  <ChooseStoryteller.rejectInputMessage>Παρακαλώ επιλέξτε έναν αφηγητή από το μενού Επιλογές για να ολοκληρώσετε τον οδηγό εκμάθησης.</ChooseStoryteller.rejectInputMessage>
+
+
+</LanguageData>

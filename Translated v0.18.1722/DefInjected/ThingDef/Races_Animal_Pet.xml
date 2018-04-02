@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <YorkshireTerrier.label>γιορκσάιρ τεριέ</YorkshireTerrier.label>
+  <YorkshireTerrier.description>Ένα μικρό, καλόβουλο σκυλί. Αρχικά είχε εκτραφεί για να κυνηγήσει αρουραίους, αργότερα έγινε ζώο συντροφιάς και επίδειξης.</YorkshireTerrier.description>
+  <YorkshireTerrier.tools.0.label>αριστερό νύχι</YorkshireTerrier.tools.0.label>
+  <YorkshireTerrier.tools.1.label>δεξιό νύχι</YorkshireTerrier.tools.1.label>
+  <YorkshireTerrier.tools.3.label>κεφάλι</YorkshireTerrier.tools.3.label>
+  <YorkshireTerrier_Leather.label>δέρμα γιορκσάιρ</YorkshireTerrier_Leather.label>
+  <YorkshireTerrier_Leather.description>πετσί από γιορκσάιρ</YorkshireTerrier_Leather.description>
+  <YorkshireTerrier_Leather.stuffProps.stuffAdjective>δέρμα από γιορκσάιρ</YorkshireTerrier_Leather.stuffProps.stuffAdjective>
+  <YorkshireTerrier_Meat.label>κρέας γιορκσάιρ τεριέ</YorkshireTerrier_Meat.label>
+  <YorkshireTerrier_Meat.description>κρέας από γιορκσάιρ τεριέ</YorkshireTerrier_Meat.description>
+  <YorkshireTerrier_Corpse.label>κουφάρι γιορκσάιρ τεριέ</YorkshireTerrier_Corpse.label>
+  <YorkshireTerrier_Corpse.description>πτώμα γιορκσάιρ τεριέ</YorkshireTerrier_Corpse.description>
+
+  <Husky.label>χάσκυ</Husky.label>
+  <Husky.description>Ένα μεγάλο, ενεργητικό σκυλί με παχιά γούνα για να στέκεται άνετα σε αρκτικό περιβάλλον.</Husky.description>
+  <Husky.tools.0.label>αριστερό νύχι</Husky.tools.0.label>
+  <Husky.tools.1.label>δεξιό νύχι</Husky.tools.1.label>
+  <Husky.tools.3.label>κεφάλι</Husky.tools.3.label>
+  <Husky_Leather.label>γούνα χάσκυ</Husky_Leather.label>
+  <Husky_Leather.description>τρίχωμα από χάσκυ</Husky_Leather.description>
+  <Husky_Leather.stuffProps.stuffAdjective>γούνα χάσκυ</Husky_Leather.stuffProps.stuffAdjective>
+  <Husky_Meat.label>κρέας χάσκυ</Husky_Meat.label>
+  <Husky_Meat.description>κρέας από χάσκυ</Husky_Meat.description>
+  <Husky_Corpse.label>κουφάρι χάσκυ</Husky_Corpse.label>
+  <Husky_Corpse.description>πτώμα χάσκυ</Husky_Corpse.description>
+
+  <LabradorRetriever.label>λαμπραντόρ ριτρίβερ</LabradorRetriever.label>
+  <LabradorRetriever.description>Ένα πολύ ευέλικτο, μεσαίου μεγέθους σκυλί. Αρχικά είχε εκτραφεί για να κουβαλάει τα πτηνά που πυροβολούνταν στο κυνήγι, το λαμπραντόρ είναι επίσης ένα εξαιρετικό σκυλάκι φρουράς, παιχνιδιάρης σύντροφος και φίλος της οικογένειας.</LabradorRetriever.description>
+  <LabradorRetriever.tools.0.label>αριστερό νύχι</LabradorRetriever.tools.0.label>
+  <LabradorRetriever.tools.1.label>δεξιό νύχι</LabradorRetriever.tools.1.label>
+  <LabradorRetriever.tools.3.label>κεφάλι</LabradorRetriever.tools.3.label>
+  <LabradorRetriever_Leather.label>γούνα λαμπραντόρ</LabradorRetriever_Leather.label>
+  <LabradorRetriever_Leather.description>τρίχωμα από λαμπραντόρ</LabradorRetriever_Leather.description>
+  <LabradorRetriever_Leather.stuffProps.stuffAdjective>γούνα λαμπραντόρ</LabradorRetriever_Leather.stuffProps.stuffAdjective>
+  <LabradorRetriever_Meat.label>κρέας λαμπραντόρ ριτρίβερ</LabradorRetriever_Meat.label>
+  <LabradorRetriever_Meat.description>κρέας από λαμπραντόρ ριτρίβερ</LabradorRetriever_Meat.description>
+  <LabradorRetriever_Corpse.label>κουφάρι λαμπραντόρ ριτρίβερ</LabradorRetriever_Corpse.label>
+  <LabradorRetriever_Corpse.description>πτώμα λαμπραντόρ ριτρίβερ</LabradorRetriever_Corpse.description>
+
+  <Cat.label>γάτα</Cat.label>
+  <Cat.description>Ένα από τα πρώτα κατοικίδια ζώα της ανθρωπότητας, η γάτα είναι ένα μικρό θηλαστικό που κυνηγάει τα παράσιτα. Γνωστές για το ότι είναι λίγο απόμακρες, οι γάτες είναι παρόλα αυτά δημοφιλείς σύντροφοι λόγω της ηρεμίας, της ανεξαρτησίας και της απαλής γούνας.</Cat.description>
+  <Cat.tools.0.label>αριστερό νύχι</Cat.tools.0.label>
+  <Cat.tools.1.label>δεξιό νύχι</Cat.tools.1.label>
+  <Cat.tools.3.label>κεφάλι</Cat.tools.3.label>
+  <Cat_Leather.label>δέρμα γάτας</Cat_Leather.label>
+  <Cat_Leather.description>πετσί από γάτα</Cat_Leather.description>
+  <Cat_Leather.stuffProps.stuffAdjective>δέρμα γάτας</Cat_Leather.stuffProps.stuffAdjective>
+  <Cat_Meat.label>κρέας γάτας</Cat_Meat.label>
+  <Cat_Meat.description>κρέας από γάτα</Cat_Meat.description>
+  <Cat_Corpse.label>κουφάρι γάτας</Cat_Corpse.label>
+  <Cat_Corpse.description>πτώμα γάτας</Cat_Corpse.description>
+
+
+</LanguageData>

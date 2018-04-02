@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Autosaving>Αυτόματη αποθήκευση</Autosaving>
+  <GameStartDialog>Οι τρεις από εσάς ξυπνάτε στις σαρκοφάγους κρυογονικού ύπνου με τον ήχο των σειρήνων και το σκίσιμο του μετάλλου. Μόλις φτάσετε στις ατράκτους διαφυγής πριν το διαστημόπλοιο διαλυθεί.\n\nΚάποια στιγμή αργότερα, προσγειώνεστε σε αυτό τον άγνωστο εξωπλανήτη.\n\nΚαθώς τα κομμάτια του διαλυμένου αστρόπλοιου πέφτουν γύρω σας, αρχίζετε να σχεδιάζετε πως να επιβιώσετε.</GameStartDialog>
+  <Colony>Αποικία</Colony>
+  <ChangeLanguageFromMainMenu>Μπορείς να αλλάξεις γλώσσα μόνο από την οθόνη επιλογών του βασικού μενού.</ChangeLanguageFromMainMenu>
+  <AndLower>και</AndLower>
+  <DisabledLower>απενεργοποιημένο</DisabledLower>
+
+
+  <VersionIndicator>Έκδοση {0}</VersionIndicator>
+  <DevelopmentBuildLower>ανάπτυξη</DevelopmentBuildLower>
+  <CompiledOn>Σύνταξη {0}</CompiledOn>
+  <LoggedIntoSteamAs>Είσοδος στη Steam ως {0}</LoggedIntoSteamAs>
+
+  <!-- Γενικής χρήσης λέξεις (General-use words) -->
+  <Yes>Ναι</Yes>
+  <No>Όχι</No>
+  <min>ελάχιστο</min>
+  <max>μέγιστο</max>
+  <chance>πιθανότητα</chance>
+  <context>συμφραζόμενα </context>
+  <multiplier>πολλαπλασιαστής</multiplier>
+  <damage>ζημιά</damage>
+  <radius>εύρος</radius>
+  <durationDays>διάρκεια (μέρες)</durationDays>
+  <intervalDays>διάστημα (ημέρες)</intervalDays>
+  <repeat>επανάληψη</repeat>
+  <default>προκαθορισμένο</default>
+  <distance>απόσταση</distance>
+
+  <!-- Δημιουργία περιεχομένου (Content generation)-->
+
+  <MeatLabel>{0} κρέας</MeatLabel>
+  <MeatDesc>Ωμή σφαγμένη σάρκα. Μπορεί να μαγειρευτεί σε γεύματα, ή να φαγωθεί ωμή.</MeatDesc>
+
+  <LeatherLabel>{0} δέρμα</LeatherLabel>
+  <LeatherDesc>Αποξηραμένο, στεγνό, γδαρμένο δέρμα. Ένα καλό παραδοσιακό υλικό για ρούχα και τσάντες.</LeatherDesc>
+
+  <CorpseLabel>{0} πτώμα</CorpseLabel>
+  <CorpseDesc>Νεκρό σώμα από {0}.</CorpseDesc>
+  <DeadLabel>{0} (νεκρό)</DeadLabel>
+
+  <RoughStoneTerrainLabel>τραχύ {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Τραχύ, φυσικό {0} έδαφος.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>ακατέργαστο {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Φυσικά κομμένο {0} τραχύ πάτωμα.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>ομαλό {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Λείο φυσικό {0} πάτωμα.</SmoothStoneTerrainDesc>
+
+  <BlueprintLabelExtra> (σχέδιο)</BlueprintLabelExtra>
+  <FrameLabelExtra> (κτίριο)</FrameLabelExtra>
+
+
+  <!-- Για πράγματα κατασκευασμένα από υλικό, π.χ. "Πέτρινο κρεβάτι" (For things made of stuff, e.g. "Stone bed") -->
+  <!-- 0 είναι η ιδιότητα thingsAdjective κάτω από stuffProps και το 1 είναι η ετικέτα (0 is the stuffAdjective property under stuffProps and 1 is the label) -->
+  <ThingMadeOfStuffLabel>{1} από {0}</ThingMadeOfStuffLabel>
+
+  <SomeonesRoom>{1} του {0}</SomeonesRoom>
+  <CouplesRoom>{2} του {0} και του {1}</CouplesRoom>
+
+  <VariousLabel>(διάφορα)</VariousLabel>
+
+  <!-- Ιστορικά γεγονότα (History events) -->
+  <ColonistDied>Πεθαμένοι άποικοι</ColonistDied>
+
+  <!-- Περιστροφή (Rotation) -->
+  <North>Βοράς</North>
+  <South>Νότος</South>
+  <West>Ανατολή</West>
+  <East>Δύση</East>
+
+
+</LanguageData>

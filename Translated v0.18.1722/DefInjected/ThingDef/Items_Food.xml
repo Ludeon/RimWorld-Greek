@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MealSurvivalPack.label>πακεταρισμένο φαγητό επιβίωσης</MealSurvivalPack.label>
+  <MealSurvivalPack.description>Ένα φαγητό υψηλής ποιότητας, κατασκευασμένο για χρήση σε καταστάσεις έκτακτης ανάγκης.</MealSurvivalPack.description>
+
+  <MealNutrientPaste.label>γεύμα θρεπτικής πάστας</MealNutrientPaste.label>
+  <MealNutrientPaste.description>Ένα συνθετικό μείγμα πρωτεϊνών, υδατανθράκων, βιταμινών, αμινοξέων και μετάλλων. Οτιδήποτε χρειάζεται το σώμα, και απολύτως αηδιαστικό.</MealNutrientPaste.description>
+
+  <MealSimple.label>απλό κολατσιό</MealSimple.label>
+  <MealSimple.description>Ένα απλό κολατσιό μαγειρεμένο γρήγορα με λίγα υλικά.</MealSimple.description>
+
+  <MealFine.label>καλό κολατσιό</MealFine.label>
+  <MealFine.description>Ένα καλό κολατσιό φτιαγμένο με φροντίδα από μία μεγάλη ποικιλία υλικών.</MealFine.description>
+
+  <MealLavish.label>πολυτελή γεύμα</MealLavish.label>
+  <MealLavish.description>Ένα αριστούργημα, έργο μαγειρικής τέχνης, είναι ένα γεύμα που τρέφει το μυαλό, το σώμα και την ψυχή.</MealLavish.description>
+
+  <Kibble.label>κροκέτες</Kibble.label>
+  <Kibble.description>Κονιορτοποιημένες ζωοτροφές που παρασκευάζονται από τη μίξη κρέατος και φυτικών πηγών. Οι άνθρωποι μπορούν να το φάνε, αλλά πραγματικά, πραγματικά δεν θα τους αρέσει.</Kibble.description>
+
+  <Pemmican.label>πέμικαν</Pemmican.label>
+  <Pemmican.description>Ένα συντηρημένο πολτοποιημένο μείγμα λίπους και φυτικής τροφής. Οι γεύση είναι ήπια, αλλά όχι ενοχλητική. Διαρκεί πολύ καιρό χωρίς ψύξη.</Pemmican.description>
+
+
+</LanguageData>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SolarFlare.label>ηλιακή έκλαμψη</SolarFlare.label>
+  <SolarFlare.description>Μια ηλιακή έκλαμψη πλήττει τον πλανήτη. Αυτό δημιουργεί ακραίες ηλεκτρικές παρεμβολές και εμποδίζει τις περισσότερες ηλεκτρικές συσκευές να λειτουργήσουν.</SolarFlare.description>
+  <SolarFlare.endMessage>Η ηλιακή έκλαμψη τελείωσε.</SolarFlare.endMessage>
+
+  <Eclipse.label>έκλειψη</Eclipse.label>
+  <Eclipse.description>Μια έκλειψη σκιάζει την επιφάνεια. Θα είναι σκοτεινά, ακόμη και κατά τη διάρκεια της ημέρας.</Eclipse.description>
+  <Eclipse.endMessage>Η έκλειψη τελείωσε.</Eclipse.endMessage>
+
+  <PsychicDrone.label>ψυχικός βόμβος</PsychicDrone.label>
+  <PsychicDrone.description>Μια απομακρυσμένη, ισχυρή Τεχνική Νοημοσύνη εκπέμπει κύματα ψυχικής δύναμης που οδηγούν τους ανθρώπους προς την παραφροσύνη.</PsychicDrone.description>
+  <PsychicDrone.endMessage>Ο ψυχικός βόμβος τελείωσε.</PsychicDrone.endMessage>
+
+  <PsychicSoothe.label>ψυχική ανακούφιση</PsychicSoothe.label>
+  <PsychicSoothe.description>Μία μακρινή, ισχυρή Τεχνική Νοημοσύνη εκπέμπει κύματα ψυχικής δύναμης που καθησυχάζουν τους ανθρώπους και σταθεροποιούν το μυαλό τους.</PsychicSoothe.description>
+  <PsychicSoothe.endMessage>Η ψυχική ανακούφιση τελείωσε.</PsychicSoothe.endMessage>
+
+  <ToxicFallout.label>τοξικά ραδιενεργά κατάλοιπα</ToxicFallout.label>
+  <ToxicFallout.description>Ένα νέφος τοξικής σκόνης από κάποια μακρινή πηγή εγκαθίσταται αργά σε ολόκληρη την περιοχή του πλανήτη. Όποιος δεν είναι κάτω από μια στέγη σιγά, σιγά θα δηλητηριαστεί.</ToxicFallout.description>
+  <ToxicFallout.endMessage>Τα χειρότερα τοξικά ραδιενεργά απόβλητα έχουν κατακαθίσει.</ToxicFallout.endMessage>
+
+  <VolcanicWinter.label>ηφαιστειακός χειμώνας</VolcanicWinter.label>
+  <VolcanicWinter.description>Η ατμόσφαιρα πνίγεται από τα ηφαιστειακά σωματίδια, μειώνοντας σημαντικά την ποσότητα φωτός που φτάνει στην επιφάνεια. Οι θερμοκρασίες θα είναι πιο κρύες και τα φυτά θα αναπτυχθούν πιο αργά.</VolcanicWinter.description>
+  <VolcanicWinter.endMessage>Η περισσότερη από την ηφαιστειακή στάχτη έχει διαλυθεί.</VolcanicWinter.endMessage>
+
+  <HeatWave.label>καύσωνας</HeatWave.label>
+  <HeatWave.description>Ένα ακραίο κύμα θερμότητας ψήνει την περιοχή.</HeatWave.description>
+  <HeatWave.endMessage>Το κύμα καύσωνα πέρασε.</HeatWave.endMessage>
+
+  <ColdSnap.label>ψυχρή κακοκαιρία</ColdSnap.label>
+  <ColdSnap.description>Μια ασυνήθιστη ψυχρή κακοκαιρία καταψύχει την περιοχή.</ColdSnap.description>
+  <ColdSnap.endMessage>Η ψυχρή κακοκαιρία πέρασε.</ColdSnap.endMessage>
+
+  <Flashstorm.label>θύελλα αστραπών</Flashstorm.label>
+  <Flashstorm.description>Ακραίες ποσότητες κεραυνών χτυπούν μια μικρή περιοχή.</Flashstorm.description>
+  <Flashstorm.endMessage>Η θύελλα αστραπών τελείωσε.</Flashstorm.endMessage>
+
+  <ClimateCycle.label>κλιματικός κύκλος</ClimateCycle.label>
+  <ClimateCycle.description>Πολύχρονος κλιματικός κύκλος λόγω ελλειπτικής τροχιάς.</ClimateCycle.description>
+
+  <Planetkiller.label>καταστροφέας πλανητών</Planetkiller.label>
+  <Planetkiller.description>Ένα διαστρικό όπλο καταστροφής πλανητών πλησιάζει σε αυτόν τον πλανήτη. Όταν χτυπήσει, θα καταστρέψει όλη τη ζωή.</Planetkiller.description>
+
+  <Aurora.label>σέλας</Aurora.label>
+  <Aurora.description>Μια φωτεινή αύρα φωτίζει τον ουρανό. Τα κυματιστά χρώματα θα ενισχύσουν τη διάθεση του καθενός που είναι έξω μόλις τα δουν.</Aurora.description>
+  <Aurora.endMessage>Το σέλας σταμάτησε.</Aurora.endMessage>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BurnedTree.label>καμένο δέντρο</BurnedTree.label>
+  <BurnedTree.description>Ένα καμένο δέντρο. Δεν προσφέρει χρήσιμο ξύλο.</BurnedTree.description>
+
+  <PlantAmbrosia.label>θάμνος αμβροσίας</PlantAmbrosia.label>
+  <PlantAmbrosia.description>Ένας σπάνιος βλαστήνοντας θάμνος που αποδίδει τον καρπό της αμβροσίας. Η αμβροσία είναι ευχάριστη για φαγητό και παράγει ελαφρώς εθιστική χημική ζεστασιά.</PlantAmbrosia.description>
+
+
+</LanguageData>

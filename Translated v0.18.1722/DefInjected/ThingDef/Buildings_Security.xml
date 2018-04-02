@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sandbags.label>αμμόσακοι</Sandbags.label>
+  <Sandbags.description>Κάλυψη από πυροβολισμούς.</Sandbags.description>
+  <Sandbags_Blueprint.label>αμμόσακοι (προσχέδιο)</Sandbags_Blueprint.label>
+  <Sandbags_Frame.label>αμμόσακοι (κατασκευή)</Sandbags_Frame.label>
+  <Sandbags_Frame.description>Κάλυψη από τα πυροβολισμούς.</Sandbags_Frame.description>
+
+
+  <!-- Αυτοσχέδιο πυργίσκος (Improvised turret) -->
+
+  <TurretGun.label>αυτοσχέδιος πυργίσκος</TurretGun.label>
+  <TurretGun.description>Ένας αδύναμος αυτοσχέδιος πυργίσκος που πυροβολεί αυτόματα τους εχθρούς. Εκρήγνυται όταν καταστρέφεται. Ο σπασμένος εγκέφαλος της τεχνητής νοημοσύνης που έχει τοποθετηθεί δεν είναι πολύ έξυπνος και δεν μπορεί να ελεγχθεί άμεσα, οπότε προσέξτε τα φίλια πύρα.</TurretGun.description>
+  <TurretGun_Blueprint.label>αυτοσχέδιος πυργίσκος (προσχέδιο)</TurretGun_Blueprint.label>
+  <TurretGun_Blueprint_Install.label>αυτοσχέδιος πυργίσκος (προσχέδιο)</TurretGun_Blueprint_Install.label>
+  <TurretGun_Frame.label>αυτοσχέδιος πυργίσκος (κατασκευή)</TurretGun_Frame.label>
+  <TurretGun_Frame.description>Ένας αδύναμος αυτοσχέδιος πυργίσκος που πυροβολεί αυτόματα τους εχθρούς. Εκρήγνυται όταν καταστρέφεται. Ο σπασμένος εγκέφαλος της τεχνητής νοημοσύνης που έχει τοποθετηθεί δεν είναι πολύ έξυπνος και δεν μπορεί να ελεγχθεί άμεσα, οπότε προσέξτε τα φίλια πύρα.</TurretGun_Frame.description>
+
+  <Bullet_TurretImprovised.label>Σφαίρες αυτοσχέδιου πυργίσκου</Bullet_TurretImprovised.label>
+
+  <Gun_TurretImprovised.label>όπλο αυτοσχέδιου πυργίσκου</Gun_TurretImprovised.label>
+  <Gun_TurretImprovised.description>Πυροβόλο όπλο τοποθετημένο σε ένα πυργίσκο.</Gun_TurretImprovised.description>
+
+
+  <!-- Πύργος ολμοβόλου (Mortar turret) -->
+
+  <Turret_Mortar.label>ολμοβόλο</Turret_Mortar.label>
+  <Turret_Mortar.description>Ένα ολμοβόλο που εκτοξεύει κάθε είδους βλήματος. Πρέπει να είναι επανδρωμένο. Εκρήγνυται όταν καταστραφεί.</Turret_Mortar.description>
+  <Turret_Mortar_Blueprint.label>ολμοβόλο (προσχέδιο)</Turret_Mortar_Blueprint.label>
+  <Turret_Mortar_Blueprint_Install.label>ολμοβόλο (προσχέδιο)</Turret_Mortar_Blueprint_Install.label>
+  <Turret_Mortar_Frame.label>ολμοβόλο (κατασκευή)</Turret_Mortar_Frame.label>
+  <Turret_Mortar_Frame.description>Ένα ολμοβόλο που εκτοξεύει κάθε είδους βλήματος. Πρέπει να είναι επανδρωμένο. Εκρήγνυται όταν καταστραφεί.</Turret_Mortar_Frame.description>
+
+  <Artillery_Mortar.label>ολμοβόλο</Artillery_Mortar.label>
+  <Artillery_Mortar.description>Εκτοξευτήρας όλμου. Πετάει ψιλά βόμβες πάνω από τους τοίχους. Πολύ ανακριβές αλλά μακρυβόλο.</Artillery_Mortar.description>
+
+
+  <!-- Παγίδες (Traps) -->
+
+  <TrapDeadfall.label>παγίδα θανάσιμου βάρους</TrapDeadfall.label>
+  <TrapDeadfall.description>Ένα αιωρούμενο βάρος με ακίδες που συγκρατείται από μια λεπτή σκανδάλη. Όταν το θύμα διαταράξει τη σκανδάλη, το βάρος απελευθερώνεται και πέφτει στο κεφάλι ή στον κορμό του.</TrapDeadfall.description>
+  <TrapDeadfall_Blueprint.label>παγίδα θανάσιμου βάρους (προσχέδιο)</TrapDeadfall_Blueprint.label>
+  <TrapDeadfall_Frame.label>παγίδα θανάσιμου βάρους (κατασκευή)</TrapDeadfall_Frame.label>
+  <TrapDeadfall_Frame.description>Ένα αιωρούμενο βάρος με ακίδες που συγκρατείται από μια λεπτή σκανδάλη. Όταν το θύμα διαταράξει τη σκανδάλη, το βάρος απελευθερώνεται και πέφτει στο κεφάλι ή στον κορμό του.</TrapDeadfall_Frame.description>
+
+  <TrapIED_HighExplosive.label>παγίδα αυτοσχέδιας εκρηκτική συσκευής</TrapIED_HighExplosive.label>
+  <TrapIED_HighExplosive.description>Ένας όλμος συνδεδεμένος σε μια αυτοσχέδια σκανδάλη. Όταν κάποιος διαταράξει τη σκανδάλη, το βλήμα εκρηγνύεται. Η αυτοσχέδια σκανδάλη έχει μια τυχαία καθυστέρηση που θα μπορούσε να επιτρέψει έναν σβέλτο εχθρό να ξεφύγει.</TrapIED_HighExplosive.description>
+  <TrapIED_HighExplosive_Blueprint.label>παγίδα αυτοσχέδιας εκρηκτική συσκευής (προσχέδιο)</TrapIED_HighExplosive_Blueprint.label>
+  <TrapIED_HighExplosive_Frame.label>παγίδα αυτοσχέδιας εκρηκτική συσκευής(κατασκευή)</TrapIED_HighExplosive_Frame.label>
+  <TrapIED_HighExplosive_Frame.description>Ένας όλμος συνδεδεμένος σε μια αυτοσχέδια σκανδάλη. Όταν κάποιος διαταράξει τη σκανδάλη, το βλήμα εκρηγνύεται. Η αυτοσχέδια σκανδάλη έχει μια τυχαία καθυστέρηση που θα μπορούσε να επιτρέψει έναν σβέλτο εχθρό να ξεφύγει.</TrapIED_HighExplosive_Frame.description>
+
+  <TrapIED_Incendiary.label>παγίδα αυτοσχέδιου εμπρηστικού μηχανισμού</TrapIED_Incendiary.label>
+  <TrapIED_Incendiary.description>Οι εκρηκτικές ύλες αναμειγνύονται σε μια εμπρηστική πάστα με μια χημική σκανδάλη για διασκορπισμό. Η χημική ενεργοποίησή της είναι απλή και αξιόπιστη.</TrapIED_Incendiary.description>
+  <TrapIED_Incendiary_Blueprint.label>παγίδα αυτοσχέδιου εμπρηστικού μηχανισμού (προσχέδιο)</TrapIED_Incendiary_Blueprint.label>
+  <TrapIED_Incendiary_Frame.label>παγίδα αυτοσχέδιου εμπρηστικού μηχανισμού (κατασκευή)</TrapIED_Incendiary_Frame.label>
+  <TrapIED_Incendiary_Frame.description>Οι εκρηκτικές ύλες αναμειγνύονται σε μια εμπρηστική πάστα με μια χημική σκανδάλη για διασκορπισμό. Η χημική ενεργοποίησή της είναι απλή και αξιόπιστη.</TrapIED_Incendiary_Frame.description>
+
+  <TrapIED_EMP.label>παγίδα αυτοσχέδια ηλεκτρομαγνητικού παλμού</TrapIED_EMP.label>
+  <TrapIED_EMP.description>Μια απλή παγίδα που αποτελείται από ένα ηλεκτρομαγνητικό παλμικό βλήμα και μια αυτοσχέδια σκανδάλη. Η έκρηξη μπορεί να παραλύσει τα μηχανικά πλάσματα για μερικά δευτερόλεπτα. Μπορεί να ενεργοποιηθεί ακόμα και από εκείνους που δεν επηρεάζονται από εκρήξεις ηλεκτρομαγνητικών παλμών.</TrapIED_EMP.description>
+  <TrapIED_EMP_Blueprint.label>παγίδα αυτοσχέδια ηλεκτρομαγνητικού παλμού (προσχέδιο)</TrapIED_EMP_Blueprint.label>
+  <TrapIED_EMP_Frame.label>παγίδα αυτοσχέδια ηλεκτρομαγνητικού παλμού (κατασκευή)</TrapIED_EMP_Frame.label>
+  <TrapIED_EMP_Frame.description>Μια απλή παγίδα που αποτελείται από ένα ηλεκτρομαγνητικό παλμικό βλήμα και μια αυτοσχέδια σκανδάλη. Η έκρηξη μπορεί να παραλύσει τα μηχανικά πλάσματα για μερικά δευτερόλεπτα. Μπορεί να ενεργοποιηθεί ακόμα και από εκείνους που δεν επηρεάζονται από εκρήξεις ηλεκτρομαγνητικών παλμών.</TrapIED_EMP_Frame.description>
+
+  <TrapIED_Firefoam.label>αυτοσχέδια παγίδα αφρού</TrapIED_Firefoam.label>
+  <TrapIED_Firefoam.description>Όταν κάποιος αγγίξει τη σκανδάλη, η παγίδα εκρήγνυται και ψεκάζει έναν αφρό πυρόσβεσης γύρω από τον εαυτό της.</TrapIED_Firefoam.description>
+  <TrapIED_Firefoam_Blueprint.label>αυτοσχέδια παγίδα αφρού (προσχέδιο)</TrapIED_Firefoam_Blueprint.label>
+  <TrapIED_Firefoam_Frame.label>αυτοσχέδια παγίδα αφρού (κατασκευή)</TrapIED_Firefoam_Frame.label>
+  <TrapIED_Firefoam_Frame.description>Όταν κάποιος αγγίξει τη σκανδάλη, η παγίδα εκρήγνυται και ψεκάζει έναν αφρό πυρόσβεσης γύρω από τον εαυτό της.</TrapIED_Firefoam_Frame.description>
+
+  <TrapIED_AntigrainWarhead.label>αυτοσχέδια παγίδα κεφαλής αντιύλης</TrapIED_AntigrainWarhead.label>
+  <TrapIED_AntigrainWarhead.description>Μια μικροσκοπική κεφαλή αντιύλης που συνδέεται με μια αυτοσχέδια σκανδάλη. Δημιουργεί τεράστια έκρηξη και ξεκινά πυρκαγιές γύρω από τον εαυτό της όταν διασκορπίζεται.</TrapIED_AntigrainWarhead.description>
+  <TrapIED_AntigrainWarhead_Blueprint.label>αυτοσχέδια παγίδα κεφαλής αντιύλης (προσχέδιο)</TrapIED_AntigrainWarhead_Blueprint.label>
+  <TrapIED_AntigrainWarhead_Frame.label>αυτοσχέδια παγίδα κεφαλή αντιύλης (κατασκευή)</TrapIED_AntigrainWarhead_Frame.label>
+  <TrapIED_AntigrainWarhead_Frame.description>Μια μικροσκοπική κεφαλή αντιύλης που συνδέεται με μια αυτοσχέδια σκανδάλη. Δημιουργεί τεράστια έκρηξη και ξεκινά πυρκαγιές γύρω από τον εαυτό της όταν διασκορπίζεται.</TrapIED_AntigrainWarhead_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Squirrel.label>σκίουρος</Squirrel.label>
+  <Squirrel.description>Ένα από τα πολλά ανθεκτικά, ευπροσάρμοστα είδη τρωκτικών που ακολουθούν την ανθρωπότητα όπου αυτή εξαπλώνεται.</Squirrel.description>
+  <Squirrel.tools.0.label>αριστερό νύχι</Squirrel.tools.0.label>
+  <Squirrel.tools.1.label>δεξιό νύχι</Squirrel.tools.1.label>
+  <Squirrel.tools.3.label>κεφάλι</Squirrel.tools.3.label>
+  <Squirrel_Leather.label>σκιουρόδερμα</Squirrel_Leather.label>
+  <Squirrel_Leather.description>δέρμα σκίουρου</Squirrel_Leather.description>
+  <Squirrel_Leather.stuffProps.stuffAdjective>σκιουρόδερμα</Squirrel_Leather.stuffProps.stuffAdjective>
+  <Squirrel_Meat.label>κρέας σκίουρου</Squirrel_Meat.label>
+  <Squirrel_Meat.description>κρέας από σκίουρο</Squirrel_Meat.description>
+  <Squirrel_Corpse.label>ψοφίμι σκίουρου</Squirrel_Corpse.label>
+  <Squirrel_Corpse.description>πτώμα σκίουρου</Squirrel_Corpse.description>
+
+  <Alphabeaver.label>αλφακάστορας</Alphabeaver.label>
+  <Alphabeaver.description>Ένας γενετικά τροποποιημένος μεγάλος κάστορας σχεδιασμένος για τη συγκομιδή ξύλου σχεδόν με μηχανική απόδοση. Σε ελλείψει της συγκεκριμένης τροφής, τα ζώα αυτά θα εισέρχονται σε μια μανιακή κατάσταση που τα αναγκάζει να τρώνε ολόκληρα δέντρα.</Alphabeaver.description>
+  <Alphabeaver.tools.0.label>αριστερό νύχι</Alphabeaver.tools.0.label>
+  <Alphabeaver.tools.1.label>δεξιό νύχι</Alphabeaver.tools.1.label>
+  <Alphabeaver.tools.3.label>κεφάλι</Alphabeaver.tools.3.label>
+  <Alphabeaver_Leather.label>γούνα κάστορα</Alphabeaver_Leather.label>
+  <Alphabeaver_Leather.description>γούνα από κάστορα</Alphabeaver_Leather.description>
+  <Alphabeaver_Leather.stuffProps.stuffAdjective>γούνα κάστορα</Alphabeaver_Leather.stuffProps.stuffAdjective>
+  <Alphabeaver_Meat.label>κρέας αλφακάστορα</Alphabeaver_Meat.label>
+  <Alphabeaver_Meat.description>κρέας από αλφακάστορα</Alphabeaver_Meat.description>
+  <Alphabeaver_Corpse.label>ψοφίμι αλφακάστορα</Alphabeaver_Corpse.label>
+  <Alphabeaver_Corpse.description>πτώμα αλφακάστορα</Alphabeaver_Corpse.description>
+
+  <Capybara.label>υδρόχοιρος</Capybara.label>
+  <Capybara.description>Το μεγαλύτερο φυσικό τρωκτικό, ο υδρόχοιρος είναι καλά προσαρμοσμένος για την υγρή ζούγκλα.</Capybara.description>
+  <Capybara.tools.0.label>αριστερό νύχι</Capybara.tools.0.label>
+  <Capybara.tools.1.label>δεξιό νύχι</Capybara.tools.1.label>
+  <Capybara.tools.3.label>κεφάλι</Capybara.tools.3.label>
+  <Capybara_Leather.label>δέρμα υδρόχοιρου</Capybara_Leather.label>
+  <Capybara_Leather.description>τομάρι από υδρόχοιρο</Capybara_Leather.description>
+  <Capybara_Leather.stuffProps.stuffAdjective>δέρμα υδρόχοιρου</Capybara_Leather.stuffProps.stuffAdjective>
+  <Capybara_Meat.label>κρέας υδρόχοιρου</Capybara_Meat.label>
+  <Capybara_Meat.description>κρέας από υδρόχοιρο</Capybara_Meat.description>
+  <Capybara_Corpse.label>ψοφίμι υδρόχοιρου</Capybara_Corpse.label>
+  <Capybara_Corpse.description>πτώμα υδρόχοιρου</Capybara_Corpse.description>
+
+  <Chinchilla.label>τσιντσιλά</Chinchilla.label>
+  <Chinchilla.description>Ένα μικρό αλλά γρήγορο τρωκτικό γνωστό για την εξαιρετικά απαλή γούνα του.</Chinchilla.description>
+  <Chinchilla.tools.0.label>αριστερό νύχι</Chinchilla.tools.0.label>
+  <Chinchilla.tools.1.label>δεξιό νύχι</Chinchilla.tools.1.label>
+  <Chinchilla.tools.3.label>κεφάλι</Chinchilla.tools.3.label>
+  <Chinchilla_Leather.label>γούνα τσιντσιλά</Chinchilla_Leather.label>
+  <Chinchilla_Leather.description>τρίχωμα από τσιντσιλά</Chinchilla_Leather.description>
+  <Chinchilla_Leather.stuffProps.stuffAdjective>γούνα τσιντσιλά</Chinchilla_Leather.stuffProps.stuffAdjective>
+  <Chinchilla_Meat.label>κρέας τσιντσιλά</Chinchilla_Meat.label>
+  <Chinchilla_Meat.description>κρέας από τσιντσιλά</Chinchilla_Meat.description>
+  <Chinchilla_Corpse.label>ψοφίμι τσιντσιλά</Chinchilla_Corpse.label>
+  <Chinchilla_Corpse.description>πτώμα τσιντσιλά</Chinchilla_Corpse.description>
+
+  <Boomrat.label>εκρηκτικός αρουραίος</Boomrat.label>
+  <Boomrat.description>Είτε με εσκεμμένη γενετική οπλοποίηση είτε ως ασυνήθιστο αμυντικό μηχανισμό, αυτά τα παρόμοια με τρωκτικά πλάσματα δημιουργούν μια ισχυρή εκρηκτική φωτιά όταν σκοτωθούν.</Boomrat.description>
+  <Boomrat.tools.0.label>αριστερό νύχι</Boomrat.tools.0.label>
+  <Boomrat.tools.1.label>δεξιό νύχι</Boomrat.tools.1.label>
+  <Boomrat.tools.3.label>κεφάλι</Boomrat.tools.3.label>
+  <Boomrat_Leather.label>δέρμα εκρηκτικού αρουραίου</Boomrat_Leather.label>
+  <Boomrat_Leather.description>τομάρι από εκρηκτικό αρουραίο</Boomrat_Leather.description>
+  <Boomrat_Leather.stuffProps.stuffAdjective>δέρμα εκρηκτικού αρουραίου</Boomrat_Leather.stuffProps.stuffAdjective>
+  <Boomrat_Meat.label>κρέας εκρηκτικού αρουραίου</Boomrat_Meat.label>
+  <Boomrat_Meat.description>κρέας από εκρηκτικό αρουραίο</Boomrat_Meat.description>
+  <Boomrat_Corpse.label>ψοφίμι εκρηκτικού αρουραίου</Boomrat_Corpse.label>
+  <Boomrat_Corpse.description>πτώμα εκρηκτικού αρουραίου</Boomrat_Corpse.description>
+
+  <Raccoon.label>ρακούν</Raccoon.label>
+  <Raccoon.description>Ένα μικρό, ανθεκτικό ζώο που περιφέρετε μεταξύ των δασών και των θαμνωδών περιοχών. Τρώει σχεδόν τα πάντα.</Raccoon.description>
+  <Raccoon.tools.0.label>αριστερό νύχι</Raccoon.tools.0.label>
+  <Raccoon.tools.1.label>δεξιό νύχι</Raccoon.tools.1.label>
+  <Raccoon.tools.3.label>κεφάλι</Raccoon.tools.3.label>
+  <Raccoon_Leather.label>δέρμα ρακούν</Raccoon_Leather.label>
+  <Raccoon_Leather.description>τομάρι από ρακούν</Raccoon_Leather.description>
+  <Raccoon_Leather.stuffProps.stuffAdjective>δέρμα ρακούν</Raccoon_Leather.stuffProps.stuffAdjective>
+  <Raccoon_Meat.label>κρέας ρακούν</Raccoon_Meat.label>
+  <Raccoon_Meat.description>κρέας από ρακούν</Raccoon_Meat.description>
+  <Raccoon_Corpse.label>ψοφίμι ρακούν</Raccoon_Corpse.label>
+  <Raccoon_Corpse.description>πτώμα ρακούν</Raccoon_Corpse.description>
+
+  <Rat.label>αρουραίος</Rat.label>
+  <Rat.description>Ένα τρωκτικό που είναι διάσημο για τις λερωμένες κουζίνες και την εξάπλωση των ασθενειών. Τρώει σχεδόν τα πάντα, ζει σχεδόν οπουδήποτε.</Rat.description>
+  <Rat.tools.0.label>αριστερό νύχι</Rat.tools.0.label>
+  <Rat.tools.1.label>δεξιό νύχι</Rat.tools.1.label>
+  <Rat.tools.3.label>κεφάλι</Rat.tools.3.label>
+  <Rat_Leather.label>ποντικόδερμα</Rat_Leather.label>
+  <Rat_Leather.description>τομάρι από αρουραίο</Rat_Leather.description>
+  <Rat_Leather.stuffProps.stuffAdjective>ποντικόδερμα</Rat_Leather.stuffProps.stuffAdjective>
+  <Rat_Meat.label>κρέας αρουραίου</Rat_Meat.label>
+  <Rat_Meat.description>κρέας από αρουραίο</Rat_Meat.description>
+  <Rat_Corpse.label>ψοφίμι αρουραίου</Rat_Corpse.label>
+  <Rat_Corpse.description>πτώμα αρουραίου</Rat_Corpse.description>
+
+
+</LanguageData>

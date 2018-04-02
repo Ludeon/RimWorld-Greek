@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Πυρήνας προσωπικότητας τεχνητής νοημοσύνης (AI persona core) -->
+
+  <AIPersonaCore.label>πυρήνας τεχνητής νοημοσύνης</AIPersonaCore.label>
+  <AIPersonaCore.description>Ένας υπερυπολογιστής που φιλοξενεί μία υπεράνθρωπη τεχνητή νοημοσύνη. Στην απομονωμένη του κατάσταση παραμένει αδρανές. Εγκατεστημένη όμως σε μία ιδανική συσκευή, μετατρέπεται σε ένα μυαλό με τρομακτική ισχύ.</AIPersonaCore.description>
+
+
+  <!-- Μηχανικός ορός (Mech serum) -->
+
+  <MechSerumNeurotrainer.label>νευροεκπαιδευτικός μηχανικός ορός</MechSerumNeurotrainer.label>
+  <MechSerumNeurotrainer.description>Μιας χρήσης υπερδόση από μηχανίτες που συντονίζονται για να αναπτύξουν μια συγκεκριμένη ικανότητα. Η δόση χορηγείται μέσω του αμφιβληστροειδή. Αφού απελευθερωθούν στον εγκέφαλο, οι μηχανίτες βελτιώνουν γρήγορα τις δεξιότητες του υποκειμένου σε μια συγκεκριμένη περιοχή, μετατρέποντας τον εαυτό τους σε νευρικό ιστό όπου χρειάζεται.</MechSerumNeurotrainer.description>
+  <MechSerumNeurotrainer.comps.1.useLabel>Χρήση του νευροεκπαιδευτικού μηχανικού ορού για να μάθετε {0}</MechSerumNeurotrainer.comps.1.useLabel>
+
+  <MechSerumHealer.label>ιαματικός μηχανικός ορός</MechSerumHealer.label>
+  <MechSerumHealer.description>Μιας χρήσης υπερδόση από μηχανίτες που συντονίζονται για να θεραπεύσουν τα προβλήματα υγείας. Οι μηχανίτες θα στοχεύσουν και θα θεραπεύσουν το χειρότερο πρόβλημα υγείας που επηρεάζει κάποιον ανά πάσα στιγμή. Λειτουργούν ακόμη και σε προβλήματα υγείας που διαφορετικά θα ήταν ανίατα. Οι μηχανίτες μπορούν ακόμη και να μετατραπούν σε οργανική ύλη, σχηματίζοντας νέα άκρα ή όργανα ανάλογα με τις ανάγκες.</MechSerumHealer.description>
+  <MechSerumHealer.comps.1.useLabel>Χρήση του ιαματικού μηχανικού ορού</MechSerumHealer.comps.1.useLabel>
+
+  <MechSerumResurrector.label>αναγεννησιακός μηχανικός ορός</MechSerumResurrector.label>
+  <MechSerumResurrector.description>Μιας χρήσης υπερδόση των μηχανίτων που συντονίζεται για να αναστήσει τους νεκρούς. Χορηγούνται σε ένα πτώμα αμέσως μετά το θάνατο, οι μηχανίτες επισκευάζουν τους σπασμένους ιστούς και ενεργοποιούν τη ζωή ξανά στο σώμα. Δεν είναι πάντα επιτυχείς - μερικές φορές, οι αναστημένοι θα επιστρέψουν με εγκεφαλική βλάβη, τύφλωση ή προοδευτική ψύχωση. Τα αποτελέσματα είναι καλύτερα όταν οι μηχανίτες χορηγούνται το συντομότερο δυνατών.</MechSerumResurrector.description>
+  <MechSerumResurrector.comps.1.useLabel>Χρήση του αναγεννησιακού μηχανικού ορού</MechSerumResurrector.comps.1.useLabel>
+
+
+  <!-- Τεχνολογία βοήθεια προσωπικότητας (Technology helper persona) -->
+
+  <TechprofSubpersonaCore.label>πυρήνας τεχνολογικής υποποπροσωπικότητας</TechprofSubpersonaCore.label>
+  <TechprofSubpersonaCore.description>Ένας μικρός πυρήνας τεχνητής νοημοσύνης που περιέχει μία υποβαθμισμένη υποποπροσωπικότητα που ειδικεύεται στην διδασκαλία τεχνολογίας. Όταν χρησιμοποιείται, η τεχνητή νοημοσύνη θα σας διδάξει μια τεχνολογία που δεν ξέρετε, αμέσως και αβίαστα. Μπορεί να χρησιμοποιηθεί μόνο μία φορά.</TechprofSubpersonaCore.description>
+  <TechprofSubpersonaCore.comps.1.useLabel>Χρήση του πυρήνα τεχνολογικής υποποπροσωπικότητας</TechprofSubpersonaCore.comps.1.useLabel>
+
+
+  <!-- Κέρας θρούμπο (Thrumbo horn) -->
+
+  <ThrumboHorn.label>κέρας θρούμπο</ThrumboHorn.label>
+  <ThrumboHorn.description>Ένα κέρας από θρούμπο. Είναι κοφτερό σαν ξυράφι, πολύ σκληρό και ανεκτίμητο στις περισσότερες αγορές. Αυτό είναι ένα πραγματικό τρόπαιο.</ThrumboHorn.description>
+  <ThrumboHorn.tools.0.label>αιχμή</ThrumboHorn.tools.0.label>
+  <ThrumboHorn.tools.1.label>κορμός</ThrumboHorn.tools.1.label>
+
+
+  <!-- Χαυλιόδοντας ελέφαντα (Elephant tusk) -->
+
+  <ElephantTusk.label>χαυλιόδοντας ελέφαντα</ElephantTusk.label>
+  <ElephantTusk.description>Ένα χαυλιόδοντας ελέφαντα. Πολύ ανθεκτικός και πολύτιμος. Θανατηφόρος αλλά κάπως δυσμεταχείριστος ως όπλο.</ElephantTusk.description>
+  <ElephantTusk.tools.0.label>αιχμή</ElephantTusk.tools.0.label>
+  <ElephantTusk.tools.1.label>κορμός</ElephantTusk.tools.1.label>
+
+
+</LanguageData>

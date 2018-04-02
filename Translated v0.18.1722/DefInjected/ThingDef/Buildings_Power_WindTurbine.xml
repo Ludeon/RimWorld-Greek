@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WindTurbine.label>ανεμογεννήτρια</WindTurbine.label>
+  <WindTurbine.description>Μια ηλεκτρική γεννήτρια με αιολική ενέργεια. Απαιτεί ένα μεγάλο κενό χώρο εμπρός και πίσω για βέλτιστη ροή αέρα.</WindTurbine.description>
+  <WindTurbine_Blueprint.label>ανεμογεννήτρια (προσχέδιο)</WindTurbine_Blueprint.label>
+  <WindTurbine_Frame.label>ανεμογεννήτρια (κατασκευή)</WindTurbine_Frame.label>
+  <WindTurbine_Frame.description>Μια ηλεκτρική γεννήτρια με αιολική ενέργεια. Απαιτεί ένα μεγάλο κενό χώρο εμπρός και πίσω για βέλτιστη ροή αέρα.</WindTurbine_Frame.description>
+
+
+</LanguageData>
