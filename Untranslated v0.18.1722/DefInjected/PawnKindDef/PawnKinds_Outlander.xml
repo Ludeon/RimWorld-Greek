@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Villager.label>villager</Villager.label>
+  <Villager.label>Χωριάτης villager</Villager.label>
   <Villager.labelPlural>villagers</Villager.labelPlural>
 
   <TownCouncilman.label>town councilman</TownCouncilman.label>
@@ -10,7 +10,7 @@
   <TownTrader.label>town trader</TownTrader.label>
   <TownTrader.labelPlural>town traders</TownTrader.labelPlural>
 
-  <TownGuard.label>town guard</TownGuard.label>
+  <TownGuard.label>Φύλακας town guard</TownGuard.label>
   <TownGuard.labelPlural>town guards</TownGuard.labelPlural>
 
 

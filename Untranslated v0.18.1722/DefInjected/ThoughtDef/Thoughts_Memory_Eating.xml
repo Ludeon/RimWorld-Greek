@@ -3,17 +3,17 @@
 
   <!-- Basic quality thoughts -->
 
-  <AteLavishMeal.stages.0.label>ate lavish meal</AteLavishMeal.stages.0.label>
-  <AteLavishMeal.stages.0.description>That lavish meal was amazing. It nourished my body and my soul.</AteLavishMeal.stages.0.description>
+  <AteLavishMeal.stages.0.label>Έφαγε πολυτελές γεύμα ate lavish meal</AteLavishMeal.stages.0.label>
+  <AteLavishMeal.stages.0.description>Το γέυμα ήταν υπέροχο! Μου άγγιξε την ψυχή μου. That lavish meal was amazing. It nourished my body and my soul.</AteLavishMeal.stages.0.description>
 
-  <AteFineMeal.stages.0.label>ate fine meal</AteFineMeal.stages.0.label>
-  <AteFineMeal.stages.0.description>I ate a really tasty fine meal. Yum!</AteFineMeal.stages.0.description>
+  <AteFineMeal.stages.0.label>Έφαγε καλό γεύμα ate fine meal</AteFineMeal.stages.0.label>
+  <AteFineMeal.stages.0.description>Μμμ! Έφαγα ένα πολύ γευστικό γεύμα. I ate a really tasty fine meal. Yum!</AteFineMeal.stages.0.description>
 
   <AteAwfulMeal.stages.0.label>ate awful meal</AteAwfulMeal.stages.0.label>
   <AteAwfulMeal.stages.0.description>I had to eat a disgusting, tasteless meal. I know it keeps you alive, but nobody wants to swallow that glop.</AteAwfulMeal.stages.0.description>
 
-  <AteRawFood.stages.0.label>ate raw food</AteRawFood.stages.0.label>
-  <AteRawFood.stages.0.description>I had to eat raw food. Can't we cook it, or at least synthesize some nutrient paste?</AteRawFood.stages.0.description>
+  <AteRawFood.stages.0.label>Έφαγε ωμό φαγητό ate raw food</AteRawFood.stages.0.label>
+  <AteRawFood.stages.0.description>Έπρεπε να φάω ωμό φαγητό. Δέν μπορούμε να το μαγειρέψουμε ή έστω να συνθέσουμε λίγη θρεπτική πάστα; I had to eat raw food. Can't we cook it, or at least synthesize some nutrient paste?</AteRawFood.stages.0.description>
 
   <AteKibble.stages.0.label>ate kibble</AteKibble.stages.0.label>
   <AteKibble.stages.0.description>I had to eat animal kibble. It's like I don't get to be human any more.</AteKibble.stages.0.description>
@@ -25,13 +25,13 @@
   <!-- Special nature thoughts -->
 
   <AteHumanlikeMeatDirect.stages.0.label>raw cannibalism</AteHumanlikeMeatDirect.stages.0.label>
-  <AteHumanlikeMeatDirect.stages.0.description>I ate the meat of another human, raw, like an animal. This is a nightmare.</AteHumanlikeMeatDirect.stages.0.description>
+  <AteHumanlikeMeatDirect.stages.0.description>Έφαγα έναν άνθρωπο, ωμό σαν ζώο. Πρέπει να είναι εφιάλτης... I ate the meat of another human, raw, like an animal. This is a nightmare.</AteHumanlikeMeatDirect.stages.0.description>
 
   <AteHumanlikeMeatDirectCannibal.stages.0.label>raw cannibalism</AteHumanlikeMeatDirectCannibal.stages.0.label>
   <AteHumanlikeMeatDirectCannibal.stages.0.description>I ate the meat of another human, raw, like an animal. It was so... succulent.</AteHumanlikeMeatDirectCannibal.stages.0.description>
 
   <AteHumanlikeMeatAsIngredient.stages.0.label>cooked cannibalism</AteHumanlikeMeatAsIngredient.stages.0.label>
-  <AteHumanlikeMeatAsIngredient.stages.0.description>I ate a meal made from the meat of another human. This is horrible.</AteHumanlikeMeatAsIngredient.stages.0.description>
+  <AteHumanlikeMeatAsIngredient.stages.0.description>Έφαγα ένα γεύμα με ανθρώπινο κρέας. Είναι απαίσιο.I ate a meal made from the meat of another human. This is horrible.</AteHumanlikeMeatAsIngredient.stages.0.description>
 
   <AteHumanlikeMeatAsIngredientCannibal.stages.0.label>cooked cannibalism</AteHumanlikeMeatAsIngredientCannibal.stages.0.label>
   <AteHumanlikeMeatAsIngredientCannibal.stages.0.description>I ate a meal made from the meat of another human. So pleasurable. If only I had some fava beans and a nice chianti.</AteHumanlikeMeatAsIngredientCannibal.stages.0.description>

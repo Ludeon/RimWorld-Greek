@@ -223,7 +223,7 @@
   <TraderHasNoMore>Ο έμπορος δεν έχει άλλα.</TraderHasNoMore>
   <ColonyHasNoMore>Δεν υπάρχουν άλλα για πούλημα.</ColonyHasNoMore>
   <TraderWillNotTrade>Ο έμπορος δεν είναι πρόθυμος να το πουλήσει.</TraderWillNotTrade>
-  <Negotiator>Διαπραγματευτής Negotiator</Negotiator>
+  <Negotiator>Διαπραγματευτής</Negotiator>
   <NegotiatorTalkingImpaired>Ο διαπραγματευτής {0} δεν μπορεί να μιλήσει σωστά λόγω κακής υγείας.</NegotiatorTalkingImpaired>
   <NegotiatorHearingImpaired>Ο διαπραγματευτής {0} δεν μπορεί να ακούσει σωστά λόγω κακής υγείας.</NegotiatorHearingImpaired>
   <NegotiatorCapacityImpaired>Αυτό θα επηρεάσει τις τιμές του εμπορίου.\n\nΣκεφτείτε τη χρήση ενός υγιέστερου διαπραγματευτή.</NegotiatorCapacityImpaired>

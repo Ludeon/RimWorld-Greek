@@ -10,14 +10,14 @@
   <FeelingRandom.stages.3.label>Feeling terrible</FeelingRandom.stages.3.label>
   <FeelingRandom.stages.3.description>For no apparent reason, I just feel terrible right now.</FeelingRandom.stages.3.description>
 
-  <Imprisoned.stages.0.label>imprisoned</Imprisoned.stages.0.label>
-  <Imprisoned.stages.0.description>I hate being locked up.</Imprisoned.stages.0.description>
+  <Imprisoned.stages.0.label>Φυλακισμένος imprisoned</Imprisoned.stages.0.label>
+  <Imprisoned.stages.0.description>Σιχαίνομαι να με έχουν κλειδωμένο I hate being locked up.</Imprisoned.stages.0.description>
 
   <SharedBed.stages.0.label>sharing bed</SharedBed.stages.0.label>
   <SharedBed.stages.0.description>I have to share a bed with someone who I don't particularly want to.</SharedBed.stages.0.description>
 
-  <ColonistLeftUnburied.stages.0.label>colonist left unburied</ColonistLeftUnburied.stages.0.label>
-  <ColonistLeftUnburied.stages.0.description>One of us died and we're just leaving them lying in the open. Nobody should be left like that. People deserve a decent burial.</ColonistLeftUnburied.stages.0.description>
+  <ColonistLeftUnburied.stages.0.label>Άφαυτος άποικος colonist left unburied</ColonistLeftUnburied.stages.0.label>
+  <ColonistLeftUnburied.stages.0.description>Ένας από μας πέθανε και εμέις αφήνουμε το σώμα του να κείτεται στα ανοιχτά. Κανείς δεν το αξίζει αυτό. Όλοι οι άνθρωποι αξίζουν μία αξιοπρεπής ταφή One of us died and we're just leaving them lying in the open. Nobody should be left like that. People deserve a decent burial.</ColonistLeftUnburied.stages.0.description>
 
   <Naked.stages.0.label>naked</Naked.stages.0.label>
   <Naked.stages.0.description>I'm naked. This is humiliating.</Naked.stages.0.description>
@@ -36,14 +36,14 @@
 
   <PsychicDrone.stages.0.label>psychic soothe (medium)</PsychicDrone.stages.0.label>
   <PsychicDrone.stages.0.description>It's like a calming voice at the back of my mind, soothing me, settling my nerves.</PsychicDrone.stages.0.description>
-  <PsychicDrone.stages.1.label>psychic drone (low)</PsychicDrone.stages.1.label>
-  <PsychicDrone.stages.1.description>It's like a scratching at the back of my mind. A voice, whispering. I can only make out a few words, and I don't like them.</PsychicDrone.stages.1.description>
-  <PsychicDrone.stages.2.label>psychic drone (medium)</PsychicDrone.stages.2.label>
-  <PsychicDrone.stages.2.description>I feel like someone is always just out of sight, speaking to me. The voice changes but the message doesn't. I'm supposed to hurt people. Make it go away!</PsychicDrone.stages.2.description>
-  <PsychicDrone.stages.3.label>psychic drone (high)</PsychicDrone.stages.3.label>
-  <PsychicDrone.stages.3.description>The voice is unbearably loud. It's hard to concentrate. I find myself talking back to it, yelling at it. But it just keeps shouting!</PsychicDrone.stages.3.description>
-  <PsychicDrone.stages.4.label>psychic drone (extreme)</PsychicDrone.stages.4.label>
-  <PsychicDrone.stages.4.description>My heart pounds and I'm sweating. All I can think of is hurting and suffering and all these enemies around me. They're my nightmare, my nightmare, my nightmare...</PsychicDrone.stages.4.description>
+  <PsychicDrone.stages.1.label>Ψυχικό δρόμενο (ελάχιστο) psychic drone (low)</PsychicDrone.stages.1.label>
+  <PsychicDrone.stages.1.description>Νιώθω κάτι να με γαργαλάει το πίσω μέρος του μυαλού μου. Μια φωνή, ψιθυρίζει. Μπορώ να καταλάβω μόνο λίγες λέξεις, όμως δεν μου αρέσουν. It's like a scratching at the back of my mind. A voice, whispering. I can only make out a few words, and I don't like them.</PsychicDrone.stages.1.description>
+  <PsychicDrone.stages.2.label>υχικό δρόμενο (κανονικό) psychic drone (medium)</PsychicDrone.stages.2.label>
+  <PsychicDrone.stages.2.description>Νιώθω οτι κάποιος με παρακολουθεί και μου μιλάει. Η φωνή αλλάζει αλλά όχι το μύνημα. Μου λέει ότι πρέπει να βλάψω ανθρώπους. Κάντε το να φύγει! I feel like someone is always just out of sight, speaking to me. The voice changes but the message doesn't. I'm supposed to hurt people. Make it go away!</PsychicDrone.stages.2.description>
+  <PsychicDrone.stages.3.label>Ψυχικό δρόμενο (Υψηλό) psychic drone (high)</PsychicDrone.stages.3.label>
+  <PsychicDrone.stages.3.description> φωνή ειναι δυσβάσταχτα δυνατή. Είναι δύσκολο να συγκεντρωθείς. Βρίσκω τον εαυτό μου να μιλάει με αυτό, να του φωνάζει. Όμως αυτό συνεχίζει να ουρλιάζει! The voice is unbearably loud. It's hard to concentrate. I find myself talking back to it, yelling at it. But it just keeps shouting!</PsychicDrone.stages.3.description>
+  <PsychicDrone.stages.4.label>Ψυχικό δρόμενο (Ακραίο) psychic drone (extreme)</PsychicDrone.stages.4.label>
+  <PsychicDrone.stages.4.description>Η καρδιά μου σφυροκοπεί και ιδρώνω. Το μόνο που μπορώ να σκεφτώ είναι θάνατος και βάσανα. Είναι και όλοι οι εχθροί γύρο μου! Είναι ο εφιάλτης μου, ο εφιάλτης μου, ο εφιάλτης μου... My heart pounds and I'm sweating. All I can think of is hurting and suffering and all these enemies around me. They're my nightmare, my nightmare, my nightmare...</PsychicDrone.stages.4.description>
 
   <Joywire.stages.0.label>joywire</Joywire.stages.0.label>
   <Joywire.stages.0.description>It feels amazing.</Joywire.stages.0.description>

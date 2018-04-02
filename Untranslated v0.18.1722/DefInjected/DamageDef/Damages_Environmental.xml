@@ -2,13 +2,13 @@
 <LanguageData>
 
   <Flame.label>flame</Flame.label>
-  <Flame.deathMessage>{0} has burned to death.</Flame.deathMessage>
+  <Flame.deathMessage>{0} κάηκε μέχρι θανάτου has burned to death.</Flame.deathMessage>
 
 
   <!-- Burn is like Flame, but doesn't ignite anything -->
 
   <Burn.label>burn</Burn.label>
-  <Burn.deathMessage>{0} has burned to death.</Burn.deathMessage>
+  <Burn.deathMessage>{0} κάηκε μέχρι θανάτου has burned to death.</Burn.deathMessage>
 
   <Frostbite.label>frostbite</Frostbite.label>
   <Frostbite.deathMessage>{0} has succumbed to frostbite.</Frostbite.deathMessage>

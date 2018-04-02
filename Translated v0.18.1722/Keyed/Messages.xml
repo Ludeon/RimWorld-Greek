@@ -27,7 +27,7 @@
 
   <MessageNeedBeaconToTradeWithShip>Χρειάζεστε ένα τροχιακό εμπορικό φάρο για να κάνετε εμπόριο με ένα διαστημόπλοιο. Ο φάρος πρέπει να ρευματοδοτηθεί.</MessageNeedBeaconToTradeWithShip>
 
-  <MessageBillComplete>Η πληρωμή ολοκληρώθηκε: {0}.</MessageBillComplete>
+  <MessageBillComplete>Η λίστα ολοκληρώθηκε: {0}.</MessageBillComplete>
 
   <MessageFullyHealed>{0} είναι υγιέστατος.</MessageFullyHealed>
 

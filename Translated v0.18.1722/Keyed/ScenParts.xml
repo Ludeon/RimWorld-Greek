@@ -3,13 +3,13 @@
 
   <!-- ======================== Μη ομαδοποιημένα (Non-grouped) ========================-->
 
-  <ScenPart_PlayerFaction>Η φατρία σου θα είναι μία {0}.</ScenPart_PlayerFaction>
+  <ScenPart_PlayerFaction>Η φατρία σου θα είναι η {0}.</ScenPart_PlayerFaction>
 
-  <ScenPart_StartWithPawns>Ξεκίνα με {0} άτομα.</ScenPart_StartWithPawns>
+  <ScenPart_StartWithPawns>Ξεκίνας με {0} άτομα.</ScenPart_StartWithPawns>
   <ScenPart_StartWithPawns_OutOf>επιλέχθηκαν από</ScenPart_StartWithPawns_OutOf>
   <RandomPet>τυχαίο κατοικίδιο</RandomPet>
 
-  <ScenPart_StartingResearchFinished>Ξεκίνα με την έρευνα: {0}</ScenPart_StartingResearchFinished>
+  <ScenPart_StartingResearchFinished>Ξεκίνας με την έρευνα: {0}</ScenPart_StartingResearchFinished>
 
   <ScenPart_ArriveInDropPods>Άφιξη μέσα σε ακάτους.</ScenPart_ArriveInDropPods>
 
@@ -34,8 +34,8 @@
 
   <!-- ======================== Ομαδοποιημένα (Grouped) ========================-->
 
-  <ScenPart_StartWith>Ξεκίνα με</ScenPart_StartWith>
-  <ScenPart_MapScatteredWith>Ο χάρτης είναι διάσπαρτος</ScenPart_MapScatteredWith>
+  <ScenPart_StartWith>Ξεκίνας με</ScenPart_StartWith>
+  <ScenPart_MapScatteredWith>Στο χάρτη είναι διάσπαρτα</ScenPart_MapScatteredWith>
   <ScenPart_PermaGameCondition>Σταθερή συνθήκη(ες) παιχνιδιού</ScenPart_PermaGameCondition>
   <ScenPart_DisableIncident>Απρόοπτο(α) απενεργοποιήθηκαν</ScenPart_DisableIncident>
   <ScenPart_CreateIncident>Απρόοπτο δημιουργήθηκε</ScenPart_CreateIncident>

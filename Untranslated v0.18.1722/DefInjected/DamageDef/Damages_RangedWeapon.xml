@@ -7,7 +7,7 @@
   <RangedStab.deathMessage>{0} has been stabbed to death.</RangedStab.deathMessage>
 
   <Bullet.label>bullet</Bullet.label>
-  <Bullet.deathMessage>{0} has been shot to death.</Bullet.deathMessage>
+  <Bullet.deathMessage>{0} χει πυροβοληθεί μέχρι θανάτου has been shot to death.</Bullet.deathMessage>
 
   <Arrow.label>arrow</Arrow.label>
   <Arrow.deathMessage>{0} has been shot to death.</Arrow.deathMessage>

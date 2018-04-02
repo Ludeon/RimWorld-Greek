@@ -70,7 +70,7 @@
   <CommandCopyZoneSettingsLabel>Αντιγραφή ρυθμίσεων</CommandCopyZoneSettingsLabel>
   <CommandCopyZoneSettingsDesc>Αντιγράφει τις ρυθμίσεις αυτής της ζώνης στο πρόχειρο ώστε να μπορούν να γίνουν επικόλληση σε μια άλλη ζώνη.</CommandCopyZoneSettingsDesc>
 
-  <CommandPasteZoneSettingsLabel>Επικόλληση ρυθμίσεων Paste settings</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsLabel>Επικόλληση ρυθμίσεων</CommandPasteZoneSettingsLabel>
   <CommandPasteZoneSettingsDesc>Αντικαθιστά τις ρυθμίσεις αυτής της ζώνης με αυτές που προηγουμένως αντιγράφτηκαν στο πρόχειρο.</CommandPasteZoneSettingsDesc>
 
   <CommandAllowSow>Επιτρέπετε σπορά</CommandAllowSow>

@@ -3,17 +3,17 @@
 
   <!-- Misc -->
 
-  <Concrete.label>concrete</Concrete.label>
-  <Concrete.description>Quick-poured concrete. Fast to walk on, cheap, and very quick to pour, but quite ugly.</Concrete.description>
+  <Concrete.label>Τσιμέντο concrete</Concrete.label>
+  <Concrete.description>Κακοστρωμένο τσιμέντο. Περπατάς γρήγορα πάνω του όμως είναι άσχημο. Πρέπει πρώτα να σκάψεις το έδαφος για να το στρώσεις Quick-poured concrete. Fast to walk on, cheap, and very quick to pour, but quite ugly.</Concrete.description>
 
-  <PavedTile.label>paved tile</PavedTile.label>
-  <PavedTile.description>Utilitarian concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build.</PavedTile.description>
+  <PavedTile.label>Πλακόστρωμα paved tile</PavedTile.label>
+  <PavedTile.description>Επίστρωση από τσιμέντο. Γρήγορη μετακίνηση πάνο του αλλά φαίνεται άσχημο Utilitarian concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build.</PavedTile.description>
 
-  <WoodPlankFloor.label>wood floor</WoodPlankFloor.label>
-  <WoodPlankFloor.description>Wood plank flooring. For that warm, homey feeling. While it is easy to lay, it is also flammable.</WoodPlankFloor.description>
+  <WoodPlankFloor.label>Ξύλινο πάτωμα wood floor</WoodPlankFloor.label>
+  <WoodPlankFloor.description>Ξύλινη επίστρωση. Γι'αυτήν τηνο θερμή, σπιτική αίσθηση. Wood plank flooring. For that warm, homey feeling. While it is easy to lay, it is also flammable.</WoodPlankFloor.description>
 
-  <MetalTile.label>metal tile</MetalTile.label>
-  <MetalTile.description>Metal tiles, for that spaceship look. Pretty, but labor and material-intensive.</MetalTile.description>
+  <MetalTile.label>Μεταλικά Πλακάκια metal tile</MetalTile.label>
+  <MetalTile.description>Μεταλικά πλακάκια, για διακόσμιση παρόμοια με διαστιμοπλοίου! Metal tiles, for that spaceship look. Pretty, but labor and material-intensive.</MetalTile.description>
 
   <SilverTile.label>silver tile</SilverTile.label>
   <SilverTile.description>Expensive and slow to build, but very pretty. Fits perfectly into luxurious rooms.</SilverTile.description>
@@ -27,14 +27,14 @@
 
   <!-- Carpets -->
 
-  <CarpetRed.label>red carpet</CarpetRed.label>
-  <CarpetRed.description>Plush carpet in a lovely rose hue.</CarpetRed.description>
+  <CarpetRed.label>Κόκκινο Χαλί red carpet</CarpetRed.label>
+  <CarpetRed.description>Βελούδινο χαλί σε πανέμορφη κόκκινη απόχρωση Plush carpet in a lovely rose hue.</CarpetRed.description>
 
-  <CarpetGreen.label>green carpet</CarpetGreen.label>
-  <CarpetGreen.description>Naturalistic-feeling green carpet.</CarpetGreen.description>
+  <CarpetGreen.label>Πράσινο Χαλί green carpet</CarpetGreen.label>
+  <CarpetGreen.description>Πράσινο χαλί στο χρώμα της φύσης Naturalistic-feeling green carpet.</CarpetGreen.description>
 
-  <CarpetBlue.label>blue carpet</CarpetBlue.label>
-  <CarpetBlue.description>Toe-hugging plush carpet in a cool blue color.</CarpetBlue.description>
+  <CarpetBlue.label>Μπλέ Χαλί blue carpet</CarpetBlue.label>
+  <CarpetBlue.description>Το βελούδινο χαλί που αγκαλιάζει τα δάχτυλα των ποδιών σε ένα σαγηνευτικό μπλέ χρώμαToe-hugging plush carpet in a cool blue color.</CarpetBlue.description>
 
   <CarpetCream.label>cream carpet</CarpetCream.label>
   <CarpetCream.description>Inviting cream-colored carpet.</CarpetCream.description>

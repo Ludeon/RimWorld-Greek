@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CookMealSimple.label>cook simple meal</CookMealSimple.label>
-  <CookMealSimple.description>Cooks a straightforward meal from one ingredient.</CookMealSimple.description>
-  <CookMealSimple.jobString>Cooking simple meal.</CookMealSimple.jobString>
+  <CookMealSimple.label>Φτιάξε απλό κολατσιό cook simple meal</CookMealSimple.label>
+  <CookMealSimple.description>Φτιάξε ένα απλό κολατσιό από ένα μόνο υλικό Cooks a straightforward meal from one ingredient.</CookMealSimple.description>
+  <CookMealSimple.jobString>Ετοιμάζει απλό κολατσιό Cooking simple meal.</CookMealSimple.jobString>
 
   <CookMealSimpleCampfire.label>cook simple meal</CookMealSimpleCampfire.label>
   <CookMealSimpleCampfire.description>Cooks a straightforward meal from one ingredient.</CookMealSimpleCampfire.description>
   <CookMealSimpleCampfire.jobString>Cooking simple meal.</CookMealSimpleCampfire.jobString>
 
-  <CookMealFine.label>cook fine meal</CookMealFine.label>
-  <CookMealFine.description>Cooks a somewhat complex meal from a combination of raw meat and raw plant ingredients.</CookMealFine.description>
-  <CookMealFine.jobString>Cooking fine meal.</CookMealFine.jobString>
+  <CookMealFine.label>Φτιάξε καλό κολατσιό cook fine meal</CookMealFine.label>
+  <CookMealFine.description>Ετοίμασε ένα καλύτερο κολατσιό συνδιάζοντας ωμό κρέας και ωμά λαχανικά. Cooks a somewhat complex meal from a combination of raw meat and raw plant ingredients.</CookMealFine.description>
+  <CookMealFine.jobString>Ετοιμάζει καλό κολατσιό. Cooking fine meal.</CookMealFine.jobString>
 
-  <CookMealLavish.label>cook lavish meal</CookMealLavish.label>
-  <CookMealLavish.description>Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealLavish.description>
-  <CookMealLavish.jobString>Cooking lavish meal.</CookMealLavish.jobString>
+  <CookMealLavish.label>Φτιάξε πλούσιο γεύμα cook lavish meal</CookMealLavish.label>
+  <CookMealLavish.description>Μαγείρεψε το πιο καλό κολατσιό που μπορείς από κρέας και λαχανικά. Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealLavish.description>
+  <CookMealLavish.jobString>Ετοιμάζει πλούσιο κολατσιό Cooking lavish meal.</CookMealLavish.jobString>
 
   <CookMealSurvival.label>cook packaged survival meal</CookMealSurvival.label>
   <CookMealSurvival.description>Cooks a packaged survival meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealSurvival.description>

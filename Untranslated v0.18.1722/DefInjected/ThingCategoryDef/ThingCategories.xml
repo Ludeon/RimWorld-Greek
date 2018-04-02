@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Root.label>root</Root.label>
+  <Root.label>Ρίζα root</Root.label>
 
 
   <!-- Foods -->
 
-  <Foods.label>foods</Foods.label>
-  <FoodMeals.label>meals</FoodMeals.label>
-  <FoodRaw.label>raw food</FoodRaw.label>
-  <MeatRaw.label>meat</MeatRaw.label>
-  <PlantFoodRaw.label>vegetarian</PlantFoodRaw.label>
+  <Foods.label>Φαγώσιμα foods</Foods.label>
+  <FoodMeals.label>Γεύματα meals</FoodMeals.label>
+  <FoodRaw.label>Ωμή τροφή raw food</FoodRaw.label>
+  <MeatRaw.label>Ωμό κρέας meat</MeatRaw.label>
+  <PlantFoodRaw.label>Χορτοφάγος vegetarian</PlantFoodRaw.label>
   <AnimalProductRaw.label>animal products</AnimalProductRaw.label>
   <EggsUnfertilized.label>eggs (unfert.)</EggsUnfertilized.label>
   <EggsFertilized.label>eggs (fert.)</EggsFertilized.label>
@@ -18,7 +18,7 @@
 
   <!-- Manufactured -->
 
-  <Manufactured.label>manufactured</Manufactured.label>
+  <Manufactured.label>Κατασκευασμένα προϊόντα manufactured</Manufactured.label>
   <Textiles.label>textiles</Textiles.label>
   <Leathers.label>leathers</Leathers.label>
   <Medicine.label>medicine</Medicine.label>
@@ -28,14 +28,14 @@
 
   <!-- Raw resources -->
 
-  <ResourcesRaw.label>raw resources</ResourcesRaw.label>
+  <ResourcesRaw.label>Πρώτες ύλες raw resources</ResourcesRaw.label>
   <PlantMatter.label>plant matter</PlantMatter.label>
   <StoneBlocks.label>stone blocks</StoneBlocks.label>
 
 
   <!-- Items -->
 
-  <Items.label>items</Items.label>
+  <Items.label>Αντικείμενα items</Items.label>
   <Art.label>art</Art.label>
   <Furniture.label>furniture</Furniture.label>
   <Unfinished.label>unfinished</Unfinished.label>
@@ -47,7 +47,7 @@
 
   <!-- Weapons -->
 
-  <Weapons.label>weapons</Weapons.label>
+  <Weapons.label>Όπλα weapons</Weapons.label>
   <WeaponsMelee.label>melee weapons</WeaponsMelee.label>
   <WeaponsRanged.label>ranged weapons</WeaponsRanged.label>
   <Grenades.label>grenades</Grenades.label>

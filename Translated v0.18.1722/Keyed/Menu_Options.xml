@@ -16,7 +16,7 @@
   <HatsShownOnlyOnMap>Καπέλα μόνο στο χάρτη του παιχνιδιού</HatsShownOnlyOnMap>
   <UIScale>Κλίμακα UI</UIScale>
   <KeyboardConfig>Διαμόρφωση πληκτρολογίου</KeyboardConfig>
-  <ChooseLanguage>Επέλεξε γλώσσα</ChooseLanguage>
+  <ChooseLanguage>Επιλογή γλώσσας</ChooseLanguage>
   <ResetAdaptiveTutor>Επαναφορά βοηθού εκμάθησης</ResetAdaptiveTutor>
   <AdaptiveTutorIsReset>Η διδασκαλία επαναφέρθηκε. Τώρα θα επαναδιδαχθείς όλα τα μαθήματα από την αρχή.</AdaptiveTutorIsReset>
   <RunInBackground>Εκτέλεση στο παρασκήνιο</RunInBackground>
@@ -28,7 +28,7 @@
   <AddName>Πρόσθεσε όνομα</AddName>
   <TypeFirstNickOrLastName>Πληκτρολόγησε το μικρό όνομα, το ψευδώνυμο ή το επίθετο.</TypeFirstNickOrLastName>
   <MessageAlreadyPreferredName>Αυτό το όνομα υπάρχει ήδη στην λίστα προτιμήσεων.</MessageAlreadyPreferredName>
-  <ChangeStoryteller>Επέλεξε αφηγητή</ChangeStoryteller>
+  <ChangeStoryteller>Επιλογή αφηγητή</ChangeStoryteller>
   <AutosaveInterval>Αυτμτη απθκση</AutosaveInterval>
   <TemperatureMode>Θερμοκρασία σε:</TemperatureMode>
   <ShowRealtimeClock>Εμφάνιση πραγματικής ώρας</ShowRealtimeClock>

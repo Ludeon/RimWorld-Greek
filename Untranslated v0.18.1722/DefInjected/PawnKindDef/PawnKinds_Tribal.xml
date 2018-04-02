@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TribalWarrior.label>warrior</TribalWarrior.label>
+  <TribalWarrior.label>Μαχητής warrior</TribalWarrior.label>
   <TribalWarrior.labelPlural>warriors</TribalWarrior.labelPlural>
 
   <TribalTrader.label>trader</TribalTrader.label>
@@ -19,7 +19,7 @@
   <TribalBerserker.label>berserker</TribalBerserker.label>
   <TribalBerserker.labelPlural>berserkers</TribalBerserker.labelPlural>
 
-  <TribalChief.label>chief</TribalChief.label>
+  <TribalChief.label>Αρχηγός chief</TribalChief.label>
   <TribalChief.labelPlural>chiefs</TribalChief.labelPlural>
 
 
