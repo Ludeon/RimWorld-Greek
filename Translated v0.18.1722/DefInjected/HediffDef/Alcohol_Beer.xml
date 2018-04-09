@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AlcoholHigh.label>αλκοόλ</AlcoholHigh.label>
+  <AlcoholHigh.stages.0.label>μικρή ζαλάδα</AlcoholHigh.stages.0.label>
+  <AlcoholHigh.stages.1.label>ζέσταμα</AlcoholHigh.stages.1.label>
+  <AlcoholHigh.stages.2.label>ψιλομεθυσμένος</AlcoholHigh.stages.2.label>
+  <AlcoholHigh.stages.3.label>μεθυσμένος</AlcoholHigh.stages.3.label>
+  <AlcoholHigh.stages.4.label>σφυροκοπήματα</AlcoholHigh.stages.4.label>
+  <AlcoholHigh.stages.5.label>σκοτοδίνη</AlcoholHigh.stages.5.label>
+  <AlcoholHigh.labelNoun>λιώμα</AlcoholHigh.labelNoun>
+
+  <Hangover.label>μετά από μεθύσι</Hangover.label>
+  <Hangover.stages.0.label>ελαφριά</Hangover.stages.0.label>
+  <Hangover.stages.1.label>δυνατά</Hangover.stages.1.label>
+  <Hangover.stages.2.label>όλεθρος</Hangover.stages.2.label>
+  <Hangover.labelNoun>μετά από μεθύσι</Hangover.labelNoun>
+
+
+  <!-- Εθισμός στο αλκοόλ (Alcohol addiction) -->
+
+  <AlcoholTolerance.label>ανοχή στο αλκοόλ</AlcoholTolerance.label>
+  <AlcoholTolerance.stages.0.label>μικρή</AlcoholTolerance.stages.0.label>
+  <AlcoholTolerance.stages.1.label>μικρή</AlcoholTolerance.stages.1.label>
+  <AlcoholTolerance.stages.2.label>μεγάλη</AlcoholTolerance.stages.2.label>
+  <AlcoholTolerance.stages.3.label>ολική</AlcoholTolerance.stages.3.label>
+
+  <AlcoholAddiction.label>εθισμός στο αλκοόλ</AlcoholAddiction.label>
+  <AlcoholAddiction.stages.1.label>στέρηση</AlcoholAddiction.stages.1.label>
+
+
+</LanguageData>

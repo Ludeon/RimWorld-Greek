@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ButcherCorpseFlesh.label>σφάξε ζώο</ButcherCorpseFlesh.label>
+  <ButcherCorpseFlesh.description>Τεμάχισε ένα ζώο για να πάρεις το κρέας του σε εύχρηστη μορφή.</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.jobString>Σφάζει.</ButcherCorpseFlesh.jobString>
+
+  <ButcherCorpseMechanoid.label>αποσυναρμολόγησε μηχανικό πλάσμα</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.description>Αποσυναρμολογείς ένα μηχανικό πτώμα στα βασικά του μέρη.</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.jobString>Αποσυναρμολογεί μηχανικό πτώμα.</ButcherCorpseMechanoid.jobString>
+
+
+</LanguageData>

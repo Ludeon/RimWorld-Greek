@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Τυχαίες κοινωνικές αλληλεπιδράσεις (Random social interactions) -->
+
+  <Chitchat.stages.0.label>κουβεντούλα</Chitchat.stages.0.label>
+  <DeepTalk.stages.0.label>βαθιά συζήτηση</DeepTalk.stages.0.label>
+  <Slighted.stages.0.label>ασήμαντος</Slighted.stages.0.label>
+  <Insulted.stages.0.label>προσβεβλημένος</Insulted.stages.0.label>
+
+  <InsultedMood.stages.0.label>προσβολή</InsultedMood.stages.0.label>
+  <InsultedMood.stages.0.description>Έχω προσβληθεί άμεσα! Τι απαίσιο άτομο!</InsultedMood.stages.0.description>
+
+  <KindWords.stages.0.label>καλός λόγος</KindWords.stages.0.label>
+
+  <KindWordsMood.stages.0.label>καλός λόγος</KindWordsMood.stages.0.label>
+  <KindWordsMood.stages.0.description>Μου έχει πει καλά λόγια! Τι ωραίο άτομο!</KindWordsMood.stages.0.description>
+
+
+  <!-- Ειδική (Special) -->
+
+  <RapportBuilt.stages.0.label>κτίσιμο καλής σχέσης</RapportBuilt.stages.0.label>
+
+
+  <!-- Κοινωνικές διαμάχες (Social fights) -->
+
+  <HadAngeringFight.stages.0.label>είχε μια εξοργιστική διαμάχη</HadAngeringFight.stages.0.label>
+  <HadCatharticFight.stages.0.label>είχε μία ανακουφιστική λογομαχία</HadCatharticFight.stages.0.label>
+
+
+  <!-- Διάφορες ενέργειες που επηρεάζουν τη γνώμη (Misc actions affecting opinion) -->
+
+  <HarmedMe.stages.0.label>με έβλαψε</HarmedMe.stages.0.label>
+  <BotchedMySurgery.stages.0.label>τα σκάτωσε στην εγχείρησή μου</BotchedMySurgery.stages.0.label>
+  <RescuedMe.stages.0.label>με έσωσε</RescuedMe.stages.0.label>
+  <RecruitedMe.stages.0.label>με στρατολόγησε </RecruitedMe.stages.0.label>
+  <CrashedTogether.stages.0.label>συγκρούονται</CrashedTogether.stages.0.label>
+
+  <SoldMyLovedOne.stages.0.label>αγαπούσε έναν που πουλήθηκε</SoldMyLovedOne.stages.0.label>
+  <SoldMyLovedOne.stages.0.labelSocial>πούλησε το αγαπημένο μου πρόσωπο</SoldMyLovedOne.stages.0.labelSocial>
+  <SoldMyLovedOne.stages.0.description>Κάποιον που αγαπώ πωλήθηκε σε έναν έμπορο σαν ένα κομμάτι κρέας!</SoldMyLovedOne.stages.0.description>
+
+  <SoldMyBondedAnimal.stages.0.label>ζώο που είχε αφεντικό πουλήθηκε</SoldMyBondedAnimal.stages.0.label>
+  <SoldMyBondedAnimal.stages.0.labelSocial>πουλήθηκε το ζώο μου</SoldMyBondedAnimal.stages.0.labelSocial>
+  <SoldMyBondedAnimal.stages.0.description>Το ξεχωριστό μου ζώο είχε πουληθεί σε έναν έμπορο!</SoldMyBondedAnimal.stages.0.description>
+
+  <ForcedMeToTakeDrugs.stages.0.label>με ανάγκασε να πάρω τα ναρκωτικά</ForcedMeToTakeDrugs.stages.0.label>
+
+  <ForcedMeToTakeDrugsMood.stages.0.label>αναγκάστηκα να πάρω ναρκωτικά</ForcedMeToTakeDrugsMood.stages.0.label>
+  <ForcedMeToTakeDrugsMood.stages.0.description>Είμαι εγκρατής. Ποτέ δεν θα έπαιρνα ναρκωτικά κατ' επιλογή. Αλλά αναγκάστηκα! Νιώθω βρώμικος.</ForcedMeToTakeDrugsMood.stages.0.description>
+
+  <ForcedMeToTakeLuciferium.stages.0.label>αναγκάστηκα να πάρω διαβολάριουμ</ForcedMeToTakeLuciferium.stages.0.label>
+
+  <ForcedMeToTakeLuciferiumMood.stages.0.label>αναγκάστηκα να πάρω διαβολάριουμ</ForcedMeToTakeLuciferiumMood.stages.0.label>
+  <ForcedMeToTakeLuciferiumMood.stages.0.description>Είμαι προσθετοφοβικός. Ποτέ δεν θα έπαιρνα διαβολάριουμ κατ' επιλογή. Αλλά αναγκάστηκα! Νιώθω ακάθαρτος.</ForcedMeToTakeLuciferiumMood.stages.0.description>
+
+
+  <!-- Ρομαντισμός (Romance) -->
+
+  <RebuffedMyRomanceAttempt.stages.0.label>με απέρριψε</RebuffedMyRomanceAttempt.stages.0.label>
+
+  <RebuffedMyRomanceAttemptMood.stages.0.label>απορρίφθηκα από {0}</RebuffedMyRomanceAttemptMood.stages.0.label>
+  <RebuffedMyRomanceAttemptMood.stages.0.description>Προσπάθησα να δημιουργήσω ένα ρομαντισμό, αλλά πήρα μία κρυάδα. Αισθάνομαι κακός άνθρωπος.</RebuffedMyRomanceAttemptMood.stages.0.description>
+
+  <FailedRomanceAttemptOnMe.stages.0.label>απέτυχε να με γοητεύσει</FailedRomanceAttemptOnMe.stages.0.label>
+
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>έπρεπε να απορρίψω {0}</FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>Κάποιος που δεν μου αρέσει προσπάθησε να με γοητεύσει.</FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>
+
+  <BrokeUpWithMe.stages.0.label>έφαγε τα μούτρα του με εμένα</BrokeUpWithMe.stages.0.label>
+
+  <BrokeUpWithMeMood.stages.0.label>έφαγε τα μούτρα του από {0}</BrokeUpWithMeMood.stages.0.label>
+  <BrokeUpWithMeMood.stages.0.description>Μου έπεσε ακριβώς σαν φορτίο σκουπιδιών.</BrokeUpWithMeMood.stages.0.description>
+
+  <CheatedOnMe.stages.0.label>με απάτησε</CheatedOnMe.stages.0.label>
+
+  <CheatedOnMeMood.stages.0.label>απατήθηκε από {0}</CheatedOnMeMood.stages.0.label>
+  <CheatedOnMeMood.stages.0.description>Πως μπόρεσε κάποιος να με απατήσει!</CheatedOnMeMood.stages.0.description>
+
+  <DivorcedMe.stages.0.label>με χώρισε</DivorcedMe.stages.0.label>
+
+  <DivorcedMeMood.stages.0.label>χωρίστηκε από {0}</DivorcedMeMood.stages.0.label>
+  <DivorcedMeMood.stages.0.description>Κάναμε μια δέσμευση, και την έσπασε.</DivorcedMeMood.stages.0.description>
+
+  <RejectedMyProposal.stages.0.label>απορρίφθηκε η πρότασή μου</RejectedMyProposal.stages.0.label>
+
+  <RejectedMyProposalMood.stages.0.label>η πρότασή μου απορρίφθηκε από {0}</RejectedMyProposalMood.stages.0.label>
+  <RejectedMyProposalMood.stages.0.description>Νόμιζα ότι ήμασταν έτοιμοι να παντρευτούμε. Αλλά μόλις μου αρνήθηκε.</RejectedMyProposalMood.stages.0.description>
+
+  <IRejectedTheirProposal.stages.0.label>Απέρριψα την πρότασή τους</IRejectedTheirProposal.stages.0.label>
+
+  <HoneymoonPhase.stages.0.label>μήνας του μέλιτος</HoneymoonPhase.stages.0.label>
+  <HoneymoonPhase.stages.0.labelSocial>μήνας του μέλιτος</HoneymoonPhase.stages.0.labelSocial>
+  <HoneymoonPhase.stages.0.description>Είναι τόσο υπέροχο να ξεκινήσουμε μια νέα ζωή μαζί!</HoneymoonPhase.stages.0.description>
+
+  <GotSomeLovin.stages.0.label>πήρε λίγο έρωτα</GotSomeLovin.stages.0.label>
+  <GotSomeLovin.stages.0.description>Δεν υπάρχει τίποτα σαν το γλίστρημα στο κρεβάτι για να ανεβάσει τη διάθεση.</GotSomeLovin.stages.0.description>
+
+
+  <!-- Σκότωσε των Χι μου (Killed my X) -->
+
+  <KilledMyFriend.stages.0.label>σκότωσε τον φίλο μου</KilledMyFriend.stages.0.label>
+  <KilledMyRival.stages.0.label>σκότωσε τον αντίπαλό μου</KilledMyRival.stages.0.label>
+  <KilledMyLover.stages.0.label>σκότωσε τον εραστή μου</KilledMyLover.stages.0.label>
+  <KilledMyFiance.stages.0.label>σκότωσε τον αρραβωνιαστικό μου</KilledMyFiance.stages.0.label>
+  <KilledMySpouse.stages.0.label>σκότωσε τον σύζυγό μου</KilledMySpouse.stages.0.label>
+  <KilledMyFather.stages.0.label>σκότωσε τον πατέρα μου</KilledMyFather.stages.0.label>
+  <KilledMyMother.stages.0.label>σκότωσε την μητέρα μου</KilledMyMother.stages.0.label>
+  <KilledMySon.stages.0.label>σκότωσε τον γιο μου</KilledMySon.stages.0.label>
+  <KilledMyDaughter.stages.0.label>σκότωσε την κόρη μου</KilledMyDaughter.stages.0.label>
+  <KilledMyBrother.stages.0.label>σκότωσε τον αδερφό μου</KilledMyBrother.stages.0.label>
+  <KilledMySister.stages.0.label>σκότωσε την αδερφή μου</KilledMySister.stages.0.label>
+  <KilledMyKin.stages.0.label>σκότωσε τον συγγενή μου</KilledMyKin.stages.0.label>
+  <KilledMyBondedAnimal.stages.0.label>σκότωσε το ζωάκι μου</KilledMyBondedAnimal.stages.0.label>
+
+
+</LanguageData>

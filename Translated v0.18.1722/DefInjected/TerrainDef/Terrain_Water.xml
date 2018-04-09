@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WaterDeep.label>βαθιά νερά</WaterDeep.label>
+  <WaterOceanDeep.label>βαθιά νερά ωκεανού</WaterOceanDeep.label>
+  <WaterMovingDeep.label>βαθιά τρεχούμενα νερά</WaterMovingDeep.label>
+  <WaterShallow.label>ρηχά νερά</WaterShallow.label>
+  <WaterOceanShallow.label>ρηχά νερά ωκεανού</WaterOceanShallow.label>
+  <WaterMovingShallow.label>ρηχά τρεχούμενα νερά</WaterMovingShallow.label>
+
+
+</LanguageData>

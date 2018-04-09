@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Heatstroke.label>θερμοπληξία</Heatstroke.label>
+  <Heatstroke.stages.0.label>αρχική</Heatstroke.stages.0.label>
+  <Heatstroke.stages.1.label>αρχική</Heatstroke.stages.1.label>
+  <Heatstroke.stages.2.label>ελαφριά</Heatstroke.stages.2.label>
+  <Heatstroke.stages.3.label>σοβαρή</Heatstroke.stages.3.label>
+  <Heatstroke.stages.4.label>ακραία</Heatstroke.stages.4.label>
+
+  <Hypothermia.label>υποθερμία</Hypothermia.label>
+  <Hypothermia.stages.0.label>τρέμουλο</Hypothermia.stages.0.label>
+  <Hypothermia.stages.1.label>ελαφριά</Hypothermia.stages.1.label>
+  <Hypothermia.stages.2.label>κρυάδες</Hypothermia.stages.2.label>
+  <Hypothermia.stages.3.label>σοβαρή</Hypothermia.stages.3.label>
+  <Hypothermia.stages.4.label>ακραία</Hypothermia.stages.4.label>
+
+
+</LanguageData>

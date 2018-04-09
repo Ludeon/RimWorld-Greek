@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cassandra.label>Η κλασική Κασσάνδρα</Cassandra.label>
+  <Cassandra.description>Η Κασσάνδρα δημιουργεί γεγονότα με έναν σταθερά αυξανόμενο βαθμό με προκλήσεις και εντάσεις.</Cassandra.description>
+
+  <Phoebe.label>Χαλαρωτική Φοίβη</Phoebe.label>
+  <Phoebe.description>Η Φοίβη δίνει πολύ χρόνο μεταξύ καταστροφών για να χαλαρώσετε και να χτίσετε την αποικία σας. Αλλά προσέξτε - σε μεγάλες δυσκολίες, θα χτυπήσει πιο σκληρά απ' τον καθένα.</Phoebe.description>
+
+  <Randy.label>Αβέβαιος Ράντι</Randy.label>
+  <Randy.description>Ο Ράντι δεν ακολουθεί κανόνες. Θα δημιουργεί τυχαία γεγονότα, και δεν τον νοιάζει αν θα πρόκειται για ιστορία θριάμβου ή απόλυτης απελπισίας. Γι' αυτόν όλα είναι ένα δράμα.</Randy.description>
+
+  <Tutor.label>Απόκρυψη Βοηθού Εκμάθησης</Tutor.label>
+
+
+</LanguageData>

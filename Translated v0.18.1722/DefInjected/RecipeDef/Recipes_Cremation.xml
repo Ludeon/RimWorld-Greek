@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CremateCorpse.label>αποτέφρωσε πτώμα</CremateCorpse.label>
+  <CremateCorpse.description>Κάψε ένα πτώμα για να το καταστρέψεις τελείως.</CremateCorpse.description>
+  <CremateCorpse.jobString>Αποτεφρώνει.</CremateCorpse.jobString>
+
+  <BurnApparel.label>κάψε ρουχισμός</BurnApparel.label>
+  <BurnApparel.description>Καίει ενδυμασία για να την καταστρέψει τελείως.</BurnApparel.description>
+  <BurnApparel.jobString>Καίει ρουχισμό.</BurnApparel.jobString>
+
+  <BurnApparelCampfire.label>κάψε ρουχισμό</BurnApparelCampfire.label>
+  <BurnApparelCampfire.description>Καίει ενδυμασία για να την καταστρέψει τελείως.</BurnApparelCampfire.description>
+  <BurnApparelCampfire.jobString>Καίει ρουχισμό.</BurnApparelCampfire.jobString>
+
+  <BurnDrugs.label>κάψε ναρκωτικά</BurnDrugs.label>
+  <BurnDrugs.description>Καίει ναρκωτικά για να τα καταστρέψει τελείως.</BurnDrugs.description>
+  <BurnDrugs.jobString>Καίει ναρκωτικά.</BurnDrugs.jobString>
+
+
+</LanguageData>
