@@ -46,10 +46,10 @@
   <ElectricSmithy_Frame.label>ηλεκτρικό σιδηρουργείο (κατασκευή)</ElectricSmithy_Frame.label>
   <ElectricSmithy_Frame.description>Ένας σταθμός ηλεκτρικής ενέργειας εξοπλισμένος για την κατασκευή μη μηχανικών όπλων και εργαλείων.</ElectricSmithy_Frame.description>
 
-  <TableMachining.label>μηχανικό τραπέζι</TableMachining.label>
+  <TableMachining.label>πάγκος μηχανουργείου</TableMachining.label>
   <TableMachining.description>Ένα τραπέζι για να συναρμολογείτε ή να αποσυναρμολογείτε όπλα ή σώματα μηχανικών πλασμάτων.</TableMachining.description>
-  <TableMachining_Blueprint.label>μηχανικό τραπέζι (προσχέδιο)</TableMachining_Blueprint.label>
-  <TableMachining_Frame.label>μηχανικό τραπέζι (κατασκευή)</TableMachining_Frame.label>
+  <TableMachining_Blueprint.label>πάγκος μηχανουργείου (προσχέδιο)</TableMachining_Blueprint.label>
+  <TableMachining_Frame.label>πάγκος μηχανουργείου (κατασκευή)</TableMachining_Frame.label>
   <TableMachining_Frame.description>Ένα τραπέζι για να συναρμολογείτε ή να αποσυναρμολογείτε όπλα ή σώματα μηχανικών πλασμάτων.</TableMachining_Frame.description>
 
   <ElectricStove.label>ηλεκτρικό μαγειρείο</ElectricStove.label>

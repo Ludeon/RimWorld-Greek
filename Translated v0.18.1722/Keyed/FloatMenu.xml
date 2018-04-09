@@ -43,7 +43,7 @@
   <ConstructionSkillTooLow>πολύ μικρή ικανότητα κατασκευής</ConstructionSkillTooLow>
   <NoComponentsToRepair>χρειάζονται εξαρτήματα</NoComponentsToRepair>
   <NoFuelToRefuel>χρειάζεται {0}</NoFuelToRefuel>
-  <NoWort>χρειάζεται δουλειά</NoWort>
+  <NoWort>χωρίς ζυθόγλευκο</NoWort>
   <TheOnlyAvailableFoodIsInStorageOfHigherPriority>τα διαθέσιμα τρόφιμα είναι στην αποθήκη με τη μεγαλύτερη προτεραιότητα</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
   <NoFoodToFillHopper>δεν υπάρχει κατάλληλο φαγητό</NoFoodToFillHopper>
   <SelfTendDisabled>η αυτοπεριποίηση απενεργοποιήθηκε</SelfTendDisabled>
