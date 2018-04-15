@@ -12,4 +12,8 @@ A Greek translation for RimWorld.
 
 Εδώ θα βρεις το [πρότυπο αγγλικό κείμενο](https://github.com/RimWorld-zh/RimWorld-English) από όπου έγινε η μετάφραση.
 
+<<<<<<< HEAD
 See this [page](http://ludeon.com/forums/index.php?topic=2933.0) for license info.
+=======
+See this [page](http://ludeon.com/forums/index.php?topic=2933.0) for license info.
+>>>>>>> 1b2807f6066c3ff9667ff3409c56d7a9fbd718ad
