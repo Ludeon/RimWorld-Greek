@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AncientTempleContents.label>περιεχόμενα αρχαίου ναού</AncientTempleContents.label>
+  <AncientPodContents.label>περιεχόμενα αρχαίας ατράκτου</AncientPodContents.label>
+  <DebugCaravanInventory.label>διόρθωση χώρου αποθήκευσης καραβανιού</DebugCaravanInventory.label>
+  <TraderStock.label>απόθεμα εμπόρου</TraderStock.label>
+  <CaravanRequestRewards.label>αμοιβές αίτησης καραβανιού</CaravanRequestRewards.label>
+  <BanditCampQuestRewards.label>αμοιβές αναζήτησης στρατοπέδου λιστών</BanditCampQuestRewards.label>
+  <ItemStashQuest.label>αναζήτηση κριμένου αντικειμένου</ItemStashQuest.label>
+  <ResourcePod.label>άτρακτος αγαθών</ResourcePod.label>
+  <RefugeePod.label>άτρακτος διαφυγής</RefugeePod.label>
+  <PeaceTalksGift.label>δώρο ειρηνικών συνομιλιών</PeaceTalksGift.label>
+  <Meteorite.label>μετεωρίτης</Meteorite.label>
+
+
+</LanguageData>

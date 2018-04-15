@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <YayoHigh.stages.0.label>έχω φτιαχτεί με κόκα</YayoHigh.stages.0.label>
+  <YayoHigh.stages.0.description>Αισθάνομαι καύλα! Ας το κάνουμε!</YayoHigh.stages.0.description>
+
+
+  <!-- Εθισμός στο ψυχηλό (Psychite addiction) -->
+
+  <PsychiteWithdrawal.stages.1.label>στέρηση από το ψυχηλό</PsychiteWithdrawal.stages.1.label>
+  <PsychiteWithdrawal.stages.1.description>Θεέ μου είμαι κουρασμένος. Και τίποτα δεν είναι πλέον καλό.</PsychiteWithdrawal.stages.1.description>
+
+
+</LanguageData>

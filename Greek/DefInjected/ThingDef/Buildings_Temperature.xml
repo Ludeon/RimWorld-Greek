@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Campfire.label>φωτιά</Campfire.label>
+  <Campfire.description>Μαγειρεύει τα γεύματα και παράγει θερμότητα. Καίγεται μετά από μερικές ημέρες. Όπως και με όλες τις πηγές θερμότητας, πρέπει να τοποθετείται σε εσωτερικό χώρο, ώστε να ζεσταίνει κλειστό χώρο. Ανατροφοδοτούμενη.</Campfire.description>
+  <Campfire_Blueprint.label>φωτιά (προσχέδιο)</Campfire_Blueprint.label>
+  <Campfire_Frame.label>φωτιά (κατασκευή)</Campfire_Frame.label>
+  <Campfire_Frame.description>Μαγειρεύει τα γεύματα και παράγει θερμότητα. Καίγεται μετά από μερικές ημέρες. Όπως και με όλες τις πηγές θερμότητας, πρέπει να τοποθετείται σε εσωτερικό χώρο, ώστε να ζεσταίνει κλειστό χώρο.</Campfire_Frame.description>
+
+  <PassiveCooler.label>παθητικός ψυκτήρας</PassiveCooler.label>
+  <PassiveCooler.description>Ένας παραδοσιακός χωρίς ρεύμα ψυκτήρας που λειτουργεί με εξάτμιση νερού. Θα εξαντληθεί και θα καταστραφεί μόνο του μετά από αρκετές ημέρες.</PassiveCooler.description>
+  <PassiveCooler_Blueprint.label>παθητικός ψυκτήρας (προσχέδιο)</PassiveCooler_Blueprint.label>
+  <PassiveCooler_Frame.label>παθητικός ψυκτήρας (κατασκευή)</PassiveCooler_Frame.label>
+  <PassiveCooler_Frame.description>Ένας παραδοσιακός χωρίς ρεύμα ψυκτήρας που λειτουργεί με εξάτμιση νερού. Θα εξαντληθεί και θα καταστραφεί μόνο του μετά από αρκετές ημέρες.</PassiveCooler_Frame.description>
+
+  <Heater.label>θερμάστρα</Heater.label>
+  <Heater.description>Μια ηλεκτρική συσκευή που μετατρέπει την ηλεκτρική ενέργεια σε θερμότητα. Μπορεί αυτόματα να ενεργοποιηθεί ή να απενεργοποιηθεί για να φτάσει σε μια συγκεκριμένη θερμοκρασία.</Heater.description>
+  <Heater_Blueprint.label>θερμάστρα (προσχέδιο)</Heater_Blueprint.label>
+  <Heater_Blueprint_Install.label>θερμάστρα (προσχέδιο)</Heater_Blueprint_Install.label>
+  <Heater_Frame.label>θερμάστρα (κατασκευή)</Heater_Frame.label>
+  <Heater_Frame.description>Μια ηλεκτρική συσκευή που μετατρέπει την ηλεκτρική ενέργεια σε θερμότητα. Μπορεί αυτόματα να ενεργοποιηθεί ή να απενεργοποιηθεί για να φτάσει σε μια συγκεκριμένη θερμοκρασία.</Heater_Frame.description>
+
+  <Cooler.label>ψυκτήρας</Cooler.label>
+  <Cooler.description>Μια ηλεκτρική συσκευή που τοποθετείτε σε τοίχο και ωθεί τον κρύο αέρα σε ένα δωμάτιο. Η θυρίδα εξάτμισης παράγει πολύ θερμότητα. Μπορεί να χρησιμοποιηθεί για την ψύξη των δωματίων κατά τη διάρκεια του καλοκαιριού, ή για τη δημιουργία ενός καταψύκτη. </Cooler.description>
+  <Cooler_Blueprint.label>ψυκτήρας (προσχέδιο)</Cooler_Blueprint.label>
+  <Cooler_Frame.label>ψυκτήρας (κατασκευή)</Cooler_Frame.label>
+  <Cooler_Frame.description>Μια ηλεκτρική συσκευή που τοποθετείτε σε τοίχο και ωθεί τον κρύο αέρα σε ένα δωμάτιο. Η θυρίδα εξάτμισης παράγει πολύ θερμότητα. Μπορεί να χρησιμοποιηθεί για την ψύξη των δωματίων κατά τη διάρκεια του καλοκαιριού, ή για τη δημιουργία ενός καταψύκτη.</Cooler_Frame.description>
+
+  <Vent.label>αεραγωγός</Vent.label>
+  <Vent.description>Μια απλή έξοδος για την εξίσωση της θερμοκρασίας μεταξύ δύο δωματίων χωρίς να επιτρέπεται στους ανθρώπους να διέρχονται μέσα από αυτή.</Vent.description>
+  <Vent_Blueprint.label>αεραγωγός (προσχέδιο)</Vent_Blueprint.label>
+  <Vent_Frame.label>αεραγωγός (κατασκευή)</Vent_Frame.label>
+  <Vent_Frame.description>Μια απλή έξοδος για την εξίσωση της θερμοκρασίας μεταξύ δύο δωματίων χωρίς να επιτρέπεται στους ανθρώπους να διέρχονται μέσα από αυτή.</Vent_Frame.description>
+
+
+</LanguageData>

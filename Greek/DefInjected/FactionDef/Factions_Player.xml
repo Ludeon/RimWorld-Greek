@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlayerColony.label>Νεοαφιχθείς</PlayerColony.label>
+  <PlayerColony.description>Η κοινότητά σας.</PlayerColony.description>
+  <PlayerColony.pawnsPlural>άποικοι</PlayerColony.pawnsPlural>
+
+  <PlayerTribe.label>Νέα φυλή</PlayerTribe.label>
+  <PlayerTribe.description>Η φυλή σας.</PlayerTribe.description>
+  <PlayerTribe.pawnsPlural>άνθρωποι της φυλής</PlayerTribe.pawnsPlural>
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AllowCorpsesColonist.label>επιτρέπονται πτώματα κατοίκων</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.description>Επιτρέψτε να υπάρχουν πτώματα αποίκων.</AllowCorpsesColonist.description>
+
+  <AllowCorpsesStranger.label>επιτρέπονται πτώματα ξένων</AllowCorpsesStranger.label>
+  <AllowCorpsesStranger.description>Επιτρέψτε να υπάρχουν πτώματα ξένων και εχθρών.</AllowCorpsesStranger.description>
+
+  <AllowRotten.label>επιτρέπονται σάπια</AllowRotten.label>
+  <AllowRotten.description>Επιτρέπονται τα οργανικά υλικά που αρχίσουν να σαπίζουν.</AllowRotten.description>
+
+  <AllowPlantFood.label>επιτρέπεται φυσική τροφή</AllowPlantFood.label>
+  <AllowPlantFood.description>Επιτρέπονται τα τρόφιμα ποιότητας ισοδύναμα με τα μη συγκομισμένα φυτά, όπως το σανό.</AllowPlantFood.description>
+
+  <AllowSmeltable.label>επιτρέπονται τηκόμενα</AllowSmeltable.label>
+  <AllowNonSmeltableWeapons.label>επιτρέπονται μη τηκόμενα</AllowNonSmeltableWeapons.label>
+  <AllowNonDeadmansApparel.label>επιτρέπονται τα ρούχα των μη πεθαμένων</AllowNonDeadmansApparel.label>
+
+
+</LanguageData>

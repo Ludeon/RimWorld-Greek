@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cobra.label>κόμπρα</Cobra.label>
+  <Cobra.description>Ένα μεγάλο φίδι. Οι κόμπρες μπορούν να είναι ιδιαίτερα επιθετικές αν προκληθούν - είναι καλύτερα να μείνετε μακριά από αυτά τα πλάσματα.</Cobra.description>
+  <Cobra.tools.1.label>κεφάλι</Cobra.tools.1.label>
+  <Cobra_Leather.label>δέρμα κόμπρας</Cobra_Leather.label>
+  <Cobra_Leather.description>πετσί από κόμπρα</Cobra_Leather.description>
+  <Cobra_Leather.stuffProps.stuffAdjective>δέρμα κόμπρας</Cobra_Leather.stuffProps.stuffAdjective>
+  <Cobra_Meat.label>σάρκα κόμπρας </Cobra_Meat.label>
+  <Cobra_Meat.description>κρέας από κόμπρα</Cobra_Meat.description>
+  <Cobra_Corpse.label>απομεινάρι κόμπρας</Cobra_Corpse.label>
+  <Cobra_Corpse.description>πτώμα κόμπρας</Cobra_Corpse.description>
+
+  <Monkey.label>μαϊμού</Monkey.label>
+  <Monkey.description>Αυτός ο πίθηκος μπορεί να χρησιμοποιήσει την στριφογυριστή ουρά του για να αρπάζει τα κλαδιά, αφήνοντας τα χέρια του ελεύθερα να κάνουν άλλα πράγματα.</Monkey.description>
+  <Monkey.tools.0.label>αριστερή γροθιά</Monkey.tools.0.label>
+  <Monkey.tools.1.label>δεξιά γροθιά</Monkey.tools.1.label>
+  <Monkey.tools.3.label>κεφάλι</Monkey.tools.3.label>
+  <Monkey_Leather.label>πετσί μαϊμούς</Monkey_Leather.label>
+  <Monkey_Leather.description>δέρμα από μαϊμού</Monkey_Leather.description>
+  <Monkey_Leather.stuffProps.stuffAdjective>πετσί μαϊμούς</Monkey_Leather.stuffProps.stuffAdjective>
+  <Monkey_Meat.label>κρέας μαϊμούς</Monkey_Meat.label>
+  <Monkey_Meat.description>κρέας μαϊμούς</Monkey_Meat.description>
+  <Monkey_Corpse.label>ψοφίμι μαϊμούς</Monkey_Corpse.label>
+  <Monkey_Corpse.description>πτώμα μαϊμούς</Monkey_Corpse.description>
+
+  <Boomalope.label>βομβολόπη</Boomalope.label>
+  <Boomalope.description>Σχεδιασμένο για την παραγωγή χημικών προϊόντων, η βομβολόπη αναπτύσσει ένα μεγάλο θύλακα πτητικών χημικών ουσιών στην πλάτη της. Αν και είναι αδύναμο και εύθραυστο λόγω του μεγέθους του, τα άλλα ζώα έχουν μάθει να το αποφεύγουν λόγω της τεράστιας έκρηξης που παράγει όταν πεθάνει.</Boomalope.description>
+  <Boomalope.tools.0.label>κεφάλι</Boomalope.tools.0.label>
+  <Boomalope_Leather.label>δέρμα βομβολόπης</Boomalope_Leather.label>
+  <Boomalope_Leather.description>πετσί από βομβολόπη</Boomalope_Leather.description>
+  <Boomalope_Leather.stuffProps.stuffAdjective>δέρμα βομβολόπης</Boomalope_Leather.stuffProps.stuffAdjective>
+  <Boomalope_Meat.label>κρέας βομβολόπης</Boomalope_Meat.label>
+  <Boomalope_Meat.description>κρέας από βομβολόπη</Boomalope_Meat.description>
+  <Boomalope_Corpse.label>κουφάρι βομβολόπης</Boomalope_Corpse.label>
+  <Boomalope_Corpse.description>πτώμα βομβολόπης</Boomalope_Corpse.description>
+
+
+</LanguageData>

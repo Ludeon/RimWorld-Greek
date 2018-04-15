@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SmokeleafHigh.label>μαστούρα από καπνόφυλλα</SmokeleafHigh.label>
+  <SmokeleafHigh.labelNoun>ένα φτιάξιμο από καπνόφυλλα</SmokeleafHigh.labelNoun>
+
+
+  <!-- Εθισμός στα καπνόφυλλα (Smokeleaf addiction) -->
+
+  <SmokeleafTolerance.label>ανοχή στα καπνόφυλλα</SmokeleafTolerance.label>
+  <SmokeleafTolerance.stages.0.label>μικρή</SmokeleafTolerance.stages.0.label>
+  <SmokeleafTolerance.stages.1.label>μικρή</SmokeleafTolerance.stages.1.label>
+  <SmokeleafTolerance.stages.2.label>μεγάλη</SmokeleafTolerance.stages.2.label>
+  <SmokeleafTolerance.stages.3.label>ολική</SmokeleafTolerance.stages.3.label>
+
+  <SmokeleafAddiction.label>εξάρτηση από καπνόφυλλα</SmokeleafAddiction.label>
+  <SmokeleafAddiction.stages.1.label>στέρηση</SmokeleafAddiction.stages.1.label>
+
+
+</LanguageData>

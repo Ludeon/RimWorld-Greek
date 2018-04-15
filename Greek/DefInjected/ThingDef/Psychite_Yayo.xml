@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yayo.label>κοκαΐνη</Yayo.label>
+  <Yayo.description>Μια λεπτή λευκή σκόνη ρουθουνίζετε για να δημιουργήσει μια ευφορία. Η κοκαΐνη μειώνει την ανάγκη του χρήστη για ανάπαυση και καταστέλλει τον πόνο. Είναι, ωστόσο, εθιστική.</Yayo.description>
+  <Yayo.ingestible.ingestCommandString>Μυτιά {0}</Yayo.ingestible.ingestCommandString>
+  <Yayo.ingestible.ingestReportString>Ρουθούνισε {0}.</Yayo.ingestible.ingestReportString>
+
+
+</LanguageData>

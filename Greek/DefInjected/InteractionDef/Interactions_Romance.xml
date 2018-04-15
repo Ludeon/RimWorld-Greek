@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RomanceAttempt.label>προσπάθεια για σχέση</RomanceAttempt.label>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.0>logentry->Προσπάθησε λέγοντας ερωτόλογα σε [other_nameShortIndef] για ένα ειδύλλιο.</RomanceAttempt.logRulesInitiator.rulesStrings.0>
+  <RomanceAttempt.logRulesRecipient.rulesStrings.0>logentry->Δεκτικέ καμάκι από [other_nameShortIndef].</RomanceAttempt.logRulesRecipient.rulesStrings.0>
+
+  <Breakup.label>χωρισμός</Breakup.label>
+  <Breakup.logRulesInitiator.rulesStrings.0>logentry->Χώρισε με [other_nameShortIndef].</Breakup.logRulesInitiator.rulesStrings.0>
+  <Breakup.logRulesRecipient.rulesStrings.0>logentry->Χωρίστηκε από [other_nameShortIndef].</Breakup.logRulesRecipient.rulesStrings.0>
+
+  <MarriageProposal.label>πρόταση γάμου</MarriageProposal.label>
+  <MarriageProposal.logRulesInitiator.rulesStrings.0>logentry->Έκανε πρόταση να παντρευτεί [other_nameShortIndef].</MarriageProposal.logRulesInitiator.rulesStrings.0>
+  <MarriageProposal.logRulesRecipient.rulesStrings.0>logentry->Δεκτικέ πρόταση γάμου από [other_nameShortIndef].</MarriageProposal.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

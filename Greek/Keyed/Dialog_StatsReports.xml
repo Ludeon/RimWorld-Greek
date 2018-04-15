@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StatsReport_BaseValue>Βασική τιμή</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Σχετικά χαρακτηριστικά</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Σχετικός εξοπλισμός</StatsReport_RelevantGear>
+  <StatsReport_RelevantHediffs>Σχετική κατάσταση υγείας</StatsReport_RelevantHediffs>
+  <StatsReport_LifeStage>Στάδιο ζωής</StatsReport_LifeStage>
+  <StatsReport_Material>Υλικό</StatsReport_Material>
+  <StatsReport_CharacterQuality>Ποιότητα χαρακτήρα</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Επιδεξιότητες</StatsReport_Skills>
+  <StatsReport_OtherStats>Άλλα στατιστικά</StatsReport_OtherStats>
+  <StatsReport_Health>Υγεία</StatsReport_Health>
+  <HealthFactorPercentImpact>{0} σπουδαιότητα</HealthFactorPercentImpact>
+  <HealthOffsetScale>{0} επίπτωση</HealthOffsetScale>
+  <HealthFactorMaxImpact>{0} μέγιστο</HealthFactorMaxImpact>
+  <HealthFactorAllowedDefect>αν είναι κάτω από {0}</HealthFactorAllowedDefect>
+  <StatsReport_PostProcessed>Επεξεργασμένη καμπύλη</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Τελική τιμή</StatsReport_FinalValue>
+  <StatsReport_MarketValueFromStuffsAndWork>Η βασική τιμή αγοράς υπολογίζεται από τα υλικά κατασκευής και την ποσότητα εργασίας.</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_QualityMultiplier>Πολλαπλασιαστής ποιότητας</StatsReport_QualityMultiplier>
+  <StatsReport_AgeMultiplier>Πολλαπλασιαστής ηλικίας {0}</StatsReport_AgeMultiplier>
+  <StatsReport_HealthMultiplier>Πολλαπλασιαστής υγείας {0}</StatsReport_HealthMultiplier>
+  <StatsReport_MoodMultiplier>Πολλαπλασιαστής διάθεσης {0}</StatsReport_MoodMultiplier>
+  <StatsReport_LightMultiplier>Πολλαπλασιαστής φωτός {0}</StatsReport_LightMultiplier>
+  <StatsReport_DifficultyMultiplier>Πολλαπλασιαστής δυσκολίας {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_InBed>Στο κρεβάτι</StatsReport_InBed>
+  <StatsReport_Facilities>Εγκαταστάσεις</StatsReport_Facilities>
+  <StatsReport_BodySize>Πολλαπλασιαστής μεγέθους σώματος {0}</StatsReport_BodySize>
+  <StatsReport_MeleeDPSExplanation>DPS = Εξ' επαφής ζημιά * Πιθανότητα εξ' επαφής χτυπήματος / Χρόνος επαναφόρτισης σε δευτερόλεπτα</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDamage>Εξ' επαφής ζημιά</StatsReport_MeleeDamage>
+  <StatsReport_Cooldown>Χρόνος επαναφόρτισης</StatsReport_Cooldown>
+  <StatsReport_MeleeHitChance>Πιθανότητα εξ' επαφής χτυπήματος</StatsReport_MeleeHitChance>
+  <StatsReport_CooldownFormat>{0} δευτ.</StatsReport_CooldownFormat>
+  <StatsReport_LifeExpectancy>Προσδόκιμο ζωής</StatsReport_LifeExpectancy>
+  <StatsReport_MissingBodyParts>Πολλαπλασιαστής λόγω απώλειας σωματικών μελών</StatsReport_MissingBodyParts>
+  <StatsReport_GearAndInventoryMass>Βάρος εξοπλισμού και αποθέματος</StatsReport_GearAndInventoryMass>
+  <StatsReport_WornByCorpse>Πολλαπλασιαστής λόγω του ότι φορέθηκε από πτώμα</StatsReport_WornByCorpse>
+  <AverageOfAllAttacks>Μέσος όρος όλων των επιθέσεων</AverageOfAllAttacks>
+  <StatsReport_ScenarioFactor>Σενάριο</StatsReport_ScenarioFactor>
+  <StatsReport_IngredientsMass>Συστατικά</StatsReport_IngredientsMass>
+  <StatsReport_PermanentlyDisabled>Μόνιμα απενεργοποιημένο.</StatsReport_PermanentlyDisabled>
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  <StatsReport_AddedBodyPartsMass>Προστιθέμενα μέλη σώματος</StatsReport_AddedBodyPartsMass>
+
+</LanguageData>

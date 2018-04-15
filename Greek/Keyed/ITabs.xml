@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Τίτλοι καρτελών ITab (ITab titles) -->
+  <TabBills>Εργασίες</TabBills>
+  <TabGrowing>Καλλιέργεια</TabGrowing>
+  <TabCharacter>Χαρακτήρς</TabCharacter>
+  <TabTraining>Εκπαίδευσ</TabTraining>
+  <TabPrisoner>Φυλακισμένος</TabPrisoner>
+  <TabGuest>Επισκέπτης</TabGuest>
+  <TabGear>Εξοπλισμς</TabGear>
+  <TabNeeds>Ανάγκες</TabNeeds>
+  <TabStorage>Αποθήκη</TabStorage>
+  <TabShells>Σφαίρες</TabShells>
+  <TabHealth>Υγεία</TabHealth>
+  <TabRace>Φυλή</TabRace>
+  <TabBasics>Βασικά</TabBasics>
+  <TabStats>Στατιστικά</TabStats>
+  <TabRecords>Εγγραφές</TabRecords>
+  <TabArt>Τέχνη</TabArt>
+  <TabSocial>Κοινωνκττ</TabSocial>
+  <TabCombat>Μάχη</TabCombat>
+
+
+  <!-- Καρτέλα εργασιών (Bills tab)  -->
+  <AddBill>Προσθήκη εργασίας</AddBill>
+  <RecipeRequiresSkills>Η συνταγή {0} απαιτεί τις παρακάτω δεξιότητες. Κανείς από τους αποίκους σας δεν έχει αυτές τις δεξιότητες, οπότε κανείς δεν θα κάνει αυτή την εργασία.</RecipeRequiresSkills>
+  <MinimumSkill>Ελάχιστη ικανότητα</MinimumSkill>
+  <SuspendedCaps>ΕΧΕΙ ΔΙΑΚΟΠΕΙ</SuspendedCaps>
+  <BoundWorkerIs>Εργάτης: {0}</BoundWorkerIs>
+  <PlantVerb>Φυτό</PlantVerb>
+
+
+  <!-- Καρτέλα επισκέπτη/φυλακισμένου (Guest/prisoner tab) -->
+  <RecruitmentDifficulty>Δυσκολία στρατολόγησης</RecruitmentDifficulty>
+  <GetsFood>Τρώει φαγητό</GetsFood>
+  <DoctorsCare>Ιατρική περίθαλψη</DoctorsCare>
+  <GetsMedicine>Παίρνει φάρμακα</GetsMedicine>
+  <ShouldTryToRecruit>Προσπάθεια για στρατολόγηση</ShouldTryToRecruit>
+  <ConsideredGuilty>Θεωρείται ένοχος (λήγει σε {0})</ConsideredGuilty>
+
+
+  <!-- Ιατρικό - γενικά (Medical - general) -->
+  <MoveSpeed>Ταχύτητα κίνησης</MoveSpeed>
+  <Efficiency>Απόδοση</Efficiency>
+  <PartEfficiency>Μέρος αποτελεσματικότητας</PartEfficiency>
+  <BodyPartEfficiency>Απόδοση μέλος σώματος</BodyPartEfficiency>
+  <MissingBodyPart>Χαμένο</MissingBodyPart>
+  <DestroyedBodyPart>Κατεστραμμένο</DestroyedBodyPart>
+  <ShatteredBodyPart>Διαλυμένο</ShatteredBodyPart>
+  <RemovedBodyPart>Αφαιρεμένο</RemovedBodyPart>
+  <Healthy>Υγιές</Healthy>
+  <InPain>Πονεμένο</InPain>
+  <PainLevel>Πόνος</PainLevel>
+  <Injured>Τραυματισμένος</Injured>
+  <NoInjuries>(χωρίς τραύματα)</NoInjuries>
+  <WholeBody>Ολόκληρο το σώμα</WholeBody>
+  <DataProcessing>Επεξεργασία δεδομένων</DataProcessing>
+  <Communication>Επικοινωνία</Communication>
+  <Affects>Επιρροές</Affects>
+  <BleedingRate>Αιμορραγία</BleedingRate>
+  <TimeToDeath>πέθανε στις {0}</TimeToDeath>
+  <WontBleedOutSoon>δεν υπάρχει άμεσος κίνδυνος</WontBleedOutSoon>
+  <HealthOverview>Επισκόπηση</HealthOverview>
+  <MedicalOperationsShort>Διαδικασίες ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Τροποποιήσεις ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Ιατρικές πράξεις</MedicalOperations>
+  <Amputate>Ακρωτηριασμός</Amputate>
+  <Harvest>Συλλογή</Harvest>
+  <RemoveOrgan>Αφαίρεση</RemoveOrgan>
+  <MemoryLower>μνήμη</MemoryLower>
+  <SocialInteractionsLower>κοινωνικές συναναστροφές</SocialInteractionsLower>
+  <HungerRate>Βαθμός πείνας</HungerRate>
+  <Tiredness>Κούραση</Tiredness>
+  <PainFactor>Πόνος</PainFactor>
+  <PreventsInfection>Αποτρέπει τη μόλυνση</PreventsInfection>
+  <SelfTend>Αυτοφροντίδα</SelfTend>
+  <SelfTendTip>{0} με την αυτοφροντίδα ενεργοποιημένη θα φροντίζουν αυτόματα τον εαυτό τους επί τόπου με {1} της κανονικής απόδοσης.</SelfTendTip>
+
+
+  <!-- Ιατρική - Σώματος και δραστηριοτήτων προϋπόθεση (Medical - Body and activities condition) -->
+  <None>Καμία</None>
+  <VeryPoor>Κάκιστη</VeryPoor>
+  <Poor>Φτωχή</Poor>
+  <Weakened>Αδύναμη</Weakened>
+  <GoodCondition>Εντάξει</GoodCondition>
+  <Enhanced>Βελτιωμένη</Enhanced>
+  <SeriouslyImpaired>Σοβαρά εξασθενισμένος</SeriouslyImpaired>
+  <Impaired>Εξασθενισμένος</Impaired>
+  <SlightlyImpaired>Ελαφρώς εξασθενισμένος</SlightlyImpaired>
+  <NoPain>Καθόλου</NoPain>
+  <LittlePain>Λίγο</LittlePain>
+  <MediumPain>Κανονικά</MediumPain>
+  <SeverePain>Σοβαρά</SeverePain>
+  <ExtremePain>Ακραία</ExtremePain>
+
+
+  <!-- Καρτέλα εκπαίδευσης (Training tab) -->
+  <TrainableIntelligence>Εκπαιδευτική νοημοσύνη</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>Απαιτεί εκπαιδευτική νοημοσύνη {0}.</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0} είναι πολύ μικρή για να εκπαιδευτεί σε αυτό.</CannotTrainTooSmall>
+
+  <TrainingNeedsPrerequisite>Προϋπόθεση που απαιτείται: {0}</TrainingNeedsPrerequisite>
+
+  <!-- Καρτέλα κοινωνικότητας (Social tab) -->
+  <NoRelationships>(χωρίς σχέση)</NoRelationships>
+  <Kidnapped>Απαχθείς</Kidnapped>
+  <Missing>Χαμένος</Missing>
+  <Slave>Σκλάβος</Slave>
+  <FactionLeader>Αρχηγός φατρίας</FactionLeader>
+  <OpinionOf>Γνώμη του {0}</OpinionOf>
+  <SomeonesOpinionOfMe>Γνώμη του {0} για μένα</SomeonesOpinionOfMe>
+  <IAmDead>Είμαι νεκρός</IAmDead>
+  <IAmPsychopath>Είμαι ψυχοπαθής</IAmPsychopath>
+
+  <!-- Καρτέλα εξοπλισμού (Gear tab) -->
+  <AverageArmor>Μέση θωράκιση</AverageArmor>
+  <MassCarried>Ποσότητα μεταφοράς: {0} / {1} κιλά</MassCarried>
+  <ComfyTemperatureRange>Άνετο εύρος θερμοκρασίας</ComfyTemperatureRange>
+  <ArmorBlunt>Κτύπημα</ArmorBlunt>
+  <ArmorSharp>Διάτρηση</ArmorSharp>
+  <ArmorHeat>Καύση</ArmorHeat>
+  <ArmorElectric>Ηλεκτρισμό</ArmorElectric>
+
+</LanguageData>

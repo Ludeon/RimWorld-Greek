@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WorkFrenzy.label>φρενίτιδα εργασίας</WorkFrenzy.label>
+  <WorkFrenzy.beginLetter>{0} μόλις εμπνεύστηκε. HECAP θα εργαστεί 2,5 φορές ταχύτερα για τις επόμενες 24 ώρες.</WorkFrenzy.beginLetter>
+  <WorkFrenzy.beginLetterLabel>Έμπνευση: φρενίτιδα εργασίας</WorkFrenzy.beginLetterLabel>
+  <WorkFrenzy.endMessage>{0} δεν εμπνέεται πλέον (φρενίτιδα εργασίας).</WorkFrenzy.endMessage>
+  <WorkFrenzy.baseInspectLine>Εμπνευσμένος: Φρενίτιδα εργασίας</WorkFrenzy.baseInspectLine>
+
+  <GoFrenzy.label>πάει γαμιώντας</GoFrenzy.label>
+  <GoFrenzy.beginLetter>{0} μόλις εμπνεύστηκε. HECAP θα εργαστεί 1,5 φορές ταχύτερα για τις επόμενες 24 ώρες.</GoFrenzy.beginLetter>
+  <GoFrenzy.beginLetterLabel>Έμπνευση: πάει γαμιώντας</GoFrenzy.beginLetterLabel>
+  <GoFrenzy.endMessage>{0} δεν εμπνέεται πλέον (πάει γαμώντας).</GoFrenzy.endMessage>
+  <GoFrenzy.baseInspectLine>Εμπνευσμένος: Πάει γαμιώντας</GoFrenzy.baseInspectLine>
+
+  <ShootFrenzy.label>πυροβόλα σαν τρελός</ShootFrenzy.label>
+  <ShootFrenzy.beginLetter>{0} μόλις εμπνεύστηκε. Η ακρίβεια του πυροβολισμού HISCAP θα βελτιωθεί για τις επόμενες 3 ημέρες.</ShootFrenzy.beginLetter>
+  <ShootFrenzy.beginLetterLabel>Έμπνευση: πυροβόλα σαν τρελός</ShootFrenzy.beginLetterLabel>
+  <ShootFrenzy.endMessage>{0} δεν εμπνέεται πλέον (πυροβόλα σαν τρελός) {0}.</ShootFrenzy.endMessage>
+  <ShootFrenzy.baseInspectLine>Εμπνευσμένος: Πυροβόλα σαν τρελός</ShootFrenzy.baseInspectLine>
+
+  <InspiredTrade.label>εμπνευσμένο εμπόριο</InspiredTrade.label>
+  <InspiredTrade.beginLetter>{0} μόλις εμπνεύστηκε. HECAP θα πάρει μία σημαντική ωφέλεια στην εμπορική τιμή για την επόμενη εμπορική HIS συμφωνία.\n\nΗ έμπνευση θα τελειώσει μετά από 8 ημέρες ή όταν ολοκληρωθεί η συμφωνία.</InspiredTrade.beginLetter>
+  <InspiredTrade.beginLetterLabel>Έμπνευση: εμπνευσμένο εμπόριο</InspiredTrade.beginLetterLabel>
+  <InspiredTrade.endMessage>{0} δεν εμπνέεται πλέον (εμπνευσμένο εμπόριο).</InspiredTrade.endMessage>
+  <InspiredTrade.baseInspectLine>Εμπνευσμένος: Εμπνευσμένο εμπόριο</InspiredTrade.baseInspectLine>
+
+  <InspiredRecruitment.label>πειθήνια στρατολόγηση</InspiredRecruitment.label>
+  <InspiredRecruitment.beginLetter>{0} μόλις εμπνεύστηκε. HECAP θα στρατολογήσει με επιτυχία τον επόμενο κρατούμενο ανεξάρτητα από τη δυσκολία.\n\nΗ έμπνευση θα τελειώσει μετά από 8 ημέρες ή όταν στρατολογηθεί ο φυλακισμένος.</InspiredRecruitment.beginLetter>
+  <InspiredRecruitment.beginLetterLabel>Έμπνευση: πειθήνια στρατολόγηση</InspiredRecruitment.beginLetterLabel>
+  <InspiredRecruitment.endMessage>{0} δεν εμπνέεται πλέον (πειθήνια στρατολόγηση) {0}.</InspiredRecruitment.endMessage>
+  <InspiredRecruitment.baseInspectLine>Εμπνευσμένος: Πειθήνια στρατολόγηση</InspiredRecruitment.baseInspectLine>
+
+  <InspiredSurgery.label>εμπνευσμένη χειρουργική</InspiredSurgery.label>
+  <InspiredSurgery.beginLetter>{0} μόλις εμπνεύστηκε. Η πιθανότητα αποτυχίας χειρουργικής επέμβασης για το επόμενο χειρουργείο HIM που θα εκτελεστεί θα είναι 10 φορές μικρότερη.\n\nΗ έμπνευση θα τελειώσει μετά από 8 ημέρες ή όταν πραγματοποιηθεί η χειρουργική επέμβαση.</InspiredSurgery.beginLetter>
+  <InspiredSurgery.beginLetterLabel>Έμπνευση: εμπνευσμένη χειρουργική</InspiredSurgery.beginLetterLabel>
+  <InspiredSurgery.endMessage>{0} δεν εμπνέεται πλέον (εμπνευσμένη χειρουργική) {0}.</InspiredSurgery.endMessage>
+  <InspiredSurgery.baseInspectLine>Εμπνευσμένος: Εμπνευσμένη χειρουργική</InspiredSurgery.baseInspectLine>
+
+  <InspiredArt.label>εμπνευσμένη τέχνη</InspiredArt.label>
+  <InspiredArt.beginLetter>{0} μόλις εμπνεύστηκε. Κάθε κομμάτι τέχνης που ολοκληρώνεται θα είναι 3 επίπεδα ποιότητας υψηλότερα από ό, τι διαφορετικά θα ήταν.\n\nΗ έμπνευση θα τελειώσει μετά από 8 ημέρες ή όταν ολοκληρωθεί το έργο τέχνης.</InspiredArt.beginLetter>
+  <InspiredArt.beginLetterLabel>Έμπνευση: εμπνευσμένη τέχνη</InspiredArt.beginLetterLabel>
+  <InspiredArt.endMessage>{0} δεν εμπνέεται πλέον (εμπνευσμένη τέχνη).</InspiredArt.endMessage>
+  <InspiredArt.baseInspectLine>Εμπνευσμένος: Εμπνευσμένη τέχνη</InspiredArt.baseInspectLine>
+
+
+</LanguageData>

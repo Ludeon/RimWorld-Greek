@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cassowary.label>καζουάριος</Cassowary.label>
+  <Cassowary.description>Ένα μεγάλο πουλί χωρίς φτερά με έντονα χρωματιστά πούπουλα. Αν και φαίνεται όμορφο, το λάκτισμά του είναι άγριο.</Cassowary.description>
+  <Cassowary.tools.0.label>νύχια</Cassowary.tools.0.label>
+  <Cassowary.tools.2.label>κεφάλι</Cassowary.tools.2.label>
+  <Cassowary_Leather.label>δέρμα καζουάριου</Cassowary_Leather.label>
+  <Cassowary_Leather.description>πέτσα από καζουάριο</Cassowary_Leather.description>
+  <Cassowary_Leather.stuffProps.stuffAdjective>δέρμα καζουάριου</Cassowary_Leather.stuffProps.stuffAdjective>
+  <Cassowary_Meat.label>κρέας πουλερικού</Cassowary_Meat.label>
+  <Cassowary_Meat.description>κρέας από πτηνό</Cassowary_Meat.description>
+  <Cassowary_Corpse.label>κουφάρι καζουάριου</Cassowary_Corpse.label>
+  <Cassowary_Corpse.description>πτώμα καζουάριου</Cassowary_Corpse.description>
+
+  <Emu.label>εμού</Emu.label>
+  <Emu.description>Ένα μεγάλο πουλί χωρίς φτερά με μπιρμπιλοτά μάτια στο άσχημο πρόσωπο του. Με την άσχημη διάθεσή του, είναι ο κόπανος του φυσικού κόσμου.</Emu.description>
+  <Emu.tools.0.label>νύχια</Emu.tools.0.label>
+  <Emu.tools.2.label>κεφάλι</Emu.tools.2.label>
+  <Emu_Leather.label>δέρμα εμού</Emu_Leather.label>
+  <Emu_Leather.description>πέτσα από εμού</Emu_Leather.description>
+  <Emu_Leather.stuffProps.stuffAdjective>δέρμα εμού</Emu_Leather.stuffProps.stuffAdjective>
+  <!-- Χρήση Κρέατος Από: Καζουάριο (Use Meat From: Cassowary) -->
+  <Emu_Corpse.label>κουφάρι εμού</Emu_Corpse.label>
+  <Emu_Corpse.description>πτώμα εμού</Emu_Corpse.description>
+
+  <Ostrich.label>στρουθοκάμηλος</Ostrich.label>
+  <Ostrich.description>Τα μεγαλύτερα μη τροποποιημένα είδη πουλιών, οι στρουθοκάμηλοι είναι γνωστοί για την ταχύτητά τους, τα τεράστια αυγά και το ισχυρό λάκτισμα.</Ostrich.description>
+  <Ostrich.tools.0.label>νύχια</Ostrich.tools.0.label>
+  <Ostrich.tools.2.label>κεφάλι</Ostrich.tools.2.label>
+  <Ostrich_Leather.label>δέρμα στρουθοκαμήλου</Ostrich_Leather.label>
+  <Ostrich_Leather.description>πέτσα από στρουθοκάμηλο</Ostrich_Leather.description>
+  <Ostrich_Leather.stuffProps.stuffAdjective>δέρμα στρουθοκαμήλου</Ostrich_Leather.stuffProps.stuffAdjective>
+  <!-- Χρήση Κρέατος Από: Καζουάριο (Use Meat From: Cassowary) -->
+  <Ostrich_Corpse.label>κουφάρι στρουθοκαμήλου</Ostrich_Corpse.label>
+  <Ostrich_Corpse.description>πτώμα στρουθοκαμήλου</Ostrich_Corpse.description>
+
+  <Turkey.label>γαλοπούλα</Turkey.label>
+  <Turkey.description>Ένα κοντό, λιπαρό, μη πτητικό πουλί γνωστό για την λαρυγγιστή του κραυγή. Έχει εδώ και καιρό εξημερωθεί, αλλά ζει και στην άγρια φύση.</Turkey.description>
+  <Turkey.tools.0.label>νύχια</Turkey.tools.0.label>
+  <Turkey.tools.2.label>κεφάλι</Turkey.tools.2.label>
+  <Turkey_Leather.label>δέρμα γαλοπούλας</Turkey_Leather.label>
+  <Turkey_Leather.description>πέτσα από γαλοπούλα</Turkey_Leather.description>
+  <Turkey_Leather.stuffProps.stuffAdjective>δέρμα γαλοπούλας</Turkey_Leather.stuffProps.stuffAdjective>
+  <Turkey_Meat.label>κρέας γαλοπούλας</Turkey_Meat.label>
+  <Turkey_Meat.description>κρέας από γαλοπούλα</Turkey_Meat.description>
+  <Turkey_Corpse.label>κουφάρι γαλοπούλας</Turkey_Corpse.label>
+  <Turkey_Corpse.description>πτώμα γαλοπούλας</Turkey_Corpse.description>
+
+
+</LanguageData>

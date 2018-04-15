@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FactionGreetingHostile>Ο/Η {0} πετάει μερικά επίθετα στο μικρόφωνο και αποσυνδέεται.</FactionGreetingHostile>
+  <FactionGreetingWary>Ο/Η {0} χαιρετάει τον/την {1} ανήσυχα και ρωτάει τι θέλει.</FactionGreetingWary>
+  <FactionGreetingWarm>Ο/Η {0} χαιρετάει τον/την {1} εγκάρδια και ρωτάει πως τα πάει η αποικία.</FactionGreetingWarm>
+
+  <Disconnect>Αποσύνδεση</Disconnect>
+
+  <!-- προσφορά δώρου (gift offer) -->
+  <OfferGift>Πρόσφερε δώρο</OfferGift>
+  <NeedSilverLaunchable>χρειάζονται {0} ασήμι κοντά στους φάρους εμπορίου</NeedSilverLaunchable>
+  <NotEnoughSilver>δεν υπάρχει αρκετό ασήμι</NotEnoughSilver>
+  <SilverForGoodwill>{0} ασήμι για {1} καλής διάθεσης</SilverForGoodwill>
+  <SilverGiftSent>Ο/Η {0} σε ευχαριστεί.\n\n(Η καλή διάθεση βελτιώθηκε κατά {1}).</SilverGiftSent>
+
+  <!-- αίτηση εμπορικού καραβανιού (trade caravan request) -->
+  <RequestTrader>Ζήτησε ένα εμπορικό καραβάνι (κόστος: {0} ασήμι)</RequestTrader>
+  <ChooseTraderKind>Ο/Η {0} ρωτάει τι είδους εμπορικό καραβάνι θέλεις.</ChooseTraderKind>
+  <TraderSent>Ο/Η {0} συμφωνεί να σου στείλουν ένα εμπορικό καραβάνι. Θα φτάσει εντός μερικών ημερών.</TraderSent>
+  <WaitTime>αναμονή {0}</WaitTime>
+
+
+  <!-- αίτηση στρατιωτικής βοήθειας (military aid request) -->
+  <RequestMilitaryAid>Ζήτησε άμεση στρατιωτική υποστήριξη (κόστος: {0} καλής θέλησης).</RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy>Ο/Η {0} δεν θα σε βοηθήσει να πολεμήσεις κάποια άλλη φατρία που δεν είναι εχθροί τους. Αυτό περιλαμβάνει και αυτούς που σε απειλούν, {1}. Θέλεις ακόμα να ζητήσεις στρατιωτική υποστήριξη;</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>Ναι, κάλεσέ τους όπως και να έχει.</CallConfirm>
+  <CallCancel>Όχι, τέλος πάντων.</CallCancel>
+  <MilitaryAidSent>Ο/Η {0} συμφωνεί να στείλει πολεμιστές  για να σε βοηθήσει.</MilitaryAidSent>
+
+</LanguageData>

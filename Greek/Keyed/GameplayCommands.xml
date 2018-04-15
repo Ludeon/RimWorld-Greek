@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Απαγόρευση (Forbid) -->
+  <CommandForbid>Απαγόρευση</CommandForbid>
+  <CommandForbiddenDesc>Απαγορευμένο - οι άποικοι δεν θα αλληλεπιδρούν με αυτό.</CommandForbiddenDesc>
+  <CommandNotForbiddenDesc>Όχι απαγορευμένο - οι άποικοι μπορεί να αλληλεπιδρούν με αυτό.</CommandNotForbiddenDesc>
+
+  <!-- Ηλεκτρικό ρεύμα (Power) -->
+  <CommandTogglePowerLabel>Ανοιγοκλείσιμο</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>Συνδέει ή αποσυνδέει μία συσκευή από το ηλεκτρικό ρεύμα.</CommandTogglePowerDesc>
+
+  <CommandDesignateTogglePowerLabel>Υπόδειξη για ανοιγοκλείσιμο</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>Καθορίστε αυτό το αντικείμενο να ανοίγει και να κλείνει (ρεύμα). Ένας άποικος θα έρθει σύντομα να πατήσει το διακόπτη.</CommandDesignateTogglePowerDesc>
+
+  <CommandTryReconnectLabel>Επανασύνδεση</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Προσπαθήστε να το συνδέσετε σε διαφορετικό δίκτυο ενέργειας στην ακτίνα σύνδεσης. Αυτό είναι χρήσιμο αν είναι συνδεδεμένο σε ένα χωρίς ισχύ δίκτυο, αλλά υπάρχει ένα δίκτυο με ισχύ κοντά.</CommandTryReconnectDesc>
+
+  <CommandGatherSpotToggleLabel>Σημείο συγκέντρωσης</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Ενεργό - οι άποικοι θα συγκεντρωθούν γύρω από αυτό το αντικείμενο.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Ανενεργό - οι άποικοι δεν θα συγκεντρωθούν γύρω από αυτό το αντικείμενο.</CommandGatherSpotToggleDescInactive>
+
+
+  <!-- Σχεδιασμός (Drafting) -->
+  <CommandDraftLabel>Στρατολόγηση</CommandDraftLabel>
+  <CommandUndraftLabel>Απόλυση</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Εναλλαγή στρατιωτικού σχεδίου.\n\nΟι στρατολογημένοι άνθρωποι λαμβάνουν εντολές και πολεμούν. Δεν θα δουλεύουν, δεν θα τρώνε ούτε θα ξεκουράζονται.</CommandToggleDraftDesc>
+  <IsIncapped>{0} δεν μπορεί να περπατήσει.</IsIncapped>
+
+  <CommandFireAtWillLabel>Πυρ κατά βούληση</CommandFireAtWillLabel>
+  <CommandFireAtWillDesc>Εναλλαγή πυρ κατά βούλησης.\n\nΌταν απενεργοποιηθεί, αυτός ο χαρακτήρας δεν θα πυροβοληθεί αυτόματα σε στόχους μέσω στο βεληνεκές του. Δεν επηρεάζει τη μάχη σώμα με σώμα.</CommandFireAtWillDesc>
+
+  <CommandClearPrioritizedWork>Καθαρισμός προτεραιοτήτων εργασίας</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWorkDesc>Καθαρίστε οποιαδήποτε εργασία προτεραιότητας που έχετε αναθέσει. Ο χαρακτήρας θα επιστρέψει στις συνηθισμένες αυτό-κατευθυνόμενες δραστηριότητες.</CommandClearPrioritizedWorkDesc>
+
+  <CommandCancelConstructionLabel>Ακύρωση</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Ακύρωση αυτής της κατασκευής.</CommandCancelConstructionDesc>
+
+  <CommandGetOutOfBedLabel>Σήκω από το κρεβάτι</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Σήκω από το συγκεκριμένο κρεβάτι.</CommandGetOutOfBedDesc>
+
+  <CommandBedSetOwnerLabel>Ορισμός ιδιοκτήτη</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Εκχωρήστε αυτό το κρεβάτι για να ανήκει σε συγκεκριμένο άποικο.</CommandBedSetOwnerDesc>
+  <CommandGraveAssignColonistLabel>Ορισμός ιδιοκτήτη</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistDesc>Εκχωρήστε αυτό τον τάφο για να ανήκει σε συγκεκριμένο άποικο.</CommandGraveAssignColonistDesc>
+  <BuildingAssign>Ανάθεση</BuildingAssign>
+  <BuildingUnassign>Μη ανάθεση</BuildingUnassign>
+  <CommandBedSetForPrisonersLabel>Για φυλακισμένους</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>Εάν τα κρεβάτια σε αυτό το δωμάτιο θα πρέπει να χρησιμοποιούνται από κρατούμενους.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>Μόνο κρεβάτια σε κλειστούς χώρους μπορούν να οριστούν για κρατούμενους.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetAsMedicalLabel>Ιατρικό</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>Εάν αυτό το κρεβάτι είναι για ιατρική χρήση.</CommandBedSetAsMedicalDesc>
+  <TurningOnPrisonerBedWarning>Η ενεργοποίηση της λειτουργίας φυλακισμένου επηρεάζει ολόκληρο το δωμάτιο (αφού οι κρατούμενοι και οι άποικοι δεν μπορούν να κοιμηθούν στο ίδιο δωμάτιο).\n\nΑυτοί οι άνθρωποι θα χάσουν την κυριότητα των κρεβατιών τους:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Η απενεργοποίηση της λειτουργίας φυλακισμένου επηρεάζει ολόκληρο το δωμάτιο (αφού οι κρατούμενοι και οι άποικοι δεν μπορούν να κοιμηθούν στο ίδιο δωμάτιο).\n\nΑυτοί οι άνθρωποι θα χάσουν την κυριότητα των κρεβατιών τους:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Είστε σίγουρος ότι θέλετε να το κάνετε αυτό;</AreYouSure>
+
+  <CommandDetonateLabel>Ανατίναξη</CommandDetonateLabel>
+  <CommandDetonateDesc>Ξεκινά την αντίστροφη μέτρηση της ανατίναξης.</CommandDetonateDesc>
+
+  <CommandRenameZoneLabel>Μετονομασία</CommandRenameZoneLabel>
+  <CommandRenameZoneDesc>Αλλαγή ονόματος αυτή της ζώνης.</CommandRenameZoneDesc>
+
+  <CommandHideZoneLabel>Απόκρυψη</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Εμφάνιση</CommandUnhideZoneLabel>
+  <CommandHideZoneDesc>Απόκρυψη/εμφάνιση αυτής της ζώνης.</CommandHideZoneDesc>
+
+  <CommandDeleteZoneLabel>Διαγραφή</CommandDeleteZoneLabel>
+  <CommandDeleteZoneDesc>Διαγράφει αυτή την ζώνη.</CommandDeleteZoneDesc>
+
+  <CommandCopyZoneSettingsLabel>Αντιγραφή ρυθμίσεων</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>Αντιγράφει τις ρυθμίσεις αυτής της ζώνης στο πρόχειρο ώστε να μπορούν να γίνουν επικόλληση σε μια άλλη ζώνη.</CommandCopyZoneSettingsDesc>
+
+  <CommandPasteZoneSettingsLabel>Επικόλληση ρυθμίσεων</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsDesc>Αντικαθιστά τις ρυθμίσεις αυτής της ζώνης με αυτές που προηγουμένως αντιγράφτηκαν στο πρόχειρο.</CommandPasteZoneSettingsDesc>
+
+  <CommandAllowSow>Επιτρέπετε σπορά</CommandAllowSow>
+  <CommandAllowSowDesc>Όταν είναι απενεργοποιημένη, οι άποικοι ποτέ δεν θα σπείρουν φυτά σε αυτή τη ζώνη. Θα εξακολουθούν να συγκομίζουν.</CommandAllowSowDesc>
+
+  <!-- Πυροβολικό (Artillery) -->
+  <CommandSetForceAttackTarget>Ορισμός αναγκαστικού στόχου</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>Ορίζει έναν στόχο όπου αυτός ο πυργίσκος πρέπει να επιτίθεται συνεχώς για όσο διάστημα μπορεί.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>Παύση αναγκαστικής επίθεσης</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Σταματάει την αναγκαστική επίθεση και επιτρέπει στον πυργίσκο να βάλει κατά βούληση.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Αυτή τη στιγμή δεν επιτίθεται αναγκαστικά.</CommandStopAttackFailNotForceAttacking>
+  <CommandExtractShell>Εξαγωγή οβίδας</CommandExtractShell>
+  <CommandExtractShellDesc>Ξεφορτώνει τη συγκεκριμένη οβίδα ώστε να μπορεί να αντικατασταθεί με διαφορετικό πυρομαχικό.</CommandExtractShellDesc>
+  <CommandExtractShellFailNoShell>Δεν έχει φορτωθεί καμία οβίδα.</CommandExtractShellFailNoShell>
+  <MessageTargetBeyondMaximumRange>Στόχευση πέρα από το μέγιστο βεληνεκές.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Στόχευση πέρα από το ελάχιστο βεληνεκές.</MessageTargetBelowMinimumRange>
+  <MessageTurretWontFireBecauseHoldFire>Προειδοποίηση: Το ολμοβόλο δεν θα πυροβολεί επειδή έχει ρυθμιστεί σε "Παύση πυρός".</MessageTurretWontFireBecauseHoldFire>
+
+  <!-- Πυρήνας υπολογιστή διαστημοπλοίου (Ship computer core) -->
+  <CommandShipLaunch>Εκτόξευση διαστημόπλοιου</CommandShipLaunch>
+  <CommandShipLaunchDesc>Ξεκινήστε την ακολουθία εκτόξευσης διαστημοπλοίου με την τρέχουσα σύνθεση.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Εμφάνιση αναφοράς εκτόξευσης</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>Δείχνει μια έκθεση ετοιμότητας σχετικά με την ικανότητα εκτόξευσης του διαστημόπλοιου.</CommandShipLaunchReportDesc>
+  <CommandShipStartup>Εκκίνηση διαστημοπλοίου</CommandShipStartup>
+  <CommandShipStartupDesc>Ενεργοποιεί τα εξαρτήματα του διαστημοπλοίου που βρίσκονται σε αδρανοποίηση.</CommandShipStartupDesc>
+
+  <!-- Άτρακτος (Pod) -->
+  <CommandPodEject>Εξαγωγή κοιμώμενου</CommandPodEject>
+  <CommandPodEjectDesc>Ξυπνάει αυτόν που βρίσκετε σε κρυογονικό λήθαργο και τον βγάζει έξω.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>Δεν περιέχει κανέναν.</CommandPodEjectFailEmpty>
+
+  <!-- Πόρτα (Door) -->
+  <CommandToggleDoorForbid>Απαγόρευση διέλευσης</CommandToggleDoorForbid>
+  <CommandToggleDoorForbidDesc>Όταν μια πόρτα είναι απαγορευμένη, οι άποικοι και οι σύμμαχοι δεν θα περάσουν από αυτή. Αυτό δεν επηρεάζει τον τρόπο με τον οποίο οι εχθροί ή τα ζώα αλληλεπιδρούν με την πόρτα.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorHoldOpen>Κρατήστε ανοιχτή</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpenDesc>Όταν ενεργοποιηθεί, οι άποικοί σας δεν θα κλείνουν την πόρτα μόλις διέρχονται από αυτή.</CommandToggleDoorHoldOpenDesc>
+
+  <!-- Έλεγχος θερμοκρασίας (Temperature control) -->
+  <CommandResetTemp>Επαναφορά</CommandResetTemp>
+  <CommandResetTempDesc>Επαναφέρει τη θερμοκρασία στόχου σε θερμοκρασία δωματίου.</CommandResetTempDesc>
+  <CommandRaiseTempDesc>Αυξάνει τη θερμοκρασία στόχου.</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>Μειώνει τη θερμοκρασία στόχου.</CommandLowerTempDesc>
+
+  <!-- Εγκατάσταση/απεγκατάσταση (Install/reinstall) -->
+  <CommandInstall>Τοποθέτηση</CommandInstall>
+  <CommandInstallDesc>Αυτό το αντικείμενο είναι συσκευασμένο προς το παρόν για αποθήκευση και μεταφορά. Χρησιμοποιήστε αυτήν την εντολή για να εγκαταστήσετε αυτό το αντικείμενο στη τελική θέση.</CommandInstallDesc>
+  <CommandReinstall>Επανατοποθέτηση σε...</CommandReinstall>
+  <CommandReinstallDesc>Ορίστε αυτό το αντικείμενο για να τον απεγκαταστήσετε και να τον εγκαταστήσετε ξανά.</CommandReinstallDesc>
+
+  <!-- Φάρος εμπορίου (Trade beacon) -->
+  <CommandMakeBeaconStockpileDesc>Δημιουργεί μία αποθήκη γύρω από αυτό το κτίριο που ταιριάζει ακριβώς με το σχήμα της ακτίνας εκτόξευσης του φάρου.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileLabel>Δημιουργία αποθήκης</CommandMakeBeaconStockpileLabel>
+
+  <!-- Λάμπα με το φως του ήλιου (Sun lamp) -->
+  <CommandSunLampMakeGrowingZoneDesc>Δημιουργεί μια ζώνη καλλιέργειας γύρω από αυτό τη κατασκευή που ταιριάζει ακριβώς  με το σχήμα της ακτίνας φωτός της λάμπας.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneLabel>Δημιουργία ζώνης καλλιέργειας</CommandSunLampMakeGrowingZoneLabel>
+
+  <!-- Παγίδα (Trap) -->
+  <CommandAutoRearm>Αυτόματος επανεξοπλισμός</CommandAutoRearm>
+  <CommandAutoRearmDesc>Αν αυτό είναι ενεργοποιημένο, αυτή η παγίδα θα οριστεί αυτομάτως για επανοπλισμό όταν ταλαντευτεί.</CommandAutoRearmDesc>
+
+  <!-- Έλεγχος ζώου (Animal control) -->
+  <CommandReleaseAnimalsLabel>Απελευθέρωση ζώων</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsDesc>Ενώ αυτό είναι ενεργοποιημένο, τα ζώα υπό κηδεμονία στέλνονται για να επιτεθούν σε μακρινούς στόχους. Ενώ όταν απενεργοποιείτε, παραμένουν κοντά και φυλάσσουν το αφεντικό τους.</CommandReleaseAnimalsDesc>
+
+  <!-- Επίθεση ουλαμού (Squad attack) -->
+  <CommandSquadAttack>Επίθεση</CommandSquadAttack>
+  <CommandSquadAttackDesc>Ορίστε τους επιλεγμένους αποίκους να επιτεθούν σε καθορισμένους στόχους.</CommandSquadAttackDesc>
+
+  <!-- Επίθεση εξ επαφής (Melee attack) -->
+  <CommandMeleeAttack>Επίθεση εξ επαφής</CommandMeleeAttack>
+  <CommandMeleeAttackDesc>Ορίστε του επιλεγμένους αποίκους να επιτεθούν σε καθορισμένους στόχους χρησιμοποιώντας μόνο μπουνιές και όπλα εξ επαφής.</CommandMeleeAttackDesc>
+
+  <!-- Κατάπαυση πυρός (Hold fire) -->
+  <CommandHoldFire>Κατάπαυση πυρός</CommandHoldFire>
+  <CommandHoldFireDesc>Τερματίστε κάθε επίθεση σε εξέλιξη.</CommandHoldFireDesc>
+
+  <!-- Επιλογή φυτού για καλλιέργεια (Select plant to grow) -->
+  <CommandSelectPlantToGrowMulti>Επιλογή φυτού για καλλιέργεια</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrow>Φυτό: {0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrowDesc>Καθορίζει πιο φυτό θα φυτευτεί εδώ.</CommandSelectPlantToGrowDesc>
+
+  <!-- Αντιγραφή κατασκευής (Build copy) -->
+  <CommandBuildCopy>Αντιγραφή κατασκευής</CommandBuildCopy>
+  <CommandBuildCopyDesc>Δημιουργήστε ένα αντίγραφο αυτής της κατασκευής.</CommandBuildCopyDesc>
+
+  <!-- Σύνθεση καραβανιού (Form caravan) -->
+  <CommandFormCaravan>Σύνθεση καραβανιού</CommandFormCaravan>
+  <CommandFormCaravanDesc>Δημιουργήστε μια ομάδα αποίκων που μπορεί να ταξιδέψει σε νέες περιοχές. Οι άποικοι θα συγκεντρώσουν όλες τις προμήθειες και τα ζώα συνοδείας, θα εγκαταλείψουν την περιοχή τους και θα περιμένουν περαιτέρω οδηγίες.</CommandFormCaravanDesc>
+
+  <!-- Επανασχεδίαση καραβανιού (Reform caravan) -->
+  <CommandReformCaravan>Επανασχεδίαση καραβανιού</CommandReformCaravan>
+  <CommandReformCaravanDesc>Επανασχεδιάστε μία ομάδα από αποίκους. Οι άποικοι θα εγκαταλείψουν την περιοχή τους και θα περιμένουν περαιτέρω οδηγίες.</CommandReformCaravanDesc>
+  <CommandReformCaravanFailHostilePawns>Υπάρχουν ακόμα μερικοί εχθροί σε αυτή την περιοχή.</CommandReformCaravanFailHostilePawns>
+
+  <!-- Διαχωρισμός καραβανιού (Split caravan) -->
+  <CommandSplitCaravan>Διαχωρισμός</CommandSplitCaravan>
+  <CommandSplitCaravanDesc>Διαχωρίστε αυτό το καραβάνι σε δύο. Τα καραβάνια μπορούν αργότερα να συγχωνευθούν ξανά σε ένα, εφόσον πλησιάσουν μεταξύ τους.</CommandSplitCaravanDesc>
+
+  <!-- Συγχώνευση καραβανιών (Merge caravan) -->
+  <CommandMergeCaravans>Συγχώνευση</CommandMergeCaravans>
+  <CommandMergeCaravansDesc>Συγχωνεύει τα επιλεγμένα καραβάνια.</CommandMergeCaravansDesc>
+  <CommandMergeCaravansFailCaravansNotSelected>Επιλέξτε όλα τα καραβάνια που θέλετε να συγχωνεύσετε. Τα καραβάνια πρέπει να είναι κοντά το ένα στο άλλο.</CommandMergeCaravansFailCaravansNotSelected>
+
+  <!-- Αποίκηση (Settle) -->
+  <CommandSettle>Αποίκηση</CommandSettle>
+  <CommandSettleDesc>Αποικήστε αυτή την περιοχή. Οι άποικοι σας θα εισέλθουν σε αυτή τη περιοχή και θα είστε σε θέση να ξεκινήσετε την οικοδόμηση ενός νέου σπιτιού.</CommandSettleDesc>
+  <CommandSettleFailAlreadyHaveBase>Η φατρία σας μπορεί να έχει μόνο μία βάση.</CommandSettleFailAlreadyHaveBase>
+  <CommandSettleFailReachedMaximumNumberOfBases>Έχετε φτάσει στο μέγιστο αριθμό αποικιών.</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailNoColonists>Δεν υπάρχει κανένας εκεί για να διεκδικήσει την περιοχή.</CommandSettleFailNoColonists>
+  <CommandSettleFailEnemies>Υπάρχουν εχθροί σε αυτή την περιοχή.</CommandSettleFailEnemies>
+
+  <!-- Εγκατάλειψη σπιτιού (Abandon home) -->
+  <CommandAbandonHome>Εγκατάλειψη</CommandAbandonHome>
+  <CommandAbandonHomeDesc>Εγκαταλείψτε αυτήν την περιοχή. Η περιοχή θα γίνει απρόσιτη και δεν θα μπορέσετε να επιστρέψετε ξανά εδώ. Αφού εγκαταλείψετε το σπίτι σας, θα είστε σε θέση να παραγγείλετε ένα από τα καραβάνια σας να εγκατασταθεί σε μια νέα περιοχή.</CommandAbandonHomeDesc>
+  <CommandAbandonHomeFailAllColonistsThere>Όλοι οι άποικοί σας είναι εκεί.</CommandAbandonHomeFailAllColonistsThere>
+
+  <!-- Ακύρωση σχηματισμού καραβανιού (Cancel forming caravan) -->
+  <CommandCancelFormingCaravan>Ακύρωση σχηματισμού καραβανιού</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravanDesc>Τερματίζει τη διαδικασία σχηματισμού καραβανιού.</CommandCancelFormingCaravanDesc>
+
+  <!-- Εμφάνιση χάρτη (Show map) -->
+  <CommandShowMap>Μεγέθυνση</CommandShowMap>
+  <CommandShowMapDesc>Κάνει μεγέθυνση σε αυτή τη περιοχή.</CommandShowMapDesc>
+
+  <!-- Εμπόριο (Trade) -->
+  <CommandTrade>Εμπόριο</CommandTrade>
+  <CommandTradeDesc>Εμπόριο με αυτή τη φατρία.</CommandTradeDesc>
+  <CommandTradeFailNoNegotiator>Δεν υπάρχει κανένας γνωρίζων και ικανός διαπραγματευτής.</CommandTradeFailNoNegotiator>
+
+  <!-- Εκπλήρωση αιτήματος (Fulfill request) -->
+  <CommandFulfillTradeOffer>Εκπλήρωση εμπορικής προσφοράς</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOfferDesc>Εκπληρώστε το αίτημα της αποικίας για αγαθά και ζητήστε την ανταμοιβή σας.</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferFailInsufficient>Το καραβάνι σας πρέπει να έχει {0} για να εκπληρώσει αυτή την εμπορική προσφορά.</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferConfirm>Προσφέρετε {0} για {1};</CommandFulfillTradeOfferConfirm>
+
+  <!-- Απογείωση (Take off) -->
+  <CommandTakeOff>Απογείωση</CommandTakeOff>
+  <CommandTakeOffDesc>Μπείτε στο πιλοτήριο του διαστημόπλοιου και αποδράσετε από τον πλανήτη Get on board the ship and escape the planet.</CommandTakeOffDesc>
+  <CommandTakeOffConfirmation>Είστε βέβαιοι ότι θέλετε να εκτοξεύσετε το διαστημόπλοιο;\n\nΌλοι σε αυτήν την περιοχή θα φύγουν από τον πλανήτη. Όλοι οι άλλοι θα μείνουν πίσω.</CommandTakeOffConfirmation>
+
+  <!-- Ορίστε το επίπεδο του καυσίμου (Set target fuel level) -->
+  <CommandSetTargetFuelLevel>Ορισμός ποσότητας καυσίμου</CommandSetTargetFuelLevel>
+  <CommandSetTargetFuelLevelDesc>Ορίστε τη στάθμη του καυσίμου. Οι αποικιστές θα προσπαθήσουν να το γεμίσουν μέχρι το συγκεκριμένο επίπεδο καυσίμου.</CommandSetTargetFuelLevelDesc>
+
+  <!-- Ακύρωση φορτώματος (Cancel load) -->
+  <CommandCancelLoad>Ακύρωση εκφόρτωσης</CommandCancelLoad>
+  <CommandCancelLoadDesc>Ακύρωση φόρτωσης των ατόμων ή των αντικείμενων και εξαγωγή όσων έχουν ήδη φορτωθεί.</CommandCancelLoadDesc>
+
+  <!-- Ομάδα εκτόξευσης (Launch group) -->
+  <CommandLaunchGroup>Ομάδα εκτόξευσης</CommandLaunchGroup>
+  <CommandLaunchGroupDesc>Ξεκινά τη διαδικασία για την εκτόξευση μιας ομάδας ατράκτων μεταφοράς. Το επόμενο βήμα είναι η επιλογή ενός στόχου. Οι άτρακτοι θα πετάξουν και θα προσγειωθούν μαζί.</CommandLaunchGroupDesc>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>Ορισμένες άτρακτοι μεταφοράς σε αυτήν την ομάδα φόρτωσης δεν είναι συνδεδεμένες με έναν λυμένα τροφοδοσίας.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailNoFuel>Μερικοί εκτοξευτές ατράκτων σε αυτή την ομάδα δεν έχουν καύσιμο.</CommandLaunchGroupFailNoFuel>
+  <CommandLaunchGroupFailUnderRoof>Μερικοί εκτοξευτές ατράκτων είναι κάτω από οροφή.</CommandLaunchGroupFailUnderRoof>
+
+  <!-- Φόρτωση μεταφορέα (Load transporter) -->
+  <CommandLoadTransporter>Φόρτωση ομάδας εκτόξευσης από {0}</CommandLoadTransporter>
+  <CommandLoadTransporterDesc>Ορίζει τον επιλεγμένο μεταφορέα(εις) ως ομάδα εκτόξευσης. Ανοίγει το παράθυρο διαλόγου φόρτωσης, ώστε να μπορείτε να αποφασίσετε ποιος και τι πρέπει να φορτωθεί μέσα.</CommandLoadTransporterDesc>
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>Η άτρακτος μεταφοράς δεν είναι συνδεδεμένη με έναν λυμένα τροφοδοσίας.</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <CommandLoadTransporterFailNoFuel>Ο εκτοξευτής ατράκτου δεν έχει καύσιμο.</CommandLoadTransporterFailNoFuel>
+
+  <!-- Επιλογή προηγούμενου μεταφορικού (Select previous transporter) -->
+  <CommandSelectPreviousTransporter>Επιλογή προηγουμένου στην ομάδα εκτόξευσης</CommandSelectPreviousTransporter>
+  <CommandSelectPreviousTransporterDesc>Επιλέγει τη προηγούμενη άτρακτο μεταφοράς σε αυτή την ομάδα εκτόξευσης.</CommandSelectPreviousTransporterDesc>
+
+  <!-- Επιλογή όλων των μεταφορικών (Select all transporters) -->
+  <CommandSelectAllTransporters>Επιλογή ομάδας εκτόξευσης</CommandSelectAllTransporters>
+  <CommandSelectAllTransportersDesc>Επιλέγει όλες τις ατράκτους μεταφοράς σε αυτή την ομάδα εκτόξευσης.</CommandSelectAllTransportersDesc>
+
+  <!-- Επιλογή επόμενου μεταφορικού (Select next transporter) -->
+  <CommandSelectNextTransporter>Επιλογή επόμενου στην ομάδα εκτόξευσης</CommandSelectNextTransporter>
+  <CommandSelectNextTransporterDesc>Επιλέγει τη επόμενη άτρακτο μεταφοράς σε αυτή την ομάδα εκτόξευσης.</CommandSelectNextTransporterDesc>
+
+  <!-- Αεραγωγός (Vent) -->
+  <CommandDesignateOpenCloseVentLabel>Ορίστε το άνοιγμα/κλείσιμο</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentDesc>Ορίστε αυτός ο αεραγωγός να είναι ανοικτός ή κλειστός. Ένας άποικος θα έρθει σύντομα να εκτελέσει αυτή την εντολή.</CommandDesignateOpenCloseVentDesc>
+
+  <!-- Αφαίρεση σημείου (Remove waypoint) -->
+  <CommandRemoveWaypointLabel>Αφαίρεση</CommandRemoveWaypointLabel>
+  <CommandRemoveWaypointDesc>Αφαιρεί αυτό το σημείο.</CommandRemoveWaypointDesc>
+
+</LanguageData>

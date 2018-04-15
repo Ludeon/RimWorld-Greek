@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Γενικά (General) -->
+
+  <Goto.reportString>πηγαίνει.</Goto.reportString>
+  <GotoSafeTemperature.reportString>αναζητά ασφαλή θερμοκρασία.</GotoSafeTemperature.reportString>
+  <GotoWander.reportString>περιπλανιέται.</GotoWander.reportString>
+  <Wait.reportString>περιμένει.</Wait.reportString>
+  <WaitMaintainPosture.reportString>στέκεται.</WaitMaintainPosture.reportString>
+  <WaitDowned.reportString>σωριαστεί.</WaitDowned.reportString>
+  <WaitSafeTemperature.reportString>περιμένει σε ασφαλή θερμοκρασία.</WaitSafeTemperature.reportString>
+  <WaitWander.reportString>περιφέρετε.</WaitWander.reportString>
+  <WaitCombat.reportString>ψάχνει για στόχους.</WaitCombat.reportString>
+  <AttackStatic.reportString>επιτεθείτε σε TargetA.</AttackStatic.reportString>
+  <AttackMelee.reportString>κάνει επίθεση σώμα με σώμα σε TargetA.</AttackMelee.reportString>
+  <SocialFight.reportString>παλεύει με TargetA.</SocialFight.reportString>
+  <UseVerbOnThing.reportString>Κάνει κάτι.</UseVerbOnThing.reportString>
+  <Equip.reportString>εξοπλίζετε με TargetA.</Equip.reportString>
+  <TakeInventory.reportString>παίρνει TargetA.</TakeInventory.reportString>
+  <GiveToPackAnimal.reportString>παίρνει TargetA.</GiveToPackAnimal.reportString>
+  <Wear.reportString>φοράει TargetA.</Wear.reportString>
+  <RemoveApparel.reportString>βγάζει TargetA.</RemoveApparel.reportString>
+  <DropEquipment.reportString>πετάει TargetA.</DropEquipment.reportString>
+  <Strip.reportString>βγάζει TargetA.</Strip.reportString>
+  <Open.reportString>ανοίγει TargetA.</Open.reportString>
+  <RearmTrap.reportString>οπλίζει ξανά TargetA.</RearmTrap.reportString>
+  <Refuel.reportString>τροφοδοτεί TargetA.</Refuel.reportString>
+  <FillFermentingBarrel.reportString>γεμίζει TargetA.</FillFermentingBarrel.reportString>
+  <TakeBeerOutOfFermentingBarrel.reportString>παίρνει την μπύρα από TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  <UnloadInventory.reportString>ξεφορτώνει TargetA.</UnloadInventory.reportString>
+  <UnloadYourInventory.reportString>αδειάζει το απόθεμα.</UnloadYourInventory.reportString>
+  <ManTurret.reportString>επανδρώνει τον πυργίσκο.</ManTurret.reportString>
+  <EnterCryptosleepCasket.reportString>μπαίνει στην κάψουλα κρυογενούς ύπνου.</EnterCryptosleepCasket.reportString>
+  <UseNeurotrainer.reportString>χρησιμοποιεί νευροεκπαιδευτή.</UseNeurotrainer.reportString>
+  <UseArtifact.reportString>ενεργοποιεί το τεχνούργημα.</UseArtifact.reportString>
+  <UseItem.reportString>χρησιμοποιεί TargetA.</UseItem.reportString>
+  <TriggerFirefoamPopper.reportString>ενεργοποιεί εκτοξευτήρα αφρού πυρόσβεσης.</TriggerFirefoamPopper.reportString>
+  <ClearSnow.reportString>καθαρίζει το χιόνι.</ClearSnow.reportString>
+  <Vomit.reportString>ξερνάει.</Vomit.reportString>
+  <Flick.reportString>ανοιγοκλείνει διακόπτη.</Flick.reportString>
+  <TradeWithPawn.reportString>εμπορεύεται με TargetA.</TradeWithPawn.reportString>
+  <Flee.reportString>δραπετεύει.</Flee.reportString>
+  <FleeAndCower.reportString>το σκάει.</FleeAndCower.reportString>
+  <EnterTransporter.reportString>επιβιβάζεται σε TargetA.</EnterTransporter.reportString>
+  <Resurrect.reportString>ανασταίνει TargetA.</Resurrect.reportString>
+  <Insult.reportString>προσβάλει TargetA.</Insult.reportString>
+  <HaulCorpseToPublicPlace.reportString>μεταφέρει TargetA.</HaulCorpseToPublicPlace.reportString>
+  <InducePrisonerToEscape.reportString>παρακινεί TargetA για απόδραση.</InducePrisonerToEscape.reportString>
+
+
+  <!-- Φωτιά (Fire) -->
+
+  <Ignite.reportString>πυρπολεί TargetA.</Ignite.reportString>
+  <BeatFire.reportString>σβήνει την φωτιά.</BeatFire.reportString>
+  <ExtinguishSelf.reportString>σβήνει την φωτιά που έπιασε.</ExtinguishSelf.reportString>
+
+
+  <!-- Ανάγκη ικανοποίησης (Need satisfaction) -->
+
+  <Ingest.reportString>καταναλώνει TargetA.</Ingest.reportString>
+  <LayDown.reportString>σωριάζετε κάτω.</LayDown.reportString>
+
+
+  <!-- Αγάπη (Love) -->
+
+  <Lovin.reportString>αγαπάει.</Lovin.reportString>
+
+
+</LanguageData>

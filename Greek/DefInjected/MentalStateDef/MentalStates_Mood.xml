@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ψυχικές καταρρεύσεις: βαριές (Mental breaks: extreme) -->
+
+  <Berserk.label>μανιασμένος</Berserk.label>
+  <Berserk.beginLetter>{0} έχει βγει έκτος εαυτού!</Berserk.beginLetter>
+  <Berserk.beginLetterLabel>μανιασμένος</Berserk.beginLetterLabel>
+  <Berserk.recoveryMessage>Η έξαλλη οργή HIS {0} έχει τελειώσει.</Berserk.recoveryMessage>
+  <Berserk.baseInspectLine>Ψυχολογική κατάσταση: Μανιασμένος</Berserk.baseInspectLine>
+
+  <FireStartingSpree.label>πυρομανία</FireStartingSpree.label>
+  <FireStartingSpree.beginLetter>{0} βρίσκει ευχάριστο να βάζει φωτιές.</FireStartingSpree.beginLetter>
+  <FireStartingSpree.beginLetterLabel>πυρομανία</FireStartingSpree.beginLetterLabel>
+  <FireStartingSpree.recoveryMessage>HISCAP {0} δεν HIS αρέσει πλέον να βάζει φωτιές.</FireStartingSpree.recoveryMessage>
+  <FireStartingSpree.baseInspectLine>Ψυχολογική κατάσταση: Πυρομανία</FireStartingSpree.baseInspectLine>
+
+  <GiveUpExit.label>εγκατάλειψη και φυγή</GiveUpExit.label>
+  <GiveUpExit.beginLetter>{0} αποχωρεί από την αποικία.</GiveUpExit.beginLetter>
+  <GiveUpExit.beginLetterLabel>τα παρατάει</GiveUpExit.beginLetterLabel>
+  <GiveUpExit.recoveryMessage>κάτι άλλαξε στη καρδιά HIS {0} και επιστρέφει στην αποικία.</GiveUpExit.recoveryMessage>
+  <GiveUpExit.baseInspectLine>Ψυχολογική κατάσταση: Εγκατάλειψη και φυγή</GiveUpExit.baseInspectLine>
+
+  <BingingDrugExtreme.label>κραιπάλη με ναρκωτικό</BingingDrugExtreme.label>
+  <BingingDrugExtreme.baseInspectLine>Ψυχολογική κατάσταση: Κατάχρηση σε {0}</BingingDrugExtreme.baseInspectLine>
+
+  <Jailbreaker.label>παρακίνηση φυλακισμένου για δραπέτευση</Jailbreaker.label>
+  <Jailbreaker.beginLetter>{0} έχει μια διανοητική διαταραχή και παρακινεί τους φυλακισμένους να δραπετεύσουν.</Jailbreaker.beginLetter>
+  <Jailbreaker.beginLetterLabel>δραπέτης</Jailbreaker.beginLetterLabel>
+  <Jailbreaker.recoveryMessage>{0} δεν παρακινεί άλλο τους κρατούμενους να το σκάσουν.</Jailbreaker.recoveryMessage>
+  <Jailbreaker.baseInspectLine>Ψυχολογική κατάσταση: Δραπέτης</Jailbreaker.baseInspectLine>
+
+  <Slaughterer.label>μακελάρης</Slaughterer.label>
+  <Slaughterer.beginLetter>{0} έχει μια διανοητική διαταραχή και εξαπολύει την οργή HIS στα ζώα σας.</Slaughterer.beginLetter>
+  <Slaughterer.beginLetterLabel>μακελάρης</Slaughterer.beginLetterLabel>
+  <Slaughterer.recoveryMessage>{0} δεν σφάζει πλέον ζώα στην τύχη.</Slaughterer.recoveryMessage>
+  <Slaughterer.baseInspectLine>Ψυχολογική κατάσταση: Μακελάρης</Slaughterer.baseInspectLine>
+
+  <MurderousRage.label>δολοφονική οργή</MurderousRage.label>
+  <MurderousRage.beginLetter>{0} έχει καταβληθεί από δολοφονική μανία. HECAP προσπαθεί να σκοτώσει {1}.</MurderousRage.beginLetter>
+  <MurderousRage.beginLetterLabel>δολοφονική οργή</MurderousRage.beginLetterLabel>
+  <MurderousRage.recoveryMessage>έφυγε η δολοφονική μανία HIS {0}.</MurderousRage.recoveryMessage>
+  <MurderousRage.baseInspectLine>Ψυχολογική κατάσταση: Δολοφονική οργή</MurderousRage.baseInspectLine>
+
+
+  <!--  Ψυχικές καταρρεύσεις: σοβαρές (Mental breaks: major) -->
+
+  <BingingDrugMajor.label>Κατάχρηση σε ναρκωτικό</BingingDrugMajor.label>
+  <BingingDrugMajor.baseInspectLine>Ψυχολογική κατάσταση: Κατάχρηση σε {0}</BingingDrugMajor.baseInspectLine>
+
+  <WanderPsychotic.label>περιφέρετε με ψύχωση</WanderPsychotic.label>
+  <WanderPsychotic.beginLetter>{0} περιπλανιέται τριγύρω σε ψυχωτική κατάσταση.</WanderPsychotic.beginLetter>
+  <WanderPsychotic.beginLetterLabel>σύγχυση</WanderPsychotic.beginLetterLabel>
+  <WanderPsychotic.recoveryMessage>{0} δεν είναι πλέον σε ψυχωτική κατάσταση.</WanderPsychotic.recoveryMessage>
+  <WanderPsychotic.baseInspectLine>Ψυχολογική κατάσταση: Περιφέρετε με ψύχωση</WanderPsychotic.baseInspectLine>
+
+  <Tantrum.label>έκρηξη οργής</Tantrum.label>
+  <Tantrum.beginLetter>{0} βρίσκεται σε έκρηξη οργής.</Tantrum.beginLetter>
+  <Tantrum.beginLetterLabel>έκρηξη οργής</Tantrum.beginLetterLabel>
+  <Tantrum.recoveryMessage>πέρασε η έκρηξη οργής HIS {0}.</Tantrum.recoveryMessage>
+  <Tantrum.baseInspectLine>Ψυχολογική κατάσταση: Έκρηξη οργής</Tantrum.baseInspectLine>
+
+  <TargetedTantrum.label>κρίση υστερίας</TargetedTantrum.label>
+  <TargetedTantrum.beginLetter>{0} έχει μία κρίση υστερίας. HECAP προσπαθεί να σπάσει {1}.</TargetedTantrum.beginLetter>
+  <TargetedTantrum.beginLetterLabel>κρίση υστερίας</TargetedTantrum.beginLetterLabel>
+  <TargetedTantrum.recoveryMessage>πέρασε η κρίση υστερίας HIS {0}.</TargetedTantrum.recoveryMessage>
+  <TargetedTantrum.baseInspectLine>Ψυχολογική κατάσταση: Κρίση υστερίας</TargetedTantrum.baseInspectLine>
+
+  <BedroomTantrum.label>νευρικό ξέσπασμα</BedroomTantrum.label>
+  <BedroomTantrum.beginLetter>{0} έχει ένα νευρικό ξέσπασμα. HECAP πάει να σπάσει τα έπιπλα στο δωμάτιό HIS.</BedroomTantrum.beginLetter>
+  <BedroomTantrum.beginLetterLabel>νευρικό ξέσπασμα</BedroomTantrum.beginLetterLabel>
+  <BedroomTantrum.recoveryMessage>πέρασε το νευρικό ξέσπασμα HIS {0}.</BedroomTantrum.recoveryMessage>
+  <BedroomTantrum.baseInspectLine>Ψυχολογική κατάσταση: Νευρικό ξέσπασμα</BedroomTantrum.baseInspectLine>
+
+  <SadisticRage.label>σαδιστικό μένος</SadisticRage.label>
+  <SadisticRage.beginLetter>{0} έχει πιάσει σαδιστικό μένος. HECAP πάει να ξεσπάσει τον θυμό HIS πάνω στου φυλακισμένους.</SadisticRage.beginLetter>
+  <SadisticRage.beginLetterLabel>σαδιστικό μένος</SadisticRage.beginLetterLabel>
+  <SadisticRage.recoveryMessage>{0} δεν έχει πλέον σαδιστική οργή.</SadisticRage.recoveryMessage>
+  <SadisticRage.baseInspectLine>Ψυχολογική κατάσταση: Σαδιστικό μένος</SadisticRage.baseInspectLine>
+
+  <CorpseObsession.label>εμμονή για πτώματα</CorpseObsession.label>
+  <CorpseObsession.beginLetter>{0} έχει καταβάλει μία εμμονή για πτώματα. HECAP πάει να ξεθάψει έναν νεκρό.</CorpseObsession.beginLetter>
+  <CorpseObsession.beginLetterLabel>εμμονή για πτώματα</CorpseObsession.beginLetterLabel>
+  <CorpseObsession.recoveryMessage>{0} δεν έχει πλέον εμμονή για πτώματα.</CorpseObsession.recoveryMessage>
+  <CorpseObsession.baseInspectLine>Ψυχολογική κατάσταση: Εμμονή για πτώματα</CorpseObsession.baseInspectLine>
+
+
+  <!--  Ψυχικές καταρρεύσεις: ελαφριές (Mental breaks: minor) -->
+
+  <BingingFood.label>λαιμαργία στο φαγητό</BingingFood.label>
+  <BingingFood.beginLetter>{0} κατασπαράζει τα τρόφιμα.</BingingFood.beginLetter>
+  <BingingFood.beginLetterLabel>τρώει τον αγλέουρα</BingingFood.beginLetterLabel>
+  <BingingFood.recoveryMessage>HISCAP {0} HIS πέρασε η λαιμαργία για φαγητό.</BingingFood.recoveryMessage>
+  <BingingFood.baseInspectLine>Ψυχολογική κατάσταση: Λαιμαργία</BingingFood.baseInspectLine>
+
+  <WanderSad.label>περιπλανιέται λυπημένος</WanderSad.label>
+  <WanderSad.beginLetter>{0} περιφέρετε τριγύρω στεναχωρημένος.</WanderSad.beginLetter>
+  <WanderSad.beginLetterLabel>θλιμμένος περπατητής</WanderSad.beginLetterLabel>
+  <WanderSad.recoveryMessage>{0} δεν τριγυρνάει μέσα στη στεναχώρια.</WanderSad.recoveryMessage>
+  <WanderSad.baseInspectLine>Ψυχολογική κατάσταση: Περιπλανιέται λυπημένος</WanderSad.baseInspectLine>
+
+  <WanderOwnRoom.label>κάθετε μόνος του</WanderOwnRoom.label>
+  <WanderOwnRoom.beginLetter>{0} απομονώνετε στο δωμάτιό HIS.</WanderOwnRoom.beginLetter>
+  <WanderOwnRoom.beginLetterLabel>κρύβετε στο δωμάτιο</WanderOwnRoom.beginLetterLabel>
+  <WanderOwnRoom.recoveryMessage>{0} δεν κρύβεται πλέον στο δωμάτιό HIS.</WanderOwnRoom.recoveryMessage>
+  <WanderOwnRoom.baseInspectLine>Ψυχολογική κατάσταση: Κρύβεται στο δωμάτιο</WanderOwnRoom.baseInspectLine>
+
+  <InsultingSpree.label>ευχαριστιέται να βρίζει</InsultingSpree.label>
+  <InsultingSpree.beginLetter>{0} ευχαριστιέται να βρίζει.</InsultingSpree.beginLetter>
+  <InsultingSpree.beginLetterLabel>ευχαριστιέται να βρίζει</InsultingSpree.beginLetterLabel>
+  <InsultingSpree.recoveryMessage>{0} σταμάτησε πλέων να βρίζει.</InsultingSpree.recoveryMessage>
+  <InsultingSpree.baseInspectLine>Ψυχολογική κατάσταση: Ευχαριστιέται να βρίζει</InsultingSpree.baseInspectLine>
+
+  <TargetedInsultingSpree.label>ευχαριστιέται να προσβάλει</TargetedInsultingSpree.label>
+  <TargetedInsultingSpree.beginLetter>HISCAP {0} HIS αρέσει να προσβάλει {1}.</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.beginLetterLabel>ευχαριστιέται να προσβάλει</TargetedInsultingSpree.beginLetterLabel>
+  <TargetedInsultingSpree.recoveryMessage>{0} σταμάτησε πλέων να προσβάλει τους άλλους</TargetedInsultingSpree.recoveryMessage>
+  <TargetedInsultingSpree.baseInspectLine>Ψυχολογική κατάσταση: Ευχαριστιέται να προσβάλει {0}</TargetedInsultingSpree.baseInspectLine>
+
+
+</LanguageData>

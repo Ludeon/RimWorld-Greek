@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SmokeleafHigh.stages.0.label>φτιάχτηκε με καπνόφυλλα</SmokeleafHigh.stages.0.label>
+  <SmokeleafHigh.stages.0.description>Είμαι, σαν, πέτρινος, άνθρωπος.</SmokeleafHigh.stages.0.description>
+
+
+  <!-- Εθισμός στα καπνόφυλλα (Smokeleaf addiction) -->
+
+  <SmokeleafWithdrawal.stages.1.label>στέρηση από τα καπνόφυλλα</SmokeleafWithdrawal.stages.1.label>
+  <SmokeleafWithdrawal.stages.1.description>Θέλω πραγματικά να καπνίσω.</SmokeleafWithdrawal.stages.1.description>
+
+
+</LanguageData>

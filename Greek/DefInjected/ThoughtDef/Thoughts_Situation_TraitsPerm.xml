@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MoodOffsetSanguine.stages.0.label>ενθουσιασμός </MoodOffsetSanguine.stages.0.label>
+  <MoodOffsetSanguine.stages.0.description>Φυσική επιβράβευση για το χαρακτηριστικό του "ενθουσιασμού".</MoodOffsetSanguine.stages.0.description>
+
+  <MoodOffsetOptimist.stages.0.label>αισιοδοξία</MoodOffsetOptimist.stages.0.label>
+  <MoodOffsetOptimist.stages.0.description>Φυσική επιβράβευση για το χαρακτηριστικό της "αισιοδοξίας".</MoodOffsetOptimist.stages.0.description>
+
+  <MoodOffsetPessimist.stages.0.label>απαισιοδοξία</MoodOffsetPessimist.stages.0.label>
+  <MoodOffsetPessimist.stages.0.description>Φυσική ποινή για το χαρακτηριστικό της "απαισιοδοξίας".</MoodOffsetPessimist.stages.0.description>
+
+  <MoodOffsetDepressive.stages.0.label>κατάθλιψη</MoodOffsetDepressive.stages.0.label>
+  <MoodOffsetDepressive.stages.0.description>Φυσική ποινή για το χαρακτηριστικό της "κατάθλιψης".</MoodOffsetDepressive.stages.0.description>
+
+
+</LanguageData>

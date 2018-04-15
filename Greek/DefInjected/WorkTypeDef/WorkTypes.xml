@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Firefighter.label>Πυρόσβεση</Firefighter.label>
+  <Firefighter.description>Καταπολεμά τις πυρκαγιές στην αποικία.</Firefighter.description>
+  <Firefighter.labelShort>Πυρόσβεση</Firefighter.labelShort>
+  <Firefighter.pawnLabel>Πυροσβέστης</Firefighter.pawnLabel>
+  <Firefighter.gerundLabel>σβήνει</Firefighter.gerundLabel>
+  <Firefighter.verb>Καταπολεμά</Firefighter.verb>
+
+  <Patient.label>Ασθενής</Patient.label>
+  <Patient.description>Πηγαίνει σε ένα νοσοκομειακό κρεβάτι για θεραπεία αν η κατάσταση της υγείας του απειλεί άμεσα τη ζωή του.</Patient.description>
+  <Patient.labelShort>Ασθενής</Patient.labelShort>
+  <Patient.pawnLabel>Ασθενής</Patient.pawnLabel>
+  <Patient.gerundLabel>ασθενεί</Patient.gerundLabel>
+  <Patient.verb>Γίνετε ασθενής</Patient.verb>
+
+  <Doctor.label>Γιατρός</Doctor.label>
+  <Doctor.description>Περιποιείται τους άρρωστους, τους φέρνει φαγητό, τους ενθαρρύνει και πραγματοποιείτε εγχειρίσεις. Οι γιατροί θα φροντίζουν τόσο τους αποίκους όσο και τους φυλακισμένους.</Doctor.description>
+  <Doctor.labelShort>Γιατρός</Doctor.labelShort>
+  <Doctor.pawnLabel>Γιατρός</Doctor.pawnLabel>
+  <Doctor.gerundLabel>θεραπεύει</Doctor.gerundLabel>
+  <Doctor.verb>Φροντίδα για</Doctor.verb>
+
+  <PatientBedRest.label>Ξεκούραση στο κρεβάτι</PatientBedRest.label>
+  <PatientBedRest.description>Ξεκουράζετε στο κρεβάτι για να αποκαταστήσει τα μη άμεσα απειλητικά για τη ζωή ιατρικά προβλήματα.</PatientBedRest.description>
+  <PatientBedRest.labelShort>Ξεκούραση</PatientBedRest.labelShort>
+  <PatientBedRest.pawnLabel>Αραχτός σε κρεβάτι</PatientBedRest.pawnLabel>
+  <PatientBedRest.gerundLabel>ξεκουράζετε στο κρεβάτι</PatientBedRest.gerundLabel>
+  <PatientBedRest.verb>Γίνετε ασθενής</PatientBedRest.verb>
+
+  <Flicker.label>Ανοιγόκλεισμα</Flicker.label>
+  <Flicker.description>Ανοιγοκλείνει διακόπτες. Για παράδειγμα, όταν ορίζετε την εναλλαγή ισχύος σε ένα πυργίσκο, ένας που ανοιγοκλείνει διακόπτες πρέπει να τον ανοιγοκλείσει με το χέρι για εναλλαγή της τροφοδοσίας.</Flicker.description>
+  <Flicker.labelShort>Διακόπτης</Flicker.labelShort>
+  <Flicker.pawnLabel>Αυτός που ανοιγοκλείνει</Flicker.pawnLabel>
+  <Flicker.gerundLabel>ανοιγοκλείνει</Flicker.gerundLabel>
+  <Flicker.verb>Ανοιγοκλείνει</Flicker.verb>
+
+  <Warden.label>Φύλαξη</Warden.label>
+  <Warden.description>Διαχειρίζεται, ταΐζει, συνομιλεί με και στρατολογεί φυλακισμένους.</Warden.description>
+  <Warden.labelShort>Φύλαξη</Warden.labelShort>
+  <Warden.pawnLabel>Φύλακας</Warden.pawnLabel>
+  <Warden.gerundLabel>φυλάει</Warden.gerundLabel>
+  <Warden.verb>Εποπτεύει</Warden.verb>
+
+  <Handling.label>Κτηνοτροφία</Handling.label>
+  <Handling.description>Εξημερώνει, εκπαιδεύει, εκμαιεύει ζωικά προϊόντα και σφάζει ζώα.</Handling.description>
+  <Handling.labelShort>Κτηνοτροφία</Handling.labelShort>
+  <Handling.pawnLabel>Κτηνοτρόφος</Handling.pawnLabel>
+  <Handling.gerundLabel>φροντίζει ζώα</Handling.gerundLabel>
+  <Handling.verb>ασχολείται</Handling.verb>
+
+  <Cooking.label>Μαγείρεμα</Cooking.label>
+  <Cooking.description>Ετοιμάζει γεύματα και τεμαχίζει το κρέας.</Cooking.description>
+  <Cooking.labelShort>Μαγείρεμα</Cooking.labelShort>
+  <Cooking.pawnLabel>Μάγειρας</Cooking.pawnLabel>
+  <Cooking.gerundLabel>μαγειρεύει</Cooking.gerundLabel>
+  <Cooking.verb>Μαγειρεύει</Cooking.verb>
+
+  <Hunting.label>Κυνήγι</Hunting.label>
+  <Hunting.description>Σκοτώνει τα ζώα που έχουν οριστεί για να κυνηγηθούν.</Hunting.description>
+  <Hunting.labelShort>Κυνήγι</Hunting.labelShort>
+  <Hunting.pawnLabel>Κυνηγός</Hunting.pawnLabel>
+  <Hunting.gerundLabel>κυνηγάει</Hunting.gerundLabel>
+  <Hunting.verb>Κυνηγάει</Hunting.verb>
+
+  <Construction.label>Κατασκευή</Construction.label>
+  <Construction.description>Κατασκευάζει τα πράγματα που έχετε ορίσει και διορθώνει τις σκάρτες ή κατεστραμμένες κατασκευές.</Construction.description>
+  <Construction.labelShort>Κατασκευή</Construction.labelShort>
+  <Construction.pawnLabel>Κατασκευαστής</Construction.pawnLabel>
+  <Construction.gerundLabel>κατασκευάζει</Construction.gerundLabel>
+  <Construction.verb>Κατασκευάζει</Construction.verb>
+
+  <Growing.label>Καλλιέργεια</Growing.label>
+  <Growing.description>Φυτεύει σπόρους και συγκομίζει καλλιέργειες.</Growing.description>
+  <Growing.labelShort>Καλλιέργεια</Growing.labelShort>
+  <Growing.pawnLabel>Αγρότης</Growing.pawnLabel>
+  <Growing.gerundLabel>καλλιεργεί</Growing.gerundLabel>
+  <Growing.verb>Καλλιεργεί</Growing.verb>
+
+  <Mining.label>Εξόρυξη</Mining.label>
+  <Mining.description>Σκάψιμο και διάτρηση.</Mining.description>
+  <Mining.labelShort>Εξόρυξη</Mining.labelShort>
+  <Mining.pawnLabel>Μεταλλωρύχος</Mining.pawnLabel>
+  <Mining.gerundLabel>εξορύγνει</Mining.gerundLabel>
+  <Mining.verb>Εξορύγνει</Mining.verb>
+
+  <PlantCutting.label>Κοπή φυτών</PlantCutting.label>
+  <PlantCutting.description>Κόβει η συλλέγει τα επιλεγμένα φυτά.</PlantCutting.description>
+  <PlantCutting.labelShort>Κοπή φυτού</PlantCutting.labelShort>
+  <PlantCutting.pawnLabel>Κόβει φυτά</PlantCutting.pawnLabel>
+  <PlantCutting.gerundLabel>κόβει φυτά</PlantCutting.gerundLabel>
+  <PlantCutting.verb>Κόβει</PlantCutting.verb>
+
+  <Smithing.label>Μεταλλουργία</Smithing.label>
+  <Smithing.description>Δημιουργεί όπλα και εργαλεία από πρώτες ύλες, είτε ως σιδεράς είτε με μηχανική κατεργασία.</Smithing.description>
+  <Smithing.labelShort>Μεταλλουργία</Smithing.labelShort>
+  <Smithing.pawnLabel>Μεταλλουργός</Smithing.pawnLabel>
+  <Smithing.gerundLabel>χαλκεύει</Smithing.gerundLabel>
+  <Smithing.verb>Χαλκεύει το</Smithing.verb>
+
+  <Tailoring.label>Ραπτική</Tailoring.label>
+  <Tailoring.description>Δημιουργεί ρουχισμό από πρώτες ύλες.</Tailoring.description>
+  <Tailoring.labelShort>Ραπτική</Tailoring.labelShort>
+  <Tailoring.pawnLabel>Ράπτης</Tailoring.pawnLabel>
+  <Tailoring.gerundLabel>ράβει</Tailoring.gerundLabel>
+  <Tailoring.verb>Ράβει το</Tailoring.verb>
+
+  <Art.label>Τέχνη</Art.label>
+  <Art.description>Δημιουργεί όμορφα έργα τέχνης από πρώτες ύλες.</Art.description>
+  <Art.labelShort>Τέχνη</Art.labelShort>
+  <Art.pawnLabel>Καλλιτέχνης</Art.pawnLabel>
+  <Art.gerundLabel>καλλιτεχνεί</Art.gerundLabel>
+  <Art.verb>Καλλιτεχνεί σε</Art.verb>
+
+  <Crafting.label>Χειροτεχνία</Crafting.label>
+  <Crafting.description>Κάνει διάφορες εργασίες χαμηλής ειδίκευσης στους σταθμούς εργασίας. Αυτό περιλαμβάνει κοπή πέτρας, εκκαμίνευση και πολλά άλλα.</Crafting.description>
+  <Crafting.labelShort>Χειροτεχνία</Crafting.labelShort>
+  <Crafting.pawnLabel>Χειροτέχνης</Crafting.pawnLabel>
+  <Crafting.gerundLabel>χειροτεχνεί</Crafting.gerundLabel>
+  <Crafting.verb>Κατασκευάζει</Crafting.verb>
+
+  <Hauling.label>Κουβάλημα</Hauling.label>
+  <Hauling.description>Μεταφέρει τα αντικείμενα εκεί που πρέπει να πάνε.</Hauling.description>
+  <Hauling.labelShort>Κουβάλημα</Hauling.labelShort>
+  <Hauling.pawnLabel>Κουβαλητής</Hauling.pawnLabel>
+  <Hauling.gerundLabel>κουβαλάει</Hauling.gerundLabel>
+  <Hauling.verb>Κουβαλάει</Hauling.verb>
+
+  <Cleaning.label>Καθαριότητα</Cleaning.label>
+  <Cleaning.description>Καθαρίζει το χιόνι και σκουπίζει το πάτωμα στην περιοχή σπιτιού.</Cleaning.description>
+  <Cleaning.labelShort>Καθαριότητα</Cleaning.labelShort>
+  <Cleaning.pawnLabel>Καθαριστής</Cleaning.pawnLabel>
+  <Cleaning.gerundLabel>καθαρίζει</Cleaning.gerundLabel>
+  <Cleaning.verb>Καθαρίζει</Cleaning.verb>
+
+  <Research.label>Έρευνα</Research.label>
+  <Research.description>Εκτελεί ερευνητικές εργασίες.</Research.description>
+  <Research.labelShort>Έρευνα</Research.labelShort>
+  <Research.pawnLabel>Ερευνητής</Research.pawnLabel>
+  <Research.gerundLabel>ερευνά</Research.gerundLabel>
+  <Research.verb>Ερευνά</Research.verb>
+
+
+</LanguageData>

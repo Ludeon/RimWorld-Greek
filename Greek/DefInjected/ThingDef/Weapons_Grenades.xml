@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Χειροβομβίδα (Frag grenade) -->
+
+  <Weapon_GrenadeFrag.label>χειροβομβίδες κρότου</Weapon_GrenadeFrag.label>
+  <Weapon_GrenadeFrag.description>Χειροβομβίδες κατακερματισμού παλιάς σχολής.</Weapon_GrenadeFrag.description>
+  <Weapon_GrenadeFrag.verbs.0.label>ρίψη χειροβομβίδας</Weapon_GrenadeFrag.verbs.0.label>
+
+  <Proj_GrenadeFrag.label>χειροβομβίδα</Proj_GrenadeFrag.label>
+
+
+  <!-- Κοκτέιλ μολότοφ (Molotov cocktail) -->
+
+  <Weapon_GrenadeMolotov.label>κοκτέιλ μολότοφ</Weapon_GrenadeMolotov.label>
+  <Weapon_GrenadeMolotov.description>Γυάλινα μπουκάλια γεμάτα με εύφλεκτο υγρό, με ένα πανί που καίγεται στο λαιμό. Ένα αγαπημένο όπλο των χούλιγκαν και των απελπισμένων πολεμιστών απ' άκρη σ' άκρη.</Weapon_GrenadeMolotov.description>
+  <Weapon_GrenadeMolotov.verbs.0.label>ρίψη μολότοφ</Weapon_GrenadeMolotov.verbs.0.label>
+
+  <Proj_GrenadeMolotov.label>κοκτέιλ μολότοφ</Proj_GrenadeMolotov.label>
+
+
+  <!-- Ηλεκτρομαγνητική χειροβομβίδα (EMP grenade) -->
+
+  <Weapon_GrenadeEMP.label>ηλεκτρομαγνητικές χειροβομβίδες</Weapon_GrenadeEMP.label>
+  <Weapon_GrenadeEMP.description>Ηλεκτρομαγνητικές παλμικές χειροβομβίδες που βλάπτουν τον ηλεκτρονικό εξοπλισμό.</Weapon_GrenadeEMP.description>
+  <Weapon_GrenadeEMP.verbs.0.label>ρίψη ηλεκτρομαγνητικής χειροβομβίδας</Weapon_GrenadeEMP.verbs.0.label>
+
+  <Proj_GrenadeEMP.label>ηλεκτρομαγνητική χειροβομβίδα</Proj_GrenadeEMP.label>
+
+
+</LanguageData>

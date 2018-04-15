@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Προσθετικά μέλη σώματος (Added body parts) -->
+
+  <PegLeg.label>ξύλινο πόδι</PegLeg.label>
+  <PegLeg.labelNoun>ένα ξύλινο πόδι</PegLeg.labelNoun>
+
+  <Denture.label>μασέλα</Denture.label>
+  <Denture.labelNoun>μία μασέλα</Denture.labelNoun>
+
+  <SimpleProstheticLeg.label>απλό προσθετικό πόδι</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>ένα απλό προσθετικό πόδι</SimpleProstheticLeg.labelNoun>
+
+  <SimpleProstheticArm.label>απλό προσθετικό χέρι</SimpleProstheticArm.label>
+  <SimpleProstheticArm.comps.0.tools.0.label>γροθιά</SimpleProstheticArm.comps.0.tools.0.label>
+  <SimpleProstheticArm.labelNoun>ένα απλό προσθετικό χέρι</SimpleProstheticArm.labelNoun>
+
+  <BionicEye.label>βιονικό μάτι</BionicEye.label>
+  <BionicEye.labelNoun>ένα βιονικό μάτι</BionicEye.labelNoun>
+
+  <BionicArm.label>βιονικό χέρι</BionicArm.label>
+  <BionicArm.comps.0.tools.0.label>γροθιά</BionicArm.comps.0.tools.0.label>
+  <BionicArm.labelNoun>ένα βιονικό χέρι</BionicArm.labelNoun>
+
+  <BionicLeg.label>βιονικό πόδι</BionicLeg.label>
+  <BionicLeg.labelNoun>ένα βιονικό πόδι</BionicLeg.labelNoun>
+
+  <PowerClaw.label>ισχυρό νύχι</PowerClaw.label>
+  <PowerClaw.comps.0.tools.0.label>νύχι</PowerClaw.comps.0.tools.0.label>
+  <PowerClaw.labelNoun>ένα ισχυρό νύχι</PowerClaw.labelNoun>
+
+  <ScytherBlade.label>λεπίδα δρεπανοφόρου</ScytherBlade.label>
+  <ScytherBlade.comps.0.tools.0.label>λεπίδα</ScytherBlade.comps.0.tools.0.label>
+  <ScytherBlade.comps.0.tools.1.label>μύτη</ScytherBlade.comps.0.tools.1.label>
+  <ScytherBlade.labelNoun>μία λεπίδα δρεπανοφόρου</ScytherBlade.labelNoun>
+
+
+</LanguageData>

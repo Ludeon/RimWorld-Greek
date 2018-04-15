@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Malnutrition.label>υποσιτισμός</Malnutrition.label>
+  <Malnutrition.stages.0.label>ασήμαντος</Malnutrition.stages.0.label>
+  <Malnutrition.stages.1.label>ελάχιστος</Malnutrition.stages.1.label>
+  <Malnutrition.stages.2.label>μέτριος</Malnutrition.stages.2.label>
+  <Malnutrition.stages.3.label>σοβαρός</Malnutrition.stages.3.label>
+  <Malnutrition.stages.4.label>ακραίος</Malnutrition.stages.4.label>
+
+
+</LanguageData>

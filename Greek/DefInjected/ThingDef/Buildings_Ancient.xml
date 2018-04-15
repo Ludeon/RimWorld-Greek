@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AncientConcreteBarrier.label>αρχαίο φράγμα σκυροδέματος</AncientConcreteBarrier.label>
+  <AncientConcreteBarrier.description>Μια λύση διαχείρισης της κυκλοφορίας από πολύ καιρό πριν.</AncientConcreteBarrier.description>
+
+  <AncientLamppost.label>αρχαίος πυλώνας φωτισμού</AncientLamppost.label>
+  <AncientLamppost.description>Φωτιστικό δρόμου από πολύ καιρό πριν. Δεν είναι πλέον λειτουργικό.</AncientLamppost.description>
+
+
+</LanguageData>

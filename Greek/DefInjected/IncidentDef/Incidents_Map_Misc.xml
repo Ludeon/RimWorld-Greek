@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Καλά (Good) -->
+
+  <ResourcePodCrash.label>συντριβή ατράκτου εμπορευμάτων</ResourcePodCrash.label>
+  <PsychicSoothe.label>ψυχική ανακούφιση</PsychicSoothe.label>
+  <SelfTame.label>εξημερώθηκε μόνο του</SelfTame.label>
+
+  <AmbrosiaSprout.label>φύτρωσε αμβροσία</AmbrosiaSprout.label>
+  <AmbrosiaSprout.letterText>Μία συστάδα του μυστηριώδους θάμνου αμβροσίας έχει φυτρώσει εδώ κοντά! Αν περιμένετε τα φυτά να αναπτυχθούν, θα είστε σε θέση να μαζέψετε τα νόστιμα, ευχάριστα και ελαφρώς εθιστικά φρούτα.</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterLabel>Φύτρωσε αμβροσία</AmbrosiaSprout.letterLabel>
+
+  <FarmAnimalsWanderIn.label>οικόσιτα ζώα περιπλανιούνται</FarmAnimalsWanderIn.label>
+  <WandererJoin.label>ένωση με περιπλανώμενο</WandererJoin.label>
+  <RefugeePodCrash.label>συντριβή ατράκτου διαφυγής</RefugeePodCrash.label>
+
+
+  <!-- Ουδέτερα (Neutral) -->
+
+  <RefugeeChased.label>κυνηγημένος πρόσφυγας</RefugeeChased.label>
+  <ThrumboPasses.label>διέλευση θράμπο</ThrumboPasses.label>
+
+  <RansomDemand.label>απαίτηση λύτρων</RansomDemand.label>
+  <RansomDemand.letterLabel>Απαίτηση λύτρων</RansomDemand.letterLabel>
+
+  <CaravanRequest.label>αίτηση για καραβάνι</CaravanRequest.label>
+
+  <MeteoriteImpact.label>πρόσκρουση μετεωρίτη</MeteoriteImpact.label>
+  <MeteoriteImpact.letterText>Ένας μεγάλος μετεωρίτης έχει προσκρούσει στο έδαφος στην περιοχή. Έχει αφήσει πίσω του ένα κομμάτι {0}.</MeteoriteImpact.letterText>
+  <MeteoriteImpact.letterLabel>Μετεωρίτης</MeteoriteImpact.letterLabel>
+
+  <HerdMigration.label>μετανάστευση κοπαδιού</HerdMigration.label>
+  <HerdMigration.letterText>Ένα μεγάλο κοπάδι από {0} περνά μέσα από την περιοχή. Δεν θα επιτεθούν αν δεν προκληθούν.</HerdMigration.letterText>
+  <HerdMigration.letterLabel>Μετανάστευση κοπαδιού: {0}</HerdMigration.letterLabel>
+
+
+  <!-- Άσχημα (Bad) -->
+
+  <PsychicDrone.label>ψυχικός βόμβος</PsychicDrone.label>
+
+  <ToxicFallout.label>τοξικά κατάλοιπα</ToxicFallout.label>
+  <ToxicFallout.letterText>Μια μακρινή χημική πυρκαγιά έχει απελευθερώσει ένα νέφος από δηλητήριο σε όλη την περιοχή.\n\nΟποιοδήποτε άτομο ή πλάσμα που δεν βρίσκεται κάτω από μια στέγη θα αρρωστήσει σιγά, σιγά από την τοξική σκόνη που εμπεριέχεται στην ατμόσφαιρα.\n\nΘα διαρκέσει για οπουδήποτε μεταξύ μερικών ημερών και λιγότερο από μια εποχή.</ToxicFallout.letterText>
+  <ToxicFallout.letterLabel>Τοξικά κατάλοιπα</ToxicFallout.letterLabel>
+
+  <VolcanicWinter.label>ηφαιστειακός χειμώνας</VolcanicWinter.label>
+  <VolcanicWinter.letterText>Ένα απομακρυσμένο υπερηφαίστειο εξερράγη και άρχισε να εκπέμπει εκατομμύρια κυβικά χιλιόμετρα τέφρας στην ατμόσφαιρα.\n\n Η στάχτη στην ατμόσφαιρα θα σκιάζει τον ήλιο. Οι θερμοκρασίες θα πέσουν και τα φυτά θα υποφέρουν λόγω έλλειψης ηλιακού φωτός. Μπορεί να διαρκέσει λίγες εβδομάδες, ή μπορεί να διαρκέσει πολλές εποχές.</VolcanicWinter.letterText>
+  <VolcanicWinter.letterLabel>Ηφαιστειακός χειμώνας</VolcanicWinter.letterLabel>
+
+  <HeatWave.label>κύμα καύσωνα</HeatWave.label>
+  <HeatWave.letterText>Έχει ξεκινήσει ένα ασυνήθιστο κύμα καύσωνα.\n\nΤα κύματα καύσωνα μπορούν να σκοτώσουν γρήγορα αν οι άνθρωποι αρχίσουν να υποφέρουν από θερμοπληξία. Μείνετε δροσεροί, κατασκευάζοντας ένα ψυκτήρα ή πηγαίνοντας βαθιά κάτω από ένα βουνό.</HeatWave.letterText>
+  <HeatWave.letterLabel>Κύμα καύσωνα</HeatWave.letterLabel>
+
+  <ColdSnap.label>ψυχρές ριπές αέρα</ColdSnap.label>
+  <ColdSnap.letterText>Μία ασυνήθιστα ψυχρή κακοκαιρία βρίσκεται σε εξέλιξη.\n\nΟι ψυχρές ριπές αέρα μπορούν γρήγορα να σκοτώσουν από υποθερμία. Βεβαιωθείτε ότι έχετε χτίσει έναν θερμαινόμενο χώρο για να επιβιώσετε, να φορέσετε κατάλληλα ενδύματα και να προσπαθήσετε να συγκομίσετε τις καλλιέργειες πριν παγώσουν και ξεραθούν.</ColdSnap.letterText>
+  <ColdSnap.letterLabel>Ψυχρές ριπές αέρα</ColdSnap.letterLabel>
+
+  <Aurora.label>σέλας</Aurora.label>
+  <Aurora.letterText>Ένα όμορφο σέλας φωτίζει τον ουρανό.\n\nΤα κυματιστά χρώματα θα ενισχύσουν τη διάθεση όλων όσων βρίσκονται έξω για να τα δουν και θα κάνουν τη νύχτα πιο φωτεινή.</Aurora.letterText>
+  <Aurora.letterLabel>Σέλας</Aurora.letterLabel>
+
+  <Flashstorm.label>θύελλα αστραπών</Flashstorm.label>
+  <Flashstorm.letterText>Μια αφύσικη τοπική καταιγίδα κεραυνών χτυπά μια μικρή περιοχή με αστραπές. Αυτό μπορεί να προκαλέσει τεράστιες πυρκαγιές.</Flashstorm.letterText>
+  <Flashstorm.letterLabel>Θύελλα αστραπών</Flashstorm.letterLabel>
+
+  <Tornado.label>ανεμοστρόβιλος</Tornado.label>
+  <Tornado.letterText>Έχει σχηματιστεί ένας ανεμοστρόβιλος!\n\nΘα χαράξει μια διαδρομή καταστροφής μέσα στη περιοχή.</Tornado.letterText>
+  <Tornado.letterLabel>Ανεμοστρόβιλος</Tornado.letterLabel>
+
+  <ShortCircuit.label>βραχυκύκλωμα</ShortCircuit.label>
+  <CropBlight.label>ασθένεια φυτών</CropBlight.label>
+  <Alphabeavers.label>αλφακάστορες</Alphabeavers.label>
+
+
+</LanguageData>

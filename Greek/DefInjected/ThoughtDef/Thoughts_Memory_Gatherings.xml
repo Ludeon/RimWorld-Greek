@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GotMarried.stages.0.label>παντρεύτηκε με {0}</GotMarried.stages.0.label>
+  <GotMarried.stages.0.description>Παντρεύτηκα! Η ζωή είναι γεμάτη δυνατότητες!</GotMarried.stages.0.description>
+
+  <AttendedWedding.stages.0.label>παρακολούθησε το γάμο</AttendedWedding.stages.0.label>
+  <AttendedWedding.stages.0.description>Ήταν υπέροχο να δούμε δύο άτομα να ενωθούν για να χτίσουν ένα τέτοιο μέλλον.</AttendedWedding.stages.0.description>
+
+  <AttendedParty.stages.0.label>συμμετείχε στο πάρτι</AttendedParty.stages.0.label>
+  <AttendedParty.stages.0.description>Είχα μια καλή στιγμή στο πάρτι.</AttendedParty.stages.0.description>
+
+
+</LanguageData>

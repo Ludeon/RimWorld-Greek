@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Disease_Flu.label>γρίπη</Disease_Flu.label>
+  <Disease_Plague.label>επιδημία</Disease_Plague.label>
+  <Disease_Malaria.label>ελονοσία</Disease_Malaria.label>
+  <Disease_SleepingSickness.label>νόσος του ύπνου</Disease_SleepingSickness.label>
+  <Disease_FibrousMechanites.label>ινώδεις μηχανίτες</Disease_FibrousMechanites.label>
+  <Disease_SensoryMechanites.label>υπερφόρτωση μηχανίτων</Disease_SensoryMechanites.label>
+  <Disease_GutWorms.label>σκουλήκια του εντέρου</Disease_GutWorms.label>
+  <Disease_MuscleParasites.label>μυϊκά παράσιτα</Disease_MuscleParasites.label>
+
+
+</LanguageData>

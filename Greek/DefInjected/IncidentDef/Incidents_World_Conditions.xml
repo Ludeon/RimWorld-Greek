@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Eclipse.label>έκλειψη</Eclipse.label>
+  <Eclipse.letterText>Ένα από τα φεγγάρια αυτού του πλανήτη είναι σε τροχιά μπροστά από τον ήλιο. Μια έκλειψη έχει αρχίσει.</Eclipse.letterText>
+  <Eclipse.letterLabel>Έκλειψη</Eclipse.letterLabel>
+
+  <SolarFlare.label>ηλιακή έκλαμψη</SolarFlare.label>
+  <SolarFlare.letterText>Έχει ξεκινήσει η ηλιακή έκλαμψη.\n\nΗ έντονη ακτινοβολία θα απενεργοποιήσει όλες τις ηλεκτρικές συσκευές.\n\nΘα διαρκέσει περίπου μια μέρα.</SolarFlare.letterText>
+  <SolarFlare.letterLabel>Ηλιακή έκλαμψη</SolarFlare.letterLabel>
+
+
+</LanguageData>

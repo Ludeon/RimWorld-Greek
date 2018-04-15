@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Μεγάλες απειλές (Big threats) -->
+
+  <RaidEnemy.label>εχθρική επιδρομή</RaidEnemy.label>
+
+  <Infestation.label>εισβολή</Infestation.label>
+  <Infestation.letterText>Έχει εμφανιστεί μια κυψέλη από έντομα!\n\nΘα γεννούν αργά άλλα έντομα και θα παράγουν επιπλέον κυψέλες. Αν δεν θέλετε να προσβάλουν ολόκληρη την περιοχή, συγκεντρώστε τις δυνάμεις σας και καταστρέψτε την. Αλλά προσέξτε - τα έντομα θα υπερασπιστούν την κυψέλη τους.</Infestation.letterText>
+  <Infestation.letterLabel>Εισβολή</Infestation.letterLabel>
+
+  <ManhunterPack.label>συμμορία ανθρωποκυνηγών</ManhunterPack.label>
+
+  <PsychicEmanatorShipPartCrash.label>πτώση τμήματος διαστημοπλοίου (ψυχικό)</PsychicEmanatorShipPartCrash.label>
+  <PsychicEmanatorShipPartCrash.letterText>Ένα μεγάλο κομμάτι ενός αρχαίου διαστημόπλοιου έχει συντριβεί εδώ κοντά.\n\nΟι άποικοι σας μπορούν να νιώσουν στο πίσω μέρος του μυαλού τους, παροτρύνσεις για ανείπωτες πράξεις. Πρέπει να φέρει μία προσωπικότητα τεχνητής νοημοσύνης με ικανότητα ψυχική υποβολής. Και αυτή η τεχνητή νοημοσύνη δεν είναι φιλική.\n\nΚαταστρέψτε την το συντομότερο δυνατόν.</PsychicEmanatorShipPartCrash.letterText>
+  <PsychicEmanatorShipPartCrash.letterLabel>Ψυχικό διαστημόπλοιο</PsychicEmanatorShipPartCrash.letterLabel>
+
+  <PoisonShipPartCrash.label>πτώση τμήματος διαστημοπλοίου (δηλητηριώδες)</PoisonShipPartCrash.label>
+  <PoisonShipPartCrash.letterText>Ένα μεγάλο κομμάτι ενός αρχαίου διαστημοπλοίου έχει καταπέσει εδώ κοντά.\n\nΈχει διαρροή τοξικών υλικών και θα σκοτώσει όλα τα φυτά σε έναν διαστελλόμενο κύκλο γύρω από τον εαυτό του.\n\nΚαταστρέψτε το το συντομότερο δυνατόν.</PoisonShipPartCrash.letterText>
+  <PoisonShipPartCrash.letterLabel>Δηλητηριώδες διαστημόπλοιο</PoisonShipPartCrash.letterLabel>
+
+  <AnimalInsanityMass.label>μαζική παραφροσύνη ζώων</AnimalInsanityMass.label>
+
+
+  <!-- Μικρές απειλές (Small threats) -->
+
+  <AnimalInsanitySingle.label>τρελαμένο ζώο</AnimalInsanitySingle.label>
+
+
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Βρώσιμες καλλιέργειες (Food crops) -->
+
+  <PlantRice.label>ρύζι</PlantRice.label>
+  <PlantRice.description>Ένα μικρού κόκκου φυτό που ευδοκιμεί σε πλούσιο έδαφος και αποφέρει γρήγορα τροφή, αλλά δεν είναι ωραίο να τρώγεται άψητο.</PlantRice.description>
+
+  <PlantPotato.label>πατάτα</PlantPotato.label>
+  <PlantPotato.description>Ένας απλός, θρεπτικός βολβός. Μεγαλώνει ακόμη και σε θρεπτικά πτωχό έδαφος. Μαζεύεται γρήγορα. Μια ισχυρή, ευέλικτη καλλιέργεια.</PlantPotato.description>
+
+  <PlantCorn.label>καλαμπόκι</PlantCorn.label>
+  <PlantCorn.description>Ένα φυτό μεγάλου κόκκου που παράγει στάχυα από νόστιμους κίτρινους σπόρους. Χρειάζεται σχετικά μεγάλο χρονικό διάστημα για να αναπτυχθεί, αλλά αποδίδει πολλά τρόφιμα και χρειάζεται πολύ χρόνο για να χαλάσει. Χρειάζεται εύφορο έδαφος για να αναπτυχθεί καλά.</PlantCorn.description>
+
+  <PlantStrawberry.label>φραουλιά</PlantStrawberry.label>
+  <PlantStrawberry.description>Ένα ευαίσθητο αλλά εύγευστο φρούτο. Νοστιμότατο ακόμη και ωμό, χρειάζεται θρεπτικά πλούσιο έδαφος.</PlantStrawberry.description>
+
+  <PlantHaygrass.label>σανός</PlantHaygrass.label>
+  <PlantHaygrass.description>Ένα μείγμα πλούσιων σε θρεπτικά ιχνοστοιχεία χόρτων που αποδίδουν μεγάλες ποσότητες σανού. Το σανό είναι βρώσιμο για ζώα, αλλά όχι για ανθρώπους.</PlantHaygrass.description>
+
+
+  <!-- Παραγωγικές καλλιέργειες (Production crops) -->
+
+  <PlantCotton.label>βαμβάκι</PlantCotton.label>
+  <PlantCotton.description>Αποδίδει βαμβάκι, μια λεπτή φυτική ίνα που χρησιμοποιείται για την κατασκευή υφάσματος.</PlantCotton.description>
+
+  <PlantDevilstrand.label>σατανική τούφα</PlantDevilstrand.label>
+  <PlantDevilstrand.description>Αυτό το εύθραυστο μανιτάρι κατασκευάστηκε γενετικά για να παράγει ενός υψηλότερου βαθμού καθαρότητας μετάξι. Έχει μεγάλη φήμη ότι έχει μυστικιστικές ιδιότητες, οφείλει το όνομά του στην απληστία που διακατέχει τους ανθρώπους.</PlantDevilstrand.description>
+
+  <PlantHealroot.label>γιατρόριζα</PlantHealroot.label>
+  <PlantHealroot.description>Ένα φυτό που αναπτύσσεται αργά και παράγει βότανα όταν συγκομίζεται. Το γιατρόριζα εκτρέφεται επιλεκτικά εδώ και αιώνες από εποίκους. Μερικές φορές ονομάζεται επίσης "χέρι του θεραπευτή" από τις φυλές - ένα ψευδώνυμο που οφείλει στις πέντε μεγάλες φαρμακευτικές αρετές του.</PlantHealroot.description>
+
+
+  <!-- Καλλιέργειες ναρκωτικών (Drug crops) -->
+
+  <PlantHops.label>λυκίσκος</PlantHops.label>
+  <PlantHops.description>Ένα ανθοφόρο φυτό που παράγει λυκίσκο, ένα βασικό συστατικό της μπύρας.</PlantHops.description>
+
+  <PlantSmokeleaf.label>καπνόφυλλο</PlantSmokeleaf.label>
+  <PlantSmokeleaf.description>Ένα φυλλώδες φυτό που καλλιεργείται για τις ψυχολογικά του επιδράσεις. Τα καπνόφυλλα μπορούν να προετοιμαστούν σε τσιγαριλίκι στο σημείο κατασκευών.</PlantSmokeleaf.description>
+
+  <PlantPsychoid.label>ψυχοειδές φυτό</PlantPsychoid.label>
+  <PlantPsychoid.description>Ένα φυλλώδες φυτό. Τα φύλλα του μπορούν να επεξεργαστούν σε διάφορες μορφές ψυχοειδούς ναρκωτικού.</PlantPsychoid.description>
+
+
+</LanguageData>

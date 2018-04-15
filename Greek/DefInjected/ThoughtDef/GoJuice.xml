@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GoJuiceHigh.stages.0.label>έχω φτιαχτεί με τον χυμό που σε στέλνει</GoJuiceHigh.stages.0.label>
+  <GoJuiceHigh.stages.0.description>Αισθάνομαι καύλα αλλά και ηρεμία. Είμαι η σφαίρα ελεύθερου σκοπευτή κατά την πτήση, έτοιμη να σας διαπεράσει.</GoJuiceHigh.stages.0.description>
+
+
+  <!-- Εθισμός στον χυμό που σε στέλνει (Go-juice addiction) -->
+
+  <GoJuiceWithdrawal.stages.1.label>στέρηση από τον χυμό που σε στέλνει</GoJuiceWithdrawal.stages.1.label>
+  <GoJuiceWithdrawal.stages.1.description>Είμαι όλο ζαλισμένος και δεν μπορώ να σκεφτώ σωστά. Αισθάνομαι τα άκρα μου βαριά, είμαι κουρασμένος και πεινασμένος, όλα πονάνε. Και γιατί τα μάτια μου δεν μπορούν να εστιάσουν σωστά;</GoJuiceWithdrawal.stages.1.description>
+
+
+</LanguageData>

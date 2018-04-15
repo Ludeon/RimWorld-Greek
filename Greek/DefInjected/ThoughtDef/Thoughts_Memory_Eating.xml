@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Βασικές σκέψεις ποιότητας (Basic quality thoughts) -->
+
+  <AteLavishMeal.stages.0.label>έφαγε πολυτελές γεύμα</AteLavishMeal.stages.0.label>
+  <AteLavishMeal.stages.0.description>Το γεύμα ήταν υπέροχο! Μου άγγιξε την ψυχή μου.</AteLavishMeal.stages.0.description>
+
+  <AteFineMeal.stages.0.label>έφαγε καλό γεύμα</AteFineMeal.stages.0.label>
+  <AteFineMeal.stages.0.description>Μμμ! Έφαγα ένα πολύ γευστικό γεύμα.</AteFineMeal.stages.0.description>
+
+  <AteAwfulMeal.stages.0.label>έφαγε απαίσιο γεύμα</AteAwfulMeal.stages.0.label>
+  <AteAwfulMeal.stages.0.description>Έπρεπε να φάω ένα αηδιαστικό, άγευστο γεύμα. Ξέρω ότι με κράτα ζωντανό, αλλά κανείς δεν θέλει να το καταπιεί.</AteAwfulMeal.stages.0.description>
+
+  <AteRawFood.stages.0.label>έφαγε ωμό φαγητό</AteRawFood.stages.0.label>
+  <AteRawFood.stages.0.description>Έπρεπε να φάω ωμό φαγητό. Δεν μπορούμε να το μαγειρέψουμε ή έστω να συνθέσουμε λίγη θρεπτική πάστα;</AteRawFood.stages.0.description>
+
+  <AteKibble.stages.0.label>έφαγε κροκέτες</AteKibble.stages.0.label>
+  <AteKibble.stages.0.description>Έπρεπε να φάω ζωοτροφές. Είναι σαν να μην ξαναγίνω πια άνθρωπος.</AteKibble.stages.0.description>
+
+  <AteCorpse.stages.0.label>έφαγε πτώμα</AteCorpse.stages.0.label>
+  <AteCorpse.stages.0.description>Έπρεπε να φάω ένα πτώμα χωρίς να το τεμαχίσω ούτε να το μαγειρέψω. Ήταν φρικτό.</AteCorpse.stages.0.description>
+
+
+  <!-- Ειδικές σκέψεις ποιότητας (Special nature thoughts) -->
+
+  <AteHumanlikeMeatDirect.stages.0.label>ωμός κανιβαλισμός</AteHumanlikeMeatDirect.stages.0.label>
+  <AteHumanlikeMeatDirect.stages.0.description>Έφαγα έναν άνθρωπο, ωμό σαν ζώο. Ήταν ένας εφιάλτης.</AteHumanlikeMeatDirect.stages.0.description>
+
+  <AteHumanlikeMeatDirectCannibal.stages.0.label>ωμός κανιβαλισμός</AteHumanlikeMeatDirectCannibal.stages.0.label>
+  <AteHumanlikeMeatDirectCannibal.stages.0.description>Έφαγα το κρέας άλλου ανθρώπου, ακατέργαστο, σαν ζώο. Ήταν τόσο... ζουμερό.</AteHumanlikeMeatDirectCannibal.stages.0.description>
+
+  <AteHumanlikeMeatAsIngredient.stages.0.label>μαγειρεμένος κανιβαλισμός</AteHumanlikeMeatAsIngredient.stages.0.label>
+  <AteHumanlikeMeatAsIngredient.stages.0.description>Έφαγα ένα γεύμα με ανθρώπινο κρέας. Είναι απαίσιο.</AteHumanlikeMeatAsIngredient.stages.0.description>
+
+  <AteHumanlikeMeatAsIngredientCannibal.stages.0.label>μαγειρεμένος κανιβαλισμός</AteHumanlikeMeatAsIngredientCannibal.stages.0.label>
+  <AteHumanlikeMeatAsIngredientCannibal.stages.0.description>Έφαγα ένα γεύμα από το κρέας ενός άλλου ανθρώπου. Τόσο ευχάριστο. Να είχα μόνο μερικά φασόλια και ένα ωραίο κόκκινο κρασί.</AteHumanlikeMeatAsIngredientCannibal.stages.0.description>
+
+  <AteInsectMeatDirect.stages.0.label>έφαγε κρέας εντόμου</AteInsectMeatDirect.stages.0.label>
+  <AteInsectMeatDirect.stages.0.description>Έφαγα κάποια γκρίζα, γλοιώδη κρέατα εντόμων. Ήταν, ίσως, το πιο αηδιαστικό πράγμα που έχω δοκιμάσει ποτέ.</AteInsectMeatDirect.stages.0.description>
+
+  <AteInsectMeatAsIngredient.stages.0.label>έφαγε μαγειρεμένο κρέας εντόμου</AteInsectMeatAsIngredient.stages.0.label>
+  <AteInsectMeatAsIngredient.stages.0.description>Έφαγα ένα γεύμα μαγειρεμένο από γκρίζο, γλοιώδες κρέας εντόμων. Τα καρυκεύματα κάλυψαν εν μέρει τη γεύση, αλλά εκεί υπήρχαν αδένες και υγροί θύλακες που δεν μπορούσα να αναγνωρίσω.</AteInsectMeatAsIngredient.stages.0.description>
+
+
+  <!-- Σκέψεις σάπιας κατάστασης (Rotten state thoughts) -->
+
+  <AteRottenFood.stages.0.label>έφαγε σάπιο φαγητό</AteRottenFood.stages.0.label>
+  <AteRottenFood.stages.0.description>Έφαγα μερικά αηδιαστικά, σάπια τρόφιμα. Έλιωναν στο στόμα μου - αλλά όχι με τον ευχάριστο τρόπο.</AteRottenFood.stages.0.description>
+
+
+</LanguageData>

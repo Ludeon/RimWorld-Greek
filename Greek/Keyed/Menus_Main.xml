@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--=========== Βασικό μενού (Main menu) ==========-->
+  <Tutorial>Εκμάθηση</Tutorial>
+  <NewColony>Νέα αποικία</NewColony>
+  <BackToGame>Επιστροφή στο παιχνίδι</BackToGame>
+  <ReviewScenario>Ανασκόπηση σεναρίου</ReviewScenario>
+  <Save>Αποθήκευση</Save>
+  <LoadGame>Φόρτωση παιχνιδιού</LoadGame>
+  <Options>Επιλογές</Options>
+  <Mods>Mods</Mods>
+  <Credits>Συντελεστές</Credits>
+  <QuitToMainMenu>Έξοδος στο αρχικό μενού</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Αποθήκευση και έξοδος στο μενού</SaveAndQuitToMainMenu>
+  <QuitToOS>Έξοδος</QuitToOS>
+  <SaveAndQuitToOS>Αποθήκευση και έξοδος</SaveAndQuitToOS>
+  <FictionPrimer>Εισαγωγικό φαντασιοκόπημα</FictionPrimer>
+  <LudeonBlog>Ludeon blog</LudeonBlog>
+  <Forums>Forums</Forums>
+  <OfficialWiki>Επίσημο wiki</OfficialWiki>
+  <TynansTwitter>Tynan twitter</TynansTwitter>
+  <TynansDesignBook>Βιβλίο σχεδίασης του Tynan</TynansDesignBook>
+  <HelpTranslate>Βοήθησε στην μετάφραση του RimWorld</HelpTranslate>
+  <BuySoundtrack>Αγόρασε τη μουσική επένδυση</BuySoundtrack>
+  <CreateWorld>Δημιουργία κόσμου</CreateWorld>
+
+  <!--=========== Δημιουργία/προεπισκόπηση κόσμου (Create/review world0 ================-->
+  <ReviewWorld>Ανασκόπηση κόσμου</ReviewWorld>
+  <WorldGenerate>Δημιουργία</WorldGenerate>
+  <WorldSaveAndFinish>Αποθήκευση και ολοκλήρωση</WorldSaveAndFinish>
+  <Reset>Επαναφορά</Reset>
+  <PlanetCoverage>Κάλυψη υδρογείου</PlanetCoverage>
+  <PlanetRainfall>Συνολική βροχόπτωση</PlanetRainfall>
+  <PlanetTemperature>Συνολική θερμοκρασία</PlanetTemperature>
+  <PlanetRainfall_Low>Χαμηλή</PlanetRainfall_Low>
+  <PlanetRainfall_Normal>Κανονική</PlanetRainfall_Normal>
+  <PlanetRainfall_High>Υψηλή</PlanetRainfall_High>
+  <PlanetTemperature_Low>Χαμηλή</PlanetTemperature_Low>
+  <PlanetTemperature_Normal>Κανονική</PlanetTemperature_Normal>
+  <PlanetTemperature_High>Υψηλή</PlanetTemperature_High>
+  <WorldSeed>Σπορά</WorldSeed>
+  <RandomizeSeed>Τυχαίο σπορά</RandomizeSeed>
+  <PlanetCoverageTip>Ο πλανήτης έχει πάντα την ίδια διάμετρο, αλλά μιας και είναι πολύ μεγαλύτερος από ότι χρειάζεται για το παιχνίδι, δεν παράγουμε ολόκληρη την επιφάνεια γιατί μπορεί να καθυστερήσει πολύ. Αυτό είναι το ποσοστό της επιφάνειας που θέλεις να παραχθεί.</PlanetCoverageTip>
+  <WorldFactionsTab>Φατρίες</WorldFactionsTab>
+
+  <!--=========== Επιλογή κόσμου (Select world) ===================-->
+  <SelectWorld>Επιλογή κόσμου</SelectWorld>
+  <WorldChooseButton>Επιλογή</WorldChooseButton>
+  <NoWorldsFilesFound>Δεν βρέθηκαν αρχεία κόσμου. Δημιούργησε ένα κόσμο πρώτα.</NoWorldsFilesFound>
+
+  <!--=========== Πληροφορίες έκδοσης (Version info) ==========-->
+  <BuildNowAvailable>Η έκδοση {0} είναι πλέον διαθέσιμη. Έλεγξε το ludeon.com για περισσότερες πληροφορίες.</BuildNowAvailable>
+  <BuildUpToDate>Αυτή είναι η πιο πρόσφατη έκδοσή.</BuildUpToDate>
+  <ErrorGettingVersionInfo>Σφάλμα κατά την λήψη πληροφοριών έκδοσης: {0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>Φόρτωση πληροφοριών έκδοσης...</LoadingVersionInfo>
+
+  <!--=========== Παραγωγή κόσμου (World generator) =========-->
+  <GenerateWorld>Παραγωγή κόσμου</GenerateWorld>
+
+  <!--=========== Διαμόρφωση Mods (Mods config) ==========-->
+  <OpenSteamWorkshop>Άνοιγμα του Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Απόκτησε mods από το forum</GetModsFromForum>
+  <OpenModsDataFolder>Άνοιγμα φακέλου δεδομένων των mods</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Είσαι σίγουρος πως θέλεις να απενεργοποιήσεις το κεντρικό mod; Το παιχνίδι δεν θα λειτουργήσει εκτός και αν έχεις κάποιο άλλο mod που να αντικαθιστά όλες τις κεντρικές λειτουργίες.\n\nΘυμήσου, άλλα mods μπορούν να αντικαταστήσουν τα defs στο κεντρικό mod χρησιμοποιώντας το ίδιο defName.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Είσαι σίγουρος ότι θέλεις να διαγράψεις όλα τα περιεχόμενα του {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Κατάργηση συνδρομής</Unsubscribe>
+  <ConfirmUnsubscribe>Είσαι σίγουρος πως θέλεις να καταργήσεις την συνδρομή από το {0}?</ConfirmUnsubscribe>
+  <Author>Δημιουργός</Author>
+  <WorkshopPage>Σελίδα του Workshop</WorkshopPage>
+  <UploadToSteamWorkshop>Ανέβασμα στο Steam Workshop</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Ανανέωση στο Steam Workshop</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Ανέβασμα σε εξέλιξη.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Η υποβολή στο Workshop απέτυχε.\n\nΑιτία: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>Επιτυχές ανέβασμα {0}.</WorkshopUploadSucceeded>
+  <Downloading>Κατέβασμα</Downloading>
+  <Source>Πηγή</Source>
+  <ModTargetVersion>Για την έκδοση: {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>Αυτό το mod δεν δημιουργήθηκε για αυτή την έκδοση του RimWorld, και πιθανόν δεν θα λειτουργεί σωστά.</ModNotMadeForThisVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Το mod χρειάζεται μία σωστά δομημένο έκδοση στόχου στο About.xml. Σαν αυτό: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <DragToReorder>Σύρε για αναταξινόμηση</DragToReorder>
+
+  <!--=========== Επιλογή σεναρίου (Select scenario) =============-->
+  <ChooseScenario>Επιλογή σεναρίου</ChooseScenario>
+  <ScenariosCustom>Προσαρμοσμένο</ScenariosCustom>
+  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <ScenarioEditor>Επεξεργαστής σεναρίου</ScenarioEditor>
+  <Delete>Διαγραφή</Delete>
+
+  <!--============ Επεξεργαστής σεναρίου (Scenario editor) ===============-->
+  <Seed>σπορά</Seed>
+  <Load>Φόρτωση</Load>
+  <EditMode>Κατάσταση επεξεργασίας</EditMode>
+  <Summary>Περίληψη</Summary>
+  <AddPart>Προσθήκη τμήματος</AddPart>
+  <TextFieldsMustBeFilled>Πρέπει να συμπληρωθούν όλα τα πεδία.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>Είσαι σίγουρος πως θέλεις να το ανεβάσεις στο Steam Workshop;\n\nΠρέπει να συμφωνήσεις στους όρους χρήσης του Steam Workshop. Βρες τους πλήρεις όρους εδώ:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Προφανώς πρέπει να ανεβάσεις περιεχόμενα που δημιούργησες εσύ.\n\nΤα δημιούργησες εσύ ο ίδιος;</ConfirmContentAuthor>
+  <Incompatible>Ασύμβατο</Incompatible>
+  <TooMany>Πάρα πολλά (μέγιστο {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>Μπορεί να αναβαθμιστεί στο Workshop, αφού είσαι ο δημιουργός.</CanBeUpdatedOnWorkshop>
+
+  <!--=========== Επιλογή αφηγητή (Select storyteller) ==========-->
+  <ChooseAIStoryteller>Επέλεξε ΤΝ αφηγητή</ChooseAIStoryteller>
+  <HowStorytellersWork>Η ΤΝ αφηγητή δημιουργεί γεγονότα όπως επιδρομές πειρατών, πτώσεις πόρων ή επιθέσεις ζώων. Οι επιλογές τους θα επηρεάσουν την ιστορία της αποικίας σου. Μπορείς να αλλάξεις αυτές τις ρυθμίσεις ανά πάσα στιγμή.</HowStorytellersWork>
+  <MustChooseDifficulty>Παρακαλώ επέλεξε ένα βαθμό δυσκολίας.</MustChooseDifficulty>
+  <Difficulty>Δυσκολία</Difficulty>
+
+  <!--=========== Επιλογή τόπου προσγείωσης (Landing site select) =========-->
+  <SelectLandingSite>Επέλεξε σημείο προσεδάφισης</SelectLandingSite>
+  <SelectRandomSite>Επέλεξε τυχαίο σημείο</SelectRandomSite>
+  <SelectSite>Επέλεξε σημείο</SelectSite>
+  <MustSelectLandingSite>Παρακαλώ επέλεξε ένα σημείο προσεδάφισης.</MustSelectLandingSite>
+  <CannotLandBiome>Δεν μπορείς να προσεδαφιστείς σε αυτό το βιοσύστημα: {0}</CannotLandBiome>
+  <BiomeNotImplemented>Το βιοσύστημα δεν έχει υλοποιηθεί</BiomeNotImplemented>
+  <CannotLandImpassableMountains>Δεν μπορείς να προσεδαφιστείς σε αδιάβατα βουνά.</CannotLandImpassableMountains>
+  <BaseAlreadyThere>Οι {0} έχουν ήδη βάση εκεί.</BaseAlreadyThere>
+  <YourBaseAlreadyThere>Έχει ήδη μία βάση εκεί.</YourBaseAlreadyThere>
+  <TileOccupied>Αυτό το σημείο είναι κατειλημμένο.</TileOccupied>
+  <FactionBaseAdjacent>Οι οικισμοί δεν μπορούν να γειτνιάζουν άμεσα αναμεταξύ τους.</FactionBaseAdjacent>
+  <Biome>Βιοσύστημα</Biome>
+  <Terrain>Έδαφος</Terrain>
+  <Road>Δρόμος</Road>
+  <River>Ποτάμι</River>
+  <Elevation>Υψόμετρο</Elevation>
+  <Fertility>Γονιμότητα</Fertility>
+  <AvgTemp>Μέση θερμοκρασία</AvgTemp>
+  <AvgSummerTemp>Θερινή θερμοκρασία</AvgSummerTemp>
+  <AvgWinterTemp>Χειμερινή θερμοκρασία</AvgWinterTemp>
+  <Rainfall>Βροχόπτωση</Rainfall>
+  <SpecialFeatures>Ειδικά χαρακτηριστικά</SpecialFeatures>
+  <HasCoast0>Βόρεια ακτή</HasCoast0>
+  <HasCoast1>Ανατολική ακτή</HasCoast1>
+  <HasCoast2>Νότια ακτή</HasCoast2>
+  <HasCoast3>Δυτική ακτή</HasCoast3>
+  <HasCaves>σπηλιές</HasCaves>
+  <FactionBase>Βάση φατρίας</FactionBase>
+  <StoneTypesHere>Τύπος πετρώματος</StoneTypesHere>
+  <TimeZone>Ζώνη ώρας</TimeZone>
+  <MovementTimeNow>Τρέχων χρόνος κίνησης</MovementTimeNow>
+  <MovementTimeSummer>Θερινός χρόνος κίνησης</MovementTimeSummer>
+  <MovementTimeWinter>Χειμερινός χρόνος κίνησης</MovementTimeWinter>
+  <AnimalsCanGrazeNow>Τα ζώα μπορούν να βόσκουν τώρα</AnimalsCanGrazeNow>
+  <AverageDiseaseFrequency>Μέση συχνότητα αρρώστιας</AverageDiseaseFrequency>
+  <PerYear>ανά έτος</PerYear>
+
+
+  <!--=========== Επιλογέας χαρακτήρα (Character chooser) ==========-->
+  <CreateCharacters>Δημιουργία χαρακτήρων</CreateCharacters>
+  <FirstNameDesc>Το μικρό όνομα του χαρακτήρα.\n\nΠροβάλλεται μόνο σε συγκεκριμένα μενού.</FirstNameDesc>
+  <ShortIdentifierDesc>Το υποκοριστικό του χαρακτήρα.\n\nΠροβάλλεται συνεχώς. Μπορεί να είναι το μικρό όνομα ή το επίθετο, ή ένα ψευδώνυμο.</ShortIdentifierDesc>
+  <LastNameDesc>Το επίθετο του χαρακτήρα.\n\nΠροβάλλεται μόνο σε συγκεκριμένα μενού.</LastNameDesc>
+  <Randomize>Τυχαίος</Randomize>
+  <AgeIndicator>ηλικία {0}</AgeIndicator>
+  <Backstory>Ιστορία</Backstory>
+  <IncapableOf>Ανικανότητες</IncapableOf>
+  <Traits>Χαρακτηριστικά</Traits>
+  <PermanentMoodEffect>Μόνιμη επίδραση διάθεσης</PermanentMoodEffect>
+  <Skills>Ικανότητες</Skills>
+  <NoneLower>κανένα</NoneLower>
+  <Adulthood>Ενηλικιότητα</Adulthood>
+  <Childhood>Παιδική ηλικία</Childhood>
+  <Male>αρσενικός</Male>
+  <Female>θηλυκός</Female>
+  <Pain>Πόνος</Pain>
+  <Health>Υγεία</Health>
+  <Relations>Σχέσεις</Relations>
+  <TeamSkills>Ικανότητες ομάδας</TeamSkills>
+  <StartingPawnsSelected>Επιλεγμένοι</StartingPawnsSelected>
+  <StartingPawnsLeftBehind>Μένουν πίσω</StartingPawnsLeftBehind>
+
+  <!--=========== Διάφορα (Misc) ==========-->
+  <Start>Εκκίνηση</Start>
+  <Advanced>Για προχωρημένους</Advanced>
+  <Next>Επόμενο</Next>
+  <Back>Επιστροφή</Back>
+  <Gameplay>Τρόπος παιξίματος</Gameplay>
+  <ConfirmQuit>Σίγουρα θέλεις να σταματήσεις; Θα χάσεις όποια πρόοδο δεν αποθηκεύτηκε.</ConfirmQuit>
+  <EveryoneNeedsValidName>Κάθε άτομο χρειάζεται ένα έγκυρο όνομα.</EveryoneNeedsValidName>
+  <Quit>Έξοδος</Quit>
+  <Ignore>Αγνόηση</Ignore>
+
+  <!--============ Μπάρα προόδου (Progress bar) ==============-->
+  <GeneratingWorld>Δημιουργία κόσμου</GeneratingWorld>
+  <GeneratingPlanet>Δημιουργία πλανήτη</GeneratingPlanet>
+  <GeneratingMap>Δημιουργία χάρτη</GeneratingMap>
+  <GeneratingMapForNewEncounter>Δημιουργία χάρτη για νέα συνάντηση</GeneratingMapForNewEncounter>
+
+</LanguageData>

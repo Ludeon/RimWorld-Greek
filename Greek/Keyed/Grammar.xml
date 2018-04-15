@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IndefiniteArticle></IndefiniteArticle>
+  <DefiniteArticle></DefiniteArticle>
+  <IndefiniteForm>{0}</IndefiniteForm>
+  <DefiniteForm>{0}</DefiniteForm>
+
+  <Proits>το</Proits>
+  <Prohis>του</Prohis>
+  <Proher>της</Proher>
+  <ProitsCap>Το</ProitsCap>
+  <ProhisCap>Του</ProhisCap>
+  <ProherCap>Της</ProherCap>
+
+  <ProitObj>το</ProitObj>
+  <ProhimObj>τον</ProhimObj>
+  <ProherObj>την</ProherObj>
+  <ProitObjCap>Το</ProitObjCap>
+  <ProhimObjCap>Τον</ProhimObjCap>
+  <ProherObjCap>Την</ProherObjCap>
+
+  <Prohe>αυτός</Prohe>
+  <Proshe>αυτή</Proshe>
+  <Proit>αυτό</Proit>
+  <ProheCap>Αυτός</ProheCap>
+  <ProsheCap>Αυτή</ProsheCap>
+  <ProitCap>Αυτό</ProitCap>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Heart.label>καρδιά</Heart.label>
+  <LeftLung.label>αριστερός πνεύμονας</LeftLung.label>
+  <RightLung.label>δεξιός πνεύμονας</RightLung.label>
+  <LeftKidney.label>αριστερό νεφρό</LeftKidney.label>
+  <RightKidney.label>δεξιό νεφρό</RightKidney.label>
+  <Liver.label>συκώτι</Liver.label>
+  <Stomach.label>στομάχι</Stomach.label>
+
+
+</LanguageData>

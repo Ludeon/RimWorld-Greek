@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Πτώση Τμήματος Διαστημοπλοίου (ShipChunkDrop) -->
+
+  <ShipChunkDrop.label>πτώση τμήματος διαστημοπλοίου</ShipChunkDrop.label>
+
+
+  <!-- Τροχιακοί Επισκέπτες (OrbitalVisitor) -->
+
+  <OrbitalTraderArrival.label>άφιξη τροχιακού εμπόρου</OrbitalTraderArrival.label>
+
+
+  <!-- Άφιξη Συμμάχου (AllyArrival) -->
+
+  <TraderCaravanArrival.label>άφιξη εμπορικού καραβανιού</TraderCaravanArrival.label>
+  <VisitorGroup.label>ομάδα επισκεπτών</VisitorGroup.label>
+  <TravelerGroup.label>παρέα ταξιδιωτών</TravelerGroup.label>
+
+
+  <!-- Συμμαχική Βοήθεια (AllyAssistance) -->
+
+  <RaidFriendly.label>φιλική επιδρομή</RaidFriendly.label>
+
+
+  <!-- Γεγονότα από επιδρομές που προσέλκυσε ο φαροπομπός (Raid-beacon-attracted events) -->
+
+  <RaidEnemyEscapeShip.label>εχθρική εισβολή</RaidEnemyEscapeShip.label>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Spacer.label>αστροναύτης</Spacer.label>
+  <Spacer.description>Άνθρωποι από μακρινές περιοχές του διαστήματος.</Spacer.description>
+  <Spacer.fixedName>Αστροναύτης</Spacer.fixedName>
+  <Spacer.pawnsPlural>αστροναύτες</Spacer.pawnsPlural>
+
+  <SpacerHostile.label>αστροναύτης</SpacerHostile.label>
+  <SpacerHostile.description>Άνθρωποι από τις απομακρυσμένες περιοχές του διαστήματος.</SpacerHostile.description>
+  <SpacerHostile.fixedName>Αστροναύτης</SpacerHostile.fixedName>
+  <SpacerHostile.pawnsPlural>αστροναύτες</SpacerHostile.pawnsPlural>
+
+  <Mechanoid.label>κυψέλη μηχανοειδών</Mechanoid.label>
+  <Mechanoid.description>Μία κυψέλη αποτελούμενη από αρχαία και αυτοσυντηρούμενα μηχανικά πλάσματα.</Mechanoid.description>
+  <Mechanoid.fixedName>μία κυψέλη μηχανοειδών</Mechanoid.fixedName>
+  <Mechanoid.pawnsPlural>μηχανοειδεί</Mechanoid.pawnsPlural>
+
+  <Insect.label>έντομα</Insect.label>
+  <Insect.description>Συνήθως επιθετικά και ενοχλητικά έντομα.</Insect.description>
+  <Insect.fixedName>έντομα</Insect.fixedName>
+  <Insect.pawnsPlural>έντομα</Insect.pawnsPlural>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <None.label>κενό</None.label>
+  <Room.label>δωμάτιο</Room.label>
+  <Bedroom.label>κρεβατοκάμαρα</Bedroom.label>
+  <PrisonCell.label>κελί κρατούμενου</PrisonCell.label>
+  <DiningRoom.label>τραπεζαρία</DiningRoom.label>
+  <RecRoom.label>αίθουσα αναψυχής</RecRoom.label>
+  <Hospital.label>νοσοκομείο</Hospital.label>
+  <Laboratory.label>εργαστήριο</Laboratory.label>
+  <Workshop.label>συνεργείο</Workshop.label>
+  <Barracks.label>στρατώνας</Barracks.label>
+  <PrisonBarracks.label>παραπήγματα φυλακής</PrisonBarracks.label>
+  <Kitchen.label>κουζίνα</Kitchen.label>
+  <Tomb.label>μνήμα</Tomb.label>
+  <Barn.label>στάβλος</Barn.label>
+
+
+</LanguageData>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PrisonCell.stages.0.label>απαίσιο κελί φυλακής</PrisonCell.stages.0.label>
+  <PrisonCell.stages.0.description>Το κελί της φυλακής μου είναι φρικτό μέρος.</PrisonCell.stages.0.description>
+  <PrisonCell.stages.3.label>πρέπων κελί φυλακής</PrisonCell.stages.3.label>
+  <PrisonCell.stages.3.description>Το κελί της φυλακής μου είναι αρκετά ευπρεπές μέρος.</PrisonCell.stages.3.description>
+  <PrisonCell.stages.4.label>λίγο εντυπωσιακό κελί φυλακής</PrisonCell.stages.4.label>
+  <PrisonCell.stages.4.description>Το κελί της φυλακής μου είναι ευχάριστο μέρος.</PrisonCell.stages.4.description>
+  <PrisonCell.stages.5.label>εντυπωσιακό κελί φυλακής</PrisonCell.stages.5.label>
+  <PrisonCell.stages.5.description>Το κελί της φυλακής μου είναι θεαματικό. Δεν μπορώ να πιστέψω ότι με κρατούν σε ένα δωμάτιο σαν αυτό.</PrisonCell.stages.5.description>
+  <PrisonCell.stages.6.label>πολύ εντυπωσιακό κελί φυλακής</PrisonCell.stages.6.label>
+  <PrisonCell.stages.6.description>Το κελί της φυλακής μου είναι πολύ θεαματικό. Δεν μπορώ να πιστέψω ότι με κρατούν σε ένα δωμάτιο σαν αυτό. Μου αρέσει!</PrisonCell.stages.6.description>
+  <PrisonCell.stages.7.label>υπέροχα εντυπωσιακό κελί φυλακής</PrisonCell.stages.7.label>
+  <PrisonCell.stages.7.description>Το κελί της φυλακής μου είναι υπέροχα θεαματικό. Δεν μπορώ να πιστέψω ότι με κρατούν σε ένα δωμάτιο σαν αυτό. Μου αρέσει!</PrisonCell.stages.7.description>
+  <PrisonCell.stages.8.label>απίστευτα εντυπωσιακό κελί φυλακής</PrisonCell.stages.8.label>
+  <PrisonCell.stages.8.description>Το κελί της φυλακής μου είναι απίστευτα θεαματικό. Αυτό είναι το καλύτερο μέρος!</PrisonCell.stages.8.description>
+  <PrisonCell.stages.9.label>φανταστικά εντυπωσιακό κελί φυλακής</PrisonCell.stages.9.label>
+  <PrisonCell.stages.9.description>Το κελί της φυλακής μου είναι ονειρεμένο. Μπορώ να μείνω εδώ για πάντα.</PrisonCell.stages.9.description>
+
+  <PrisonBarracks.stages.0.label>απαίσιος στρατώνας</PrisonBarracks.stages.0.label>
+  <PrisonBarracks.stages.0.description>Ο στρατώνας της φυλακής μου είναι ένα άσχημο μέρος.</PrisonBarracks.stages.0.description>
+  <PrisonBarracks.stages.1.label>βαρετός στρατώνας</PrisonBarracks.stages.1.label>
+  <PrisonBarracks.stages.1.description>Διαμένω σε ένα πληκτικό στρατώνα.</PrisonBarracks.stages.1.description>
+  <PrisonBarracks.stages.4.label>λίγο εντυπωσιακός στρατώνας</PrisonBarracks.stages.4.label>
+  <PrisonBarracks.stages.4.description>Ο στρατώνας της φυλακής μου είναι ένα πρέπων μέρος.</PrisonBarracks.stages.4.description>
+  <PrisonBarracks.stages.5.label>κάπως εντυπωσιακός στρατώνας</PrisonBarracks.stages.5.label>
+  <PrisonBarracks.stages.5.description>Ο στρατώνας της φυλακής μου είναι ένα όμορφο μέρος. Μου αρέσει.</PrisonBarracks.stages.5.description>
+  <PrisonBarracks.stages.6.label>πολύ εντυπωσιακός στρατώνας</PrisonBarracks.stages.6.label>
+  <PrisonBarracks.stages.6.description>Ο στρατώνας της φυλακής μου είναι πανέμορφο μέρος. Μου αρέσει.</PrisonBarracks.stages.6.description>
+  <PrisonBarracks.stages.7.label>υπερβολικά εντυπωσιακός στρατώνας</PrisonBarracks.stages.7.label>
+  <PrisonBarracks.stages.7.description>Ο στρατώνας της φυλακής μου είναι ένα υπερβολικά φανταστικό μέρος. Δεν μπορώ να πιστέψω ότι με κρατούν σε ένα χώρο σαν αυτόν.</PrisonBarracks.stages.7.description>
+  <PrisonBarracks.stages.8.label>απίστευτα εντυπωσιακός στρατώνας</PrisonBarracks.stages.8.label>
+  <PrisonBarracks.stages.8.description>Ο στρατώνας της φυλακής μου είναι ένα απίστευτα φανταστικό μέρος. Δεν μπορώ να πιστέψω ότι με κρατούν σε ένα χώρο σαν αυτόν.</PrisonBarracks.stages.8.description>
+  <PrisonBarracks.stages.9.label>φανταστικά εντυπωσιακός στρατώνας</PrisonBarracks.stages.9.label>
+  <PrisonBarracks.stages.9.description>Ο στρατώνας της φυλακής μου είναι θαυμάσιος! Δεν μπορώ να πιστέψω ότι με κρατούν σε ένα χώρο σαν αυτόν.</PrisonBarracks.stages.9.description>
+
+  <HospitalPatientRoomStats.stages.0.label>απαίσιο νοσοκομείο</HospitalPatientRoomStats.stages.0.label>
+  <HospitalPatientRoomStats.stages.0.description>Αυτό το νοσοκομείο είναι ενοχλητικό.</HospitalPatientRoomStats.stages.0.description>
+  <HospitalPatientRoomStats.stages.1.label>θλιβερό νοσοκομείο</HospitalPatientRoomStats.stages.1.label>
+  <HospitalPatientRoomStats.stages.1.description>Έχω κολλήσει σε ένα καταθλιπτικό νοσοκομείο.</HospitalPatientRoomStats.stages.1.description>
+  <HospitalPatientRoomStats.stages.4.label>λίγο εντυπωσιακό νοσοκομείο</HospitalPatientRoomStats.stages.4.label>
+  <HospitalPatientRoomStats.stages.4.description>Το νοσοκομείο μου είναι ευπρεπές. Με κάνει να αισθάνομαι λίγο καλύτερα.</HospitalPatientRoomStats.stages.4.description>
+  <HospitalPatientRoomStats.stages.5.label>κάπως εντυπωσιακό νοσοκομείο</HospitalPatientRoomStats.stages.5.label>
+  <HospitalPatientRoomStats.stages.5.description>Το νοσοκομείο μου είναι υπέροχο. Με κάνει να αισθάνομαι καλύτερα.</HospitalPatientRoomStats.stages.5.description>
+  <HospitalPatientRoomStats.stages.6.label>πολύ εντυπωσιακό νοσοκομείο</HospitalPatientRoomStats.stages.6.label>
+  <HospitalPatientRoomStats.stages.6.description>Το νοσοκομείο μου είναι πολύ υπέροχο. Με κάνει να αισθάνομαι καλύτερα.</HospitalPatientRoomStats.stages.6.description>
+  <HospitalPatientRoomStats.stages.7.label>υπερβολικά εντυπωσιακό νοσοκομείο</HospitalPatientRoomStats.stages.7.label>
+  <HospitalPatientRoomStats.stages.7.description>Το νοσοκομείο μου είναι υπερβολικά θεαματικό. Με κάνει να αισθάνομαι κιόλας καλά.</HospitalPatientRoomStats.stages.7.description>
+  <HospitalPatientRoomStats.stages.8.label>απίστευτα εντυπωσιακό νοσοκομείο unbelievably impressive hospital</HospitalPatientRoomStats.stages.8.label>
+  <HospitalPatientRoomStats.stages.8.description>Το νοσοκομείο μου είναι απίστευτα θεαματικό. Με κάνει να αισθάνομαι κιόλας καλά.</HospitalPatientRoomStats.stages.8.description>
+  <HospitalPatientRoomStats.stages.9.label>φανταστικά εντυπωσιακό νοσοκομείο</HospitalPatientRoomStats.stages.9.label>
+  <HospitalPatientRoomStats.stages.9.description>Το νοσοκομείο μου είναι θαυμάσιο. Με κάνει να αισθάνομαι κιόλας καλά.</HospitalPatientRoomStats.stages.9.description>
+
+
+</LanguageData>

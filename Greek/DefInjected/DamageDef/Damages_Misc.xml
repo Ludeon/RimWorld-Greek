@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Deterioration.label>εξασθένηση</Deterioration.label>
+  <Deterioration.deathMessage>{0} έχει σκοτωθεί.</Deterioration.deathMessage>
+
+  <Mining.label>εξόρυξη</Mining.label>
+  <Mining.deathMessage>{0} έχει σκοτωθεί.</Mining.deathMessage>
+
+  <Rotting.label>αποσύνθεση</Rotting.label>
+  <Rotting.deathMessage>{0} έχει σκοτωθεί.</Rotting.deathMessage>
+
+  <Extinguish.label>εξόντωση</Extinguish.label>
+  <Extinguish.deathMessage>{0} έχει σκοτωθεί.</Extinguish.deathMessage>
+
+  <Bomb.label>έκρηξη</Bomb.label>
+  <Bomb.deathMessage>{0} πέθανε σε μία έκρηξη.</Bomb.deathMessage>
+
+  <Smoke.label>καπνός</Smoke.label>
+  <Smoke.deathMessage>{0} έχει σκοτωθεί.</Smoke.deathMessage>
+
+
+</LanguageData>

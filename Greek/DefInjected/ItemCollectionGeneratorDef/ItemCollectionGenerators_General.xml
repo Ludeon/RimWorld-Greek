@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RandomGeneralGoods.label>γενικά αγαθά</RandomGeneralGoods.label>
+  <Apparel.label>ενδύματα</Apparel.label>
+  <Weapons.label>όπλα</Weapons.label>
+  <Artifacts.label>τεχνουργήματα</Artifacts.label>
+  <RawResources.label>πρώτες ύλες</RawResources.label>
+  <Standard.label>αντικείμενα</Standard.label>
+  <Food.label>τροφή</Food.label>
+
+
+</LanguageData>

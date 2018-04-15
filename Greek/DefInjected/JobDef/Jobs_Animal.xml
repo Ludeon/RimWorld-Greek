@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Nuzzle.reportString>κάνει μουσουδιές σε TargetA.</Nuzzle.reportString>
+  <Mate.reportString>ζευγαρώνει με TargetA.</Mate.reportString>
+  <LayEgg.reportString>γεννά αυγό.</LayEgg.reportString>
+  <PredatorHunt.reportString>κυνηγά TargetA.</PredatorHunt.reportString>
+  <Maintain.reportString>συντηρεί TargetA.</Maintain.reportString>
+
+
+</LanguageData>

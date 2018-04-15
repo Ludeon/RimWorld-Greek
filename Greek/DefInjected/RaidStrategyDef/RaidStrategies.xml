@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ImmediateAttack.arrivalTextFriendly>Έρχονται για να σας βοηθήσουν αμέσως.</ImmediateAttack.arrivalTextFriendly>
+  <ImmediateAttack.arrivalTextEnemy>Επιτίθενται αμέσως.</ImmediateAttack.arrivalTextEnemy>
+  <ImmediateAttack.letterLabelEnemy>Επιδρομή</ImmediateAttack.letterLabelEnemy>
+  <ImmediateAttack.letterLabelFriendly>Φιλικά</ImmediateAttack.letterLabelFriendly>
+
+  <ImmediateAttackSmart.arrivalTextFriendly>Έρχονται για να σας βοηθήσουν αμέσως.</ImmediateAttackSmart.arrivalTextFriendly>
+  <ImmediateAttackSmart.arrivalTextEnemy>Επιτίθενται αμέσως.\n\nΠροσέξτε - φαίνονται να είναι ασυνήθιστα έξυπνοι με την τακτική τους.</ImmediateAttackSmart.arrivalTextEnemy>
+  <ImmediateAttackSmart.letterLabelEnemy>Επιδρομή</ImmediateAttackSmart.letterLabelEnemy>
+  <ImmediateAttackSmart.letterLabelFriendly>Φιλικά</ImmediateAttackSmart.letterLabelFriendly>
+
+  <StageThenAttack.arrivalTextFriendly>Θα προετοιμαστούν για λίγο πριν έρθουν για να σας βοηθήσουν.</StageThenAttack.arrivalTextFriendly>
+  <StageThenAttack.arrivalTextEnemy>Θα προετοιμαστούν για λίγο και μετά θα επιτεθούν. Προετοιμάστε μια άμυνα ή επιτεθείτε προληπτικά.</StageThenAttack.arrivalTextEnemy>
+  <StageThenAttack.letterLabelEnemy>Επιδρομή</StageThenAttack.letterLabelEnemy>
+  <StageThenAttack.letterLabelFriendly>Φιλικά</StageThenAttack.letterLabelFriendly>
+
+  <ImmediateAttackSappers.arrivalTextEnemy>Φαίνεται ότι θέλουν να χρησιμοποιήσουν σκαφτιάδες για να τρυπώσουν κάτω από τις άμυνές σας.</ImmediateAttackSappers.arrivalTextEnemy>
+  <ImmediateAttackSappers.letterLabelEnemy>Επιδρομή</ImmediateAttackSappers.letterLabelEnemy>
+
+  <Siege.arrivalTextFriendly>Φαίνεται ότι θέλουν να χρησιμοποιήσουν τακτική πολιορκίας για να σας βοηθήσουν.</Siege.arrivalTextFriendly>
+  <Siege.arrivalTextEnemy>Φαίνεται ότι θέλουν να πολιορκήσουν την αποικία και να σας σφυροκοπήσουν με όλμους από απόσταση. Μπορείτε να προσπαθήσετε να τους περιμένετε - ή να τους επιτεθείτε.</Siege.arrivalTextEnemy>
+  <Siege.letterLabelEnemy>Πολιορκία</Siege.letterLabelEnemy>
+  <Siege.letterLabelFriendly>Φιλικά</Siege.letterLabelFriendly>
+
+
+</LanguageData>

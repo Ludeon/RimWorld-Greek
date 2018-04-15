@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ειδικές ψυχικές καταστάσεις όχι από ψυχολογική κατάρρευση (Special mental states not from mental breaks) -->
+
+  <WanderConfused.label>περιπλανιέται μπερδεμένος</WanderConfused.label>
+  <WanderConfused.beginLetter>{0} έχει καταρρεύσει και περιπλανιέται τριγύρω συγκεχυμένος.</WanderConfused.beginLetter>
+  <WanderConfused.beginLetterLabel>σύγχυση</WanderConfused.beginLetterLabel>
+  <WanderConfused.recoveryMessage>{0} δεν είναι πλέον σε σύγχυση.</WanderConfused.recoveryMessage>
+  <WanderConfused.baseInspectLine>Ψυχική κατάσταση: Μπερδεμένος και περιφερόμενος</WanderConfused.baseInspectLine>
+
+  <PanicFlee.label>τρέχει πανικόβλητος</PanicFlee.label>
+  <PanicFlee.beginLetter>{0} τρέχει πανικόβλητος.</PanicFlee.beginLetter>
+  <PanicFlee.beginLetterLabel>το βάζει στα πόδια</PanicFlee.beginLetterLabel>
+  <PanicFlee.recoveryMessage>{0} δεν τρέχει πλέον πανικόβλητος.</PanicFlee.recoveryMessage>
+  <PanicFlee.baseInspectLine>Ψυχική κατάσταση: πιλαλάει πανικόβλητος</PanicFlee.baseInspectLine>
+
+  <Manhunter.label>ανθρωποκυνηγός</Manhunter.label>
+  <Manhunter.beginLetter>{0} έγινε ανθρωποκυνηγός!</Manhunter.beginLetter>
+  <Manhunter.beginLetterLabel>ανθρωποκυνηγός</Manhunter.beginLetterLabel>
+  <Manhunter.recoveryMessage>του {0} η λαχτάρα για ανθρώπινο αίμα έσβησε.</Manhunter.recoveryMessage>
+  <Manhunter.baseInspectLine>Παράνοια: Ανθρωποκυνηγός</Manhunter.baseInspectLine>
+
+  <ManhunterPermanent.label>ανθρωποκυνηγός</ManhunterPermanent.label>
+  <ManhunterPermanent.beginLetter>{0} έγινε ανθρωποκυνηγός!</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.beginLetterLabel>ανθρωποκυνηγός</ManhunterPermanent.beginLetterLabel>
+  <ManhunterPermanent.recoveryMessage>του {0} η λαχτάρα για ανθρώπινο αίμα έσβησε.</ManhunterPermanent.recoveryMessage>
+  <ManhunterPermanent.baseInspectLine>Παράνοια: Ανθρωποκυνηγός</ManhunterPermanent.baseInspectLine>
+
+  <SocialFighting.label>κοινωνική διαμάχη</SocialFighting.label>
+  <SocialFighting.baseInspectLine>Ψυχική κατάσταση: Κοινωνική διαμάχη</SocialFighting.baseInspectLine>
+
+
+</LanguageData>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Κάμερα παιχνιδιού (In-game camera) -->
+
+  <MapDollyUp.label>κίνηση πάνω</MapDollyUp.label>
+  <MapDollyDown.label>κίνηση κάτω</MapDollyDown.label>
+  <MapDollyLeft.label>κίνηση αριστερά</MapDollyLeft.label>
+  <MapDollyRight.label>κίνηση δεξιά</MapDollyRight.label>
+  <MapZoomIn.label>μεγέθυνση</MapZoomIn.label>
+  <MapZoomOut.label>σμίκρυνση</MapZoomOut.label>
+
+
+  <!-- Χάρτης παιχνιδιού (Map play) -->
+
+  <TakeScreenshot.label>λήψη στιγμιότυπου οθόνης</TakeScreenshot.label>
+  <ToggleScreenshotMode.label>εναλλαγή κατάστασης στιγμιότυπου οθόνης</ToggleScreenshotMode.label>
+  <SelectNextInCell.label>επιλογή επομένου στο κελί</SelectNextInCell.label>
+  <TogglePause.label>παύση/εκκίνηση παιχνιδιού</TogglePause.label>
+  <TimeSpeedNormal.label>ταχύτητα παιχνιδιού: κανονική</TimeSpeedNormal.label>
+  <TimeSpeedFast.label>ταχύτητα παιχνιδιού: γρήγορη</TimeSpeedFast.label>
+  <TimeSpeedSuperfast.label>ταχύτητα παιχνιδιού: πολύ γρήγορη</TimeSpeedSuperfast.label>
+  <TimeSpeedUltrafast.label>ταχ. παιχν.: ταχύτατη (αποσφαλμάτωση)</TimeSpeedUltrafast.label>
+  <PreviousColonist.label>επόμενος άποικος</PreviousColonist.label>
+  <NextColonist.label>προηγούμενος άποικος</NextColonist.label>
+
+
+  <!-- Διάφορα (απαναχρησιμοποιημένα) (Misc (re-used)) -->
+
+  <Misc1.label>Διάφορα 1</Misc1.label>
+  <Misc2.label>Διάφορα 2</Misc2.label>
+  <Misc3.label>Διάφορα 3</Misc3.label>
+  <Misc4.label>Διάφορα 4</Misc4.label>
+  <Misc5.label>Διάφορα 5</Misc5.label>
+  <Misc6.label>Διάφορα 6</Misc6.label>
+  <Misc7.label>Διάφορα 7</Misc7.label>
+  <Misc8.label>Διάφορα 8</Misc8.label>
+  <Misc9.label>Διάφορα 9</Misc9.label>
+  <Misc10.label>Διάφορα 10</Misc10.label>
+  <Misc11.label>Διάφορα 11</Misc11.label>
+  <Misc12.label>Διάφορα 12</Misc12.label>
+
+
+  <!-- Ειδική επιλογή (Selection special) -->
+
+  <CommandTogglePower.label>εναλλαγή ισχύος</CommandTogglePower.label>
+  <CommandItemForbid.label>εναλλαγή απαγορευμένου</CommandItemForbid.label>
+  <CommandColonistDraft.label>επιστράτευση</CommandColonistDraft.label>
+
+
+  <!-- Αρχιτεκτονική: Συνηθισμένα (Architect: Common) -->
+
+  <DesignatorCancel.label>ακύρωση</DesignatorCancel.label>
+  <DesignatorDeconstruct.label>αποδόμηση</DesignatorDeconstruct.label>
+  <DesignatorRotateLeft.label>περιστροφή αριστερά</DesignatorRotateLeft.label>
+  <DesignatorRotateRight.label>περιστροφή δεξιά</DesignatorRotateRight.label>
+
+
+  <!-- Μετατροπείς (Modifiers) -->
+
+  <ModifierIncrement10x.label>αύξηση 10x</ModifierIncrement10x.label>
+  <ModifierIncrement100x.label>αύξηση 100x</ModifierIncrement100x.label>
+  <QueueOrder.label>σειρά διαταγών</QueueOrder.label>
+
+
+  <!-- Αποσφαλμάτωση (Debug) -->
+
+  <TickOnce.label>ένα τικ</TickOnce.label>
+  <ToggleGodMode.label>εναλλαγή κατάστασης θεού</ToggleGodMode.label>
+  <ToggleDebugLog.label>εναλλαγή καταγραφής αποσφαλμάτωσης</ToggleDebugLog.label>
+  <ToggleDebugActionsMenu.label>εναλλαγή μενού εντολών αποσφαλμάτ.</ToggleDebugActionsMenu.label>
+  <ToggleDebugLogMenu.label>εναλλαγή μενού καταγραφής αποσφαλμ.</ToggleDebugLogMenu.label>
+  <ToggleDebugInspector.label>εναλλαγή επιθεωρητή αποσφαλμάτωσης</ToggleDebugInspector.label>
+  <ToggleDebugSettingsMenu.label>εναλλαγή μενού ρυθμίσεων αποσφαλμ.</ToggleDebugSettingsMenu.label>
+
+
+</LanguageData>

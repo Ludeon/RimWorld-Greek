@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DropPodIncoming.label>πτώση ατράκτου (έρχεται)</DropPodIncoming.label>
+  <ExplosiveDropPodIncoming.label>πτώση ατράκτου (έρχεται)</ExplosiveDropPodIncoming.label>
+  <DropPodLeaving.label>πτώση ατράκτου (φεύγει)</DropPodLeaving.label>
+  <ShipChunkIncoming.label>κομμάτι διαστημοπλοίου (έρχεται)</ShipChunkIncoming.label>
+  <CrashedShipPartIncoming.label>συντρίμμι διαστημοπλοίου (έρχεται)</CrashedShipPartIncoming.label>
+  <MeteoriteIncoming.label>μετεωρίτης (έρχεται)</MeteoriteIncoming.label>
+
+
+</LanguageData>

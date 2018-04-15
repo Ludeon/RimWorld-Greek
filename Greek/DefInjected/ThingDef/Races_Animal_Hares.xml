@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hare.label>λαγός</Hare.label>
+  <Hare.description>Αυτό το μικρό, μοναχικό φυτοφάγο μπορεί γρήγορα να ξεφύγει από τον κίνδυνο.</Hare.description>
+  <Hare.tools.1.label>κεφάλι</Hare.tools.1.label>
+  <Hare_Leather.label>δέρμα λαγού</Hare_Leather.label>
+  <Hare_Leather.description>πετσί από λαγό</Hare_Leather.description>
+  <Hare_Leather.stuffProps.stuffAdjective>δέρμα λαγού</Hare_Leather.stuffProps.stuffAdjective>
+  <Hare_Meat.label>κρέας λαγού</Hare_Meat.label>
+  <Hare_Meat.description>κρέας από λαγό</Hare_Meat.description>
+  <Hare_Corpse.label>πτώμα λαγού</Hare_Corpse.label>
+  <Hare_Corpse.description>πτώμα λαγού</Hare_Corpse.description>
+
+  <Snowhare.label>αρκτικός λαγός</Snowhare.label>
+  <Snowhare.description>Αυτό το ανθεκτικό ζώο επιβιώνει στους βίαιους χειμώνες του βορρά με το να τρυπώνει μέσα στο χιόνι για να βρει θήραμα από κάτω, ή να παραχειμάζει μακριά τις χειρότερες μέρες.</Snowhare.description>
+  <Snowhare.tools.1.label>κεφάλι</Snowhare.tools.1.label>
+  <Snowhare_Leather.label>δέρμα αρκτικού λαγού</Snowhare_Leather.label>
+  <Snowhare_Leather.description>πετσί από αρκτικό λαγό</Snowhare_Leather.description>
+  <Snowhare_Leather.stuffProps.stuffAdjective>δέρμα αρκτικού λαγού</Snowhare_Leather.stuffProps.stuffAdjective>
+  <!-- Χρήση Κρέατος Από: Λαγό (Use Meat From: Hare) -->
+  <Snowhare_Corpse.label>πτώμα αρκτικού λαγού</Snowhare_Corpse.label>
+  <Snowhare_Corpse.description>πτώμα αρκτικού λαγού</Snowhare_Corpse.description>
+
+
+</LanguageData>

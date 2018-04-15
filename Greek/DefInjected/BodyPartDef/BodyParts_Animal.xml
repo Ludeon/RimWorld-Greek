@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- κορμός για ζώα (torso for animals) -->
+
+  <Body.label>σώμα</Body.label>
+  <Beak.label>ράμφος</Beak.label>
+  <InsectHead.label>κεφάλι</InsectHead.label>
+  <SnakeBody.label>σώμα</SnakeBody.label>
+  <SnakeHead.label>κεφάλι</SnakeHead.label>
+  <SnakeMouth.label>στόμα</SnakeMouth.label>
+  <InsectHeart.label>καρδιά</InsectHeart.label>
+  <InsectNostril.label>ρουθούνι</InsectNostril.label>
+  <InsectMouth.label>στόμα</InsectMouth.label>
+  <AnimalJaw.label>σαγόνι</AnimalJaw.label>
+  <Jowl.label>μάγουλο</Jowl.label>
+  <Tail.label>ουρά</Tail.label>
+  <LeftAntenna.label>αριστερή κεραία</LeftAntenna.label>
+  <RightAntenna.label>δεξιά κεραία</RightAntenna.label>
+  <Pronotum.label>πρόνωτο</Pronotum.label>
+  <Shell.label>κέλυφος</Shell.label>
+  <LeftElytra.label>αριστερή έλυτρα</LeftElytra.label>
+  <RightElytra.label>δεξιά έλυτρα</RightElytra.label>
+  <LeftTusk.label>αριστερός χαυλιόδοντας</LeftTusk.label>
+  <RightTusk.label>δεξιός χαυλιόδοντας</RightTusk.label>
+  <Trunk.label>προβοσκίδα</Trunk.label>
+  <Horn.label>κέρατο</Horn.label>
+  <HeadClaw.label>δαγκάνα</HeadClaw.label>
+  <Hump.label>καμπούρα</Hump.label>
+  <TurtleShell.label>καβούκι</TurtleShell.label>
+  <Plastron.label>πλαστρόν</Plastron.label>
+  <TurtleBeak.label>ράμφος</TurtleBeak.label>
+
+
+  <!-- πόδια ζώων (animals legs) -->
+
+  <FrontLeftLeg.label>μπροστινό αριστερό πόδι</FrontLeftLeg.label>
+  <FrontRightLeg.label>μπροστινό δεξιό πόδι</FrontRightLeg.label>
+  <MiddleLeftLeg.label>μεσαίο αριστερό πόδι</MiddleLeftLeg.label>
+  <MiddleRightLeg.label>μεσαίο δεξιό πόδι</MiddleRightLeg.label>
+  <RearLeftLeg.label>πίσω αριστερό πόδι</RearLeftLeg.label>
+  <RearRightLeg.label>πίσω δεξιό πόδι</RearRightLeg.label>
+  <FrontLeftInsectLeg.label>μπροστινό αριστερό πόδι</FrontLeftInsectLeg.label>
+  <FrontRightInsectLeg.label>μπροστινό δεξιό πόδι</FrontRightInsectLeg.label>
+  <MiddleLeftInsectLeg.label>μεσαίο αριστερό πόδι</MiddleLeftInsectLeg.label>
+  <MiddleRightInsectLeg.label>μεσαίο δεξιό πόδι</MiddleRightInsectLeg.label>
+  <RearLeftInsectLeg.label>πίσω αριστερό πόδι</RearLeftInsectLeg.label>
+  <RearRightInsectLeg.label>πίσω δεξιά πόδι</RearRightInsectLeg.label>
+  <FrontLeftPaw.label>μπροστινή αριστερή πατούσα</FrontLeftPaw.label>
+  <FrontRightPaw.label>μπροστινή δεξιά πατούσα</FrontRightPaw.label>
+  <RearLeftPaw.label>πίσω αριστερή πατούσα</RearLeftPaw.label>
+  <RearRightPaw.label>πίσω δεξιά πατούσα</RearRightPaw.label>
+  <FrontLeftHoof.label>μπροστινή αριστερή οπλή</FrontLeftHoof.label>
+  <FrontRightHoof.label>μπροστινή δεξιά οπλή</FrontRightHoof.label>
+  <RearLeftHoof.label>πίσω αριστερή οπλή</RearLeftHoof.label>
+  <RearRightHoof.label>πίσω δεξιά οπλή</RearRightHoof.label>
+  <FrontLeftLegFirstClaw.label>πρώτο νύχι μπροστινού αριστερού ποδιού</FrontLeftLegFirstClaw.label>
+  <FrontLeftLegSecondClaw.label>δεύτερο νύχι μπροστινού αριστερού ποδιού</FrontLeftLegSecondClaw.label>
+  <FrontLeftLegThirdClaw.label>τρίτο νύχι μπροστινού αριστερού ποδιού</FrontLeftLegThirdClaw.label>
+  <FrontLeftLegFourthClaw.label>τέταρτο νύχι μπροστινού αριστερού</FrontLeftLegFourthClaw.label>
+  <FrontLeftLegFifthClaw.label>πέμπτο νύχι μπροστινού αριστερού ποδιού</FrontLeftLegFifthClaw.label>
+  <FrontRightLegFirstClaw.label>πρώτο νύχι μπροστινού δεξιού ποδιού</FrontRightLegFirstClaw.label>
+  <FrontRightLegSecondClaw.label>δεύτερο νύχι μπροστινού δεξιού ποδιού</FrontRightLegSecondClaw.label>
+  <FrontRightLegThirdClaw.label>τρίτο νύχι μπροστινού δεξιού ποδιού</FrontRightLegThirdClaw.label>
+  <FrontRightLegFourthClaw.label>τέταρτο νύχι μπροστινού δεξιού ποδιού</FrontRightLegFourthClaw.label>
+  <FrontRightLegFifthClaw.label>πέμπτο νύχι μπροστινού δεξιού ποδιού</FrontRightLegFifthClaw.label>
+  <RearLeftLegFirstClaw.label>πρώτο νύχι πισινού αριστερού ποδιού</RearLeftLegFirstClaw.label>
+  <RearLeftLegSecondClaw.label>δεύτερο νύχι πισινού αριστερού ποδιού</RearLeftLegSecondClaw.label>
+  <RearLeftLegThirdClaw.label>τρίτο νύχι πισινού αριστερού ποδιού</RearLeftLegThirdClaw.label>
+  <RearLeftLegFourthClaw.label>τέταρτο νύχι πισινού αριστερού ποδιού</RearLeftLegFourthClaw.label>
+  <RearLeftLegFifthClaw.label>πέμπτο νύχι πισινού αριστερού ποδιού</RearLeftLegFifthClaw.label>
+  <RearRightLegFirstClaw.label>πρώτο νύχι πισινού δεξιού ποδιού</RearRightLegFirstClaw.label>
+  <RearRightLegSecondClaw.label>δεύτερο νύχι πισινού δεξιού ποδιού</RearRightLegSecondClaw.label>
+  <RearRightLegThirdClaw.label>τρίτο νύχι πισινού δεξιού ποδιού</RearRightLegThirdClaw.label>
+  <RearRightLegFourthClaw.label>τέταρτο νύχι πισινού δεξιού ποδιού</RearRightLegFourthClaw.label>
+  <RearRightLegFifthClaw.label>πέμπτο νύχι πισινού δεξιού ποδιού</RearRightLegFifthClaw.label>
+
+
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GutWorms.label>σκουλήκια του εντέρου</GutWorms.label>
+  <MuscleParasites.label>μυϊκά παράσιτα</MuscleParasites.label>
+
+  <FibrousMechanites.label>ινώδεις μηχανίτες</FibrousMechanites.label>
+  <FibrousMechanites.stages.0.label>ήπιος πόνος</FibrousMechanites.stages.0.label>
+  <FibrousMechanites.stages.1.label>δυνατός πόνος</FibrousMechanites.stages.1.label>
+
+  <SensoryMechanites.label>υπερφόρτωση μηχανίτων</SensoryMechanites.label>
+  <SensoryMechanites.stages.0.label>ήπιος πόνος</SensoryMechanites.stages.0.label>
+  <SensoryMechanites.stages.1.label>δυνατός πόνος</SensoryMechanites.stages.1.label>
+
+  <WoundInfection.label>λοίμωξη</WoundInfection.label>
+  <WoundInfection.stages.0.label>μικρή</WoundInfection.stages.0.label>
+  <WoundInfection.stages.1.label>σοβαρή</WoundInfection.stages.1.label>
+  <WoundInfection.stages.2.label>υπερβολική</WoundInfection.stages.2.label>
+  <WoundInfection.stages.3.label>υπερβολική</WoundInfection.stages.3.label>
+  <WoundInfection.labelNoun>μία λοίμωξη</WoundInfection.labelNoun>
+
+  <Flu.label>γρίπη</Flu.label>
+  <Flu.stages.0.label>λίγη</Flu.stages.0.label>
+  <Flu.stages.1.label>λίγη</Flu.stages.1.label>
+  <Flu.stages.2.label>πολύ</Flu.stages.2.label>
+  <Flu.stages.3.label>υπερβολική</Flu.stages.3.label>
+
+  <Plague.label>επιδημία</Plague.label>
+  <Plague.stages.0.label>μικρή</Plague.stages.0.label>
+  <Plague.stages.1.label>μικρή</Plague.stages.1.label>
+  <Plague.stages.2.label>μεγάλη</Plague.stages.2.label>
+  <Plague.stages.3.label>υπερβολική</Plague.stages.3.label>
+  <Plague.stages.4.label>υπερβολική</Plague.stages.4.label>
+
+  <Malaria.label>ελονοσία</Malaria.label>
+  <Malaria.stages.0.label>ελαφριά</Malaria.stages.0.label>
+  <Malaria.stages.1.label>ελαφριά</Malaria.stages.1.label>
+  <Malaria.stages.2.label>σοβαρή</Malaria.stages.2.label>
+  <Malaria.stages.3.label>υπερβολική</Malaria.stages.3.label>
+
+  <SleepingSickness.label>νόσος του ύπνου</SleepingSickness.label>
+  <SleepingSickness.stages.0.label>ελαφριά</SleepingSickness.stages.0.label>
+  <SleepingSickness.stages.1.label>ελαφριά</SleepingSickness.stages.1.label>
+  <SleepingSickness.stages.2.label>ελαφριά</SleepingSickness.stages.2.label>
+  <SleepingSickness.stages.3.label>βαριά</SleepingSickness.stages.3.label>
+  <SleepingSickness.stages.4.label>υπερβολική</SleepingSickness.stages.4.label>
+  <SleepingSickness.stages.5.label>υπερβολική</SleepingSickness.stages.5.label>
+
+
+</LanguageData>

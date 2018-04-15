@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Root.label>ρίζα</Root.label>
+
+
+  <!-- Τροφές (Foods) -->
+
+  <Foods.label>φαγώσιμα</Foods.label>
+  <FoodMeals.label>γεύματα</FoodMeals.label>
+  <FoodRaw.label>ωμή τροφή</FoodRaw.label>
+  <MeatRaw.label>ωμό κρέας</MeatRaw.label>
+  <PlantFoodRaw.label>χορτοφάγος</PlantFoodRaw.label>
+  <AnimalProductRaw.label>ζωικά προϊόντα</AnimalProductRaw.label>
+  <EggsUnfertilized.label>αυγά (αγονιμ.)</EggsUnfertilized.label>
+  <EggsFertilized.label>αυγά (γονιμ.)</EggsFertilized.label>
+
+
+  <!-- Κατασκευασμένα (Manufactured) -->
+
+  <Manufactured.label>κατασκευασμένα προϊόντα</Manufactured.label>
+  <Textiles.label>υφάσματα</Textiles.label>
+  <Leathers.label>δέρματα</Leathers.label>
+  <Medicine.label>φάρμακα</Medicine.label>
+  <Drugs.label>ναρκωτικά </Drugs.label>
+  <MortarShells.label>βλήματα όλμου</MortarShells.label>
+
+
+  <!-- Πρώτες ύλες (Raw resources) -->
+
+  <ResourcesRaw.label>πρώτες ύλες</ResourcesRaw.label>
+  <PlantMatter.label>φυτικές ύλες</PlantMatter.label>
+  <StoneBlocks.label>πέτρινα τούβλα</StoneBlocks.label>
+
+
+  <!-- Αντικείμενα (Items) -->
+
+  <Items.label>αντικείμενα</Items.label>
+  <Art.label>τέχνη</Art.label>
+  <Furniture.label>έπιπλα</Furniture.label>
+  <Unfinished.label>ημιτελές</Unfinished.label>
+  <Artifacts.label>τεχνουργήματα</Artifacts.label>
+  <BodyParts.label>μέλη σώματος</BodyParts.label>
+  <BodyPartsNatural.label>φυσικά</BodyPartsNatural.label>
+  <BodyPartsArtificial.label>τεχνητά</BodyPartsArtificial.label>
+
+
+  <!-- Όπλα (Weapons) -->
+
+  <Weapons.label>όπλα</Weapons.label>
+  <WeaponsMelee.label>όπλα εξ επαφής</WeaponsMelee.label>
+  <WeaponsRanged.label>όπλα εξ αποστάσεως</WeaponsRanged.label>
+  <Grenades.label>χειροβομβίδες</Grenades.label>
+
+
+  <!-- Ενδυμασίες (Apparel) -->
+
+  <Apparel.label>ρουχισμός</Apparel.label>
+  <Headgear.label>καλύμματα κεφαλής</Headgear.label>
+
+
+  <!-- Κομμάτια (Chunks) -->
+
+  <Chunks.label>κομμάτια</Chunks.label>
+  <StoneChunks.label>πέτρινα κομμάτια</StoneChunks.label>
+
+
+  <!-- Πτώματα (Corpses) -->
+
+  <Corpses.label>πτώματα</Corpses.label>
+  <CorpsesHumanlike.label>ανθρώπινα πτώματα</CorpsesHumanlike.label>
+  <CorpsesAnimal.label>πτώματα ζώων</CorpsesAnimal.label>
+  <CorpsesInsect.label>πτώματα εντόμων</CorpsesInsect.label>
+  <CorpsesMechanoid.label>πτώματα μηχανοειδών</CorpsesMechanoid.label>
+
+
+</LanguageData>

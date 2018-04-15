@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Δοκός (Beam) -->
+
+  <Ship_Beam.label>δομική δοκός διαστημοπλοίου</Ship_Beam.label>
+  <Ship_Beam.description>Μία δομική δοκός γύρο στην οποία θα μπουν τα υπόλοιπα μέλη του διαστημοπλοίου.</Ship_Beam.description>
+  <Ship_Beam_Blueprint.label>δομική δοκός διαστημοπλοίου (προσχέδιο)</Ship_Beam_Blueprint.label>
+  <Ship_Beam_Frame.label>δομική δοκός διαστημοπλοίου (κατασκευή)</Ship_Beam_Frame.label>
+  <Ship_Beam_Frame.description>Μια δομική δοκός γύρω από την οποία μπορεί να κατασκευαστεί ένα διαστημόπλοιο.</Ship_Beam_Frame.description>
+
+
+  <!-- Κάψουλα κοσμογονικού ύπνου (Cryptosleep casket) -->
+
+  <Ship_CryptosleepCasket.label>κρυγονική κάψουλα διαστημοπλοίου</Ship_CryptosleepCasket.label>
+  <Ship_CryptosleepCasket.description>Μία κάψουλα κρυογενούς ύπνου ενισχυμένη ενάντια στους κίνδυνους του διαστήματος. Ικανή να διατηρήσει έναν άνθρωπο σε κρυογενές ύπνο για αιώνες και ικανή να αντέξει στην απανείσοδό της στην ατμόσφαιρα.</Ship_CryptosleepCasket.description>
+  <Ship_CryptosleepCasket_Blueprint.label>κρυγονική κάψουλα διαστημοπλοίου (προσχέδιο)</Ship_CryptosleepCasket_Blueprint.label>
+  <Ship_CryptosleepCasket_Frame.label>κρυγονική κάψουλα διαστημοπλοίου (κατασκευή)</Ship_CryptosleepCasket_Frame.label>
+  <Ship_CryptosleepCasket_Frame.description>Μία κάψουλα κρυογενούς ύπνου ενισχυμένη ενάντια στους κίνδυνους του διαστήματος. Ικανή να διατηρήσει έναν άνθρωπο σε κρυογενές ύπνο για αιώνες και ικανή να αντέξει στην απανείσοδό της στην ατμόσφαιρα.</Ship_CryptosleepCasket_Frame.description>
+
+
+  <!-- Πυτήνας υπολογιστή (Computer core) -->
+
+  <Ship_ComputerCore.label>πυρήνας υπολογιστή διαστημοπλοίου</Ship_ComputerCore.label>
+  <Ship_ComputerCore.description>Ένας υπολογιστής που μπορεί να φιλοξενήσει υπεράνθρωπη τεχνητή νοημοσύνη για την καθοδήγηση του σκάφους στο διάστημα.</Ship_ComputerCore.description>
+  <Ship_ComputerCore_Blueprint.label>πυρήνας υπολογιστή διαστημοπλοίου (προσχέδιο)</Ship_ComputerCore_Blueprint.label>
+  <Ship_ComputerCore_Frame.label>πυρήνας υπολογιστή διαστημοπλοίου (κατασκευή)</Ship_ComputerCore_Frame.label>
+  <Ship_ComputerCore_Frame.description>Ένας υπολογιστής που μπορεί να φιλοξενήσει υπεράνθρωπη τεχνητή νοημοσύνη για την καθοδήγηση του σκάφους στο διάστημα.</Ship_ComputerCore_Frame.description>
+
+
+  <!-- Αντιδραστήρας (Reactor) -->
+
+  <Ship_Reactor.label>αντιδραστήρας διαστημοπλοίου</Ship_Reactor.label>
+  <Ship_Reactor.description>Τροφοδοτεί με ενέργεια ένα σκάφος για το μακρινό του ταξίδι στο διάστημα.</Ship_Reactor.description>
+  <Ship_Reactor_Blueprint.label>αντιδραστήρας διαστημοπλοίου (προσχέδιο)</Ship_Reactor_Blueprint.label>
+  <Ship_Reactor_Frame.label>αντιδραστήρας διαστημοπλοίου (κατασκευή)</Ship_Reactor_Frame.label>
+  <Ship_Reactor_Frame.description>Τροφοδοτεί με ενέργεια ένα σκάφος για το μακρινό του ταξίδι στο διάστημα.</Ship_Reactor_Frame.description>
+
+
+  <!-- Μηχανή (Engine) -->
+
+  <Ship_Engine.label>προωθητής διαστημοπλοίου</Ship_Engine.label>
+  <Ship_Engine.description>Ένας προωθητής που μπορεί να ωθήσει το σκάφος σε τροχιά γύρο από πλανήτες αλλά και σε διαστρικές τροχιές.</Ship_Engine.description>
+  <Ship_Engine_Blueprint.label>προωθητής διαστημοπλοίου (προσχέδιο)</Ship_Engine_Blueprint.label>
+  <Ship_Engine_Frame.label>προωθητής διαστημοπλοίου (κατασκευή)</Ship_Engine_Frame.label>
+  <Ship_Engine_Frame.description>Ένας προωθητής που μπορεί να ωθήσει το σκάφος σε τροχιά γύρο από πλανήτες αλλά και σε διαστρικές τροχιές.</Ship_Engine_Frame.description>
+
+
+  <!-- Σύμπλεγμα αισθητήρων (Sensor cluster) -->
+
+  <Ship_SensorCluster.label>σύμπλεγμα αισθητήρων</Ship_SensorCluster.label>
+  <Ship_SensorCluster.description>Ένας πρότυπος αισθητήρας που ψάχνει το κενό για κινδύνους και ευκαιρίες.</Ship_SensorCluster.description>
+  <Ship_SensorCluster_Blueprint.label>σύμπλεγμα αισθητήρων (προσχέδιο)</Ship_SensorCluster_Blueprint.label>
+  <Ship_SensorCluster_Frame.label>σύμπλεγμα αισθητήρων (κατασκευή)</Ship_SensorCluster_Frame.label>
+  <Ship_SensorCluster_Frame.description>Ένας πρότυπος αισθητήρας που ψάχνει το κενό για κινδύνους και ευκαιρίες.</Ship_SensorCluster_Frame.description>
+
+
+</LanguageData>

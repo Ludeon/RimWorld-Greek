@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GameMapCamera.label>κάμερα</GameMapCamera.label>
+  <GameMapCamera.description>Ελεγκτήρια κάμερας.</GameMapCamera.description>
+
+  <Game.label>γενικά στο παιχνίδι</Game.label>
+  <Game.description>Έλεγχοι λειτουργίας αποικίας που ισχύουν στις περισσότερες περιπτώσεις.</Game.description>
+
+  <SelectionMisc.label>διάφορα</SelectionMisc.label>
+  <SelectionMisc.description>Γενικά στοιχεία ελέγχου που επαναχρησιμοποιούνται από πολλά είδη και αντικείμενα σε όλο το παιχνίδι.</SelectionMisc.description>
+
+  <SelectionSpecial.label>ειδικά</SelectionSpecial.label>
+  <SelectionSpecial.description>Ειδικά χειριστήρια για συγκεκριμένες λειτουργίες σε συγκεκριμένα αντικείμενα.</SelectionSpecial.description>
+
+  <Architect.label>αρχιτεκτονική</Architect.label>
+  <Architect.description>Γενικής χρήσης εντολές για το μενού αρχιτεκτονικής.</Architect.description>
+
+  <MainTabs.label>βασικές καρτέλες</MainTabs.label>
+  <MainTabs.description>Εντολές για τις βασικές καρτέλες.</MainTabs.description>
+
+  <Modifiers.label>τροποποιητές</Modifiers.label>
+  <Modifiers.description>Εντολές που χρησιμοποιούνται για να τροποποιούν άλλες ενέργειες.</Modifiers.description>
+
+  <Development.label>εργαλεία ανάπτυξης</Development.label>
+  <Development.description>Εντολές για υπεύθυνους ανάπτυξης και δημιουργών mod. Διαθέσιμες μόνο σε κατάσταση ανάπτυξης.</Development.description>
+
+
+</LanguageData>

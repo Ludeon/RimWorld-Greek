@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WealthTotal.label>αξία (συνολική)</WealthTotal.label>
+  <WealthTotal.graphLabelY>Σύνολο</WealthTotal.graphLabelY>
+
+  <WealthItems.label>αξία (αντικειμένων)</WealthItems.label>
+  <WealthItems.graphLabelY>Σύνολο</WealthItems.graphLabelY>
+
+  <WealthBuildings.label>αξία (κτιρίων)</WealthBuildings.label>
+  <WealthBuildings.graphLabelY>Σύνολο</WealthBuildings.graphLabelY>
+
+  <FreeColonists.label>ελεύθεροι άποικοι</FreeColonists.label>
+  <FreeColonists.graphLabelY>Άποικοι</FreeColonists.graphLabelY>
+
+  <Prisoners.label>κρατούμενοι</Prisoners.label>
+  <Prisoners.graphLabelY>Κρατούμενοι</Prisoners.graphLabelY>
+
+  <ColonistMood.label>διάθεση</ColonistMood.label>
+  <ColonistMood.graphLabelY>Τοις εκατό</ColonistMood.graphLabelY>
+
+
+</LanguageData>

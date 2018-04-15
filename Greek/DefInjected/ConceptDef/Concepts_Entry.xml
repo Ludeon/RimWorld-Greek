@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Έννοιες που διδάσκονται στις οθόνες εισόδου (Concepts taught in the entry screens) -->
+
+  <WorldCameraMovement.label>Κίνηση κάμερας στον κόσμο</WorldCameraMovement.label>
+  <WorldCameraMovement.helpText>Μεγέθυνση με τη ΡΟΔΕΛΑ ΤΟΥ ΠΟΝΤΙΚΙΟΥ ή τα πλήκτρα {Key:MapZoomIn} και {Key:MapZoomOut}.\n\nΜετακίνηση με τα πλήκτρα {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} ή ΜΕΣΑΙΟ ΚΛΙΚ και ΣΥΡΣΙΜΟ.</WorldCameraMovement.helpText>
+
+
+</LanguageData>

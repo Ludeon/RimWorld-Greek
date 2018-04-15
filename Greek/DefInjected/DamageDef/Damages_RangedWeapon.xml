@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Προσωρινό κλέψιμο, τα όπλα εξ αποστάσεως πρέπει να χρησιμοποιήσουν το παλιό καλό σύστημα μάχης για να αποφευχθεί η εξισορρόπηση ορυμαγδού. -->
+  <!-- Temporary hack; ranged weapons need to use the old pre-flavorful-combat system to avoid a rebalance cascade. -->
+
+  <RangedStab.label>διάτρηση</RangedStab.label>
+  <RangedStab.deathMessage>{0} τρυπήθηκε μέχρι θανάτου.</RangedStab.deathMessage>
+
+  <Bullet.label>σφαίρα</Bullet.label>
+  <Bullet.deathMessage>{0} χει πυροβοληθεί μέχρι θανάτου.</Bullet.deathMessage>
+
+  <Arrow.label>βέλος</Arrow.label>
+  <Arrow.deathMessage>{0} τρυπήθηκε μέχρι θανάτου.</Arrow.deathMessage>
+
+  <ArrowHighVelocity.label>βέλος</ArrowHighVelocity.label>
+  <ArrowHighVelocity.deathMessage>{0} τρυπήθηκε μέχρι θανάτου.</ArrowHighVelocity.deathMessage>
+
+
+</LanguageData>

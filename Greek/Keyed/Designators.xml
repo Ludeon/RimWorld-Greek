@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DesignatorCancel>Ακύρωση</DesignatorCancel>
+  <DesignatorCancelDesc>Ακυρώστε τη καθορισμένη κατασκευή, εξόρυξη, μεταφορά, συγκομιδή και όλες τις άλλες εργασίες.</DesignatorCancelDesc>
+
+  <DesignatorCutPlants>Κοπή φυτών</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>Επισημαίνει τα φυτά που πρέπει να κοπούν και να καταστραφούν. Το φυτό θα αφαιρεθεί εντελώς και θα μαζευτεί οποιαδήποτε τροφή ή πόρος αποδοθεί.</DesignatorCutPlantsDesc>
+
+  <DesignatorDeconstruct>Αποδόμηση</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Αποσυνθέστε το και αποκαταστήστε ένα μέρος των πόρων του.</DesignatorDeconstructDesc>
+
+  <DesignatorUninstall>Απεγκατάσταση</DesignatorUninstall>
+  <DesignatorUninstallDesc>Καταργήστε την εγκατάσταση, ώστε να μπορεί να μετακινηθεί, να πωληθεί ή να εγκατασταθεί κάπου αλλού.</DesignatorUninstallDesc>
+
+  <DesignatorHarvest>Συγκομιδή</DesignatorHarvest>
+  <DesignatorHarvestDesc>Επισημαίνει τα φυτά που θα συγκομιστούν για τα τρόφιμά τους ή άλλα προϊόντα.</DesignatorHarvestDesc>
+
+  <DesignatorHarvestWood>Κοπή ξύλου</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Επισημαίνει τα δέντρα που θα υλοτομηθούν για ξύλο.</DesignatorHarvestWoodDesc>
+
+  <DesignatorHaulThings>Μεταφορά αντικειμένων</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Επισημαίνει τα κομμάτια βράχου και άλλα αντικείμενα που πρέπει να μεταφερθούν σε χώρους απόρριψης. Δεν χρειάζεται για πράγματα όπως το φαγητό ή τα πτώματα, τα οποία είναι πάντα διαθέσιμα προς μεταφορά.</DesignatorHaulThingsDesc>
+  <MustHaulHaulables>Μπορεί να υποδηλώνει μεταφορά μόνο εκτός των όχι πάντα μεταφερόμενων αντικειμένων (όπως κομμάτια βράχου).</MustHaulHaulables>
+
+  <DesignatorHunt>Κυνήγι</DesignatorHunt>
+  <DesignatorHuntDesc>Επισημαίνει τα ζώα τα οποία θα θυρευτούν από τους κυνηγούς σου.</DesignatorHuntDesc>
+
+  <DesignatorMine>Εξόρυξη</DesignatorMine>
+  <DesignatorMineDesc>Προσδιορίζει περιοχές πετρωμάτων που θα εξορυχτούν.</DesignatorMineDesc>
+
+  <DesignatorSmoothFloor>Λείανση δαπέδου</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Ορίζει το τραχύ πέτρινο έδαφος που θα εξομαλυνθεί.</DesignatorSmoothFloorDesc>
+
+  <DesignatorPlan>Πλάνο</DesignatorPlan>
+  <DesignatorPlanDesc>Ορίζει μελλοντικές εργασίες. Αυτό δεν κάνει τίποτα εκτός από ότι σας βοηθάει να σχεδιάσετε μελλοντικές επεκτάσεις.</DesignatorPlanDesc>
+
+  <DesignatorPlanRemove>Αφαίρεση πλάνων</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Αφαιρεί σχεδιασμένες αναθέσεις εργασιών.</DesignatorPlanRemoveDesc>
+
+  <DesignatorAreaHomeExpand>Επέκταση περιοχής σπιτιού</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpandDesc>Οι άποικοι θα επισκευάζουν κτίρια, θα καθαρίζουν πατώματα και θα σβήνουν φωτιές μόνο στη περιοχή σπιτιού.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeClear>Διαγραφή περιοχής σπιτιού</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClearDesc>Αφαιρεί μία περιοχή σπιτιού. Οι άποικοι δεν θα μπορούν πλέων να καθαρίζουν, επισκευάζουν ή να σβήνουν φωτιές εκεί.</DesignatorAreaHomeClearDesc>
+
+  <DesignatorAreaBuildRoofExpand>Περιοχή κατασκευής οροφής</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>Οι άποικοι θα κατασκευάσουν οροφές σε αυτή την περιοχή.</DesignatorAreaBuildRoofExpandDesc>
+
+  <DesignatorAreaNoRoofExpand>Περιοχή αφαίρεσης οροφής</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>Οι άποικοι θα αφαιρέσουν τις οροφές σε αυτή την περιοχή (εκτός αν από πάνω υπάρχει βουνό, το οποίο δεν μπορεί να αφαιρεθεί).</DesignatorAreaNoRoofExpandDesc>
+
+  <DesignatorAreaIgnoreRoofExpand>Αγνόηση περιοχή οροφής</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpandDesc>Οι άποικοι θα αγνοήσουν τις οροφές σε αυτή την περιοχή.</DesignatorAreaIgnoreRoofExpandDesc>
+
+  <DesignatorAreaSnowClearExpand>Επέκταση περιοχής καθαρισμού χιονιού</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpandDesc>Δημιουργεί μία περιοχή την οποία οι άποικοι θα προσπαθήσουν να την έχουν καθαρή από χιόνι.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearClear>Διαγραφή περιοχής καθαρισμού χιονιού</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>Αφαιρεί μία περιοχή καθαρισμού χιονιού. Οι άποικοι δεν θα προσπαθήσουν να την κρατήσουν καθαρή από χιόνι.</DesignatorAreaSnowClearClearDesc>
+
+  <DesignatorExpandAreaAllowed>Επέκταση επιτρεπόμενης περιοχής</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>Επεκτείνει μία επιτρεπόμενη περιοχή.\n\nΕπιτρεπόμενες περιοχές είναι οι περιοχές που σχετίζονται με του αποίκους.Οι άποικοι δεν θα δέχονται εργασία ή δεν εκπληρώνουν τις ανάγκες τους εκτός της επιτρεπόμενης περιοχής τους.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>Διαγραφή επιτρεπόμενης περιοχής</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>Αφαιρεί τμήματα από μία επιτρεπόμενη περιοχή.\n\nΕπιτρεπόμενη περιοχή είναι οι περιοχές που σχετίζονται με του αποίκους.Οι άποικοι δεν θα δέχονται εργασία ή δεν εκπληρώνουν τις ανάγκες τους εκτός της επιτρεπόμενης περιοχής τους.</DesignatorClearAreaAllowedDesc>
+  <ManageAreas>Διαχείριση περιοχών...</ManageAreas>
+
+  <DesignatorGrowingZoneDesc>Δημιουργεί μια περιοχή όπου οι άποικοί σας θα προσπαθήσουν να καλλιεργήσουν ένα συγκεκριμένο είδος φυτού.</DesignatorGrowingZoneDesc>
+
+  <DesignatorZoneCreateStorageResourcesDesc>Δημιουργεί έναν αποθηκευτικό χώρο όπου οι άποικοι θα αποθηκεύσουν πόρους.\nΑυτό το εργαλείο μπορεί επίσης να επεκτείνει οποιαδήποτε υπάρχον αποθηκευτικό χώρο.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <DesignatorZoneCreateStorageDumpingDesc>Δημιουργεί έναν αποθηκευτικό χώρο όπου οι άποικοι θα αποθηκεύσουν σκουπίδια.\nΑυτό το εργαλείο μπορεί επίσης να επεκτείνει οποιαδήποτε υπάρχον αποθηκευτικό χώρο.</DesignatorZoneCreateStorageDumpingDesc>
+
+  <DesignatorZoneDelete>Διαγραφή περιοχής</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Αφαιρεί περιοχές όπως αποθηκευτικούς χώρους ή ζώνες καλλιέργειας.</DesignatorZoneDeleteDesc>
+
+  <DesignatorClaim>Διεκδίκηση</DesignatorClaim>
+  <DesignatorClaimDesc>Διεκδικεί ουδέτερες κατασκευές για την αποικία, συμπεριλαμβανομένων αρχαίων ερειπίων και εγκαταλελειμμένων πολιορκητικών βάσεων. Οι διεκδικημένες δομές μπορούν να επισκευαστούν και να συντηρηθούν από τους αποίκους σας.</DesignatorClaimDesc>
+
+  <DesignatorRemoveFloor>Αφαίρεση πατώματος</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>Αφαιρέστε τα δάπεδα για να αποκαλύψετε το έδαφος από κάτω.</DesignatorRemoveFloorDesc>
+
+  <DesignatorStrip>Ξεγύμνωμα</DesignatorStrip>
+  <DesignatorStripDesc>Ξεγυμνώνει τα πτώματα και τους τραυματίες από τα ενδύματα τους.</DesignatorStripDesc>
+
+  <DesignatorRearmTrap>Ενεργοποίηση παγίδας</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>Ξαναοπλίζει μια παγίδα, έτσι ώστε να μπορεί να ενεργοποιηθεί ξανά.</DesignatorRearmTrapDesc>
+
+  <DesignatorOpen>Άνοιγμα</DesignatorOpen>
+  <DesignatorOpenDesc>Άνοιγμα εμπορευματοκιβωτίου.</DesignatorOpenDesc>
+
+  <DesignatorSlaughter>Σφάξιμο</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>Σφαγή ενός εξημερωμένου ζώου.</DesignatorSlaughterDesc>
+
+  <DesignatorTame>Εξημέρωση</DesignatorTame>
+  <DesignatorTameDesc>Εξημερώνει ένα άγριο ζώο.</DesignatorTameDesc>
+
+
+  <!-- Μηνύματα αποτυχίας (Failure messages) -->
+  <UnchosenStuff>Μη επιλεγμένο υλικό.</UnchosenStuff>
+  <TooCloseToMapEdge>Πάρα πολύ κοντά στην άκρη του χάρτη.</TooCloseToMapEdge>
+  <OutOfBounds>Εκτός ορίων.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Δεν μπορεί να τοποθετηθεί σε περιοχές που δεν έχουν ανακαλυφθεί.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Το σημείο αλληλεπίδρασης είναι μπλοκαρισμένο από {0}.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Το σημείο αλληλεπίδρασης είναι εκτός ορίων.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Το σημείο αλληλεπίδρασης θα μπλοκαριστεί από {0}.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} θα εμπόδιζε το σημείο αλληλεπίδρασης του {1}.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>Το έδαφος εδώ είναι ήδη {0}.</TerrainIsAlready>
+  <TerrainBeingSmoothed>Το έδαφος έχει ήδη επιλεγεί για λείανση.</TerrainBeingSmoothed>
+  <IdenticalThingExists>Πανομοιότυπο αντικείμενο υπάρχει ήδη εδώ.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Πανομοιότυπο σχεδιάγραμμα υπάρχει ήδη εδώ.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>Το έδαφος εδώ δεν το υποστηρίζει αυτό.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Ο χώρος έχει ήδη καταληφθεί.</SpaceAlreadyOccupied>
+  <SpaceBeingSmoothed>Ο χώρος είναι εξομαλυμένος.</SpaceBeingSmoothed>
+  <TerrainMustBeRemovable>Πρέπει να στοχοποιήσετε ένα αφαιρούμενο δάπεδο.</TerrainMustBeRemovable>
+
+
+  <!-- Συνδέσεις ποντικιού (Mouse attachments) -->
+  <ExpandOrCreateZone>Επεκτείνει {0} ή\nΔημιουργεί καινούρια {1}</ExpandOrCreateZone>
+  <CreateNewZone>Δημιουργεί καινούρια {0}</CreateNewZone>
+
+
+  <!-- Desc helpers -->
+  <TransmitsPower>Μεταδίδει ισχύ</TransmitsPower>
+  <ConstructionNeeded>Απαιτείται κατασκευή</ConstructionNeeded>
+
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FilthDirt.label>χώμα</FilthDirt.label>
+  <FilthAnimalFilth.label>ακαθαρσίες ζώων</FilthAnimalFilth.label>
+  <FilthSand.label>άμμος</FilthSand.label>
+  <RockRubble.label>σπασμένοι λίθοι</RockRubble.label>
+  <BuildingRubble.label>ερείπια οικοδομών</BuildingRubble.label>
+  <SlagRubble.label>διασπαρμένη σκουριά</SlagRubble.label>
+  <SandbagRubble.label>διεσπαρμένοι αμμόσακοι</SandbagRubble.label>
+
+
+  <!-- Υγρά και τα λοιπά (Fluids etc) -->
+
+  <FilthBlood.label>αίμα</FilthBlood.label>
+  <FilthBloodInsect.label>σκαθαρόζουμο</FilthBloodInsect.label>
+  <FilthAmnioticFluid.label>αμνιακό υγρό</FilthAmnioticFluid.label>
+  <FilthSlime.label>μύξα</FilthSlime.label>
+  <FilthVomit.label>εμετός</FilthVomit.label>
+  <FilthFireFoam.label>πυροσβεστικός αφρός</FilthFireFoam.label>
+
+  <FilthFuel.label>κηλίδα χημικών καυσίμων</FilthFuel.label>
+  <FilthFuel.description>Μια κηλίδα εύφλεκτων χημικών καυσίμων.</FilthFuel.description>
+
+  <FilthCorpseBile.label>χολή πτώματος</FilthCorpseBile.label>
+  <FilthAsh.label>στάχτη</FilthAsh.label>
+
+
+</LanguageData>

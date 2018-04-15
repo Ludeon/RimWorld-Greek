@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_ShieldBelt.label>ζώνη πανοπλίας</Apparel_ShieldBelt.label>
+  <Apparel_ShieldBelt.description>Μια ατομική συσκευή ενεργειακής θωράκισης. Θα προσπαθήσει να σταματήσει κάθε ταχέως κινούμενο βλήμα ή ενεργειακή επίθεση που προέρχεται από απόσταση. Δεν κάνει τίποτα ενάντια στις επιθέσεις σώμα με σώμα ή σε πολύ κοντινούς πυροβολισμούς. Αποτρέπει επίσης την ανάκρουση του πυροβολισμού.</Apparel_ShieldBelt.description>
+
+  <Apparel_SmokepopBelt.label>ζώνη ανάδυσης καπνού</Apparel_SmokepopBelt.label>
+  <Apparel_SmokepopBelt.description>Ένας αμυντικός αυτοματισμός προπετάσματος καπνού. Θα απελευθερώσει ένα παχύ σύννεφο καπνού αν ο χρήστης χτυπηθεί από ένα βλήμα, παρέχοντας απόκρυψη από την οπτική επαφή και εμποδίζει το να κλειδωθείτε στοχευτικά από πυργίσκους. Μιας χρήσης.</Apparel_SmokepopBelt.description>
+
+
+</LanguageData>

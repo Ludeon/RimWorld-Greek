@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Τυχαίες κοινωνικές αλληλεπιδράσεις (Random social interactions) -->
+
+  <Chitchat.label>ψιλοκουβεντούλα</Chitchat.label>
+  <Chitchat.logRulesInitiator.rulesStrings.0>logentry->Είχε μία κουβεντούλα με [other_nameShortIndef].</Chitchat.logRulesInitiator.rulesStrings.0>
+
+  <DeepTalk.label>συζήτηση εις βάθος</DeepTalk.label>
+  <DeepTalk.logRulesInitiator.rulesStrings.0>logentry->Είχε μια αναλυτική συζήτηση με [other_nameShortIndef].</DeepTalk.logRulesInitiator.rulesStrings.0>
+
+  <Slight.label>προσβολή</Slight.label>
+  <Slight.logRulesInitiator.rulesStrings.0>logentry->Πρόσβαλε [other_nameShortIndef].</Slight.logRulesInitiator.rulesStrings.0>
+  <Slight.logRulesRecipient.rulesStrings.0>logentry->Προσβλήθηκε από [other_nameShortIndef].</Slight.logRulesRecipient.rulesStrings.0>
+
+  <Insult.label>βρίσιμο</Insult.label>
+  <Insult.logRulesInitiator.rulesStrings.0>logentry->Έβρισε [other_nameShortIndef].</Insult.logRulesInitiator.rulesStrings.0>
+  <Insult.logRulesRecipient.rulesStrings.0>logentry->Υβρίστηκε από [other_nameShortIndef].</Insult.logRulesRecipient.rulesStrings.0>
+
+  <KindWords.label>καλός λόγος</KindWords.label>
+  <KindWords.logRulesInitiator.rulesStrings.0>logentry->Είπε καλά λόγια σε [other_nameShortIndef].</KindWords.logRulesInitiator.rulesStrings.0>
+  <KindWords.logRulesRecipient.rulesStrings.0>logentry->Έλαβε καλά λόγια από [other_nameShortIndef].</KindWords.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Orders.label>διαταγές</Orders.label>
+  <Orders.description>Δώστε συγκεκριμένες εντολές για συγκεκριμένα πράγματα.</Orders.description>
+
+  <Zone.label>ζώνη/Περιοχή</Zone.label>
+  <Zone.description>Θέστε ζώνες στις οποίες οι άποικοι θα κάνουν συγκεκριμένες δραστηριότητες.</Zone.description>
+
+  <Structure.label>οικοδομή</Structure.label>
+  <Structure.description>Δομικές κατασκευές όπως τοίχοι και καλώδια ρεύματος.</Structure.description>
+
+  <Production.label>παραγωγή</Production.label>
+  <Production.description>Κατασκευές που χρησιμοποιούνται για την παραγωγή αγαθών.</Production.description>
+
+  <Furniture.label>επίπλωση</Furniture.label>
+  <Furniture.description>Μικρές κατασκευές.</Furniture.description>
+
+  <Power.label>ενέργεια</Power.label>
+  <Power.description>Παραγωγή, μετάδοση και διαχείριση ηλεκτρισμού.</Power.description>
+
+  <Security.label>ασφάλεια</Security.label>
+  <Security.description>Κατασκευές ασφαλείας και πολεμικής φύσης.</Security.description>
+
+  <Misc.label>διάφορα</Misc.label>
+  <Misc.description>Διάφορες κατασκευές.</Misc.description>
+
+  <Floors.label>δάπεδα</Floors.label>
+  <Floors.description>Υλικά για πάτωμα.</Floors.description>
+
+  <Joy.label>διασκέδαση</Joy.label>
+  <Joy.description>Διασκεδαστικά ή ευχάριστα πράγματα που απολαμβάνουν οι άποικοι.</Joy.description>
+
+  <Ship.label>διαστημόπλοιο</Ship.label>
+  <Ship.description>Τα μέρη του διαστημοπλοίου διαφυγής.</Ship.description>
+
+  <Temperature.label>θερμοκρασία</Temperature.label>
+  <Temperature.description>Αντικείμενα για τον έλεγχο της θερμοκρασίας.</Temperature.description>
+
+
+</LanguageData>

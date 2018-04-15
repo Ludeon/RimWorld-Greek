@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Τάπητες (Carpets) -->
+
+  <PlantDandelion.label>ταράξακο</PlantDandelion.label>
+  <PlantDandelion.description>Ένα κοινό μικρό λουλούδι. Αν και συχνά θεωρείται ζιζάνιο, είναι ευχάριστο να το κοιτάζουμε.</PlantDandelion.description>
+
+  <PlantAstragalus.label>αστράγαλος</PlantAstragalus.label>
+  <PlantAstragalus.description>Ένα μικρό αιωνόβιο αγριολούλουδο που αναπτύσσεται σε αλπικά κλίματα.</PlantAstragalus.description>
+
+  <PlantMoss.label>βρύο</PlantMoss.label>
+  <PlantMoss.description>Μια άγρια βρύα που αναπτύσσεται σε συστάδες σε περιοχές με χαμηλό φωτισμό και υψηλή υγρασία. Πολύ σκληρή και ανθεκτική στον παγετό.</PlantMoss.description>
+
+
+  <!-- Θάμνοι (Bushes) -->
+
+  <PlantRaspberry.label>βατομουριά</PlantRaspberry.label>
+  <PlantRaspberry.description>Θαμνώδες φυτό με υπέροχα κόκκινα μούρα.</PlantRaspberry.description>
+
+
+  <!-- Δέντρα (Trees) -->
+
+  <PlantTreeOak.label>βελανιδιά</PlantTreeOak.label>
+  <PlantTreeOak.description>Ένα ισχυρό δέντρο από σκληρό ξύλο. Αναπτύσσεται αργά, αλλά το ξύλο είναι πολύ ισχυρό.</PlantTreeOak.description>
+
+  <PlantTreePoplar.label>λεύκα</PlantTreePoplar.label>
+  <PlantTreePoplar.description>Ένα δέντρο από μαλακό ξύλο. Αυξάνεται γρήγορα, αλλά αποδίδει λίγο χρήσιμο ξύλο.</PlantTreePoplar.description>
+
+  <PlantTreePine.label>πεύκο</PlantTreePine.label>
+  <PlantTreePine.description>Ένα μεγάλο κωνοφόρο.</PlantTreePine.description>
+
+  <PlantTreeBirch.label>σημύδα</PlantTreeBirch.label>
+  <PlantTreeBirch.description>Ένα βόρειο δέντρο γνωστό για το λεπτό, σαν χαρτί φλοιό του.</PlantTreeBirch.description>
+
+
+</LanguageData>

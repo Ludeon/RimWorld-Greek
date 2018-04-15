@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ΕΙΔΙΚΟ: Εδάφη από φυσικές πέτρες (SPECIAL: Terrains from natural stones) -->
+
+  <Sandstone_Rough.label>ακατέργαστος αμμόλιθος</Sandstone_Rough.label>
+  <Sandstone_Rough.description>Τραχύ, φυσικό έδαφος από αμμόλιθο.</Sandstone_Rough.description>
+  <Sandstone_RoughHewn.label>χονδροπελεκημένος αμμόλιθος</Sandstone_RoughHewn.label>
+  <Sandstone_RoughHewn.description>Πάτωμα από χοντροκομμένο φυσικό αμμόλιθο.</Sandstone_RoughHewn.description>
+  <Sandstone_Smooth.label>λείος αμμόλιθος</Sandstone_Smooth.label>
+  <Sandstone_Smooth.description>Στρωτό πάτωμα από φυσικό αμμόλιθο.</Sandstone_Smooth.description>
+
+  <Granite_Rough.label>ακατέργαστος γρανίτης</Granite_Rough.label>
+  <Granite_Rough.description>Τραχύ, φυσικό έδαφος από γρανίτη.</Granite_Rough.description>
+  <Granite_RoughHewn.label>χονδροπελεκημένος γρανίτης</Granite_RoughHewn.label>
+  <Granite_RoughHewn.description>Πάτωμα από χοντροκομμένο φυσικό γρανίτη.</Granite_RoughHewn.description>
+  <Granite_Smooth.label>λείος γρανίτης</Granite_Smooth.label>
+  <Granite_Smooth.description>Στρωτό πάτωμα από φυσικό γρανίτη.</Granite_Smooth.description>
+
+  <Limestone_Rough.label>ακατέργαστος ασβεστόλιθος</Limestone_Rough.label>
+  <Limestone_Rough.description>Τραχύ, φυσικό έδαφος από ασβεστόλιθο.</Limestone_Rough.description>
+  <Limestone_RoughHewn.label>χονδροπελεκημένος ασβεστόλιθος</Limestone_RoughHewn.label>
+  <Limestone_RoughHewn.description>Πάτωμα από χοντροκομμένο φυσικό ασβεστόλιθο.</Limestone_RoughHewn.description>
+  <Limestone_Smooth.label>λείος ασβεστόλιθος</Limestone_Smooth.label>
+  <Limestone_Smooth.description>Στρωτό πάτωμα από φυσικό ασβεστόλιθο.</Limestone_Smooth.description>
+
+  <Slate_Rough.label>ακατέργαστος σχιστόλιθος</Slate_Rough.label>
+  <Slate_Rough.description>Τραχύ, φυσικό έδαφος από σχιστόλιθο.</Slate_Rough.description>
+  <Slate_RoughHewn.label>χονδροπελεκημένος σχιστόλιθος</Slate_RoughHewn.label>
+  <Slate_RoughHewn.description>Πάτωμα από χοντροκομμένο φυσικό σχιστόλιθο.</Slate_RoughHewn.description>
+  <Slate_Smooth.label>λείος σχιστόλιθος</Slate_Smooth.label>
+  <Slate_Smooth.description>Στρωτό πάτωμα από φυσικό σχιστόλιθο.</Slate_Smooth.description>
+
+  <Marble_Rough.label>ακατέργαστο μάρμαρο</Marble_Rough.label>
+  <Marble_Rough.description>Τραχύ, φυσικό έδαφος από μάρμαρο.</Marble_Rough.description>
+  <Marble_RoughHewn.label>χονδροπελεκημένο μάρμαρο</Marble_RoughHewn.label>
+  <Marble_RoughHewn.description>Πάτωμα από χοντροκομμένο φυσικό μάρμαρο.</Marble_RoughHewn.description>
+  <Marble_Smooth.label>λείο μάρμαρο</Marble_Smooth.label>
+  <Marble_Smooth.description>Στρωτό πάτωμα από φυσικό μάρμαρο.</Marble_Smooth.description>
+
+
+</LanguageData>

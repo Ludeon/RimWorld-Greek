@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CrashedPsychicEmanatorShipPart.label>αρχαίο τμήμα διαστημοπλοίου (ψυχικό)</CrashedPsychicEmanatorShipPart.label>
+  <CrashedPsychicEmanatorShipPart.description>Ένα μυστηριώδες κομμάτι ενός διαστημοπλοίου. Μπορεί να περιέχει εξωτικά υλικά και υπολογιστές. Αυτό φαίνεται να εκπέμπει ψυχικά κύματα.</CrashedPsychicEmanatorShipPart.description>
+
+  <CrashedPoisonShipPart.label>αρχαίο τμήμα διαστημοπλοίου (δηλητηριώδες)</CrashedPoisonShipPart.label>
+  <CrashedPoisonShipPart.description>Ένα μυστηριώδης κατεστραμμένο μέρος ενός διαστημοπλοίου. Μπορεί να περιέχει εξωτικά μέταλλα και υπολογιστές. Αυτό μοιάζει να δηλητηριάζει το έδαφος γύρω του.</CrashedPoisonShipPart.description>
+
+
+  <!-- Διάφορα (Misc) -->
+
+  <ShipChunk.label>κομμάτι διαστημοπλοίου</ShipChunk.label>
+  <ShipChunk.description>Ένα κομμάτι διαστημοπλοίου. Μπορεί να αποδομηθεί για να αποδώσει χρήσιμο ατσάλι και εξαρτήματα.</ShipChunk.description>
+
+
+</LanguageData>

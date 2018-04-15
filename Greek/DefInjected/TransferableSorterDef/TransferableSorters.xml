@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <None.label>καμία</None.label>
+  <Name.label>όνομα</Name.label>
+  <MarketValue.label>αξία αγοράς</MarketValue.label>
+  <Category.label>κατηγορία</Category.label>
+  <Quality.label>ποιότητα</Quality.label>
+  <HitPointsPercentage.label>ποσοστό βαθμών υγείας</HitPointsPercentage.label>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Απειλές (Threats) -->
+
+  <Ambush.label>ενέδρα</Ambush.label>
+  <Ambush.letterText>Το καραβάνι σου έχει πέσε σε ενέδρα από {0} από {1}!</Ambush.letterText>
+  <Ambush.letterLabel>Το καραβάνι έπεσε σε ενέδρα</Ambush.letterLabel>
+
+  <ManhunterAmbush.label>ενέδρα ανθρωποκυνηγού</ManhunterAmbush.label>
+  <ManhunterAmbush.letterText>Το καραβάνι σου έχει πέσε σε ενέδρα ανθρωποκυνηγητού από {0}!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterLabel>ο καραβάνι έπεσε σε ενέδρα (ανθρωποκυνηγών)</ManhunterAmbush.letterLabel>
+
+
+  <!-- Καλά (Good) -->
+
+  <CaravanMeeting.label>συνάντηση καραβανιού</CaravanMeeting.label>
+
+
+  <!-- Άσχημα (Bad) -->
+
+  <CaravanDemand.label>απαίτηση πληρωμής</CaravanDemand.label>
+
+
+</LanguageData>

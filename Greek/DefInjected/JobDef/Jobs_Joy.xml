@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Στοχαστικός (Meditative) -->
+
+  <Skygaze.reportString>ατενίζει τον ουρανό.</Skygaze.reportString>
+  <Meditate.reportString>διαλογίζεται.</Meditate.reportString>
+  <Pray.reportString>προσεύχεται.</Pray.reportString>
+  <GoForWalk.reportString>πάει για βόλτα.</GoForWalk.reportString>
+  <BuildSnowman.reportString>φτιάχνει χιονάνθρωπο.</BuildSnowman.reportString>
+  <VisitGrave.reportString>επισκέπτεται τάφο.</VisitGrave.reportString>
+  <ViewArt.reportString>βλέπει τέχνη.</ViewArt.reportString>
+
+
+  <!-- Κοινωνικός (Social) -->
+
+  <SocialRelax.reportString>χαλαρώνει κοινωνικά.</SocialRelax.reportString>
+  <VisitSickPawn.reportString>εμψυχώνει τον ασθενή TargetA.</VisitSickPawn.reportString>
+
+
+  <!-- Δημιουργία αλληλεπίδρασης (Building interaction) -->
+
+  <PlayHorseshoes.reportString>παίζε με τα πέταλα.</PlayHorseshoes.reportString>
+  <PlayHoopstone.reportString>παίζει στεφανάκι.</PlayHoopstone.reportString>
+  <PlayChess.reportString>παίζει σκάκι.</PlayChess.reportString>
+  <PlayBilliards.reportString>παίζει σφαιριστήριο.</PlayBilliards.reportString>
+  <PlayPoker.reportString>παίζει πόκερ.</PlayPoker.reportString>
+  <WatchTelevision.reportString>βλέπει τηλεόραση.</WatchTelevision.reportString>
+  <UseTelescope.reportString>χρησιμοποιεί το τηλεσκόπιο.</UseTelescope.reportString>
+
+
+</LanguageData>
