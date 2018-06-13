@@ -39,13 +39,13 @@
 
   <TraderArrival>Ένα εμπορικό διαστημόπλοιο περνάει κοντά.\n\nΕίναι γνωστοί ως {0}. Είναι ένα {1}.</TraderArrival>
 
-  <SingleTravelerPassing>Ένα {0} από {1} περνάει. HECAP Ονομάζεται {2}.</SingleTravelerPassing>
+  <SingleTravelerPassing>Ένα {0} από {1} περνάει. [PAWN_pronoun] Ονομάζεται {2}.</SingleTravelerPassing>
   <GroupTravelersPassing>Περνάει μία ομάδα ταξιδιωτών από {0}.</GroupTravelersPassing>
 
   <LetterLabelSingleVisitorArrives>Επισκέπτης</LetterLabelSingleVisitorArrives>
-  <SingleVisitorArrives>Ένας {0} από {1} επισκέπτεται την αποικία.\n\nHECAP ονομάζετε {2}.{3}{4}</SingleVisitorArrives>
-  <SingleVisitorArrivesTraderInfo>\n\nHECAP φαίνεται να έχει μερικά πράγματα για εμπόριο.</SingleVisitorArrivesTraderInfo>
-  <SingleVisitorArrivesLeaderInfo>\n\nHECAP είναι ο αρχηγός της φατρίας.</SingleVisitorArrivesLeaderInfo>
+  <SingleVisitorArrives>Ένας {0} από {1} επισκέπτεται την αποικία.\n\n[PAWN_pronoun] ονομάζετε {2}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] φαίνεται να έχει μερικά πράγματα για εμπόριο.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] είναι ο αρχηγός της φατρίας.</SingleVisitorArrivesLeaderInfo>
   <LetterLabelGroupVisitorsArrive>Επισκέπτες</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>Μία ομάδα από {0} επισκέπτεται την αποικία.{1}{2}</GroupVisitorsArrive>
   <GroupVisitorsArriveTraderInfo>\n\nThey φαίνεται να έχουν μερικά πράγματα για εμπόριο.</GroupVisitorsArriveTraderInfo>
@@ -53,7 +53,7 @@
   <VisitorsLeaving>Οι επισκέπτες από {0} φεύγουν.</VisitorsLeaving>
 
   <LetterLabelWandererJoin>Ένωση με περιπλανώμενο</LetterLabelWandererJoin>
-  <WandererJoin>Ένας {0} που ονομάζετε NAME έφτασε και προσχωρεί στην αποικία. HECAP είναι ένας {1}.</WandererJoin>
+  <WandererJoin>Ένας {0} που ονομάζετε [PAWN_nameDef] έφτασε και προσχωρεί στην αποικία. [PAWN_pronoun] είναι ένας {1}.</WandererJoin>
 
   <LetterLabelManhunterPackArrived>Συμμορία ανθρωποκυνηγών</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>Μία συμμορία από ανθρωποκυνηγούς {0} έχει εισέλθει στην περιοχή. Θα περιπλανηθούν στην περιοχή, κυνηγώντας σάρκα ανθρωποειδών.\n\nΔεν μπορούν να περάσουν τις πόρτες, οπότε αν μένετε πίσω από τους τοίχους θα πρέπει να είστε ασφαλείς. Δεν θα επιτεθούν σε ανενεργούς πυργίσκους, γυρίστε τους πυργίσκους σας αν θέλετε να τους σώσετε.\n\nΘα φύγουν από την περιοχή σε λίγες μέρες.</ManhunterPackArrived>
@@ -87,7 +87,7 @@
 
   <!-- Κυνηγημένος πρόσφυγας  (Refugee chased) -->
   <RefugeeChasedTitle>Κυνηγημένος πρόσφυγας στο {0}</RefugeeChasedTitle>
-  <RefugeeChasedInitial>Ένας {1} που ονομάζεται {0} σας φωνάζει εδώ κοντά. HECAP έχει κυνηγηθεί από {2} από {3}!\n\nHECAP ζητάει ασφάλεια και προσφέρετε να ενταχθεί στην αποικία σας. Βιολογικά, HE είναι {4} ετών.\n\nΝα είστε προετοιμασμένοι - αν αποδεχθείτε, θα πρέπει να πολεμήσετε {2} αυτούς που HIS ακολουθούν.</RefugeeChasedInitial>
+  <RefugeeChasedInitial>Ένας {1} που ονομάζεται {0} σας φωνάζει εδώ κοντά. [PAWN_pronoun] έχει κυνηγηθεί από {2} από {3}!\n\n[PAWN_pronoun] ζητάει ασφάλεια και προσφέρετε να ενταχθεί στην αποικία σας. Βιολογικά, [PAWN_pronoun] είναι {4} ετών.\n\nΝα είστε προετοιμασμένοι - αν αποδεχθείτε, θα πρέπει να πολεμήσετε {2} αυτούς που [PAWN_possessive] ακολουθούν.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Προσφορά ασφάλειας</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Αγνόηση μηνύματος</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} φωνάζει με πανικό μέσω του τενεκεδένιου ηχείου πριν διακόψει τη μετάδοση.</RefugeeChasedRejected>
@@ -116,7 +116,7 @@
 
   <!-- Απαίτηση λύτρων (Ransom demand) -->
   <RansomDemandTitle>Απαίτηση λύτρων από {0}</RansomDemandTitle>
-  <RansomDemand>{1} επικοινωνεί μαζί σας στον ασύρματο. Κρατούν τον πρώην άποικό σας {0} για λύτρα.\n\nΕίναι πρόθυμοι να απελευθερώσουν HIM πίσω σε σας με αντάλλαγμα {2} ασήμι.</RansomDemand>
+  <RansomDemand>{1} επικοινωνεί μαζί σας στον ασύρματο. Κρατούν τον πρώην άποικό σας {0} για λύτρα.\n\nΕίναι πρόθυμοι να απελευθερώσουν [PAWN_objective] πίσω σε σας με αντάλλαγμα {2} ασήμι.</RansomDemand>
   <RansomDemand_Accept>Αποδοχή</RansomDemand_Accept>
   <RansomDemand_Reject>Απόρριψη</RansomDemand_Reject>
 

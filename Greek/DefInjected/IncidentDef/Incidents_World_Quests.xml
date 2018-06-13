@@ -10,15 +10,15 @@
   <QuestItemStash.letterLabel>Ευκαιρία κριμένου αντικειμένου</QuestItemStash.letterLabel>
 
   <QuestDownedRefugee.label>ευκαιρία ανήμπορου φυγά</QuestDownedRefugee.label>
-  <QuestDownedRefugee.letterText>{0} επικοινωνεί μαζί σας στον ασύρματο και ζητά βοήθεια. HECAP έχει τραύματα  και δεν μπορεί να κινηθεί. Χωρίς τη βοήθειά σας, HE θα πεθάνει μέσα σε {1} ημέρες.\n\nΜπορεί να είναι επικίνδυνα εκεί, προσέξτε.</QuestDownedRefugee.letterText>
+  <QuestDownedRefugee.letterText>{0} επικοινωνεί μαζί σας στον ασύρματο και ζητά βοήθεια. [PAWN_pronoun] έχει τραύματα  και δεν μπορεί να κινηθεί. Χωρίς τη βοήθειά σας, [PAWN_pronoun] θα πεθάνει μέσα σε {1} ημέρες.\n\nΜπορεί να είναι επικίνδυνα εκεί, προσέξτε.</QuestDownedRefugee.letterText>
   <QuestDownedRefugee.letterLabel>Ευκαιρία ανήμπορου φυγά</QuestDownedRefugee.letterLabel>
 
   <QuestPrisonerWillingToJoin.label>ευκαιρία ελευθέρωσης φυλακισμένου</QuestPrisonerWillingToJoin.label>
-  <QuestPrisonerWillingToJoin.letterText>Ένας κρατούμενος που κρατείται από τους {0} κατάφερε να κλέψει ένα ασύρματο και να σας καλέσει!\n\nNAME κρατιέται σε στρατόπεδο κοντά σε ένοπλες φρουρές. Σώστε HIM και HE θα ενταχθεί στην αποικία σας. HECAP είναι ηλικίας {1} ετών {2}.</QuestPrisonerWillingToJoin.letterText>
+  <QuestPrisonerWillingToJoin.letterText>Ένας κρατούμενος που κρατείται από τους {0} κατάφερε να κλέψει ένα ασύρματο και να σας καλέσει!\n\n[PAWN_nameDef] κρατιέται σε στρατόπεδο κοντά σε ένοπλες φρουρές. Σώστε [PAWN_objective] και [PAWN_pronoun] θα ενταχθεί στην αποικία σας. [PAWN_pronoun] είναι ηλικίας {1} ετών {2}.</QuestPrisonerWillingToJoin.letterText>
   <QuestPrisonerWillingToJoin.letterLabel>Ευκαιρία ελευθέρωσης φυλακισμένου</QuestPrisonerWillingToJoin.letterLabel>
 
   <QuestPeaceTalks.label>ευκαιρία ειρηνικών διαπραγματεύσεων</QuestPeaceTalks.label>
-  <QuestPeaceTalks.letterText>NAME, {0} από {1}, μας έστειλε ένα μήνυμα. HECAP θέλει να μιλήσει μαζί μας σε μια κοντινή τοποθεσία.\n\nΘα μπορούσε να είναι μια μεγάλη ευκαιρία για να βελτιωθούν οι σχέσεις με την ομάδα του, αλλά προσέξτε - ένας ανίκανος διαπραγματευτής μπορεί να προκαλέσει περισσότερη βλάβη παρά καλό και ακόμη και να HIM εξοργίσει.\n\nΗ προσφορά λήγει μετά από {2} ημέρες.</QuestPeaceTalks.letterText>
+  <QuestPeaceTalks.letterText>[PAWN_nameDef], {0} από {1}, μας έστειλε ένα μήνυμα. [PAWN_pronoun] θέλει να μιλήσει μαζί μας σε μια κοντινή τοποθεσία.\n\nΘα μπορούσε να είναι μια μεγάλη ευκαιρία για να βελτιωθούν οι σχέσεις με την ομάδα του, αλλά προσέξτε - ένας ανίκανος διαπραγματευτής μπορεί να προκαλέσει περισσότερη βλάβη παρά καλό και ακόμη και να [PAWN_objective] εξοργίσει.\n\nΗ προσφορά λήγει μετά από {2} ημέρες.</QuestPeaceTalks.letterText>
   <QuestPeaceTalks.letterLabel>Ευκαιρία ειρηνικών διαπραγματεύσεων</QuestPeaceTalks.letterLabel>
 
 

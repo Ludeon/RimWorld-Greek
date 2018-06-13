@@ -30,7 +30,7 @@
   <RecruitSuccess>{0} στρατολόγησε με επιτυχία {1} ({2} πιθανότητα).</RecruitSuccess>
   <RecruitFail>{0} απέτυχε να στρατολογήσει {1} ({2} πιθανότητα).</RecruitFail>
 
-  <RelatedPawnInvolvedInQuest>NAME είναι {1} του {0}. Εάν NAME πεθάνει, {0} θα υποφέρει από μακρόχρονη θλίψη. Ωστόσο, εάν καταφέρετε να σώσετε NAME, {0} θα είναι πολύ χαρούμενος για πολύ καιρό.</RelatedPawnInvolvedInQuest>
+  <RelatedPawnInvolvedInQuest>[PAWN_nameDef] είναι {1} του {0}. Εάν [PAWN_nameDef] πεθάνει, {0} θα υποφέρει από μακρόχρονη θλίψη. Ωστόσο, εάν καταφέρετε να σώσετε [PAWN_nameDef], {0} θα είναι πολύ χαρούμενος για πολύ καιρό.</RelatedPawnInvolvedInQuest>
 
   <LetterLabelBirthday>Γενέθλια</LetterLabelBirthday>
   <BirthdayChronological>Είναι τα χρονολογικά γενέθλια του {0} σήμερα! Βιολογικά, {1} είναι {3} ετών.\n\nΧρονολογικά, {1} μόλις έγινε {2}.\n\nΣημειώστε ότι από τη στιγμή που οι άνθρωποι βρίσκονται σε κρυογονικό λήθαργο δεν γερνούν, τα χρονολογικά γενέθλια είναι ξεχωριστά από τα βιολογικά γενέθλια.</BirthdayChronological>
@@ -38,14 +38,14 @@
 
   <LetterLabelNewDisease>Ασθένεια</LetterLabelNewDisease>
   <NewDisease>{0} έχει αρρωστήσει από {1}.\n\nΒεβαιωθείτε ότι έχετε ένα ιατρικό κρεβάτι και ένα γιατρό. Βεβαιωθείτε ότι {2} παίρνει τη σωστή θεραπεία και ξοδεύει όσο το δυνατόν περισσότερο χρόνο στο κρεβάτι.</NewDisease>
-  <NewPartDisease>{0} έχει αρρωστήσει από {3}. Η μόλυνση βρίσκεται στο HIS {1}\n\nΒεβαιωθείτε ότι έχετε ένα ιατρικό κρεβάτι και ένα γιατρό. Βεβαιωθείτε ότι {2} παίρνει τη σωστή θεραπεία και ξοδεύει όσο το δυνατόν περισσότερο χρόνο στο κρεβάτι.</NewPartDisease>
+  <NewPartDisease>{0} έχει αρρωστήσει από {3}. Η μόλυνση βρίσκεται στο [PAWN_possessive] {1}\n\nΒεβαιωθείτε ότι έχετε ένα ιατρικό κρεβάτι και ένα γιατρό. Βεβαιωθείτε ότι {2} παίρνει τη σωστή θεραπεία και ξοδεύει όσο το δυνατόν περισσότερο χρόνο στο κρεβάτι.</NewPartDisease>
 
   <PawnWasFormerlyColonist>{0} ήταν παλαιότερα μέλος της φατρία σας.</PawnWasFormerlyColonist>
   <PawnHasTheseRelationshipsWithColonists>{0} έχει αυτές τις σχέσεις με τους αποίκους σας:</PawnHasTheseRelationshipsWithColonists>
   <PrisonerRescueTimeout>Η κατασκήνωση θα εξαφανιστεί μετά από {0} ημέρες. Αν χάσετε αυτήν την ευκαιρία, ίσως να μην ακούσετε ξανά για {1}.</PrisonerRescueTimeout>
 
   <LetterLabelAncientShrineWarning>Αρχαίος κίνδυνος</LetterLabelAncientShrineWarning>
-  <AncientShrineWarning>Καθώς {0} πλησιάζει κοντά στον αρχαίο τοίχο, μια αίσθηση ανησυχίας καταβάλει HIM. HECAP δεν είναι σίγουρος γιατί, αλλά HE αισθάνεται ότι αυτή η σκονισμένη δομή μπορεί να περιέχει μεγάλο κίνδυνο.</AncientShrineWarning>
+  <AncientShrineWarning>Καθώς {0} πλησιάζει κοντά στον αρχαίο τοίχο, μια αίσθηση ανησυχίας καταβάλει [PAWN_objective]. [PAWN_pronoun] δεν είναι σίγουρος γιατί, αλλά [PAWN_pronoun] αισθάνεται ότι αυτή η σκονισμένη δομή μπορεί να περιέχει μεγάλο κίνδυνο.</AncientShrineWarning>
 
   <StruckMineable>Έχουμε χτυπήσει {0}!</StruckMineable>
 
@@ -82,8 +82,8 @@
   <LetterRelatedPawnsTradingWithOtherCaravan>Το καραβάνι πωλεί ανθρώπους που έχουν συγγένεια με τους αποίκους ή τους φυλακισμένους σας:</LetterRelatedPawnsTradingWithOtherCaravan>
 
   <RelationshipAppendedLetterSuffix>(συγγένεια)</RelationshipAppendedLetterSuffix>
-  <RelationshipAppendedLetterTextColonist>NAME έχει συγγένεια με έναν άποικο. HECAP είναι {1} του {0}.</RelationshipAppendedLetterTextColonist>
-  <RelationshipAppendedLetterTextPrisoner>NAME έχει συγγένεια με έναν από τους φυλακισμένους σου. HECAP είναι {1} του {0}.</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextColonist>[PAWN_nameDef] έχει συγγένεια με έναν άποικο. [PAWN_pronoun] είναι {1} του {0}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>[PAWN_nameDef] έχει συγγένεια με έναν από τους φυλακισμένους σου. [PAWN_pronoun] είναι {1} του {0}.</RelationshipAppendedLetterTextPrisoner>
 
   <!-- Προσπάθεια για ρομαντισμό / πρόταση για επικοινωνία (Attempt romance / propose interaction) -->
   <LetterLabelAffair>Δεσμός</LetterLabelAffair>
@@ -120,7 +120,7 @@
 
   <!-- Φρέσκο εθισμένος (Newly addicted) -->
   <LetterLabelNewlyAddicted>{0} εθισμός</LetterLabelNewlyAddicted>
-  <LetterNewlyAddicted>{0} έχει αναπτύξει έναν εθισμό στο {1}.\n\nHECAP έχει τώρα ανάγκη για {1}, ορατό στην καρτέλα Αναγκών HIS. HECAP θα καταναλώνει αυτόματα το ναρκωτικό για να εκπληρώσει την ανάγκη HIS. Εάν HE δεν μπορεί να πάρει {1}, HE θα πάθει στερητικό σύνδρομο.</LetterNewlyAddicted>
+  <LetterNewlyAddicted>{0} έχει αναπτύξει έναν εθισμό στο {1}.\n\n[PAWN_pronoun] έχει τώρα ανάγκη για {1}, ορατό στην καρτέλα Αναγκών [PAWN_possessive]. [PAWN_pronoun] θα καταναλώνει αυτόματα το ναρκωτικό για να εκπληρώσει την ανάγκη [PAWN_possessive]. Εάν [PAWN_pronoun] δεν μπορεί να πάρει {1}, [PAWN_pronoun] θα πάθει στερητικό σύνδρομο.</LetterNewlyAddicted>
 
   <!-- Λαιμαργία ναρκωτικού (Drug binge) -->
   <LetterLabelDrugBinge>{0} λαιμαργία</LetterLabelDrugBinge>

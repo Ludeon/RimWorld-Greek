@@ -233,7 +233,7 @@
   <MessageSiteCountdownBecauseNoMoreEnemies>Έχετε νικήσει όλους τους εχθρούς. Στο {0}, το καραβάνι θα ανασχηματιστεί αυτόματα.</MessageSiteCountdownBecauseNoMoreEnemies>
   <MessageSiteCountdownBecauseNoEnemiesInitially>Στο {0}, το καραβάνι θα ανασχηματιστεί αυτόματα. Μπορείτε τώρα να αναμορφώσετε το καραβάνι στην οθόνη του Κόσμου.</MessageSiteCountdownBecauseNoEnemiesInitially>
 
-  <MessageCantBanishDownedPawn>Δεν είναι δυνατός ο εξορισμός του {0} επειδή HE δεν μπορεί να περπατήσει.</MessageCantBanishDownedPawn>
+  <MessageCantBanishDownedPawn>Δεν είναι δυνατός ο εξορισμός του {0} επειδή [PAWN_pronoun] δεν μπορεί να περπατήσει.</MessageCantBanishDownedPawn>
 
   <MessageSleepingPawnsWokenUp>{0} έχουν ξυπνήσει.</MessageSleepingPawnsWokenUp>
 
@@ -248,7 +248,7 @@
   <MessageFailedToRescueRelative>Δεν επιτύχατε τη διάσωση του {0}. Αυτό θα κάνει τον {1} λυπημένο.</MessageFailedToRescueRelative>
   <MessageRescuedRelative>Σώσατε τον {0}. Αυτό θα κάνει τον {1} ευτυχισμένο.</MessageRescuedRelative>
 
-  <MessagePrisonerRescued>Έχεις σώσει NAME και HE έχει ενταχθεί στην αποικία σου.</MessagePrisonerRescued>
+  <MessagePrisonerRescued>Έχεις σώσει [PAWN_nameDef] και [PAWN_pronoun] έχει ενταχθεί στην αποικία σου.</MessagePrisonerRescued>
 
   <MessageTornadoLeftMap>Ο ανεμοστρόβιλος έχει φύγει από τον χάρτη.</MessageTornadoLeftMap>
   <MessageTornadoDissipated>Ο ανεμοστρόβιλος έχει διαλυθεί.</MessageTornadoDissipated>
@@ -257,8 +257,8 @@
 
   <MessageWarningCavePlantsExposedToLight>Προειδοποίηση: Το {0} δεν μπορεί να ζήσει όταν εκτίθεται στο φως.</MessageWarningCavePlantsExposedToLight>
 
-  <MessageTargetedTantrumChangedTarget>{0} δεν μπόρεσε να φτάσει {1} έτσι HE αποφάσισε να ανακατευθύνει τον HIS θυμό του στο {2}.</MessageTargetedTantrumChangedTarget>
+  <MessageTargetedTantrumChangedTarget>{0} δεν μπόρεσε να φτάσει {1} έτσι [PAWN_pronoun] αποφάσισε να ανακατευθύνει τον [PAWN_possessive] θυμό του στο {2}.</MessageTargetedTantrumChangedTarget>
 
-  <MessageTargetedInsultingSpreeChangedTarget>{0} δεν μπόρεσε να φτάσει {1} έτσι HE αποφάσισε να ανακατευθύνει τον HIS θυμό του στο {2}.</MessageTargetedInsultingSpreeChangedTarget>
+  <MessageTargetedInsultingSpreeChangedTarget>{0} δεν μπόρεσε να φτάσει {1} έτσι [PAWN_pronoun] αποφάσισε να ανακατευθύνει τον [PAWN_possessive] θυμό του στο {2}.</MessageTargetedInsultingSpreeChangedTarget>
 
 </LanguageData>
