@@ -2,16 +2,28 @@
 <LanguageData>
 
   <BuildRapport.label>προσπάθεια για γνωριμία</BuildRapport.label>
-  <BuildRapport.logRulesInitiator.rulesStrings.0>logentry->Προσπάθησε να κτίσει μία σχέση με [other_nameShortIndef].</BuildRapport.logRulesInitiator.rulesStrings.0>
-  <BuildRapport.logRulesRecipient.rulesStrings.0>logentry->Ακούγοντας [other_nameShortIndef] να αναπτύξει μία σχέση μαζί μου.</BuildRapport.logRulesRecipient.rulesStrings.0>
+	<BuildRapport.logRulesInitiator.rulesStrings>
+		<li>logentry->Προσπάθησε να κτίσει μία σχέση με [other_nameShortIndef].</li>
+	</BuildRapport.logRulesInitiator.rulesStrings>
+	<BuildRapport.logRulesRecipient.rulesStrings>
+		<li>logentry->Ακούγοντας [other_nameShortIndef] να αναπτύξει μία σχέση μαζί μου.</li>
+	</BuildRapport.logRulesRecipient.rulesStrings>
 
   <RecruitAttempt.label>προσπάθεια στρατολόγησης</RecruitAttempt.label>
-  <RecruitAttempt.logRulesInitiator.rulesStrings.0>logentry->Προσπαθεί να στρατολογήσει [other_nameShortIndef].</RecruitAttempt.logRulesInitiator.rulesStrings.0>
-  <RecruitAttempt.logRulesRecipient.rulesStrings.0>logentry->Παρατήρησα ένα ψήγμα στρατολόγησης από [other_nameShortIndef].</RecruitAttempt.logRulesRecipient.rulesStrings.0>
+	<RecruitAttempt.logRulesInitiator.rulesStrings>
+		<li>logentry->Προσπαθεί να στρατολογήσει [other_nameShortIndef].</li>
+	</RecruitAttempt.logRulesInitiator.rulesStrings>
+	<RecruitAttempt.logRulesRecipient.rulesStrings>
+		<li>logentry->Παρατήρησα ένα ψήγμα στρατολόγησης από [other_nameShortIndef].</li>
+	</RecruitAttempt.logRulesRecipient.rulesStrings>
 
   <SparkJailbreak.label>παρότρυνση για απόδραση</SparkJailbreak.label>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.0>logentry->Προτρέπει [other_nameShortIndef] να αποδράσει.</SparkJailbreak.logRulesInitiator.rulesStrings.0>
-  <SparkJailbreak.logRulesRecipient.rulesStrings.0>logentry->Παροτρύνθηκε να αποδράσει από [other_nameShortIndef].</SparkJailbreak.logRulesRecipient.rulesStrings.0>
+	<SparkJailbreak.logRulesInitiator.rulesStrings>
+		<li>logentry->Προτρέπει [other_nameShortIndef] να αποδράσει.</li>
+	</SparkJailbreak.logRulesInitiator.rulesStrings>
+	<SparkJailbreak.logRulesRecipient.rulesStrings>
+		<li>logentry->Παροτρύνθηκε να αποδράσει από [other_nameShortIndef].</li>
+	</SparkJailbreak.logRulesRecipient.rulesStrings>
 
 
 </LanguageData>

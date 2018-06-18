@@ -4,22 +4,38 @@
   <!-- Τυχαίες κοινωνικές αλληλεπιδράσεις (Random social interactions) -->
 
   <Chitchat.label>ψιλοκουβεντούλα</Chitchat.label>
-  <Chitchat.logRulesInitiator.rulesStrings.0>logentry->Είχε μία κουβεντούλα με [other_nameShortIndef].</Chitchat.logRulesInitiator.rulesStrings.0>
+	<Chitchat.logRulesInitiator.rulesStrings>
+		<li>logentry->Είχε μία κουβεντούλα με [other_nameShortIndef].</li>
+	</Chitchat.logRulesInitiator.rulesStrings>
 
   <DeepTalk.label>συζήτηση εις βάθος</DeepTalk.label>
-  <DeepTalk.logRulesInitiator.rulesStrings.0>logentry->Είχε μια αναλυτική συζήτηση με [other_nameShortIndef].</DeepTalk.logRulesInitiator.rulesStrings.0>
+	<DeepTalk.logRulesInitiator.rulesStrings>
+		<li>logentry->Είχε μια αναλυτική συζήτηση με [other_nameShortIndef].</li>
+	</DeepTalk.logRulesInitiator.rulesStrings>
 
   <Slight.label>προσβολή</Slight.label>
-  <Slight.logRulesInitiator.rulesStrings.0>logentry->Πρόσβαλε [other_nameShortIndef].</Slight.logRulesInitiator.rulesStrings.0>
-  <Slight.logRulesRecipient.rulesStrings.0>logentry->Προσβλήθηκε από [other_nameShortIndef].</Slight.logRulesRecipient.rulesStrings.0>
+	<Slight.logRulesInitiator.rulesStrings>
+		<li>logentry->Πρόσβαλε [other_nameShortIndef].</li>
+	</Slight.logRulesInitiator.rulesStrings>
+	<Slight.logRulesRecipient.rulesStrings>
+		<li>logentry->Προσβλήθηκε από [other_nameShortIndef].</li>
+	</Slight.logRulesRecipient.rulesStrings>
 
   <Insult.label>βρίσιμο</Insult.label>
-  <Insult.logRulesInitiator.rulesStrings.0>logentry->Έβρισε [other_nameShortIndef].</Insult.logRulesInitiator.rulesStrings.0>
-  <Insult.logRulesRecipient.rulesStrings.0>logentry->Υβρίστηκε από [other_nameShortIndef].</Insult.logRulesRecipient.rulesStrings.0>
+	<Insult.logRulesInitiator.rulesStrings>
+		<li>logentry->Έβρισε [other_nameShortIndef].</li>
+	</Insult.logRulesInitiator.rulesStrings>
+	<Insult.logRulesRecipient.rulesStrings>
+		<li>logentry->Υβρίστηκε από [other_nameShortIndef].</li>
+	</Insult.logRulesRecipient.rulesStrings>
 
   <KindWords.label>καλός λόγος</KindWords.label>
-  <KindWords.logRulesInitiator.rulesStrings.0>logentry->Είπε καλά λόγια σε [other_nameShortIndef].</KindWords.logRulesInitiator.rulesStrings.0>
-  <KindWords.logRulesRecipient.rulesStrings.0>logentry->Έλαβε καλά λόγια από [other_nameShortIndef].</KindWords.logRulesRecipient.rulesStrings.0>
+	<KindWords.logRulesInitiator.rulesStrings>
+		<li>logentry->Είπε καλά λόγια σε [other_nameShortIndef].</li>
+	</KindWords.logRulesInitiator.rulesStrings>
+	<KindWords.logRulesRecipient.rulesStrings>
+		<li>logentry->Έλαβε καλά λόγια από [other_nameShortIndef].</li>
+	</KindWords.logRulesRecipient.rulesStrings>
 
 
 </LanguageData>
