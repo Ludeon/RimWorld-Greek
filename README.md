@@ -1,5 +1,10 @@
 A Greek translation for RimWorld.
 
+Αυτή τη στιγμή προσπαθώ να ολοκληρώσω τη μετάφραση της **τελευταίας έκδοσης** (v1.0.2150), για οπουδήποτε πληροφορία ή συμβολή παρακαλώ επικοινωνήστε μαζί μου στο email: _basilisd@gmail.com_  
+Βασίλης
+
+
+```
 ### Ποσοστό μετάφρασης:
 * Σύνολο αρχείων: 447
 * Αμετάφραστα: 86
@@ -16,3 +21,4 @@ A Greek translation for RimWorld.
 Εδώ θα βρεις το [πρότυπο αγγλικό κείμενο](https://github.com/RimWorld-zh/RimWorld-English) από όπου έγινε η μετάφραση.
 
 See this [page](http://ludeon.com/forums/index.php?topic=2933.0) for license info.
+```
