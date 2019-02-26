@@ -1,11 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <DebugBad.stages.0.label>επιδιόρθωση κακής σκέψης</DebugBad.stages.0.label>
-  <DebugBad.stages.0.description>Δοκιμή σκέψης για το σφάλμα.</DebugBad.stages.0.description>
-
-  <DebugGood.stages.0.label>επιδιόρθωση καλής σκέψης</DebugGood.stages.0.label>
-  <DebugGood.stages.0.description>Δοκιμή σκέψης για το σφάλμα.</DebugGood.stages.0.description>
-
-
+  
+  <!-- EN: debug bad thought -->
+  <DebugBad.stages.debug_bad_thought.label>επιδιόρθωση κακής σκέψης</DebugBad.stages.debug_bad_thought.label>
+  <!-- EN: Test thought for debugging. -->
+  <DebugBad.stages.debug_bad_thought.description>Δοκιμή σκέψης για αποσφαλμάτωση.</DebugBad.stages.debug_bad_thought.description>
+  
+  <!-- EN: debug good thought -->
+  <DebugGood.stages.debug_good_thought.label>επιδιόρθωση καλής σκέψης</DebugGood.stages.debug_good_thought.label>
+  <!-- EN: Test thought for debugging. -->
+  <DebugGood.stages.debug_good_thought.description>Δοκιμή σκέψης για αποσφαλμάτωση.</DebugGood.stages.debug_good_thought.description>
+  
 </LanguageData>

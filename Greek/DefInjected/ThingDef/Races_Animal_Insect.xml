@@ -1,30 +1,33 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: megascarab -->
   <Megascarab.label>μεγαλοσκαραβαίος</Megascarab.label>
+  <!-- EN: A large, genetically-engineered beetle. Once the worker caste of an artifical ecosystem of insectoids designed to fight mechanoid invasions, it is now often seen without its deadlier insectoid cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually. -->
   <Megascarab.description>Ένα μεγάλο, γενετικά τροποποιημένο σκαθάρι. Ένα από την εργατική κάστα ενός τεχνητού οικοσυστήματος εντομοειδών που είχε σχεδιαστεί για να καταπολεμήσει τις εισβολές των μηχανοειδών, τώρα συνήθως παρατηρείται χωρίς τους θανατηφόρους εντομοειδής ξαδέλφους του. Ωστόσο, το μέγεθος και το σκληρό κέλυφος το καθιστούν επικίνδυνο όταν επιτίθεται. Ένα κοινωνικό πλάσμα, δεν μπορεί να αναπαραχθεί από μόνο του.</Megascarab.description>
-  <Megascarab.tools.1.label>κεφάλι</Megascarab.tools.1.label>
-  <!-- Ποσότητα Δέρματος: 0 (Leather Amount: 0) -->
-  <!-- Χρήση Κρέατος Από: Μεγαλοαράχνη (Use Meat From: Megaspider) -->
-  <Megascarab_Corpse.label>απομεινάρι μεγαλοσκαραβαίου</Megascarab_Corpse.label>
-  <Megascarab_Corpse.description>πτώμα μεγαλοσκαραβαίου</Megascarab_Corpse.description>
-
-  <Spelopede.label>σπέλοπιντ</Spelopede.label>
-  <Spelopede.description>Ένα μεσαίου μεγέθους βιοενεργοποιημένο έντομο μεγέθους ενός προβάτου. Το σπέλοπιντ είναι της μεσαίας κάστας μιας κυψέλης, φροντίζοντας τα περισσότερα καθήκοντα εργασίας ενώ μπορεί να πολεμήσει καλά με τα νύχια του.</Spelopede.description>
-  <Spelopede.tools.1.label>κεφάλι</Spelopede.tools.1.label>
-  <!-- Ποσότητα Δέρματος: 0 (Leather Amount: 0) -->
-  <!-- Χρήση Κρέατος Από: Μεγαλοαράχνη (Use Meat From: Megaspider) -->
-  <Spelopede_Corpse.label>απομεινάρι σπέλοπιντ</Spelopede_Corpse.label>
-  <Spelopede_Corpse.description>απομεινάρι σπέλοπιντ</Spelopede_Corpse.description>
-
+  <!-- EN: mandibles -->
+  <Megascarab.tools.mandibles.label>δαγκάνες</Megascarab.tools.mandibles.label>
+  <!-- EN: head -->
+  <Megascarab.tools.head.label>κεφάλι</Megascarab.tools.head.label>
+  
+  <!-- EN: megaspider -->
   <Megaspider.label>μεγαλοαράχνη</Megaspider.label>
-  <Megaspider.description>Στην πραγματικότητα δεν μοιάζει με αράχνη, η μεγαλοαράχνη είναι ένα γενετικά τροποποιημένο γιγαντιαίο εντομοειδές μεγέθους μιας αρκούδας. Σχεδιασμένο για σκληρή δουλειά και μάχες, η παχιά θωράκισή του το καθιστά δύσκολο να σκοτωθεί, ενώ οι επιεικείς θανατηφόρες λεπίδες του το κάνουν θανάσιμο.</Megaspider.description>
-  <Megaspider.tools.1.label>κεφάλι</Megaspider.tools.1.label>
-  <!-- Ποσότητα Δέρματος: 0 (Leather Amount: 0) -->
-  <Megaspider_Meat.label>κρέας εντόμου</Megaspider_Meat.label>
-  <Megaspider_Meat.description>κρέας από έντομο</Megaspider_Meat.description>
-  <Megaspider_Corpse.label>απομεινάρι μεγαλοαράχνης</Megaspider_Corpse.label>
-  <Megaspider_Corpse.description>πτώμα μεγαλοαράχνης</Megaspider_Corpse.description>
-
-
+  <!-- EN: Not actually a spider, the megaspider is a genetically-engineered giant insectoid the size of a bear. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters. It is, however, quite slow in open terrain. -->
+  <Megaspider.description>Στην πραγματικότητα δεν μοιάζει με αράχνη, η μεγαλοαράχνη είναι ένα γενετικά τροποποιημένο γιγαντιαίο εντομοειδές μεγέθους μιας αρκούδας. Σχεδιασμένο για σκληρή δουλειά και μάχες, η παχιά θωράκισή του το καθιστά δύσκολο να σκοτωθεί, ενώ οι επιεικείς θανατηφόρες λεπίδες του το κάνουν θανάσιμο. Είναι, ωστόσο, αρκετά αργή σε ανοιχτό έδαφος.</Megaspider.description>
+  <!-- EN: insect meat -->
+  <Megaspider.race.meatLabel>κρέας εντόμου</Megaspider.race.meatLabel>
+  <!-- EN: head claw -->
+  <Megaspider.tools.head_claw.label>νύχι κεφαλής</Megaspider.tools.head_claw.label>
+  <!-- EN: head -->
+  <Megaspider.tools.head.label>κεφάλι</Megaspider.tools.head.label>
+  
+  <!-- EN: spelopede -->
+  <Spelopede.label>σπέλοπιντ</Spelopede.label>
+  <!-- EN: A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground. -->
+  <Spelopede.description>Ένα μεσαίου μεγέθους βιοενεργοποιημένο έντομο μεγέθους ενός προβάτου. Το σπέλοπιντ είναι της μεσαίας κάστας μιας κυψέλης, φροντίζοντας τα περισσότερα καθήκοντα εργασίας ενώ μπορεί να πολεμήσει καλά με τα νύχια του. Είναι επικίνδυνο στην μάχη, αλλά αργό σε ανοιχτό έδαφος.</Spelopede.description>
+  <!-- EN: head claw -->
+  <Spelopede.tools.head_claw.label>νύχι κεφαλής</Spelopede.tools.head_claw.label>
+  <!-- EN: head -->
+  <Spelopede.tools.head.label>κεφάλι</Spelopede.tools.head.label>
+  
 </LanguageData>

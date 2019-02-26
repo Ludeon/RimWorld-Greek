@@ -1,12 +1,41 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: marsh -->
+  <Marsh.label>βάλτος</Marsh.label>
+  <!-- EN: water -->
+  <Marsh.tools.water.label>νερό</Marsh.tools.water.label>
+  <!-- EN: mud -->
+  <Marsh.tools.mud.label>λάσπη</Marsh.tools.mud.label>
+  
+  <!-- EN: deep water -->
   <WaterDeep.label>βαθιά νερά</WaterDeep.label>
-  <WaterOceanDeep.label>βαθιά νερά ωκεανού</WaterOceanDeep.label>
-  <WaterMovingDeep.label>βαθιά τρεχούμενα νερά</WaterMovingDeep.label>
-  <WaterShallow.label>ρηχά νερά</WaterShallow.label>
-  <WaterOceanShallow.label>ρηχά νερά ωκεανού</WaterOceanShallow.label>
+  <!-- EN: water -->
+  <WaterDeep.tools.water.label>νερό</WaterDeep.tools.water.label>
+  
+  <!-- EN: chest-deep moving water -->
+  <WaterMovingChestDeep.label>βαθιά τρεχούμενα νερά</WaterMovingChestDeep.label>
+  <!-- EN: water -->
+  <WaterMovingChestDeep.tools.water.label>νερό</WaterMovingChestDeep.tools.water.label>
+  
+  <!-- EN: shallow moving water -->
   <WaterMovingShallow.label>ρηχά τρεχούμενα νερά</WaterMovingShallow.label>
-
-
+  <!-- EN: water -->
+  <WaterMovingShallow.tools.water.label>νερό</WaterMovingShallow.tools.water.label>
+  
+  <!-- EN: deep ocean water -->
+  <WaterOceanDeep.label>βαθιά νερά ωκεανού</WaterOceanDeep.label>
+  <!-- EN: water -->
+  <WaterOceanDeep.tools.water.label>θαλασσινό νερό</WaterOceanDeep.tools.water.label>
+  
+  <!-- EN: shallow ocean water -->
+  <WaterOceanShallow.label>ρηχά νερά ωκεανού</WaterOceanShallow.label>
+  <!-- EN: water -->
+  <WaterOceanShallow.tools.water.label>θαλασσινό νερό</WaterOceanShallow.tools.water.label>
+  
+  <!-- EN: shallow water -->
+  <WaterShallow.label>ρηχά νερά</WaterShallow.label>
+  <!-- EN: water -->
+  <WaterShallow.tools.water.label>νερό</WaterShallow.tools.water.label>
+  
 </LanguageData>

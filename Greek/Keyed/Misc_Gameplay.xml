@@ -1,519 +1,1053 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Διάφορα (Various) -->
+  <!-- Various -->
+  <!-- EN: hit points -->
   <HitPointsBasic>βαθμοί ζωής</HitPointsBasic>
+  <!-- EN: Work left -->
   <WorkLeft>Εργασία που απομένει</WorkLeft>
+  <!-- EN: Contents -->
   <Contents>Περιεχόμενα</Contents>
+  <!-- EN: Contained resources -->
   <ContainedResources>Περιέχει πόρους</ContainedResources>
+  <!-- EN: For prisoner use -->
   <ForPrisonerUse>Για χρήση από αιχμάλωτους</ForPrisonerUse>
+  <!-- EN: In prison cell: For prisoner use -->
+  <InPrisonCell>Στο κελί της φυλακής: Για χρήση από αιχμάλωτο</InPrisonCell>
+  <!-- EN: For colonist use -->
   <ForColonistUse>Για χρήση από αποίκους</ForColonistUse>
+  <!-- EN: Medical -->
   <MedicalBed>Ιατρικό</MedicalBed>
+  <!-- EN: Owner -->
   <Owner>Ιδιοκτήτης</Owner>
+  <!-- EN: Owners -->
   <Owners>Ιδιοκτήτες</Owners>
+  <!-- EN: Assigned colonist -->
   <AssignedColonist>Ανατιθέμενος άποικος</AssignedColonist>
+  <!-- EN: Died on the {0} -->
+  <DiedOn>Πέθανε στις {0}</DiedOn>
+  <!-- EN: Nobody -->
   <Nobody>Κανένας</Nobody>
+  <!-- EN: Unowned -->
   <Unowned>Χωρίς ιδιοκτήτη</Unowned>
+  <!-- EN: Dead for {0} -->
   <DeadTime>Νεκρός εδώ και {0}</DeadTime>
+  <!-- EN: walk speed {0} -->
   <WalkSpeed>ταχύτητα βήματος {0}</WalkSpeed>
+  <!-- EN: fert. -->
   <FertShort>γον.</FertShort>
+  <!-- EN: dying -->
   <DyingLower>πεθαίνει</DyingLower>
+  <!-- EN: Filth on feet: -->
   <FilthOnFeet>Βρωμιά στο έδαφος:</FilthOnFeet>
+  <!-- EN: not enough stored -->
   <NotEnoughStoredLower>δεν υπάρχουν αρκετά αποθηκευμένα</NotEnoughStoredLower>
+  <!-- EN: nothing -->
   <NothingLower>τίποτα</NothingLower>
+  <!-- EN: Adapted -->
   <Adapted>Έχει προσαρμοστεί</Adapted>
+  <!-- EN: fresh -->
   <FreshMissingBodyPart>φρέσκο</FreshMissingBodyPart>
+  <!-- EN: developed immunity -->
   <DevelopedImmunityLower>ανέπτυξε ανοσία</DevelopedImmunityLower>
+  <!-- EN: Needs tending now -->
   <NeedsTendingNow>Χρειάζεται φροντίδα άμεσα</NeedsTendingNow>
-  <NextTendIn>Θα χρειαστεί βοήθεια μέσα σε {0}</NextTendIn>
+  <!-- EN: Can tend now -->
+  <CanTendNow>Μπορείς να περιποιηθείς τώρα</CanTendNow>
+  <!-- EN: Tending expires in {0} -->
+  <TreatmentExpiresIn>Η φροντίδα λίγη σε {0}</TreatmentExpiresIn>
+  <!-- EN: Can be tended in {0} -->
+  <NextTendIn>Θα χρειαστεί φροντίδα μέσα σε {0}</NextTendIn>
+  <!-- EN: Tend quality -->
+  <TendQuality>Ποιότητα φροντίδας</TendQuality>
+  <!-- EN: no {0} -->
   <MissingMedicalBillIngredient>δεν υπάρχουν {0}</MissingMedicalBillIngredient>
+  <!-- EN: Immunity -->
   <Immunity>Ανοσία</Immunity>
+  <!-- EN: Race -->
   <Race>Φυλή</Race>
+  <!-- EN: Description -->
   <Description>Περιγραφή</Description>
+  <!-- EN: Equipment -->
   <Equipment>Εξοπλισμός</Equipment>
+  <!-- EN: Apparel -->
   <Apparel>Ρουχισμός</Apparel>
+  <!-- EN: Inventory -->
   <Inventory>Απόθεμα</Inventory>
+  <!-- EN: Information -->
   <ThingInfo>Πληροφορίες</ThingInfo>
+  <!-- EN: Drop -->
   <DropThing>Άφησε</DropThing>
+  <!-- EN: Rename -->
   <Rename>Μετονομασία</Rename>
-  <RenameColonist>Μετονόμασε άποικο</RenameColonist>
+  <!-- EN: Rename animal -->
+  <RenameAnimal>Μετονομασία ζώου</RenameAnimal>
+  <!-- EN: Rename colonist -->
+  <RenameColonist>Μετονομασία αποίκου</RenameColonist>
+  <!-- EN: unknown -->
   <UnknownLower>άγνωστο</UnknownLower>
+  <!-- EN: On -->
   <On>Ενεργοποίηση</On>
+  <!-- EN: Off -->
   <Off>Απενεργοποίηση</Off>
+  <!-- EN: Power -->
   <PowerSwitch_Power>Ισχύς</PowerSwitch_Power>
+  <!-- EN: Recreation type tolerances -->
   <JoyTolerances>Ανοχές ψυχαγωγίας</JoyTolerances>
+  <!-- EN: Milk fullness -->
   <MilkFullness>Πληρότητα γάλακτος</MilkFullness>
+  <!-- EN: Wool growth -->
   <WoolGrowth>Ανάπτυξη μαλλιού</WoolGrowth>
+  <!-- EN: Egg progress -->
   <EggProgress>Πρόοδος αυγών</EggProgress>
+  <!-- EN: Fertilized -->
   <Fertilized>Γονιμοποιημένο</Fertilized>
+  <!-- EN: Progress stopped until fertilized -->
   <ProgressStoppedUntilFertilized>Η πρόοδος σταμάτησε μέχρι να γονιμοποιηθεί</ProgressStoppedUntilFertilized>
+  <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>χρειάζεται {0} επιπέδου {2}, έχει {1}</SkillTooLow>
+  <!-- EN: Freezing -->
   <Freezing>Παγετός</Freezing>
+  <!-- EN: Overheating -->
   <Overheating>Υπερθέρμανση</Overheating>
+  <!-- EN: Ruined by temperature. -->
   <RuinedByTemperature>Καταστράφηκε λόγω θερμοκρασίας.</RuinedByTemperature>
-  <CorpsePercentMissing>Λείπει μέλος σώματος</CorpsePercentMissing>
+  <!-- EN: Missing body parts -->
+  <CorpsePercentMissing>Λείπει μέρος σώματος</CorpsePercentMissing>
+  <!-- EN: Reproduces in -->
   <HiveReproducesIn>Αναπαραγωγή σε</HiveReproducesIn>
+  <!-- EN: Dormant: Not reproducing. -->
   <DormantHiveNotReproducing>Ανενεργό: Δεν αναπαράγεται.</DormantHiveNotReproducing>
+  <!-- EN: Next {0} in -->
   <NextSpawnedItemIn>Επόμενο {0} μέσα σε</NextSpawnedItemIn>
+  <!-- EN: Broken down -->
   <BrokenDown>Χαλασμένο</BrokenDown>
+  <!-- EN: (bond) -->
   <BondBrackets>(δέσιμο)</BondBrackets>
+  <!-- EN: Fuel -->
   <Fuel>Καύσιμο</Fuel>
+  <!-- EN: Fuel -->
   <FuelLevelGizmoLabel>Καύσιμο</FuelLevelGizmoLabel>
+  <!-- EN: Set target fuel level to {0} -->
   <SetTargetFuelLevel>Θέσε τα επίπεδα καυσίμων στο {0}</SetTargetFuelLevel>
-  <SetPodLauncherTargetFuelLevel>Θέσε τα επίπεδα καυσίμων στο {0}\nΜέγιστη απόσταση: {1} τετράγωνα</SetPodLauncherTargetFuelLevel>
+  <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
+  <SetPodLauncherTargetFuelLevel>Θέσε τα επίπεδα καυσίμων στο {0}\nΜέγιστη απόσταση: {1} πλακίδια</SetPodLauncherTargetFuelLevel>
+  <!-- EN: Target fuel level: {0} -->
   <ConfiguredTargetFuelLevel>Στόχος επίπεδου καυσίμων: {0}</ConfiguredTargetFuelLevel>
+  <!-- EN: enemies -->
   <Enemies>εχθροί</Enemies>
+  <!-- EN: time passed -->
   <TimePassed>χρόνος που πέρασε</TimePassed>
+  <!-- EN: current radius -->
   <CurrentRadius>τρέχουσα ακτίνα</CurrentRadius>
+  <!-- EN: radius expands in -->
   <RadiusExpandsIn>η ακτίνα επεκτείνετε σε</RadiusExpandsIn>
+  <!-- EN: permanent -->
   <Permanent>μόνιμο</Permanent>
+  <!-- EN: Resting -->
   <CaravanResting>Ξεκουράζεται.</CaravanResting>
-  <CaravanEstimatedTimeToDestination>Εκτιμώμενος χρόνος μέχρι τον προορισμό: {0}</CaravanEstimatedTimeToDestination>
-  <CaravanImmobilizedByMass>Ακινητοποιημένο: υπερβολικό βάρος.</CaravanImmobilizedByMass>
-  <CaravanOutOfFood>Φαγητό εξαντλήθηκε.</CaravanOutOfFood>
+  <!-- EN: using 1 bedroll -->
+  <UsingBedroll>χρήση 1 υπνόσακου</UsingBedroll>
+  <!-- EN: using {0} bedrolls -->
+  <UsingBedrolls>χρήση {0} υπνόσακων</UsingBedrolls>
+  <!-- EN: Est. time to destination: {0} days -->
+  <CaravanEstimatedTimeToDestination>Εκτιμώμενος χρόνος μέχρι τον προορισμό: {0} μέρες</CaravanEstimatedTimeToDestination>
+  <!-- EN: Estimated days to arrive: {0} -->
+  <CaravanEstimatedDaysToDestination>Εκτιμώμενες μέρες για να φτάσει: {0}</CaravanEstimatedDaysToDestination>
+  <!-- EN: Immobilized: Too much weight. -->
+  <CaravanImmobilizedByMass>Ακινητοποιημένο: Υπερβολικό βάρος.</CaravanImmobilizedByMass>
+  <!-- EN: Out of food. -->
+  <CaravanOutOfFood>Το φαγητό εξαντλήθηκε.</CaravanOutOfFood>
+  <!-- EN: Days of food: {0} -->
   <CaravanDaysOfFood>Διάρκεια φαγητού σε μέρες: {0}</CaravanDaysOfFood>
-  <CaravanDaysOfFoodRot>Μέρες φαγητού: {0}, σήψη σε {1} μέρες</CaravanDaysOfFoodRot>
-  <CaravanMemberMentalBreak>Σταμάτησε επειδή: Ο/Η  {0} έπαθε ψυχωτικό επεισόδιο.</CaravanMemberMentalBreak>
-  <AllCaravanMembersDowned>Σταμάτησε επειδή: όλοι είναι αναίσθητοι.</AllCaravanMembersDowned>
-  <AllCaravanMembersMentalBreak>Σταμάτησε επειδή: όλοι έχουν ένα ψυχικό ξέσπασμα.</AllCaravanMembersMentalBreak>
+  <!-- EN: Days of food: {0} (rot in {1} days) -->
+  <CaravanDaysOfFoodRot>Μέρες φαγητού: {0} (σήψη σε {1} μέρες)</CaravanDaysOfFoodRot>
+  <!-- EN: Stopped because: Everyone is downed. -->
+  <AllCaravanMembersDowned>Σταμάτησε επειδή: Όλοι είναι ανήμποροι.</AllCaravanMembersDowned>
+  <!-- EN: Stopped because: Everyone has a mental break. -->
+  <AllCaravanMembersMentalBreak>Σταμάτησε επειδή: Όλοι έχουν ένα ψυχικό ξέσπασμα.</AllCaravanMembersMentalBreak>
+  <!-- EN: {0} {1} -->
+  <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
+  <!-- EN: 1 animal -->
+  <CaravanAnimal>1 ζώο</CaravanAnimal>
+  <!-- EN: {0} animals -->
+  <CaravanAnimalsCount>{0} ζώα</CaravanAnimalsCount>
+  <!-- EN: 1 prisoner -->
+  <CaravanPrisoner>1 αιχμάλωτος</CaravanPrisoner>
+  <!-- EN: {0} prisoners -->
+  <CaravanPrisonersCount>{0} αιχμάλωτοι</CaravanPrisonersCount>
+  <!-- EN: {0} in mental state -->
+  <CaravanPawnsInMentalState>{0} σε ψυχολογική κατάσταση</CaravanPawnsInMentalState>
+  <!-- EN: {0} downed -->
+  <CaravanPawnsDowned>{0} ανήμποροι</CaravanPawnsDowned>
+  <!-- EN: Traveling. -->
   <CaravanTraveling>Ταξιδεύει.</CaravanTraveling>
+  <!-- EN: Waiting. -->
   <CaravanWaiting>Περιμένει.</CaravanWaiting>
-  <CaravanHoursPerTile>ω/τετράγωνο</CaravanHoursPerTile>
-  <CaravanBaseMovementTime>Βασικός χρόνος κίνησης</CaravanBaseMovementTime>
+  <!-- EN: Being carried due to illness -->
+  <BeingCarriedDueToIllness>Μεταφέρεται λόγω ασθένειας</BeingCarriedDueToIllness>
+  <!-- EN: Using bedrolls due to illness -->
+  <UsingBedrollsDueToIllness>Χρησιμοποιεί υπνόσακους λόγω ασθένειας</UsingBedrollsDueToIllness>
+  <!-- EN: Current tile movement time -->
   <CurrentTileMovementTime>Τρέχον χρόνος κίνησης</CurrentTileMovementTime>
-  <StealthFactor>Λαθραίο</StealthFactor>
+  <!-- EN: Visibility -->
+  <Visibility>Ορατότητα</Visibility>
+  <!-- EN: Temperature -->
   <Temperature>Θερμοκρασία</Temperature>
+  <!-- EN: bad temperature -->
   <BadTemperature>κακή θερμοκρασία</BadTemperature>
+  <!-- EN: Ideal fermenting temperature -->
   <IdealFermentingTemperature>Ιδανική θερμοκρασία ζύμωσης</IdealFermentingTemperature>
-  <DrugEffectMultiplier>{0} πολλαπλασιαστής επίδρασης</DrugEffectMultiplier>
+  <!-- EN: {0} effect multiplier: {1} -->
+  <DrugEffectMultiplier>{0} πολλαπλασιαστής επίδρασης: {1}</DrugEffectMultiplier>
+  <!-- EN: Visiting {0}. -->
   <CaravanVisiting>Επισκέπτεται το {0}.</CaravanVisiting>
+  <!-- EN: Entering {0}. -->
   <CaravanEntering>Εισέρχεται στο {0}.</CaravanEntering>
+  <!-- EN: Attacking {0}. -->
   <CaravanAttacking>Επιτίθεται {0}.</CaravanAttacking>
-  <WasWornByCorpse>Φορέθηκε από ένα πτώμα.</WasWornByCorpse>
+  <!-- EN: Offering gifts to {0}. -->
+  <CaravanOfferingGifts>Προσφέρει δώρα σε {0}.</CaravanOfferingGifts>
+  <!-- EN: Tainted from being worn by a corpse. -->
+  <WasWornByCorpse>Φορέθηκε μολυσμένο από ένα πτώμα.</WasWornByCorpse>
+  <!-- EN: T -->
   <WornByCorpseChar>Π</WornByCorpseChar>
-  <DeterioratingDueToBeingUnroofed>Αλλοίωση λόγω του ότι δεν είναι σκεπασμένο.</DeterioratingDueToBeingUnroofed>
+  <!-- EN: unroofed -->
+  <DeterioratingUnroofed>χωρίς σκεπή</DeterioratingUnroofed>
+  <!-- EN: outdoors -->
+  <DeterioratingOutdoors>εξωτερικά</DeterioratingOutdoors>
+  <!-- EN: Deteriorating because of -->
+  <DeterioratingBecauseOf>Χειροτερεύει λόγω του</DeterioratingBecauseOf>
+  <!-- EN: Map -->
   <Map>Χάρτης</Map>
+  <!-- EN: {0} until leaving -->
   <ForceExitAndRemoveMapCountdown>{0} ώρες μέχρι να φύγει</ForceExitAndRemoveMapCountdown>
-  <ForceExitAndRemoveMapCountdownTip>Οι άποικοί σου θα σχηματίσουν αυτόματα καραβάνι και θα φύγουν από αυτή την περιοχή μετά από {0} ώρες.</ForceExitAndRemoveMapCountdownTip>
+  <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
+  <ForceExitAndRemoveMapCountdownTip>Οι άποικοί σου θα σχηματίσουν αυτόματα καραβάνι και θα φύγουν από αυτή την περιοχή σε {0}.</ForceExitAndRemoveMapCountdownTip>
+  <!-- EN: Room -->
   <Room>Δωμάτιο</Room>
+  <!-- EN: Beauty here -->
   <BeautyHere>Ομορφιά εδώ</BeautyHere>
+  <!-- EN: No power -->
   <NoPower>Χωρίς ισχύ</NoPower>
-  <WorkSpeedPenalty>Ποινή ταχύτητα εργασίας</WorkSpeedPenalty>
+  <!-- EN: Work speed penalty -->
+  <WorkSpeedPenalty>Ποινή ταχύτητας εργασίας</WorkSpeedPenalty>
+  <!-- EN: DISABLED -->
   <DisabledCommand>ΑΠΕΝΕΡΓΟΠΟΙΗΜΕΝΟ</DisabledCommand>
+  <!-- EN: Ready for launch. -->
   <ReadyForLaunch>Έτοιμο προς εκτόξευση.</ReadyForLaunch>
+  <!-- EN: Not ready for launch -->
   <NotReadyForLaunch>Δεν είναι έτοιμο προς εκτόξευση</NotReadyForLaunch>
+  <!-- EN: no fueling port -->
   <NotAllInGroupConnectedToFuelingPort>χωρίς σταθμό καυσίμων</NotAllInGroupConnectedToFuelingPort>
+  <!-- EN: no fuel -->
   <NotAllFuelingPortSourcesInGroupHaveAnyFuel>χωρίς καύσιμα</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <!-- EN: loading in progress -->
   <TransportPodInGroupHasSomethingLeftToLoad>φόρτωση σε εξέλιξη</TransportPodInGroupHasSomethingLeftToLoad>
+  <!-- EN: Beyond maximum range -->
   <TransportPodDestinationBeyondMaximumRange>Πέρα από την μέγιστη εμβέλεια</TransportPodDestinationBeyondMaximumRange>
+  <!-- EN: Not enough fuel -->
   <TransportPodNotEnoughFuel>Ανεπαρκή καύσιμα</TransportPodNotEnoughFuel>
+  <!-- EN: {0} of {1} -->
   <SettlementTrader>{0} από {1}</SettlementTrader>
-  <RoomSurgerySuccessChanceFactor>Συντελεστής επιτυχίας του χειρουργείου</RoomSurgerySuccessChanceFactor>
-  <RoomInfectionChanceFactor>Συντελεστής μόλυνσης στο δωμάτιο φροντίδας</RoomInfectionChanceFactor>
+  <!-- EN: Surgery success chance multiplier from room -->
+  <RoomSurgerySuccessChanceFactor>Ο συντελεστής επιτυχίας του χειρουργείου πολλαπλασιάζεται από το δωμάτιο</RoomSurgerySuccessChanceFactor>
+  <!-- EN: Infection chance multiplier from room -->
+  <RoomInfectionChanceFactor>Ο συντελεστής μόλυνσης πολλαπλασιάζεται από το δωμάτιο</RoomInfectionChanceFactor>
+  <!-- EN: Closed -->
   <VentClosed>Κλειστό</VentClosed>
-  <WornBy>φοριέται από {0}</WornBy>
-  <EquippedBy>εξοπλίζει τον {0}</EquippedBy>
-  <QuestTargetDestroyInspectString>{0} θέλει να το καταστρέψει.\n    Ανταμοιβή: {1}.</QuestTargetDestroyInspectString>
+  <!-- EN: worn by {1_labelShort} -->
+  <WornBy>φοριέται από {1_labelShort}</WornBy>
+  <!-- EN: equipped by {1_labelShort} -->
+  <EquippedBy>εξοπλίζει {1_labelShort}</EquippedBy>
+  <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
+  <QuestTargetDestroyInspectString>{0} θέλει να το καταστρέψει.\n    Ανταμοιβή: {1} ({2}).</QuestTargetDestroyInspectString>
+  <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>Χρόνος που απομένει: {0}</WorldObjectTimeout>
-  <LongRangeMineralScannerEfficiency>Αποδοτικότητα: {0}</LongRangeMineralScannerEfficiency>
-  <ItemStashContents>Περιεχόμενα: {0}.</ItemStashContents>
-  <SomeItemStashContents>Μερικά περιεχόμενα: {0}.</SomeItemStashContents>
+  <!-- EN: Contents: {0} ({1}) -->
+  <ItemStashContents>Περιεχόμενα: {0} ({1}).</ItemStashContents>
+  <!-- EN: Click to sort by this column. -->
   <ClickToSortByThisColumn>Κάνε κλικ για να τα ταξινομήσεις με βάση αυτή τη στήλη.</ClickToSortByThisColumn>
-  <WorkPriorityShiftClickTip>Shift + κλικ: Αυξάνει τη προτεραιότητα\nShift + δεξί κλικ: μειώνει την προτεραιότητα</WorkPriorityShiftClickTip>
+  <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
+  <WorkPriorityShiftClickTip>Shift + κλικ: Αυξάνει τη προτεραιότητα\nShift + δεξί κλικ: Μειώνει την προτεραιότητα</WorkPriorityShiftClickTip>
+  <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
   <WorkPriorityShiftClickEnableDisableTip>Shift + κλικ: Ενεργοποίηση όλων\nShift + δεξί κλικ: Απενεργοποίηση όλων</WorkPriorityShiftClickEnableDisableTip>
+  <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
   <AllowedAreaShiftClickTip>Shift + κλικ: Τις ρυθμίζει όλες σε σπιτιού\nShift + δεξί κλικ: Τις ρυθμίζει όλες σε απεριόριστες</AllowedAreaShiftClickTip>
+  <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
   <CheckboxShiftClickTip>Shift + κλικ: Επιλογή όλων\nShift + δεξί κλικ: Αποεπιλογή όλων</CheckboxShiftClickTip>
-  <KnownSiteThreat>Απειλή: {0}.</KnownSiteThreat>
-  <KnownSiteThreats>Απειλές: {0}.</KnownSiteThreats>
-  <KnownSiteThreatsNone>Απειλές: καμία.</KnownSiteThreatsNone>
+  <!-- EN: Known threat: {0} -->
+  <KnownSiteThreat>Γνωστή απειλή: {0}</KnownSiteThreat>
+  <!-- EN: Known threats: {0} -->
+  <KnownSiteThreats>Γνωστές απειλές: {0}</KnownSiteThreats>
+  <!-- EN: Threats: Unknown -->
+  <KnownSiteThreatsNone>Απειλές: Άγνωστη</KnownSiteThreatsNone>
+  <!-- EN: Skill Requirements -->
   <SkillRequirements>Απαιτήσεις Ικανότητας</SkillRequirements>
+  <!-- EN: Products -->
   <Products>Προϊόντα</Products>
-  <DeepDrillExhausted>Εξαντλήθηκαν οι πόροι της βαθιάς διάτρησης.</DeepDrillExhausted>
+  <!-- EN: {0} of {1} -->
   <Relationship>{0} από {1}</Relationship>
+  <!-- EN: Prisoner -->
   <Prisoner>Φυλακισμένος</Prisoner>
+  <!-- EN: Refugee -->
   <Refugee>Πρόσφυγας</Refugee>
+  <!-- EN: Terrain movement difficulty -->
+  <TileMovementDifficulty>Δυσκολία κίνησης εδάφους</TileMovementDifficulty>
+  <!-- EN: Impassable -->
+  <Impassable>Αδιάβατο</Impassable>
+  <!-- EN: Caravan movement speed -->
+  <CaravanMovementSpeedFull>Ταχύτητα κίνησης καραβανιού</CaravanMovementSpeedFull>
+  <!-- EN: downed -->
+  <DownedLower>ανήμπορος</DownedLower>
+  <!-- EN: carried -->
+  <Carried>μεταφερόμενος</Carried>
+  <!-- EN: Avg. person move speed -->
+  <AverageCaravanMemberMoveSpeed>Μέση ταχύτητα ατόμου</AverageCaravanMemberMoveSpeed>
+  <!-- EN: Multiplier for carried mass: {0} -->
+  <MultiplierForCarriedMass>Πολλαπλασιαστής για τη ποσότητα μεταφοράς: {0}</MultiplierForCarriedMass>
+  <!-- EN: Caravan members speed -->
+  <FinalCaravanPawnsMovementSpeed>Ταχύτητα μελών καραβανιού</FinalCaravanPawnsMovementSpeed>
+  <!-- EN: Final speed -->
+  <FinalCaravanMovementSpeed>Τελική ταχύτητα</FinalCaravanMovementSpeed>
+  <!-- EN: Winter -->
+  <Winter>Χειμώνας</Winter>
+  <!-- EN: {0} in winter -->
+  <MovementDifficultyOffsetInWinter>{0} στο χειμώνα</MovementDifficultyOffsetInWinter>
+  <!-- EN: to -->
+  <RangeTo>σε</RangeTo>
+  <!-- EN: No letter -->
+  <NoDietCategoryLetter>Χωρίς γράμμα</NoDietCategoryLetter>
+  <!-- EN: Expires in -->
+  <ExpiresIn>Λήγει σε</ExpiresIn>
+  <!-- EN: {1_labelShort}'s caravan -->
+  <CaravanLeaderCaravanName>καραβάνι {1_possessive} {1_labelShort}</CaravanLeaderCaravanName>
+  <!-- EN: Reason -->
+  <Reason>Λόγος</Reason>
+  <!-- EN: Relations with {0} -->
+  <RelationsWith>Σχέσης με {0}</RelationsWith>
+  <!-- EN: captured by {0} -->
+  <capturedBy>αιχμαλωτίστηκε από {0}</capturedBy>
+  <!-- EN: your caravan -->
+  <yourCaravan>το καραβάνι σου</yourCaravan>
+  <!-- EN: {0} wildness -->
+  <CreatureWildness>{0} αγριάδα</CreatureWildness>
+  <!-- EN: {0} trainability -->
+  <CreatureTrainability>{0} ικανότ. εκπαίδ.</CreatureTrainability>
+  <!-- EN: {0} with {1} -->
+  <ProximitySingleGoodwillChange>{0} με {1}</ProximitySingleGoodwillChange>
+  <!-- EN: You can't re-enter for another {0} days. -->
+  <EnterCooldown>Δεν μπορείς να ξαναμπείς για τις επόμενες {0} μέρες.</EnterCooldown>
+  <!-- EN: Caravan -->
+  <Caravan>Καραβάνι</Caravan>
+  <!-- EN: there may be danger there -->
+  <HiddenOrNoSitePartDescription>μπορεί να είναι επικίνδυνα εκεί</HiddenOrNoSitePartDescription>
+  <!-- EN: lump of {0} -->
+  <PreciousLumpLabel>σβώλος από {0}</PreciousLumpLabel>
+  <!-- EN: no active research project -->
+  <NoActiveResearchProjectToFinish>κανένα ενεργό ερευνητικό έργο</NoActiveResearchProjectToFinish>
+  <!-- EN: turret -->
+  <Turret>πυργίσκος</Turret>
+  <!-- EN: turrets -->
+  <Turrets>πυργίσκοι</Turrets>
+  <!-- EN: mortar -->
+  <Mortar>ολμοβόλο</Mortar>
+  <!-- EN: mortars -->
+  <Mortars>ολμοβόλα</Mortars>
+  <!-- EN: enemy -->
+  <Enemy>εχθρός</Enemy>
 
-  <!-- Βαρέλι ζύμωσης (Fermentation barrel) -->
+  <!-- Fermentation barrel -->
+  <!-- EN: Contains {0} / {1} wort. -->
   <ContainsWort>Περιέχει {0} / {1} ζύθο.</ContainsWort>
+  <!-- EN: Contains {0} / {1} beer. -->
   <ContainsBeer>Περιέχει {0} / {1} μπύρα.</ContainsBeer>
+  <!-- EN: Fermented -->
   <Fermented>Ζυμωμένο</Fermented>
+  <!-- EN: Progress: {0} ({1} left) -->
   <FermentationProgress>Πρόοδος: {0} ({1} απέμεινε)</FermentationProgress>
+  <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
   <FermentationBarrelOutOfIdealTemperature>Μη ιδανική θερμοκρασία. Ταχύτητα ζύμωσης: {0}</FermentationBarrelOutOfIdealTemperature>
 
-  <!--Κόκκοι κειμένου (TextMotes)-->
+  <!-- TextMotes -->
+  <!-- EN: Headshot -->
   <Headshot>Βολή στο κεφάλι</Headshot>
+  <!-- EN: Treatment success!\n{0} chance -->
   <TextMote_TreatSuccess>Επιτυχής θεραπεία!\n{0} πιθανότητα</TextMote_TreatSuccess>
+  <!-- EN: Treatment failed\n{0} chance -->
   <TextMote_TreatFailed>Αποτυχημένη θεραπεία\n{0} πιθανότητα</TextMote_TreatFailed>
+  <!-- EN: Harvest\nbotched -->
   <TextMote_HarvestFailed>Η συγκομιδή\nαπέτυχε</TextMote_HarvestFailed>
-  <TextMote_YieldWasted>Η σοδιάYield\nαχρηστεύτηκε</TextMote_YieldWasted>
+  <!-- EN: Yield\nwasted -->
+  <TextMote_YieldWasted>Η σοδειά\nαχρηστεύτηκε</TextMote_YieldWasted>
+  <!-- EN: Product\nwasted -->
   <TextMote_ProductWasted>Η παραγωγή\nαχρηστεύτηκε</TextMote_ProductWasted>
+  <!-- EN: Recruit failed!\n{0} chance -->
   <TextMote_RecruitFail>Η στρατολόγηση απέτυχε!\n{0} πιθανότητα</TextMote_RecruitFail>
+  <!-- EN: Resistance\n{0} to {1} -->
+  <TextMote_ResistanceReduced>Αντίσταση\n{0} σε {1} </TextMote_ResistanceReduced>
+  <!-- EN: Tame failed\n{0} chance -->
   <TextMote_TameFail>Η εξημέρωση απέτυχε\n{0} πιθανότητα</TextMote_TameFail>
+  <!-- EN: Tamed!\n{0} chance -->
   <TextMote_TameSuccess>Εξημερώθηκε!\n{0} πιθανότητα</TextMote_TameSuccess>
+  <!-- EN: Failed training: {0}\n{1} chance -->
   <TextMote_TrainFail>Η εκπαίδευση απέτυχε: {0}\n{1} πιθανότητα</TextMote_TrainFail>
+  <!-- EN: Trained: {0}\n{1} chance -->
   <TextMote_TrainSuccess>Εκπαιδεύτηκε: {0}\n{1} πιθανότητα</TextMote_TrainSuccess>
+  <!-- EN: Repair\nbotched -->
   <TextMote_FixBrokenDownBuildingFail>Επιδιόρθωση\nαπέτυχε</TextMote_FixBrokenDownBuildingFail>
+  <!-- EN: Construction\nbotched -->
   <TextMote_ConstructionFail>Κατασκευή\nαπέτυχε</TextMote_ConstructionFail>
+  <!-- EN: Dodge -->
   <TextMote_Dodge>Αποφυγή</TextMote_Dodge>
+  <!-- EN: {0} tended -->
   <TextMote_Tended>{0} φροντίστηκε</TextMote_Tended>
+  <!-- EN: low mood -->
+  <lowMood>κακή διάθεση</lowMood>
+  <!-- EN: low opinion -->
+  <lowOpinion>άσχημη γνώμη</lowOpinion>
 
-  <!-- Περιοχές (Areas) -->
+  <!-- Areas -->
+  <!-- EN: Home -->
   <Home>Σπίτι</Home>
+  <!-- EN: Build roof -->
   <BuildRoof>Κατασκευή στέγης</BuildRoof>
+  <!-- EN: No roof -->
   <NoRoof>Χωρίς στέγη</NoRoof>
+  <!-- EN: Snow clear -->
   <SnowClear>Καθαρισμός χιονιού</SnowClear>
+  <!-- EN: Area {0} -->
   <AreaDefaultLabel>Περιοχή {0}</AreaDefaultLabel>
-  <AreaAnimalDefaultLabel>Περιοχή ζώων {0}</AreaAnimalDefaultLabel>
-  <NoAreaAllowed>Απεριόριστο</NoAreaAllowed>
+  <!-- EN: Unrestricted -->
+  <NoAreaAllowed>Παντού</NoAreaAllowed>
+  <!-- EN: New area -->
   <NewArea>Νέα περιοχή</NewArea>
-  <NewAreaAnimal>Νέα περιοχή ζώων</NewAreaAnimal>
+  <!-- EN: Invert -->
   <InvertArea>Αντιστροφή</InvertArea>
 
-  <!-- Έλεγχος (Control) -->
+  <!-- Control -->
+  <!-- EN: Cannot order characters you do not control. -->
   <CannotOrderNonControlled>Δεν μπορείς να διατάξεις μονάδες που δεν ελέγχονται.</CannotOrderNonControlled>
-  <IsIncapableOfViolence>Ο/Η {0} δεν μπορεί να ασκήσει βία.</IsIncapableOfViolence>
+  <!-- EN: {1_labelShort} is incapable of violence. -->
+  <IsIncapableOfViolence>{1_labelShort} δεν μπορεί να ασκήσει βία.</IsIncapableOfViolence>
+  <!-- EN: incapable of violence -->
   <IsIncapableOfViolenceShort>Ανίκανος βίας</IsIncapableOfViolenceShort>
-  <IsNotDrafted>Ο/Η {0} δεν έχει στρατολογηθεί.</IsNotDrafted>
+  <!-- EN: {1_labelShort} is not drafted. -->
+  <IsNotDrafted>{1_labelShort} δεν έχει στρατολογηθεί.</IsNotDrafted>
 
-  <!-- Χιόνι (Snow) -->
+  <!-- Snow -->
+  <!-- EN: No snow -->
   <SnowNone>Χωρίς χιόνι</SnowNone>
+  <!-- EN: Snow (dusting) -->
   <SnowDusting>Χιόνι (ίχνος)</SnowDusting>
+  <!-- EN: Snow (thin) -->
   <SnowThin>Χιόνι (λεπτό)</SnowThin>
+  <!-- EN: Snow (medium) -->
   <SnowMedium>Χιόνι (μεσαίο)</SnowMedium>
+  <!-- EN: Snow (thick) -->
   <SnowThick>Χιόνι (παχύ)</SnowThick>
 
-  <!-- Πύργοι (Turrets) -->
+  <!-- Turrets -->
+  <!-- EN: Installed -->
   <GunInstalled>Εγκατεστημένο</GunInstalled>
+  <!-- EN: Minimum range -->
   <MinimumRange>Ελάχιστο βεληνεκές</MinimumRange>
+  <!-- EN: Can fire in -->
   <CanFireIn>Μπορεί να πυροβολήσει σε</CanFireIn>
-  <ShellLoaded>Βλήμα φορτώθηκε</ShellLoaded>
+  <!-- EN: Cannot fire -->
+  <CannotFire>Δεν μπορεί να πυροβολήσει</CannotFire>
+  <!-- EN: roofed -->
+  <Roofed>σκεπασμένο</Roofed>
+  <!-- EN: Shell loaded: {1_label} -->
+  <ShellLoaded>Βλήμα φορτώθηκε: {1_label}</ShellLoaded>
+  <!-- EN: Not loaded -->
   <ShellNotLoaded>Βλήμα δεν φορτώθηκε</ShellNotLoaded>
 
-  <!-- Αναφορές εργασίας (Job reports) -->
-  <ReportHaulingTo>μεταφέρει {0} στο {1}.</ReportHaulingTo>
-  <ReportHauling>μεταφέρει {0}.</ReportHauling>
+  <!-- Job reports -->
+  <!-- EN: hauling {THING_label} to {DESTINATION}. -->
+  <ReportHaulingTo>μεταφέρει {THING_label} στο {DESTINATION}.</ReportHaulingTo>
+  <!-- EN: hauling {1_label}. -->
+  <ReportHauling>μεταφέρει {1_label}.</ReportHauling>
+  <!-- EN: hauling. -->
   <ReportHaulingUnknown>μεταφέρει.</ReportHaulingUnknown>
+  <!-- EN: sleeping. -->
   <ReportSleeping>κοιμάται.</ReportSleeping>
+  <!-- EN: resting. -->
   <ReportResting>ξεκουράζεται.</ReportResting>
-  <WatchingSunrise>αγναντεύει το ανατολή</WatchingSunrise>
+  <!-- EN: watching the sunrise. -->
+  <WatchingSunrise>αγναντεύει την ανατολή</WatchingSunrise>
+  <!-- EN: cloudwatching. -->
   <CloudWatching>βλέπει τα σύννεφα</CloudWatching>
+  <!-- EN: watching the sunset. -->
   <WatchingSunset>αγναντεύει το ηλιοβασίλεμα</WatchingSunset>
-  <Stargazing>αγναντεύει τα άστρα</Stargazing>
+  <!-- EN: stargazing. -->
+  <Stargazing>παρατηρεί τ' άστρα</Stargazing>
+  <!-- EN: watching the eclipse. -->
   <WatchingEclipse>βλέπει την έκλειψη</WatchingEclipse>
-  <WatchingAurora>αγναντεύει το σέλας.</WatchingAurora>
+  <!-- EN: watching the aurora. -->
+  <WatchingAurora>παρατηρεί το σέλας.</WatchingAurora>
+  <!-- EN: using {0} on {1}. -->
   <UsingVerb>χρησιμοποιεί τα {0} στο {1}.</UsingVerb>
+  <!-- EN: area -->
   <AreaLower>περιοχή</AreaLower>
+  <!-- EN: cowering. -->
   <ReportCowering>δειλιάζει.</ReportCowering>
+  <!-- EN: standing. -->
   <ReportStanding>στέκεται.</ReportStanding>
+  <!-- EN: extinguishing fire. -->
   <ReportExtinguishingFire>σβήνει την φωτιά.</ReportExtinguishingFire>
-  <ReportExtinguishingFireOn>σβήνει την φωτιά στο {0}.</ReportExtinguishingFireOn>
+  <!-- EN: extinguishing fire on {TARGET_label}. -->
+  <ReportExtinguishingFireOn>σβήνει την φωτιά στο {TARGET_label}.</ReportExtinguishingFireOn>
+  <!-- EN: digging up corpse. -->
   <ReportDiggingUpCorpse>ξεθάβει το πτώμα.</ReportDiggingUpCorpse>
 
-  <!-- Αναφορές θεϊκών εργασιών (Lord job reports) -->
+  <!-- Lord job reports -->
+  <!-- EN: Attending marriage ceremony -->
   <LordReportAttendingMarriageCeremony>Παρακολουθεί την τελετή γάμου</LordReportAttendingMarriageCeremony>
+  <!-- EN: Attending party -->
   <LordReportAttendingParty>Συμμετέχει στην γιορτή</LordReportAttendingParty>
+  <!-- EN: Forming caravan -->
   <LordReportFormingCaravan>Συμμετέχει στο καραβάνι</LordReportFormingCaravan>
 
-  <!-- Αναφορά πυροβολισμού (Shooting report) -->
-  <WeaponMissRadius>Βεληνεκές όπλου</WeaponMissRadius>
+  <!-- Shooting report -->
+  <!-- EN: Weapon miss radius -->
+  <WeaponMissRadius>Ακτίνα αστοχίας όπλου</WeaponMissRadius>
+  <!-- EN: Shooter -->
   <ShootReportShooterAbility>Σκοπευτής</ShootReportShooterAbility>
+  <!-- EN: Weapon -->
   <ShootReportWeapon>Όπλο</ShootReportWeapon>
+  <!-- EN: Darkness -->
   <Darkness>Σκοτάδι</Darkness>
+  <!-- EN: Target lying down -->
   <TargetProne>Ο στόχος είναι στο έδαφος</TargetProne>
+  <!-- EN: Target size -->
   <TargetSize>Μέγεθος στόχου</TargetSize>
+  <!-- EN: Weather -->
   <Weather>Καιρός</Weather>
+  <!-- EN: Cover -->
   <ShootingCover>Κάλυψη</ShootingCover>
-  <CoverThingBlocksPercentOfShots>{0} καλύπτει {1}</CoverThingBlocksPercentOfShots>
+  <!-- EN: {COVER_label} stops {1} -->
+  <CoverThingBlocksPercentOfShots>{COVER_label} εμποδίζει {1}</CoverThingBlocksPercentOfShots>
+  <!-- EN: no cover -->
   <NoCoverLower>χωρίς κάλυψη</NoCoverLower>
+  <!-- EN: Execution -->
   <Execution>Εκτέλεση</Execution>
 
-  <!-- Δημιουργούμενες συνταγές (Generated recipes) -->
+  <!-- Generated recipes -->
+  <!-- EN: make {0} -->
   <RecipeMake>φτιάξε {0}</RecipeMake>
+  <!-- EN: Making {0}. -->
   <RecipeMakeJobString>Φτιάχνει {0}.</RecipeMakeJobString>
+  <!-- EN: administer {0} -->
   <RecipeAdminister>δώσε {0}</RecipeAdminister>
+  <!-- EN: Administering {0}. -->
   <RecipeAdministerJobString>Δίνει {0}.</RecipeAdministerJobString>
+  <!-- EN: teetotaler will be unhappy -->
   <TeetotalerUnhappy>όποιος δεν πίνει καθόλου αλκοόλ θα είναι δυσαρεστημένος</TeetotalerUnhappy>
+  <!-- EN: body purist will be unhappy -->
   <ProsthophobeUnhappy>ο πρσθετικοφοβικός θα είναι δυσαρεστημένος</ProsthophobeUnhappy>
 
-  <!-- Σκέψεις (Thoughts) -->
-  <ThoughtExpiresIn>Λήγει σε: {0}</ThoughtExpiresIn>
-  <ThoughtStartsExpiringIn>Ξεκινάει να ισχύει σε : {0}</ThoughtStartsExpiringIn>
-  <ThoughtFinishesExpiringIn>Τελειώνει να ισχύει σε: {0}</ThoughtFinishesExpiringIn>
+  <!-- Thoughts -->
+  <!-- EN: Expires in: {0} -->
+  <ThoughtExpiresIn>Τελειώνει σε: {0}</ThoughtExpiresIn>
+  <!-- EN: Starts expiring in: {0} -->
+  <ThoughtStartsExpiringIn>Ξεκινάει να λήγει σε : {0}</ThoughtStartsExpiringIn>
+  <!-- EN: Finishes expiring in: {0} -->
+  <ThoughtFinishesExpiringIn>Τελειώνει να λήγει σε: {0}</ThoughtFinishesExpiringIn>
+  <!-- EN: Extreme break threshold -->
   <MentalBreakThresholdExtreme>Κατώφλι ακραίας ψυχολογικής κατάρρευσης</MentalBreakThresholdExtreme>
+  <!-- EN: Major break threshold -->
   <MentalBreakThresholdMajor>Κατώφλι μεγάλης ψυχολογικής κατάρρευσης</MentalBreakThresholdMajor>
+  <!-- EN: Minor break threshold -->
   <MentalBreakThresholdMinor>Κατώφλι μικρής ψυχολογικής κατάρρευσης</MentalBreakThresholdMinor>
 
-  <!-- Αναγνώριση πληροφοριών στρατιώτη (Pawn info readout) -->
-  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <!-- Pawn info readout -->
+  <!-- EN: {PAWN_gender} {1} -->
+  <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
+  <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>{0} από {1}</PawnMainDescFactionedWrap>
-  <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
+  <!-- EN: {2_lifeStageAdjective} {0} -->
+  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
+  <!-- EN: Faction -->
   <Faction>Φατρία</Faction>
+  <!-- EN: Equipped -->
   <Equipped>Εξοπλισμένος</Equipped>
+  <!-- EN: nothing -->
   <EquippedNothing>τίποτα</EquippedNothing>
+  <!-- EN: Dead -->
   <Dead>Νεκρός</Dead>
+  <!-- EN: Unconscious -->
   <Unconscious>Αναίσθητος</Unconscious>
+  <!-- EN: In shock due to pain -->
   <PainShock>Σε κατάσταση σοκ λόγω πόνου</PainShock>
+  <!-- EN: Pain shock -->
   <PainShockShort>Σοκ πόνου</PainShockShort>
+  <!-- EN: Incapacitated -->
   <Incapacitated>Ακινητοποιημένος</Incapacitated>
+  <!-- EN: In restraints (slowed) -->
   <InRestraints>Σε δεσμά (επιβραδύνθηκε)</InRestraints>
+  <!-- EN: Carrying -->
   <Carrying>Κουβαλάει</Carrying>
+  <!-- EN: Affected by: -->
   <AffectedBy>Επηρεάστηκε από:</AffectedBy>
+  <!-- EN: Queued -->
   <Queued>Σε αναμονή</Queued>
+  <!-- EN: State -->
+  <State>Κατάσταση</State>
+  <!-- EN: stun -->
+  <StunLower>ζάλισμα</StunLower>
 
-  <!-- Γενικός επιθεωρητής (Inspector general stuff) -->
+  <!-- Inspector general stuff -->
+  <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
   <SelectNextInSquareTip>Επέλεξε το επόμενο αντικείμενο εντός του ίδιου τετραγώνου.\n\nΠλήκτρο συντόμευσης: {0}\n\nΜπορείς επίσης να το κάνεις με το να κάνεις κλικ σιγά σιγά το ίδιο τετράγωνο.</SelectNextInSquareTip>
+  <!-- EN: View information about this object. -->
   <DefInfoTip>Δες πληροφορίες για αυτό το αντικείμενο.</DefInfoTip>
 
-  <!-- Αντίδραση στην εχθρότητα (Hostility response) -->
+  <!-- Hostility response -->
+  <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
   <HostilityReponseTip>Άλλαξε τον τρόπο αντίδρασης απέναντι στους κοντινούς εχθρούς όταν ο άποικος δεν είναι στρατολογημένος.</HostilityReponseTip>
+  <!-- EN: Current mode -->
   <HostilityResponseCurrentMode>Τρέχουσα κατάσταση</HostilityResponseCurrentMode>
 
-  <!-- όπως 'Το αίμα του Ιωάννη' (like 'Blood of John') -->
+  <!-- like 'Blood of John' -->
+  <!-- EN: of -->
   <OfLower>από</OfLower>
 
-  <!-- Αναγνώριση ρεύματος (Power readout) -->
+  <!-- Power readout -->
+  <!-- EN: Not connected to power. -->
   <PowerNotConnected>Δεν είναι συνδεδεμένο με πηγή ενέργειας.</PowerNotConnected>
+  <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
   <PowerConnectedRateStored>Συνδεδεμένο ποσοστό/αποθηκευμένο: {0} W / {1} Wd</PowerConnectedRateStored>
+  <!-- EN: Power needed -->
   <PowerNeeded>Χρειάζεται ισχύς</PowerNeeded>
+  <!-- EN: Power output -->
   <PowerOutput>Ισχύς εξόδου</PowerOutput>
+  <!-- EN: Stored -->
   <PowerBatteryStored>Αποθηκευμένο</PowerBatteryStored>
+  <!-- EN: Efficiency -->
   <PowerBatteryEfficiency>Αποδοτικότητα</PowerBatteryEfficiency>
+  <!-- EN: Self-discharging -->
   <SelfDischarging>Αυτοαποφόρτιση</SelfDischarging>
 
-  <!-- Έλεγχος θερμοκρασίας (Temperature control) -->
+  <!-- Temperature control -->
+  <!-- EN: Target temperature -->
   <TargetTemperature>Στόχος θερμοκρασίας</TargetTemperature>
+  <!-- EN: Current power use -->
   <PowerConsumptionMode>Τρέχουσα χρήση ισχύος</PowerConsumptionMode>
+  <!-- EN: high -->
   <PowerConsumptionHigh>υψηλή</PowerConsumptionHigh>
+  <!-- EN: low -->
   <PowerConsumptionLow>χαμηλή</PowerConsumptionLow>
 
-  <!-- Αναγνώριση θερμοκρασίας (Temperature readout) -->
-  <Indoors>Εντός κτηρίου</Indoors>
+  <!-- Temperature readout -->
+  <!-- EN: Indoors -->
+  <Indoors>Εσωτερικά</Indoors>
+  <!-- EN: Unroofed -->
   <IndoorsUnroofed>Ασκέπαστο</IndoorsUnroofed>
-  <Outdoors>Εκτός κτιρίου</Outdoors>
+  <!-- EN: Outdoors -->
+  <Outdoors>Εξωτερικά</Outdoors>
 
-  <!--Σάπισμα (Rotting)-->
+  <!-- Rotting -->
+  <!-- EN: Fresh -->
   <RotStateFresh>Φρέσκο</RotStateFresh>
+  <!-- EN: Rotting -->
   <RotStateRotting>Σαπίζει</RotStateRotting>
+  <!-- EN: Dessicated -->
   <RotStateDessicated>Αποξηραμένο</RotStateDessicated>
-
-  <!-- Υπόδειξη πυροβολισμού (Shooting tooltip) -->
-  <ShotBy>Χτυπήθηκε από τον {0}</ShotBy>
-  <CannotHit>Δεν μπορεί να χτυπήσει τον στόχο.</CannotHit>
-
-  <!-- Αποσύνθεση (Rotting) -->
+  <!-- EN: Frozen (won't spoil) -->
   <CurrentlyFrozen>Φρέσκο (δεν θα χαλάσει)</CurrentlyFrozen>
+  <!-- EN: Refrigerated (spoils in {0}) -->
   <CurrentlyRefrigerated>Ψύχεται (χαλάει σε {0})</CurrentlyRefrigerated>
+  <!-- EN: Not refrigerated (spoils in {0}) -->
   <NotRefrigerated>Δεν ψύχεται (χαλάει σε {0})</NotRefrigerated>
+  <!-- EN: over a decade -->
   <OverADecade>πάνω από μία δεκαετία</OverADecade>
-  <LessThanADay>λιγότερο από μέρα</LessThanADay>
+  <!-- EN: less than a day -->
+  <LessThanADay>λιγότερο από μία μέρα</LessThanADay>
 
-  <!-- Γεύμα (Meal) -->
+  <!-- Shooting tooltip -->
+  <!-- EN: Shot by {1_labelShort} -->
+  <ShotBy>Σκόπευση από {1_possessive} {1_labelShort}</ShotBy>
+  <!-- EN: Cannot hit target. -->
+  <CannotHit>Δεν μπορεί να χτυπήσει τον στόχο.</CannotHit>
+  <!-- EN: Manhunter chance per hit -->
+  <ManhunterPerHit>Πιθανότητα ανθρωποκυνηγού ανά κτύπημα</ManhunterPerHit>
+
+  <!-- Meal -->
+  <!-- EN: Ingredients -->
   <Ingredients>Συστατικά</Ingredients>
 
-  <!-- Φυτά (Plants) -->
-  <PercentGrowth>{0} αναπτύχθηκε</PercentGrowth>
+  <!-- Plants -->
+  <!-- EN: {0} grown -->
+  <PercentGrowth>αναπτύχθηκε {0}</PercentGrowth>
+  <!-- EN: Growth rate -->
   <GrowthRate>Ρυθμός ανάπτυξης</GrowthRate>
-  <FullyGrownIn>Σε πλήρη ανάπτυξη σε {0} ανάπτυξης.</FullyGrownIn>
+  <!-- EN: Fully grown in {0} of growth. -->
+  <FullyGrownIn>Πλήρη ανάπτυξη σε {0} της ανάπτυξης.</FullyGrownIn>
+  <!-- EN: Needs light level -->
   <PlantNeedsLightLevel>Χρειάζεται επίπεδο φωτός</PlantNeedsLightLevel>
+  <!-- EN: Resting -->
   <PlantResting>Ξεκουράζεται</PlantResting>
+  <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
   <OutOfIdealTemperatureRange>Μη ιδανική θερμοκρασία. Πολλαπλασιαστής ανάπτυξης λόγω θερμοκρασίας: {0}%</OutOfIdealTemperatureRange>
+  <!-- EN: Non-ideal temperature. Not growing. -->
   <OutOfIdealTemperatureRangeNotGrowing>Μη ιδανική θερμοκρασία. Δεν αναπτύσσεται.</OutOfIdealTemperatureRangeNotGrowing>
+  <!-- EN: Ready to harvest. -->
   <ReadyToHarvest>Έτοιμο για συγκομιδή.</ReadyToHarvest>
+  <!-- EN: Mature. -->
   <Mature>Ώριμο.</Mature>
+  <!-- EN: Growing period -->
   <OutdoorGrowingPeriod>Περίοδος ανάπτυξης</OutdoorGrowingPeriod>
+  <!-- EN: Never -->
   <NoGrowingPeriod>Ποτέ</NoGrowingPeriod>
+  <!-- EN: Year-round -->
   <GrowYearRound>Όλο τον χρόνο</GrowYearRound>
+  <!-- EN: Growing season here now. -->
   <GrowSeasonHereNow>Περίοδος καλλιέργειας τώρα.</GrowSeasonHereNow>
+  <!-- EN: Cannot grow (bad seasonal temperature). -->
   <CannotGrowBadSeasonTemperature>Δεν μπορεί να καλλιεργηθεί (κακή θερμοκρασία εποχής).</CannotGrowBadSeasonTemperature>
+  <!-- EN: Blighted -->
   <Blighted>Κατεστραμμένο</Blighted>
+  <!-- EN: Dying because exposed to light -->
   <DyingBecauseExposedToLight>Πεθαίνει επειδή εκτίθεται στο φως</DyingBecauseExposedToLight>
 
-  <!-- Ζώνες (Zones) -->
+  <!-- Zones -->
+  <!-- EN: Zone -->
   <Zone>Ζώνη</Zone>
+  <!-- EN: Growing zone -->
   <GrowingZone>Ζώνη καλλιέργειας</GrowingZone>
+  <!-- EN: Stockpile zone -->
   <Stockpile>Ζώνη αποθήκευσης</Stockpile>
+  <!-- EN: Dumping stockpile zone -->
   <DumpingStockpile>Ζώνη αποθήκευσης απορριμμάτων</DumpingStockpile>
+  <!-- EN: Priority -->
   <Priority>Προτρττα</Priority>
+  <!-- EN: Clear all -->
   <ClearAll>Καθαρισμός όλων</ClearAll>
-  <AllowAll>Επιλογή όλων</AllowAll>
+  <!-- EN: Allow all -->
+  <AllowAll>Επιτρέπονται όλες</AllowAll>
 
-  <!-- Φίλτρο πραγμάτων (ThingFilter) -->
+  <!-- ThingFilter -->
+  <!-- EN: {0} hit points -->
   <HitPoints>{0} βαθμοί υγείας</HitPoints>
+  <!-- EN: any quality -->
   <AnyQuality>οποιαδήποτε ποιότητα</AnyQuality>
+  <!-- EN: {0} only -->
   <OnlyQuality>{0} μόνο</OnlyQuality>
 
-  <!-- Ένδειξη ποντικιού (Mouseover indicator) -->
+  <!-- Mouseover indicator -->
+  <!-- EN: Undiscovered -->
   <Undiscovered>Δεν έχει ανακαλυφθεί</Undiscovered>
 
-  <!-- Κουμπιά (Buttons) -->
+  <!-- Buttons -->
+  <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
   <ShowLearningHelperWhenEmptyToggleButton>Άλλαξε την ορατότητα του βοηθού εκμάθησης όταν είναι κενός.\n\nΟ βοηθός εκμάθησης είναι πάντα ορατός αν υπάρχει κάποια έννοια ενεργοποιημένη προς εκμάθηση. Αυτή η εναλλαγή το κάνει να εξαφανίζεται όταν δεν υπάρχει ενεργή έννοια.</ShowLearningHelperWhenEmptyToggleButton>
+  <!-- EN: Toggle visiblity of zones. -->
   <ZoneVisibilityToggleButton>Εναλλαγή ορατότητας ζωνών.</ZoneVisibilityToggleButton>
-  <ShowEnvironmentToggleButton>Εναλλαγή εμφάνισης περιβάλλοντος.\n\nΕμφανίζει την ομορφιά, τα στατιστικά του περιβάλλοντος, των δωματίων όπως θα τα εκλάμβανε ένας χαρακτήρας που θα στεκόταν εκεί που δείχνει ο κέρσορας.</ShowEnvironmentToggleButton>
-  <ShowColonistBarToggleButton>Εναλλαγή μπάρας αποίκων.\n\nΕμφανίζει τα εικονίδια και την βασική κατάσταση όλων των αποίκων στο πάνω μέρος της οθόνης.</ShowColonistBarToggleButton>
+  <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing. -->
+  <ShowBeautyToggleButton>Εναλλαγή εμφάνιση ομορφιάς.\n\nΕμφανίζει την ομορφιά του περιβάλλοντος όπως θα την αντιλαμβανόταν ένας χαρακτήρας που θα στεκόταν στο δείκτη του ποντικιού.</ShowBeautyToggleButton>
+  <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
+  <ShowRoomStatsToggleButton>Εναλλαγή προβολής στατιστικών δωματίου.\n\nΕμφανίζει τα στατιστικά στοιχεία του δωματίου που δείχνει το ποντίκι.</ShowRoomStatsToggleButton>
+  <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
+  <ShowColonistBarToggleButton>Εναλλαγή μπάρας αποίκων.\n\nΕμφανίζει τα εικονίδια και την βασική κατάσταση όλων των αποίκων στο πάνω μέρος της οθόνης.\n\nΜπορείς να αναδιατάξεις τους αποίκους στη γραμμή των αποίκων, κάνοντας δεξί κλικ και σύροντάς τους</ShowColonistBarToggleButton>
+  <!-- EN: Toggle automatically expanding the home area around new constructions. -->
   <AutoHomeAreaToggleButton>Αυτόματη επέκταση της περιοχής του σπιτιού τριγύρω από κάθε νέα κατασκευή.</AutoHomeAreaToggleButton>
+  <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
+  <AutoRebuildButton>Εναλλαγή αυτόματης ανακατασκευής κατεστραμμένων δομών στην περιοχή του σπιτιού.</AutoRebuildButton>
+  <!-- EN: Toggle categorized mode on the resource readout. -->
   <CategorizedResourceReadoutToggleButton>Εναλλαγή εμφάνισης πώρων σε κατηγορίες.</CategorizedResourceReadoutToggleButton>
+  <!-- EN: Toggle displaying animal names for tame named animals. -->
   <ShowAnimalNamesToggleButton>Εναλλαγή εμφάνισης ονόματος εξημερωμένων ζώων.</ShowAnimalNamesToggleButton>
+  <!-- EN: Toggle visibility of roofs. -->
   <ShowRoofOverlayToggleButton>Εναλλαγή ορατότητας οροφής.</ShowRoofOverlayToggleButton>
+  <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
   <LockNorthUpToggleButton>Κλείδωμα περιστροφής κάμερας ώστε ο βόρειος πόλος να είναι πάντα πάνω.</LockNorthUpToggleButton>
+  <!-- EN: Toggle day/night lighting system. -->
   <UsePlanetDayNightSystemToggleButton>Εναλλαγή συστήματος φωτός ημέρας/νύχτας.</UsePlanetDayNightSystemToggleButton>
+  <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
   <ShowExpandingIconsToggleButton>Εναλλαγή προβολής επέκτασης εικονιδίων αντί των κανονικών εικονιδίων για απομακρυσμένα αντικείμενα.</ShowExpandingIconsToggleButton>
+  <!-- EN: Toggle visibility of names of landforms. -->
   <ShowWorldFeaturesToggleButton>Εναλλαγή της εμφάνισης των ονομάτων των σχημάτων του εδάφους.</ShowWorldFeaturesToggleButton>
 
-  <!-- Φωτιά (Fire) -->
-  <Fire>Φωτιά</Fire>
-  <FireOn>Φωτιά πάνω στο {0}</FireOn>
+  <!-- Fire -->
+  <!-- EN: fire on {1_label} -->
+  <FireOn>Φωτιά πάνω στο {1_label}</FireOn>
+  <!-- EN: Burning -->
   <Burning>Καίγεται</Burning>
+  <!-- EN: fire size {0} -->
   <FireSizeLower>μέγεθος φωτιάς {0}</FireSizeLower>
 
-  <!-- Συνθήκες παιχνιδιού (Game conditions) -->
+  <!-- Game conditions -->
+  <!-- EN: Special conditions affecting the area right now. -->
   <GameConditionsTip>Ειδικές συνθήκες που επηρεάζουν την περιοχή αυτή τη στιγμή.</GameConditionsTip>
+  <!-- EN: time left -->
   <TimeLeft>χρόνος που απομένει</TimeLeft>
+  <!-- EN: impact date -->
   <ImpactDate>ημερομηνία σύγκρουσης</ImpactDate>
 
-  <!-- Τοποθέτηση κτιρίων (Building placement) -->
+  <!-- Building placement -->
+  <!-- EN: You have no usable materials from which to build this. -->
   <NoStuffsToBuildWith>Δεν έχεις τα κατάλληλα υλικά για το κατασκευάσεις αυτό.</NoStuffsToBuildWith>
 
-  <!-- Περιορισμοί τοποθέτησης κτιρίων (Building placement restricters) -->
+  <!-- Building placement restricters -->
+  <!-- EN: {0} will have work speed penalty -->
   <WillGetWorkSpeedPenalty>Ο {0} θα έχει ποινή μειωμένης ταχύτητας έργου</WillGetWorkSpeedPenalty>
+  <!-- EN: Cannot be placed under a roof. -->
   <MustPlaceUnroofed>Δεν μπορεί να τοποθετηθεί κάτω από οροφή.</MustPlaceUnroofed>
+  <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>Πρέπει να τοποθετηθεί με την κορυφή σε κάποια δομική δοκό του πλοίου.</MustPlaceHeadOnShipBeam>
+  <!-- EN: Must be placed next to something that needs a hopper. -->
   <MustPlaceNextToHopperAccepter>Πρέπει να τοποθετηθεί δίπλα σε κάτι που χρειάζεται χοάνη.</MustPlaceNextToHopperAccepter>
+  <!-- EN: Must be placed directly on a steam geyser. -->
   <MustPlaceOnSteamGeyser>Πρέπει να τοποθετηθεί απευθείας πάνω σε έναν γεωθερμικό πίδακα.</MustPlaceOnSteamGeyser>
+  <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
   <MustPlaceCoolerWithFreeSpaces>Και η ζεστή και η κρύα πλευρά του ψύκτη πρέπει να είναι εκτεθειμένες.</MustPlaceCoolerWithFreeSpaces>
+  <!-- EN: Both the sides must be exposed for air to pass through. -->
   <MustPlaceVentWithFreeSpaces>Και οι δύο πλευρές πρέπει να είναι εκτεθειμένες για να περάσει από μέσα αέρας.</MustPlaceVentWithFreeSpaces>
+  <!-- EN: Must be placed with standable space on all sides. -->
   <MustPlaceAdjacentStandable>Πρέπει να τοποθετηθεί με χώρο που να μπορεί να σταθεί κάποιος τριγύρω.</MustPlaceAdjacentStandable>
+  <!-- EN: Must be placed next to a pod launcher's fueling port. -->
   <MustPlaceNearFuelingPort>Πρέπει να τοποθετηθεί δίπλα σε έναν σταθμό καυσίμων του εκτοξευτή ακάτων.</MustPlaceNearFuelingPort>
+  <!-- EN: Must be placed on drillable resources. -->
+  <MustPlaceOnDrillable>Πρέπει να τοποθετηθεί σε πόρους που μπορούν να τρυπηθούν.</MustPlaceOnDrillable>
+  <!-- EN: Cannot be placed next to traps. -->
+  <CannotPlaceAdjacentTrap>Δεν μπορεί να τοποθετηθεί δίπλα σε παγίδες</CannotPlaceAdjacentTrap>
 
-  <!-- Ανεμογεννήτρια (Wind Turbine) -->
+  <!-- Wind Turbine -->
+  <!-- EN: Blocked by -->
   <WindTurbine_WindPathIsBlockedBy>Εμποδίζεται από</WindTurbine_WindPathIsBlockedBy>
+  <!-- EN: Blocked by roof -->
   <WindTurbine_WindPathIsBlockedByRoof>Εμποδίζεται από την οροφή</WindTurbine_WindPathIsBlockedByRoof>
 
-  <!-- Κάψουλα κρυπτοκοίμησης (Cryptosleep casket) -->
+  <!-- Watermill generator -->
+  <!-- EN: Flow reduced: Turbulence from other watermill -->
+  <Watermill_WaterUsedTwice>Μειωμένη ροή: Αναταράσσετε από άλλο νερόμυλο</Watermill_WaterUsedTwice>
+
+  <!-- Cryptosleep casket -->
+  <!-- EN: Contains -->
   <CasketContains>Περιέχει</CasketContains>
-  <CasketWarning>Προσοχή! Ο άποικος \n\nNAME είναι ο τελευταίος άποικος που μπορείς να χειριστείς! Αν τον αφήσεις να μπει σε αυτό το θάλαμο, δεν θα μπορείς να συνεχίσεις να παίζεις. Σίγουρα θέλεις να συνεχίσεις;</CasketWarning>
+  <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
+  <CasketWarning>Προσοχή!\n\n{PAWN_pronoun} {PAWN_nameDef} είναι {PAWN_pronoun} τελευταίος άποικος που μπορείς να χειριστείς! Αν {PAWN_objective} αφήσεις να μπει σε αυτό το θάλαμο, δεν θα μπορείς να συνεχίσεις να παίζεις. Σίγουρα θέλεις να συνεχίσεις;</CasketWarning>
 
-  <!-- Αναφορά εκτόξευσης διαστημόπλοιου (Ship launch report) -->
+  <!-- Ship launch report -->
+  <!-- EN: Cannot launch. -->
   <ShipReportCannotLaunch>Δεν μπορεί να εκτοξευτεί.</ShipReportCannotLaunch>
+  <!-- EN: Ready for launch. -->
   <ShipReportCanLaunch>Έτοιμο προς εκτόξευση.</ShipReportCanLaunch>
+  <!-- EN: Missing critical component -->
   <ShipReportMissingPart>Λείπουν κρίσιμα εξαρτήματα</ShipReportMissingPart>
-  <ShipReportMissingPartRequires>requires</ShipReportMissingPartRequires>
+  <!-- EN: requires -->
+  <ShipReportMissingPartRequires>απαιτήσεις</ShipReportMissingPartRequires>
+  <!-- EN: No full cryptosleep caskets -->
   <ShipReportNoFullPods>Οι θάλαμοι κρυογονικής δεν είναι πλήρεις</ShipReportNoFullPods>
+  <!-- EN: Hibernating component -->
   <ShipReportHibernating>Αδρανοποιητικό στοιχείο</ShipReportHibernating>
+  <!-- EN: Component not yet ready -->
   <ShipReportNotReady>Το στοιχείο δεν είναι ακόμα έτοιμο</ShipReportNotReady>
-  <HibernateWarning>Ο Τσάρλον Γουάιτστον είναι έτοιμος να ξεκινήσει την ακολουθία ανάκαμψης της αδρανοποίησης του αντιδραστήρα.\n\nΣας προειδοποιεί ότι η διαδικασία θα διαρκέσει περίπου 15 ημέρες και το αποτύπωμα της ενέργειας θα είναι ανιχνεύσιμο σε μεγάλη απόσταση. Αυτό το είδος ενεργειακού αποτυπώματος δείχνει διαστημική ικανότητα πτήσης, και θα προσελκύσει συμμορίες από απελπισμένους πλιατσικολόγους και κυνηγούς θησαυρών. Βεβαιωθείτε πρώτα ότι έχετε προετοιμάσει τις άμυνες σας.</HibernateWarning>
-  <HibernateCompleteLabel>Ο αντιδραστήρας είναι έτοιμος</HibernateCompleteLabel>
-  <HibernateComplete>Ο Τσάρλον Γουάιτστον ολοκλήρωσε την ακολουθία ανάκαμψης της αδρανοποίησης του αντιδραστήρα. Ο αντιδραστήρας είναι έτοιμος να ενεργοποιήσει μία εκτόξευση.</HibernateComplete>
+  <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarning>Ο Τσάρλον Γουάιτστον είναι έτοιμος να ξεκινήσει την ακολουθία ανάκαμψης της αδρανοποίησης του αντιδραστήρα.\n\nΣε προειδοποιεί ότι η διαδικασία θα διαρκέσει περίπου 15 ημέρες και το αποτύπωμα της ενέργειας θα είναι ανιχνεύσιμο σε μεγάλη απόσταση.\n\nΑυτό το είδος ενεργειακού αποτυπώματος δείχνει διαστημική ικανότητα πτήσης, και θα προσελκύσει συμμορίες από απελπισμένους πλιατσικολόγους και σμήνη από θανάσιμα μηχανοειδή.\n\nΘα σου επιτεθούν με ένταση που δεν έχεις δει ποτέ σου. Βεβαιώσου πρώτα ότι έχεις προετοιμάσει τις άμυνες σου.</HibernateWarning>
+  <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarningStandalone>Ο αντιδραστήρας είναι έτυμος να ανάψει.\n\nΗ διαδικασία θα διαρκέσει περίπου 15 ημέρες και το αποτύπωμα της ενέργειας θα είναι ανιχνεύσιμο σε μεγάλη απόσταση. Αυτό το είδος ενεργειακού αποτυπώματος δείχνει διαστημική ικανότητα πτήσης, και θα προσελκύσει συμμορίες από απελπισμένους πλιατσικολόγους και σμήνη από θανάσιμα μηχανοειδή.\n\nΘα σου επιτεθούν με ένταση που δεν έχεις δει ποτέ σου. Βεβαιώσου πρώτα ότι έχεις προετοιμάσει τις άμυνες σου.</HibernateWarningStandalone>
+  <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
+  <HibernateWarningPacifist>Ο Τσάρλον Γουάιτστον είναι έτοιμος να ξεκινήσει την ακολουθία ανάκαμψης της αδρανοποίησης του αντιδραστήρα. Σε προειδοποιεί ότι η διαδικασία θα διαρκέσει περίπου 15 ημέρες.</HibernateWarningPacifist>
+  <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
+  <HibernateWarningStandalonePacifist>Ο αντιδραστήρας είναι έτυμος να ανάψει.Η διαδικασία θα διαρκέσει περίπου 15 ημέρες.</HibernateWarningStandalonePacifist>
 
-  <!-- Νευροεκπαιδευτή (Neurotrainer) -->
-  <NeurotrainerUsed>Ο άποικος {0} χρησιμοποίησε {1} νευροεκπαιδευτή για να πάει από το επίπεδο  {2} στο επίπεδο {3}.</NeurotrainerUsed>
+  <!-- Neurotrainer -->
+  <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
+  <NeurotrainerUsed>{USER_pronoun} άποικος {USER_labelShort} χρησιμοποίησε {1} νευροεκπαιδευτή για να πάει από το επίπεδο {2} στο επίπεδο {3}.</NeurotrainerUsed>
 
-  <!-- Σμίκρυνση (Minification) -->
+  <!-- Minification -->
+  <!-- EN: Installed -->
   <Installed>Εγκαταστάθηκε</Installed>
+  <!-- EN: Not installed -->
   <NotInstalled>Δεν εγκαταστάθηκε</NotInstalled>
 
-  <!-- Τέχνη (Art) -->
+  <!-- Art -->
+  <!-- EN: Title -->
   <Title>Τίτλος</Title>
+  <!-- EN: Untitled -->
   <Untitled>Χωρίς τίτλο</Untitled>
 
-  <!-- Ημιτελής αντικείμενο (Unfinished thing) -->
+  <!-- Unfinished thing -->
+  <!-- EN: Unfinished {0} -->
   <UnfinishedItem>Ατελείωτο {0}</UnfinishedItem>
+  <!-- EN: Unfinished {0} {1} -->
   <UnfinishedItemWithStuff>Ατελείωτο {0} {1}</UnfinishedItemWithStuff>
 
-  <!-- Ποιότητα (Quality) -->
+  <!-- Quality -->
+  <!-- EN: Quality -->
   <Quality>Ποιότητα</Quality>
+  <!-- EN: An item's quality is how well-made it is. -->
   <QualityDescription>Η ποιότητα ενός αντικειμένου είναι το πόσο καλοφτιαγμένο είναι.</QualityDescription>
+  <!-- EN: Quality: {0} -->
   <QualityIs>Ποιότητα: {0}</QualityIs>
 
-  <!-- Περιγραφές διάθεσης (Mood descriptions) -->
+  <!-- Mood descriptions -->
+  <!-- EN: mental state -->
   <Mood_MentalState>Ψυχική κατάσταση</Mood_MentalState>
+  <!-- EN: about to break -->
   <Mood_AboutToBreak>λίγο πριν από ψυχωτική κατάρρευση</Mood_AboutToBreak>
+  <!-- EN: on edge -->
   <Mood_OnEdge>στα όρια</Mood_OnEdge>
+  <!-- EN: stressed -->
   <Mood_Stressed>αγχωμένος</Mood_Stressed>
+  <!-- EN: neutral -->
   <Mood_Neutral>ουδέτερος</Mood_Neutral>
+  <!-- EN: content -->
   <Mood_Content>ικανοποιημένος</Mood_Content>
+  <!-- EN: happy -->
   <Mood_Happy>χαρούμενος</Mood_Happy>
 
-  <!-- Τέλος παιχνιδιού (Game over) -->
+  <!-- Game over -->
+  <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
   <GameOverEveryoneDead>Όλοι έχουν πεθάνει ή δεν υπάρχουν. Η ιστορία τελείωσε.\n\nΊσως κάποιος άλλος θα μπορεί να χρησιμοποιήσει τα ερείπια σε αυτό το μέρος.</GameOverEveryoneDead>
-  <GameOverShipLaunched>Εκτόξευσες το πλοίο! Αυτοί οι άποικοι απέδρασαν:\n\n{0}\nΑυτοί οι άποικοι έμειναν πίσω:\n\n{1}\nΗ Τεχνητή νοημοσύνη σου θα προσπαθήσει τώρα να καθοδηγήσει το πλοίο σε μία ασφαλή περιοχή. Μπορεί να σου βρει έναν πλανήτη που ευδοκιμεί σε αυτό το σύστημα. Αλλιώς, μπορεί να κάνει ένα ταξίδι αιώνων με προορισμό ένα άλλο αστέρι. Μπορεί ακόμα να αποφασίσει να κρυφτεί κάτω από πάγο σε κάποιο αστεροειδή για χίλια χρόνια, περιμένοντας κάποιον να δημιουργήσει εδώ  έναν νέο υψηλής τεχνολογίας κόσμο.\n\nΘα το ανακαλύψεις όταν ξυπνήσεις.</GameOverShipLaunched>
+  <!-- EN: You've launched the ship! These colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nYour AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
+  <GameOverShipLaunched>Εκτόξευσες το πλοίο! Αυτοί οι άποικοι απέδρασαν:\n\n{0}\nΑυτοί οι άποικοι έμειναν πίσω:\n\n{1}\nΗ Τεχνητή νοημοσύνη σου θα προσπαθήσει τώρα να καθοδηγήσει το πλοίο σε μία ασφαλή περιοχή. Μπορεί να σου βρει έναν πλανήτη που ευδοκιμεί σε αυτό το σύστημα. Αλλιώς, μπορεί να κάνει ένα ταξίδι αιώνων με προορισμό ένα άλλο αστέρι. Μπορεί ακόμα να αποφασίσει να κρυφτεί κάτω από πάγο σε κάποιο αστεροειδή για χίλια χρόνια, περιμένοντας κάποιον να δημιουργήσει εδώ έναν νέο υψηλής τεχνολογίας κόσμο.\n\nΘα το ανακαλύψεις όταν ξυπνήσεις.</GameOverShipLaunched>
+  <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
   <GameOverPlanetkillerImpact>Με σχεδόν την ταχύτητα του φωτός, το όπλο δολοφόνος πλανητών συγκρούστηκε στο έδαφος με την ισχύ ενός τρις βομβών υδρογόνου. Όπως ένα μπαλόνι με νερό που το πυροβολούν με όπλο, ο πλανήτης υγροποιήθηκε από την σφοδρή σύγκρουση και εκτόξευσε τα λιωμένα του εντόσθια στα πέρατα του σύμπαντος.\n\nΤμήμα του {0} είναι πλέων μία ζώνη αστεροειδών. Το υπόλοιπο είναι μία λιωμένη, ραδιενεργή κόλαση, που συνεχώς κυματίζει με σεισμούς χιλιομέτρων.\n\nΔεν επέζησες.</GameOverPlanetkillerImpact>
-  <GameOverArrivedAtJourneyDestination>Καθώς ανεβαίνεις στο πλοίο σε χαιρετάει το πλήρωμα με ανοιχτές αγκάλες. Φαίνεται να είναι ευτυχισμένοι που πήραν έστω ένα ακόμα άτομο μαζί τους.\n\nΑυτοί οι άποικοι απέδρασαν:\n\n{0}\nΑυτοί οι άποικοι έμειναν πίσω:\n\n{1}\nΗ Τεχνητή νοημοσύνη σου θα προσπαθήσει τώρα να καθοδηγήσει το πλοίο σε μία ασφαλή περιοχή. Μπορεί να σου βρει έναν πλανήτη που ευδοκιμεί σε αυτό το σύστημα. Αλλιώς, μπορεί να κάνει ένα ταξίδι αιώνων με προορισμό ένα άλλο αστέρι. Μπορεί ακόμα να αποφασίσει να κρυφτεί κάτω από πάγο σε κάποιο αστεροειδή για χίλια χρόνια, περιμένοντας κάποιον να δημιουργήσει εδώ  έναν νέο  υψηλής τεχνολογίας κόσμο.\n\nΚαθώς μπαίνεις στον θάλαμο κρυογονικής διστάζεις για μια στιγμή  και νοιώθεις κάπως αβέβαιος σχετικά με το κατά πόσο μπορείς να εμπιστευτείς αυτούς τους ανθρώπους.\n\nΘα το ανακαλύψεις όταν ξυπνήσεις.</GameOverArrivedAtJourneyDestination>
+  <!-- EN: As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up. -->
+  <GameOverArrivedAtJourneyDestination>Καθώς ανεβαίνεις στο πλοίο σε χαιρετάει το πλήρωμα με ανοιχτές αγκάλες. Φαίνεται να είναι ευτυχισμένοι που πήραν έστω ένα ακόμα άτομο μαζί τους.\n\nΑυτοί οι άποικοι απέδρασαν:\n\n{0}\nΑυτοί οι άποικοι έμειναν πίσω:\n\n{1}\nΗ Τεχνητή νοημοσύνη σου θα προσπαθήσει τώρα να καθοδηγήσει το πλοίο σε μία ασφαλή περιοχή. Μπορεί να σου βρει έναν πλανήτη που ευδοκιμεί σε αυτό το σύστημα. Αλλιώς, μπορεί να κάνει ένα ταξίδι αιώνων με προορισμό ένα άλλο αστέρι. Μπορεί ακόμα να αποφασίσει να κρυφτεί κάτω από πάγο σε κάποιο αστεροειδή για χίλια χρόνια, περιμένοντας κάποιον να δημιουργήσει εδώ  έναν νέο υψηλής τεχνολογίας κόσμο.\n\nΚαθώς μπαίνεις στον θάλαμο κρυογονικής διστάζεις για μια στιγμή νοιώθεις κάπως αβέβαιος σχετικά με το κατά πόσο μπορείς να εμπιστευτείς αυτούς τους ανθρώπους.\n\nΘα το ανακαλύψεις όταν ξυπνήσεις.</GameOverArrivedAtJourneyDestination>
+  <!-- EN: Keep playing -->
   <GameOverKeepPlaying>Συνέχισε να παίζεις</GameOverKeepPlaying>
+  <!-- EN: Main menu -->
   <GameOverMainMenu>Κύριο μενού</GameOverMainMenu>
 
-  <!-- Γενική διάρκεια ζωής (Generic lifespan) -->
+  <!-- Generic lifespan -->
+  <!-- EN: Expires in: -->
   <LifespanExpiry>Λήγει σε:</LifespanExpiry>
 
-  <!-- Παγίδες (Traps) -->
-  <TrapArmed>Οπλισμένο</TrapArmed>
-  <TrapNotArmed>Μη οπλισμένο</TrapNotArmed>
-  <TrapRearmingCost>Κόστος επανοπλισμού: {0}</TrapRearmingCost>
-
-  <!-- Εγκαταστάσεις (Facilities) -->
+  <!-- Facilities -->
+  <!-- EN: inactive -->
   <InactiveFacility>Ανενεργό</InactiveFacility>
 
-  <!-- Μέθοδοι ανάπτυξης του Χέντιφ (Hediffs growth modes) -->
-  <DiseaseGrowthModeChanged_Growing>{1} του αποίκου {0} αυξάνεται.</DiseaseGrowthModeChanged_Growing>
-  <DiseaseGrowthModeChanged_Stable>{1} του αποίκου {0} είναι πλέων σταθερό.</DiseaseGrowthModeChanged_Stable>
-  <DiseaseGrowthModeChanged_Remission>{1} του αποίκου {0} είναι σε ύφεση.</DiseaseGrowthModeChanged_Remission>
+  <!-- Hediffs growth modes -->
+  <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
+  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort} του αποίκου {1} αυξάνεται.</DiseaseGrowthModeChanged_Growing>
+  <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
+  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort} του αποίκου {1} είναι πλέων σταθερό.</DiseaseGrowthModeChanged_Stable>
+  <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
+  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort} του αποίκου {1} είναι σε ύφεση.</DiseaseGrowthModeChanged_Remission>
 
-  <!-- Σημείο γάμου (Marriage spot) -->
+  <!-- Marriage spot -->
+  <!-- EN: Usable now. -->
   <MarriageSpotUsable>Μπορεί να χρησιμοποιηθεί τώρα.</MarriageSpotUsable>
+  <!-- EN: Not usable: {0}. -->
   <MarriageSpotNotUsable>Δεν μπορεί να χρησιμοποιηθεί: {0}.</MarriageSpotNotUsable>
+  <!-- EN: blocked -->
   <MarriageSpotNotStandable>εμποδίζεται</MarriageSpotNotStandable>
-  <MarriageSpotDangerous>πολύ επικίνδυνο για τον άποικο {0}</MarriageSpotDangerous>
-  <MarriageSpotForbidden>απαγορευμένο για τον άποικο {0}</MarriageSpotForbidden>
+  <!-- EN: too dangerous for {1_labelShort} -->
+  <MarriageSpotDangerous>πολύ επικίνδυνο για {1_possessive} άποικο {1_labelShort}</MarriageSpotDangerous>
+  <!-- EN: forbidden for {1_labelShort} -->
+  <MarriageSpotForbidden>απαγορευμένο για {1_possessive} άποικο {1_labelShort}</MarriageSpotForbidden>
+  <!-- EN: reserved -->
   <MarriageSpotReserved>κλεισμένο</MarriageSpotReserved>
-  <MarriageSpotUnreachable>άπιαστο για τον άποικο {0}</MarriageSpotUnreachable>
+  <!-- EN: unreachable for {1_labelShort} -->
+  <MarriageSpotUnreachable>άπιαστο για {1_possessive} άποικο {1_labelShort}</MarriageSpotUnreachable>
+  <!-- EN: in prison cell -->
   <MarriageSpotInPrisonCell>σε κελί φυλακής</MarriageSpotInPrisonCell>
+  <!-- EN: uncomfortable temperature -->
   <NotEnjoyableOutsideTemperature>δυσάρεστη θερμοκρασία</NotEnjoyableOutsideTemperature>
 
-  <!-- Μπάρα αποίκου (Colonist bar) -->
+  <!-- Colonist bar -->
+  <!-- EN: Medical rest -->
   <ActivityIconMedicalRest>Ανάπαυση σε νοσοκομείο</ActivityIconMedicalRest>
+  <!-- EN: Sleeping -->
   <ActivityIconSleeping>Κοιμάται</ActivityIconSleeping>
+  <!-- EN: Fleeing -->
   <ActivityIconFleeing>Τρέπεται σε φυγή</ActivityIconFleeing>
+  <!-- EN: Fighting -->
   <ActivityIconAttacking>Πολεμάει</ActivityIconAttacking>
+  <!-- EN: Idle -->
   <ActivityIconIdle>Άεργος</ActivityIconIdle>
+  <!-- EN: Burning -->
   <ActivityIconBurning>Καίγεται</ActivityIconBurning>
+  <!-- EN: Forming a caravan -->
+  <ActivityIconFormingCaravan>Συμμετέχει σε καραβάνι</ActivityIconFormingCaravan>
 
-  <!-- Συντηρημένο (Maintainable) -->
+  <!-- Maintainable -->
+  <!-- EN: Due for maintenance. -->
   <DueForMaintenance>Προς συντήρηση.</DueForMaintenance>
+  <!-- EN: Deteriorating due to lack of maintenance. -->
   <DeterioratingDueToLackOfMaintenance>Αλλοιώνεται λόγω έλλειψης συντήρησης.</DeterioratingDueToLackOfMaintenance>
 
-  <!-- Βαθιά τρύπα (Deep drill) -->
-  <ProgressToNextLump>Πρόοδος για το επόμενο κομμάτι</ProgressToNextLump>
+  <!-- Deep drill -->
+  <!-- EN: Progress to next lump -->
+  <ProgressToNextLump>Πρόοδος για το επόμενο σβώλο</ProgressToNextLump>
+  <!-- EN: Resource below -->
   <ResourceBelow>Πόροι από κάτω</ResourceBelow>
+  <!-- EN: Progress to next portion -->
+  <ProgressToNextPortion>Πρόοδος για το επόμενο κομμάτι</ProgressToNextPortion>
+  <!-- EN: No resources below. -->
+  <DeepDrillNoResources>Δεν υπάρχουν πόροι από κάτω</DeepDrillNoResources>
+  <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
+  <DeepDrillExhausted>Εξαντλήθηκαν οι πόροι της βαθιάς διάτρησης, το τρυπάνι απενεργοποιήθηκε αυτόματα. Ενεργοποιήσετέ το για να ξεκινήσεις την εξόρυξη του {0}. </DeepDrillExhausted>
+  <!-- EN: Deep drill resources exhausted. -->
+  <DeepDrillExhaustedNoFallback>Εξαντλήθηκαν οι πόροι της βαθιάς διάτρησης.</DeepDrillExhaustedNoFallback>
 
-  <!-- Βοηθός εκμάθησης (Learning helper) -->
+  <!-- Learning helper -->
+  <!-- EN: Learning helper -->
   <LearningHelper>Βοηθός εκμάθησης</LearningHelper>
-  <MarkLearned>Σημείωσε πως έχει το έχεις μάθει</MarkLearned>
+  <!-- EN: Mark as learned -->
+  <MarkLearned>Το γνωρίζω</MarkLearned>
+  <!-- EN: Already learned -->
   <AlreadyLearned>Το έχεις ήδη μάθει</AlreadyLearned>
+  <!-- EN: Filter -->
   <Filter>Φίλτρο</Filter>
 
-  <!-- Πυξίδα (Compass) -->
+  <!-- Compass -->
+  <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
   <CompassTip>Δείχνει την βόρεια κατεύθυνση. Κάνε κλικ για να περιστρέψεις την κάμερα ώστε ο βόρειος πόλος να είναι πάνω.</CompassTip>
 
-  <!-- Μέτρο απόστασης (Distance measure) -->
+  <!-- World route planner -->
+  <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
   <RoutePlannerButtonTip>Κάντε κλικ για να μπείτε στη λειτουργία προγραμματισμού όπου μπορείτε να σχεδιάσετε το ταξίδι σας και να υπολογίσετε την απόσταση μεταξύ των σημείων.</RoutePlannerButtonTip>
+  <!-- EN: Add two or more waypoints. -->
   <RoutePlannerAddTwoOrMoreWaypoints>Πρόσθεσε δύο ή περισσότερα σημεία.</RoutePlannerAddTwoOrMoreWaypoints>
+  <!-- EN: Add one or more waypoints. -->
   <RoutePlannerAddOneOrMoreWaypoints>Πρόσθεσε δύο ή περισσότερα σημεία.</RoutePlannerAddOneOrMoreWaypoints>
+  <!-- EN: Total route time: {0} -->
   <RoutePlannerEstTimeToFinalDest>Συνολικός χρόνος διαδρομής: {0}</RoutePlannerEstTimeToFinalDest>
-  <RoutePlannerUsingAverageTicksPerMoveWarning>Η λειτουργία προγραμματισμού χρησιμοποιεί την καθορισμένη ταχύτητα του καραβανιού. Η ταχύτητά σας μπορεί να διαφέρει.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
+  <RoutePlannerUsingAverageTicksPerMoveWarning>Υπολογίζετε η καθορισμ. ταχύτ. του καρβν. Η τχτ σας μπορεί να διαφέρει.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <!-- EN: Calculating for: {0} -->
   <RoutePlannerUsingTicksPerMoveOfCaravan>Υπολογισμός για: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <!-- EN: Right mouse button: Add/remove waypoints. -->
   <RoutePlannerPressRMBToAddAndRemoveWaypoints>Δεξί πλήκτρο ποντικιού: Προσθέτει/αφαιρεί σημεία.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <!-- EN: ESC: Exit planning mode. -->
   <RoutePlannerPressEscapeToExit>ESC: Έξοδος από την λειτουργία προγραμματισμού.</RoutePlannerPressEscapeToExit>
+  <!-- EN: ESC: Return to the caravan formation dialog. -->
   <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Επιστροφή στο πλαίσιο διαλόγου διαμόρφωσης καραβανιού.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
-  <EstimatedTimeToThisWaypoint>Εκτιμώμενος χρόνος για αυτό το σημείο: {0}</EstimatedTimeToThisWaypoint>
-  <EstimatedTimeToThisWaypointFromPrevious>Εκτιμώμενος χρόνος μεταξύ αυτού και του προηγούμενου σημείου: {0}</EstimatedTimeToThisWaypointFromPrevious>
+  <!-- EN: Est. travel time: {0} -->
+  <EstimatedTimeToWaypoint>Εκτιμώμενος χρόνος ταξιδιού: {0}</EstimatedTimeToWaypoint>
+  <!-- EN: Est. travel time (from previous waypoint): {0} -->
+  <EstimatedTimeToWaypointFromPrevious>Εκτιμώμενος χρόνος ταξιδιού (από το προηγούμενο σημείο): {0}</EstimatedTimeToWaypointFromPrevious>
+  <!-- EN: Est. travel time: {0} -->
+  <EstimatedTimeToTile>Εκτιμώμενος χρόνος ταξιδιού: {0}</EstimatedTimeToTile>
+  <!-- EN: Foraged food amount -->
+  <ForagedFoodAmount>Ποσότητα τροφής που έχει συλλεχθεί</ForagedFoodAmount>
 
-  <!-- Ντύσιμο (Outfits) -->
+  <!-- Outfits -->
+  <!-- EN: Anything -->
   <OutfitAnything>Τα πάντα</OutfitAnything>
+  <!-- EN: Worker -->
   <OutfitWorker>Εργάτη</OutfitWorker>
+  <!-- EN: Soldier -->
   <OutfitSoldier>Στρατιώτη</OutfitSoldier>
+  <!-- EN: Nudist -->
   <OutfitNudist>Γυμνιστή</OutfitNudist>
 
-  <!-- Αυτός που παραχειμάζει (Hibernatable) -->
+  <!-- Hibernatable -->
+  <!-- EN: Hibernating -->
   <HibernatableHibernating>Χειμερία νάρκη</HibernatableHibernating>
+  <!-- EN: Starting up -->
   <HibernatableStartingUp>Ξεκίνησε</HibernatableStartingUp>
+
+  <!-- Transport pods -->
+  <!-- EN: {0}: See available orders... -->
+  <ClickToSeeAvailableOrders_WorldObject>{0}: Βλέπει τις διαθέσιμε εντολές...</ClickToSeeAvailableOrders_WorldObject>
+  <!-- EN: See available orders... -->
+  <ClickToSeeAvailableOrders_Empty>Βλέπει τις διαθέσιμε εντολές...</ClickToSeeAvailableOrders_Empty>
+
 
 </LanguageData>

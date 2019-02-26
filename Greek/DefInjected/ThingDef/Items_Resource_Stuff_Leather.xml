@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bearskin -->
+  <Leather_Bear.label>δέρμα αρκούδας</Leather_Bear.label>
+  <!-- EN: The strong furry leather of a bear. Compared to most leather, it is quite a bit tougher and a bit better at all kinds of temperature regulation. -->
+  <Leather_Bear.description>Το ισχυρό γούνινο δέρμα μιας αρκούδας. Σε σύγκριση με τα περισσότερα δέρματα, είναι αρκετά πιο ανθεκτικό και λίγο καλύτερο στη ρύθμιση όλων των θερμοκρασιών.</Leather_Bear.description>
+  <Leather_Bear.stuffProps.stuffAdjective>δέρμα αρκούδας</Leather_Bear.stuffProps.stuffAdjective>
+  
+  <!-- EN: birdskin -->
+  <Leather_Bird.label>πετσί πτηνού</Leather_Bird.label>
+  <!-- EN: Tanned, dried, scraped bird skin. It is quite delicate. Without its feathers, it provides little protection from heat or cold. -->
+  <Leather_Bird.description>Αποξηραμένο, στεγνό, γδαρμένο δέρμα πουλιών. Είναι αρκετά λεπτό. Χωρίς τα φτερά του, παρέχει μικρή προστασία στη ζέστη ή στο κρύο.</Leather_Bird.description>
+  <Leather_Bird.stuffProps.stuffAdjective>πετσί πουλιού</Leather_Bird.stuffProps.stuffAdjective>
+  
+  <!-- EN: bluefur -->
+  <Leather_Bluefur.label>μπλε γούνα</Leather_Bluefur.label>
+  <!-- EN: The furry pelt of muffalo. Recognizable by its distinctive blue tint. Good at temperature regulation in cold climates. -->
+  <Leather_Bluefur.description>Το γούνινο τομάρι του μίσονα. Αναγνωρίσιμο από τη διακριτική του μπλε απόχρωση. Καλό στην ρύθμιση της θερμοκρασίας σε ψυχρά κλίματα.</Leather_Bluefur.description>
+  <Leather_Bluefur.stuffProps.stuffAdjective>μπλε γούνα</Leather_Bluefur.stuffProps.stuffAdjective>
+  
+  <!-- EN: camelhide -->
+  <Leather_Camel.label>προβιά καμήλας</Leather_Camel.label>
+  <!-- EN: Tanned, dried, scraped camel skin. Good at temperature regulation in hot climates. -->
+  <Leather_Camel.description>Αποξηραμένο, στεγνό, γδαρμένο πετσί καμήλας. Καλό στη ρύθμιση της θερμοκρασίας σε ζεστά κλίματα.</Leather_Camel.description>
+  <Leather_Camel.stuffProps.stuffAdjective>δέρμα καμήλας</Leather_Camel.stuffProps.stuffAdjective>
+  
+  <!-- EN: chinchilla fur -->
+  <Leather_Chinchilla.label>γούνα τσιντσιλά</Leather_Chinchilla.label>
+  <!-- EN: Tanned, dried, scraped chinchilla skin. Known as an extremely luxurious and insulating fur, it is exceptionally valuable. -->
+  <Leather_Chinchilla.description>Αποξηραμένο, στεγνό, γδαρμένο δέρμα τσιντσιλά. Γνωστό για την εξαιρετικά πολυτελής και μονωτική γούνα, είναι πολύ πολύτιμο.</Leather_Chinchilla.description>
+  <Leather_Chinchilla.stuffProps.stuffAdjective>τρίχωμα τσιντσιλά</Leather_Chinchilla.stuffProps.stuffAdjective>
+  
+  <!-- EN: dog leather -->
+  <Leather_Dog.label>σκυλοτόμαρο</Leather_Dog.label>
+  <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
+  <Leather_Dog.description>Αποξηραμένο, στεγνό, γδαρμένο δέρμα. Ένα καλό παραδοσιακό υλικό για ρούχα και τσάντες.</Leather_Dog.description>
+  <Leather_Dog.stuffProps.stuffAdjective>δέρμα από σκύλο</Leather_Dog.stuffProps.stuffAdjective>
+  
+  <!-- EN: elephant leather -->
+  <Leather_Elephant.label>δέρμα ελέφαντα</Leather_Elephant.label>
+  <!-- EN: Tanned, dried, scraped elephant skin. While quite tough, it is a poor insulator. -->
+  <Leather_Elephant.description>Αποξηραμένο, στεγνό, γδαρμένο δέρμα ελέφαντα.Ενώ είναι αρκετά σκληρό, είναι κακό μονωτικό.</Leather_Elephant.description>
+  <Leather_Elephant.stuffProps.stuffAdjective>δέρμα ελέφαντα</Leather_Elephant.stuffProps.stuffAdjective>
+  
+  <!-- EN: foxfur -->
+  <Leather_Fox.label>αλεποτόμαρο</Leather_Fox.label>
+  <!-- EN: The pelt of a fox. It protects well from the cold and is quite luxurious, fetching a high price. -->
+  <Leather_Fox.description>Το τομάρι μιας αλεπούς. Προστατεύει καλά από το κρύο και είναι αρκετά πολυτελές, έχει υψηλή τιμή στην αγορά.</Leather_Fox.description>
+  <Leather_Fox.stuffProps.stuffAdjective>αλεποτόμαρο</Leather_Fox.stuffProps.stuffAdjective>
+  
+  <!-- EN: heavy fur -->
+  <Leather_Heavy.label>βαριά γούνα</Leather_Heavy.label>
+  <!-- EN: Thick leather covered in a long, rugged mat of fur. Harvested from a large, hardy animal. This thick skin insulates and protects very well. -->
+  <Leather_Heavy.description>Χοντρό δέρμα καλυμμένο με μια μακριά, ανθεκτική θαμπή γούνα. Συλλέγεται από μεγάλα, σκληραγωγημένα ζώα. Αυτό το παχύ δέρμα μονώνει και προστατεύει πολύ καλά.</Leather_Heavy.description>
+  <Leather_Heavy.stuffProps.stuffAdjective>βαριά γούνα</Leather_Heavy.stuffProps.stuffAdjective>
+  
+  <!-- EN: human leather -->
+  <Leather_Human.label>ανθρώπινο δέρμα</Leather_Human.label>
+  <!-- EN: Tanned, dried, scraped human skin. Most people find this material horrifying. Some find it fascinating. While a decent leather, it neither protects nor insulates particularly well. -->
+  <Leather_Human.description>Αποξηραμένο, στεγνό, γδαρμένο ανθρώπινο δέρμα. Οι περισσότεροι άνθρωποι βρίσκουν αυτό το υλικό τρομακτικό. Ορισμένοι το βρίσκουν συναρπαστικό. Ενώ είναι ένα αξιοπρεπές δέρμα, δεν προστατεύει ούτε απομονώνει ιδιαίτερα καλά.</Leather_Human.description>
+  <Leather_Human.stuffProps.stuffAdjective>ανθρώπινο δέρμα</Leather_Human.stuffProps.stuffAdjective>
+  
+  <!-- EN: lightleather -->
+  <Leather_Light.label>ελαφρύ δέρμα</Leather_Light.label>
+  <!-- EN: Lightweight, thin leather. Probably harvested from a small animal. Not as protective as thicker leathers. -->
+  <Leather_Light.description>Ελαφρύ, λεπτό δέρμα. Πιθανώς συλλέγεται από μικρά ζώα. Δεν είναι τόσο προστατευτικό όσο τα χοντρότερα δέρματα.</Leather_Light.description>
+  <Leather_Light.stuffProps.stuffAdjective>ελαφρύ δέρμα</Leather_Light.stuffProps.stuffAdjective>
+  
+  <!-- EN: lizardskin -->
+  <Leather_Lizard.label>πετσί σαύρας</Leather_Lizard.label>
+  <!-- EN: The tanned skin of a cold-blooded reptile. Lizardskin is reasonably tough, but does not insulate well at all. -->
+  <Leather_Lizard.description>Το αποξηραμένο δέρμα ενός ψυχρού ερπετού. Το δέρμα από σαύρα είναι αρκετά σκληρό, αλλά δεν μονώνει καθόλου.</Leather_Lizard.description>
+  <Leather_Lizard.stuffProps.stuffAdjective>πετσί σαύρας</Leather_Lizard.stuffProps.stuffAdjective>
+  
+  <!-- EN: panthera fur -->
+  <Leather_Panthera.label>δέρμα αιλουροειδές</Leather_Panthera.label>
+  <!-- EN: A soft furry pelt harvested from a big cat. It is difficult to pierce and insulates well against heat. -->
+  <Leather_Panthera.description>Ένα μαλακό γούνινο πετσί που συλλέγεται από μια μεγάλη γάτα. Είναι δύσκολο να τρυπηθεί και να μονώνει καλά ενάντια στη ζέστη.</Leather_Panthera.description>
+  <Leather_Panthera.stuffProps.stuffAdjective>προβιά αιλουροειδές</Leather_Panthera.stuffProps.stuffAdjective>
+  
+  <!-- EN: patchleather -->
+  <Leather_Patch.label>μπαλωμένο δέρμα</Leather_Patch.label>
+  <!-- EN: A weak textile created by cutting up and sewing together various types of leathers. Regardless of what kind of leather is used to create it, patchleather's irregular seams make it less tough and less insulating than any intact leather. -->
+  <Leather_Patch.description>Ένα αδύναμο κλωστοϋφαντουργικό προϊόν που δημιουργείται με την κοπή και το ράψιμο διαφόρων τύπων δερμάτων. Ανεξάρτητα από το είδος του δέρματος που χρησιμοποιείται για να δημιουργηθεί, οι ακανόνιστες ραφές από δερμάτινα κομμάτια το καθιστούν λιγότερο ανθεκτικό και λιγότερο μονωτικό από οποιοδήποτε άθικτο δέρμα.</Leather_Patch.description>
+  
+  <!-- EN: pigskin -->
+  <Leather_Pig.label>γουρουνόπετσα</Leather_Pig.label>
+  <!-- EN: Tanned, dried, scraped pig skin. While a decent leather, it neither protects nor insulates particularly well. -->
+  <Leather_Pig.description>Αποξηραμένο, στεγνό, γδαρμένο δέρμα γουρουνιού.Ενώ είναι ένα αξιοπρεπές δέρμα, δεν προστατεύει ούτε απομονώνει ιδιαίτερα καλά.</Leather_Pig.description>
+  <Leather_Pig.stuffProps.stuffAdjective>γουρουνόπετσα</Leather_Pig.stuffProps.stuffAdjective>
+  
+  <!-- EN: plainleather -->
+  <Leather_Plain.label>απλό δέρμα</Leather_Plain.label>
+  <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
+  <Leather_Plain.description>Αποξηραμένο, στεγνό, γδαρμένο δέρμα. Ένα καλό παραδοσιακό υλικό για ρούχα και τσάντες.</Leather_Plain.description>
+  <Leather_Plain.stuffProps.stuffAdjective>απλό δέρμα</Leather_Plain.stuffProps.stuffAdjective>
+  
+  <!-- EN: rhinoceros leather -->
+  <Leather_Rhinoceros.label>δέρμα ρινόκερου</Leather_Rhinoceros.label>
+  <!-- EN: Tanned, dried, scraped rhinocerous skin. It is exceptionally durable in combat, but provides little protection from weather. -->
+  <Leather_Rhinoceros.description>Αποξηραμένο, στεγνό, γδαρμένο δέρμα ρινόκερου.Είναι εξαιρετικά ανθεκτικό στην μάχη, αλλά παρέχει μικρή προστασία από τις καιρικές συνθήκες.</Leather_Rhinoceros.description>
+  <Leather_Rhinoceros.stuffProps.stuffAdjective>δέρμα ρινόκερου</Leather_Rhinoceros.stuffProps.stuffAdjective>
+  
+  <!-- EN: thrumbofur -->
+  <Leather_Thrumbo.label>θρουμπόγουνα</Leather_Thrumbo.label>
+  <!-- EN: Furry pelt of a thrumbo. Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength. -->
+  <Leather_Thrumbo.description>Το γούνινο τρίχωμα του θρούμπο. Πολυτελή και εξαιρετικά ανθεκτικό. Χρησιμοποιείται σε χειροτεχνίες υψηλής ποιότητας για τη μόνωση και την αντοχή τους.</Leather_Thrumbo.description>
+  <Leather_Thrumbo.stuffProps.stuffAdjective>θρουμπόγουνα</Leather_Thrumbo.stuffProps.stuffAdjective>
+  
+  <!-- EN: wolfskin -->
+  <Leather_Wolf.label>λυκοτόμαρο</Leather_Wolf.label>
+  <!-- EN: A soft furry pelt harvested from a wolf-like creature. It is difficult to pierce and insulates well against cold. -->
+  <Leather_Wolf.description>Ένα μαλακό γούνινο τομάρι που μαζεύτηκε από ένα πλάσμα που μοιάζει με λύκο. Είναι δύσκολο να τρυπηθούν και να μονώνουν καλά από το κρύο.</Leather_Wolf.description>
+  <Leather_Wolf.stuffProps.stuffAdjective>λυκοτόμαρο</Leather_Wolf.stuffProps.stuffAdjective>
+  
+</LanguageData>

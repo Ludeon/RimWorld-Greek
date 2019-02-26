@@ -1,19 +1,43 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: heatstroke -->
   <Heatstroke.label>θερμοπληξία</Heatstroke.label>
-  <Heatstroke.stages.0.label>αρχική</Heatstroke.stages.0.label>
-  <Heatstroke.stages.1.label>αρχική</Heatstroke.stages.1.label>
-  <Heatstroke.stages.2.label>ελαφριά</Heatstroke.stages.2.label>
-  <Heatstroke.stages.3.label>σοβαρή</Heatstroke.stages.3.label>
-  <Heatstroke.stages.4.label>ακραία</Heatstroke.stages.4.label>
-
+  <!-- EN: initial -->
+  <Heatstroke.stages.initial-0.label>αρχική</Heatstroke.stages.initial-0.label>
+  <!-- EN: initial -->
+  <Heatstroke.stages.initial-1.label>αρχική</Heatstroke.stages.initial-1.label>
+  <!-- EN: minor -->
+  <Heatstroke.stages.minor.label>ελαφριά</Heatstroke.stages.minor.label>
+  <!-- EN: serious -->
+  <Heatstroke.stages.serious.label>σοβαρή</Heatstroke.stages.serious.label>
+  <!-- EN: extreme -->
+  <Heatstroke.stages.extreme.label>ακραία</Heatstroke.stages.extreme.label>
+  
+  <!-- EN: hypothermia -->
   <Hypothermia.label>υποθερμία</Hypothermia.label>
-  <Hypothermia.stages.0.label>τρέμουλο</Hypothermia.stages.0.label>
-  <Hypothermia.stages.1.label>ελαφριά</Hypothermia.stages.1.label>
-  <Hypothermia.stages.2.label>κρυάδες</Hypothermia.stages.2.label>
-  <Hypothermia.stages.3.label>σοβαρή</Hypothermia.stages.3.label>
-  <Hypothermia.stages.4.label>ακραία</Hypothermia.stages.4.label>
-
-
+  <!-- EN: shivering -->
+  <Hypothermia.stages.shivering-0.label>τρέμουλο</Hypothermia.stages.shivering-0.label>
+  <!-- EN: shivering -->
+  <Hypothermia.stages.shivering-1.label>ελαφριά</Hypothermia.stages.shivering-1.label>
+  <!-- EN: minor -->
+  <Hypothermia.stages.minor.label>κρυάδες</Hypothermia.stages.minor.label>
+  <!-- EN: serious -->
+  <Hypothermia.stages.serious.label>σοβαρή</Hypothermia.stages.serious.label>
+  <!-- EN: extreme -->
+  <Hypothermia.stages.extreme.label>ακραία</Hypothermia.stages.extreme.label>
+  
+  <!-- EN: hypothermic slowdown -->
+  <HypothermicSlowdown.label>υποθερμική κατατονία</HypothermicSlowdown.label>
+  <!-- EN: minor -->
+  <HypothermicSlowdown.stages.minor-0.label>ελαφριά</HypothermicSlowdown.stages.minor-0.label>
+  <!-- EN: minor -->
+  <HypothermicSlowdown.stages.minor-1.label>μικρή</HypothermicSlowdown.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <HypothermicSlowdown.stages.moderate.label>μέτρια</HypothermicSlowdown.stages.moderate.label>
+  <!-- EN: serious -->
+  <HypothermicSlowdown.stages.serious.label>σοβαρή</HypothermicSlowdown.stages.serious.label>
+  <!-- EN: extreme -->
+  <HypothermicSlowdown.stages.extreme.label>υπερβολική</HypothermicSlowdown.stages.extreme.label>
+  
 </LanguageData>

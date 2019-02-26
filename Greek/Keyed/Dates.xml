@@ -1,14 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Time -->
   <ClockTime>Ώρα</ClockTime>
+  <!-- EN: Date -->
   <ClockDate>Ημερομηνία</ClockDate>
+  <!-- EN: Year -->
   <ClockYear>Έτος</ClockYear>
-  <DateReadoutTip>Ημέρες που πέρασαν από την άφιξή σου: {0}\nΗ κάθε εποχή έχει {1} ημέρες.\nΤρέχουσα εποχή: {2}</DateReadoutTip>
+  <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
+  <DateReadoutTip>Έχουν περάσει {0} ημέρες από την άφιξή σου.\nΤρέχον τετράκιο: {4}\nΤοπική εποχή: {2}\n\nΤο έτος διαιρείται σε 4 τετράκια με {3} ημέρες το καθένα. Τα τετράκια είναι τα ίδια παντού, ενώ οι εποχές είναι διαφορετικές σε διαφορετικά μέρη.\n\nΤοπικές εποχές για κάθε τετράκιο:\n{5}</DateReadoutTip>
 
-  <FullDate>{0} από {1}, {2}</FullDate>
-  <DateReadout>{0} από {1}, {2}</DateReadout>
-  <SeasonFullDate>{0} από {1}</SeasonFullDate>
+  <!-- EN: {0} of {1}, {2} -->
+  <FullDate>{0} {1} του {2}</FullDate>
+  <!-- EN: {0} of {1}, {2} -->
+  <DateReadout>{0} {1} του {2}</DateReadout>
+  <!-- EN: {0} of {1} -->
+  <SeasonFullDate>{0} {1}</SeasonFullDate>
+  <!-- EN: Whole year -->
   <WholeYear>Ολόκληρο έτος</WholeYear>
-
+  
 </LanguageData>

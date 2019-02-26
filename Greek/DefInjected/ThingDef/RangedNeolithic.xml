@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: greatbow arrow -->
+  <Arrow_Great.label>βέλος μεγάλου τόξου</Arrow_Great.label>
+  
+  <!-- EN: recurve bow arrow -->
+  <Arrow_Recurve.label>βέλος κυρτού τόξου</Arrow_Recurve.label>
+  
+  <!-- EN: shortbow arrow -->
+  <Arrow_Short.label>βέλος μικρού τόξου</Arrow_Short.label>
+  
+  <!-- EN: greatbow -->
+  <Bow_Great.label>μεγάλο τόξο</Bow_Great.label>
+  <!-- EN: A powerful greatbow. Fires a heavy arrow long distances. -->
+  <Bow_Great.description>Ένα ισχυρό τόξο. Εκτοξεύει βέλη που μπορούν να διανύσουν μεγάλες αποστάσεις.</Bow_Great.description>
+  <!-- EN: limb -->
+  <Bow_Great.tools.limb.label>βέργα</Bow_Great.tools.limb.label>
+  <!-- EN: greatbow -->
+  <Bow_Great.verbs.Verb_Shoot.label>μεγάλο τόξο</Bow_Great.verbs.Verb_Shoot.label>
+  
+  <!-- EN: recurve bow -->
+  <Bow_Recurve.label>κυρτό τόξο</Bow_Recurve.label>
+  <!-- EN: A recurve bow. Its construction behaves like a tuned spring, storing energy more efficiently and delivering a faster shot. -->
+  <Bow_Recurve.description>Ένα προχωρημένο κυρτό τόξο. Η κατασκευή του λειτουργεί σαν ένα συντονισμένο ελατήριο, που αποθηκεύει ενέργεια πιο αποτελεσματικά και παρέχει πιο γρήγορη βολή.</Bow_Recurve.description>
+  <!-- EN: limb -->
+  <Bow_Recurve.tools.limb.label>βέργα</Bow_Recurve.tools.limb.label>
+  <!-- EN: recurve bow -->
+  <Bow_Recurve.verbs.Verb_Shoot.label>κυρτό τόξο</Bow_Recurve.verbs.Verb_Shoot.label>
+  
+  <!-- EN: short bow -->
+  <Bow_Short.label>μικρό τόξο</Bow_Short.label>
+  <!-- EN: A simple short selfbow made from a single piece of wood. -->
+  <Bow_Short.description>Ένα απλό μικρό τόξο από ένα μόνο κομμάτι ξύλου.</Bow_Short.description>
+  <!-- EN: limb -->
+  <Bow_Short.tools.limb.label>βέργα</Bow_Short.tools.limb.label>
+  <!-- EN: short bow -->
+  <Bow_Short.verbs.Verb_Shoot.label>μικρό τόξο</Bow_Short.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pila -->
+  <Pila.label>ακόντια πίλα</Pila.label>
+  <!-- EN: Pila are spears for throwing. They take a long time to throw, but one hit can do heavy damage. This weapon represents a bundle of pila and can be thrown over and over. The singular of pila is pilum. -->
+  <Pila.description>Τα πίλα είναι δόρατα για ρίψη. Χρειάζονται αρκετό χρόνο για να ριχτούν και κινούνται αργά, αλλά ένα χτύπημα μπορεί να κάνει μεγάλες ζημιές. Αυτό το όπλο αντιπροσωπεύει μια δέσμη πίλα τα οποία εκσφενδονίζονται διαδοχικά. Ο ενικός του πίλα είναι πίλουμ.</Pila.description>
+  <!-- EN: shaft -->
+  <Pila.tools.shaft.label>κοντάρι</Pila.tools.shaft.label>
+  <!-- EN: point -->
+  <Pila.tools.point.label>μύτη</Pila.tools.point.label>
+  <!-- EN: pila -->
+  <Pila.verbs.Verb_Shoot.label>ακόντια πίλα</Pila.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pilum -->
+  <Pilum_Thrown.label>ακόντιο πίλουμ</Pilum_Thrown.label>
+  
+</LanguageData>

@@ -1,14 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: arid shrubland -->
   <AridShrubland.label>ξηρή θαμνώδης έκταση</AridShrubland.label>
-  <AridShrubland.description>Μια ξηρή περιοχή, αλλά όχι αρκετά ξηρή για να γίνει πραγματική έρημος. Οι ανοικτές πεδιάδες με χορτάρια και θάμνους δίνουν τη θέση τους σε άλση από δέντρα. Τα φυτά είναι ανθεκτικά και υπάρχει μέτρια πυκνότητα ζώων.</AridShrubland.description>
-
+  <!-- EN: A dry region, but not dry enough to become a true desert. Open plains with grasses and bushes give way to scattered groves of trees. Plants are hardy and there is a moderate density of animals, but arable soil is hard to find. -->
+  <AridShrubland.description>Μια ξηρή περιοχή, αλλά όχι αρκετά ξηρή για να γίνει πραγματική έρημος. Οι ανοικτές πεδιάδες με χορτάρια και θάμνους δίνουν τη θέση τους σε άλση από δέντρα. Τα φυτά είναι ανθεκτικά και υπάρχει μέτρια πυκνότητα ζώων, αλλά καλλιεργήσιμο έδαφος είναι δύσκολο να βρεθεί.</AridShrubland.description>
+  
+  <!-- EN: desert -->
   <Desert.label>έρημος</Desert.label>
-  <Desert.description>Μια πολύ ξηρή περιοχή που υποστηρίζει ελάχιστη ζωή. Οι έρημοι μπορεί να είναι ζεστές ή αρκετά κρύες.</Desert.description>
-
+  <!-- EN: A very dry area which supports little life. There is very little arable land, and animal life is very sparse. Deserts can be hot, or quite cold. -->
+  <Desert.description>Μια πολύ ξηρή περιοχή που υποστηρίζει ελάχιστη ζωή. Υπάρχει πολύ λίγη καλλιεργήσιμη γη και η ζωική ζωή είναι πολύ αραιή. Οι έρημοι μπορεί να είναι ζεστές ή αρκετά κρύες.</Desert.description>
+  
+  <!-- EN: extreme desert -->
   <ExtremeDesert.label>ακραία έρημος</ExtremeDesert.label>
-  <ExtremeDesert.description>Μια εξαιρετικά ζεστή, ξηρή περιοχή, απαλλαγμένη από σχεδόν από όλα τα ζωντανά πλάσματα. Η υψηλή θερμότητα και η περιορισμένη βλάστηση καθιστούν πολύ δύσκολο να επιβιώσουν εδώ, ακόμη και τα καλά προσαρμοσμένα ζώα.</ExtremeDesert.description>
-
-
+  <!-- EN: An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here. -->
+  <ExtremeDesert.description>Μια εξαιρετικά ζεστή, ξηρή περιοχή, απαλλαγμένη από σχεδόν από όλα τα ζωντανά πλάσματα. Η υψηλή θερμότητα και η σχεδόν ολική έλλειψη καλλιεργήσιμης γης καθιστά πολύ δύσκολη την επιβίωση εδώ.</ExtremeDesert.description>
+  
 </LanguageData>

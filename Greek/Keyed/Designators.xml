@@ -1,125 +1,228 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Cancel -->
   <DesignatorCancel>Ακύρωση</DesignatorCancel>
+  <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
   <DesignatorCancelDesc>Ακυρώστε τη καθορισμένη κατασκευή, εξόρυξη, μεταφορά, συγκομιδή και όλες τις άλλες εργασίες.</DesignatorCancelDesc>
 
+  <!-- EN: Cut plants -->
   <DesignatorCutPlants>Κοπή φυτών</DesignatorCutPlants>
+  <!-- EN: Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
   <DesignatorCutPlantsDesc>Επισημαίνει τα φυτά που πρέπει να κοπούν και να καταστραφούν. Το φυτό θα αφαιρεθεί εντελώς και θα μαζευτεί οποιαδήποτε τροφή ή πόρος αποδοθεί.</DesignatorCutPlantsDesc>
 
+  <!-- EN: Deconstruct -->
   <DesignatorDeconstruct>Αποδόμηση</DesignatorDeconstruct>
+  <!-- EN: Deconstruct this and reclaim part of its resources. -->
   <DesignatorDeconstructDesc>Αποσυνθέστε το και αποκαταστήστε ένα μέρος των πόρων του.</DesignatorDeconstructDesc>
 
-  <DesignatorUninstall>Απεγκατάσταση</DesignatorUninstall>
+  <!-- EN: Uninstall -->
+  <DesignatorUninstall>Απεγκατάστ.</DesignatorUninstall>
+  <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
   <DesignatorUninstallDesc>Καταργήστε την εγκατάσταση, ώστε να μπορεί να μετακινηθεί, να πωληθεί ή να εγκατασταθεί κάπου αλλού.</DesignatorUninstallDesc>
 
+  <!-- EN: Harvest -->
   <DesignatorHarvest>Συγκομιδή</DesignatorHarvest>
+  <!-- EN: Marks plants to be harvested for their food or other products. -->
   <DesignatorHarvestDesc>Επισημαίνει τα φυτά που θα συγκομιστούν για τα τρόφιμά τους ή άλλα προϊόντα.</DesignatorHarvestDesc>
 
+  <!-- EN: Chop wood -->
   <DesignatorHarvestWood>Κοπή ξύλου</DesignatorHarvestWood>
+  <!-- EN: Marks trees to be chopped down for wood. -->
   <DesignatorHarvestWoodDesc>Επισημαίνει τα δέντρα που θα υλοτομηθούν για ξύλο.</DesignatorHarvestWoodDesc>
 
+  <!-- EN: Haul things -->
   <DesignatorHaulThings>Μεταφορά αντικειμένων</DesignatorHaulThings>
+  <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
   <DesignatorHaulThingsDesc>Επισημαίνει τα κομμάτια βράχου και άλλα αντικείμενα που πρέπει να μεταφερθούν σε χώρους απόρριψης. Δεν χρειάζεται για πράγματα όπως το φαγητό ή τα πτώματα, τα οποία είναι πάντα διαθέσιμα προς μεταφορά.</DesignatorHaulThingsDesc>
-  <MustHaulHaulables>Μπορεί να υποδηλώνει μεταφορά μόνο εκτός των όχι πάντα μεταφερόμενων αντικειμένων (όπως κομμάτια βράχου).</MustHaulHaulables>
+  <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
+  <MustHaulHaulables>Μπορεί να υποδηλωθεί μεταφορά μόνο στων εκτός όχι-πάντα-μεταφερόμενων αντικειμένων (όπως κομμάτια βράχου).</MustHaulHaulables>
 
+  <!-- EN: Hunt -->
   <DesignatorHunt>Κυνήγι</DesignatorHunt>
+  <!-- EN: Mark animals to be hunted by your hunters. -->
   <DesignatorHuntDesc>Επισημαίνει τα ζώα τα οποία θα θυρευτούν από τους κυνηγούς σου.</DesignatorHuntDesc>
 
+  <!-- EN: Mine -->
   <DesignatorMine>Εξόρυξη</DesignatorMine>
+  <!-- EN: Designate areas of rock to be mined out. -->
   <DesignatorMineDesc>Προσδιορίζει περιοχές πετρωμάτων που θα εξορυχτούν.</DesignatorMineDesc>
 
-  <DesignatorSmoothFloor>Λείανση δαπέδου</DesignatorSmoothFloor>
-  <DesignatorSmoothFloorDesc>Ορίζει το τραχύ πέτρινο έδαφος που θα εξομαλυνθεί.</DesignatorSmoothFloorDesc>
+  <!-- EN: Smooth surface -->
+  <DesignatorSmoothSurface>Λείανση επιφάνειας</DesignatorSmoothSurface>
+  <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
+  <DesignatorSmoothSurfaceDesc>Προσδιορίζει το ανώμαλο πέτρινο έδαφος και τους τοίχους για εξομάλυνση.</DesignatorSmoothSurfaceDesc>
 
+  <!-- EN: Plan -->
   <DesignatorPlan>Πλάνο</DesignatorPlan>
+  <!-- EN: Place planning designations. These don't do anything except help you plan future expansions. -->
   <DesignatorPlanDesc>Ορίζει μελλοντικές εργασίες. Αυτό δεν κάνει τίποτα εκτός από ότι σας βοηθάει να σχεδιάσετε μελλοντικές επεκτάσεις.</DesignatorPlanDesc>
 
+  <!-- EN: Remove plans -->
   <DesignatorPlanRemove>Αφαίρεση πλάνων</DesignatorPlanRemove>
+  <!-- EN: Remove planning designations. -->
   <DesignatorPlanRemoveDesc>Αφαιρεί σχεδιασμένες αναθέσεις εργασιών.</DesignatorPlanRemoveDesc>
 
+  <!-- EN: Forbid -->
+  <DesignatorForbid>Απαγόρευση</DesignatorForbid>
+  <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
+  <DesignatorForbidDesc>Επισημαίνει τα αντικείμενα ως απαγορευμένα. Οι άποικοι δεν θα μπορούν να αλληλεπιδρούν με τα καθορισμένα αντικείμενα.</DesignatorForbidDesc>
+
+  <!-- EN: Allow -->
+  <DesignatorUnforbid>Χορήγηση</DesignatorUnforbid>
+  <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
+  <DesignatorUnforbidDesc>Επισημαίνει τα αντικείμενα ως επιτρεπόμενα. Οι άποικοι θα μπορούν να αλληλεπιδρούν με τα καθορισμένα αντικείμενα.</DesignatorUnforbidDesc>
+
+  <!-- EN: Expand home area -->
   <DesignatorAreaHomeExpand>Επέκταση περιοχής σπιτιού</DesignatorAreaHomeExpand>
+  <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
   <DesignatorAreaHomeExpandDesc>Οι άποικοι θα επισκευάζουν κτίρια, θα καθαρίζουν πατώματα και θα σβήνουν φωτιές μόνο στη περιοχή σπιτιού.</DesignatorAreaHomeExpandDesc>
+  <!-- EN: Clear home area -->
   <DesignatorAreaHomeClear>Διαγραφή περιοχής σπιτιού</DesignatorAreaHomeClear>
+  <!-- EN: Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
   <DesignatorAreaHomeClearDesc>Αφαιρεί μία περιοχή σπιτιού. Οι άποικοι δεν θα μπορούν πλέων να καθαρίζουν, επισκευάζουν ή να σβήνουν φωτιές εκεί.</DesignatorAreaHomeClearDesc>
 
+  <!-- EN: Build roof area -->
   <DesignatorAreaBuildRoofExpand>Περιοχή κατασκευής οροφής</DesignatorAreaBuildRoofExpand>
+  <!-- EN: Colonists will build roofs in this area. -->
   <DesignatorAreaBuildRoofExpandDesc>Οι άποικοι θα κατασκευάσουν οροφές σε αυτή την περιοχή.</DesignatorAreaBuildRoofExpandDesc>
 
+  <!-- EN: Remove roof area -->
   <DesignatorAreaNoRoofExpand>Περιοχή αφαίρεσης οροφής</DesignatorAreaNoRoofExpand>
+  <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
   <DesignatorAreaNoRoofExpandDesc>Οι άποικοι θα αφαιρέσουν τις οροφές σε αυτή την περιοχή (εκτός αν από πάνω υπάρχει βουνό, το οποίο δεν μπορεί να αφαιρεθεί).</DesignatorAreaNoRoofExpandDesc>
 
+  <!-- EN: Ignore roof area -->
   <DesignatorAreaIgnoreRoofExpand>Αγνόηση περιοχή οροφής</DesignatorAreaIgnoreRoofExpand>
+  <!-- EN: Colonists will ignore roofs in this area. -->
   <DesignatorAreaIgnoreRoofExpandDesc>Οι άποικοι θα αγνοήσουν τις οροφές σε αυτή την περιοχή.</DesignatorAreaIgnoreRoofExpandDesc>
 
+  <!-- EN: Expand snow clear area -->
   <DesignatorAreaSnowClearExpand>Επέκταση περιοχής καθαρισμού χιονιού</DesignatorAreaSnowClearExpand>
+  <!-- EN: Create a area which colonists will try to keep clear of snow. -->
   <DesignatorAreaSnowClearExpandDesc>Δημιουργεί μία περιοχή την οποία οι άποικοι θα προσπαθήσουν να την έχουν καθαρή από χιόνι.</DesignatorAreaSnowClearExpandDesc>
+  <!-- EN: Clear snow clear Area -->
   <DesignatorAreaSnowClearClear>Διαγραφή περιοχής καθαρισμού χιονιού</DesignatorAreaSnowClearClear>
+  <!-- EN: Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow. -->
   <DesignatorAreaSnowClearClearDesc>Αφαιρεί μία περιοχή καθαρισμού χιονιού. Οι άποικοι δεν θα προσπαθήσουν να την κρατήσουν καθαρή από χιόνι.</DesignatorAreaSnowClearClearDesc>
 
+  <!-- EN: Expand allowed area -->
   <DesignatorExpandAreaAllowed>Επέκταση επιτρεπόμενης περιοχής</DesignatorExpandAreaAllowed>
-  <DesignatorExpandAreaAllowedDesc>Επεκτείνει μία επιτρεπόμενη περιοχή.\n\nΕπιτρεπόμενες περιοχές είναι οι περιοχές που σχετίζονται με του αποίκους.Οι άποικοι δεν θα δέχονται εργασία ή δεν εκπληρώνουν τις ανάγκες τους εκτός της επιτρεπόμενης περιοχής τους.</DesignatorExpandAreaAllowedDesc>
+  <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
+  <DesignatorExpandAreaAllowedDesc>Επεκτείνει μία επιτρεπόμενη περιοχή.\n\nΕπιτρεπόμενες περιοχές είναι οι περιοχές που σχετίζονται με του αποίκους. Οι άποικοι δεν θα δέχονται εργασία ή δεν εκπληρώνουν τις ανάγκες τους εκτός της επιτρεπόμενης περιοχής τους.</DesignatorExpandAreaAllowedDesc>
+  <!-- EN: Clear allowed area -->
   <DesignatorClearAreaAllowed>Διαγραφή επιτρεπόμενης περιοχής</DesignatorClearAreaAllowed>
-  <DesignatorClearAreaAllowedDesc>Αφαιρεί τμήματα από μία επιτρεπόμενη περιοχή.\n\nΕπιτρεπόμενη περιοχή είναι οι περιοχές που σχετίζονται με του αποίκους.Οι άποικοι δεν θα δέχονται εργασία ή δεν εκπληρώνουν τις ανάγκες τους εκτός της επιτρεπόμενης περιοχής τους.</DesignatorClearAreaAllowedDesc>
+  <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
+  <DesignatorClearAreaAllowedDesc>Αφαιρεί τμήματα από μία επιτρεπόμενη περιοχή.\n\nΕπιτρεπόμενη περιοχή είναι η περιοχή που σχετίζεται με του αποίκους. Οι άποικοι δεν θα δέχονται εργασία ή δεν εκπληρώνουν τις ανάγκες τους εκτός της επιτρεπόμενης περιοχής τους.</DesignatorClearAreaAllowedDesc>
+  <!-- EN: Manage areas... -->
   <ManageAreas>Διαχείριση περιοχών...</ManageAreas>
 
-  <DesignatorGrowingZoneDesc>Δημιουργεί μια περιοχή όπου οι άποικοί σας θα προσπαθήσουν να καλλιεργήσουν ένα συγκεκριμένο είδος φυτού.</DesignatorGrowingZoneDesc>
+  <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
+  <DesignatorGrowingZoneDesc>Δημιουργεί μια περιοχή όπου οι άποικοί σου θα προσπαθήσουν να καλλιεργήσουν ένα συγκεκριμένο είδος φυτού.</DesignatorGrowingZoneDesc>
 
+  <!-- EN: Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile. -->
   <DesignatorZoneCreateStorageResourcesDesc>Δημιουργεί έναν αποθηκευτικό χώρο όπου οι άποικοι θα αποθηκεύσουν πόρους.\nΑυτό το εργαλείο μπορεί επίσης να επεκτείνει οποιαδήποτε υπάρχον αποθηκευτικό χώρο.</DesignatorZoneCreateStorageResourcesDesc>
 
+  <!-- EN: Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile. -->
   <DesignatorZoneCreateStorageDumpingDesc>Δημιουργεί έναν αποθηκευτικό χώρο όπου οι άποικοι θα αποθηκεύσουν σκουπίδια.\nΑυτό το εργαλείο μπορεί επίσης να επεκτείνει οποιαδήποτε υπάρχον αποθηκευτικό χώρο.</DesignatorZoneCreateStorageDumpingDesc>
 
-  <DesignatorZoneDelete>Διαγραφή περιοχής</DesignatorZoneDelete>
-  <DesignatorZoneDeleteDesc>Αφαιρεί περιοχές όπως αποθηκευτικούς χώρους ή ζώνες καλλιέργειας.</DesignatorZoneDeleteDesc>
+  <!-- EN: Shrink zones -->
+  <DesignatorZoneDelete>Συρρίκνωση περιοχών</DesignatorZoneDelete>
+  <!-- EN: Shrink zone -->
+  <DesignatorZoneDeleteSingular>Συρρίκνωση περιοχής</DesignatorZoneDeleteSingular>
+  <!-- EN: Remove zones, like stockpile zones or growing zones. -->
+  <DesignatorZoneDeleteDesc>Αφαιρεί περιοχές, όπως αποθηκευτικούς χώρους ή ζώνες καλλιέργειας.</DesignatorZoneDeleteDesc>
 
+  <!-- EN: Expand zone -->
+  <DesignatorZoneExpand>Επέκταση περιοχής</DesignatorZoneExpand>
+  
+  <!-- EN: Claim -->
   <DesignatorClaim>Διεκδίκηση</DesignatorClaim>
+  <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
   <DesignatorClaimDesc>Διεκδικεί ουδέτερες κατασκευές για την αποικία, συμπεριλαμβανομένων αρχαίων ερειπίων και εγκαταλελειμμένων πολιορκητικών βάσεων. Οι διεκδικημένες δομές μπορούν να επισκευαστούν και να συντηρηθούν από τους αποίκους σας.</DesignatorClaimDesc>
 
+  <!-- EN: Remove floor -->
   <DesignatorRemoveFloor>Αφαίρεση πατώματος</DesignatorRemoveFloor>
-  <DesignatorRemoveFloorDesc>Αφαιρέστε τα δάπεδα για να αποκαλύψετε το έδαφος από κάτω.</DesignatorRemoveFloorDesc>
+  <!-- EN: Remove floors to reveal the terrain underneath. -->
+  <DesignatorRemoveFloorDesc>Αφαίρεσε τα δάπεδα για να αποκαλύψεις το έδαφος από κάτω.</DesignatorRemoveFloorDesc>
 
+  <!-- EN: Remove bridge -->
+  <DesignatorRemoveBridge>Αφαίρεση γέφυρας</DesignatorRemoveBridge>
+  <!-- EN: Remove bridges to reveal the terrain underneath. -->
+  <DesignatorRemoveBridgeDesc>Αφαιρεί τις γέφυρες ώστε να εμφανιστεί το έδαφος από κάτω.</DesignatorRemoveBridgeDesc>
+
+  <!-- EN: Strip -->
   <DesignatorStrip>Ξεγύμνωμα</DesignatorStrip>
+  <!-- EN: Strip apparel from corpses and the wounded. -->
   <DesignatorStripDesc>Ξεγυμνώνει τα πτώματα και τους τραυματίες από τα ενδύματα τους.</DesignatorStripDesc>
 
-  <DesignatorRearmTrap>Ενεργοποίηση παγίδας</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>Ξαναοπλίζει μια παγίδα, έτσι ώστε να μπορεί να ενεργοποιηθεί ξανά.</DesignatorRearmTrapDesc>
-
+  <!-- EN: Open -->
   <DesignatorOpen>Άνοιγμα</DesignatorOpen>
+  <!-- EN: Open containers. -->
   <DesignatorOpenDesc>Άνοιγμα εμπορευματοκιβωτίου.</DesignatorOpenDesc>
-
+  
+  <!-- EN: Slaughter -->
   <DesignatorSlaughter>Σφάξιμο</DesignatorSlaughter>
+  <!-- EN: Slaughter a tame animal. -->
   <DesignatorSlaughterDesc>Σφαγή ενός εξημερωμένου ζώου.</DesignatorSlaughterDesc>
 
+  <!-- EN: Tame -->
   <DesignatorTame>Εξημέρωση</DesignatorTame>
+  <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>Εξημερώνει ένα άγριο ζώο.</DesignatorTameDesc>
 
-
-  <!-- Μηνύματα αποτυχίας (Failure messages) -->
+  <!-- Failure messages -->
+  <!-- EN: Unchosen material -->
   <UnchosenStuff>Μη επιλεγμένο υλικό.</UnchosenStuff>
+  <!-- EN: Too close to map edge. -->
   <TooCloseToMapEdge>Πάρα πολύ κοντά στην άκρη του χάρτη.</TooCloseToMapEdge>
+  <!-- EN: Out of bounds. -->
   <OutOfBounds>Εκτός ορίων.</OutOfBounds>
+  <!-- EN: Cannot place in undiscovered areas. -->
   <CannotPlaceInUndiscovered>Δεν μπορεί να τοποθετηθεί σε περιοχές που δεν έχουν ανακαλυφθεί.</CannotPlaceInUndiscovered>
-  <InteractionSpotBlocked>Το σημείο αλληλεπίδρασης είναι μπλοκαρισμένο από {0}.</InteractionSpotBlocked>
+  <!-- EN: Interaction spot is blocked by {1_labelShort}. -->
+  <InteractionSpotBlocked>Το σημείο αλληλεπίδρασης είναι μπλοκαρισμένο από {1_labelShort}.</InteractionSpotBlocked>
+  <!-- EN: Interaction spot is out of bounds. -->
   <InteractionSpotOutOfBounds>Το σημείο αλληλεπίδρασης είναι εκτός ορίων.</InteractionSpotOutOfBounds>
-  <InteractionSpotWillBeBlocked>Το σημείο αλληλεπίδρασης θα μπλοκαριστεί από {0}.</InteractionSpotWillBeBlocked>
+  <!-- EN: Interaction spot will be blocked by {1_labelShort}. -->
+  <InteractionSpotWillBeBlocked>Το σημείο αλληλεπίδρασης θα μπλοκαριστεί από {1_labelShort}.</InteractionSpotWillBeBlocked>
+  <!-- EN: {0} would block {1}'s interaction spot. -->
   <WouldBlockInteractionSpot>{0} θα εμπόδιζε το σημείο αλληλεπίδρασης του {1}.</WouldBlockInteractionSpot>
+  <!-- EN: The terrain here is already {0}. -->
   <TerrainIsAlready>Το έδαφος εδώ είναι ήδη {0}.</TerrainIsAlready>
-  <TerrainBeingSmoothed>Το έδαφος έχει ήδη επιλεγεί για λείανση.</TerrainBeingSmoothed>
+  <!-- EN: The surface is already marked for smoothing. -->
+  <SurfaceBeingSmoothed>Η επιφάνεια έχει ήδη επιλεγεί για λείανση.</SurfaceBeingSmoothed>
+  <!-- EN: Identical thing already exists here. -->
   <IdenticalThingExists>Πανομοιότυπο αντικείμενο υπάρχει ήδη εδώ.</IdenticalThingExists>
+  <!-- EN: Identical blueprint already exists here. -->
   <IdenticalBlueprintExists>Πανομοιότυπο σχεδιάγραμμα υπάρχει ήδη εδώ.</IdenticalBlueprintExists>
+  <!-- EN: The terrain here cannot support this. -->
   <TerrainCannotSupport>Το έδαφος εδώ δεν το υποστηρίζει αυτό.</TerrainCannotSupport>
+  <!-- EN: {0_label} requires terrain that can support: {1_label} -->
+  <TerrainCannotSupport_TerrainAffordance>Το {0_label} απαιτεί έδαφος που μπορεί να υποστηρίξει: {1_label}</TerrainCannotSupport_TerrainAffordance>
+  <!-- EN: Space already occupied. -->
   <SpaceAlreadyOccupied>Ο χώρος έχει ήδη καταληφθεί.</SpaceAlreadyOccupied>
+  <!-- EN: Space being smoothed. -->
   <SpaceBeingSmoothed>Ο χώρος είναι εξομαλυμένος.</SpaceBeingSmoothed>
-  <TerrainMustBeRemovable>Πρέπει να στοχοποιήσετε ένα αφαιρούμενο δάπεδο.</TerrainMustBeRemovable>
-
-
-  <!-- Συνδέσεις ποντικιού (Mouse attachments) -->
+  <!-- EN: Must target a removable floor. -->
+  <TerrainMustBeRemovable>Πρέπει να στοχοποιήσεις ένα αφαιρούμενο δάπεδο.</TerrainMustBeRemovable>
+  <!-- EN: The waterwheel must be on moving water. -->
+  <MustBeOnMovingWater>Ο υδροτροχός πρέπει να βρίσκεται σε κινούμενο νερό.</MustBeOnMovingWater>
+  
+  <!-- Mouse attachments -->
+  <!-- EN: Expand {0} or\nCreate new {1} -->
   <ExpandOrCreateZone>Επεκτείνει {0} ή\nΔημιουργεί καινούρια {1}</ExpandOrCreateZone>
+  <!-- EN: Create new {0} -->
   <CreateNewZone>Δημιουργεί καινούρια {0}</CreateNewZone>
-
-
+  
   <!-- Desc helpers -->
+  <!-- EN: Transmits power -->
   <TransmitsPower>Μεταδίδει ισχύ</TransmitsPower>
+  <!-- EN: Construction needed -->
   <ConstructionNeeded>Απαιτείται κατασκευή</ConstructionNeeded>
+  <!-- EN: None of your {0} have this skill. -->
+  <NoColonistWithConstructionSkillTip>Κανένα από τους {0} σου δεν έχει αυτή την ικανότητα.</NoColonistWithConstructionSkillTip>
+  <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
+  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Σε κανέναν από τους {0} σου που έχουν αυτή την ικανότητα δεν του έχει ανατεθεί να {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
 </LanguageData>

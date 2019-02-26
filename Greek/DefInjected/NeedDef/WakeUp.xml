@@ -1,10 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Εθισμός στο ξυπνηστήρι (WakeUp addiction) -->
-
+  
+  <!-- EN: wake-up -->
   <Chemical_WakeUp.label>ξυπνηστήρι</Chemical_WakeUp.label>
+  <!-- EN: Because of an wake-up addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
   <Chemical_WakeUp.description>Λόγω του ότι είναι εθισμένο στο ξυπνηστήρι, αυτό το άτομο πρέπει να καταναλώνει τακτικά το ναρκωτικό για να αποφύγει τα συμπτώματα στέρησης.</Chemical_WakeUp.description>
-
-
+  
 </LanguageData>

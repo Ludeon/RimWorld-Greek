@@ -1,23 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Deterioration.label>εξασθένηση</Deterioration.label>
-  <Deterioration.deathMessage>{0} έχει σκοτωθεί.</Deterioration.deathMessage>
-
-  <Mining.label>εξόρυξη</Mining.label>
-  <Mining.deathMessage>{0} έχει σκοτωθεί.</Mining.deathMessage>
-
-  <Rotting.label>αποσύνθεση</Rotting.label>
-  <Rotting.deathMessage>{0} έχει σκοτωθεί.</Rotting.deathMessage>
-
-  <Extinguish.label>εξόντωση</Extinguish.label>
-  <Extinguish.deathMessage>{0} έχει σκοτωθεί.</Extinguish.deathMessage>
-
+  
+  <!-- EN: bomb -->
   <Bomb.label>έκρηξη</Bomb.label>
+  <!-- EN: {0} has died in an explosion. -->
   <Bomb.deathMessage>{0} πέθανε σε μία έκρηξη.</Bomb.deathMessage>
-
+  
+  <!-- EN: bomb -->
+  <BombSuper.label>βόμβα</BombSuper.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <BombSuper.deathMessage>{0} σκοτώθηκε σε μία ανατίναξη.</BombSuper.deathMessage>
+  
+  <!-- EN: deterioration -->
+  <Deterioration.label>εξασθένηση</Deterioration.label>
+  <!-- EN: {0} has been killed. -->
+  <Deterioration.deathMessage>{0} έχει σκοτωθεί.</Deterioration.deathMessage>
+  
+  <!-- EN: extinguish -->
+  <Extinguish.label>εξόντωση</Extinguish.label>
+  <!-- EN: {0} has been killed. -->
+  <Extinguish.deathMessage>{0} έχει σκοτωθεί.</Extinguish.deathMessage>
+  
+  <!-- EN: mining -->
+  <Mining.label>εξόρυξη</Mining.label>
+  <!-- EN: {0} has been killed. -->
+  <Mining.deathMessage>{0} έχει σκοτωθεί.</Mining.deathMessage>
+  
+  <!-- EN: rotting -->
+  <Rotting.label>αποσύνθεση</Rotting.label>
+  <!-- EN: {0} has been killed. -->
+  <Rotting.deathMessage>{0} έχει σκοτωθεί.</Rotting.deathMessage>
+  
+  <!-- EN: smoke -->
   <Smoke.label>καπνός</Smoke.label>
+  <!-- EN: {0} has been killed. -->
   <Smoke.deathMessage>{0} έχει σκοτωθεί.</Smoke.deathMessage>
-
-
+  
 </LanguageData>

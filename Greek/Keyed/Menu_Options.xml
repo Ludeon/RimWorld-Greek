@@ -1,54 +1,95 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Οπτικοακουστικά (Audiovisuals) -->
+  <!-- Audiovisuals -->
+  <!-- EN: Audiovisuals -->
   <Audiovisuals>Οπτικοακουστικά </Audiovisuals>
+  <!-- EN: Game volume -->
   <GameVolume>Ένταση παιχνιδιού</GameVolume>
+  <!-- EN: Music volume -->
   <MusicVolume>Ένταση μουσικής</MusicVolume>
+  <!-- EN: Ambient volume -->
   <AmbientVolume>Ένταση περιβάλλοντος</AmbientVolume>
+  <!-- EN: Anti-aliasing -->
   <Antialiasing>Anti-aliasing</Antialiasing>
 
-  <!-- τρόπος παιξίματος (Gameplay) -->
-  <EdgeScreenScroll>Μετακίνηση ποντικιού στην οθόνη</EdgeScreenScroll>
+  <!-- Gameplay -->
+  <!-- EN: Screen-edge mouse scroll -->
+  <EdgeScreenScroll>Κύλιση οθόνης με ποντίκι</EdgeScreenScroll>
+  <!-- EN: Pause on load -->
   <PauseOnLoad>Παύση κατά την φόρτωση</PauseOnLoad>
+  <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>Παύση στα επείγοντα γράμματα</PauseOnUrgentLetter>
+  <!-- EN: Custom cursor -->
   <CustomCursor>Προσαρμοσμένος κέρσορας</CustomCursor>
+  <!-- EN: Hats shown only on game map -->
   <HatsShownOnlyOnMap>Καπέλα μόνο στο χάρτη του παιχνιδιού</HatsShownOnlyOnMap>
+  <!-- EN: UI scale -->
   <UIScale>Κλίμακα UI</UIScale>
+  <!-- EN: Keyboard configuration -->
   <KeyboardConfig>Διαμόρφωση πληκτρολογίου</KeyboardConfig>
+  <!-- EN: Choose language -->
   <ChooseLanguage>Επιλογή γλώσσας</ChooseLanguage>
+  <!-- EN: Reset learning helper -->
   <ResetAdaptiveTutor>Επαναφορά βοηθού εκμάθησης</ResetAdaptiveTutor>
+  <!-- EN: Tutor is reset. You will be now be re-taught all lessons from scratch. -->
   <AdaptiveTutorIsReset>Η διδασκαλία επαναφέρθηκε. Τώρα θα επαναδιδαχθείς όλα τα μαθήματα από την αρχή.</AdaptiveTutorIsReset>
+  <!-- EN: Run in background -->
   <RunInBackground>Εκτέλεση στο παρασκήνιο</RunInBackground>
+  <!-- EN: Development mode -->
   <DevelopmentMode>Λειτουργία ανάπτυξης</DevelopmentMode>
+  <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>Επνφρά ρθμσν mods από κατάρρση</ResetModsConfigOnCrash>
+  <!-- EN: Verbose logging -->
   <LogVerbose>Μακροσκελή καταγραφή</LogVerbose>
-  <OpenSaveGameDataFolder>Άνοιγμα φακέλου δεδομένων αποθήκευσης</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Όνομα χαρακτήρων που δημιουργήθηκαν από τον παίκτη που θα ήθελες να δεις:</NamesYouWantToSee>
+  <!-- EN: Open save data folder -->
+  <OpenSaveGameDataFolder>Φάκελος δεδομένων αποθήκευσης</OpenSaveGameDataFolder>
+  <!-- EN: Show save data location -->
+  <ShowSaveGameDataLocation>Εμφάνιση τοποθεσίας αποθηκευμένων δεδομένων</ShowSaveGameDataLocation>
+  <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
+  <NamesYouWantToSee>Προτιμώμενοι χαρακτήρες που δημιουργούνται από τους παίκτες. Αυτοί οι χαρακτήρες είναι πιο πιθανό να εμφανιστούν τυχαία κατά τη διάρκεια του παιχνιδιού:</NamesYouWantToSee>
+  <!-- EN: Add name -->
   <AddName>Πρόσθεσε όνομα</AddName>
+  <!-- EN: Type the first name, nickname, or last name. -->
   <TypeFirstNickOrLastName>Πληκτρολόγησε το μικρό όνομα, το ψευδώνυμο ή το επίθετο.</TypeFirstNickOrLastName>
-  <MessageAlreadyPreferredName>Αυτό το όνομα υπάρχει ήδη στην λίστα προτιμήσεων.</MessageAlreadyPreferredName>
+  <!-- EN: This name is already on the preferred list. -->
+  <MessageAlreadyPreferredName>Αυτό το όνομα υπάρχει ήδη στην λίστα των προτιμώμενων.</MessageAlreadyPreferredName>
+  <!-- EN: Storyteller settings -->
   <ChangeStoryteller>Επιλογή αφηγητή</ChangeStoryteller>
+  <!-- EN: Autosave interval -->
   <AutosaveInterval>Αυτμτη απθκση</AutosaveInterval>
+  <!-- EN: Temperature mode -->
   <TemperatureMode>Θερμοκρασία σε:</TemperatureMode>
+  <!-- EN: Show realtime clock -->
   <ShowRealtimeClock>Εμφάνιση πραγματικής ώρας</ShowRealtimeClock>
-  <MaxNumberOfPlayerHomes>Μέγιστος αριθμός αποικιών: {0}</MaxNumberOfPlayerHomes>
+  <!-- EN: Maximum number of colonies: {0} -->
+  <MaxNumberOfPlayerSettlements>Μέγιστος αριθμός αποικιών: {0}</MaxNumberOfPlayerSettlements>
+  <!-- EN: Plant wind sway -->
   <PlantWindSway>Ταλάντευση φυτών από τον αέρα</PlantWindSway>
+  <!-- EN: Enable test map sizes -->
+  <EnableTestMapSizes>Ενεργοπ. μεγεθών δοκιμαστ. χάρτη</EnableTestMapSizes>
+  <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
   <MaxPermadeathAutosaveIntervalInfo>Το μέγιστο διάστημα αυτόματης αποθήκευσης στην κατάσταση μόνιμου θανάτου είναι {0} ημέρες.</MaxPermadeathAutosaveIntervalInfo>
+  <!-- EN: Mod Settings -->
   <ModSettings>Ρυθμίσεις Mod</ModSettings>
-
-  <!-- Ανάλυση (Resolution) -->
+  <!-- EN: Permanently disable development mode -->
+  <PermanentlyDisableDevMode>Μόνιμη απενεργ. της λειτουργ. ανάπτυξ.</PermanentlyDisableDevMode>
+  <!-- Resolution -->
+  <!-- EN: Resolution -->
   <Resolution>Ανάλυση</Resolution>
+  <!-- EN: Fullscreen -->
   <Fullscreen>Πλήρης οθόνη</Fullscreen>
 
-  <!-- Ιδιωτικότητα (Privacy) -->
-  <Privacy>Απόρρητο</Privacy>
-  <UserName>Όνομα χρήστη</UserName>
-  <ChooseHistoryUploadPref>Προτιμήσεις δεδομένων παιχνιδιού προς μεταφόρτωση.</ChooseHistoryUploadPref>
-  <AboutHistoryUpload>Τα δεδομένα παιχνιδιού των χρηστών βοηθάνε τους προγραμματιστές να ισορροπήσουν το παιχνίδι. Αν συμφωνείς, οι πληροφορίες σου θα στέλνονται κάθε {0} ημέρες παιχνιδιού (και σε κάποιες άλλες σπάνιες περιπτώσεις όπως στο τέλος ενός παιχνιδιού) στον διακομιστή του RimWorld και θα αναλυθούν. Τα μεταφορτωμένα δεδομένα του παιχνιδιού αποτελούνται μόνο από στατιστικά και εγγραφές ιστορικού σχετικά με το παιχνίδι - καμία προσωπική πληροφορία δεν θα σταλθεί, εκτός από το όνομα χρήστη, που σημαίνει ότι είναι τελείως ανώνυμα.</AboutHistoryUpload>
-
   <!-- Mods -->
+  <!-- EN: Select mod... -->
   <SelectMod>Επιλογή mod...</SelectMod>
+  <!-- EN: No configurable mods loaded. -->
   <NoConfigurableMods>Δεν έχουν φορτωθεί τροποποιήσιμα mods.</NoConfigurableMods>
+  
+  <!-- Options reset -->
+  <!-- EN: Restore to default settings -->
+  <RestoreToDefaultSettings>Επαναφορά προεπιλεγμένων ρυθμίσεων</RestoreToDefaultSettings>
+  <!-- EN: Your options have been reset. The game will now restart automatically. -->
+  <ResetAndRestart>Οι επιλογές σου έχουν επαναφερθεί. Το παιχνίδι θα κάνει επανεκκίνηση αυτόματα</ResetAndRestart>
 
 </LanguageData>

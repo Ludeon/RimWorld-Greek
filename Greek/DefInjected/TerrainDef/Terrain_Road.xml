@@ -1,8 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: broken asphalt -->
   <BrokenAsphalt.label>σπασμένη άσφαλτος</BrokenAsphalt.label>
+  
+  <!-- EN: packed dirt -->
   <PackedDirt.label>γεμάτο σκόνη</PackedDirt.label>
-
-
+  
 </LanguageData>

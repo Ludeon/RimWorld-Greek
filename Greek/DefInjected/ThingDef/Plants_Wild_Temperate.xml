@@ -1,37 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Τάπητες (Carpets) -->
-
-  <PlantDandelion.label>ταράξακο</PlantDandelion.label>
-  <PlantDandelion.description>Ένα κοινό μικρό λουλούδι. Αν και συχνά θεωρείται ζιζάνιο, είναι ευχάριστο να το κοιτάζουμε.</PlantDandelion.description>
-
-  <PlantAstragalus.label>αστράγαλος</PlantAstragalus.label>
-  <PlantAstragalus.description>Ένα μικρό αιωνόβιο αγριολούλουδο που αναπτύσσεται σε αλπικά κλίματα.</PlantAstragalus.description>
-
-  <PlantMoss.label>βρύο</PlantMoss.label>
-  <PlantMoss.description>Μια άγρια βρύα που αναπτύσσεται σε συστάδες σε περιοχές με χαμηλό φωτισμό και υψηλή υγρασία. Πολύ σκληρή και ανθεκτική στον παγετό.</PlantMoss.description>
-
-
-  <!-- Θάμνοι (Bushes) -->
-
-  <PlantRaspberry.label>βατομουριά</PlantRaspberry.label>
-  <PlantRaspberry.description>Θαμνώδες φυτό με υπέροχα κόκκινα μούρα.</PlantRaspberry.description>
-
-
-  <!-- Δέντρα (Trees) -->
-
-  <PlantTreeOak.label>βελανιδιά</PlantTreeOak.label>
-  <PlantTreeOak.description>Ένα ισχυρό δέντρο από σκληρό ξύλο. Αναπτύσσεται αργά, αλλά το ξύλο είναι πολύ ισχυρό.</PlantTreeOak.description>
-
-  <PlantTreePoplar.label>λεύκα</PlantTreePoplar.label>
-  <PlantTreePoplar.description>Ένα δέντρο από μαλακό ξύλο. Αυξάνεται γρήγορα, αλλά αποδίδει λίγο χρήσιμο ξύλο.</PlantTreePoplar.description>
-
-  <PlantTreePine.label>πεύκο</PlantTreePine.label>
-  <PlantTreePine.description>Ένα μεγάλο κωνοφόρο.</PlantTreePine.description>
-
-  <PlantTreeBirch.label>σημύδα</PlantTreeBirch.label>
-  <PlantTreeBirch.description>Ένα βόρειο δέντρο γνωστό για το λεπτό, σαν χαρτί φλοιό του.</PlantTreeBirch.description>
-
-
+  
+  <!-- EN: astragalus -->
+  <Plant_Astragalus.label>αστράγαλος</Plant_Astragalus.label>
+  <!-- EN: A small perennial wildflower that grows in alpine climates. -->
+  <Plant_Astragalus.description>Ένα μικρό αιωνόβιο αγριολούλουδο που αναπτύσσεται σε αλπικά κλίματα.</Plant_Astragalus.description>
+  
+  <!-- EN: berry bush -->
+  <Plant_Berry.label>βατομουριά</Plant_Berry.label>
+  <!-- EN: A bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw. -->
+  <Plant_Berry.description>Θαμνώδες φυτό με υπέροχα κόκκινα μούρα. Τα μούρα μπορούν να μαγειρευτούν, αλλά είναι επίσης ωφέλιμα και αν τρώγονται ακόμα και ωμά.</Plant_Berry.description>
+  
+  <!-- EN: dandelions -->
+  <Plant_Dandelion.label>ταράξακο</Plant_Dandelion.label>
+  <!-- EN: A tiny yellow flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful. -->
+  <Plant_Dandelion.description>Ένα μικροσκοπικό κίτρινο λουλούδι που μεγαλώνει σε μεγάλες συστάδες. Αν και συχνά θεωρείται ζιζάνιο, οι ανθισμένες πικραλίδες  είναι αρκετά ωραίες.</Plant_Dandelion.description>
+  
+  <!-- EN: moss -->
+  <Plant_Moss.label>βρύο</Plant_Moss.label>
+  <!-- EN: Wild moss that grows in clumps in areas of low light and cool temperatures. Moss takes a long time to grow, but is very frost-resistant. -->
+  <Plant_Moss.description>Μια άγρια βρύα που αναπτύσσεται σε συστάδες σε περιοχές με χαμηλό φωτισμό και υψηλή υγρασία. Το βρύο χρειάζεται πολύ χρόνο για να μεγαλώσει, αλλά είναι ανθεκτικό στον παγετό.</Plant_Moss.description>
+  
+  <!-- EN: birch tree -->
+  <Plant_TreeBirch.label>σημύδα</Plant_TreeBirch.label>
+  <!-- EN: A temperate-biome tree known for its thin, white, paper-like bark. -->
+  <Plant_TreeBirch.description>Ένα βόρειο δέντρο γνωστό για το λεπτό, σαν χαρτί φλοιό του.</Plant_TreeBirch.description>
+  
+  <!-- EN: oak tree -->
+  <Plant_TreeOak.label>βελανιδιά</Plant_TreeOak.label>
+  <!-- EN: A hardwood tree. Oaks take a long time to grow, but their wood is so strong that 'oak' is used as a metaphor for strength across many cultures. -->
+  <Plant_TreeOak.description>Ένα ισχυρό δέντρο από σκληρό ξύλο. Οι βελανιδιές χρειάζονται πολύ χρόνο για να μεγαλώσουν, αλλά το ξύλο τους είναι τόσο ισχυρό ώστε η λέξη «δρυς» χρησιμοποιείται ως μεταφορά της δύναμη σε πολλές κουλτούρες.</Plant_TreeOak.description>
+  
+  <!-- EN: pine tree -->
+  <Plant_TreePine.label>πεύκο</Plant_TreePine.label>
+  <!-- EN: A large conifer covered with prickly pine cones. It grows in a distinctive conical shape. -->
+  <Plant_TreePine.description>Ένα μεγάλο κωνοφόρο δεντρό που καλύπτεται με πευκοβελόνες. Αναπτύσσεται σε ένα χαρακτηριστικό κωνικό σχήμα.</Plant_TreePine.description>
+  
+  <!-- EN: poplar tree -->
+  <Plant_TreePoplar.label>λεύκα</Plant_TreePoplar.label>
+  <!-- EN: A softwood tree that grows very fast. Unfortunately, its wood is weak and so it yields less useful material than hardwood trees. -->
+  <Plant_TreePoplar.description>Ένα δέντρο από μαλακό ξύλο που αναπτύσσεται γρήγορα. Δυστυχώς, το ξύλο της είναι μαλακό και έτσι αποδίδει λιγότερο χρήσιμο υλικό από τα δέντρα του σκληρού ξύλου.</Plant_TreePoplar.description>
+  
 </LanguageData>

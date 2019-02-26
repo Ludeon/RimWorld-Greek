@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: club -->
+  <MeleeWeapon_Club.label>ρόπαλο</MeleeWeapon_Club.label>
+  <!-- EN: A shaped stick, heavy at one end, for bashing enemies to death. This weapon is so old it's part of human biology. Evolutionary biologists say that a major reason humans can tilt our wrists side-to-side (instead of just forward-and-back like other primates) is to be able to better swing a club. -->
+  <MeleeWeapon_Club.description>Το παλαιότερο ανθρώπινο όπλο - ένα σχηματισμένο ραβδί, βαρύ στο ένα άκρο, για να επιφέρει στους εχθρούς το θάνατο. Αυτό το όπλο είναι τόσο παλιό που είναι μέρος της ανθρώπινης βιολογίας. Οι εξελικτικοί βιολόγοι λένε ότι ένας σημαντικός λόγος για τον οποίο οι άνθρωποι μπορούν να γέρνουν τους καρπούς τους οριζόντια (αντί για απλώς προς τα εμπρός και τα πίσω όπως στα άλλα πρωτεύοντα) επιτρέποντάς τους να χειρίζονται καλύτερα ένα ρόπαλο.</MeleeWeapon_Club.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Club.tools.handle.label>λαβή</MeleeWeapon_Club.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Club.tools.head.label>κεφαλή</MeleeWeapon_Club.tools.head.label>
+  
+  <!-- EN: ikwa -->
+  <MeleeWeapon_Ikwa.label>ίκουα</MeleeWeapon_Ikwa.label>
+  <!-- EN: A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust. -->
+  <MeleeWeapon_Ikwa.description>Μία κοντή λαβή με προσαρμοσμένη μια κεφαλή από μακριά λεπίδα, σχεδιασμένη να διατρυπά τα ζωτικά όργανα με μία γρήγορη ώθηση.</MeleeWeapon_Ikwa.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Ikwa.tools.handle.label>λαβή</MeleeWeapon_Ikwa.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Ikwa.tools.head.label>κεφαλή</MeleeWeapon_Ikwa.tools.head.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Ikwa.tools.edge.label>λεπίδα</MeleeWeapon_Ikwa.tools.edge.label>
+  
+  <!-- EN: knife -->
+  <MeleeWeapon_Knife.label>λεπίδι</MeleeWeapon_Knife.label>
+  <!-- EN: One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting. -->
+  <MeleeWeapon_Knife.description>Ένα αυτοσχέδιο, πρωτόγονο όπλο μαχαιρώματος. Το μαχαίρι έχει πάρει πολλές μορφές, αλλά η ιδέα παραμείνει πάντα η ίδια: Μια λαβή για το κράτημα και μια αιχμηρή άκρη για κοπή.</MeleeWeapon_Knife.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Knife.tools.handle.label>λαβή</MeleeWeapon_Knife.tools.handle.label>
+  <!-- EN: blade -->
+  <MeleeWeapon_Knife.tools.blade.label>λεπίδα</MeleeWeapon_Knife.tools.blade.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Knife.tools.point.label>μύτη</MeleeWeapon_Knife.tools.point.label>
+  
+  <!-- EN: spear -->
+  <MeleeWeapon_Spear.label>δόρυ</MeleeWeapon_Spear.label>
+  <!-- EN: A polearm tipped with a sharp point for stabbing opponents. -->
+  <MeleeWeapon_Spear.description>Μία κυρτή αλεβάρδα με αιχμηρό ακμή για να μαχαιρώνει τους αντιπάλους.</MeleeWeapon_Spear.description>
+  <!-- EN: shaft -->
+  <MeleeWeapon_Spear.tools.shaft.label>στειλιάρι</MeleeWeapon_Spear.tools.shaft.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Spear.tools.point.label>μύτη</MeleeWeapon_Spear.tools.point.label>
+  
+</LanguageData>

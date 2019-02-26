@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: became lover -->
+  <BecameLover.label>γίνονται εραστές</BecameLover.label>
+  <!-- EN:
+    <li>tale_noun->[PURSUER_nameDef] and [ACCEPTER_nameDef] becoming lovers</li>
+    <li>image->[PURSUER_nameFull] whispering sweet nothings into [ACCEPTER_nameFull]'s ear [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] leading [ACCEPTER_nameFull] by the hand into bed [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] gambolling in bed with [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] deeply kissing [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->in an unrealistically large bed</li>
+    <li>circumstance_phrase->between the sheets</li>
+    <li>circumstance_phrase->with few clothes in sight</li>
+    <li>circumstance_phrase->while both are drenched in sweat</li>
+    <li>desc_sentence->[PURSUER_nameDef] is snuggling up against [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is locking eyes with [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is blowing air at [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is stylistically bonded with [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is a near-mirror image of [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is touching [ACCEPTER_nameDef] aggressively.</li>
+  -->
+  <BecameLover.rulePack.rulesStrings><li>tale_noun->[PURSUER_nameDef] και [ACCEPTER_nameDef] γίνονται εραστές</li>
+    <li>image->[PURSUER_nameFull] ψιθυρίζει γλυκά λόγια στο αφτί [ACCEPTER_possessive] [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] οδηγώντας [ACCEPTER_objective] [ACCEPTER_nameFull] από το χέρι στο κρεβάτι [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] χαμουρεύεται στο κρεβάτι με [ACCEPTER_objective] [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] δίνει ένα παθιασμένο φιλί σ[ACCEPTER_objective] [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->σε ένα αχρείαστα μεγάλο κρεβάτι</li>
+    <li>circumstance_phrase->ανάμεσα στα σεντόνια</li>
+    <li>circumstance_phrase->με ελάχιστα ρούχα</li>
+    <li>circumstance_phrase->ενώ και οι δύο είναι μούσκεμα στον ιδρώτα</li>
+    <li>desc_sentence->[PURSUER_nameDef] αγκαλιάζει [ACCEPTER_objective] [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] κοιτάζει στα μάτια [ACCEPTER_objective] [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] φυσά απαλά [ACCEPTER_objective] [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] είναι στιλιστικά συνδεδεμένη με [ACCEPTER_objective] [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] είναι σχεδόν ένα είδωλο στον καθρέφτη [ACCEPTER_possessive] [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] αγγίζει [ACCEPTER_objective] [ACCEPTER_nameDef] παιχνιδιάρικα.</li></BecameLover.rulePack.rulesStrings>
+  
+  <!-- EN: bond developed -->
+  <BondedWithAnimal.label>αναπτύσσεται δεσμός</BondedWithAnimal.label>
+  <!-- EN:
+    <li>tale_noun->[HUMAN_nameDef]'s bonding with [ANIMAL_nameDef]</li>
+    <li>image->[HUMAN_nameFull] bonding with [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] forming a deep bond with [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] realizing [HUMAN_possessive] truly loves [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->while other animals look on</li>
+    <li>circumstance_phrase->while looking into [ANIMAL_nameDef]'s eyes</li>
+    <li>circumstance_phrase->with a sense of satisfaction</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is snuggling up against [HUMAN_nameDef].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] looks sleepy and drunk with love.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] stands tall and looks noble.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is responding positively.</li>
+  -->
+  <BondedWithAnimal.rulePack.rulesStrings><li>tale_noun->ο δεσμός [HUMAN_possessive] [HUMAN_nameDef] με [ANIMAL_nameDef]</li>
+    <li>image->[HUMAN_nameFull] δένεται με [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] σχηματίζει ένα βαθύ δεσμό με [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] συνειδητοποιώντας ότι συμπαθεί πραγματικά [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->ενώ τα άλλα ζώα κοιτάνε</li>
+    <li>circumstance_phrase->καθώς κοιτάει στα μάτια [ANIMAL_possessive] [ANIMAL_nameDef]</li>
+    <li>circumstance_phrase->με μια αίσθηση ικανοποίησης</li>
+    <li>desc_sentence->[ANIMAL_nameDef] φωλιάζει σ[HUMAN_objective] [HUMAN_nameDef].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] κοιτάει υπνωτισμένα και μεθυσμένα από αγάπη.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] στέκεται ψηλά και φαίνεται ευγενικό.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] ανταποκρίνεται θετικά.</li></BondedWithAnimal.rulePack.rulesStrings>
+  
+  <!-- EN: breakup -->
+  <Breakup.label>χωρισμός</Breakup.label>
+  <!-- EN:
+    <li>tale_noun->the breakup of [DUMPER_nameDef] and [REJECTED_nameDef]</li>
+    <li>image->[DUMPER_nameFull] sitting [REJECTED_nameFull] down for an unpleasant talk [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] standing at a distance from [REJECTED_nameFull] [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] pushing [REJECTED_nameFull] out of bed [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] rejecting a hug from [REJECTED_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->in a moment of great sadness</li>
+    <li>circumstance_phrase->as others look away awkwardly</li>
+    <li>circumstance_phrase->as others look on</li>
+    <li>desc_sentence->[REJECTED_nameDef] is sobbing uncontrollably.</li>
+    <li>desc_sentence->[REJECTED_nameDef] is sneering and crying at the same time.</li>
+    <li>desc_sentence->[REJECTED_nameDef] is stony-faced with shock.</li>
+    <li>desc_sentence->[DUMPER_nameDef] is stylistically separated from [REJECTED_nameDef].</li>
+    <li>desc_sentence->[REJECTED_nameDef] has collapsed on the floor in a quivering heap.</li>
+    <li>desc_sentence->[REJECTED_nameDef] is gesticulating angrily at [DUMPER_nameDef].</li>
+  -->
+  <Breakup.rulePack.rulesStrings><li>tale_noun->ο χωρισμός [DUMPER_possessive] [DUMPER_nameDef] και [REJECTED_possessive] [REJECTED_nameDef]</li>
+    <li>image->[DUMPER_nameFull] κάθεται κάτω με [REJECTED_objective] [REJECTED_nameFull] για μια δυσάρεστη συζήτηση [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] στέκεται μακριά από [REJECTED_objective] [REJECTED_nameFull] [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] σπρώχνει [REJECTED_objective] [REJECTED_nameFull] έξω από το κρεβάτι [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] απορρίπτει μια αγκαλιά από [REJECTED_objective] [REJECTED_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->σε μια στιγμή μεγάλης θλίψης</li>
+    <li>circumstance_phrase->όπως άλλοι κοιτάζουν αμήχανα</li>
+    <li>circumstance_phrase->καθώς οι άλλοι παρακολουθούν</li>
+    <li>desc_sentence->[REJECTED_nameDef] έχει ανεξέλεγκτους λυγμούς.</li>
+    <li>desc_sentence->[REJECTED_nameDef] σουφρώνοντας το στόμα και κλαίγοντας την ίδια στιγμή.</li>
+    <li>desc_sentence->[REJECTED_nameDef] έχει ένα πέτρινο πρόσωπο από το σοκ.</li>
+    <li>desc_sentence->[DUMPER_nameDef] είναι στιλιστικά ξεχωριστά από [REJECTED_objective] [REJECTED_nameDef].</li>
+    <li>desc_sentence->[REJECTED_nameDef] έχει καταρρεύσει στο πάτωμα σε ένα τρεμάμενο σωρό.</li>
+    <li>desc_sentence->[REJECTED_nameDef] κάνει θυμωμένες χειρονομίες σ[DUMPER_objective] [DUMPER_nameDef].</li></Breakup.rulePack.rulesStrings>
+  
+  <!-- EN: marriage -->
+  <Marriage.label>γάμος</Marriage.label>
+  <!-- EN:
+    <li>tale_noun->the marriage of [SPOUSE1_nameDef] and [SPOUSE2_nameDef]</li>
+    <li>image->[SPOUSE1_nameFull] marrying [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] saying [SPOUSE1_possessive] marriage vows to [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] walking down the aisle with [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] holding hands with [SPOUSE2_nameFull] during a marriage ceremony [circumstance_group]</li>
+    <li>circumstance_phrase->in a dignified ceremony</li>
+    <li>circumstance_phrase->while both laugh gaily</li>
+    <li>circumstance_phrase->while others look on solemnly</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is snuggling up against [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is locking eyes with [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is blowing air at [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is stylistically bonded with [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is a near-mirror image of [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is touching [SPOUSE2_nameDef] aggressively.</li>
+  -->
+  <Marriage.rulePack.rulesStrings><li>tale_noun->ο γάμος [SPOUSE1_possessive] [SPOUSE1_nameDef] και [SPOUSE2_possessive] [SPOUSE2_nameDef]</li>
+    <li>image->[SPOUSE1_nameFull] παντρεύεται [SPOUSE2_objective] [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] δίνει όρκους γάμου σ[SPOUSE2_objective] [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] περπατάει στο κεντρικό διάδρομο με [SPOUSE2_objective] [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] κρατάει τα χέρια [SPOUSE2_possessive] [SPOUSE2_nameFull] κατά τη διάρκεια της τελετής γάμου [circumstance_group]</li>
+    <li>circumstance_phrase->σε μια αξιοπρεπή τελετή</li>
+    <li>circumstance_phrase->ενώ και οι δυο γελάνε εύθυμα</li>
+    <li>circumstance_phrase->καθώς οι άλλοι του κοιτούν σοβαρά</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] αγκαλιάζει [SPOUSE2_objective] [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] κοιτάζει μέσα στα μάτια [SPOUSE2_possessive] [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] χαϊδεύει τρυφερά [SPOUSE2_objective] [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] είναι στιλιστικά ενωμένη με [SPOUSE2_objective] [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] είναι σχεδόν το είδωλο [SPOUSE2_possessive] [SPOUSE2_nameDef] στον καθρέφτη.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] αγγίζει [SPOUSE2_objective] [SPOUSE2_nameDef] ερωτικά.</li></Marriage.rulePack.rulesStrings>
+  
+</LanguageData>

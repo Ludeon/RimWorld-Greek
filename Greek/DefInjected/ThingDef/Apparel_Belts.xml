@@ -1,11 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: shield belt -->
   <Apparel_ShieldBelt.label>ζώνη πανοπλίας</Apparel_ShieldBelt.label>
-  <Apparel_ShieldBelt.description>Μια ατομική συσκευή ενεργειακής θωράκισης. Θα προσπαθήσει να σταματήσει κάθε ταχέως κινούμενο βλήμα ή ενεργειακή επίθεση που προέρχεται από απόσταση. Δεν κάνει τίποτα ενάντια στις επιθέσεις σώμα με σώμα ή σε πολύ κοντινούς πυροβολισμούς. Αποτρέπει επίσης την ανάκρουση του πυροβολισμού.</Apparel_ShieldBelt.description>
-
+  <!-- EN: A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP. -->
+  <Apparel_ShieldBelt.description>Μια συσκευή απόκρουσης βλημάτων. Θα προσπαθήσει να σταματήσει τα εισερχόμενα βλήματα ή οβίδες, αλλά δεν κάνει τίποτα ενάντια στις εξ επαφής επιθέσεις ή τις θερμικές. Προστατεύει τον χρήστη από την ανάκρουση και απενεργοποιείτε αμέσως εάν χτυπηθεί από ηλεκτρομαγνητικό παλμό.</Apparel_ShieldBelt.description>
+  
+  <!-- EN: smokepop belt -->
   <Apparel_SmokepopBelt.label>ζώνη ανάδυσης καπνού</Apparel_SmokepopBelt.label>
-  <Apparel_SmokepopBelt.description>Ένας αμυντικός αυτοματισμός προπετάσματος καπνού. Θα απελευθερώσει ένα παχύ σύννεφο καπνού αν ο χρήστης χτυπηθεί από ένα βλήμα, παρέχοντας απόκρυψη από την οπτική επαφή και εμποδίζει το να κλειδωθείτε στοχευτικά από πυργίσκους. Μιας χρήσης.</Apparel_SmokepopBelt.description>
-
-
+  <!-- EN: An automatic single-use defensive smokescreen. If the wearer is hit by a projectile, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
+  <Apparel_SmokepopBelt.description>Ένας αμυντικώς αυτοματισμός παραπετάσματος καπνού μιας χρήσης. Αν ο χρήστης χτυπηθεί από ένα βλήμα, θα απελευθερώσει ένα σύννεφο καπνού, αποκρύπτοντάς τον από εισερχόμενες βολές και εμποδίζοντας τους πυργίσκους να τον κλειδώσουν.</Apparel_SmokepopBelt.description>
+  
 </LanguageData>

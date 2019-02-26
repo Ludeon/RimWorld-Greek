@@ -1,70 +1,172 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Γενικά (General) -->
-
-  <Goto.reportString>πηγαίνει.</Goto.reportString>
-  <GotoSafeTemperature.reportString>αναζητά ασφαλή θερμοκρασία.</GotoSafeTemperature.reportString>
-  <GotoWander.reportString>περιπλανιέται.</GotoWander.reportString>
-  <Wait.reportString>περιμένει.</Wait.reportString>
-  <WaitMaintainPosture.reportString>στέκεται.</WaitMaintainPosture.reportString>
-  <WaitDowned.reportString>σωριαστεί.</WaitDowned.reportString>
-  <WaitSafeTemperature.reportString>περιμένει σε ασφαλή θερμοκρασία.</WaitSafeTemperature.reportString>
-  <WaitWander.reportString>περιφέρετε.</WaitWander.reportString>
-  <WaitCombat.reportString>ψάχνει για στόχους.</WaitCombat.reportString>
-  <AttackStatic.reportString>επιτεθείτε σε TargetA.</AttackStatic.reportString>
+  
+  <!-- EN: melee attacking TargetA. -->
   <AttackMelee.reportString>κάνει επίθεση σώμα με σώμα σε TargetA.</AttackMelee.reportString>
-  <SocialFight.reportString>παλεύει με TargetA.</SocialFight.reportString>
-  <UseVerbOnThing.reportString>Κάνει κάτι.</UseVerbOnThing.reportString>
-  <Equip.reportString>εξοπλίζετε με TargetA.</Equip.reportString>
-  <TakeInventory.reportString>παίρνει TargetA.</TakeInventory.reportString>
-  <GiveToPackAnimal.reportString>παίρνει TargetA.</GiveToPackAnimal.reportString>
-  <Wear.reportString>φοράει TargetA.</Wear.reportString>
-  <RemoveApparel.reportString>βγάζει TargetA.</RemoveApparel.reportString>
-  <DropEquipment.reportString>πετάει TargetA.</DropEquipment.reportString>
-  <Strip.reportString>βγάζει TargetA.</Strip.reportString>
-  <Open.reportString>ανοίγει TargetA.</Open.reportString>
-  <RearmTrap.reportString>οπλίζει ξανά TargetA.</RearmTrap.reportString>
-  <Refuel.reportString>τροφοδοτεί TargetA.</Refuel.reportString>
-  <FillFermentingBarrel.reportString>γεμίζει TargetA.</FillFermentingBarrel.reportString>
-  <TakeBeerOutOfFermentingBarrel.reportString>παίρνει την μπύρα από TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
-  <UnloadInventory.reportString>ξεφορτώνει TargetA.</UnloadInventory.reportString>
-  <UnloadYourInventory.reportString>αδειάζει το απόθεμα.</UnloadYourInventory.reportString>
-  <ManTurret.reportString>επανδρώνει τον πυργίσκο.</ManTurret.reportString>
-  <EnterCryptosleepCasket.reportString>μπαίνει στην κάψουλα κρυογενούς ύπνου.</EnterCryptosleepCasket.reportString>
-  <UseNeurotrainer.reportString>χρησιμοποιεί νευροεκπαιδευτή.</UseNeurotrainer.reportString>
-  <UseArtifact.reportString>ενεργοποιεί το τεχνούργημα.</UseArtifact.reportString>
-  <UseItem.reportString>χρησιμοποιεί TargetA.</UseItem.reportString>
-  <TriggerFirefoamPopper.reportString>ενεργοποιεί εκτοξευτήρα αφρού πυρόσβεσης.</TriggerFirefoamPopper.reportString>
-  <ClearSnow.reportString>καθαρίζει το χιόνι.</ClearSnow.reportString>
-  <Vomit.reportString>ξερνάει.</Vomit.reportString>
-  <Flick.reportString>ανοιγοκλείνει διακόπτη.</Flick.reportString>
-  <TradeWithPawn.reportString>εμπορεύεται με TargetA.</TradeWithPawn.reportString>
-  <Flee.reportString>δραπετεύει.</Flee.reportString>
-  <FleeAndCower.reportString>το σκάει.</FleeAndCower.reportString>
-  <EnterTransporter.reportString>επιβιβάζεται σε TargetA.</EnterTransporter.reportString>
-  <Resurrect.reportString>ανασταίνει TargetA.</Resurrect.reportString>
-  <Insult.reportString>προσβάλει TargetA.</Insult.reportString>
-  <HaulCorpseToPublicPlace.reportString>μεταφέρει TargetA.</HaulCorpseToPublicPlace.reportString>
-  <InducePrisonerToEscape.reportString>παρακινεί TargetA για απόδραση.</InducePrisonerToEscape.reportString>
-
-
-  <!-- Φωτιά (Fire) -->
-
-  <Ignite.reportString>πυρπολεί TargetA.</Ignite.reportString>
+  
+  <!-- EN: attacking TargetA. -->
+  <AttackStatic.reportString>επιτεθείτε σε TargetA.</AttackStatic.reportString>
+  
+  <!-- EN: beating fire out. -->
   <BeatFire.reportString>σβήνει την φωτιά.</BeatFire.reportString>
+  
+  <!-- EN: clearing snow. -->
+  <ClearSnow.reportString>καθαρίζει το χιόνι.</ClearSnow.reportString>
+  
+  <!-- EN: dropping TargetA. -->
+  <DropEquipment.reportString>πετάει TargetA.</DropEquipment.reportString>
+  
+  <!-- EN: entering cryptosleep casket. -->
+  <EnterCryptosleepCasket.reportString>μπαίνει στην κάψουλα κρυογενούς ύπνου.</EnterCryptosleepCasket.reportString>
+  
+  <!-- EN: entering TargetA. -->
+  <EnterTransporter.reportString>επιβιβάζεται σε TargetA.</EnterTransporter.reportString>
+  
+  <!-- EN: equipping TargetA. -->
+  <Equip.reportString>εξοπλίζετε με TargetA.</Equip.reportString>
+  
+  <!-- EN: extinguishing self. -->
   <ExtinguishSelf.reportString>σβήνει την φωτιά που έπιασε.</ExtinguishSelf.reportString>
-
-
-  <!-- Ανάγκη ικανοποίησης (Need satisfaction) -->
-
+  
+  <!-- EN: filling TargetA. -->
+  <FillFermentingBarrel.reportString>γεμίζει TargetA.</FillFermentingBarrel.reportString>
+  
+  <!-- EN: fleeing. -->
+  <Flee.reportString>δραπετεύει.</Flee.reportString>
+  
+  <!-- EN: fleeing. -->
+  <FleeAndCower.reportString>το σκάει.</FleeAndCower.reportString>
+  
+  <!-- EN: flicking switch. -->
+  <Flick.reportString>ανοιγοκλείνει διακόπτη.</Flick.reportString>
+  
+  <!-- EN: following TargetA. -->
+  <Follow.reportString>ακολουθεί TargetA.</Follow.reportString>
+  
+  <!-- EN: following TargetA. -->
+  <FollowClose.reportString>ακολουθεί από κοντά TargetA.</FollowClose.reportString>
+  
+  <!-- EN: taking TargetA. -->
+  <GiveToPackAnimal.reportString>παίρνει TargetA.</GiveToPackAnimal.reportString>
+  
+  <!-- EN: moving. -->
+  <Goto.reportString>πηγαίνει.</Goto.reportString>
+  
+  <!-- EN: seeking safe temperature. -->
+  <GotoSafeTemperature.reportString>αναζητά ασφαλή θερμοκρασία.</GotoSafeTemperature.reportString>
+  
+  <!-- EN: wandering. -->
+  <GotoWander.reportString>περιπλανιέται.</GotoWander.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulCorpseToPublicPlace.reportString>μεταφέρει TargetA.</HaulCorpseToPublicPlace.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToTransporter.reportString>κουβαλάει TargetA.</HaulToTransporter.reportString>
+  
+  <!-- EN: igniting TargetA. -->
+  <Ignite.reportString>πυρπολεί TargetA.</Ignite.reportString>
+  
+  <!-- EN: inducing TargetA to escape. -->
+  <InducePrisonerToEscape.reportString>παρακινεί TargetA για απόδραση.</InducePrisonerToEscape.reportString>
+  
+  <!-- EN: consuming TargetA. -->
   <Ingest.reportString>καταναλώνει TargetA.</Ingest.reportString>
+  
+  <!-- EN: insulting TargetA. -->
+  <Insult.reportString>προσβάλει TargetA.</Insult.reportString>
+  
+  <!-- EN: lying down. -->
   <LayDown.reportString>σωριάζετε κάτω.</LayDown.reportString>
-
-
-  <!-- Αγάπη (Love) -->
-
+  
+  <!-- EN: lovin'. -->
   <Lovin.reportString>αγαπάει.</Lovin.reportString>
-
-
+  
+  <!-- EN: operating turret. -->
+  <ManTurret.reportString>επανδρώνει τον πυργίσκο.</ManTurret.reportString>
+  
+  <!-- EN: helping TargetA. -->
+  <OfferHelp.reportString>βοηθάει TargetA.</OfferHelp.reportString>
+  
+  <!-- EN: opening TargetA. -->
+  <Open.reportString>ανοίγει TargetA.</Open.reportString>
+  
+  <!-- EN: rearming TargetA. -->
+  <RearmTurret.reportString>οπλίζει ξανά TargetA.</RearmTurret.reportString>
+  
+  <!-- EN: rearming TargetA. -->
+  <RearmTurretAtomic.reportString>επανεξοπλίζει TargetA.</RearmTurretAtomic.reportString>
+  
+  <!-- EN: refueling TargetA. -->
+  <Refuel.reportString>τροφοδοτεί TargetA.</Refuel.reportString>
+  
+  <!-- EN: refueling TargetA. -->
+  <RefuelAtomic.reportString>γεμίζει ξανά TargetA.</RefuelAtomic.reportString>
+  
+  <!-- EN: removing TargetA. -->
+  <RemoveApparel.reportString>βγάζει TargetA.</RemoveApparel.reportString>
+  
+  <!-- EN: resurrecting TargetA. -->
+  <Resurrect.reportString>ανασταίνει TargetA.</Resurrect.reportString>
+  
+  <!-- EN: fighting with TargetA. -->
+  <SocialFight.reportString>παλεύει με TargetA.</SocialFight.reportString>
+  
+  <!-- EN: stripping TargetA. -->
+  <Strip.reportString>ξεγυμνώνει TargetA.</Strip.reportString>
+  
+  <!-- EN: taking beer out of TargetA. -->
+  <TakeBeerOutOfFermentingBarrel.reportString>παίρνει την μπύρα από TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  
+  <!-- EN: taking TargetA. -->
+  <TakeInventory.reportString>παίρνει TargetA.</TakeInventory.reportString>
+  
+  <!-- EN: trading with TargetA. -->
+  <TradeWithPawn.reportString>εμπορεύεται με TargetA.</TradeWithPawn.reportString>
+  
+  <!-- EN: triggering firefoam popper. -->
+  <TriggerFirefoamPopper.reportString>ενεργοποιεί εκτοξευτήρα αφρού πυρόσβεσης.</TriggerFirefoamPopper.reportString>
+  
+  <!-- EN: unloading TargetA. -->
+  <UnloadInventory.reportString>ξεφορτώνει TargetA.</UnloadInventory.reportString>
+  
+  <!-- EN: unloading inventory. -->
+  <UnloadYourInventory.reportString>αδειάζει το απόθεμα.</UnloadYourInventory.reportString>
+  
+  <!-- EN: activating artifact. -->
+  <UseArtifact.reportString>ενεργοποιεί το τεχνούργημα.</UseArtifact.reportString>
+  
+  <!-- EN: using TargetA. -->
+  <UseItem.reportString>χρησιμοποιεί TargetA.</UseItem.reportString>
+  
+  <!-- EN: using neurotrainer. -->
+  <UseNeurotrainer.reportString>χρησιμοποιεί νευροεκπαιδευτή.</UseNeurotrainer.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThing.reportString>Κάνει κάτι.</UseVerbOnThing.reportString>
+  
+  <!-- EN: vomiting. -->
+  <Vomit.reportString>ξερνάει.</Vomit.reportString>
+  
+  <!-- EN: standing. -->
+  <Wait.reportString>περιμένει.</Wait.reportString>
+  
+  <!-- EN: watching for targets. -->
+  <Wait_Combat.reportString>ψάχνει για στόχους.</Wait_Combat.reportString>
+  
+  <!-- EN: downed. -->
+  <Wait_Downed.reportString>σωριάστηκε.</Wait_Downed.reportString>
+  
+  <!-- EN: standing. -->
+  <Wait_MaintainPosture.reportString>στέκεται.</Wait_MaintainPosture.reportString>
+  
+  <!-- EN: waiting in safe temperature. -->
+  <Wait_SafeTemperature.reportString>περιμένει σε ασφαλή θερμοκρασία.</Wait_SafeTemperature.reportString>
+  
+  <!-- EN: wandering. -->
+  <Wait_Wander.reportString>περιφέρετε.</Wait_Wander.reportString>
+  
+  <!-- EN: wearing TargetA. -->
+  <Wear.reportString>φοράει TargetA.</Wear.reportString>
+  
 </LanguageData>

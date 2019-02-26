@@ -1,16 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Work.label>εργατικός</Work.label>
-  <Meditative.label>στοχαστικός</Meditative.label>
-  <Lewd.label>πρόστυχος</Lewd.label>
-  <Social.label>κοινωνικός</Social.label>
-  <Chemical.label>χημικός</Chemical.label>
-  <Gluttonous.label>άπληστος</Gluttonous.label>
-  <GamingDexterity.label>τζογαδόρος (ικανότητα )</GamingDexterity.label>
-  <GamingCerebral.label>τζογαδόρος (εγκεφαλικά)</GamingCerebral.label>
-  <Passive.label>παθητικός</Passive.label>
-  <Study.label>μελετηρός</Study.label>
-
-
+  
+  <!-- EN: chemical consumption -->
+  <Chemical.label>κατανάλωση χημικών</Chemical.label>
+  
+  <!-- EN: cerebral play -->
+  <Gaming_Cerebral.label>εγκεφαλικό παίξιμο</Gaming_Cerebral.label>
+  
+  <!-- EN: dexterity play -->
+  <Gaming_Dexterity.label>παίξιμο με δεξιοτεχνία</Gaming_Dexterity.label>
+  
+  <!-- EN: food consumption -->
+  <Gluttonous.label>κατανάλωση φαγητού</Gluttonous.label>
+  
+  <!-- EN: solitary relaxation -->
+  <Meditative.label>μοναχική χαλάρωση</Meditative.label>
+  
+  <!-- EN: social interaction -->
+  <Social.label>κοινωνική αλληλεπίδραση</Social.label>
+ 
+  <!-- EN: telescope study -->
+  <Telescope.label>μελέτη με το τηλεσκόπιο</Telescope.label>
+  
+  <!-- EN: television watching -->
+  <Television.label>παρακολούθηση τηλεόρασης</Television.label>
+  
 </LanguageData>

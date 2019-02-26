@@ -1,43 +1,77 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: d -->
   <LetterDay>η</LetterDay>
+  <!-- EN: h -->
   <LetterHour>ω</LetterHour>
+  <!-- EN: m -->
   <LetterMinute>λ</LetterMinute>
+  <!-- EN: s -->
   <LetterSecond>δ</LetterSecond>
-
+  
+  <!-- EN: days -->
   <DaysLower>ημέρες</DaysLower>
+  <!-- EN: seconds -->
   <SecondsLower>δευτερόλεπτα</SecondsLower>
 
+  <!-- EN: spring -->
   <SeasonSpring>άνοιξη</SeasonSpring>
+  <!-- EN: summer -->
   <SeasonSummer>καλοκαίρι</SeasonSummer>
+  <!-- EN: fall -->
   <SeasonFall>φθινόπωρο</SeasonFall>
+  <!-- EN: winter -->
   <SeasonWinter>χειμώνας</SeasonWinter>
+  <!-- EN: permanent summer -->
   <SeasonPermanentSummer>μόνιμο καλοκαίρι</SeasonPermanentSummer>
+  <!-- EN: permanent winter -->
   <SeasonPermanentWinter>μόνιμος χειμώνας</SeasonPermanentWinter>
 
-  <QuadrumAprimay>Απριμάιος</QuadrumAprimay>
-  <QuadrumJugust>Ιουλαύγουστος</QuadrumJugust>
-  <QuadrumSeptober>Σεπτοκτώβριος</QuadrumSeptober>
-  <QuadrumDecembary>Δεκιανουάριος</QuadrumDecembary>
-
+  <!-- EN: Aprimay -->
+  <QuadrumAprimay>Απριμαΐου</QuadrumAprimay>
+  <!-- EN: Jugust -->
+  <QuadrumJugust>Ιουλαυγούστου</QuadrumJugust>
+  <!-- EN: Septober -->
+  <QuadrumSeptober>Σεπτοκτωβρίου</QuadrumSeptober>
+  <!-- EN: Decembary -->
+  <QuadrumDecembary>Δεκιανουαρίου</QuadrumDecembary>
+  
+  <!-- EN: Born: {0} -->
   <Born>Γεννήθηκε: {0}</Born>
-  <AgeChronological>Χρονολογική ηλικία: {0} χρόνια, {1} εποχές, {2} ημέρες</AgeChronological>
-  <AgeBiological>Βιολογική ηλικία: {0} χρόνια, {1} εποχές, {2} ημέρες</AgeBiological>
+  <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
+  <AgeChronological>Χρονολογική ηλικία: {0} χρόνια, {1} τετράκια, {2} ημέρες</AgeChronological>
+  <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
+  <AgeBiological>Βιολογική ηλικία: {0} χρόνια, {1} τετράκια, {2} ημέρες</AgeBiological>
 
-  <!-- Περίοδοι ημέρας (Date periods) -->
+  <!-- Date periods -->
+  <!-- EN: 1 year -->
   <Period1Year>1 χρόνο</Period1Year>
+  <!-- EN: {0} years -->
   <PeriodYears>{0} χρόνια</PeriodYears>
+  <!-- EN: 1 quadrum -->
   <Period1Quadrum>1 τετράκιο</Period1Quadrum>
+  <!-- EN: {0} quadrums -->
   <PeriodQuadrums>{0} τετράκια</PeriodQuadrums>
+  <!-- EN: 1 day -->
   <Period1Day>1 ημέρα</Period1Day>
+  <!-- EN: {0} days -->
   <PeriodDays>{0} ημέρες</PeriodDays>
+  <!-- EN: 1 hour -->
   <Period1Hour>1 ώρα</Period1Hour>
+  <!-- EN: {0} hours -->
   <PeriodHours>{0} ώρες</PeriodHours>
+  <!-- EN: 1 second -->
+  <Period1Second>1 δευτερόλεπτο</Period1Second>
+  <!-- EN: {0} seconds -->
+  <PeriodSeconds>{0} δευτερόλεπτα</PeriodSeconds>
 
-  <!-- Διάφορα (Misc) -->
+  <!-- Misc -->
+  <!-- EN: Started -->
   <Started>Ξεκίνησε</Started>
+  <!-- EN: Lasted -->
   <Lasted>Διήρκεσε</Lasted>
+  <!-- EN: occurred {0} ago -->
   <OccurredTimeAgo>συνέβη πριν από {0}</OccurredTimeAgo>
-
+  
 </LanguageData>

@@ -1,76 +1,160 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Καρτέλα εργασίας (Work tab) -->
+  <!-- Work tab -->
+  <!-- EN: Manual priorities -->
   <ManualPriorities>Χειροκίνητα</ManualPriorities>
+  <!-- EN: higher priority -->
   <HigherPriority>υψηλότερη προτεραιότητα</HigherPriority>
+  <!-- EN: lower priority -->
   <LowerPriority>χαμηλότερη προτεραιότητα</LowerPriority>
+  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
   <RelevantSkills>Σχετικές ικανότητες: {0}\nΜέσος όρος συναφών ικανοτήτων: {1} / {2}</RelevantSkills>
+  <!-- EN: Click to jump to: -->
   <ClickToJumpTo>Κάντε κλικ για μετάβαση σε:</ClickToJumpTo>
-  <CannotDoThisWork>{0} δεν μπορεί να κάνει αυτό το είδος εργασίας.</CannotDoThisWork>
+  <!-- EN: {1_labelShort} cannot do this kind of work. -->
+  <CannotDoThisWork>{1_labelShort} δεν μπορεί να κάνει αυτό το είδος εργασίας.</CannotDoThisWork>
+  <!-- EN: (none) -->
   <NoneBrackets>(κανένα)</NoneBrackets>
+  <!-- EN: This colonist is not able to do any work of this type because of his health condition. -->
   <IncapableOfWorkTypeBecauseOfCapacities>Αυτός ο άποικος δεν είναι σε θέση να κάνει οποιαδήποτε εργασία αυτού του τύπου λόγω της κατάστασης της υγείας του.</IncapableOfWorkTypeBecauseOfCapacities>
-  <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  <!-- EN: E -->
+  <EmergencyWorkMarker>Eπγ</EmergencyWorkMarker>
+  <!-- EN: Warning: The average of relevant skills is very low. -->
   <SelectedWorkTypeWithVeryBadSkill>Προειδοποίηση: ο μέσος όρος σχετικών ικανοτήτων είναι πολύ χαμηλός.</SelectedWorkTypeWithVeryBadSkill>
-
-  <!-- Καρτέλα ανάθεσης (Assign tab) -->
+  
+  <!-- Assign tab -->
+  <!-- EN: Manage outfits -->
   <ManageOutfits>Διαχείριση ενδυμασιών</ManageOutfits>
-  <ClearForcedApparel>Βγάλε ρούχα</ClearForcedApparel>
+  <!-- EN: Clr. forced -->
+  <ClearForcedApparel>Βγλ ρούχ.</ClearForcedApparel>
+  <!-- EN: forced -->
   <ApparelForcedLower>αναγκαστικά</ApparelForcedLower>
+  <!-- EN: Forced apparel -->
   <ForcedApparel>Εξαναγκαστικός ρουχισμός</ForcedApparel>
-  <AssignTabEdit>Επεξεργασία...</AssignTabEdit>
+  <!-- EN: Edit... -->
+  <AssignTabEdit>Επεξεργ.</AssignTabEdit>
+  <!-- EN: Manage drug policies -->
   <ManageDrugPolicies>Διαχείριση πολιτικής ναρκωτικών</ManageDrugPolicies>
-
-  <!-- Καρτέλα περιορισμών (Restrictions tab) -->
+  <!-- EN: Manage food restrictions -->
+  <ManageFoodRestrictions>Διαχείριση περιορισμών φαγητού</ManageFoodRestrictions>
+  
+  <!-- Restrictions tab -->
+  <!-- EN: Copy -->
   <Copy>Αντιγραφή</Copy>
+  <!-- EN: Paste -->
   <Paste>Επικόλληση</Paste>
+  <!-- EN: Allowed area -->
   <AllowedArea>Επιτρεπόμενη περιοχή</AllowedArea>
-
-  <!-- Καρτέλα ζώου (Animals tab) -->
+  
+  <!-- Animals tab -->
+  <!-- EN: Master -->
   <Master>Αφεντικό</Master>
+  <!-- EN: Pregnant ({0} / {1}) -->
   <PregnantIconDesc>Έγκυο ({0} / {1})</PregnantIconDesc>
-
-  <!-- Καρτέλα φατρίας (Factions tab) -->
-  <Hostile>Εχθρικό</Hostile>
+  <!-- EN: Bonded to -->
+  <BondedTo>Υποταγμένο σε</BondedTo>
+  
+  <!-- Wildlife tab -->
+  <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
+  <IsPredator>Αυτό το πλάσμα είναι αρπακτικό. Όταν πεινάσει, θα κυνηγήσει μικρότερα πλάσματα - συμπεριλαμβανομένων ενδεχομένως  και ανθρώπων.</IsPredator>
+  
+  <!-- Factions tab -->
+  <!-- EN: Hostile -->
+  <Hostile>Εχθρική</Hostile>
+  <!-- EN: Ally -->
+  <Ally>Συμμαχική</Ally>
+  <!-- EN: defeated -->
   <DefeatedLower>νικημένος</DefeatedLower>
+  <!-- EN: Enemy of {0} -->
   <HostileTo>Εχθρός του {0}</HostileTo>
-  <CurrentGoodwill>Τρέχουσα ευαρέσκεια με αυτή την φατρία.</CurrentGoodwill>
-
-  <!-- Καρτέλα κοινωνικότητας (Social tab) -->
-  <Friend>Κολλητάρι</Friend>
+  <!-- EN: Current goodwill and relations status with this faction. -->
+  <CurrentGoodwillTip>Τρέχων εύνοια και κατάσταση σχέσεων με αυτή τη φατρία.</CurrentGoodwillTip>
+  <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
+  <CurrentGoodwillTip_PermanentEnemy>Αυτή η φατρία είναι μόνιμα εχθρική. Θα επιτίθενται στους οικισμούς και τα καραβάνια σας. Οι σχέσεις με αυτούς δεν θα βελτιωθούν ποτέ και για κανένα λόγο.</CurrentGoodwillTip_PermanentEnemy>
+  <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Ally>Αυτή η φατρία είναι συμμαχική. Θα στέλνουν μαχητές για να σας βοηθήσουν όταν μπορούν. Εάν οι σχέσεις πέσουν κάτω από {0}, θα γίνουν ουδέτεροι.</CurrentGoodwillTip_Ally>
+  <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
+  <CurrentGoodwillTip_Neutral>Αυτή η φατρία είναι ουδέτερη. Θα ανταλλάσσονται και θα μιλάνε ελεύθερα μαζί σας. Εάν οι σχέσεις πέσουν κάτω από {0}, θα γίνουν εχθρικοί. Αν οι σχέσεις αυξηθούν πάνω από {1}, θα γίνουν συμμαχικοί και θα αρχίσουν να εργάζονται ενεργά για να σας βοηθήσουν.</CurrentGoodwillTip_Neutral>
+  <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Hostile>Αυτή η φατρία είναι εχθρική. Θα επιτεθούν στους οικισμούς και τα καραβάνια σας. Εάν οι σχέσεις αυξηθούν πάνω από {0}, θα γίνουν ουδέτεροι.</CurrentGoodwillTip_Hostile>
+  <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
+  <CurrentGoodwillTip_NaturalGoodwill>Αυτή η φατρία έχει ένα εύρος φυσικής εύνοιας από {0} έως {1}. Εάν η εύνοια είναι πάνω από {1}, θα μειώνετε κατά {3} την ημέρα. Εάν η εύνοια είναι κάτω από {0}, θα αυξάνετε κατά {2} την ημέρα.</CurrentGoodwillTip_NaturalGoodwill>
+  
+  <!-- Social tab -->
+  <!-- EN: Friend -->
+  <Friend>Φίλος</Friend>
+  <!-- EN: Rival -->
   <Rival>Αντίπαλος</Rival>
-  <Acquaintance>Φίλος</Acquaintance>
-
-  <!-- Καρτέλα ιστορικού - υποκαρτέλες (History tab - subtabs) -->
+  <!-- EN: Acquaintance -->
+  <Acquaintance>Γνωστός</Acquaintance>
+  
+  <!-- History tab - subtabs -->
+  <!-- EN: Graph -->
   <Graph>Γράφημα</Graph>
+  <!-- EN: Messages -->
+  <Messages>Μηνύματα</Messages>
+  <!-- EN: Statistics -->
   <Statistics>Στατιστικά</Statistics>
-
-  <!-- Καρτέλα ιστορικού - Γραφήματα (History tab - Graphs) -->
+  
+  <!-- History tab - Graphs -->
+  <!-- EN: Select graph -->
   <SelectGraph>Γράφημα</SelectGraph>
-  <Last30Days>Τελευταίες 30 μέρες</Last30Days>
-  <Last100Days>Τελευταίες 100 μέρες</Last100Days>
-  <Last300Days>Τελευταίες 300 μέρες</Last300Days>
+  <!-- EN: Last 30 days -->
+  <Last30Days>Τελευτ. 30 μέρες</Last30Days>
+  <!-- EN: Last 100 days -->
+  <Last100Days>Τελτς 100 μέρες</Last100Days>
+  <!-- EN: Last 300 days -->
+  <Last300Days>Τελτς 300 μέρες</Last300Days>
+  <!-- EN: All -->
   <AllDays>Όλες</AllDays>
-  <Day>Μέρα</Day>
+  <!-- EN: Value -->
   <Value>Τιμή</Value>
+  <!-- EN: External -->
   <External>Εξωτερικός</External>
 
-  <!-- Καρτέλα ιστορικού - Στατιστικά (History tab - Statistics) -->
+  <!-- History tab - Messages -->
+  <!-- EN: Show letters -->
+  <ShowLetters>Εμφάνιση γραμμάτων</ShowLetters>
+  <!-- EN: Show messages -->
+  <ShowMessages>Εμφάνιση μηνυμάτων</ShowMessages>
+  <!-- EN: Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
+  <PinArchivableTip>Καρφιτσώστε ή ξεκαρφιτσώστε αυτό το μήνυμα. Τα παλαιότερα ξεκαρφιτσωμένα μηνύματα θα καταργηθούν αυτόματα από τη λίστα αφού φτάσουν στο όριο των {0} μηνυμάτων.</PinArchivableTip>
+  <!-- EN: no messages -->
+  <NoMessages>κανένα μήνυμα</NoMessages>
+
+  <!-- History tab - Statistics -->
+  <!-- EN: Play time -->
   <Playtime>Διάρκεια παιχνιδιού</Playtime>
+  <!-- EN: Storyteller -->
   <Storyteller>Αφηγητής</Storyteller>
+  <!-- EN: Colony wealth (this map) -->
   <ThisMapColonyWealthTotal>Πλούτος αποικίας (αυτός ο χάρτης)</ThisMapColonyWealthTotal>
+  <!-- EN: Colony wealth (items) (this map) -->
   <ThisMapColonyWealthItems>Πλούτος αποικίας (αντικείμενα)(αυτός ο χάρτης)</ThisMapColonyWealthItems>
+  <!-- EN: Colony wealth (buildings) (this map) -->
   <ThisMapColonyWealthBuildings>Πλούτος αποικίας (κτίρια)(αυτός ο χάρτης)</ThisMapColonyWealthBuildings>
+  <!-- EN: Colony wealth (people and animals) (this map) -->
+  <ThisMapColonyWealthColonistsAndTameAnimals>Πλούτος αποικίας (ανθρώπων και ζώων) (αυτός ο χάρτης)</ThisMapColonyWealthColonistsAndTameAnimals>
+  <!-- EN: Major threats -->
   <NumThreatBigs>Σημαντικές απειλές</NumThreatBigs>
+  <!-- EN: Enemy raids -->
   <NumEnemyRaids>Εχθρικές επιδρομές</NumEnemyRaids>
-  <ThisMapDamageTaken>Βλάβες που έγιναν (αυτός ο χάρτης))</ThisMapDamageTaken>
+  <!-- EN: Damage taken (this map) -->
+  <ThisMapDamageTaken>Βλάβες που έγιναν (αυτός ο χάρτης)</ThisMapDamageTaken>
+  <!-- EN: Colonists killed -->
   <ColonistsKilled>Δολοφονημένοι άποικοι</ColonistsKilled>
+  <!-- EN: Colonists launched into space -->
   <ColonistsLaunched>Άποικοι που εκτοξεύτηκαν στο διάστημα</ColonistsLaunched>
 
-  <!-- Καρτέλα ερευνών (Research tab) -->
-  <ProjectTechLevel>επίπεδο έρευνας τεχνολογίας</ProjectTechLevel>
+  <!-- Research tab -->
+  <!-- EN: project tech level -->
+  <ProjectTechLevel>επίπεδο τεχνολογικού έργου</ProjectTechLevel>
+  <!-- EN: your tech level -->
   <YourTechLevel>το τεχνολογικό σου επίπεδο</YourTechLevel>
+  <!-- EN: cost multiplier -->
   <ResearchCostMultiplier>κόστος πολλαπλασιαστή</ResearchCostMultiplier>
+  <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
   <ResearchCostComparison>Το βασικό κόστος της έρευνας {0} γίνεται {1} για εσάς λόγω του επιπέδου της τεχνολογίας σας.</ResearchCostComparison>
 
 </LanguageData>

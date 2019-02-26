@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: try to get to know -->
+  <BuildRapport.label>προσπάθεια για γνωριμία</BuildRapport.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] to [RECIPIENT_nameDef]. -->
+  <BuildRapport.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] σ[RECIPIENT_objective] [RECIPIENT_nameDef].</BuildRapport.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] about [subject]. -->
+  <BuildRapport.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] είπε σ[RECIPIENT_objective] [RECIPIENT_nameDef] για [subject].</BuildRapport.logRulesInitiator.rulesStrings.1>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] described [subject] to [RECIPIENT_nameDef]. -->
+  <BuildRapport.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] περιέγραψε το [subject] σ[RECIPIENT_objective] [RECIPIENT_nameDef].</BuildRapport.logRulesInitiator.rulesStrings.2>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] encouraged [RECIPIENT_nameDef] to [talkabout] [subject]. -->
+  <BuildRapport.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] εμψύχωσε [RECIPIENT_objective] [RECIPIENT_nameDef] [talkabout] [subject].</BuildRapport.logRulesInitiator.rulesStrings.3>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] offered a chance for [RECIPIENT_nameDef] to [talkabout] [subject]. -->
+  <BuildRapport.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] πρόσφερε μία ευκαιρία σ[RECIPIENT_objective] [RECIPIENT_nameDef] [talkabout] [subject].</BuildRapport.logRulesInitiator.rulesStrings.4>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] expressed interest in [RECIPIENT_nameDef]'s [PersonalCharacteristic]. -->
+  <BuildRapport.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] εξέφρασε ενδιαφέρον για το [PersonalCharacteristic] [RECIPIENT_possessive] [RECIPIENT_nameDef].</BuildRapport.logRulesInitiator.rulesStrings.5>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [RECIPIENT_possessive] [PersonalCharacteristic]. -->
+  <BuildRapport.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] ρώτησε [RECIPIENT_objective] [RECIPIENT_nameDef] για [PersonalCharacteristic] [RECIPIENT_possessive].</BuildRapport.logRulesInitiator.rulesStrings.6>
+  <!-- EN: toldastoryabout(p=2)->told a story about -->
+  <BuildRapport.logRulesInitiator.rulesStrings.7>toldastoryabout(p=2)->είπε μια ιστορία για</BuildRapport.logRulesInitiator.rulesStrings.7>
+  <!-- EN: toldastoryabout->told a funny story about -->
+  <BuildRapport.logRulesInitiator.rulesStrings.8>toldastoryabout->διηγήθηκε μια διασκεδαστική ιστορία για</BuildRapport.logRulesInitiator.rulesStrings.8>
+  <!-- EN: toldastoryabout->told a heartfelt story about -->
+  <BuildRapport.logRulesInitiator.rulesStrings.9>toldastoryabout->εξιστόρησε ένα συγκινητικό συμβάν για</BuildRapport.logRulesInitiator.rulesStrings.9>
+  <!-- EN: toldastoryabout->told an old story about -->
+  <BuildRapport.logRulesInitiator.rulesStrings.10>toldastoryabout->είπε μια παλιά ιστορία για</BuildRapport.logRulesInitiator.rulesStrings.10>
+  <!-- EN: toldastoryabout->told a family story about -->
+  <BuildRapport.logRulesInitiator.rulesStrings.11>toldastoryabout->ανέφερε μια οικογενειακή περιπέτεια για</BuildRapport.logRulesInitiator.rulesStrings.11>
+  <!-- EN: toldastoryabout->told a childhood story about -->
+  <BuildRapport.logRulesInitiator.rulesStrings.12>toldastoryabout->θυμήθηκε μια παιδική ιστορία για</BuildRapport.logRulesInitiator.rulesStrings.12>
+  <!-- EN: toldastoryabout->mentioned an anecdote about -->
+  <BuildRapport.logRulesInitiator.rulesStrings.13>toldastoryabout->ανέφερε ένα ανέκδοτο για</BuildRapport.logRulesInitiator.rulesStrings.13>
+  <!-- EN: talkabout->talk about -->
+  <BuildRapport.logRulesInitiator.rulesStrings.14>talkabout->μιλώντας για</BuildRapport.logRulesInitiator.rulesStrings.14>
+  <!-- EN: talkabout->discuss -->
+  <BuildRapport.logRulesInitiator.rulesStrings.15>talkabout->συζητώντας σχετικά με</BuildRapport.logRulesInitiator.rulesStrings.15>
+  <!-- EN: talkabout->have a discussion about -->
+  <BuildRapport.logRulesInitiator.rulesStrings.16>talkabout->κάνοντας μια κουβέντα για</BuildRapport.logRulesInitiator.rulesStrings.16>
+  <!-- EN: talkabout->ask about -->
+  <BuildRapport.logRulesInitiator.rulesStrings.17>talkabout->ρωτώντας για</BuildRapport.logRulesInitiator.rulesStrings.17>
+  <!-- EN: talkabout->think about -->
+  <BuildRapport.logRulesInitiator.rulesStrings.18>talkabout->αναφέροντας</BuildRapport.logRulesInitiator.rulesStrings.18>
+  <!-- EN: talkabout->find common ground around -->
+  <BuildRapport.logRulesInitiator.rulesStrings.19>talkabout->βρίσκοντας το κοινό έδαφος με</BuildRapport.logRulesInitiator.rulesStrings.19>
+  <!-- EN: subject->the colony -->
+  <BuildRapport.logRulesInitiator.rulesStrings.20>subject->την αποικία</BuildRapport.logRulesInitiator.rulesStrings.20>
+  <!-- EN: subject->the community -->
+  <BuildRapport.logRulesInitiator.rulesStrings.21>subject->την κοινότητα</BuildRapport.logRulesInitiator.rulesStrings.21>
+  <!-- EN: subject->joining the colony -->
+  <BuildRapport.logRulesInitiator.rulesStrings.22>subject->την ένταξη στην αποικία</BuildRapport.logRulesInitiator.rulesStrings.22>
+  <!-- EN: subject->changing teams -->
+  <BuildRapport.logRulesInitiator.rulesStrings.23>subject->την αλλαγή παράταξης</BuildRapport.logRulesInitiator.rulesStrings.23>
+  <!-- EN: subject->finding friends -->
+  <BuildRapport.logRulesInitiator.rulesStrings.24>subject->την εύρεση νέων φίλων</BuildRapport.logRulesInitiator.rulesStrings.24>
+  <!-- EN: subject->meeting new people -->
+  <BuildRapport.logRulesInitiator.rulesStrings.25>subject->την συναναστροφή με καινούριους ανθρώπους</BuildRapport.logRulesInitiator.rulesStrings.25>
+  <!-- EN: subject->reconsidering [RECIPIENT_possessive] ideas -->
+  <BuildRapport.logRulesInitiator.rulesStrings.26>subject->τον επαναπροσδιορισμό των ιδεών [RECIPIENT_possessive]</BuildRapport.logRulesInitiator.rulesStrings.26>
+  <!-- EN: subject->rethinking [RECIPIENT_possessive] loyalties -->
+  <BuildRapport.logRulesInitiator.rulesStrings.27>subject->την αναθεώρηση της πίστης [RECIPIENT_possessive]</BuildRapport.logRulesInitiator.rulesStrings.27>
+  <!-- EN: subject->health -->
+  <BuildRapport.logRulesInitiator.rulesStrings.28>subject->την υγεία</BuildRapport.logRulesInitiator.rulesStrings.28>
+  <!-- EN: subject->the future -->
+  <BuildRapport.logRulesInitiator.rulesStrings.29>subject->το μέλλον</BuildRapport.logRulesInitiator.rulesStrings.29>
+  <!-- EN: subject->letting go -->
+  <BuildRapport.logRulesInitiator.rulesStrings.30>subject->[RECIPIENT_objective] αφήσει να φύγει</BuildRapport.logRulesInitiator.rulesStrings.30>
+  <!-- EN: subject(p=4)->[ConceptPositive] -->
+  <BuildRapport.logRulesInitiator.rulesStrings.31>subject(p=4)->[ConceptPositive]</BuildRapport.logRulesInitiator.rulesStrings.31>
+  <!-- EN: subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic] -->
+  <BuildRapport.logRulesInitiator.rulesStrings.32>subject(p=2)->το [PersonalCharacteristic] [INITIATOR_possessive]</BuildRapport.logRulesInitiator.rulesStrings.32>
+  <!-- EN: subject(p=8)->[TalkTopicLight] -->
+  <BuildRapport.logRulesInitiator.rulesStrings.33>subject(p=8)->[TalkTopicLight]</BuildRapport.logRulesInitiator.rulesStrings.33>
+  
+  <!-- EN: recruit attempt -->
+  <RecruitAttempt.label>προσπάθεια στρατολόγησης</RecruitAttempt.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] to join. -->
+  <RecruitAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] ρώτησε [RECIPIENT_objective] [RECIPIENT_nameDef] να ενωθεί.</RecruitAttempt.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] promised [goodthing] to [RECIPIENT_nameDef], and asked [RECIPIENT_objective] to join. -->
+  <RecruitAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] υποσχέθηκε [goodthing] σ[RECIPIENT_objective] [RECIPIENT_nameDef], και [RECIPIENT_objective] ρώτησε αν θέλει να έρθει μαζί τους.</RecruitAttempt.logRulesInitiator.rulesStrings.1>
+  <!-- EN: goodthing(p=15)->[ConceptPositive] -->
+  <RecruitAttempt.logRulesInitiator.rulesStrings.2>goodthing(p=15)->[ConceptPositive]</RecruitAttempt.logRulesInitiator.rulesStrings.2>
+  <!-- EN: goodthing->free, fresh [Vegetable]s -->
+  <RecruitAttempt.logRulesInitiator.rulesStrings.3>goodthing->ελευθερία, φρέσκα [Vegetable]</RecruitAttempt.logRulesInitiator.rulesStrings.3>
+  
+  <!-- EN: spark jailbreak -->
+  <SparkJailbreak.label>παρότρυνση για απόδραση</SparkJailbreak.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] spoke about the joy of [freedom], and offered a means of escape. -->
+  <SparkJailbreak.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] μίλησε για την χαρά [freedom], και προσέφερε ένα μέσο διαφυγής.</SparkJailbreak.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] talked about how beautiful the [TerrainFeature] is, and offered freedom. -->
+  <SparkJailbreak.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] ανέφερε πόσο όμορφο είναι το [TerrainFeature], και χάρισε [RECIPIENT_possessive] την ελευθερία.</SparkJailbreak.logRulesInitiator.rulesStrings.1>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] demonstrated a means of escape to [RECIPIENT_nameDef], and promised [freedom]. -->
+  <SparkJailbreak.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] έδειξε ένα μέσο διαφυγής σ[RECIPIENT_objective] [RECIPIENT_nameDef] και υποσχέθηκε [RECIPIENT_possessive] [freedom].</SparkJailbreak.logRulesInitiator.rulesStrings.2>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that security is lax, and encouraged escape. -->
+  <SparkJailbreak.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] είπε σ[RECIPIENT_objective] [RECIPIENT_nameDef] ότι η ασφάλεια είναι χαλαρή και [RECIPIENT_objective] ενθάρρυνε να δραπετεύσει.</SparkJailbreak.logRulesInitiator.rulesStrings.3>
+  <!-- EN: freedom->freedom -->
+  <SparkJailbreak.logRulesInitiator.rulesStrings.4>freedom->της ελευθερίας</SparkJailbreak.logRulesInitiator.rulesStrings.4>
+  <!-- EN: freedom->opportunity -->
+  <SparkJailbreak.logRulesInitiator.rulesStrings.5>freedom->της ευκαιρίας</SparkJailbreak.logRulesInitiator.rulesStrings.5>
+  <!-- EN: freedom->home -->
+  <SparkJailbreak.logRulesInitiator.rulesStrings.6>freedom->του σπιτικού</SparkJailbreak.logRulesInitiator.rulesStrings.6>
+  <!-- EN: freedom->self-determination -->
+  <SparkJailbreak.logRulesInitiator.rulesStrings.7>freedom->της αυτοδιάθεσης</SparkJailbreak.logRulesInitiator.rulesStrings.7>
+  
+</LanguageData>

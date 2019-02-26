@@ -1,25 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Spacer.label>αστροναύτης</Spacer.label>
-  <Spacer.description>Άνθρωποι από μακρινές περιοχές του διαστήματος.</Spacer.description>
-  <Spacer.fixedName>Αστροναύτης</Spacer.fixedName>
-  <Spacer.pawnsPlural>αστροναύτες</Spacer.pawnsPlural>
-
-  <SpacerHostile.label>αστροναύτης</SpacerHostile.label>
-  <SpacerHostile.description>Άνθρωποι από τις απομακρυσμένες περιοχές του διαστήματος.</SpacerHostile.description>
-  <SpacerHostile.fixedName>Αστροναύτης</SpacerHostile.fixedName>
-  <SpacerHostile.pawnsPlural>αστροναύτες</SpacerHostile.pawnsPlural>
-
-  <Mechanoid.label>κυψέλη μηχανοειδών</Mechanoid.label>
-  <Mechanoid.description>Μία κυψέλη αποτελούμενη από αρχαία και αυτοσυντηρούμενα μηχανικά πλάσματα.</Mechanoid.description>
-  <Mechanoid.fixedName>μία κυψέλη μηχανοειδών</Mechanoid.fixedName>
-  <Mechanoid.pawnsPlural>μηχανοειδεί</Mechanoid.pawnsPlural>
-
+  
+  <!-- EN: ancients -->
+  <Ancients.label>αρχαίοι</Ancients.label>
+  <Ancients.description>Άνθρωποι από μακρινές περιοχές του διαστήματος.</Ancients.description>
+  <!-- EN: Ancients -->
+  <Ancients.fixedName>Αρχαίοι</Ancients.fixedName>
+  <!-- EN: ancient -->
+  <Ancients.pawnSingular>αρχαίος</Ancients.pawnSingular>
+  <!-- EN: ancients -->
+  <Ancients.pawnsPlural>αρχαίοι</Ancients.pawnsPlural>
+  
+  <!-- EN: ancients -->
+  <AncientsHostile.label>αρχαίοι</AncientsHostile.label>
+  <AncientsHostile.description>Άνθρωποι από τις απομακρυσμένες περιοχές του διαστήματος.</AncientsHostile.description>
+  <!-- EN: Ancients -->
+  <AncientsHostile.fixedName>Αρχαίοι</AncientsHostile.fixedName>
+  <!-- EN: ancient -->
+  <AncientsHostile.pawnSingular>αρχαίος</AncientsHostile.pawnSingular>
+  <!-- EN: ancients -->
+  <AncientsHostile.pawnsPlural>αρχαίοι</AncientsHostile.pawnsPlural>
+  
+  <!-- EN: insects -->
   <Insect.label>έντομα</Insect.label>
   <Insect.description>Συνήθως επιθετικά και ενοχλητικά έντομα.</Insect.description>
+  <!-- EN: insects -->
   <Insect.fixedName>έντομα</Insect.fixedName>
+  <!-- EN: insect -->
+  <Insect.pawnSingular>έντομο</Insect.pawnSingular>
+  <!-- EN: insects -->
   <Insect.pawnsPlural>έντομα</Insect.pawnsPlural>
-
-
+  
+  <!-- EN: mechanoid hive -->
+  <Mechanoid.label>κυψέλη μηχανοειδών</Mechanoid.label>
+  <Mechanoid.description>Μία κυψέλη αποτελούμενη από αρχαία και αυτοσυντηρούμενα μηχανικά πλάσματα.</Mechanoid.description>
+  <!-- EN: a mechanoid hive -->
+  <Mechanoid.fixedName>μία κυψέλη μηχανοειδών</Mechanoid.fixedName>
+  <!-- EN: mechanoid -->
+  <Mechanoid.pawnSingular>μηχανοειδές</Mechanoid.pawnSingular>
+  <!-- EN: mechanoids -->
+  <Mechanoid.pawnsPlural>μηχανοειδεί</Mechanoid.pawnsPlural>
+  
 </LanguageData>

@@ -1,39 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Αμμόλιθος (Sandstone) -->
-
-  <MakeStoneBlocksSandstone.label>φτιάξε τούβλα αμμόλιθου</MakeStoneBlocksSandstone.label>
-  <MakeStoneBlocksSandstone.description>Κόβει κομμάτια αμμόλιθου σε χρήσιμα τούβλα.</MakeStoneBlocksSandstone.description>
-  <MakeStoneBlocksSandstone.jobString>Κοπή πέτρινων τούβλων από το κομμάτι.</MakeStoneBlocksSandstone.jobString>
-
-
-  <!-- Γρανίτης (Granite) -->
-
-  <MakeStoneBlocksGranite.label>φτιάξε γρανιτένια τούβλα</MakeStoneBlocksGranite.label>
-  <MakeStoneBlocksGranite.description>Κόβει κομμάτια γρανίτη σε χρήσιμα τούβλα.</MakeStoneBlocksGranite.description>
-  <MakeStoneBlocksGranite.jobString>Κοπή πέτρινων τούβλων από το κομμάτι.</MakeStoneBlocksGranite.jobString>
-
-
-  <!-- Ασβεστόλιθος (Limestone) -->
-
-  <MakeStoneBlocksLimestone.label>φτιάξε τούβλα ασβεστόλιθου</MakeStoneBlocksLimestone.label>
-  <MakeStoneBlocksLimestone.description>Κόβει κομμάτια ασβεστόλιθου σε χρήσιμα τούβλα.</MakeStoneBlocksLimestone.description>
-  <MakeStoneBlocksLimestone.jobString>Κοπή πέτρινων τούβλων από το κομμάτι.</MakeStoneBlocksLimestone.jobString>
-
-
-  <!-- Σχιστόλιθος (Slate) -->
-
-  <MakeStoneBlocksSlate.label>φτιάξε τούβλα σχθιστόλιθου</MakeStoneBlocksSlate.label>
-  <MakeStoneBlocksSlate.description>Κόβει κομμάτια σχθιστόλιθου σε χρήσιμα τούβλα.</MakeStoneBlocksSlate.description>
-  <MakeStoneBlocksSlate.jobString>Κοπή πέτρινων τούβλων από το κομμάτι.</MakeStoneBlocksSlate.jobString>
-
-
-  <!-- Μάρμαρο (Marble) -->
-
-  <MakeStoneBlocksMarble.label>φτιάξε μαρμάρινα τούβλα</MakeStoneBlocksMarble.label>
-  <MakeStoneBlocksMarble.description>Κόβει κομμάτια μαρμάρου σε χρήσιμα τούβλα.</MakeStoneBlocksMarble.description>
-  <MakeStoneBlocksMarble.jobString>Κοπή πέτρινων τούβλων από το κομμάτι.</MakeStoneBlocksMarble.jobString>
-
-
+  
+  <!-- EN: make granite blocks -->
+  <Make_StoneBlocksGranite.label>φτιάξε γρανιτένια τούβλα</Make_StoneBlocksGranite.label>
+  <!-- EN: Cuts granite chunks into usable blocks. -->
+  <Make_StoneBlocksGranite.description>Κόβει κομμάτια γρανίτη σε χρήσιμα τούβλα.</Make_StoneBlocksGranite.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksGranite.jobString>Κοπή πέτρινων τούβλων από το κομμάτι.</Make_StoneBlocksGranite.jobString>
+  
+  <!-- EN: make limestone blocks -->
+  <Make_StoneBlocksLimestone.label>φτιάξε τούβλα ασβεστόλιθου</Make_StoneBlocksLimestone.label>
+  <!-- EN: Cuts limestone chunks into usable blocks. -->
+  <Make_StoneBlocksLimestone.description>Κόβει κομμάτια ασβεστόλιθου σε χρήσιμα τούβλα.</Make_StoneBlocksLimestone.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksLimestone.jobString>Κοπή πέτρινων τούβλων από το κομμάτι.</Make_StoneBlocksLimestone.jobString>
+  
+  <!-- EN: make marble blocks -->
+  <Make_StoneBlocksMarble.label>φτιάξε μαρμάρινα τούβλα</Make_StoneBlocksMarble.label>
+  <!-- EN: Cuts marble chunks into usable blocks. -->
+  <Make_StoneBlocksMarble.description>Κόβει κομμάτια μαρμάρου σε χρήσιμα τούβλα.</Make_StoneBlocksMarble.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksMarble.jobString>Κοπή πέτρινων τούβλων από το κομμάτι.</Make_StoneBlocksMarble.jobString>
+  
+  <!-- EN: make sandstone blocks -->
+  <Make_StoneBlocksSandstone.label>φτιάξε τούβλα αμμόλιθου</Make_StoneBlocksSandstone.label>
+  <!-- EN: Cuts sandstone chunks into usable blocks. -->
+  <Make_StoneBlocksSandstone.description>Κόβει κομμάτια αμμόλιθου σε χρήσιμα τούβλα.</Make_StoneBlocksSandstone.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksSandstone.jobString>Κοπή πέτρινων τούβλων από το κομμάτι.</Make_StoneBlocksSandstone.jobString>
+  
+  <!-- EN: make slate blocks -->
+  <Make_StoneBlocksSlate.label>φτιάξε τούβλα σχθιστόλιθου</Make_StoneBlocksSlate.label>
+  <!-- EN: Cuts slate chunks into usable blocks. -->
+  <Make_StoneBlocksSlate.description>Κόβει κομμάτια σχθιστόλιθου σε χρήσιμα τούβλα.</Make_StoneBlocksSlate.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksSlate.jobString>Κοπή πέτρινων τούβλων από το κομμάτι.</Make_StoneBlocksSlate.jobString>
+  
 </LanguageData>

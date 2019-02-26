@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_logentry->[SUBJECT_definite] was [stunned] by the attack.</li>
+    <li>r_logentry->[SUBJECT_definite] was [stunned] by [INITIATOR_definite]'s attack.</li>
+    <li>stunned(p=3)->stunned</li>
+    <li>stunned->staggered</li>
+    <li>stunned->dazed</li>
+    <li>stunned->disoriented</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered].</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] from the attack.</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] from [INITIATOR_definite]'s attack.</li>
+    <li>staggered(p=3)->staggered</li>
+    <li>staggered->faltered</li>
+    <li>staggered->wobbled</li>
+    <li>staggered->wavered</li>
+    <li>r_logentry->[SUBJECT_definite] [stumbled] around blearily.</li>
+    <li>r_logentry->[SUBJECT_definite] [stumbled] around in confusion.</li>
+    <li>stumbled(p=3)->stumbled</li>
+    <li>stumbled->wavered</li>
+    <li>stumbled->wobbled</li>
+    <li>stumbled->staggered</li>
+  -->
+  <Event_Stun.rulePack.rulesStrings><li>r_logentry->[SUBJECT_definite] [stunned] από την επίθεση.</li>
+    <li>r_logentry->[SUBJECT_definite] [stunned] από την επίθεση [INITIATOR_possessive] [INITIATOR_definite].</li>
+    <li>stunned(p=3)->σοκαρίστηκε</li>
+    <li>stunned->παραπάτησε</li>
+    <li>stunned->θόλωσε</li>
+    <li>stunned->αποπροσανατολίστηκε</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered].</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] από την επίθεση.</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] από την επίθεση [INITIATOR_possessive] [INITIATOR_definite].</li>
+    <li>staggered(p=3)->σκόνταψε</li>
+    <li>staggered->παραπαίει</li>
+    <li>staggered->ταρακουνήθηκε</li>
+    <li>staggered->τρεμούλιασε</li>
+    <li>r_logentry->[SUBJECT_definite] [stumbled] τριγύρω θολωμένη.</li>
+    <li>r_logentry->[SUBJECT_definite] [stumbled] τριγύρω ζαλισμένη.</li>
+    <li>stumbled(p=3)->σκουντούφλησε</li>
+    <li>stumbled->παράπεσε</li>
+    <li>stumbled->σκόνταψε</li>
+    <li>stumbled->παραπάτησε</li></Event_Stun.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,77 +1,70 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Deer.label>ελάφι</Deer.label>
-  <Deer.description>Ένα φυτοφάγο μεσαίου μεγέθους. Γενικά είναι ήρεμο εκτός και αν διαταραχθεί.</Deer.description>
-  <Deer.tools.0.label>αριστερή οπλή</Deer.tools.0.label>
-  <Deer.tools.1.label>δεξιά οπλή</Deer.tools.1.label>
-  <Deer.tools.3.label>κεφάλι</Deer.tools.3.label>
-  <Deer_Leather.label>δέρμα ελαφιού</Deer_Leather.label>
-  <Deer_Leather.description>πετσί από ελάφι</Deer_Leather.description>
-  <Deer_Leather.stuffProps.stuffAdjective>δέρμα ελαφιού</Deer_Leather.stuffProps.stuffAdjective>
-  <Deer_Meat.label>κρέας ελαφιού</Deer_Meat.label>
-  <Deer_Meat.description>κρέας από ελάφι</Deer_Meat.description>
-  <Deer_Corpse.label>κουφάρι ελαφιού</Deer_Corpse.label>
-  <Deer_Corpse.description>πτώμα ελαφιού</Deer_Corpse.description>
-
-  <Ibex.label>αιξ</Ibex.label>
-  <Ibex.description>Ο κακοτράχαλος άγριος πρόγονος της εξημερωμένης κατσίκα. Οι αιξ ζουν σε απόκρημνο έδαφος όπου οι περισσότερες αντιλόπες δεν μπορούσαν να επιβιώσουν, τρώνε λειχήνες και αραιά φυτά του βουνού. Είναι διάσημοι για τος πως αναπηδούν στις γυμνές πλαγιές των γκρεμών - και για τη βίαιη επίθεσή τους.</Ibex.description>
-  <Ibex.tools.0.label>αριστερή οπλή</Ibex.tools.0.label>
-  <Ibex.tools.1.label>δεξιά οπλή</Ibex.tools.1.label>
-  <Ibex.tools.3.label>κεφάλι</Ibex.tools.3.label>
-  <Ibex_Leather.label>κατσικόδερμα</Ibex_Leather.label>
-  <Ibex_Leather.description>πετσί από κατσίκα</Ibex_Leather.description>
-  <Ibex_Leather.stuffProps.stuffAdjective>κατσικόδερμα</Ibex_Leather.stuffProps.stuffAdjective>
-  <Ibex_Meat.label>κρέας αιξ</Ibex_Meat.label>
-  <Ibex_Meat.description>κρέας από αιξ</Ibex_Meat.description>
-  <Ibex_Corpse.label>κουφάρι αιξ</Ibex_Corpse.label>
-  <Ibex_Corpse.description>πτώμα αιξ</Ibex_Corpse.description>
-
-  <Elk.label>βαπίτι</Elk.label>
-  <Elk.description>Ένα μεγάλο μέλος της οικογένειας των ελαφιών, καλά προσαρμοσμένο στη ζωή σε ψυχρά κλίματα.</Elk.description>
-  <Elk.tools.0.label>αριστερή οπλή</Elk.tools.0.label>
-  <Elk.tools.1.label>δεξιά οπλή</Elk.tools.1.label>
-  <Elk.tools.3.label>κεφάλι</Elk.tools.3.label>
-  <Elk_Leather.label>δέρμα βαπίτι</Elk_Leather.label>
-  <Elk_Leather.description>πετσί από βαπίτι</Elk_Leather.description>
-  <Elk_Leather.stuffProps.stuffAdjective>δέρμα βαπίτι</Elk_Leather.stuffProps.stuffAdjective>
-  <Elk_Meat.label>κρέας βαπίτι</Elk_Meat.label>
-  <Elk_Meat.description>κρέας από βαπίτι</Elk_Meat.description>
-  <Elk_Corpse.label>κουφάρι βαπίτι</Elk_Corpse.label>
-  <Elk_Corpse.description>πτώμα βαπίτι</Elk_Corpse.description>
-
+  
+  <!-- EN: caribou -->
   <Caribou.label>τάρανδος</Caribou.label>
-  <Caribou.description>Ένα μεγάλο μέλος της οικογένειας των ελαφιών, καλά προσαρμοσμένο στη ζωή σε ψυχρά κλίματα.</Caribou.description>
-  <Caribou.tools.0.label>αριστερή οπλή</Caribou.tools.0.label>
-  <Caribou.tools.1.label>δεξιά οπλή</Caribou.tools.1.label>
-  <Caribou.tools.3.label>κεφάλι</Caribou.tools.3.label>
-  <Caribou_Leather.label>δέρμα ταράνδου</Caribou_Leather.label>
-  <Caribou_Leather.description>πετσί από τάρανδο</Caribou_Leather.description>
-  <Caribou_Leather.stuffProps.stuffAdjective>δέρμα ταράνδου</Caribou_Leather.stuffProps.stuffAdjective>
-  <Caribou_Meat.label>κρέας ταράνδου</Caribou_Meat.label>
-  <Caribou_Meat.description>κρέας από τάρανδο</Caribou_Meat.description>
-  <Caribou_Corpse.label>κουφάρι ταράνδου</Caribou_Corpse.label>
-  <Caribou_Corpse.description>πτώμα ταράνδου</Caribou_Corpse.description>
-
-  <WildBoar.label>αγριογούρουνο</WildBoar.label>
-  <WildBoar.description>Παρόλο που θεωρείται ακάθαρτο από μερικούς πολιτισμούς, αυτός ο τριχωτός πρόγονος του εξημερωμένου χοίρου είναι πολύτιμος για τη λαχταριστή γεύση του κρέατός του.</WildBoar.description>
-  <WildBoar.tools.0.label>χαυλιόδοντας</WildBoar.tools.0.label>
-  <WildBoar.tools.2.label>κεφάλι</WildBoar.tools.2.label>
-  <!-- Χρήση Δέρματος Από: Γουρούνι (Use Leather From: Pig) -->
-  <!-- Χρήση Κρέατος Από: Γουρούνι (Use Meat From: Pig) -->
-  <WildBoar_Corpse.label>κουφάρι αγριογούρουνου</WildBoar_Corpse.label>
-  <WildBoar_Corpse.description>πτώμα αγριογούρουνου</WildBoar_Corpse.description>
-
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
+  <Caribou.description>Ένα μεγάλο μέλος της οικογένειας των ελαφιών, καλά προσαρμοσμένο στη ζωή σε ψυχρά κλίματα. Ο τάρανδος μπορεί να αρμεχθεί, αλλά αρνείται να κουβαλήσει φορτίο.</Caribou.description>
+  <!-- EN: left hoof -->
+  <Caribou.tools.left_hoof.label>αριστερή οπλή</Caribou.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Caribou.tools.right_hoof.label>δεξιά οπλή</Caribou.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Caribou.tools.head.label>κεφάλι</Caribou.tools.head.label>
+  
+  <!-- EN: deer -->
+  <Deer.label>ελάφι</Deer.label>
+  <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
+  <Deer.description>Ένα μεσαίου μεγέθους χορτοφάγο που προτιμά να ζει σε μικτά δάση και πεδιάδες. Τα ελάφια είναι πολύ γρήγορα.</Deer.description>
+  <!-- EN: venison -->
+  <Deer.race.meatLabel>κυνήγι ελαφιού</Deer.race.meatLabel>
+  <!-- EN: left hoof -->
+  <Deer.tools.left_hoof.label>αριστερή οπλή</Deer.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Deer.tools.right_hoof.label>δεξιά οπλή</Deer.tools.right_hoof.label>
+  <!-- EN: teeth -->
+  <Deer.tools.teeth.label>δόντια</Deer.tools.teeth.label>
+  <!-- EN: head -->
+  <Deer.tools.head.label>κεφάλι</Deer.tools.head.label>
+  
+  <!-- EN: elk -->
+  <Elk.label>βαπίτι</Elk.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
+  <Elk.description>Ένα μεγάλο μέλος της οικογένειας των ελαφιών, καλά προσαρμοσμένο στη ζωή σε ψυχρά κλίματα. Ο εξημερωμένο βαπίτι μπορεί να παράγει γάλα, αλλά δεν κουβαλήσει φορτίο.</Elk.description>
+  <!-- EN: left hoof -->
+  <Elk.tools.left_hoof.label>αριστερή οπλή</Elk.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Elk.tools.right_hoof.label>δεξιά οπλή</Elk.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Elk.tools.head.label>κεφάλι</Elk.tools.head.label>
+  
+  <!-- EN: ibex -->
+  <Ibex.label>αιξ</Ibex.label>
+  <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
+  <Ibex.description>Ο κακοτράχαλος άγριος πρόγονος της εξημερωμένης κατσίκα. Οι αιξ ζουν σε απόκρημνο έδαφος όπου οι περισσότερες αντιλόπες δεν μπορούσαν να επιβιώσουν, τρώνε λειχήνες και αραιά φυτά του βουνού. Είναι διάσημοι για τος πως αναπηδούν στις γυμνές πλαγιές των γκρεμών - και για τη βίαιη επίθεσή τους.</Ibex.description>
+  <!-- EN: left hoof -->
+  <Ibex.tools.left_hoof.label>αριστερή οπλή</Ibex.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Ibex.tools.right_hoof.label>δεξιά οπλή</Ibex.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Ibex.tools.head.label>κεφάλι</Ibex.tools.head.label>
+  
+  <!-- EN: tortoise -->
   <Tortoise.label>χελώνα</Tortoise.label>
-  <Tortoise.description>Αυτό το τεράστιο θωρακισμένο ερπετό της γης είναι γνωστό για την αργή ταχύτητα που κινείται και το εκπληκτικά άγριο δάγκωμα.</Tortoise.description>
-  <Tortoise.tools.1.label>κεφάλι</Tortoise.tools.1.label>
-  <Tortoise_Leather.label>δέρμα χελώνας</Tortoise_Leather.label>
-  <Tortoise_Leather.description>πετσί από χελώνα</Tortoise_Leather.description>
-  <Tortoise_Leather.stuffProps.stuffAdjective>δέρμα χελώνας</Tortoise_Leather.stuffProps.stuffAdjective>
-  <Tortoise_Meat.label>κρέας χελώνας</Tortoise_Meat.label>
-  <Tortoise_Meat.description>κρέας από χελώνα</Tortoise_Meat.description>
-  <Tortoise_Corpse.label>κουφάρι χελώνας</Tortoise_Corpse.label>
-  <Tortoise_Corpse.description>πτώμα χελώνας</Tortoise_Corpse.description>
-
-
+  <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
+  <Tortoise.description>Αυτό το τεράστιο θωρακισμένο ερπετό της γης είναι γνωστό για την αργή ταχύτητα που κινείται και το εκπληκτικά άγριο δάγκωμα. Λόγω της φυσικής πανοπλίας της, είναι δύσκολο να σκοτωθεί και μπορεί να προκαλέσει σοβαρές ζημιές κατά τη διάρκεια των μαχών σώμα με σώμα.</Tortoise.description>
+  <!-- EN: beak -->
+  <Tortoise.tools.beak.label>ρύγχος</Tortoise.tools.beak.label>
+  <!-- EN: head -->
+  <Tortoise.tools.head.label>κεφάλι</Tortoise.tools.head.label>
+  
+  <!-- EN: wild boar -->
+  <WildBoar.label>αγριογούρουνο</WildBoar.label>
+  <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
+  <WildBoar.description>Αυτό το τριχωτό παμφάγο προέρχεται από τους χοίρους που διέφυγαν και εξελίχθηκε για να ζήσει στο φυσικό περιβάλλον.\n\nΟι χαυλιόδοντές του το καθιστούν καλύτερο μαχητή από τους εξημερωμένους ξαδέλφους του. Δυστυχώς, είναι πολύ απρόθυμο να εκπαιδευτεί για πιο πολύπλοκα καθήκοντα.</WildBoar.description>
+  <!-- EN: tusk -->
+  <WildBoar.tools.tusk.label>χαυλιόδοντας</WildBoar.tools.tusk.label>
+  <!-- EN: head -->
+  <WildBoar.tools.head.label>κεφάλι</WildBoar.tools.head.label>
+  
 </LanguageData>

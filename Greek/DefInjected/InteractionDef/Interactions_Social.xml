@@ -1,25 +1,167 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Τυχαίες κοινωνικές αλληλεπιδράσεις (Random social interactions) -->
-
+  
+  <!-- EN: chitchat -->
   <Chitchat.label>ψιλοκουβεντούλα</Chitchat.label>
-  <Chitchat.logRulesInitiator.rulesStrings.0>logentry->Είχε μία κουβεντούλα με [other_nameShortIndef].</Chitchat.logRulesInitiator.rulesStrings.0>
-
+  <!-- EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight]. -->
+  <Chitchat.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] και [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</Chitchat.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef]. -->
+  <Chitchat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] με [RECIPIENT_objective] [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.1>
+  <!-- EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef]. -->
+  <Chitchat.logRulesInitiator.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] σ[RECIPIENT_objective] [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.2>
+  <!-- EN: talkedabout(p=4)->chatted about -->
+  <Chitchat.logRulesInitiator.rulesStrings.3>talkedabout(p=4)->κουβέντιασε σχετικά</Chitchat.logRulesInitiator.rulesStrings.3>
+  <!-- EN: talkedabout->shared a word about -->
+  <Chitchat.logRulesInitiator.rulesStrings.4>talkedabout->μοιράστηκε μια σκέψη για</Chitchat.logRulesInitiator.rulesStrings.4>
+  <!-- EN: talkedabout->spoke about -->
+  <Chitchat.logRulesInitiator.rulesStrings.5>talkedabout->μίλησε γύρω από</Chitchat.logRulesInitiator.rulesStrings.5>
+  <!-- EN: talkedabout->gabbed about -->
+  <Chitchat.logRulesInitiator.rulesStrings.6>talkedabout->φλυάρησε σχετικά </Chitchat.logRulesInitiator.rulesStrings.6>
+  <!-- EN: talkedabout->talked about -->
+  <Chitchat.logRulesInitiator.rulesStrings.7>talkedabout->συζήτησε για</Chitchat.logRulesInitiator.rulesStrings.7>
+  <!-- EN: talkedabout->joked about -->
+  <Chitchat.logRulesInitiator.rulesStrings.8>talkedabout->αστειεύτηκε πάνω</Chitchat.logRulesInitiator.rulesStrings.8>
+  <!-- EN: talkedabout->quipped about -->
+  <Chitchat.logRulesInitiator.rulesStrings.9>talkedabout->σχολίασε όσον αφορά</Chitchat.logRulesInitiator.rulesStrings.9>
+  <!-- EN: commentedabout->said something about -->
+  <Chitchat.logRulesInitiator.rulesStrings.10>commentedabout->είπε κάτι σχετικά</Chitchat.logRulesInitiator.rulesStrings.10>
+  <!-- EN: commentedabout->said a word about -->
+  <Chitchat.logRulesInitiator.rulesStrings.11>commentedabout->είπε μερικά λόγια για</Chitchat.logRulesInitiator.rulesStrings.11>
+  <!-- EN: commentedabout->made a comment about -->
+  <Chitchat.logRulesInitiator.rulesStrings.12>commentedabout->έκανε ένα σχόλιο αναφορικά με</Chitchat.logRulesInitiator.rulesStrings.12>
+  <!-- EN: commentedabout->commented about -->
+  <Chitchat.logRulesInitiator.rulesStrings.13>commentedabout->σχολίασε με θέμα</Chitchat.logRulesInitiator.rulesStrings.13>
+  <!-- EN: commentedabout->told a joke about -->
+  <Chitchat.logRulesInitiator.rulesStrings.14>commentedabout->είπε ένα αστείο για</Chitchat.logRulesInitiator.rulesStrings.14>
+  
+  <!-- EN: deep talk -->
   <DeepTalk.label>συζήτηση εις βάθος</DeepTalk.label>
-  <DeepTalk.logRulesInitiator.rulesStrings.0>logentry->Είχε μια αναλυτική συζήτηση με [other_nameShortIndef].</DeepTalk.logRulesInitiator.rulesStrings.0>
-
-  <Slight.label>προσβολή</Slight.label>
-  <Slight.logRulesInitiator.rulesStrings.0>logentry->Πρόσβαλε [other_nameShortIndef].</Slight.logRulesInitiator.rulesStrings.0>
-  <Slight.logRulesRecipient.rulesStrings.0>logentry->Προσβλήθηκε από [other_nameShortIndef].</Slight.logRulesRecipient.rulesStrings.0>
-
+  <!-- EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [subject]. -->
+  <DeepTalk.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] και [RECIPIENT_nameDef] [talkedabout] [subject].</DeepTalk.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with [RECIPIENT_nameDef]. -->
+  <DeepTalk.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] με [RECIPIENT_objective] [RECIPIENT_nameDef].</DeepTalk.logRulesInitiator.rulesStrings.1>
+  <!-- EN: talkedabout->communicated thoughts about -->
+  <DeepTalk.logRulesInitiator.rulesStrings.2>talkedabout->επικοινώνησε τις σκέψεις του για</DeepTalk.logRulesInitiator.rulesStrings.2>
+  <!-- EN: talkedabout->exchanged thoughts about -->
+  <DeepTalk.logRulesInitiator.rulesStrings.3>talkedabout->αντάλλαξε απόψεις για</DeepTalk.logRulesInitiator.rulesStrings.3>
+  <!-- EN: talkedabout->exchanged ideas about -->
+  <DeepTalk.logRulesInitiator.rulesStrings.4>talkedabout->μοιράστηκε ιδέες για</DeepTalk.logRulesInitiator.rulesStrings.4>
+  <!-- EN: talkedabout->shared views on -->
+  <DeepTalk.logRulesInitiator.rulesStrings.5>talkedabout->μοιράστηκε απόψεις για</DeepTalk.logRulesInitiator.rulesStrings.5>
+  <!-- EN: talkedabout->shared beliefs on -->
+  <DeepTalk.logRulesInitiator.rulesStrings.6>talkedabout->μοιράστηκε τα πιστεύω του για</DeepTalk.logRulesInitiator.rulesStrings.6>
+  <!-- EN: talkedabout->discussed the topic of -->
+  <DeepTalk.logRulesInitiator.rulesStrings.7>talkedabout->ζήτησε το θέμα του</DeepTalk.logRulesInitiator.rulesStrings.7>
+  <!-- EN: talkedabout->had a heartfelt conversation about -->
+  <DeepTalk.logRulesInitiator.rulesStrings.8>talkedabout->είχε μια εγκάρδια συνομιλία για</DeepTalk.logRulesInitiator.rulesStrings.8>
+  <!-- EN: talkedabout->talked quietly about -->
+  <DeepTalk.logRulesInitiator.rulesStrings.9>talkedabout->μίλησε ήσυχα για</DeepTalk.logRulesInitiator.rulesStrings.9>
+  <!-- EN: talkedabout->talked deeply about -->
+  <DeepTalk.logRulesInitiator.rulesStrings.10>talkedabout->ανέλυσε το</DeepTalk.logRulesInitiator.rulesStrings.10>
+  <!-- EN: talkedabout->connected on the topic of -->
+  <DeepTalk.logRulesInitiator.rulesStrings.11>talkedabout->συσχέτισε με το θέμα του</DeepTalk.logRulesInitiator.rulesStrings.11>
+  <!-- EN: subject->[TalkTopicHeavy] -->
+  <DeepTalk.logRulesInitiator.rulesStrings.12>subject->[TalkTopicHeavy]</DeepTalk.logRulesInitiator.rulesStrings.12>
+  
+  <!-- EN: insult -->
   <Insult.label>βρίσιμο</Insult.label>
-  <Insult.logRulesInitiator.rulesStrings.0>logentry->Έβρισε [other_nameShortIndef].</Insult.logRulesInitiator.rulesStrings.0>
-  <Insult.logRulesRecipient.rulesStrings.0>logentry->Υβρίστηκε από [other_nameShortIndef].</Insult.logRulesRecipient.rulesStrings.0>
-
+  <!-- EN: r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic]. -->
+  <Insult.logRulesInitiator.rulesStrings.0>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] το [PersonalCharacteristic] [target].</Insult.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] compared [target] to a [insultcomparison]. -->
+  <Insult.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] εξομοίωσε [target] με ένα [insultcomparison].</Insult.logRulesInitiator.rulesStrings.1>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] called [target] a [insultcomparison]. -->
+  <Insult.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] αποκάλεσε [target] [insultcomparison].</Insult.logRulesInitiator.rulesStrings.2>
+  <!-- EN: target(p=4)->[RECIPIENT_nameDef] -->
+  <Insult.logRulesInitiator.rulesStrings.3>target(p=4)->[RECIPIENT_objective] [RECIPIENT_nameDef]</Insult.logRulesInitiator.rulesStrings.3>
+  <!-- EN: target->[RECIPIENT_nameDef]'s [PersonFamily] -->
+  <Insult.logRulesInitiator.rulesStrings.4>target->την [PersonFamily] [RECIPIENT_possessive] [RECIPIENT_nameDef]</Insult.logRulesInitiator.rulesStrings.4>
+  <!-- EN: insulted(p=3)->insulted -->
+  <Insult.logRulesInitiator.rulesStrings.5>insulted(p=3)->πρόσβαλε</Insult.logRulesInitiator.rulesStrings.5>
+  <!-- EN: insulted->openly insulted -->
+  <Insult.logRulesInitiator.rulesStrings.6>insulted->πρόσβαλε δημόσια</Insult.logRulesInitiator.rulesStrings.6>
+  <!-- EN: insulted->loudly insulted -->
+  <Insult.logRulesInitiator.rulesStrings.7>insulted->χλεύασε δυνατά</Insult.logRulesInitiator.rulesStrings.7>
+  <!-- EN: insulted->flagrantly insulted -->
+  <Insult.logRulesInitiator.rulesStrings.8>insulted->μείωσε απροκάλυπτα</Insult.logRulesInitiator.rulesStrings.8>
+  <!-- EN: insulted->directly insulted -->
+  <Insult.logRulesInitiator.rulesStrings.9>insulted->κορόιδεψε αυθαδώς</Insult.logRulesInitiator.rulesStrings.9>
+  <!-- EN: insulted->viciously insulted -->
+  <Insult.logRulesInitiator.rulesStrings.10>insulted->πρόσβαλε άγρια</Insult.logRulesInitiator.rulesStrings.10>
+  <!-- EN: insulted->flagrantly disrespected -->
+  <Insult.logRulesInitiator.rulesStrings.11>insulted->έδειξε κατάφωρη ασέβεια</Insult.logRulesInitiator.rulesStrings.11>
+  <!-- EN: insulted->slandered -->
+  <Insult.logRulesInitiator.rulesStrings.12>insulted->συκοφάντησε</Insult.logRulesInitiator.rulesStrings.12>
+  <!-- EN: insulted->hurled invective about -->
+  <Insult.logRulesInitiator.rulesStrings.13>insulted->ξεστόμισε βρισιές κατά</Insult.logRulesInitiator.rulesStrings.13>
+  <!-- EN: insulted->derided -->
+  <Insult.logRulesInitiator.rulesStrings.14>insulted->λοιδόρησε</Insult.logRulesInitiator.rulesStrings.14>
+  <!-- EN: insultcomparison(p=2)->[Animal] -->
+  <Insult.logRulesInitiator.rulesStrings.15>insultcomparison(p=2)->[Animal]</Insult.logRulesInitiator.rulesStrings.15>
+  <!-- EN: insultcomparison->[Enemy] -->
+  <Insult.logRulesInitiator.rulesStrings.16>insultcomparison->[Enemy]</Insult.logRulesInitiator.rulesStrings.16>
+  
+  <!-- EN: kind words -->
   <KindWords.label>καλός λόγος</KindWords.label>
-  <KindWords.logRulesInitiator.rulesStrings.0>logentry->Είπε καλά λόγια σε [other_nameShortIndef].</KindWords.logRulesInitiator.rulesStrings.0>
-  <KindWords.logRulesRecipient.rulesStrings.0>logentry->Έλαβε καλά λόγια από [other_nameShortIndef].</KindWords.logRulesRecipient.rulesStrings.0>
-
-
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s [PersonalCharacteristic]. -->
+  <KindWords.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [complimented] το [PersonalCharacteristic] [RECIPIENT_possessive] [RECIPIENT_nameDef].</KindWords.logRulesInitiator.rulesStrings.0>
+  <!-- EN: complimented(p=3)->complimented -->
+  <KindWords.logRulesInitiator.rulesStrings.1>complimented(p=3)->φιλοφρόνησε</KindWords.logRulesInitiator.rulesStrings.1>
+  <!-- EN: complimented->praised -->
+  <KindWords.logRulesInitiator.rulesStrings.2>complimented->επαίνεσε</KindWords.logRulesInitiator.rulesStrings.2>
+  <!-- EN: complimented->commended -->
+  <KindWords.logRulesInitiator.rulesStrings.3>complimented->συγχάρηκε</KindWords.logRulesInitiator.rulesStrings.3>
+  <!-- EN: complimented->lauded -->
+  <KindWords.logRulesInitiator.rulesStrings.4>complimented->εγκωμίασε</KindWords.logRulesInitiator.rulesStrings.4>
+  <!-- EN: complimented->applauded -->
+  <KindWords.logRulesInitiator.rulesStrings.5>complimented->χειροκρότησε</KindWords.logRulesInitiator.rulesStrings.5>
+  <!-- EN: complimented->celebrated -->
+  <KindWords.logRulesInitiator.rulesStrings.6>complimented->τίμησε</KindWords.logRulesInitiator.rulesStrings.6>
+  <!-- EN: complimented->saluted -->
+  <KindWords.logRulesInitiator.rulesStrings.7>complimented->χαιρέτισε</KindWords.logRulesInitiator.rulesStrings.7>
+  <!-- EN: complimented->spoke kindly of -->
+  <KindWords.logRulesInitiator.rulesStrings.8>complimented->μίλησε ευγενικά</KindWords.logRulesInitiator.rulesStrings.8>
+  <!-- EN: complimented->expressed good things about -->
+  <KindWords.logRulesInitiator.rulesStrings.9>complimented->εξέφρασε καλά πράγματα σχετικά με</KindWords.logRulesInitiator.rulesStrings.9>
+  <!-- EN: complimented->offered kinds words about -->
+  <KindWords.logRulesInitiator.rulesStrings.10>complimented->είπε καλές λέξεις για</KindWords.logRulesInitiator.rulesStrings.10>
+  <!-- EN: complimented->verbally appreciated -->
+  <KindWords.logRulesInitiator.rulesStrings.11>complimented->εκτίμησε προφορικά</KindWords.logRulesInitiator.rulesStrings.11>
+  <!-- EN: complimented->expressed appreciation for -->
+  <KindWords.logRulesInitiator.rulesStrings.12>complimented->εκφράστηκε με εκτίμηση για</KindWords.logRulesInitiator.rulesStrings.12>
+  <!-- EN: complimented->said good things about -->
+  <KindWords.logRulesInitiator.rulesStrings.13>complimented->είπε καλά λόγια για</KindWords.logRulesInitiator.rulesStrings.13>
+  
+  <!-- EN: slight -->
+  <Slight.label>προσβολή</Slight.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [madefunof] [target]'s [PersonalCharacteristic]. -->
+  <Slight.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [madefunof] το [PersonalCharacteristic] [target].</Slight.logRulesInitiator.rulesStrings.0>
+  <!-- EN: target(p=4)->[RECIPIENT_nameDef] -->
+  <Slight.logRulesInitiator.rulesStrings.1>target(p=4)->[RECIPIENT_possessive] [RECIPIENT_nameDef]</Slight.logRulesInitiator.rulesStrings.1>
+  <!-- EN: target->[RECIPIENT_nameDef]'s [PersonFamily] -->
+  <Slight.logRulesInitiator.rulesStrings.2>target->της [PersonFamily] [RECIPIENT_possessive] [RECIPIENT_nameDef]</Slight.logRulesInitiator.rulesStrings.2>
+  <!-- EN: madefunof->made fun of -->
+  <Slight.logRulesInitiator.rulesStrings.3>madefunof->κορόιδεψε</Slight.logRulesInitiator.rulesStrings.3>
+  <!-- EN: madefunof->disrespected -->
+  <Slight.logRulesInitiator.rulesStrings.4>madefunof->μίλησε άσχημα για</Slight.logRulesInitiator.rulesStrings.4>
+  <!-- EN: madefunof->subtly scorned -->
+  <Slight.logRulesInitiator.rulesStrings.5>madefunof->περιφρόνησε</Slight.logRulesInitiator.rulesStrings.5>
+  <!-- EN: madefunof->subtly shamed -->
+  <Slight.logRulesInitiator.rulesStrings.6>madefunof->ξεφτίλισε</Slight.logRulesInitiator.rulesStrings.6>
+  <!-- EN: madefunof->spoke badly of -->
+  <Slight.logRulesInitiator.rulesStrings.7>madefunof->μίλησε άσχημα για</Slight.logRulesInitiator.rulesStrings.7>
+  <!-- EN: madefunof->spoke negatively of -->
+  <Slight.logRulesInitiator.rulesStrings.8>madefunof->εκφράστηκε αρνητικά για</Slight.logRulesInitiator.rulesStrings.8>
+  <!-- EN: madefunof->laughed at -->
+  <Slight.logRulesInitiator.rulesStrings.9>madefunof->γέλασε με</Slight.logRulesInitiator.rulesStrings.9>
+  <!-- EN: madefunof->sniggered at -->
+  <Slight.logRulesInitiator.rulesStrings.10>madefunof->γέλασε ειρωνικά</Slight.logRulesInitiator.rulesStrings.10>
+  <!-- EN: madefunof->implied negative things about -->
+  <Slight.logRulesInitiator.rulesStrings.11>madefunof->υπονόησε αρνητικά πράγματα</Slight.logRulesInitiator.rulesStrings.11>
+  <!-- EN: madefunof->belittled -->
+  <Slight.logRulesInitiator.rulesStrings.12>madefunof->μείωσε</Slight.logRulesInitiator.rulesStrings.12>
+  <!-- EN: madefunof->made a contemptuous remark about -->
+  <Slight.logRulesInitiator.rulesStrings.13>madefunof->έκανε μια περιφρονητική παρατήρηση για</Slight.logRulesInitiator.rulesStrings.13>
+  <!-- EN: madefunof->offered a backhanded compliment about -->
+  <Slight.logRulesInitiator.rulesStrings.14>madefunof->είπε υπονοούμενα για</Slight.logRulesInitiator.rulesStrings.14>
+  
 </LanguageData>

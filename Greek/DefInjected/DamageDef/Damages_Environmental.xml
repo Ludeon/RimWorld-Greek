@@ -1,20 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Flame.label>φλόγα</Flame.label>
-  <Flame.deathMessage>{0} κάηκε μέχρι θανάτου.</Flame.deathMessage>
-
-
-  <!-- Το έγκαυμα είναι σαν τη Φλόγα, αλλά δεν ανάβει τίποτα (Burn is like Flame, but doesn't ignite anything) -->
-
+  
+  <!-- EN: burn -->
   <Burn.label>έγκαυμα</Burn.label>
+  <!-- EN: {0} has burned to death. -->
   <Burn.deathMessage>{0} κάηκε μέχρι θανάτου.</Burn.deathMessage>
-
+  
+  <!-- EN: flame -->
+  <Flame.label>φλόγα</Flame.label>
+  <!-- EN: {0} has burned to death. -->
+  <Flame.deathMessage>{0} κάηκε μέχρι θανάτου.</Flame.deathMessage>
+  
+  <!-- EN: frostbite -->
   <Frostbite.label>κρυοπάγημα</Frostbite.label>
+  <!-- EN: {0} has succumbed to frostbite. -->
   <Frostbite.deathMessage>{0} έχει υποκύψει σε κρυοπαγήματα.</Frostbite.deathMessage>
-
+  
+  <!-- EN: scratch -->
   <TornadoScratch.label>γδάρσιμο</TornadoScratch.label>
+  <!-- EN: {0} has been killed by a tornado. -->
   <TornadoScratch.deathMessage>{0} σκοτώθηκε από ανεμοστρόβιλο.</TornadoScratch.deathMessage>
-
-
+  
 </LanguageData>

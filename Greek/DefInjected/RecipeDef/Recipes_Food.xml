@@ -1,17 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MakeKibble.label>φτιάξε κροκέτες</MakeKibble.label>
-  <MakeKibble.description>Κάνετε κροκέτες ζωοτροφών με το συνδυασμό νωπού κρέατος και φυτών.</MakeKibble.description>
-  <MakeKibble.jobString>Δημιουργία κροκετών.</MakeKibble.jobString>
-
-  <MakePemmican.label>φτιάξε αποξηραμένο κρέας</MakePemmican.label>
-  <MakePemmican.description>Φτιαχτέ ένα κρέας αποξηραμένο, έναν διατηρημένο συνδυασμό κρέατος και φυτικής τροφής. Δεν έχει καταπληκτική γεύση, αλλά διαρκεί ένα χρόνο χωρίς ψύξη.</MakePemmican.description>
-  <MakePemmican.jobString>Δημιουργία αποξηραμένου κρέατος.</MakePemmican.jobString>
-
-  <MakePemmicanCampfire.label>φτιάξε αποξηραμένο κρέας</MakePemmicanCampfire.label>
-  <MakePemmicanCampfire.description>Φτιαχτέ ένα κρέας αποξηραμένο, έναν διατηρημένο συνδυασμό κρέατος και φυτικής τροφής. Δεν έχει καταπληκτική γεύση, αλλά διαρκεί ένα χρόνο χωρίς ψύξη.</MakePemmicanCampfire.description>
-  <MakePemmicanCampfire.jobString>Δημιουργία αποξηραμένου κρέατος.</MakePemmicanCampfire.jobString>
-
-
+  
+  <!-- EN: make kibble -->
+  <Make_Kibble.label>φτιάξε κροκέτες</Make_Kibble.label>
+  <!-- EN: Make animal kibble by combining raw meat and plants. -->
+  <Make_Kibble.description>Κάνετε κροκέτες ζωοτροφών με το συνδυασμό νωπού κρέατος και φυτών.</Make_Kibble.description>
+  <!-- EN: Making kibble. -->
+  <Make_Kibble.jobString>Δημιουργία κροκετών.</Make_Kibble.jobString>
+  
+  <!-- EN: make pemmican -->
+  <Make_Pemmican.label>φτιάξε αποξηραμένο κρέας</Make_Pemmican.label>
+  <!-- EN: Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
+  <Make_Pemmican.description>Φτιαχτέ ένα κρέας αποξηραμένο, έναν διατηρημένο συνδυασμό κρέατος και φυτικής τροφής. Δεν έχει καταπληκτική γεύση, αλλά συντηρείται αρκετό χρόνο χωρίς ψύξη.</Make_Pemmican.description>
+  <!-- EN: Making pemmican. -->
+  <Make_Pemmican.jobString>Δημιουργία αποξηραμένου κρέατος.</Make_Pemmican.jobString>
+  
 </LanguageData>

@@ -1,0 +1,514 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: raw humanlike meat eaten -->
+  <AteRawHumanlikeMeat.label>έφαγε ωμό ανθρώπινο κρέας</AteRawHumanlikeMeat.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s eating of human meat</li>
+    <li>image->[PAWN_nameFull] [eat_gerund] the meat of a fellow humanoid [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [eat_gerund] meat from a humanlike arm [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [eat_gerund] flesh of a humanoid [circumstance_group]</li>
+    <li>eat_gerund->eating</li>
+    <li>eat_gerund->ingesting</li>
+    <li>eat_gerund->chewing</li>
+    <li>eat_gerund->chowing down on</li>
+    <li>eat_gerund->consuming</li>
+    <li>eat_gerund->swallowing</li>
+    <li>eat_gerund->cannibalizing</li>
+    <li>circumstance_phrase->with a sense of purpose</li>
+    <li>circumstance_phrase->with no hint of shame</li>
+    <li>circumstance_phrase->with a look of shame</li>
+    <li>circumstance_phrase->while others look on</li>
+    <li>circumstance_phrase->with gusto</li>
+    <li>circumstance_phrase->frantically, like [PAWN_possessive] life depended on it</li>
+    <li>desc_sentence->[PAWN_nameDef]'s face is covered with blood and fluid.</li>
+    <li>desc_sentence->[PAWN_nameDef] is licking [PAWN_possessive] fingers.</li>
+    <li>desc_sentence->[PAWN_nameDef] has blood and gore bits all down [PAWN_possessive] front.</li>
+    <li>desc_sentence->[PAWN_nameDef] is in the middle of a large pool of blood.</li>
+    <li>desc_sentence->[PAWN_nameDef] is eyeing someone else nearby with dark interest.</li>
+    <li>desc_sentence->The meat is glistening and appears very succulent.</li>
+    <li>desc_sentence->The meat is spilling all over [PAWN_nameDef]'s body.</li>
+  -->
+  <AteRawHumanlikeMeat.rulePack.rulesStrings><li>tale_noun->η κατανάλωση ανθρώπινου κρέατος από [PAWN_objective] [PAWN_nameDef]</li>
+    <li>image->[PAWN_nameFull] [eat_gerund] το κρέας ενός συντρόφου ανθρωποειδούς [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [eat_gerund] κρέας από ανθρώπινο χέρι [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [eat_gerund] σάρκα από ανθρωποειδές [circumstance_group]</li>
+    <li>eat_gerund->τρώει</li>
+    <li>eat_gerund->καταπίνει</li>
+    <li>eat_gerund->μασάει</li>
+    <li>eat_gerund->καταβροχθίζει</li>
+    <li>eat_gerund->καταναλώνει</li>
+    <li>eat_gerund->γεύεται</li>
+    <li>eat_gerund->κανιβαλίζει</li>
+    <li>circumstance_phrase->με επίγνωση αυτού που κάνει</li>
+    <li>circumstance_phrase->χωρίς κανένα σημάδι ντροπής</li>
+    <li>circumstance_phrase->νιώθοντας άσχημα</li>
+    <li>circumstance_phrase->ενώ οι άλλοι κοιτάζουν</li>
+    <li>circumstance_phrase->με ευχαρίστηση</li>
+    <li>circumstance_phrase->μανιωδώς, σαν η ζωή [PAWN_possessive] να εξαρτάται από αυτό</li>
+    <li>desc_sentence->Το πρόσωπο [PAWN_possessive] [PAWN_nameDef] είναι καλυμμένο με αίματα και υγρά.</li>
+    <li>desc_sentence->[PAWN_nameDef] γλείφει τα δάχτυλα [PAWN_possessive].</li>
+    <li>desc_sentence->[PAWN_nameDef] έχει αίματα και πηχτά κομμάτια μπροστά στα πόδια [PAWN_possessive].</li>
+    <li>desc_sentence->[PAWN_nameDef] βρίσκεται στο μέσω μια μεγάλης λίμνης αίματος.</li>
+    <li>desc_sentence->[PAWN_nameDef] βλέπει κάποιον άλλο εκεί κοντά με σκοτεινό ενδιαφέρον.</li>
+    <li>desc_sentence->Το κρέας γυαλίζει και φαίνεται πολύ ζουμερό.</li>
+    <li>desc_sentence->Κομμάτια κρέατος είναι διασκορπισμενα σε όλο το σώμα [PAWN_possessive] [PAWN_nameDef].</li></AteRawHumanlikeMeat.rulePack.rulesStrings>
+  
+  <!-- EN: humanlike corpse butchered -->
+  <ButcheredHumanlikeCorpse.label>τεμάχισε ανθρώπινο σώμα</ButcheredHumanlikeCorpse.label>
+  
+  <!-- EN: art crafted -->
+  <CraftedArt.label>έφτιαξε τέχνη</CraftedArt.label>
+  <!-- EN:
+    <li>tale_noun->the time [PAWN_nameDef] crafted [THING_indefinite]</li>
+    <li>image->[PAWN_nameFull] crafting [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>image->[PAWN_nameFull] completing [PAWN_possessive] work on [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>image->[PAWN_nameFull] working on [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>image->[PAWN_nameFull] making [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>circumstance_phrase->with total concentration</li>
+    <li>circumstance_phrase->with a look of satisfaction on [PAWN_possessive] face</li>
+    <li>circumstance_phrase->at [PAWN_possessive] work bench</li>
+    <li>circumstance_phrase->with great intensity</li>
+    <li>desc_sentence->There are tools scattered all around.</li>
+    <li>desc_sentence->[PAWN_pronoun] is scratched and scarred from work injuries.</li>
+    <li>desc_sentence->[PAWN_pronoun] is covered in sweat.</li>
+    <li>desc_sentence->The work area is highly organized, with every tool in its proper place.</li>
+    <li>desc_sentence->[PAWN_pronoun] is rendered in an exaggerated way to appear more powerful.</li>
+    <li>desc_sentence->The size of [THING_definite] is exaggerated to emphasize its importance.</li>
+    <li>desc_sentence->[THING_definite] has an artistic glow added to it. It seems almost angelic.</li>
+    <li>desc_sentence->[PAWN_nameDef] is faded into the background to emphasize [PAWN_possessive] new creation.</li>
+    <li>desc_sentence->[Quantity_adjphrase] onlookers surround [PAWN_objective].</li>
+    <li>desc_sentence->A crowd cheers from the background.</li>
+    <li>quality_sentence->[THING_definite] looks to be of [THING_quality] quality</li>
+    <li>quality_sentence->[THING_definite] is of [THING_quality] quality</li>
+    <li>quality_sentence->[PAWN_nameDef]'s work is of [THING_quality] quality</li>
+    <li>title_sentence->[PAWN_nameDef]'s title for [THING_definite] is written underneath: [THING_title]</li>
+    <li>title_sentence->[THING_definite] is emblazoned with its title: [THING_title]</li>
+    <li>title_sentence->The title of [THING_definite], [THING_title], hangs in the background</li>
+  -->
+  <CraftedArt.rulePack.rulesStrings><li>tale_noun->τη στιγμή που [PAWN_nameDef] δημιουργεί [THING_indefinite]</li>
+    <li>image->[PAWN_nameFull] κατασκευάζει [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>image->[PAWN_nameFull] ολοκληρώνει τη δουλειά [PAWN_possessive] πάνω σε [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>image->[PAWN_nameFull] δουλεύει πάνω σε [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>image->[PAWN_nameFull] φτιάχνει [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>circumstance_phrase->με πλήρες συγκέντρωση</li>
+    <li>circumstance_phrase->με μία όψη ευχαρίστησης στο πρόσωπό [PAWN_possessive]</li>
+    <li>circumstance_phrase->στο πάγκο εργασίας [PAWN_possessive]</li>
+    <li>circumstance_phrase->με μεγάλη ένταση</li>
+    <li>desc_sentence->Υπάρχουν εργαλεία που είναι διάσπαρτα.</li>
+    <li>desc_sentence->[PAWN_pronoun] έχει γρατζουνιστεί και έχει σημαδευτεί από τραύματα στην εργασία.</li>
+    <li>desc_sentence->[PAWN_pronoun] καλύπτεται από ιδρώτα.</li>
+    <li>desc_sentence->Ο χώρος εργασίας είναι πολύ οργανωμένος, με κάθε εργαλείο στη σωστή του θέση.</li>
+    <li>desc_sentence->[PAWN_pronoun] αποδίδεται με υπερβολικό τρόπο ώστε να φαίνεται πιο ισχυρή.</li>
+    <li>desc_sentence->Το μέγεθος [THING_definite] είναι υπερβολικό για να τονίσει τη σημασία [THING_possessive].</li>
+    <li>desc_sentence->[THING_definite] έχει μια καλλιτεχνική λάμψη που προστίθεται σε αυτό. Φαίνεται σχεδόν αγγελικό.</li>
+    <li>desc_sentence->[PAWN_nameDef] is faded into the background to emphasize [PAWN_possessive] new creation.</li>
+    <li>desc_sentence->[Quantity_adjphrase] θεατές περιβάλλουν [PAWN_objective].</li>
+    <li>desc_sentence->Ένα πλήθος ευθυμία  στο φόντο.</li>
+    <li>quality_sentence->[THING_definite] φαίνεται να είναι [THING_quality] ποιότητας</li>
+    <li>quality_sentence->[THING_definite] είναι [THING_quality] ποιότητας</li>
+    <li>quality_sentence->Το έργο [PAWN_possessive] [PAWN_nameDef] είναι [THING_quality] ποιότητας</li>
+    <li>title_sentence->Ο τίτλος [PAWN_possessive] [PAWN_nameDef] για [THING_definite] είναι γραμμένος από κάτω: [THING_title]</li>
+    <li>title_sentence->[THING_definite] εξυμνείτε με τον τίτλο του: [THING_title]</li>
+    <li>title_sentence->Ο τίτλος [THING_definite], [THING_title], κρέμεται στο παρασκήνιο</li></CraftedArt.rulePack.rulesStrings>
+  
+  <!-- EN: drunk -->
+  <Drunk.label>μέθυσε</Drunk.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s extreme drunkenness</li>
+    <li>tale_noun->[PAWN_nameDef] getting extremely drunk</li>
+    <li>image->[PAWN_nameFull] staggering around drunk [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] tilting [PAWN_possessive] head back and guzzling liquor [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] greedily collecting bottles of liquor [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] drinking heavily [circumstance_group]</li>
+    <li>circumstance_phrase->oblivious to [PAWN_possessive] surroundings</li>
+    <li>circumstance_phrase->in a brooding stupor</li>
+    <li>circumstance_phrase->while questioning [PAWN_possessive] own existence</li>
+    <li>circumstance_phrase->with tears in [PAWN_possessive] eyes</li>
+    <li>circumstance_phrase->while chuckling madly</li>
+    <li>circumstance_phrase->while sobbing</li>
+    <li>circumstance_phrase->while looking pathetic</li>
+    <li>circumstance_phrase->while glaring angrily at people around [PAWN_objective]</li>
+    <li>circumstance_phrase->while leering at someone nearby</li>
+    <li>circumstance_phrase->while attempting to disrobe</li>
+    <li>circumstance_phrase->with a finger in [PAWN_possessive] mouth</li>
+    <li>circumstance_phrase->while holding back vomit</li>
+    <li>circumstance_phrase->without a care in the world</li>
+    <li>circumstance_phrase->with a lustful glint in [PAWN_possessive] eye</li>
+    <li>circumstance_phrase->while reviewing the ghosts of [PAWN_possessive] past</li>
+    <li>desc_sentence->[PAWN_pronoun] seems totally unaware of what is around [PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_possessive] face itself seems to be swelling.</li>
+    <li>desc_sentence->[PAWN_pronoun] is nearly unconscious, [PAWN_possessive] tongue lolling out, drool dripping.</li>
+    <li>desc_sentence->[PAWN_pronoun] looks happy and sad at the same time.</li>
+    <li>desc_sentence->[PAWN_pronoun] has stains down [PAWN_possessive] front.</li>
+    <li>desc_sentence->There is a trail of discarded beverage containers behind [PAWN_objective].</li>
+    <li>desc_sentence->There is a white substance on [PAWN_possessive] pants.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to have lost a shoe.</li>
+    <li>desc_sentence->[PAWN_possessive] hair is totally mussed up.</li>
+  -->
+  <Drunk.rulePack.rulesStrings><li>tale_noun->Η υπερβολική μέθη [PAWN_possessive] [PAWN_nameDef]</li>
+    <li>tale_noun->[PAWN_nameDef] έγινε στουπί</li>
+    <li>image->[PAWN_nameFull] τρικλίζει τριγύρω μεθυσμένος [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] γέρνει το κεφάλι [PAWN_possessive] πίσω και ρουφάει οινόπνευμα [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] μαζεύει άπληστα τα μπουκάλια του ποτού [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] πίνει άπληστα [circumstance_group]</li>
+    <li>circumstance_phrase->αγνοώντας το περιβάλλον [PAWN_possessive]</li>
+    <li>circumstance_phrase->σχεδόν ναρκωμένη</li>
+    <li>circumstance_phrase->ενώ αμφισβητεί την ύπαρξη [PAWN_possessive]</li>
+    <li>circumstance_phrase->με δάκρυα στα μάτια [PAWN_possessive]</li>
+    <li>circumstance_phrase->ενώ χαχανίζει</li>
+    <li>circumstance_phrase->καθώς σπαράζει στο κλάμα</li>
+    <li>circumstance_phrase->ενώ κοιτά παθητικά</li>
+    <li>circumstance_phrase->ενώ κοιτάζει θυμωμένα τους ανθρώπους γύρω [PAWN_objective]</li>
+    <li>circumstance_phrase->καθώς κοιτάζει λάγνα κάποιον κοντά</li>
+    <li>circumstance_phrase->προσπαθώντας να βγάλει τα ρούχα</li>
+    <li>circumstance_phrase->με ένα δάχτυλο στο στόμα [PAWN_possessive]</li>
+    <li>circumstance_phrase->προσπαθώντας να κρατήσει τον εμετό</li>
+    <li>circumstance_phrase->χωρίς να νοιάζεται για τον κόσμο</li>
+    <li>circumstance_phrase->με μια λάγνα λάμψη στο μάτι [PAWN_possessive]</li>
+    <li>circumstance_phrase->ενώ αναθεωρεί τα φαντάσματα του παρελθόντος [PAWN_possessive]</li>
+    <li>desc_sentence->[PAWN_pronoun] φαίνεται να έχει εντελώς άγνοια για το τι είναι γύρω [PAWN_objective].</li>
+    <li>desc_sentence->Το πρόσωπό [PAWN_possessive] μοιάζει να είναι πρησμένο.</li>
+    <li>desc_sentence->[PAWN_pronoun] είναι σχεδόν αναίσθητος, η γλωσσα [PAWN_possessive] κρέμεται, [PAWN_possessive] τρέχουν σάλια.</li>
+    <li>desc_sentence->[PAWN_pronoun] μοιάζει ευτυχισμένη και δυστυχισμένη την ίδια στιγμή.</li>
+    <li>desc_sentence->[PAWN_pronoun] έχει λεκέδες μπροστά [PAWN_possessive].</li>
+    <li>desc_sentence->Υπάρχει μία γραμμή από χρησιμοποιημένα σκευάσματα ποτών πίσω [PAWN_objective].</li>
+    <li>desc_sentence->Υπάρχει μια λευκή ουσία στα παντελόνια [PAWN_possessive].</li>
+    <li>desc_sentence->[PAWN_pronoun] φαίνεται να έχει χάσει ένα παπούτσι.</li>
+    <li>desc_sentence->Τα μαλλιά [PAWN_possessive] είναι τελείως μπερδεμένα.</li></Drunk.rulePack.rulesStrings>
+  
+  <!-- EN: research project finished -->
+  <FinishedResearchProject.label>ολοκλήρωσε την έρευνα έργου</FinishedResearchProject.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] finishing research on [PROJECT_label]</li>
+    <li>image->[PAWN_nameFull] working on [PROJECT_label] research project [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] studying the secrets of [PROJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] researching [PROJECT_label] [circumstance_group]</li>
+    <li>circumstance_phrase->with great intensity</li>
+    <li>circumstance_phrase->alone at [PAWN_possessive] bench</li>
+    <li>circumstance_phrase->while holding papers in [PAWN_possessive] hand</li>
+    <li>circumstance_phrase->with a look of gleeful fascination</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweating.</li>
+    <li>desc_sentence->The work appears to be exceptionally complex.</li>
+    <li>desc_sentence->[PAWN_nameDef] is completely surrounded by an array of tools and apparatuses.</li>
+    <li>desc_sentence->[PAWN_nameDef] is staring at [PAWN_possessive] discovery with a sense of wonder.</li>
+  -->
+  <FinishedResearchProject.rulePack.rulesStrings><li>tale_noun->[PAWN_nameDef] ολοκληρώνει την έρευνα πάνω στο [PROJECT_label]</li>
+    <li>image->[PAWN_nameFull] δουλεύει πάνω στο ερευνητικό έργο του [PROJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] μελετάει τα μυστικά του [PROJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ερευνά [PROJECT_label] [circumstance_group]</li>
+    <li>circumstance_phrase->με μεγάλο πάθος</li>
+    <li>circumstance_phrase->μόνης [PAWN_possessive] στον ερευνητικό πάγκο bench</li>
+    <li>circumstance_phrase->καθώς κρατάει έγγραφα στα χέρια [PAWN_possessive]</li>
+    <li>circumstance_phrase->με ένα βλέμμα χαρούμενη γοητείας</li>
+    <li>desc_sentence->[PAWN_nameDef] ιδρώνει.</li>
+    <li>desc_sentence->Το έργο φαίνεται εξαιρετικά περίπλοκο.</li>
+    <li>desc_sentence->[PAWN_nameDef] περιβάλλεται εντελώς από μια σειρά εργαλείων και συσκευών.</li>
+    <li>desc_sentence->[PAWN_nameDef] κοιτάζει επίμονα την ανακάλυψη [PAWN_possessive] με μια αίσθηση θαυμασμού.</li></FinishedResearchProject.rulePack.rulesStrings>
+  
+  <!-- EN: landed in pod -->
+  <LandedInPod.label>προσγειώθηκε μέσα σε μία άτρακτο</LandedInPod.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s landing in a drop pod</li>
+    <li>image->[PAWN_nameFull] landing in a drop pod [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] touching down in a drop pod [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] striking earth in a drop pod [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] riding in a drop pod [circumstance_group]</li>
+    <li>circumstance_phrase->in front of a [TerrainFeature]</li>
+    <li>circumstance_phrase->with incredible force</li>
+    <li>circumstance_phrase->in a plume of dust and rocks</li>
+    <li>circumstance_phrase->with retro-rockets firing dramatically</li>
+    <li>circumstance_phrase->in a precision landing</li>
+    <li>desc_sentence->[PAWN_pronoun] is concentrating intently on the controls.</li>
+    <li>desc_sentence->[PAWN_pronoun] has [PAWN_possessive] eyes closed and looks afraid.</li>
+    <li>desc_sentence->[PAWN_pronoun] is unconscious, [PAWN_possessive] tongue lolling out, drool dripping.</li>
+    <li>desc_sentence->[PAWN_pronoun] is smiling with grim joy.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to have no idea what [PAWN_pronoun] is doing.</li>
+    <li>desc_sentence->[PAWN_pronoun] is strapped in with [PAWN_possessive] eyes closed, totally helpless.</li>
+    <li>desc_sentence->There is a flame trail licking off the back of the pod.</li>
+    <li>desc_sentence->A nearby [Animal] is looking up, startled.</li>
+    <li>desc_sentence->A [Animal] is fleeing the impact in fear.</li>
+    <li>desc_sentence->There is a [TerrainFeature] in the background.</li>
+    <li>desc_sentence->A [PersonJob] watches silently from afar.</li>
+  -->
+  <LandedInPod.rulePack.rulesStrings><li>tale_noun->Η προσεδάφιση [PAWN_possessive] [PAWN_nameDef] μέσα σε μία άτρακτο</li>
+    <li>image->[PAWN_nameFull] προσγειώθηκε με μία άτρακτο [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] άγγιξε το έδαφος με μια άτρακτο [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] έφτασε στη γη πέφτοντας με μια άτρακτο [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] καβαλικεύονταν μία άτρακτο που πέφτει [circumstance_group]</li>
+    <li>circumstance_phrase->μπροστά από ένα [TerrainFeature]</li>
+    <li>circumstance_phrase->με απίστευτη ισχύς</li>
+    <li>circumstance_phrase->σε ένα χαλασμό από σκόνη και πέτρες</li>
+    <li>circumstance_phrase->με ρετρό-ρουκέτες που πυροδοτούνται αγκομαχώντας</li>
+    <li>circumstance_phrase->με μια προσγείωση ακριβείας</li>
+    <li>desc_sentence->[PAWN_pronoun] επικεντρώνεται προσεχτικά στους ελέγχους.</li>
+    <li>desc_sentence->[PAWN_pronoun] έχει τα μάτια [PAWN_possessive] κλειστά και φαίνεται να φοβάται.</li>
+    <li>desc_sentence->[PAWN_pronoun] έχει λιποθυμήσει, [PAWN_possessive] η γλώσσα, [PAWN_possessive] τρέχουν τα σάλια.</li>
+    <li>desc_sentence->[PAWN_pronoun] χαμογελάει με ζοφερή χαρά.</li>
+    <li>desc_sentence->[PAWN_pronoun] μοιάζει να μην έχει καμιά ιδέα για το τι κάνει.</li>
+    <li>desc_sentence->[PAWN_pronoun] είναι σφιχτά δεμένη με τα μάτια [PAWN_possessive] κλειστά, εντελώς αβοήθητη.</li>
+    <li>desc_sentence->Υπάρχει ένα ίχνος φλόγας που γλείφει το πίσω μέρος της ατράκτου.</li>
+    <li>desc_sentence->Ένα κοντινό [Animal] κοιτάζει, τρομαγμένο.</li>
+    <li>desc_sentence->Ένα [Animal] φεύγει τρομαγμένο.</li>
+    <li>desc_sentence->Υπάρχει ένα [TerrainFeature] στο φόντο.</li>
+    <li>desc_sentence->Ένας [PersonJob] παρατηρεί ήσυχα από αλάργα.</li></LandedInPod.rulePack.rulesStrings>
+  
+  <!-- EN: berserk rage -->
+  <MentalStateBerserk.label>μαίνεται μανιασμένη</MentalStateBerserk.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] going berserk</li>
+    <li>image->[PAWN_nameFull] flying into a berserk rage [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] becoming madly, violently insane [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] stumbling forward with a psychotic look on [PAWN_possessive] face [circumstance_group]</li>
+    <li>circumstance_phrase->while attempting to disrobe</li>
+    <li>circumstance_phrase->seemingly without reason</li>
+    <li>circumstance_phrase->as others cower in fear</li>
+    <li>circumstance_phrase->as a friend flees</li>
+    <li>circumstance_phrase->because of the stress</li>
+    <li>circumstance_phrase->as a last step</li>
+    <li>desc_sentence->[PAWN_pronoun] is shaking with ungovernable rage.</li>
+    <li>desc_sentence->[PAWN_possessive] teeth are bared in a deadly snarl.</li>
+    <li>desc_sentence->[PAWN_possessive] eyes are dead pools of madness.</li>
+    <li>desc_sentence->Spittle is flying from [PAWN_possessive] mouth as [PAWN_possessive] screams with insane rage.</li>
+    <li>desc_sentence->[PAWN_pronoun] has lost part of [PAWN_possessive] clothing.</li>
+    <li>desc_sentence->[PAWN_pronoun] is grimacing in misery.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems smiling maniacally.</li>
+    <li>desc_sentence->[PAWN_pronoun] is depicted with the snarling face of a [Animal].</li>
+    <li>desc_sentence->[Animal]s symbolically surround [PAWN_possessive] head.</li>
+    <li>desc_sentence->[PAWN_pronoun] has a murderous glint in [PAWN_possessive] eye.</li>
+    <li>desc_sentence->[PAWN_possessive] entire body seems to be trembling with hatred.</li>
+    <li>desc_sentence->[PAWN_possessive] face is set in a look of twisted serenity.</li>
+    <li>desc_sentence->A single tear rolls down [PAWN_possessive] face.</li>
+  -->
+  <MentalStateBerserk.rulePack.rulesStrings><li>tale_noun->[PAWN_nameDef] γίνεται μανιασμένη</li>
+    <li>image->[PAWN_nameFull] φεύγει με μια μανιασμένη οργή [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] καταβάλλεται από τρελά και βίαιη παραφροσύνη [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] σκοντάφτει με μια ψυχωτική όψη στο πρόσωπό [PAWN_possessive] [circumstance_group]</li>
+    <li>circumstance_phrase->προσπαθώντας να ξεντυθεί</li>
+    <li>circumstance_phrase->φαινομενικά χωρίς λόγο</li>
+    <li>circumstance_phrase->ενώ οι άλλοι μαζεύονται από φόβο</li>
+    <li>circumstance_phrase->καθώς ένα φίλος το σκάει</li>
+    <li>circumstance_phrase->λόγω της πίεσης</li>
+    <li>circumstance_phrase->ως το τελευταίο βήμα</li>
+    <li>desc_sentence->[PAWN_pronoun] κλονίζεται με μια ανεξέλεγκτη οργή.</li>
+    <li>desc_sentence->Τα δόντια [PAWN_possessive] αποκαλύπτονται με ένα θανάσιμο γρύλισμα.</li>
+    <li>desc_sentence->Τα μάτια του είναι [PAWN_possessive] σαν νεκρές κηλίδες τρέλας.</li>
+    <li>desc_sentence->Φτύνει σάλια από το στόμα [PAWN_possessive] καθώς κραυγάζει με παράφορη μανία.</li>
+    <li>desc_sentence->[PAWN_pronoun] έχει χάσει τμήμα των ρούχων [PAWN_possessive].</li>
+    <li>desc_sentence->[PAWN_pronoun] μορφάζει δυστυχισμένα.</li>
+    <li>desc_sentence->[PAWN_pronoun] μοιάζει να χαμογελά μανιακά.</li>
+    <li>desc_sentence->[PAWN_pronoun] παίρνει την όψη ενός [Animal] που γρυλίζει.</li>
+    <li>desc_sentence->[Animal] περιστοιχίζουν συμβολικά το κεφάλι [PAWN_possessive].</li>
+    <li>desc_sentence->[PAWN_pronoun] έχει μια δολοφονική λάμψη στη ματιά [PAWN_possessive].</li>
+    <li>desc_sentence->Ολόκληρο το σώμα [PAWN_possessive] φαίνεται να τρέμει από το μίσος.</li>
+    <li>desc_sentence->Το πρόσωπο [PAWN_possessive] έχει μια έκφραση διαστρεβλωμένης ηρεμίας.</li>
+    <li>desc_sentence->Ένα δάκρυ μόνο κυλάει στο πρόσωπό [PAWN_possessive].</li></MentalStateBerserk.rulePack.rulesStrings>
+  
+  <!-- EN: gave up -->
+  <MentalStateGaveUp.label>εγκατέλειψε</MentalStateGaveUp.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] giving up in despair</li>
+    <li>image->[PAWN_nameFull] finally giving up under stress [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sobbing uncontrollably [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] stumbling around with a completely broken expression on [PAWN_possessive] face [circumstance_group]</li>
+    <li>circumstance_phrase->while attempting to disrobe</li>
+    <li>circumstance_phrase->seemingly without reason</li>
+    <li>circumstance_phrase->as others offer sympathy</li>
+    <li>circumstance_phrase->as a friend cries</li>
+    <li>circumstance_phrase->because of the stress</li>
+    <li>circumstance_phrase->as a last step</li>
+    <li>desc_sentence->[PAWN_pronoun] has tears streaming down [PAWN_possessive] face.</li>
+    <li>desc_sentence->[PAWN_pronoun] is laughing in the depths of [PAWN_possessive] depression.</li>
+    <li>desc_sentence->[PAWN_nameDef] is looking upward, as if to ask for help from above.</li>
+    <li>desc_sentence->[PAWN_pronoun] is tearing at [PAWN_possessive] own clothes.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems totally unaware of what is around [PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_pronoun] looks happy and sad at the same time.</li>
+    <li>desc_sentence->[PAWN_pronoun] has stains down [PAWN_possessive] front.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to have lost a shoe.</li>
+    <li>desc_sentence->[PAWN_possessive] hair is totally mussed up.</li>
+  -->
+  <MentalStateGaveUp.rulePack.rulesStrings><li>tale_noun->[PAWN_nameDef] παραδόθηκε στην απόγνωση</li>
+    <li>image->[PAWN_nameFull] τελικά καταβλήθηκε από άγχος [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] κλαίει με αναφιλητά ανεξέλεγκτα [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] σκοντάφτει τριγύρω με μια εντελώς σπασμένη έκφραση στο πρόσωπο [PAWN_possessive] [circumstance_group]</li>
+    <li>circumstance_phrase->ενώ προσπαθεί να βάλει τα ρούχα</li>
+    <li>circumstance_phrase->από ότι φαίνεται χωρίς αιτία</li>
+    <li>circumstance_phrase->καθώς οι άλλοι του προσφέρουν συμπάθεια</li>
+    <li>circumstance_phrase->ενώ ένας φίλος του κλαίει</li>
+    <li>circumstance_phrase->εξαιτίας του άγχους</li>
+    <li>circumstance_phrase->κατά το τελευταίο στάδιο</li>
+    <li>desc_sentence->[PAWN_pronoun] τα δάκρυα τρέχουν από το πρόσωπο [PAWN_possessive].</li>
+    <li>desc_sentence->[PAWN_pronoun] γελά από τα βάθη της κατάθλιψης [PAWN_possessive].</li>
+    <li>desc_sentence->[PAWN_nameDef] κοιτά ψιλά, σαν να ζητά βοήθεια από πάνω.</li>
+    <li>desc_sentence->[PAWN_pronoun] σκίζει τα ρούχα [PAWN_possessive].</li>
+    <li>desc_sentence->[PAWN_pronoun] φαίνεται να αγνοεί εντελώς για το τι είναι γύρω [PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_pronoun] έχει χαρμολύπη.</li>
+    <li>desc_sentence->[PAWN_pronoun] έχει λεκέδες μπροστά [PAWN_possessive].</li>
+    <li>desc_sentence->[PAWN_pronoun] φαίνεται να έχει χάσει το ένα παπούτσι.</li>
+    <li>desc_sentence->Τα μαλλιά [PAWN_possessive] πλήρως ανακατεμένα.</li></MentalStateGaveUp.rulePack.rulesStrings>
+  
+  <!-- EN: struck mineable -->
+  <StruckMineable.label>κτύπησε εξορύξιμο υλικό</StruckMineable.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] striking [THING_label]</li>
+    <li>image->[PAWN_nameFull] striking [THING_label] [circumstance_group]</li>
+    <li>circumstance_phrase->while mining</li>
+    <li>circumstance_phrase->while digging</li>
+    <li>circumstance_phrase->while tunnelling</li>
+    <li>circumstance_phrase->with a look of surprise</li>
+    <li>circumstance_phrase->with a satisfied expression</li>
+    <li>desc_sentence->[PAWN_nameDef] is wiping [PAWN_possessive] brow.</li>
+    <li>desc_sentence->[PAWN_nameDef] is jumping for joy.</li>
+    <li>desc_sentence->[PAWN_nameDef] is high-fiving a friend.</li>
+    <li>desc_sentence->[PAWN_nameDef] is screaming with happiness.</li>
+    <li>desc_sentence->[PAWN_nameDef] is laughing uncontrollably.</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
+  -->
+  <StruckMineable.rulePack.rulesStrings><li>tale_noun->[PAWN_nameDef] κτύπησε [THING_label]</li>
+    <li>image->[PAWN_nameFull] κτύπησε [THING_label] [circumstance_group]</li>
+    <li>circumstance_phrase->ενώ κάνει εξόρυξη</li>
+    <li>circumstance_phrase->καθώς σκάβει</li>
+    <li>circumstance_phrase->την στιγμή που ανοίγει σήραγγα</li>
+    <li>circumstance_phrase->με μια έκπληκτη ματιά</li>
+    <li>circumstance_phrase->με έκφραση ικανοποίησης</li>
+    <li>desc_sentence->[PAWN_nameDef] σκουπίζει το μέτωπο [PAWN_possessive].</li>
+    <li>desc_sentence->[PAWN_nameDef] χοροπηδάει από τη χαρά.</li>
+    <li>desc_sentence->[PAWN_nameDef] κολλάει πέντε σε έναν φίλο.</li>
+    <li>desc_sentence->[PAWN_nameDef] ουρλιάζει από ευτυχία.</li>
+    <li>desc_sentence->[PAWN_nameDef] γελάει ασταμάτητα.</li>
+    <li>desc_sentence->[PAWN_nameDef] είναι ιδρωμένη και βρόμικη από την δουλειά.</li>
+    <li>desc_sentence->[PAWN_nameDef] είναι μούσκεμα και σκονισμένη από την εργασία.</li></StruckMineable.rulePack.rulesStrings>
+  
+  <!-- EN: vomited -->
+  <Vomited.label>ξέρασε</Vomited.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s vomiting</li>
+    <li>image->[PAWN_nameFull] spewing vomit onto the ground [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] looking disgusted while covered with dried vomit [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] doubled over and retching onto the floor [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] on [PAWN_possessive] knees, vomiting on the floor [circumstance_group]</li>
+    <li>circumstance_phrase->while looking pained</li>
+    <li>circumstance_phrase->with great shame</li>
+    <li>circumstance_phrase->as others look on</li>
+    <li>desc_sentence->[PAWN_pronoun] seems totally unaware of what is around [PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_possessive] face itself seems to be swelling.</li>
+    <li>desc_sentence->[PAWN_pronoun] is nearly unconscious, [PAWN_possessive] tongue lolling out, drool dripping.</li>
+    <li>desc_sentence->[PAWN_pronoun] is convulsing violently.</li>
+    <li>desc_sentence->[PAWN_pronoun] looks ashamed.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to be trying to laugh, despite the circumstances.</li>
+    <li>desc_sentence->[PAWN_pronoun] looks almost deflated, as though totally emptied by the intense vomiting.</li>
+    <li>desc_sentence->[PAWN_pronoun] is surrounded by an artistically rendered halo of filth.</li>
+    <li>desc_sentence->A [Animal] is eating from the trail of vomit in the background.</li>
+  -->
+  <Vomited.rulePack.rulesStrings><li>tale_noun->Ο εμετός [PAWN_possessive] [PAWN_nameDef]</li>
+    <li>image->[PAWN_nameFull] ξερνάει εμετό στο έδαφος [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] κοιτάζει αηδιασμένη ενώ καλύπτεται με αποξηραμένο εμετό [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] διπλώθηκε και προσπάθησε να εμέσει στο πάτωμα [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] πεσμένη στα γόνατά [PAWN_possessive], κάνει εμετό στο πάτωμα [circumstance_group]</li>
+    <li>circumstance_phrase->ενώ κοιτάζει πονεμένη</li>
+    <li>circumstance_phrase->με μεγάλη αηδία</li>
+    <li>circumstance_phrase->ενώ κοιτάνε οι άλλοι</li>
+    <li>desc_sentence->[PAWN_pronoun] μοιάζει να έχει αποκοπεί τελείως από το περιβάλλον [PAWN_objective].</li>
+    <li>desc_sentence->Το πρόσωπό [PAWN_possessive] μοιάζει να είναι πρησμένο.</li>
+    <li>desc_sentence->[PAWN_pronoun] κοντεύει να χάσει τις αισθήσεις [PAWN_possessive],[PAWN_possessive] έχει βγει η γλώσσα, τρέχουν σάλια.</li>
+    <li>desc_sentence->[PAWN_pronoun] το σώμα [PAWN_possessive] σπαράζει βίαια.</li>
+    <li>desc_sentence->[PAWN_pronoun] φαίνεται ντροπιασμένη.</li>
+    <li>desc_sentence->[PAWN_pronoun] φαίνεται να προσπαθεί να γελάσει, παρά τις περιστάσεις.</li>
+    <li>desc_sentence->[PAWN_pronoun] φαίνεται σχεδόν αποκαμωμένη, σαν να άδειασε εντελώς από τον έντονο εμετό.</li>
+    <li>desc_sentence->[PAWN_pronoun] περιβάλλεται από ένα καλλιτεχνικό φωτοστέφανο βρωμιάς.</li>
+    <li>desc_sentence->Ένα [Animal] τρώει από τον πεσμένο εμετό στο βάθος.</li></Vomited.rulePack.rulesStrings>
+  
+  <!-- EN: walked naked -->
+  <WalkedNaked.label>ξεγυμνώθηκε</WalkedNaked.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] walking around naked</li>
+    <li>image->[PAWN_nameFull] [nude_action] while in a state of nature [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [nude_action] in the nude [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [nude_action], naked, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [nude_action] without any clothes on [circumstance_group]</li>
+    <li>nude_action->prancing</li>
+    <li>nude_action->frolicking</li>
+    <li>nude_action->gambolling</li>
+    <li>nude_action->walking</li>
+    <li>nude_action->strutting [PAWN_possessive] stuff</li>
+    <li>nude_action->sashaying</li>
+    <li>nude_action->tiptoeing</li>
+    <li>nude_action->promenading</li>
+    <li>nude_action->surveying the area</li>
+    <li>circumstance_phrase->with a sense of purpose</li>
+    <li>circumstance_phrase->with no hint of shame</li>
+    <li>circumstance_phrase->while others look on</li>
+    <li>circumstance_phrase->for no apparent reason</li>
+    <li>circumstance_phrase->while confused animals look on</li>
+    <li>desc_sentence->[PAWN_nameDef] is visibly aroused.</li>
+    <li>desc_sentence->[PAWN_nameDef] is covered in unexplained moisture.</li>
+    <li>desc_sentence->[PAWN_nameDef] is breathing heavily for no obvious reason.</li>
+    <li>desc_sentence->[PAWN_nameDef] is fondling a shrub.</li>
+  -->
+  <WalkedNaked.rulePack.rulesStrings><li>tale_noun->[PAWN_nameDef] περιφέρεται γυμνή</li>
+    <li>image->[PAWN_nameFull] [nude_action] σαν να βρίσκεται στη φυσική [PAWN_possessive] κατάσταση [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [nude_action] ξεβράκωτη [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [nude_action], γυμνή, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [nude_action] χωρίς κανένα ρούχο πάνω [PAWN_possessive] [circumstance_group]</li>
+    <li>nude_action->περπάτα καμαρωτά</li>
+    <li>nude_action->παιδιαρίζει</li>
+    <li>nude_action->χοροπηδάει</li>
+    <li>nude_action->περπατάει</li>
+    <li>nude_action->κορδώνει το πράμα [PAWN_possessive]</li>
+    <li>nude_action->βαδίζει αδιάφορα</li>
+    <li>nude_action->περπατάει στα νύχια</li>
+    <li>nude_action->κάνει περίπατο</li>
+    <li>nude_action->αγναντεύει την περιοχή</li>
+    <li>circumstance_phrase->γνωρίζοντας τι κάνει</li>
+    <li>circumstance_phrase->χωρίς ίχνος ντροπής</li>
+    <li>circumstance_phrase->καθώς κοιτάζουν οι άλλοι</li>
+    <li>circumstance_phrase->χωρίς συγκεκριμένο λόγο</li>
+    <li>circumstance_phrase->ενώ τα ζώα κοιτάζουν σαστισμένα</li>
+    <li>desc_sentence->[PAWN_nameDef] είναι εμφανές διεγερμένη.</li>
+    <li>desc_sentence->[PAWN_nameDef] καλύπτεται με ανεξήγητη υγρασία.</li>
+    <li>desc_sentence->[PAWN_nameDef] αναπνέει έντονα χωρίς προφανή λόγο.</li>
+    <li>desc_sentence->[PAWN_nameDef] χαϊδεύει έναν θάμνο.</li></WalkedNaked.rulePack.rulesStrings>
+  
+  <!-- EN: on fire -->
+  <WasOnFire.label>καίγεται</WasOnFire.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] catching fire</li>
+    <li>image->[PAWN_nameFull] frantically beating out a fire attached to [PAWN_possessive] body [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] enveloped by flame [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] kneeling, hands over head, trying to extinguish flames on [PAWN_possessive] body [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] rolling on the floor while burning [circumstance_group]</li>
+    <li>circumstance_phrase->while others look on</li>
+    <li>circumstance_phrase->while nearly naked</li>
+    <li>circumstance_phrase->with focused intent</li>
+    <li>desc_sentence->[PAWN_possessive] flesh is visibly charring.</li>
+    <li>desc_sentence->[PAWN_possessive] eyes are wide with panic.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to be barely conscious; [PAWN_possessive] eyes are lifeless.</li>
+    <li>desc_sentence->[PAWN_possessive] mouth is open as [PAWN_pronoun] screams for help.</li>
+    <li>desc_sentence->The flames are about to envelope his head.</li>
+    <li>desc_sentence->A symbolic halo of fire surrounds his face.</li>
+    <li>desc_sentence->[PAWN_pronoun] is laughing maniacally.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to be losing [PAWN_objective]self.</li>
+    <li>desc_sentence->A plume of smoke is rising off [PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_pronoun] is rendered artistically in a corpse-like way.</li>
+  -->
+  <WasOnFire.rulePack.rulesStrings><li>tale_noun->[PAWN_nameDef] έχει πιάσει φωτιά</li>
+    <li>image->[PAWN_nameFull] χτυπιέται μανιωδώς ενώ το σώμα [PAWN_possessive] έχει πιάσει φωτιά [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] περιτυλίγεται από φλόγες [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] γονατιστή, με τα χέρια πάνω από το κεφάλι, προσπαθεί να σβήσει τις φλόγες από το σώμα [PAWN_possessive] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] κυλιέται στο πάτωμα ενώ καίγεται [circumstance_group]</li>
+    <li>circumstance_phrase->καθώς οι άλλοι κοιτούν</li>
+    <li>circumstance_phrase->ενώ είναι σχεδόν γυμνή</li>
+    <li>circumstance_phrase->με εστιασμένη αποφασιστικότητα</li>
+    <li>desc_sentence->Η σάρκα [PAWN_possessive] είναι εμφανώς καρβουνιασμένη.</li>
+    <li>desc_sentence->Τα μάτια [PAWN_possessive] είναι γουρλωμένα με πανικό.</li>
+    <li>desc_sentence->[PAWN_pronoun] φαίνεται να έχει ελάχιστα τις αισθήσεις [PAWN_possessive]. Τα μάτια [PAWN_possessive]  είναι άψυχα.</li>
+    <li>desc_sentence->Με το στόμα [PAWN_possessive] ανοικτό φωνάζει για βοήθεια.</li>
+    <li>desc_sentence->Οι φλόγες πρόκειται να καλύψουν το κεφάλι [PAWN_possessive].</li>
+    <li>desc_sentence->Ένα συμβολικό φωτοστέφανο της φωτιάς περιβάλλει το πρόσωπό [PAWN_possessive].</li>
+    <li>desc_sentence->[PAWN_pronoun] γελάει μανιακά.</li>
+    <li>desc_sentence->[PAWN_pronoun] φαίνεται να χάνει τον εαυτό [PAWN_objective].</li>
+    <li>desc_sentence->Ένα σύννεφο καπνού αναδύεται από αυ[PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_pronoun] παρουσιάζεται καλλιτεχνικά σαν ένα πτώμα.</li></WasOnFire.rulePack.rulesStrings>
+  
+</LanguageData>

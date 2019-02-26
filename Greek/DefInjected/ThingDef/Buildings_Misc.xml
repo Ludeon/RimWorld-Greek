@@ -1,131 +1,96 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <OrbitalTradeBeacon.label>φάρος εμπορίου πλανητικής τροχιάς</OrbitalTradeBeacon.label>
-  <OrbitalTradeBeacon.description>Απαιτείται για εμπόριο πλανητικής τροχιάς. Μπορείς να πουλήσεις αγαθά μόνο αν αυτά βρίσκονται σε έναν τέτοιο φάρο. Μπορεί να τοποθετηθεί σε εσωτερικό χώρο.</OrbitalTradeBeacon.description>
-  <OrbitalTradeBeacon_Blueprint.label>φάρος εμπορίου πλανητικής τροχιάς (προσχέδιο)</OrbitalTradeBeacon_Blueprint.label>
-  <OrbitalTradeBeacon_Blueprint_Install.label>φάρος εμπορίου πλανητικής τροχιάς (προσχέδιο)</OrbitalTradeBeacon_Blueprint_Install.label>
-  <OrbitalTradeBeacon_Frame.label>φάρος εμπορίου πλανητικής τροχιάς (κατασκευή)</OrbitalTradeBeacon_Frame.label>
-  <OrbitalTradeBeacon_Frame.description>Απαιτείται για εμπόριο πλανητικής τροχιάς. Μπορείς να πουλήσεις αγαθά μόνο αν αυτά βρίσκονται σε έναν τέτοιο φάρο. Μπορεί να τοποθετηθεί σε εσωτερικό χώρο.</OrbitalTradeBeacon_Frame.description>
-
-  <CommsConsole.label>κονσόλα επικοινωνίας</CommsConsole.label>
-  <CommsConsole.description>Επιτρέπει την επαφή ραδιοφώνου με απομακρυσμένους εμπόρους, καθώς και άλλες παρατάξεις για εμπόριο και διπλωματία.</CommsConsole.description>
-  <CommsConsole_Blueprint.label>κονσόλα επικοινωνίας (προσχέδιο)</CommsConsole_Blueprint.label>
-  <CommsConsole_Frame.label>κονσόλα επικοινωνίας (κατασκευή)</CommsConsole_Frame.label>
-  <CommsConsole_Frame.description>Επιτρέπει την επαφή ραδιοφώνου με απομακρυσμένους εμπόρους, καθώς και άλλες παρατάξεις για εμπόριο και διπλωματία.</CommsConsole_Frame.description>
-
-  <FirefoamPopper.label>πυροσβεστήρας αφρού</FirefoamPopper.label>
-  <FirefoamPopper.description>Όταν τον αγγίξει η φωτιά ή πυροδοτηθεί με το χέρι, αυτός σκάει και ψεκάζει έναν πυροσβεστικό αφρό σε ένα κυκλικό πεδίο γύρω από τον εαυτό του.</FirefoamPopper.description>
-  <FirefoamPopper.comps.1.useLabel>Ενεργοποίηση πυροσβεστήρα αφρού</FirefoamPopper.comps.1.useLabel>
-  <FirefoamPopper_Blueprint.label>πυροσβεστήρας αφρού (προσχέδιο)</FirefoamPopper_Blueprint.label>
-  <FirefoamPopper_Blueprint_Install.label>πυροσβεστήρας αφρού (προσχέδιο)</FirefoamPopper_Blueprint_Install.label>
-  <FirefoamPopper_Frame.label>πυροσβεστήρας αφρού (κατασκευή)</FirefoamPopper_Frame.label>
-  <FirefoamPopper_Frame.description>Όταν τον αγγίξει η φωτιά ή πυροδοτηθεί με το χέρι, αυτός σκάει και ψεκάζει έναν πυροσβεστικό αφρό σε ένα κυκλικό πεδίο γύρω από τον εαυτό του.</FirefoamPopper_Frame.description>
-
-  <MoisturePump.label>αντλία υγρασίας</MoisturePump.label>
-  <MoisturePump.description>Αφαιρεί πολύ αργά την υγρασία από κοντινό έδαφος, μετατρέποντας έλη ή ρηχά νερά σε ξηρό έδαφος. Δεν επιδρά στα βαθιά νερά.</MoisturePump.description>
-  <MoisturePump_Blueprint.label>αντλία υγρασίας (προσχέδιο)</MoisturePump_Blueprint.label>
-  <MoisturePump_Frame.label>αντλία υγρασίας (κατασκευή)</MoisturePump_Frame.label>
-  <MoisturePump_Frame.description>Αφαιρεί πολύ αργά την υγρασία από κοντινό έδαφος, μετατρέποντας έλη ή ρηχά νερά σε ξηρό έδαφος. Δεν επιδρά στα βαθιά νερά.</MoisturePump_Frame.description>
-
-  <GroundPenetratingScanner.label>διεισδυτικός σαρωτής εδάφους</GroundPenetratingScanner.label>
-  <GroundPenetratingScanner.description>Ένα διεισδυτικό ανεστραμμένο ραντάρ, σε συνδυασμό με το σόναρ και τους μαγνητικούς απεικονιστές, σας επιτρέπει να ανιχνεύσετε (αλλά όχι να εντοπίσετε) τα ορυκτά που βρίσκονται βαθιά κάτω από την επιφάνεια. Απαιτεί τεράστια ποσότητα ηλεκτρικής ενέργειας.</GroundPenetratingScanner.description>
-  <GroundPenetratingScanner_Blueprint.label>διεισδυτικός σαρωτής εδάφους (προσχέδιο)</GroundPenetratingScanner_Blueprint.label>
-  <GroundPenetratingScanner_Frame.label>διεισδυτικός σαρωτής εδάφους (κατασκευή)</GroundPenetratingScanner_Frame.label>
-  <GroundPenetratingScanner_Frame.description>Ένα διεισδυτικό ανεστραμμένο ραντάρ, σε συνδυασμό με το σόναρ και τους μαγνητικούς απεικονιστές, σας επιτρέπει να ανιχνεύσετε (αλλά όχι να εντοπίσετε) τα ορυκτά που βρίσκονται βαθιά κάτω από την επιφάνεια. Απαιτεί τεράστια ποσότητα ηλεκτρικής ενέργειας.</GroundPenetratingScanner_Frame.description>
-
-  <LongRangeMineralScanner.label>μεγάλου εύρους ανιχνευτής ορυκτών</LongRangeMineralScanner.label>
-  <LongRangeMineralScanner.description>Ανιχνεύει αυτόματα πολύτιμα μέταλλα όπως χρυσό ή νεφρίτη στις κοντινές περιοχές (αλλά όχι τα κατασκευασμένα). Οι θρόμβοι μεταλλεύματος βρίσκονται κατά μέσο όρο μία φορά ανά 30 ημέρες σε ακτίνα 30 πλακιδίων. Η κατασκευή περισσότερων από ενός σαρωτή στις ίδιες ή στις κοντινές περιοχές έχει ελάχιστη επίδραση.</LongRangeMineralScanner.description>
-  <LongRangeMineralScanner_Blueprint.label>μεγάλου εύρους ανιχνευτής ορυκτών (προσχέδιο)</LongRangeMineralScanner_Blueprint.label>
-  <LongRangeMineralScanner_Frame.label>μεγάλου εύρους ανιχνευτής ορυκτών (κατασκευή)</LongRangeMineralScanner_Frame.label>
-  <LongRangeMineralScanner_Frame.description>Ανιχνεύει αυτόματα πολύτιμα μέταλλα όπως χρυσό ή νεφρίτη στις κοντινές περιοχές (αλλά όχι τα κατασκευασμένα). Οι θρόμβοι μεταλλεύματος βρίσκονται κατά μέσο όρο μία φορά ανά 30 ημέρες σε ακτίνα 30 πλακιδίων. Η κατασκευή περισσότερων από ενός σαρωτή στις ίδιες ή στις κοντινές περιοχές έχει ελάχιστη επίδραση.</LongRangeMineralScanner_Frame.description>
-
-
-  <!-- Άτρακτοι μεταφοράς (Transport pods) -->
-
-  <PodLauncher.label>εκτοξευτής ατράκτου</PodLauncher.label>
-  <PodLauncher.description>Μια βάση τροφοδοσίας για την εκτόξευση μίας ατράκτου μεταφοράς. Οι εκτοξευτές ατράκτου μπορούν να ξεκινήσουν ως ομάδα - αλλά οι εκτοξευτές πρέπει να είναι τοποθετημένοι ο ένας δίπλα στον άλλο.</PodLauncher.description>
-  <PodLauncher_Blueprint.label>εκτοξευτής ατράκτου (προσχέδιο)</PodLauncher_Blueprint.label>
-  <PodLauncher_Frame.label>εκτοξευτής ατράκτου (κατασκευή)</PodLauncher_Frame.label>
-  <PodLauncher_Frame.description>Μια βάση τροφοδοσίας για την εκτόξευση μίας ατράκτου μεταφοράς. Οι εκτοξευτές ατράκτου μπορούν να ξεκινήσουν ως ομάδα - αλλά οι εκτοξευτές πρέπει να είναι τοποθετημένοι ο ένας δίπλα στον άλλο.</PodLauncher_Frame.description>
-
-  <TransportPod.label>άτρακτος μεταφοράς</TransportPod.label>
-  <TransportPod.description>Μία εκτοξεύσημη άτρακτος φορτίου υποτροχιακών ταξιδιών ικανή να μεταφέρει ανθρώπους, αντικείμενα ή ζώα. Μπορεί να χρησιμοποιηθεί για μεταφορές, αιφνίδιες επιθέσεις ή ενίσχυση σε μάχες.</TransportPod.description>
-  <TransportPod_Blueprint.label>άτρακτος μεταφοράς (προσχέδιο)</TransportPod_Blueprint.label>
-  <TransportPod_Frame.label>άτρακτος μεταφοράς (κατασκευή)</TransportPod_Frame.label>
-  <TransportPod_Frame.description>Μία εκτοξεύσημη άτρακτος φορτίου υποτροχιακών ταξιδιών ικανή να μεταφέρει ανθρώπους, αντικείμενα ή ζώα. Μπορεί να χρησιμοποιηθεί για μεταφορές, αιφνίδιες επιθέσεις ή ενίσχυση σε μάχες.</TransportPod_Frame.description>
-
-
-  <!-- Εγκαταστάσεις (Facilities) -->
-
-  <MultiAnalyzer.label>πολυαναλυτής</MultiAnalyzer.label>
-  <MultiAnalyzer.description>Αυξάνει την ταχύτητα της έρευνας. Πρέπει να τοποθετηθεί κοντά σε ερευνητικό πάγκο υψηλής τεχνολογίας. Ένας ερευνητικός πάγκος μπορεί να συνδεθεί με έναν μόνο πολυαναλυτή.</MultiAnalyzer.description>
-  <MultiAnalyzer_Blueprint.label>πολυαναλυτής (προσχέδιο)</MultiAnalyzer_Blueprint.label>
-  <MultiAnalyzer_Blueprint_Install.label>πολυαναλυτής (προσχέδιο)</MultiAnalyzer_Blueprint_Install.label>
-  <MultiAnalyzer_Frame.label>πολυαναλυτής (κατασκευή)</MultiAnalyzer_Frame.label>
-  <MultiAnalyzer_Frame.description>Αυξάνει την ταχύτητα της έρευνας. Πρέπει να τοποθετηθεί κοντά σε ερευνητικό πάγκο υψηλής τεχνολογίας. Ένας ερευνητικός πάγκος μπορεί να συνδεθεί με έναν μόνο πολυαναλυτή.</MultiAnalyzer_Frame.description>
-
-  <VitalsMonitor.label>οθόνη παρακολούθησης ζωτικών οργάνων</VitalsMonitor.label>
-  <VitalsMonitor.description>Αυξάνει την ποιότητα της ιατρικής φροντίδας, την πιθανότητα επιτυχίας χειρουργικής επέμβασης και την ταχύτητα αύξησης της ανοσίας όταν τοποθετείται δίπλα σε ένα νοσοκομειακό κρεβάτι. Λειτουργεί μόνο για τα νοσοκομειακά κρεβάτια - τα κανονικά κρεβάτια δεν θα ωφεληθούν. Η τοποθέτηση περισσότερων από μία συσκευής παρακολούθησης ζωτικών οργάνων στο ίδιο κρεβάτι δεν θα έχει καμία επίδραση.</VitalsMonitor.description>
-  <VitalsMonitor_Blueprint.label>οθόνη παρακολούθησης ζωτικών οργάνων (προσχέδιο)</VitalsMonitor_Blueprint.label>
-  <VitalsMonitor_Blueprint_Install.label>οθόνη παρακολούθησης ζωτικών οργάνων (προσχέδιο)</VitalsMonitor_Blueprint_Install.label>
-  <VitalsMonitor_Frame.label>οθόνη παρακολούθησης ζωτικών οργάνων (κατασκευή)</VitalsMonitor_Frame.label>
-  <VitalsMonitor_Frame.description>Αυξάνει την ποιότητα της ιατρικής φροντίδας, την πιθανότητα επιτυχίας χειρουργικής επέμβασης και την ταχύτητα αύξησης της ανοσίας όταν τοποθετείται δίπλα σε ένα νοσοκομειακό κρεβάτι. Λειτουργεί μόνο για τα νοσοκομειακά κρεβάτια - τα κανονικά κρεβάτια δεν θα ωφεληθούν. Η τοποθέτηση περισσότερων από μία συσκευής παρακολούθησης ζωτικών οργάνων στο ίδιο κρεβάτι δεν θα έχει καμία επίδραση.</VitalsMonitor_Frame.description>
-
-  <ToolCabinet.label>εργαλειοθήκη</ToolCabinet.label>
-  <ToolCabinet.description>Αυξάνει την ταχύτητα εργασίας. Χρειάζεται να τοποθετηθεί κοντά στον πάγκο εργασίας. Ένας πάγκος εργασίας μπορεί να συνδεθεί ταυτόχρονα με μόνο δύο εργαλειοθήκες.</ToolCabinet.description>
-  <ToolCabinet_Blueprint.label>εργαλειοθήκη (προσχέδιο)</ToolCabinet_Blueprint.label>
-  <ToolCabinet_Blueprint_Install.label>εργαλειοθήκη (προσχέδιο)</ToolCabinet_Blueprint_Install.label>
-  <ToolCabinet_Frame.label>εργαλειοθήκη (κατασκευή)</ToolCabinet_Frame.label>
-  <ToolCabinet_Frame.description>Αυξάνει την ταχύτητα εργασίας. Χρειάζεται να τοποθετηθεί κοντά στον πάγκο εργασίας. Ένας πάγκος εργασίας μπορεί να συνδεθεί ταυτόχρονα με μόνο δύο εργαλειοθήκες.</ToolCabinet_Frame.description>
-
-
-  <!-- Τάφοι (Graves) -->
-
-  <Grave.label>τάφος</Grave.label>
-  <Grave.description>Θάψτε τους νεκρούς για να τους δώσετε ένα τελευταίο και αξιοπρεπές μέρος για τον τελευταίο και μεγάλο ύπνο τους. Οι αποικιστές θα επισκεφθούν τους γεμάτους τάφους για να κερδίσουν χαρά περισυλλογής.</Grave.description>
-  <Grave_Blueprint.label>τάφος (προσχέδιο)</Grave_Blueprint.label>
-  <Grave_Frame.label>τάφος (κατασκευή)</Grave_Frame.label>
-  <Grave_Frame.description>Θάψτε τους νεκρούς για να τους δώσετε ένα τελευταίο και αξιοπρεπές μέρος για τον τελευταίο και μεγάλο ύπνο τους. Οι αποικιστές θα επισκεφθούν τους γεμάτους τάφους για να κερδίσουν χαρά περισυλλογής.</Grave_Frame.description>
-
-  <Sarcophagus.label>σαρκοφάγος</Sarcophagus.label>
-  <Sarcophagus.description>Ένα διακοσμημένο ταφικό δοχείο για τους τιμημένους νεκρούς.</Sarcophagus.description>
-  <Sarcophagus_Blueprint.label>σαρκοφάγος (προσχέδιο)</Sarcophagus_Blueprint.label>
-  <Sarcophagus_Frame.label>σαρκοφάγος (κατασκευή)</Sarcophagus_Frame.label>
-  <Sarcophagus_Frame.description>Ένα διακοσμημένο ταφικό δοχείο για τους τιμημένους νεκρούς.</Sarcophagus_Frame.description>
-
-
-  <!-- Κρυογονικοί θάλαμοι (Cryptosleep caskets) -->
-
-  <CryptosleepCasket.label>κρυογονικός θάλαμος</CryptosleepCasket.label>
-  <CryptosleepCasket.description>Μια αυτοτροφοδοτούμενη σαρκοφάγος που έχει σχεδιαστεί για να κρατάει ένα άτομο σε κατάσταση αναστολής ζωτικών λειτουργιών για πολλά χρόνια.</CryptosleepCasket.description>
-  <CryptosleepCasket_Blueprint.label>κρυογονικός θάλαμος (προσχέδιο)</CryptosleepCasket_Blueprint.label>
-  <CryptosleepCasket_Frame.label>κρυογονικός θάλαμος (κατασκευή)</CryptosleepCasket_Frame.label>
-  <CryptosleepCasket_Frame.description>Μια αυτοτροφοδοτούμενη σαρκοφάγος που έχει σχεδιαστεί για να κρατάει ένα άτομο σε κατάσταση αναστολής ζωτικών λειτουργιών για πολλά χρόνια.</CryptosleepCasket_Frame.description>
-
+  
+  <!-- EN: ancient cryptosleep casket -->
   <AncientCryptosleepCasket.label>αρχαίος κρυογονικός θάλαμος</AncientCryptosleepCasket.label>
+  <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
   <AncientCryptosleepCasket.description>Αυτή η κρυογονική κασετίνα μοιάζει να είναι εδώ για πολύ καιρό. Ποιος ξέρει τι μπορεί να περιέχει;</AncientCryptosleepCasket.description>
-
-
-  <!-- Σημεία (Spots) -->
-
-  <MarriageSpot.label>μέρος γαμήλιας τελετής</MarriageSpot.label>
-  <MarriageSpot.description>Δηλώνει ένα σημείο όπου θα γίνονται τελετές γάμου. Οι θεατές μπορούν να παρακολουθήσουν και από τις δύο πλευρές.</MarriageSpot.description>
-  <MarriageSpot_Blueprint.label>μέρος γαμήλιας τελετής (προσχέδιο)</MarriageSpot_Blueprint.label>
-  <MarriageSpot_Frame.label>μέρος γαμήλιας τελετής (κατασκευή)</MarriageSpot_Frame.label>
-  <MarriageSpot_Frame.description>Δηλώνει ένα σημείο όπου θα γίνονται τελετές γάμου. Οι θεατές μπορούν να παρακολουθήσουν και από τις δύο πλευρές.</MarriageSpot_Frame.description>
-
-  <PartySpot.label>μέρος για πάρτι</PartySpot.label>
-  <PartySpot.description>Προσδιορίζει ένα σημείο όπου τα άτομα του πάρτι θα συγκεντρωθούν. Τα άτομα χρησιμοποιούν την περιοχή γύρω από το σημείο.</PartySpot.description>
-  <PartySpot_Blueprint.label>μέρος για πάρτι (προσχέδιο)</PartySpot_Blueprint.label>
-  <PartySpot_Frame.label>μέρος για πάρτι (κατασκευή)</PartySpot_Frame.label>
-  <PartySpot_Frame.description>Προσδιορίζει ένα σημείο όπου τα άτομα του πάρτι θα συγκεντρωθούν. Τα άτομα χρησιμοποιούν την περιοχή γύρω από το σημείο.</PartySpot_Frame.description>
-
+  
+  <!-- EN: caravan packing spot -->
   <CaravanPackingSpot.label>σημείο εκφόρτωσης καραβανιού</CaravanPackingSpot.label>
-  <CaravanPackingSpot.description>Ορίζει ένα σημείο όπου θα σχηματιστούν τα καραβάνια.</CaravanPackingSpot.description>
-  <CaravanPackingSpot_Blueprint.label>σημείο εκφόρτωσης καραβανιού (προσχέδιο)</CaravanPackingSpot_Blueprint.label>
-  <CaravanPackingSpot_Frame.label>σημείο εκφόρτωσης καραβανιού (κατασκευή)</CaravanPackingSpot_Frame.label>
-  <CaravanPackingSpot_Frame.description>Ορίζει ένα σημείο όπου θα σχηματιστούν τα καραβάνια.</CaravanPackingSpot_Frame.description>
-
-
+  <!-- EN: Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process. -->
+  <CaravanPackingSpot.description>Ορίζει ένα σημείο όπου θα σχηματιστούν τα καραβάνια. Βάλε το κοντά σε μια αποθήκη για να επιταχύνεις τη διαδικασία φόρτωσης του καραβανιού.</CaravanPackingSpot.description>
+  
+  <!-- EN: comms console -->
+  <CommsConsole.label>κονσόλα επικοινωνίας</CommsConsole.label>
+  <!-- EN: Allows radio contact with other factions and orbital traders. -->
+  <CommsConsole.description>Επιτρέπει την επαφή ραδιοφώνου με απομακρυσμένους εμπόρους, καθώς και άλλες παρατάξεις για εμπόριο και διπλωματία.</CommsConsole.description>
+  
+  <!-- EN: cryptosleep casket -->
+  <CryptosleepCasket.label>κρυογονικός θάλαμος</CryptosleepCasket.label>
+  <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
+  <CryptosleepCasket.description>Μια αυτοτροφοδοτούμενη σαρκοφάγος που έχει σχεδιαστεί για να κρατάει ένα άτομο σε κατάσταση αναστολής ζωτικών λειτουργιών για πολλά χρόνια.</CryptosleepCasket.description>
+  
+  <!-- EN: firefoam popper -->
+  <FirefoamPopper.label>πυροσβεστήρας αφρού</FirefoamPopper.label>
+  <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
+  <FirefoamPopper.description>Όταν ανιχνευτεί πυρκαγιά, αυτή η συσκευή ασφαλείας σκάει και ψεκάζει έναν αφρό επιβράδυνσης φωτιάς σε ένα κυκλικό πεδίο γύρω από αυτήν. Μπορεί επίσης να ενεργοποιηθεί χειροκίνητα..</FirefoamPopper.description>
+  <!-- EN: Trigger firefoam popper -->
+  <FirefoamPopper.comps.CompUsable.useLabel>Ενεργοποίηση πυροσβεστήρα αφρού</FirefoamPopper.comps.CompUsable.useLabel>
+  
+  <!-- EN: grave -->
+  <Grave.label>τάφος</Grave.label>
+  <!-- EN: A decent final resting place. Colonists will visit full graves to gain meditative joy. -->
+  <Grave.description>Μια τίμια θέση για την τελική ανάπαυση. Οι αποικιστές θα επισκεφθούν τους γεμάτους τάφους για να κερδίσουν χαρά περισυλλογής.</Grave.description>
+  
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>διεισδυτικός σαρωτής εδάφους</GroundPenetratingScanner.label>
+  <!-- EN: A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity. -->
+  <GroundPenetratingScanner.description>Ένα διεισδυτικό ανεστραμμένο ραντάρ, σε συνδυασμό με το σόναρ και τους μαγνητικούς απεικονιστές, σας επιτρέπει να ανιχνεύσετε (αλλά όχι να εντοπίσετε) τα ορυκτά που βρίσκονται βαθιά κάτω από την επιφάνεια. Απαιτεί τεράστια ποσότητα ηλεκτρικής ενέργειας.</GroundPenetratingScanner.description>
+  
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>μεγάλου εύρους ανιχνευτής ορυκτών</LongRangeMineralScanner.label>
+  <!-- EN: Can be used by researchers to detect a specific type of mineral across the planet. The time it takes to find the resource is somewhat random, and depends on researcher skill. -->
+  <LongRangeMineralScanner.description>Μπορεί να χρησιμοποιηθεί από ερευνητές για να ανιχνεύσει έναν συγκεκριμένο τύπο ορυκτών σε ολόκληρο τον πλανήτη. Ο χρόνος που χρειάζεται για να βρεθεί ο πόρος είναι κάπως τυχαίος και εξαρτάται από την ικανότητα των ερευνητών.</LongRangeMineralScanner.description>
+  
+  <!-- EN: marriage spot -->
+  <MarriageSpot.label>μέρος γαμήλιας τελετής</MarriageSpot.label>
+  <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
+  <MarriageSpot.description>Δηλώνει ένα σημείο όπου θα γίνονται τελετές γάμου. Οι θεατές μπορούν να παρακολουθήσουν και από τις δύο πλευρές.</MarriageSpot.description>
+  
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>αντλία υγρασίας</MoisturePump.label>
+  <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
+  <MoisturePump.description>Αφαιρεί πολύ αργά την υγρασία από κοντινό έδαφος, μετατρέποντας έλη ή ρηχά νερά σε ξηρό έδαφος καθώς και μαλακή άμμο σε κανονική άμμο. Δεν επιδρά στα βαθιά νερά.</MoisturePump.description>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>πολυαναλυτής</MultiAnalyzer.label>
+  <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
+  <MultiAnalyzer.description>Αυξάνει την ταχύτητα της έρευνας όταν τοποθετείται κοντά σε έναν ερευνητικό πάγκο υψηλής τεχνολογίας και ξεκλειδώνει νέα ερευνητικά έργα. Ένας ερευνητικός πάγκος μπορεί να συνδεθεί με έναν μόνο πολυαναλυτή.</MultiAnalyzer.description>
+  
+  <!-- EN: orbital trade beacon -->
+  <OrbitalTradeBeacon.label>φάρος εμπορίου πλανητικής τροχιάς</OrbitalTradeBeacon.label>
+  <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
+  <OrbitalTradeBeacon.description>Απαιτείται για εμπόριο πλανητικής τροχιάς. Μπορείτε να πουλήσετε αγαθά μόνο σε τροχιακούς εμπόρους εάν βρίσκονται κοντά σε έναν τροχιακό εμπορικό φάρο. Μπορεί να τοποθετηθεί σε εσωτερικό χώρο.</OrbitalTradeBeacon.description>
+  
+  <!-- EN: party spot -->
+  <PartySpot.label>μέρος για πάρτι</PartySpot.label>
+  <!-- EN: Designates a spot for throwing parties. -->
+  <PartySpot.description>Προσδιορίζει ένα σημείο για να γίνονται τα πάρτι.</PartySpot.description>
+  
+  <!-- EN: pod launcher -->
+  <PodLauncher.label>εκτοξευτής ατράκτου</PodLauncher.label>
+  <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
+  <PodLauncher.description>Μια βάση τροφοδοσίας για την εκτόξευση μίας ατράκτου μεταφοράς. Οι εκτοξευτές ατράκτου μπορούν να ξεκινήσουν ως ομάδα - αλλά οι εκτοξευτές πρέπει να είναι τοποθετημένοι ο ένας δίπλα στον άλλο.</PodLauncher.description>
+  
+  <!-- EN: sarcophagus -->
+  <Sarcophagus.label>σαρκοφάγος</Sarcophagus.label>
+  <!-- EN: An ornamented burial receptacle for the honored dead. -->
+  <Sarcophagus.description>Ένα διακοσμημένο ταφικό δοχείο για τους τιμημένους νεκρούς.</Sarcophagus.description>
+  
+  <!-- EN: tool cabinet -->
+  <ToolCabinet.label>εργαλειοθήκη</ToolCabinet.label>
+  <!-- EN: Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets. -->
+  <ToolCabinet.description>Αυξάνει την ταχύτητα εργασίας όταν τοποθετείται κοντά σε έναν πάγκο εργασίας. Ένας πάγκος εργασίας μπορεί να συνδεθεί ταυτόχρονα με μόνο δύο εργαλειοθήκες.</ToolCabinet.description>
+  
+  <!-- EN: transport pod -->
+  <TransportPod.label>άτρακτος μεταφοράς</TransportPod.label>
+  <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
+  <TransportPod.description>Μία εκτοξεύσημη άτρακτος φορτίου υποτροχιακών ταξιδιών ικανή να μεταφέρει ανθρώπους, αντικείμενα ή ζώα. Μπορεί να χρησιμοποιηθεί για αποστολή δώρων, μεταφορές, αιφνίδιες επιθέσεις ή ενίσχυση σε μάχες.</TransportPod.description>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>οθόνη παρακολούθησης ζωτικών οργάνων</VitalsMonitor.label>
+  <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
+  <VitalsMonitor.description>Αυξάνει την ποιότητα της ιατρικής φροντίδας, την πιθανότητα επιτυχίας χειρουργικής επέμβασης και την ταχύτητα αύξησης της ανοσίας όταν τοποθετείται δίπλα σε ένα νοσοκομειακό κρεβάτι. Λειτουργεί μόνο για τα νοσοκομειακά κρεβάτια - τα κανονικά κρεβάτια δεν θα ωφεληθούν. Η τοποθέτηση περισσότερων από μία συσκευής παρακολούθησης ζωτικών οργάνων στο ίδιο κρεβάτι δεν θα έχει καμία επίδραση.</VitalsMonitor.description>
+  
 </LanguageData>

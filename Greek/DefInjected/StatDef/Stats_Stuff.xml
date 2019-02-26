@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Armor - Blunt -->
+  <StuffPower_Armor_Blunt.label>Θωράκιση - Κτύπημα</StuffPower_Armor_Blunt.label>
+  <!-- EN: Armor against blunt damage like club impacts, rock falls, and explosions. -->
+  <StuffPower_Armor_Blunt.description>Θωράκιση ενάντια σε βλάβη κτυπήματος όπως κτύπημα ροπάλου, πτώση βράχων, και εκρήξεις.</StuffPower_Armor_Blunt.description>
+  
+  <!-- EN: Armor - Heat -->
+  <StuffPower_Armor_Heat.label>Θωράκιση - Καύση</StuffPower_Armor_Heat.label>
+  <!-- EN: Armor against temperature-related damage like burns. -->
+  <StuffPower_Armor_Heat.description>Θωράκιση ενάντια σε ζημίες που σχετίζονται με τη θερμοκρασία, όπως τα εγκαύματα.</StuffPower_Armor_Heat.description>
+  
+  <!-- EN: Armor - Sharp -->
+  <StuffPower_Armor_Sharp.label>Θωράκιση - Αιχμηρότητα</StuffPower_Armor_Sharp.label>
+  <!-- EN: Armor against sharp damage like bullets, knife stabs, and animal bites. -->
+  <StuffPower_Armor_Sharp.description>Θωράκιση ενάντια στις αιχμηρές ζημιές, όπως σφαίρες, μαχαιρώματα, και δαγκώματα ζώων.</StuffPower_Armor_Sharp.description>
+  
+  <!-- EN: Insulation - Cold -->
+  <StuffPower_Insulation_Cold.label>Μόνωση - Ψύχος</StuffPower_Insulation_Cold.label>
+  <!-- EN: How much an apparel made of this material improves a wearer's minimum comfortable temperature when worn. -->
+  <StuffPower_Insulation_Cold.description>Πόσο μια ενδυμασία από αυτό το υλικό βελτιώνει την ελάχιστη άνετη θερμοκρασία αυτού που την φοράει.</StuffPower_Insulation_Cold.description>
+  
+  <!-- EN: Insulation - Heat -->
+  <StuffPower_Insulation_Heat.label>Μόνωση - Καύσωνας</StuffPower_Insulation_Heat.label>
+  <!-- EN: How much an apparel made of this material improves a wearer's maximum comfortable temperature when worn. -->
+  <StuffPower_Insulation_Heat.description>Πόσο μια ενδυμασία από αυτό το υλικό βελτιώνει την μέγιστη άνετη θερμοκρασία αυτού που την φοράει.</StuffPower_Insulation_Heat.description>
+  
+</LanguageData>

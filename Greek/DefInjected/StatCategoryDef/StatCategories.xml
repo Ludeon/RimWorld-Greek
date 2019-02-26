@@ -1,35 +1,49 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Γενικά (General) -->
-
-  <Basics.label>Βασικές</Basics.label>
-  <BasicsPawn.label>Βασικές</BasicsPawn.label>
-  <BasicsNonPawn.label>Βασικές</BasicsNonPawn.label>
-
-
-  <!-- Μη πιόνι (Non-pawn) -->
-
+  
+  <!-- EN: Apparel -->
   <Apparel.label>Ενδυμασία</Apparel.label>
-  <Weapon.label>Όπλο</Weapon.label>
-  <Building.label>Κτίριο</Building.label>
-
-
-  <!-- Εικονικές κατηγορίες (Virtual categories) -->
-
-  <EquippedStatOffsets.label>Αποκλίσεις όταν εξοπλίζετε</EquippedStatOffsets.label>
-  <StuffStatFactors.label>Πολλαπλασιαστές όταν κατασκευάζετε από αυτό</StuffStatFactors.label>
-  <StuffStatOffsets.label>Αποκλίσεις όταν κατασκευάζετε από αυτό</StuffStatOffsets.label>
-  <StuffOfEquipmentStatFactors.label>Πολλαπλασιαστές όταν ο εξοπλισμός κατασκευαστικέ από αυτό</StuffOfEquipmentStatFactors.label>
-  <Surgery.label>Χειρουργικός</Surgery.label>
-
-
-  <!-- Πιόνι (Pawn) -->
-
+  
+  <!-- EN: Basics -->
+  <Basics.label>Βασικά</Basics.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawn.label>Βασικά</BasicsNonPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawn.label>Βασικά</BasicsPawn.label>
+  
+  <!-- EN: Building -->
+  <Building.label>Κατασκευή</Building.label>
+  
+  <!-- EN: Offsets when equipped -->
+  <EquippedStatOffsets.label>Αντισταθμίσεις όταν εξοπλίζεται</EquippedStatOffsets.label>
+  
+  <!-- EN: Combat -->
   <PawnCombat.label>Μάχη</PawnCombat.label>
-  <PawnSocial.label>Κοινωνικότητα</PawnSocial.label>
+  
+  <!-- EN: Misc -->
   <PawnMisc.label>Διάφορα</PawnMisc.label>
+  
+  <!-- EN: Social -->
+  <PawnSocial.label>Κοινωνικότητα</PawnSocial.label>
+  
+  <!-- EN: Work -->
   <PawnWork.label>Εργασία</PawnWork.label>
-
-
+  
+  <!-- EN: Multipliers when equipment made of this -->
+  <StuffOfEquipmentStatFactors.label>Πολλαπλασιαστές όταν ο εξοπλισμός κατασκευάζεται από αυτό</StuffOfEquipmentStatFactors.label>
+  
+  <!-- EN: Multipliers when made of this -->
+  <StuffStatFactors.label>Πολλαπλασιαστές όταν κατασκευάζεται από αυτό</StuffStatFactors.label>
+  
+  <!-- EN: Offsets when made of this -->
+  <StuffStatOffsets.label>Αντισταθμίσεις όταν κατασκευάζεται από αυτό</StuffStatOffsets.label>
+  
+  <!-- EN: Surgical -->
+  <Surgery.label>Χειρουργικός</Surgery.label>
+  
+  <!-- EN: Weapon -->
+  <Weapon.label>Όπλο</Weapon.label>
+  
 </LanguageData>

@@ -1,46 +1,52 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: elephant -->
   <Elephant.label>ελέφαντας</Elephant.label>
-  <Elephant.description>Το μεγαλύτερο μη μεταλλαγμένο χερσαίο ζώο. Μπορεί να χρησιμοποιήσει τους χαυλιόδοντές του ως εργαλεία για τη μετακίνηση αντικειμένων - ή ως θανατηφόρα όπλα.</Elephant.description>
-  <Elephant.tools.0.label>χαυλιόδοντας</Elephant.tools.0.label>
-  <Elephant.tools.1.label>αριστερό πέλμα</Elephant.tools.1.label>
-  <Elephant.tools.2.label>δεξιό πέλμα</Elephant.tools.2.label>
-  <Elephant.tools.3.label>κεφάλι</Elephant.tools.3.label>
-  <Elephant_Leather.label>δέρμα ελέφαντα</Elephant_Leather.label>
-  <Elephant_Leather.description>το πετσί του ελέφαντα</Elephant_Leather.description>
-  <Elephant_Leather.stuffProps.stuffAdjective>δέρμα ελέφαντα</Elephant_Leather.stuffProps.stuffAdjective>
-  <Elephant_Meat.label>κρέας ελέφαντα</Elephant_Meat.label>
-  <Elephant_Meat.description>κρέας από ελέφαντα</Elephant_Meat.description>
-  <Elephant_Corpse.label>λείψανο ελέφαντα</Elephant_Corpse.label>
-  <Elephant_Corpse.description>πτώμα ελέφαντα</Elephant_Corpse.description>
-
+  <!-- EN: The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before. -->
+  <Elephant.description>Το μεγαλύτερο μη μεταλλαγμένο χερσαίο ζώο. Οι ελέφαντες έχουν μία μακριά προβοσκίδα που τη χρησιμοποιούν για να χειρίζονται αντικείμενα και αιχμηρούς χαυλιόδοντες που τους χρησιμοποιούν για να ξεκοιλιάζουν τους επιτιθέμενους. Οι πολύτιμοι χαυλιόδοντες ενός νεκρού ελέφαντα μπορούν να ανακτηθούν τεμαχίζοντάς τον.\n\nΕυφυή πλάσματα με σύνθετες κοινωνικές σχέσεις, οι ελέφαντες μπορούν να χρησιμοποιηθούν ως υποζύγια ή να εκπαιδευτούν για να διεκπεραιώσουν πιο σύνθετες εργασίες. Ζούνε πολύ και είναι γνωστό ότι θυμούνται γεγονότα και σχέσεις από πολλές δεκαετίες πριν.</Elephant.description>
+  <!-- EN: tusk -->
+  <Elephant.tools.tusk.label>χαυλιόδοντας</Elephant.tools.tusk.label>
+  <!-- EN: left foot -->
+  <Elephant.tools.left_foot.label>αριστερό πέλμα</Elephant.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Elephant.tools.right_foot.label>δεξιό πέλμα</Elephant.tools.right_foot.label>
+  <!-- EN: head -->
+  <Elephant.tools.head.label>κεφάλι</Elephant.tools.head.label>
+  
+  <!-- EN: megasloth -->
   <Megasloth.label>μεγαλοβραδύπους</Megasloth.label>
-  <Megasloth.description>Γιγάντια, μοναχικά φυτοφάγα. Εξαφανίστηκαν από καιρό μετά την εξολόθρευση τους από τους ντόπιους της αμερικανικής ηπείρου της Γης, ο μεγαλοβραδύπους επανήλθε αργότερα πίσω χρησιμοποιώντας προηγμένη κλωνοποίηση και τεχνητή γονιμοποίηση.</Megasloth.description>
-  <Megasloth.tools.0.label>αριστερό νύχι</Megasloth.tools.0.label>
-  <Megasloth.tools.1.label>δεξιό νύχι</Megasloth.tools.1.label>
-  <Megasloth.tools.3.label>κεφάλι</Megasloth.tools.3.label>
-  <Megasloth_Leather.label>δέρμα μεγαλοβραδύπους</Megasloth_Leather.label>
-  <Megasloth_Leather.description>το πετσί του μεγαλοβραδύπους</Megasloth_Leather.description>
-  <Megasloth_Leather.stuffProps.stuffAdjective>δέρμα μεγαλοβραδύπους</Megasloth_Leather.stuffProps.stuffAdjective>
-  <Megasloth_Meat.label>κρέας μεγαλοβραδύπους</Megasloth_Meat.label>
-  <Megasloth_Meat.description>κρέας από μεγαλοβραδύπους</Megasloth_Meat.description>
-  <Megasloth_Corpse.label>λείψανο μεγαλοβραδύπους</Megasloth_Corpse.label>
-  <Megasloth_Corpse.description>το πτώμα του μεγαλοβραδύπους</Megasloth_Corpse.description>
-
+  <!-- EN: A giant, solitary herbivore with two giant claws for warding off threats. Long extinct after being wiped out by the natives of Earth's American continent, the megasloth was later brought back using advanced cloning and artificial gestators. Its thick hide is exceptionally strong and insulating, and makes a great leather for cold-weather clothing. It is peaceful if left alone, but will shred anyone who disturbs it with its giant claws. -->
+  <Megasloth.description>Ένα τεράστιο, μοναχικό φυτοφάγο ζώο με δύο γίγαντια νύχια για να αποφύγει τις απειλές. Εξαφανίστηκε πριν καιρό μετά την εξολόθρευσή του από τους ντόπιους της αμερικανικής ηπείρου της Γης, ο μεγαλοβραδύπους επανήλθε αργότερα χρησιμοποιώντας προηγμένη κλωνοποίηση και τεχνητά γονιμοποίηση. Η παχιά γούνα του είναι εξαιρετικά ανθεκτική και μονωτική και σχηματίζει ένα μεγάλο δέρμα για ενδύματα ψυχρού καιρού. Είναι ειρηνικό αν αφεθεί μόνος του, αλλά θα καταστρέψει όποιον το ενοχλεί με τα γιγάντια νύχια του.</Megasloth.description>
+  <!-- EN: left claw -->
+  <Megasloth.tools.left_claw.label>αριστερό νύχι</Megasloth.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Megasloth.tools.right_claw.label>δεξιό νύχι</Megasloth.tools.right_claw.label>
+  <!-- EN: head -->
+  <Megasloth.tools.head.label>κεφάλι</Megasloth.tools.head.label>
+  
+  <!-- EN: rhinoceros -->
+  <Rhinoceros.label>ρινόκερος</Rhinoceros.label>
+  <!-- EN: Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body. -->
+  <Rhinoceros.description>Παρά το γεγονός ότι είναι φυτοφάγο, αυτό το μεγάλο θηλαστικό είναι πολύ εύκολο να εξαγριωθεί. Όταν είναι οργισμένος, η τεράστια δύναμή του και το αιχμηρό κέρατο τον καθιστούν ένας κτηνώδη αντίπαλο. Έχει περισσότερους μυς σε ένα πόδι από ό, τι οι περισσότεροι άνθρωποι έχουν σε ολόκληρο το σώμα τους.</Rhinoceros.description>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-0.label>κέρατο</Rhinoceros.tools.horn-0.label>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-1.label>κέρατο</Rhinoceros.tools.horn-1.label>
+  <!-- EN: head -->
+  <Rhinoceros.tools.head.label>κεφάλι</Rhinoceros.tools.head.label>
+  
+  <!-- EN: thrumbo -->
   <Thrumbo.label>θρούμπο</Thrumbo.label>
-  <Thrumbo.description>Ένα γιγαντιαίο πλάσμα άγνωστης προέλευσης. Το θρούμπο είναι ευγενές από τη φύση, αλλά εξαιρετικά επικίνδυνο όταν αγριέψει. Η μακριά γούνα του είναι εξαιρετικά όμορφη και πολύτιμη, και το κοφτερό κέρας του είναι πολύτιμο στις περισσότερες αγορές. Οι θρύλοι λένε ότι ένα γηραιό θρούμπο είναι το πιο σοφό πλάσμα στο σύμπαν - απλά επιλέγει να μην μιλήσει.</Thrumbo.description>
-  <Thrumbo.tools.0.label>κέρας</Thrumbo.tools.0.label>
-  <Thrumbo.tools.2.label>αριστερό πέλμα</Thrumbo.tools.2.label>
-  <Thrumbo.tools.3.label>δεξιό πέλμα</Thrumbo.tools.3.label>
-  <Thrumbo.tools.4.label>κεφάλι</Thrumbo.tools.4.label>
-  <Thrumbo_Leather.label>θρουμπόγουνα</Thrumbo_Leather.label>
-  <Thrumbo_Leather.description>το τρίχωμα του θρούμπο</Thrumbo_Leather.description>
-  <Thrumbo_Leather.stuffProps.stuffAdjective>θρουμπόγουνα</Thrumbo_Leather.stuffProps.stuffAdjective>
-  <Thrumbo_Meat.label>κρέας θρούμπο</Thrumbo_Meat.label>
-  <Thrumbo_Meat.description>κρέας από θρούμπο</Thrumbo_Meat.description>
-  <Thrumbo_Corpse.label>λείψανο θρούμπο</Thrumbo_Corpse.label>
-  <Thrumbo_Corpse.description>το πτώμα του θρούμπο</Thrumbo_Corpse.description>
-
-
+  <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
+  <Thrumbo.description>Ένα γιγαντιαίο πλάσμα άγνωστης προέλευσης. Το θρούμπο είναι ευγενές από τη φύση, αλλά εξαιρετικά επικίνδυνο όταν αγριέψει. Η μακρά γούνα του είναι εξαιρετικά όμορφη και το δέρμα του είναι επίσης απίστευτα ανθεκτικό στα κτυπήματα. Το κοφτερό κέρας του έχει τεράστια αξία.\n\nΟι θρύλοι λένε ότι ένα γηραιό θρούμπο είναι το πιο σοφό πλάσμα στο σύμπαν - απλά επιλέγει να μην μιλήσει.</Thrumbo.description>
+  <!-- EN: horn -->
+  <Thrumbo.tools.horn.label>κέρας</Thrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <Thrumbo.tools.left_foot.label>αριστερό πέλμα</Thrumbo.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Thrumbo.tools.right_foot.label>δεξιό πέλμα</Thrumbo.tools.right_foot.label>
+  <!-- EN: head -->
+  <Thrumbo.tools.head.label>κεφάλι</Thrumbo.tools.head.label>
+  
 </LanguageData>

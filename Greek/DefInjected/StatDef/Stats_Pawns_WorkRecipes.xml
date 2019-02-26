@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: butchery efficiency -->
+  <ButcheryFleshEfficiency.label>αποτελεσματικότητα τεμαχισμού</ButcheryFleshEfficiency.label>
+  <!-- EN: The amount of meat produced when butchering flesh creatures. The actual amount is also related to the creature's size. -->
+  <ButcheryFleshEfficiency.description>Η ποσότητα κρέατος που παράγεται κατά το τεμαχισμό σάρκας πλασμάτων. Το πραγματικό ποσό σχετίζεται επίσης με το μέγεθος του πλάσματος.</ButcheryFleshEfficiency.description>
+  
+  <!-- EN: butchery speed -->
+  <ButcheryFleshSpeed.label>ταχύτητα τεμαχισμού</ButcheryFleshSpeed.label>
+  <!-- EN: The speed at which this person butchers flesh creatures. -->
+  <ButcheryFleshSpeed.description>Η ταχύτητα με την οποία το πρόσωπο αυτό τεμαχίζει τη σάρκα ενός πλάσματος.</ButcheryFleshSpeed.description>
+  
+  <!-- EN: mechanoid disassembly efficiency -->
+  <ButcheryMechanoidEfficiency.label>αποτελεσματικότητα αποσυναρμολόγησης μηχανοειδούς</ButcheryMechanoidEfficiency.label>
+  <!-- EN: The amount of materials yielded when this person disassembles a dead mechanoid. The actual amount is also related to the mechanoid's size. -->
+  <ButcheryMechanoidEfficiency.description>Η ποσότητα των υλικών που παράγεται όταν αυτό το άτομο αποσυναρμολογεί ένα νεκρό μηχανοειδές. Το πραγματικό ποσό σχετίζεται επίσης με το μέγεθος του μηχανοειδούς.</ButcheryMechanoidEfficiency.description>
+  
+  <!-- EN: mechanoid disassembly speed -->
+  <ButcheryMechanoidSpeed.label>ταχύτητα αποσυναρμολόγησης μηχανοειδούς</ButcheryMechanoidSpeed.label>
+  <!-- EN: The speed at which this person can disassemble a mechanoid. -->
+  <ButcheryMechanoidSpeed.description>Η ταχύτητα με την οποία αυτό το άτομο αποσυναρμολογεί ένα μηχανοειδές.</ButcheryMechanoidSpeed.description>
+  
+  <!-- EN: cooking speed -->
+  <CookSpeed.label>ταχύτητα μαγειρέματος</CookSpeed.label>
+  <!-- EN: The speed at which this person cooks meals. -->
+  <CookSpeed.description>Η ταχύτητα με την οποία αυτό το άτομο μαγειρεύει γεύματα.</CookSpeed.description>
+  
+  <!-- EN: drug cooking speed -->
+  <DrugCookingSpeed.label>ταχύτητα παρασκευής ναρκωτικών</DrugCookingSpeed.label>
+  <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
+  <DrugCookingSpeed.description>Η ταχύτητα με την οποία το άτομο αυτό παρασκευάζει μπύρα και τσάι ή κάνει απλά ναρκωτικά όπως τσιγαριλίκια καπνόφυλλου.</DrugCookingSpeed.description>
+  
+  <!-- EN: drug synthesis speed -->
+  <DrugSynthesisSpeed.label>ταχύτητα σύνθεσης ναρκωτικών</DrugSynthesisSpeed.label>
+  <!-- EN: How fast this character synthesizes complex chemical drugs. -->
+  <DrugSynthesisSpeed.description>Πόσο γρήγορα αυτός ο χαρακτήρας συνθέτει πολύπλοκα χημικά ναρκωτικά.</DrugSynthesisSpeed.description>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChance.label>πιθανότητα δηλητηρίασης τροφής</FoodPoisonChance.label>
+  <!-- EN: The probability that this character will inadvertently poison a meal they cook. Food poison temporarily debilitates anyone it strikes. -->
+  <FoodPoisonChance.description>Η πιθανότητα αυτός ο χαρακτήρας να δηλητηριάσει άθελά του ένα γεύμα που μαγειρεύει. Το δηλητηριασμένο φαγητό εξασθενεί προσωρινά οποιονδήποτε το καταναλώσει.</FoodPoisonChance.description>
+  
+  <!-- EN: sculpting speed -->
+  <SculptingSpeed.label>ταχύτητα γλυπτικής</SculptingSpeed.label>
+  <!-- EN: The speed at which this person creates sculptures.\n\nThis stat only affects how fast sculptures are produced, not their quality. Quality is determined by the sculptor's artistic skill. -->
+  <SculptingSpeed.description>Η ταχύτητα με την οποία αυτό το πρόσωπο δημιουργεί γλυπτά.\n\nΑυτό το χαρακτηριστικό επηρεάζει μόνο το πόσο γρήγορα γίνονται τα γλυπτά και όχι την ποιότητά τους. Η ποιότητα καθορίζεται από την καλλιτεχνική ικανότητα του γλύπτη.</SculptingSpeed.description>
+  
+  <!-- EN: smelting speed -->
+  <SmeltingSpeed.label>ταχύτητα εκκαμινεύσης</SmeltingSpeed.label>
+  <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
+  <SmeltingSpeed.description>Η ταχύτητα με την οποία το άτομο αυτό λιώνει τα πράγματα. Δεδομένου ότι το λιώσιμο είναι χαζή εργασία, η ταχύτητα εκκαμινεύσης δεν επηρεάζεται από οποιαδήποτε ικανότητα.</SmeltingSpeed.description>
+  
+  <!-- EN: smithing speed -->
+  <SmithingSpeed.label>ταχύτητα σιδηρουργίας</SmithingSpeed.label>
+  <!-- EN: Speed at which this person crafts weapons, machinery, and ammunition.\n\nThis stat only affects how fast items are produced, not their quality. Quality is determined by the crafter's skill. -->
+  <SmithingSpeed.description>Ταχύτητα με την οποία αυτό το άτομο κατασκευάζει όπλα, μηχανήματα και πυρομαχικά.\n\nΑυτό το χαρακτηριστικό επηρεάζει μόνο πόσο γρήγορα παράγονται τα στοιχεία, και όχι την ποιότητά τους. Η ποιότητα καθορίζεται από την ικανότητα του τεχνίτη.</SmithingSpeed.description>
+  
+  <!-- EN: tailoring speed -->
+  <TailoringSpeed.label>ταχύτητα ραπτικής</TailoringSpeed.label>
+  <!-- EN: The speed at which this person makes clothes.\n\nThis stat only affects how fast clothes are produced, not their quality. Quality is determined by the tailor's crafting skill. -->
+  <TailoringSpeed.description>Η ταχύτητα με την οποία το πρόσωπο αυτό ράβει τα ρούχα.\n\nΑυτό το χαρακτηριστικό επηρεάζει μόνο το πόσο γρήγορα παράγονται τα ρούχα, όχι την ποιότητα τους. Η ποιότητα καθορίζεται από τη δεξιοτεχνία του ράφτη.</TailoringSpeed.description>
+  
+  <!-- EN: unskilled labor speed -->
+  <UnskilledLaborSpeed.label>ταχύτητα ανειδίκευτης εργασίας</UnskilledLaborSpeed.label>
+  <!-- EN: The speed at which this person carries out unskilled labor like making stone blocks, making chemfuel at a refinery or burning items. -->
+  <UnskilledLaborSpeed.description>Η ταχύτητα με την οποία το άτομο αυτό εκτελεί ανειδίκευτες εργασίες όπως η σμίλευση πέτρινων τούβλων, η παραγωγή χημικών καύσιμων σε ένα διυλιστήριο ή το κάψιμο αντικείμενων.</UnskilledLaborSpeed.description>
+  
+</LanguageData>

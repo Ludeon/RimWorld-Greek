@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals slaughtered -->
+  <AnimalsSlaughtered.label>σφαγμένα ζώα</AnimalsSlaughtered.label>
+  <!-- EN: The number of animals I have slaughtered. -->
+  <AnimalsSlaughtered.description>Ο αριθμός των ζώων που έχω σφάξει.</AnimalsSlaughtered.description>
+  
+  <!-- EN: animals tamed -->
+  <AnimalsTamed.label>εξημερωμένα ζώα</AnimalsTamed.label>
+  <!-- EN: The number of animals I have tamed. -->
+  <AnimalsTamed.description>Ο αριθμός των ζώων που έχω εξημερώσει.</AnimalsTamed.description>
+  
+  <!-- EN: artifacts activated -->
+  <ArtifactsActivated.label>ενεργοποιημένα τεχνουργήματα</ArtifactsActivated.label>
+  <!-- EN: The number of artifacts I have activated. -->
+  <ArtifactsActivated.description>Ο αριθμός των τεχνουργημάτων που έχω ενεργοποιήσει.</ArtifactsActivated.description>
+  
+  <!-- EN: bodies stripped -->
+  <BodiesStripped.label>ξεγύμνωμα κορμιών</BodiesStripped.label>
+  <!-- EN: The number of bodies I have stripped. -->
+  <BodiesStripped.description>Ο αριθμός των κορμιών που έχω ξεγυμνώσει.</BodiesStripped.description>
+  
+  <!-- EN: cells mined -->
+  <CellsMined.label>εξορυγμένα κελιά</CellsMined.label>
+  <!-- EN: The number of cells I have mined out. -->
+  <CellsMined.description>Ο αριθμός των κελιών που έχω εξορύξει.</CellsMined.description>
+  
+  <!-- EN: containers opened -->
+  <ContainersOpened.label>ανοιγμένα εμπορευματοκιβώτια</ContainersOpened.label>
+  <!-- EN: The number of containers I have opened. -->
+  <ContainersOpened.description>Ο αριθμός των εμπορευματοκιβωτίων που έχω ανοίξει.</ContainersOpened.description>
+  
+  <!-- EN: corpses buried -->
+  <CorpsesBuried.label>θαμμένα πτώματα</CorpsesBuried.label>
+  <!-- EN: The number of corpses I have buried. -->
+  <CorpsesBuried.description>Ο αριθμός των πτωμάτων που έχω θάψει.</CorpsesBuried.description>
+  
+  <!-- EN: damage dealt -->
+  <DamageDealt.label>ζημιά που προκάλεσα</DamageDealt.label>
+  <!-- EN: The amount of damage I have dealt. -->
+  <DamageDealt.description>Το σύνολο της ζημιάς που έχω προκαλέσει.</DamageDealt.description>
+  
+  <!-- EN: damage taken -->
+  <DamageTaken.label>ζημιά που έχω δεχτεί</DamageTaken.label>
+  <!-- EN: The amount of damage I have taken. -->
+  <DamageTaken.description>Το σύνολο της ζημιάς που έχω δεχτεί.</DamageTaken.description>
+  
+  <!-- EN: fires extinguished -->
+  <FiresExtinguished.label>σβησμένες φωτιές</FiresExtinguished.label>
+  <!-- EN: The number of fires I have extinguished. -->
+  <FiresExtinguished.description>Ο αριθμός των φωτιών που έχω σβήσει.</FiresExtinguished.description>
+  
+  <!-- EN: headshots -->
+  <Headshots.label>κτυπήματα στο κεφάλι</Headshots.label>
+  <!-- EN: The number of headshots I have made. -->
+  <Headshots.description>Ο αριθμός των κτυπημάτων στο κεφάλι που έχω πετύχει.</Headshots.description>
+  
+  <!-- EN: kills -->
+  <Kills.label>θάνατοι</Kills.label>
+  <!-- EN: The number of creatures I have killed. -->
+  <Kills.description>Ο αριθμός των πλασμάτων που έχω σκοτώσει.</Kills.description>
+  
+  <!-- EN: kills (animals) -->
+  <KillsAnimals.label>θάνατοι (ζώα)</KillsAnimals.label>
+  <!-- EN: The number of animals I have killed. -->
+  <KillsAnimals.description>Ο αριθμός των ζώων που έχω σκοτώσει.</KillsAnimals.description>
+  
+  <!-- EN: kills (humanlikes) -->
+  <KillsHumanlikes.label>θάνατοι (ανθρωποειδή)</KillsHumanlikes.label>
+  <!-- EN: The number of humanlike characters I have killed. -->
+  <KillsHumanlikes.description>Ο αριθμός των ανθρωποειδή που έχω σκοτώσει.</KillsHumanlikes.description>
+  
+  <!-- EN: kills (mechanoids) -->
+  <KillsMechanoids.label>θάνατοι (μιχανοειδή)</KillsMechanoids.label>
+  <!-- EN: The number of mechanoids I have killed. -->
+  <KillsMechanoids.description>Ο αριθμός των μιχανοειδή που έχω σκοτώσει.</KillsMechanoids.description>
+  
+  <!-- EN: meals cooked -->
+  <MealsCooked.label>μαγειρεμένα γεύματα</MealsCooked.label>
+  <!-- EN: The number of meals I have cooked. -->
+  <MealsCooked.description>Ο αριθμός των γευμάτων που έχω μαγειρέψει.</MealsCooked.description>
+  
+  <!-- EN: messes cleaned -->
+  <MessesCleaned.label>καθαρισμένες ακαθαρσίες</MessesCleaned.label>
+  <!-- EN: The number of messes I have cleaned up. -->
+  <MessesCleaned.description>Ο αριθμός των βρομιών που έχω καθαρίσει.</MessesCleaned.description>
+  
+  <!-- EN: nutrition eaten -->
+  <NutritionEaten.label>φαγωμένα θρεπτικά συστατικά</NutritionEaten.label>
+  <!-- EN: The amount of nutrition I have eaten. -->
+  <NutritionEaten.description>Η ποσότητα των θρεπτικών συστατικών που έχω φάει.</NutritionEaten.description>
+  
+  <!-- EN: operations performed -->
+  <OperationsPerformed.label>εκτελεσμένες εργασίες</OperationsPerformed.label>
+  <!-- EN: How many medical operations I have performed. -->
+  <OperationsPerformed.description>Πόσες εργασίες έχω κάνει</OperationsPerformed.description>
+  
+  <!-- EN: operations received -->
+  <OperationsReceived.label>εργασίες που έλαβα</OperationsReceived.label>
+  <!-- EN: How many times I have been medically operated on. -->
+  <OperationsReceived.description>Πόσες φορές έγιναν ιατρικές εργασίες.</OperationsReceived.description>
+  
+  <!-- EN: enemies downed -->
+  <PawnsDowned.label>εξουδετέρωση εχθρών</PawnsDowned.label>
+  <!-- EN: The number of creatures I have downed. -->
+  <PawnsDowned.description>Ο αριθμός των πλασμάτων που εξουδετέρωσα.</PawnsDowned.description>
+  
+  <!-- EN: enemies downed (animals) -->
+  <PawnsDownedAnimals.label>εξουδετέρωση εχθρών (ζώα)</PawnsDownedAnimals.label>
+  <!-- EN: The number of animals I have downed, whether hunting or in combat. -->
+  <PawnsDownedAnimals.description>Ο αριθμός των ζώων που έχω εξουδετερώσει, είτε στο κυνήγι είτε στη μάχη.</PawnsDownedAnimals.description>
+  
+  <!-- EN: enemies downed (humanlikes) -->
+  <PawnsDownedHumanlikes.label>εξουδετέρωση εχθρών (ανθρωποειδή)</PawnsDownedHumanlikes.label>
+  <!-- EN: The number of humanlike creatures I have downed. -->
+  <PawnsDownedHumanlikes.description>Ο αριθμός των ανθρωπόμορφων πλασμάτων που έχω εξουδετερώσει.</PawnsDownedHumanlikes.description>
+  
+  <!-- EN: enemies downed (mechanoids) -->
+  <PawnsDownedMechanoids.label>εξουδετέρωση εχθρών (μιχανοειδή)</PawnsDownedMechanoids.label>
+  <!-- EN: The number of mechanoids I have downed. -->
+  <PawnsDownedMechanoids.description>Ο αριθμός των μιχανοειδών που έχω εξουδετερώσει.</PawnsDownedMechanoids.description>
+  
+  <!-- EN: people captured -->
+  <PeopleCaptured.label>αιχμαλώτιση ανθρώπων</PeopleCaptured.label>
+  <!-- EN: The number of people I have captured. -->
+  <PeopleCaptured.description>Ο αριθμός των ανθρώπων που έχω συλλάβει.</PeopleCaptured.description>
+  
+  <!-- EN: plants harvested -->
+  <PlantsHarvested.label>συλλεχθέντα φυτά</PlantsHarvested.label>
+  <!-- EN: The number of plants I have harvested. -->
+  <PlantsHarvested.description>Ο αριθμός των φυτών που έχω μαζέψει.</PlantsHarvested.description>
+  
+  <!-- EN: plants sown -->
+  <PlantsSown.label>φύτεμα φυτών</PlantsSown.label>
+  <!-- EN: The number of plants I have sown. -->
+  <PlantsSown.description>Ο αριθμός των φυτών που έχω σπείρει.</PlantsSown.description>
+  
+  <!-- EN: prisoners chatted -->
+  <PrisonersChatted.label>κουβέντες φυλακής</PrisonersChatted.label>
+  <!-- EN: How many times I have chatted with prisoners. -->
+  <PrisonersChatted.description>Πόσες φορές έχω κουβεντιάσει με φυλακισμένους.</PrisonersChatted.description>
+  
+  <!-- EN: prisoners recruited -->
+  <PrisonersRecruited.label>στρατολόγηση φυλακισμένων</PrisonersRecruited.label>
+  <!-- EN: The number of prisoners I have recruited. -->
+  <PrisonersRecruited.description>Ο αριθμός των φυλακισμένων που έχω στρατολογήσει.</PrisonersRecruited.description>
+  
+  <!-- EN: research points researched -->
+  <ResearchPointsResearched.label>πόντοι έρευνας</ResearchPointsResearched.label>
+  <!-- EN: The number of research points I have researched. -->
+  <ResearchPointsResearched.description>Ο αριθμός των πόντων της έρευνας που έχω ερευνήσει.</ResearchPointsResearched.description>
+  
+  <!-- EN: shots fired -->
+  <ShotsFired.label>πυροβολισμοί</ShotsFired.label>
+  <!-- EN: The number of shots I have fired. -->
+  <ShotsFired.description>Ο αριθμός των πυροβολισμών που έχω ρίξει.</ShotsFired.description>
+  
+  <!-- EN: switches flicked -->
+  <SwitchesFlicked.label>ανοιγόκλεισμα διακοπτών</SwitchesFlicked.label>
+  <!-- EN: The number of switches I have flicked. -->
+  <SwitchesFlicked.description>Ο αριθμός των φορών που έχω ανοιγοκλείσει τους διακόπτες</SwitchesFlicked.description>
+  
+  <!-- EN: things constructed -->
+  <ThingsConstructed.label>κατασκευασμένα αντικείμενα</ThingsConstructed.label>
+  <!-- EN: The number of things I have constructed. -->
+  <ThingsConstructed.description>Ο αριθμός των αντικείμενων που έχω κατασκευάσει.</ThingsConstructed.description>
+  
+  <!-- EN: things crafted -->
+  <ThingsCrafted.label>χειροποίητα αντικείμενα</ThingsCrafted.label>
+  <!-- EN: The number of things I have crafted. -->
+  <ThingsCrafted.description>Ο αριθμός των αντικείμενων που έχω κάνει χειροποίητα.</ThingsCrafted.description>
+  
+  <!-- EN: things deconstructed -->
+  <ThingsDeconstructed.label>αποδομημένα αντικείμενων</ThingsDeconstructed.label>
+  <!-- EN: The number of things I have deconstructed. -->
+  <ThingsDeconstructed.description>Ο αριθμός των αντικείμενων που έχω αποδομήσει</ThingsDeconstructed.description>
+  
+  <!-- EN: things hauled -->
+  <ThingsHauled.label>αντικείμενα που έχω μεταφέρει</ThingsHauled.label>
+  <!-- EN: The number of things I have hauled. -->
+  <ThingsHauled.description>Ο αριθμός των αντικείμενων που έχω κουβαλήσει.</ThingsHauled.description>
+  
+  <!-- EN: things installed -->
+  <ThingsInstalled.label>τοποθετημένα αντικείμενα</ThingsInstalled.label>
+  <!-- EN: The number of things I have installed. -->
+  <ThingsInstalled.description>Ο αριθμός των αντικείμενων που έχω τοποθετήσει.</ThingsInstalled.description>
+  
+  <!-- EN: things repaired -->
+  <ThingsRepaired.label>επισκευασμένα αντικείμενα</ThingsRepaired.label>
+  <!-- EN: The number of things I have repaired. -->
+  <ThingsRepaired.description>Ο αριθμός των αντικείμενων που έχω επισκευάσει.</ThingsRepaired.description>
+  
+  <!-- EN: things uninstalled -->
+  <ThingsUninstalled.label>απεγκατεστημένα αντικείμενα</ThingsUninstalled.label>
+  <!-- EN: The number of things I have uninstalled. -->
+  <ThingsUninstalled.description>Ο αριθμός των αντικείμενων που έχω επεγκαταστήσει.</ThingsUninstalled.description>
+  
+  <!-- EN: times in mental state -->
+  <TimesInMentalState.label>πλήθος ψυχολογικών καταστάσεων</TimesInMentalState.label>
+  <!-- EN: How many times I have suffered a mental break. -->
+  <TimesInMentalState.description>Πόσες φορές έχω υποστεί ψυχολογική κατάρρευση.</TimesInMentalState.description>
+  
+  <!-- EN: times on fire -->
+  <TimesOnFire.label>πλήθος φωτιών</TimesOnFire.label>
+  <!-- EN: How many times I have been on fire. -->
+  <TimesOnFire.description>Πόσες δορές έχω πάρει φωτιά</TimesOnFire.description>
+  
+  <!-- EN: tends given -->
+  <TimesTendedOther.label>φροντίδα που έχω δώσει</TimesTendedOther.label>
+  <!-- EN: How many times I have tended to others' medical conditions. -->
+  <TimesTendedOther.description>Πόσες φορές έχω φροντίσει τους άλλους σε ιατρικές καταστάσεις.</TimesTendedOther.description>
+  
+  <!-- EN: tends received -->
+  <TimesTendedTo.label>φροντίδα που έχω πάρει</TimesTendedTo.label>
+  <!-- EN: How many times I have had my medical conditions tended. -->
+  <TimesTendedTo.description>Πόσες φορές έχω δεχτεί φροντίδα σε ιατρικές περιπτώσεις.</TimesTendedTo.description>
+  
+</LanguageData>

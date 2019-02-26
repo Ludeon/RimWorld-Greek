@@ -1,9 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MakeWort.label>φτιάξε ζυθόγλευκο</MakeWort.label>
-  <MakeWort.description>Δημιουργεί ζυθόγλευκο από λυκίσκο.</MakeWort.description>
-  <MakeWort.jobString>Δημιουργία ζυθόγλευκου.</MakeWort.jobString>
-
-
+  
+  <!-- EN: make wort -->
+  <Make_Wort.label>φτιάξε ζυθόγλευκο</Make_Wort.label>
+  <!-- EN: Make wort from hops. -->
+  <Make_Wort.description>Δημιουργεί ζυθόγλευκο από λυκίσκο.</Make_Wort.description>
+  <!-- EN: Making wort. -->
+  <Make_Wort.jobString>Δημιουργία ζυθόγλευκου.</Make_Wort.jobString>
+  
 </LanguageData>

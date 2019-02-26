@@ -1,30 +1,52 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <IndefiniteArticle></IndefiniteArticle>
-  <DefiniteArticle></DefiniteArticle>
-  <IndefiniteForm>{0}</IndefiniteForm>
-  <DefiniteForm>{0}</DefiniteForm>
+  <!-- EN: a -->
+  <IndefiniteArticle>ένα</IndefiniteArticle>
+  <!-- EN: the -->
+  <DefiniteArticle>το</DefiniteArticle>
+  <!-- EN: a {0} -->
+  <IndefiniteForm>ένα {0}</IndefiniteForm>
+  <!-- EN: the {0} -->
+  <DefiniteForm>το {0}</DefiniteForm>
 
+  <!-- EN: its -->
   <Proits>το</Proits>
+  <!-- EN: his -->
   <Prohis>του</Prohis>
+  <!-- EN: her -->
   <Proher>της</Proher>
+  <!-- EN: Its -->
   <ProitsCap>Το</ProitsCap>
+  <!-- EN: His -->
   <ProhisCap>Του</ProhisCap>
+  <!-- EN: Her -->
   <ProherCap>Της</ProherCap>
 
+  <!-- EN: it -->
   <ProitObj>το</ProitObj>
+  <!-- EN: him -->
   <ProhimObj>τον</ProhimObj>
+  <!-- EN: her -->
   <ProherObj>την</ProherObj>
+  <!-- EN: It -->
   <ProitObjCap>Το</ProitObjCap>
+  <!-- EN: Him -->
   <ProhimObjCap>Τον</ProhimObjCap>
+  <!-- EN: Her -->
   <ProherObjCap>Την</ProherObjCap>
 
+  <!-- EN: he -->
   <Prohe>αυτός</Prohe>
+  <!-- EN: she -->
   <Proshe>αυτή</Proshe>
+  <!-- EN: it -->
   <Proit>αυτό</Proit>
+  <!-- EN: He -->
   <ProheCap>Αυτός</ProheCap>
+  <!-- EN: She -->
   <ProsheCap>Αυτή</ProsheCap>
+  <!-- EN: It -->
   <ProitCap>Αυτό</ProitCap>
 
 </LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crashed ship part (incoming) -->
+  <CrashedShipPartIncoming.label>συντρίμμι διαστημοπλοίου (έρχεται)</CrashedShipPartIncoming.label>
+  
+  <!-- EN: drop pod (incoming) -->
+  <DropPodIncoming.label>πτώση ατράκτου (έρχεται)</DropPodIncoming.label>
+  
+  <!-- EN: drop pod (leaving) -->
+  <DropPodLeaving.label>πτώση ατράκτου (φεύγει)</DropPodLeaving.label>
+  
+  <!-- EN: meteorite (incoming) -->
+  <MeteoriteIncoming.label>μετεωρίτης (έρχεται)</MeteoriteIncoming.label>
+  
+  <!-- EN: ship chunk (incoming) -->
+  <ShipChunkIncoming.label>κομμάτι διαστημοπλοίου (έρχεται)</ShipChunkIncoming.label>
+  
+</LanguageData>

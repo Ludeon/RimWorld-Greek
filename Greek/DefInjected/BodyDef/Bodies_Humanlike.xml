@@ -1,7 +1,103 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: human -->
   <Human.label>άνθρωπος</Human.label>
-
-
+  <!-- EN: left lung -->
+  <Human.corePart.parts.left_lung.customLabel>αριστερό πνευμόνι</Human.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Human.corePart.parts.right_lung.customLabel>δεξί πνευμόνι</Human.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Human.corePart.parts.left_kidney.customLabel>αριστερό νεφρό</Human.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Human.corePart.parts.right_kidney.customLabel>δεξιό νεφρό</Human.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Human.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>αριστερός οφθαλμός</Human.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Human.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>δεξιός οφθαλμός</Human.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <Human.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>αριστερό αφτί</Human.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <Human.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>δεξί αφτί</Human.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left shoulder -->
+  <Human.corePart.parts.left_shoulder.customLabel>αριστερός ώμος</Human.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left clavicle -->
+  <Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>αριστερή κλείδα</Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <!-- EN: left arm -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>αριστερό χέρι</Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left humerus -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>αριστερός βραχίωνας</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>αριστερός πήχης</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!-- EN: left hand -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>αριστερή παλάμη</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>αριστερό δακτυλάκι</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left ring finger -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>αριστερός παράμεσος</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <!-- EN: left middle finger -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>αριστερός μέσος</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>αριστερός δείκτης</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>αριστερός αντίχειρας </Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <Human.corePart.parts.right_shoulder.customLabel>δεξιός ώμος</Human.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right clavicle -->
+  <Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>δεξιά κλείδα</Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <!-- EN: right arm -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>δεξί χέρι</Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right humerus -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>δεξής βραχίωνας</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>δεξιός πήχης</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!-- EN: right hand -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>δεξιά παλάμη</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>δεξί δακτυλάκι</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right ring finger -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>δεξιός παράμεσος</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <!-- EN: right middle finger -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>δεξιός μέσος</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>δεξής δείκτης</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>δεξής αντίχειρας</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <Human.corePart.parts.left_leg.customLabel>αριστερό πόδι</Human.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <Human.corePart.parts.left_leg.parts.left_femur.customLabel>αριστερό μηριαίο οστό</Human.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <Human.corePart.parts.left_leg.parts.left_tibia.customLabel>αριστερό καλάμι</Human.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <Human.corePart.parts.left_leg.parts.left_foot.customLabel>αριστερή πατούσα</Human.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left little toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>μικρό δάκτυλό αριστερού ποδιού</Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!-- EN: left fourth toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>τέταρτο δάκτυλό αριστερού ποδιού</Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!-- EN: left middle toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>μεσαίο δάκτυλό αριστερού ποδιού</Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!-- EN: left second toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>δεύτερο δάκτυλό αριστερού ποδιού</Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!-- EN: left big toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>μεγάλο δάκτυλό αριστερού ποδιού</Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!-- EN: right leg -->
+  <Human.corePart.parts.right_leg.customLabel>δεξί πόδι</Human.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <Human.corePart.parts.right_leg.parts.right_femur.customLabel>δεξί μηριαίο οστό</Human.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <Human.corePart.parts.right_leg.parts.right_tibia.customLabel>δεξιό καλάμι</Human.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <Human.corePart.parts.right_leg.parts.right_foot.customLabel>δεξιά πατούσα</Human.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right little toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>μικρό δάκτυλό δεξιού ποδιού</Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!-- EN: right fourth toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>τέταρτο δάκτυλό δεξιού ποδιού</Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!-- EN: right middle toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>μεσαίο δάκτυλό δεξιού ποδιού</Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!-- EN: right second toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>δεύτερο δάκτυλό δεξιού ποδιού</Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!-- EN: right big toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>μεγάλο δάκτυλό δεξιού ποδιού</Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  
 </LanguageData>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Armor - Blunt -->
+  <ArmorRating_Blunt.label>Θωράκιση - Κτύπημα</ArmorRating_Blunt.label>
+  <!-- EN: The chance to affect blunt damage like fists, club impacts and rock falls.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value. The remaining armor rating is then compared against a random number from 0 to 100.\n\n    -If the random number is under half the armor rating, the damage deflects harmlessly.\n    -If the random number is over half the armor rating, but not higher than the armor rating, the damage is mitigated. This means it is reduced by half.\n    -If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nIn the case of apparel armor, each layer of apparel applies its armor to the attack separately, from the outside in. -->
+  <ArmorRating_Blunt.description>Η πιθανότητα να επηρεαστεί η ζημιά από κτύπημα όπως οι γροθιές, τα κτυπήματα ροπάλου και οι πτώσης βράχων.\n\nΌταν δέχεται ζημιά, πρώτα μειώνεται αυτός ο βαθμός θωράκισης από την τιμή διείσδυσης της πανοπλίας. Ο υπόλοιπος βαθμός θωράκισης στη συνέχεια συγκρίνεται με έναν τυχαίο αριθμό από 0 έως 100.\n\n    -Αν ο τυχαίος αριθμός είναι κάτω από το ήμισυ του βαθμού θωράκισης, η ζημιά εκτρέπεται ακίνδυνα.\n    -Αν ο τυχαίος αριθμός είναι μεγαλύτερος από το ήμισυ του βαθμού θωράκισης, αλλά όχι υψηλότερος από τον βαθμό θωράκισης, η ζημιά μετριάζεται. Αυτό σημαίνει ότι μειώνεται στο μισό.\n    -Αν ο τυχαίος αριθμός είναι μεγαλύτερος από τον βαθμό θωράκισης, η θωράκιση δεν έχει αποτέλεσμα.\n\nΠαραδείγματος χάριν, με βαθμό θωράκισης 90% έναντι επίθεσης με διείσδυση θωράκισης 10%, υπάρχει 40% πιθανότητα να αποκρουστεί η επίθεση αβλαβές και 40% πιθανότητα να μετριαστούν οι ζημιές.\n\nΣτην περίπτωση της θωράκισης ενδυμάτων, κάθε στρώση ρούχων προσαρμόζει την θωράκιση του στην επίθεση ξεχωριστά, από έξω προς τα μέσα.</ArmorRating_Blunt.description>
+  
+  <!-- EN: Armor - Heat -->
+  <ArmorRating_Heat.label>Θωράκιση - Ζέστη</ArmorRating_Heat.label>
+  <!-- EN: The chance to affect temperature-related damage like burns.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value. The remaining armor rating is then compared against a random number from 0 to 100.\n\n    -If the random number is under half the armor rating, the damage deflects harmlessly.\n    -If the random number is over half the armor rating, but not higher than the armor rating, the damage is mitigated. This means it is reduced by half.\n    -If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nIn the case of apparel armor, each layer of apparel applies its armor to the attack separately, from the outside in. -->
+  <ArmorRating_Heat.description>Η πιθανότητα να επηρεαστούν οι ζημίες που σχετίζονται με τη θερμοκρασία, όπως τα εγκαύματα.\n\nΌταν δέχεται ζημιά, πρώτα μειώνεται αυτός ο βαθμός θωράκισης από την τιμή διείσδυσης της πανοπλίας. Ο υπόλοιπος βαθμός θωράκισης στη συνέχεια συγκρίνεται με έναν τυχαίο αριθμό από 0 έως 100.\n\n    -Αν ο τυχαίος αριθμός είναι κάτω από το ήμισυ του βαθμού θωράκισης, η ζημιά εκτρέπεται ακίνδυνα.\n    -Αν ο τυχαίος αριθμός είναι μεγαλύτερος από το ήμισυ του βαθμού θωράκισης, αλλά όχι υψηλότερος από τον βαθμό θωράκισης, η ζημιά μετριάζεται. Αυτό σημαίνει ότι μειώνεται στο μισό.\n    -Αν ο τυχαίος αριθμός είναι μεγαλύτερος από τον βαθμό θωράκισης, η θωράκιση δεν έχει αποτέλεσμα.\n\nΠαραδείγματος χάριν, με βαθμό θωράκισης 90% έναντι επίθεσης με διείσδυση θωράκισης 10%, υπάρχει 40% πιθανότητα να αποκρουστεί η επίθεση αβλαβές και 40% πιθανότητα να μετριαστούν οι ζημιές.\n\nΣτην περίπτωση της θωράκισης ενδυμάτων, κάθε στρώση ρούχων προσαρμόζει την θωράκιση του στην επίθεση ξεχωριστά, από έξω προς τα μέσα.</ArmorRating_Heat.description>
+  
+  <!-- EN: Armor - Sharp -->
+  <ArmorRating_Sharp.label>Θωράκιση - Αιχμηρότητα</ArmorRating_Sharp.label>
+  <!-- EN: The chance to affect sharp damage like bullets, knife stabs, explosions, and animal bites.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value. The remaining armor rating is then compared against a random number from 0 to 100.\n\n    -If the random number is under half the armor rating, the damage deflects harmlessly.\n    -If the random number is over half the armor rating, but not higher than the armor rating, the damage is mitigated. This means it is converted into blunt damage and reduced by half.\n    -If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nIn the case of apparel armor, each layer of apparel applies its armor to the attack separately, from the outside in. -->
+  <ArmorRating_Sharp.description>Η πιθανότητα να επηρεαστούν οι αιχμηρές ζημίες, όπως σφαίρες, μαχαιρώματα, εκρήξεις και δαγκώματα ζώων.\n\nΌταν δέχεται ζημιά, πρώτα μειώνεται αυτός ο βαθμός θωράκισης από την τιμή διείσδυσης της πανοπλίας. Ο υπόλοιπος βαθμός θωράκισης στη συνέχεια συγκρίνεται με έναν τυχαίο αριθμό από 0 έως 100.\n\n    -Αν ο τυχαίος αριθμός είναι κάτω από το ήμισυ του βαθμού θωράκισης, η ζημιά εκτρέπεται ακίνδυνα.\n    -Αν ο τυχαίος αριθμός είναι μεγαλύτερος από το ήμισυ του βαθμού θωράκισης, αλλά όχι υψηλότερος από τον βαθμό θωράκισης, η ζημιά μετριάζεται. Αυτό σημαίνει ότι μετατρέπεται σε ζημία κτυπήματος και μειώνεται στο μισό.\n    -Αν ο τυχαίος αριθμός είναι μεγαλύτερος από τον βαθμό θωράκισης, η θωράκιση δεν έχει αποτέλεσμα.\n\nΠαραδείγματος χάριν, με βαθμό θωράκισης 90% έναντι επίθεσης με διείσδυση θωράκισης 10%, υπάρχει 40% πιθανότητα να αποκρουστεί η επίθεση αβλαβές και 40% πιθανότητα να μετριαστούν οι ζημιές.\n\nΣτην περίπτωση της θωράκισης ενδυμάτων, κάθε στρώση ρούχων προσαρμόζει την θωράκιση του στην επίθεση ξεχωριστά, από έξω προς τα μέσα.</ArmorRating_Sharp.description>
+  
+  <!-- EN: Shield max energy -->
+  <EnergyShieldEnergyMax.label>Μέγιστη ενέργεια ασπίδας</EnergyShieldEnergyMax.label>
+  <!-- EN: The maximum energy a shield belt can have at one time. More energy absorbs more damage. -->
+  <EnergyShieldEnergyMax.description>Η μέγιστη ενέργεια που μπορεί να έχει μία ζώνη ασπίδας ταυτόχρονα. Περισσότερη ενέργεια απορροφά περισσότερη ζημιά.</EnergyShieldEnergyMax.description>
+  
+  <!-- EN: Shield recharge rate -->
+  <EnergyShieldRechargeRate.label>Βαθμός φόρτισης ασπίδας</EnergyShieldRechargeRate.label>
+  <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
+  <EnergyShieldRechargeRate.description>Ο ρυθμός με τον οποίο μια ασπίδα φορτίζει ενέργεια όσο δεν είναι σπασμένη.</EnergyShieldRechargeRate.description>
+  <!-- EN: {0}/s -->
+  <EnergyShieldRechargeRate.formatString>{0}/δτρ</EnergyShieldRechargeRate.formatString>
+  
+  <!-- EN: equip delay -->
+  <EquipDelay.label>καθυστέρηση εξοπλισμού</EquipDelay.label>
+  <!-- EN: The time it takes to equip and unequip this item. -->
+  <EquipDelay.description>Ο χρόνος που απαιτητέ για να βάλεις και να βγάλεις αυτό το αντικείμενο.</EquipDelay.description>
+  <!-- EN: {0} s -->
+  <EquipDelay.formatString>{0} δτρ</EquipDelay.formatString>
+  
+  <!-- EN: Insulation - Cold -->
+  <Insulation_Cold.label>Μόνωση - Ψύχος</Insulation_Cold.label>
+  <!-- EN: How much this apparel improves a wearer's minimum comfortable temperature. Greater values allow surviving in colder temperatures. -->
+  <Insulation_Cold.description>Πόσο αυτή η ενδυμασία βελτιώνει την ελάχιστη άνετη θερμοκρασία σε αυτόν που την φοράει. Μεγαλύτερες τιμές επιτρέπουν την επιβίωση σε ψυχρότερες θερμοκρασίες.</Insulation_Cold.description>
+  
+  <!-- EN: Insulation - Heat -->
+  <Insulation_Heat.label>Μόνωση - Ζέστη</Insulation_Heat.label>
+  <!-- EN: How much this apparel improves a wearer's maximum comfortable temperature. Greater values allow surviving in warmer temperatures. -->
+  <Insulation_Heat.description>Πόσο αυτή η ενδυμασία βελτιώνει την μέγιστη άνετη θερμοκρασία σε αυτόν που την φοράει. Μεγαλύτερες τιμές επιτρέπουν την επιβίωση σε θερμότερες θερμοκρασίες.</Insulation_Heat.description>
+  
+  <!-- EN: Smokepop belt radius -->
+  <SmokepopBeltRadius.label>Ακτίνα καπνού καπνίσματος</SmokepopBeltRadius.label>
+  <!-- EN: The area obscured when a smokepop belt detonates. -->
+  <SmokepopBeltRadius.description>Η περιοχή επισκίασης όταν εκτοξεύεται ένα νέφος καπνίσματος.</SmokepopBeltRadius.description>
+  <!-- EN: {0} c -->
+  <SmokepopBeltRadius.formatString>{0} κελιά</SmokepopBeltRadius.formatString>
+  
+  <!-- EN: Armor - Material effect multiplier -->
+  <StuffEffectMultiplierArmor.label>Θωράκιση - Πολλαπλασιαστής επίδρασης υλικού</StuffEffectMultiplierArmor.label>
+  
+  <!-- EN: Insulation - Cold - Material effect multiplier -->
+  <StuffEffectMultiplierInsulation_Cold.label>Μόνωση - Ψύχους - Πολλαπλασιαστής επίδρασης υλικού</StuffEffectMultiplierInsulation_Cold.label>
+  
+  <!-- EN: Insulation - Heat - Material effect multiplier -->
+  <StuffEffectMultiplierInsulation_Heat.label>Μόνωση - Ζέστης - Πολλαπλασιαστής επίδρασης υλικού</StuffEffectMultiplierInsulation_Heat.label>
+  
+</LanguageData>

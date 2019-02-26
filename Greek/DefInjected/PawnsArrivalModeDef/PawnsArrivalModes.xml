@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: A group of {0} from {1} have dropped in right on top of you! -->
+  <CenterDrop.textEnemy>Μία ομάδα {0} από {1} έχει πέσει ακριβώς από πάνω σας!</CenterDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have dropped in right on top of you! -->
+  <CenterDrop.textFriendly>Μία φιλική ομάδα {0} από {1} έχει πέσει ακριβώς από πάνω σας!</CenterDrop.textFriendly>
+  
+  <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDrop.textEnemy>Μία ομάδα {0} από {1} έφτασε με ατράκτους μεταφοράς εδώ κοντά.</EdgeDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDrop.textFriendly>Μία ομάδα φίλων {0} από {1} έφτασε με μεταφορικές ατράκτους εδώ κοντά.</EdgeDrop.textFriendly>
+  
+  <!-- EN: Several separate groups of {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDropGroups.textEnemy>Αρκετές ξεχωριστές ομάδες {0} από {1} έχουν καταφτάσει με ατράκτους μεταφοράς εδώ κοντά.</EdgeDropGroups.textEnemy>
+  <!-- EN: Several separate groups of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDropGroups.textFriendly>Αρκετές ξεχωριστές φιλικές ομάδες {0} από {1} έχουν καταφτάσει με ατράκτους μεταφοράς εδώ κοντά.</EdgeDropGroups.textFriendly>
+  
+  <!-- EN: A group of {0} from {1} have arrived nearby. -->
+  <EdgeWalkIn.textEnemy>Μία ομάδα {0} από {1} σας έχει πλησιάσει.</EdgeWalkIn.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived nearby. -->
+  <EdgeWalkIn.textFriendly>Μία ομάδα φιλικών {0} από {1} σας έχει πλησιάσει.</EdgeWalkIn.textFriendly>
+  
+  <!-- EN: Several separate groups of {0} from {1} have arrived nearby. -->
+  <EdgeWalkInGroups.textEnemy>Αρκετές ξεχωριστές ομάδες {0} από {1} σας έχουν προσεγγίσει.</EdgeWalkInGroups.textEnemy>
+  <!-- EN: Several separate groups of friendly {0} from {1} have arrived nearby. -->
+  <EdgeWalkInGroups.textFriendly>Αρκετές ξεχωριστές φιλικές ομάδες {0} από {1} σας έχουν προσεγγίσει.</EdgeWalkInGroups.textFriendly>
+  
+  <!-- EN: A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+  <RandomDrop.textEnemy>Μια ομάδα {0} από {1} έφτασε με ατράκτους μεταφοράς. Οι άτρακτοί τους ήρθαν άτακτα και προσγειώθηκαν διάσπαρτα σε όλη την περιοχή!</RandomDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+  <RandomDrop.textFriendly>Μια φιλική ομάδα {0} από {1} έφτασε με μεταφορικές ατράκτους. Οι άτρακτοί τους ήρθαν άτακτα και προσγειώθηκαν διάσπαρτα σε όλη την περιοχή!</RandomDrop.textFriendly>
+  
+</LanguageData>

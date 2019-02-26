@@ -1,21 +1,32 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <PsychicInsanityLance.label>λόγχη ψυχικής παραφροσύνης</PsychicInsanityLance.label>
-  <PsychicInsanityLance.description>Μιας χρήσης τεχνούργημα που οδηγεί οποιονδήποτε χαρακτήρα σε έξαλλη κατάσταση από οποιαδήποτε απόσταση - ακόμη και μέσα από τοίχους.</PsychicInsanityLance.description>
-  <PsychicInsanityLance.comps.1.useLabel>Ενεργοποίηση</PsychicInsanityLance.comps.1.useLabel>
-
-  <PsychicShockLance.label>λόγχη ψυχικής αιφνίδιας ταραχής</PsychicShockLance.label>
-  <PsychicShockLance.description>Μιας χρήσης τεχνούργημα που κατευθύνει τις ψυχικές διαταραχές προς έναν χαρακτήρα, ρίχνοντάς τον σε ψυχικό σοκ για κάποιο χρονικό διάστημα. Μεγάλος κίνδυνος εγκεφαλικής βλάβης.</PsychicShockLance.description>
-  <PsychicShockLance.comps.1.useLabel>Ενεργοποίηση</PsychicShockLance.comps.1.useLabel>
-
+  
+  <!-- EN: psychic animal pulser -->
   <PsychicAnimalPulser.label>ψυχική παλμογεννήτρια ζώων</PsychicAnimalPulser.label>
-  <PsychicAnimalPulser.description>Ένα τεχνητό αντικείμενο μιας χρήσης που οδηγεί όλα τα ζώα στην περιοχή σε ένα λυσσασμένο ανθρωποκυνηγητό.</PsychicAnimalPulser.description>
-  <PsychicAnimalPulser.comps.1.useLabel>Ενεργοποίηση</PsychicAnimalPulser.comps.1.useLabel>
-
+  <!-- EN: A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. -->
+  <PsychicAnimalPulser.description>Ένα τεχνητό αντικείμενο μιας χρήσης. Ο ψυχικός παλμός γεμίζει τα κατώτερα μυαλά με τρομακτικές εικόνες οδηγώντας όλα τα ζώα στην περιοχή σε ένα λυσσασμένο ανθρωποκυνηγητό.</PsychicAnimalPulser.description>
+  <!-- EN: Activate -->
+  <PsychicAnimalPulser.comps.CompUsable.useLabel>Ενεργοποίηση</PsychicAnimalPulser.comps.CompUsable.useLabel>
+  
+  <!-- EN: psychic insanity lance -->
+  <PsychicInsanityLance.label>λόγχη ψυχικής παραφροσύνης</PsychicInsanityLance.label>
+  <!-- EN: A one-use psychic effector. It overwhelms the target's mind with terrifying perceptual distortions, driving him into a berserk state. There is a risk of brain damage. It works at long distances, and through walls. -->
+  <PsychicInsanityLance.description>Ένας ψυχικός επενεργητής μίας χρήσης. Κατακλύζει το μυαλό του στόχου με τρομακτικές ψυχολογικές παραμορφώσεις, οδηγώντας τον σε μαινόμενη κατάσταση. Υπάρχει κίνδυνος εγκεφαλικής βλάβης. Λειτουργεί σε μεγάλες αποστάσεις και μέσα από τοίχους.</PsychicInsanityLance.description>
+  <!-- EN: Activate -->
+  <PsychicInsanityLance.comps.CompUsable.useLabel>Ενεργοποίηση</PsychicInsanityLance.comps.CompUsable.useLabel>
+  
+  <!-- EN: psychic shock lance -->
+  <PsychicShockLance.label>λόγχη ψυχικής αιφνίδιας ταραχής</PsychicShockLance.label>
+  <!-- EN: A one-use psychic effector. It shocks the target's mind with chaotic images, blocking coherent perception and dropping him into a state of psychic shock. There is a risk of brain damage. It works at long distances, and through walls. -->
+  <PsychicShockLance.description>Ένας ψυχικός επενεργητής μίας χρήσης. Κλονίζει το μυαλό του στόχου με χαοτικές εικόνες, εμποδίζοντας τη συνεπή αντίληψη και τον ρίχνει σε κατάσταση ψυχικού σοκ. Υπάρχει κίνδυνος εγκεφαλικής βλάβης. Λειτουργεί σε μεγάλες αποστάσεις και μέσα από τοίχους.</PsychicShockLance.description>
+  <!-- EN: Activate -->
+  <PsychicShockLance.comps.CompUsable.useLabel>Ενεργοποίηση</PsychicShockLance.comps.CompUsable.useLabel>
+  
+  <!-- EN: psychic soothe pulser -->
   <PsychicSoothePulser.label>πραϋντική ψυχική παλμογεννήτρια</PsychicSoothePulser.label>
-  <PsychicSoothePulser.description>Ένα τεχνούργημα μίας χρήσης που δίνει μια προσωρινή ώθηση της διάθεσης σε όλους στον χάρτη.</PsychicSoothePulser.description>
-  <PsychicSoothePulser.comps.1.useLabel>Ενεργοποίηση</PsychicSoothePulser.comps.1.useLabel>
-
-
+  <!-- EN: A one-use broad-wave psychic effector. The psychic pulse induces self-satisfying perceptual distortions, giving a temporary mood boost to everyone in the region. -->
+  <PsychicSoothePulser.description>Ένα τεχνούργημα μίας χρήσης. Ο ψυχικός παλμός προκαλεί αυτοϊκανοποιητικές ψυχολογικές παραμορφώσεις προσφέροντας μια προσωρινή ώθηση της διάθεσης σε όλους στην περιοχή.</PsychicSoothePulser.description>
+  <!-- EN: Activate -->
+  <PsychicSoothePulser.comps.CompUsable.useLabel>Ενεργοποίηση</PsychicSoothePulser.comps.CompUsable.useLabel>
+  
 </LanguageData>

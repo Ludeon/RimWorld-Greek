@@ -1,17 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Χειρουργική τομή: Δίνει τη δυνατότητα απομάκρυνσης των εσωτερικών οργάνων χωρίς να βλάπτουν τα εξωτερικά μέλη του σώματος -->
-  <!-- Surgical cut: Makes it possible to remove inner organs without harming outer body parts -->
-
-  <SurgicalCut.label>χειρουργική τομή</SurgicalCut.label>
-  <SurgicalCut.deathMessage>{0} πέθανε κατά την εγχείρηση.</SurgicalCut.deathMessage>
-
-
-  <!-- Θανατηφόρα τομή: Δίνει τη δυνατότητα να γίνει διάκριση μεταξύ θανατηφόρας ζημιάς από άλλες (Execution cut: Makes it possible to distinguish execution damage from others) -->
-
+  
+  <!-- EN: execution cut -->
   <ExecutionCut.label>θανατηφόρα τομή</ExecutionCut.label>
+  <!-- EN: {0} has been executed by cutting. -->
   <ExecutionCut.deathMessage>{0} εκτελέστηκε με τομή.</ExecutionCut.deathMessage>
-
-
+  
+  <!-- EN: surgical cut -->
+  <SurgicalCut.label>χειρουργική τομή</SurgicalCut.label>
+  <!-- EN: {0} has died during surgery. -->
+  <SurgicalCut.deathMessage>{0} πέθανε κατά την εγχείρηση.</SurgicalCut.deathMessage>
+  
 </LanguageData>

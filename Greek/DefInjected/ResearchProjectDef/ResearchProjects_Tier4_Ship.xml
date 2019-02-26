@@ -1,25 +1,38 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Επιπέδου 4: Υψηλής τεχνολογίας πάγκος έρευνας με πολυαναλυτή (Tier 4: Hi-tech research bench with multi-analyzer) -->
-
-  <ShipBasics.label>ναυπήγηση διαστημόπλοιου</ShipBasics.label>
-  <ShipBasics.description>Σου επιτρέπει να ξεκινήσεις την έρευνα για εξελιγμένες τεχνολογίες κατασκευής διαστημόπλοιων και τελικά να φτιάξετε ένα διαστημόπλοιο διαφυγής από τον πλανήτη.</ShipBasics.description>
-
-  <ShipCryptosleep.label>κάψουλες κρυογενούς ύπνου διαστημοπλοίου</ShipCryptosleep.label>
-  <ShipCryptosleep.description>Σου επιτρέπει να φτιάξεις κάψουλες κρυογενούς ύπνου μέσα στις οποίες θα βρίσκονται οι άποικοι κατά την διάρκεια του ταξιδιού ανάμεσα στα άστρα.</ShipCryptosleep.description>
-
-  <ShipReactor.label>αντιδραστήρας αντιύλης διαστημοπλοίου</ShipReactor.label>
-  <ShipReactor.description>Σου επιτρέπει να χρησιμοποιήσεις έναν πυρήνα περιορισμού αντιύλης με τον οποίο μπορείς να φτιάξεις έναν αντιδραστήρα αντιύλης για να δώσεις ενέργεια στο διαστημόπλοιό σου.</ShipReactor.description>
-
-  <ShipEngine.label>προωθητής αντιύλης διαστημοπλοίου</ShipEngine.label>
-  <ShipEngine.description>Σου επιτρέπει να χρησιμοποιήσεις έναν πυρήνα περιορισμού αντιύλης με τον οποίο μπορείς να φτιάξεις έναν προωθητή αντιύλης για το διαστημόπλοιο.</ShipEngine.description>
-
-  <ShipComputerCore.label>πυρήνας υπολογιστή διαστημοπλοίου</ShipComputerCore.label>
-  <ShipComputerCore.description>Σου επιτρέπει να δημιουργήσεις τεχνητή νοημοσύνη για την καθοδήγηση του διαστημοπλοίου.</ShipComputerCore.description>
-
-  <ShipSensorCluster.label>σύμπλεγμα αισθητήρων διαστημοπλοίου</ShipSensorCluster.label>
-  <ShipSensorCluster.description>Σου επιτρέπει να κατασκευάσεις μεγάλου εύρους αισθητήρες για το διαστημόπλοιο.</ShipSensorCluster.description>
-
-
+  
+  <!-- EN: starflight basics -->
+  <ShipBasics.label>βασικά αστρικής πτήσης</ShipBasics.label>
+  <!-- EN: Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system. -->
+  <ShipBasics.description>Κατασκευάστε τα δομικά και υποστηρικτικά στοιχεία ενός αστρικού πλοίου. Αυτό είναι το πρώτο βήμα για την κατασκευή ενός πλοίου για να αποχωρήσετε από αυτό το σύστημα αστέρων.</ShipBasics.description>
+  <!-- EN: Escaping from this planet - it would be freedom at last, and maybe a return home.\n\nBut also incredibly dangerous.\n\nMany desperate souls want off this planet. Ship reactors take 15 days to charge up. Once you begin that process, the ship reactor will emit an energy signature detectable from thousands of kilometers away. Raiders will flock to attack you in waves, with an intensity you've never seen. Mechanoids are also known to be attracted to such energy signatures for their own mysterious reasons.\n\nIt won't start until you activate your ship's reactor, but when it does, it'll be ferocious. You'll need to stockpile resources, weapons, and defenses for the onslaught if you hope to escape alive. -->
+  <ShipBasics.discoveredLetterText>Ξεφεύγοντας από αυτόν τον πλανήτη - αυτό θα ήταν τελικά η ελευθερία και ίσως η επιστροφή στο σπίτι σας.\n\nΑλλά επίσης είναι εξαιρετικά επικίνδυνο.\n\nΠολλές απελπισμένες ψυχές θέλουν να εγκαταλείψουν αυτόν τον πλανήτη. Οι αντιδραστήρες πλοίων χρειάζονται 15 ημέρες για να φορτιστούν. Μόλις ξεκινήσετε αυτή τη διαδικασία, ο αντιδραστήρας πλοίου θα εκπέμψει ένα ενεργειακό αποτύπωμα ανιχνεύσιμο από χιλιάδες χιλιόμετρα μακριά. Οι επιδρομείς θα συρρέουν σε κύματα για να σας επιτεθούν, με ένταση που δεν έχετε δει ποτέ. Τα μηχανoειδή είναι επίσης γνωστό ότι προσελκύονται από τέτοια ενεργειακά αποτυπώματα για τους δικούς τους μυστηριώδεις λόγους.\n\nΔεν θα ξεκινήσει να εκπέμπει μέχρι να ενεργοποιήσετε τον αντιδραστήρα του πλοίου σας, αλλά όταν ξεκινήσει, θα είναι θηριώδης. Θα χρειαστεί να αποθηκεύσετε πόρους, όπλα και άμυνες για την σφοδρή επίθεση εάν ελπίζετε να ξεφύγετε ζωντανοί.</ShipBasics.discoveredLetterText>
+  <!-- EN: About: Launching the ship -->
+  <ShipBasics.discoveredLetterTitle>Σχετικά: Εκτόξευση διαστημοπλοίου</ShipBasics.discoveredLetterTitle>
+  
+  <!-- EN: AI persuasion -->
+  <ShipComputerCore.label>αμοιβή τεχνητής νοημοσύνης</ShipComputerCore.label>
+  <!-- EN: Build a reward-signal system to persuade an existing AI persona core into serving as a ship's AI captain. Since people sleep during interstellar travel, an AI core is necessary to handle the complex decisions of a years-long starflight. -->
+  <ShipComputerCore.description>Δημιουργήστε ένα σύστημα εκπομπής αμοιβής για να πείσετε έναν υπάρχοντα πυρήνα προσωπικότητας τεχνητή νοημοσύνης να υπηρετήσει ως πλοίαρχος στο διαστημόπλοιο. Δεδομένου ότι οι άνθρωποι είναι ναρκωμένοι κατά τη διάρκεια του διαστρικού ταξιδιού, ένας πυρήνας τεχνητής νοημοσύνης είναι απαραίτητος για να χειριστεί τις περίπλοκες αποφάσεις μιας χρονιάς αστρικής πτήσης.</ShipComputerCore.description>
+  
+  <!-- EN: vacuum cryptosleep casket -->
+  <ShipCryptosleep.label>κάψουλες κενού κρυογενούς ύπνου</ShipCryptosleep.label>
+  <!-- EN: Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars. -->
+  <ShipCryptosleep.description>Κατασκευάστε ανθεκτικές κάψουλες κρυογενούς ύπνου αρκετά σκληρές ώστε να εκτεθούν στο κενό, για να μεταφέρετε τους ανθρώπους στο μακροχρόνιο ταξίδι ανάμεσα στα αστέρια.</ShipCryptosleep.description>
+  
+  <!-- EN: Johnson-Tanaka drive -->
+  <ShipEngine.label>προωθητής Τζόνσον Τανάκα</ShipEngine.label>
+  <!-- EN: Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
+  <ShipEngine.description>Κατασκευάστε ένα κινητήρα Τζόνσον Τανάκα για ένα διαστημόπλοιο. Ο κινητήρας ΤζT μπορεί να σας σπρώξει σε άλλα αστέρια αξιοποιώντας τα μηχανικά πλεονεκτήματα της κβαντικής κλίμακας για την μετάδοση ορμής και μεταφορά σε αστέρια. Φυσικά, όπως συμβαίνει με όλα τα αστικά σκάφη, χρειάζονται πολλά χρόνια για να φτάσουν οπουδήποτε.</ShipEngine.description>
+  
+  <!-- EN: starship reactor -->
+  <ShipReactor.label>αντιδραστήρας διαστημοπλοίου</ShipReactor.label>
+  <!-- EN: Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders. -->
+  <ShipReactor.description>Κατασκευάστε έναν πυρηνικό αντιδραστήρα μεγάλης διάρκειας για να τροφοδοτήσετε ένα διαστημόπλοιο Σημειώστε ότι οι αντιδραστήρες απαιτούν μακρά διαδικασία εκκίνησης που θα προσελκύσει επιδρομείς.</ShipReactor.description>
+  
+  <!-- EN: starflight sensors -->
+  <ShipSensorCluster.label>αισθητήρες διαστημικής πτήσης</ShipSensorCluster.label>
+  <!-- EN: Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance. -->
+  <ShipSensorCluster.description>Κατασκευάστε αισθητήρες μεγάλης εμβέλειας για ένα διαστημόπλοιο. Αυτοί οι αισθητήρες είναι απαραίτητοι για την πλοήγηση, την επικοινωνία και την αποφυγή απειλών.</ShipSensorCluster.description>
+  
 </LanguageData>

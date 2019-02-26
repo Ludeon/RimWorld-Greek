@@ -1,24 +1,33 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Mechanoid_Centipede.label>σαρανταποδαρούσα</Mechanoid_Centipede.label>
-  <Mechanoid_Centipede.description>Ισχυρό μηχανικό πλάσμα που γλιστρούν σε δεκάδες πόδια. Η σκληρή τους άμυνα και η πολεμική τους ισχύς τους κάνει αποτελεσματικούς ενάντια σε στάσιμους στόχους. Είναι κάπως ευάλωτες ενάντια σε κινούμενους εχθρούς.</Mechanoid_Centipede.description>
-  <Mechanoid_Centipede.tools.0.label>κεφάλι</Mechanoid_Centipede.tools.0.label>
-  <!-- Τύπος Σάρκας: Μηχανοειδές (Flesh Type: Mechanoid) -->
-  <Mechanoid_Centipede_Corpse.label>κουφάρι σαρανταποδαρούσας</Mechanoid_Centipede_Corpse.label>
-  <Mechanoid_Centipede_Corpse.description>πτώμα σαρανταποδαρούσας</Mechanoid_Centipede_Corpse.description>
-
-
-  <!-- Δρεπανοφόρο (Scyther) -->
-
-  <Mechanoid_Scyther.label>δρεπανοφόρο</Mechanoid_Scyther.label>
-  <Mechanoid_Scyther.description>Γρήγορο, μικρό πολεμικό μηχανικό πλάσμα. Συνήθως έχουν ένα κύριο όπλο μακρινής εμβέλειας και τα σώματά τους είναι καλυμένα με πολλαπλές αιχμηρές προεξοχές που τους καθιστούν θανάσιμους στις μάχες σώμα με σώμα. Δεν χρησιμοποιούν καλύψεις. Αντιμετωπίζεται καλύτερα με συγκεντρωμένη, συντριπτική στρατιωτική δύναμη.</Mechanoid_Scyther.description>
-  <Mechanoid_Scyther.tools.0.label>αριστερή λεπίδα</Mechanoid_Scyther.tools.0.label>
-  <Mechanoid_Scyther.tools.1.label>δεξιά λεπίδα</Mechanoid_Scyther.tools.1.label>
-  <Mechanoid_Scyther.tools.2.label>κεφάλι</Mechanoid_Scyther.tools.2.label>
-  <!-- Τύπος Σάρκας: Μηχανοειδές (Flesh Type: Mechanoid) -->
-  <Mechanoid_Scyther_Corpse.label>κουφάρι δρεπανοφόρου</Mechanoid_Scyther_Corpse.label>
-  <Mechanoid_Scyther_Corpse.description>πτώμα δρεπανοφόρου</Mechanoid_Scyther_Corpse.description>
-
-
+  
+  <!-- EN: centipede -->
+  <Mech_Centipede.label>σαρανταποδαρούσα</Mech_Centipede.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carpace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_Centipede.description>Ισχυρό μηχανικό πλάσμα που γλιστρούν σε δεκάδες πόδια. Η σκληρή τους άμυνα και η πολεμική τους ισχύς τους κάνει αποτελεσματικούς ενάντια σε στάσιμους στόχους. Είναι κάπως ευάλωτες ενάντια σε κινούμενους εχθρούς.</Mech_Centipede.description>
+  <!-- EN: head -->
+  <Mech_Centipede.tools.head.label>κεφάλι</Mech_Centipede.tools.head.label>
+  
+  <!-- EN: lancer -->
+  <Mech_Lancer.label>σκοπευτής</Mech_Lancer.label>
+  <!-- EN: A human-sized combat mechanoid with huge optical sensors on its face for aiming weapons at long range. While effective at distance, it is weaker in melee combat. Veterans of mechanoid wars know that often, the safest thing to do against a lancer is to charge. -->
+  <Mech_Lancer.description>Ένα μηχανικό πλάσμα μάχης στο μέγεθος του ανθρώπου με τεράστιους οπτικούς αισθητήρες στο πρόσωπό του για να στοχεύει με τα όπλα από μεγάλη απόσταση. Ενώ είναι αποτελεσματικό από απόσταση, είναι πιο αδύναμο στη μάχη σώμα με σώμα. Οι βετεράνοι των πολέμων με τα μηχανοειδοί γνωρίζουν ότι συχνά, το ασφαλέστερο πράγμα που πρέπει να κάνεις εναντίον ενός σκοπευτή είναι να του ορμίσεις.</Mech_Lancer.description>
+  <!-- EN: left fist -->
+  <Mech_Lancer.tools.left_fist.label>αριστερή γροθιά</Mech_Lancer.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Mech_Lancer.tools.right_fist.label>δεξιά γροθιά</Mech_Lancer.tools.right_fist.label>
+  <!-- EN: head -->
+  <Mech_Lancer.tools.head.label>κεφάλι</Mech_Lancer.tools.head.label>
+  
+  <!-- EN: scyther -->
+  <Mech_Scyther.label>δρεπανοφόρο</Mech_Scyther.label>
+  <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but their mostly use two arm blades to lop off limbs or gut their victims alive. -->
+  <Mech_Scyther.description>Γρήγορα, ψηλόλιγνα, σε ανθρώπινο μεγέθος πολεμικά μηχναοειδή που ειδικεύονται στην ταχεία προσέγγιση και την κοντινή μάχη. Τα σώματα τους είναι καλυμμένα με ακίδες και λεπίδες, αλλά χρησιμοποιούν ως επί το πλείστον τα δύο χέρια λεπίδες για να πετσοκόψουν τα μέλη ενός σώματος ή να ξεκοιλιάσουν τα θύματά τους ζωντανά..</Mech_Scyther.description>
+  <!-- EN: left blade -->
+  <Mech_Scyther.tools.left_blade.label>αριστερή λεπίδα</Mech_Scyther.tools.left_blade.label>
+  <!-- EN: right blade -->
+  <Mech_Scyther.tools.right_blade.label>δεξιά λεπίδα</Mech_Scyther.tools.right_blade.label>
+  <!-- EN: head -->
+  <Mech_Scyther.tools.head.label>κεφάλι</Mech_Scyther.tools.head.label>
+  
 </LanguageData>

@@ -1,9 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <SleepingMechanoids.label>κοιμώμενα μηχανοειδεί</SleepingMechanoids.label>
-  <SleepingMechanoids.description>Μερικά κοιμισμένα μηχανοειδεί.</SleepingMechanoids.description>
-  <SleepingMechanoids.descriptionDialogue>υπάρχουν μηχανοειδεί που κοιμούνται στην περιοχή</SleepingMechanoids.descriptionDialogue>
-
-
+  
+  <!-- EN: sleeping mechanoids -->
+  <SleepingMechanoids.label>κοιμώμενα μηχανοειδή</SleepingMechanoids.label>
+  <!-- EN: A group of sleeping mechanoids. -->
+  <SleepingMechanoids.description>Μερικά κοιμισμένα μηχανοειδή.</SleepingMechanoids.description>
+  <!-- EN: There are a few sleeping hostile mechanoids in this area.\n\nThe mechanoids may or may not wake up when you approach them, so beware. -->
+  <SleepingMechanoids.arrivedLetter>Υπάρχουν λίγα εχθρικά κοιμισμένα μηχανοειδή σε αυτόν τον τομέα.\n\nΤα μηχανοειδή ίσως άλλα μπορεί και όχι να ξυπνήσουν όταν τα πλησιάσετε, προσέξτε.</SleepingMechanoids.arrivedLetter>
+  <!-- EN: there are {0} sleeping mechanoids in the area -->
+  <SleepingMechanoids.descriptionDialogue>υπάρχουν {0} μηχανοειδεί που κοιμούνται στην περιοχή</SleepingMechanoids.descriptionDialogue>
+  
 </LanguageData>

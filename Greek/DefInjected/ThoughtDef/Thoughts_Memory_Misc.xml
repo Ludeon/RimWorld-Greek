@@ -1,119 +1,177 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <AteWithoutTable.stages.0.label>έφαγε χωρίς τραπέζι</AteWithoutTable.stages.0.label>
-  <AteWithoutTable.stages.0.description>Έπρεπε να φάω στο έδαφος. Δεν μπορούμε να φέρουμε κανένα τραπέζι;</AteWithoutTable.stages.0.description>
-
-  <SleepDisturbed.stages.0.label>διαταραγμένος ύπνος</SleepDisturbed.stages.0.label>
-  <SleepDisturbed.stages.0.description>Ήμουν ενοχλημένος κατά τη διάρκεια του ύπνου από ανθρώπους που κινούνταν γύρω μου. Ένα ιδιωτικό δωμάτιο θα το διορθώσει αυτό.</SleepDisturbed.stages.0.description>
-
-  <NewColonyOptimism.stages.0.label>αισιοδοξία καινούργιας αρχής</NewColonyOptimism.stages.0.label>
-  <NewColonyOptimism.stages.0.description>Μόλις προσγειωθήκαμε. Είναι δύσκολη κατάσταση αλλά είμαι ενθουσιασμένος που θα φτιάξουμε μία καινούργια αποικία.</NewColonyOptimism.stages.0.description>
-
-  <NewColonyHope.stages.0.label>ελπίδα για την καινούργια αποικία</NewColonyHope.stages.0.label>
-  <NewColonyHope.stages.0.description>Αρχίζω και το συνηθίζω όμως και είναι και πάλι μια νέα εμπειρία. Ελπίζω να τα βγάλουμε πέρα...</NewColonyHope.stages.0.description>
-
-  <SleptOutside.stages.0.label>κοιμήθηκε έξω</SleptOutside.stages.0.label>
-  <SleptOutside.stages.0.description>Έπρεπε να κοιμηθώ έξω χωρίς καμία προστασία από τον καιρό.</SleptOutside.stages.0.description>
-
-  <SleptOnGround.stages.0.label>κοιμήθηκε στο έδαφος</SleptOnGround.stages.0.label>
-  <SleptOnGround.stages.0.description>Έπρεπε να κοιμηθώ στο έδαφος όπως τα ζώα.</SleptOnGround.stages.0.description>
-
-  <SleptInCold.stages.0.label>κοιμήθηκε στο κρύο</SleptInCold.stages.0.label>
-  <SleptInCold.stages.0.description>Έπρεπε να κοιμηθώ στο κρύο. Χρειαζόμαστε πραγματικά μερικές σόμπες.</SleptInCold.stages.0.description>
-
-  <SleptInHeat.stages.0.label>κοιμήθηκε στη ζέστη</SleptInHeat.stages.0.label>
-  <SleptInHeat.stages.0.description>Έπρεπε να κοιμηθώ σε αφόρητη ζέστη. Δεν μπορούμε να έχουμε κλιματισμό;</SleptInHeat.stages.0.description>
-
-  <KnowPrisonerSold.stages.0.label>ένας κρατούμενος πουλήθηκε</KnowPrisonerSold.stages.0.label>
-  <KnowPrisonerSold.stages.0.description>Η αποικία πούλησε έναν κρατούμενο σε ένα δουλεμπόριο. Είναι ανησυχητικό.</KnowPrisonerSold.stages.0.description>
-
-  <KnowGuestOrganHarvested.stages.0.label>κάποιου τα όργανα πάρθηκαν</KnowGuestOrganHarvested.stages.0.label>
-  <KnowGuestOrganHarvested.stages.0.description>Η αποικία πήρε μέλη του σώματος από έναν επισκέπτη ή φυλακισμένο. Είναι φρικτό, να διαμελίζουμε κάποιον σε κομμάτια όταν δεν έχουμε άλλη επιλογή.</KnowGuestOrganHarvested.stages.0.description>
-
-  <KnowColonistOrganHarvested.stages.0.label>τα όργανα αποίκου πάρθηκαν</KnowColonistOrganHarvested.stages.0.label>
-  <KnowColonistOrganHarvested.stages.0.description>Κάποιος πήρε τα μέλη του σώματος από έναν άποικο. Είναι φρικτό, να διαμελίζουμε κάποιον σε κομμάτια όταν δεν έχουμε άλλη επιλογή.</KnowColonistOrganHarvested.stages.0.description>
-
-  <MyOrganHarvested.stages.0.label>τα όργανά μου πάρθηκαν</MyOrganHarvested.stages.0.label>
-  <MyOrganHarvested.stages.0.description>Η αποικία πίρε τα μέλη του σώματός μου! Με αποσυναρμολογούν σαν παλιά μηχανή!</MyOrganHarvested.stages.0.description>
-
-  <WasImprisoned.stages.0.label>φυλακίστηκε</WasImprisoned.stages.0.label>
-  <WasImprisoned.stages.0.description>Η αποικία με είχε στη φυλακή για λίγο, σαν ένα ζώο σε κλουβί.</WasImprisoned.stages.0.description>
-
-  <GreenThumbHappy.stages.0.label>φύτεψε ένα φυτό</GreenThumbHappy.stages.0.label>
-  <GreenThumbHappy.stages.0.description>Αυτό που χρειάζεται ο κόσμος είναι περισσότερα φυτά!</GreenThumbHappy.stages.0.description>
-
-  <Catharsis.stages.0.label>κάθαρση</Catharsis.stages.0.label>
-  <Catharsis.stages.0.description>Αισθάνθηκα καλά να τελικά ξεδίπλωσα τα συναισθήματά μου.</Catharsis.stages.0.description>
-
-  <Nuzzled.stages.0.label>μουσουδιάσματα</Nuzzled.stages.0.label>
-  <Nuzzled.stages.0.description>Ένα χαριτωμένο ζώο μου κάνει μουσουδιές..</Nuzzled.stages.0.description>
-
-  <KnowBuriedInSarcophagus.stages.0.label>έθαψε στη σαρκοφάγο</KnowBuriedInSarcophagus.stages.0.label>
-  <KnowBuriedInSarcophagus.stages.0.description>Αυτή η αποικία έθαψε κάποιον σε μια διακοσμημένη σαρκοφάγο. Μπορεί η ψυχή του να αναπαυτεί εν ειρήνη.</KnowBuriedInSarcophagus.stages.0.description>
-
-
-  <!-- Κατακρεούργηση ανθρώπινου πτώματος (Human corpse butchering) -->
-
-  <ButcheredHumanlikeCorpse.stages.0.label>Κατακρεούργησα ένα ανθρωποειδές</ButcheredHumanlikeCorpse.stages.0.label>
-  <ButcheredHumanlikeCorpse.stages.0.description>Τεμάχισα κάποιον σαν ζώο.</ButcheredHumanlikeCorpse.stages.0.description>
-
-  <KnowButcheredHumanlikeCorpse.stages.0.label>Κατακρεουργήσαμε ένα ανθρωποειδές</KnowButcheredHumanlikeCorpse.stages.0.label>
-  <KnowButcheredHumanlikeCorpse.stages.0.description>Τεμαχίσαμε κάποιον σαν ζώο.</KnowButcheredHumanlikeCorpse.stages.0.description>
-
-
-  <!-- Μάχη (Combat) -->
-
-  <ObservedLayingCorpse.stages.0.label>παρατήρησε πτώμα</ObservedLayingCorpse.stages.0.label>
-  <ObservedLayingCorpse.stages.0.description>Είδα ένα πτώμα να βρίσκεται στο έδαφος. Ήταν αποκρουστικό.</ObservedLayingCorpse.stages.0.description>
-
-  <ObservedLayingRottingCorpse.stages.0.label>είδε σαπισμένο πτώμα</ObservedLayingRottingCorpse.stages.0.label>
-  <ObservedLayingRottingCorpse.stages.0.description>Είδα ένα σάπιο πτώμα να κείτεται στο έδαφος. Ήταν αηδιαστικό.</ObservedLayingRottingCorpse.stages.0.description>
-
-  <WitnessedDeathAlly.stages.0.label>είδε έναν σύμμαχο να σκοτώνεται</WitnessedDeathAlly.stages.0.label>
-  <WitnessedDeathAlly.stages.0.description>Είδα έναν από τους δικούς μου να πεθαίνει. Την μια στιγμή ήταν ζωντανός και την επόμενη νεκρός.</WitnessedDeathAlly.stages.0.description>
-
-  <WitnessedDeathNonAlly.stages.0.label>παρατήρησε τον θάνατο ενός ξένου</WitnessedDeathNonAlly.stages.0.label>
-  <WitnessedDeathNonAlly.stages.0.description>Είδα κάποιον να πεθαίνει. Την μια στιγμή ήταν ζωντανός και την επόμενη νεκρός.</WitnessedDeathNonAlly.stages.0.description>
-
-  <WitnessedDeathFamily.stages.0.label>είδε το θάνατο οικογενειακού μέλους</WitnessedDeathFamily.stages.0.label>
-  <WitnessedDeathFamily.stages.0.description>Είδα ένα μέλος της οικογένειάς μου να πεθαίνει. Τη δική μου σάρκα και αίμα...</WitnessedDeathFamily.stages.0.description>
-
-  <WitnessedDeathBloodlust.stages.0.label>είδε έναν αιματηρό θάνατο</WitnessedDeathBloodlust.stages.0.label>
-  <WitnessedDeathBloodlust.stages.0.description>Είδα κάποιον να πεθάνει! Αυτό ήταν έντονο!</WitnessedDeathBloodlust.stages.0.description>
-
-  <KilledHumanlikeBloodlust.stages.0.label>σκότωσε κάποιον</KilledHumanlikeBloodlust.stages.0.label>
-  <KilledHumanlikeBloodlust.stages.0.description>Σκότωσα κάποιον! Τι έξαρση!</KilledHumanlikeBloodlust.stages.0.description>
-
-  <DefeatedHostileFactionLeader.stages.0.label>εξουδετέρωσε τον εχθρικό αρχηγό {0}</DefeatedHostileFactionLeader.stages.0.label>
-  <DefeatedHostileFactionLeader.stages.0.description>Έκαναν προσπάθειες για να μας καταστρέψουν και τους κατατρόπωσα!</DefeatedHostileFactionLeader.stages.0.description>
-
-  <DefeatedMajorEnemy.stages.0.label>εξουδετέρωσε {0}</DefeatedMajorEnemy.stages.0.label>
-  <DefeatedMajorEnemy.stages.0.description>Εξουδετέρωσα μια μεγάλη απειλή! Είμαι ήρωας!</DefeatedMajorEnemy.stages.0.description>
-
-
-  <!-- Εξορισμός συντρόφων (Banishing pawns) -->
-
-  <ColonistBanished.stages.0.label>εξορίστηκε άποικος</ColonistBanished.stages.0.label>
-  <ColonistBanished.stages.0.description>Απλώς εξόρισαν κάποιον. Έλπιζα ότι θα το κάνουν, αλλά ανησυχώ.</ColonistBanished.stages.0.description>
-
-  <ColonistBanishedToDie.stages.0.label>εξορίστηκε άποικος και αφέθηκε να πεθάνει</ColonistBanishedToDie.stages.0.label>
-  <ColonistBanishedToDie.stages.0.description>Έχουμε εγκαταλείψει κάποιον με τέτοιο τρόπο ώστε να μην υπάρχει σχεδόν κανένας τρόπος να επιβιώσει.</ColonistBanishedToDie.stages.0.description>
-
-  <PrisonerBanishedToDie.stages.0.label>εξορίστηκε κρατούμενος και αφέθηκε να πεθάνει</PrisonerBanishedToDie.stages.0.label>
-  <PrisonerBanishedToDie.stages.0.description>Έχουμε εγκαταλείψει ένα φυλακισμένο με τέτοιο τρόπο ώστε να μην υπάρχει σχεδόν κανένας τρόπος να επιβιώσει.</PrisonerBanishedToDie.stages.0.description>
-
-  <BondedAnimalBanished.stages.0.label>το υιοθετημένο ζώο {0} εξορίστηκε</BondedAnimalBanished.stages.0.label>
-  <BondedAnimalBanished.stages.0.description>Το ζωάκι μου εκδιώχθηκε!</BondedAnimalBanished.stages.0.description>
-
-
-  <!-- Διάσωση επισκέπτη (Rescue quest) -->
-
-  <FailedToRescueRelative.stages.0.label>αποτύχαμε να σώσουμε {0}</FailedToRescueRelative.stages.0.label>
-  <FailedToRescueRelative.stages.0.description>Δεν κατάφερα να διασώσουμε έναν από τους συγγενείς μου. Γνωρίζοντας ότι θα μπορούσα να τον βοηθήσω καθιστά ακόμα πιο δύσκολο να αντιμετωπιστεί ο θάνατος του αγαπημένου μου.</FailedToRescueRelative.stages.0.description>
-
-  <RescuedRelative.stages.0.label>διασώσαμε {0}</RescuedRelative.stages.0.label>
-  <RescuedRelative.stages.0.description>Διασώσαμε έναν από τους συγγενείς μου. Τώρα που ξέρω ότι είναι ασφαλές, μπορώ επιτέλους να ανακουφιστώ.</RescuedRelative.stages.0.description>
-
-
+  
+  <!-- EN: ate without table -->
+  <AteWithoutTable.stages.ate_without_table.label>έφαγε χωρίς τραπέζι</AteWithoutTable.stages.ate_without_table.label>
+  <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
+  <AteWithoutTable.stages.ate_without_table.description>Έπρεπε να φάω στο έδαφος. Δεν μπορούμε να φέρουμε κανένα τραπέζι;</AteWithoutTable.stages.ate_without_table.description>
+  
+  <!-- EN: bonded animal {0} banished -->
+  <BondedAnimalBanished.stages.bonded_animal_banished.label>το υιοθετημένο ζώο {0} εξορίστηκε</BondedAnimalBanished.stages.bonded_animal_banished.label>
+  <!-- EN: My bonded animal was banished! -->
+  <BondedAnimalBanished.stages.bonded_animal_banished.description>Το ζωάκι μου εκδιώχθηκε!</BondedAnimalBanished.stages.bonded_animal_banished.description>
+  
+  <!-- EN: I butchered humanlike -->
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>Κατακρεούργησα ένα ανθρωποειδές</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
+  <!-- EN: I butchered someone up like an animal. -->
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>Τεμάχισα κάποιον σαν ζώο.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
+  
+  <!-- EN: catharsis -->
+  <Catharsis.stages.catharsis.label>κάθαρση</Catharsis.stages.catharsis.label>
+  <!-- EN: It felt good to finally unbottle my feelings. -->
+  <Catharsis.stages.catharsis.description>Αισθάνθηκα καλά να τελικά ξεδίπλωσα τα συναισθήματά μου.</Catharsis.stages.catharsis.description>
+  
+  <!-- EN: colonist banished -->
+  <ColonistBanished.stages.colonist_banished.label>εξορίστηκε άποικος</ColonistBanished.stages.colonist_banished.label>
+  <!-- EN: We just banished someone. I hope they'll make it, but I'm worried. -->
+  <ColonistBanished.stages.colonist_banished.description>Απλώς εξόρισαν κάποιον. Έλπιζα ότι θα το κάνουν, αλλά ανησυχώ.</ColonistBanished.stages.colonist_banished.description>
+  
+  <!-- EN: colonist banished to death -->
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>εξορίστηκε άποικος και αφέθηκε να πεθάνει</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
+  <!-- EN: We banished someone in such a way that there's almost no way they'll survive. -->
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>Έχουμε εγκαταλείψει κάποιον με τέτοιο τρόπο ώστε να μην υπάρχει σχεδόν κανένας τρόπος να επιβιώσει.</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
+  
+  <!-- EN: defeated hostile leader {0} -->
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>εξουδετέρωσε τον εχθρικό αρχηγό {0}</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
+  <!-- EN: They were leading efforts to destroy us, and I took them down! -->
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>Έκαναν προσπάθειες για να μας καταστρέψουν και τους κατατρόπωσα!</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
+  
+  <!-- EN: defeated hostile leader -->
+  <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>εξουδετέρωση εχθρικού αρχηγού</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
+  
+  <!-- EN: failed to rescue {0} -->
+  <FailedToRescueRelative.stages.failed_to_rescue.label>αποτύχαμε να σώσουμε {0}</FailedToRescueRelative.stages.failed_to_rescue.label>
+  <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
+  <FailedToRescueRelative.stages.failed_to_rescue.description>Είχαμε την ευκαιρία να διασώσουμε τον συγγενή μου και αποτύχαμε. Θα μπορούσα να είχα βοηθήσει!</FailedToRescueRelative.stages.failed_to_rescue.description>
+  
+  <!-- EN: killed someone -->
+  <KilledHumanlikeBloodlust.stages.killed_someone.label>σκότωσε κάποιον</KilledHumanlikeBloodlust.stages.killed_someone.label>
+  <!-- EN: I killed someone! What a rush! -->
+  <KilledHumanlikeBloodlust.stages.killed_someone.description>Σκότωσα κάποιον! Τι έξαρση!</KilledHumanlikeBloodlust.stages.killed_someone.description>
+  
+  <!-- EN: buried in sarcophagus -->
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>έθαψε στη σαρκοφάγο</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>
+  <!-- EN: This colony buried someone in an ornamented sarcophagus. May their soul rest in peace. -->
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>Αυτή η αποικία έθαψε κάποιον σε μια διακοσμημένη σαρκοφάγο. Μπορεί η ψυχή του να αναπαυτεί εν ειρήνη.</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>
+  
+  <!-- EN: we butchered humanlike -->
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>κατακρεουργήσαμε ένα ανθρωποειδές</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>
+  <!-- EN: We butchered someone up like an animal. -->
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>Τεμαχίσαμε κάποιον σαν ζώο.</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>
+  
+  <!-- EN: colonist's organ harvested -->
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>τα όργανα αποίκου πάρθηκαν</KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>
+  <!-- EN: Someone took body parts from a colonist. It's horrible, breaking someone down for parts when they have no choice. -->
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>Κάποιος πήρε τα μέλη του σώματος από έναν άποικο. Είναι φρικτό, να διαμελίζουμε κάποιον σε κομμάτια όταν δεν έχουμε άλλη επιλογή.</KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>
+  
+  <!-- EN: someone's organ harvested -->
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.label>κάποιου τα όργανα πάρθηκαν</KnowGuestOrganHarvested.stages.someones_organ_harvested.label>
+  <!-- EN: The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice. -->
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>Η αποικία πήρε μέλη του σώματος από έναν επισκέπτη ή φυλακισμένο. Είναι φρικτό, να διαμελίζουμε κάποιον σε κομμάτια όταν δεν έχουμε άλλη επιλογή.</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
+  
+  <!-- EN: a prisoner was sold -->
+  <KnowPrisonerSold.stages.a_prisoner_was_sold.label>ένας κρατούμενος πουλήθηκε</KnowPrisonerSold.stages.a_prisoner_was_sold.label>
+  <!-- EN: This colony sold a prisoner into slavery. That's a worrying thought. -->
+  <KnowPrisonerSold.stages.a_prisoner_was_sold.description>Η αποικία πούλησε έναν κρατούμενο σε ένα δουλεμπόριο. Είναι ανησυχητικό.</KnowPrisonerSold.stages.a_prisoner_was_sold.description>
+  
+  <!-- EN: my organ harvested -->
+  <MyOrganHarvested.stages.my_organ_harvested.label>τα όργανά μου πάρθηκαν</MyOrganHarvested.stages.my_organ_harvested.label>
+  <!-- EN: The colony harvested body parts from me! They're breaking me down like an old engine! -->
+  <MyOrganHarvested.stages.my_organ_harvested.description>Η αποικία πήρε τα μέλη του σώματός μου! Με αποσυναρμολογούν σαν παλιά μηχανή!</MyOrganHarvested.stages.my_organ_harvested.description>
+  
+  <!-- EN: initial hope -->
+  <NewColonyHope.stages.initial_hope.label>ελπίδα για την καινούργια αποικία</NewColonyHope.stages.initial_hope.label>
+  <!-- EN: I'm getting used to this, but it's still an exciting new situation. I hope this works out... -->
+  <NewColonyHope.stages.initial_hope.description>Αρχίζω και το συνηθίζω όμως και είναι και πάλι μια νέα εμπειρία. Ελπίζω να τα βγάλουμε πέρα...</NewColonyHope.stages.initial_hope.description>
+  
+  <!-- EN: initial optimism -->
+  <NewColonyOptimism.stages.initial_optimism.label>αισιοδοξία καινούργιας αρχής</NewColonyOptimism.stages.initial_optimism.label>
+  <!-- EN: It's a tough situation, but I'm excited to be founding a new settlement. -->
+  <NewColonyOptimism.stages.initial_optimism.description>Είναι δύσκολη κατάσταση αλλά είμαι ενθουσιασμένος που θα φτιάξουμε μία καινούργια αποικία.</NewColonyOptimism.stages.initial_optimism.description>
+  
+  <!-- EN: nuzzled -->
+  <Nuzzled.stages.nuzzled.label>μουσουδιάσματα</Nuzzled.stages.nuzzled.label>
+  <!-- EN: A cute animal nuzzled me. -->
+  <Nuzzled.stages.nuzzled.description>Ένα χαριτωμένο ζώο μου κάνει μουσουδιές.</Nuzzled.stages.nuzzled.description>
+  
+  <!-- EN: observed corpse -->
+  <ObservedLayingCorpse.stages.observed_corpse.label>παρατήρησε πτώμα</ObservedLayingCorpse.stages.observed_corpse.label>
+  <!-- EN: I saw a dead body laying on the ground. It was disturbing. -->
+  <ObservedLayingCorpse.stages.observed_corpse.description>Είδα ένα πτώμα να βρίσκεται στο έδαφος. Ήταν αποκρουστικό.</ObservedLayingCorpse.stages.observed_corpse.description>
+  
+  <!-- EN: observed rotting corpse -->
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>είδε σαπισμένο πτώμα</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
+  <!-- EN: I saw a rotting corpse laying on the ground. It was disgusting. -->
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>Είδα ένα σάπιο πτώμα να κείτεται στο έδαφος. Ήταν αηδιαστικό.</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
+  
+  <!-- EN: prisoner banished to death -->
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>εξορίστηκε κρατούμενος και αφέθηκε να πεθάνει</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
+  <!-- EN: We banished a prisoner in such a way that there's almost no way they'll survive. -->
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>Έχουμε εγκαταλείψει ένα φυλακισμένο με τέτοιο τρόπο ώστε να μην υπάρχει σχεδόν κανένας τρόπος να επιβιώσει.</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
+  
+  <!-- EN: rescued -->
+  <Rescued.stages.rescued.label>διάσωση</Rescued.stages.rescued.label>
+  <!-- EN: I was rescued! I almost thought I was done for back there. I'm so thankful. -->
+  <Rescued.stages.rescued.description>Διασώθηκα! Σχεδόν πίστευα ότι είχα ξοφλήσει εκεί πέρα. Είμαι τόσο ευγνώμων.</Rescued.stages.rescued.description>
+  
+  <!-- EN: rescued {0} -->
+  <RescuedRelative.stages.rescued.label>διασώσαμε {0}</RescuedRelative.stages.rescued.label>
+  <!-- EN: We rescued one of my relatives. Finally, I can breathe a sigh of relief. -->
+  <RescuedRelative.stages.rescued.description>Διασώσαμε έναν από τους συγγενείς μου. Τώρα που ξέρω ότι είναι ασφαλές, μπορώ επιτέλους να ανακουφιστώ.</RescuedRelative.stages.rescued.description>
+  
+  <!-- EN: disturbed sleep -->
+  <SleepDisturbed.stages.disturbed_sleep.label>διαταραγμένος ύπνος</SleepDisturbed.stages.disturbed_sleep.label>
+  <!-- EN: I was disturbed during sleep by people moving around nearby. A private room would solve this. -->
+  <SleepDisturbed.stages.disturbed_sleep.description>Ήμουν ενοχλημένος κατά τη διάρκεια του ύπνου από ανθρώπους που κινούνταν γύρω μου. Ένα ιδιωτικό δωμάτιο θα το διορθώσει αυτό.</SleepDisturbed.stages.disturbed_sleep.description>
+  
+  <!-- EN: slept in the cold -->
+  <SleptInCold.stages.slept_in_the_cold.label>κοιμήθηκε στο κρύο</SleptInCold.stages.slept_in_the_cold.label>
+  <!-- EN: I had to sleep in the cold. We really need some heaters. -->
+  <SleptInCold.stages.slept_in_the_cold.description>Έπρεπε να κοιμηθώ στο κρύο. Χρειαζόμαστε πραγματικά μερικές σόμπες.</SleptInCold.stages.slept_in_the_cold.description>
+  
+  <!-- EN: slept in the heat -->
+  <SleptInHeat.stages.slept_in_the_heat.label>κοιμήθηκε στη ζέστη</SleptInHeat.stages.slept_in_the_heat.label>
+  <!-- EN: I had to sleep in unbearable heat. Can't we have air conditioning? -->
+  <SleptInHeat.stages.slept_in_the_heat.description>Έπρεπε να κοιμηθώ σε αφόρητη ζέστη. Δεν μπορούμε να έχουμε κλιματισμό;</SleptInHeat.stages.slept_in_the_heat.description>
+  
+  <!-- EN: slept on ground -->
+  <SleptOnGround.stages.slept_on_ground.label>κοιμήθηκε στο έδαφος</SleptOnGround.stages.slept_on_ground.label>
+  <!-- EN: I had to sleep on the ground like an animal. -->
+  <SleptOnGround.stages.slept_on_ground.description>Έπρεπε να κοιμηθώ στο έδαφος όπως τα ζώα.</SleptOnGround.stages.slept_on_ground.description>
+  
+  <!-- EN: slept outside -->
+  <SleptOutside.stages.slept_outside.label>κοιμήθηκε έξω</SleptOutside.stages.slept_outside.label>
+  <!-- EN: I had to sleep outdoors without any protection from the elements. -->
+  <SleptOutside.stages.slept_outside.description>Έπρεπε να κοιμηθώ έξω χωρίς καμία προστασία από τον καιρό.</SleptOutside.stages.slept_outside.description>
+  
+  <!-- EN: soaking wet -->
+  <SoakingWet.stages.soaking_wet.label>μούσκεμα</SoakingWet.stages.soaking_wet.label>
+  <!-- EN: I'm soaking wet. -->
+  <SoakingWet.stages.soaking_wet.description>Είμαι μούσκεμα.</SoakingWet.stages.soaking_wet.description>
+  
+  <!-- EN: was imprisoned -->
+  <WasImprisoned.stages.was_imprisoned.label>φυλακίστηκε</WasImprisoned.stages.was_imprisoned.label>
+  <!-- EN: The colony had me in jail for a while, like a caged animal. -->
+  <WasImprisoned.stages.was_imprisoned.description>Η αποικία με είχε στη φυλακή για λίγο, σαν ένα ζώο σε κλουβί.</WasImprisoned.stages.was_imprisoned.description>
+  
+  <!-- EN: witnessed ally's death -->
+  <WitnessedDeathAlly.stages.witnessed_allys_death.label>είδε έναν σύμμαχο να σκοτώνεται</WitnessedDeathAlly.stages.witnessed_allys_death.label>
+  <!-- EN: I saw one of my people die. They were alive one moment, and dead the next. -->
+  <WitnessedDeathAlly.stages.witnessed_allys_death.description>Είδα έναν από τους δικούς μου να πεθαίνει. Την μια στιγμή ήταν ζωντανός και την επόμενη νεκρός.</WitnessedDeathAlly.stages.witnessed_allys_death.description>
+  
+  <!-- EN: witnessed death with bloodlust -->
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>είδε έναν αιματηρό θάνατο</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>
+  <!-- EN: I saw someone die! That was intense! -->
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>Είδα κάποιον να πεθάνει! Αυτό ήταν έντονο!</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>
+  
+  <!-- EN: witnessed family member's death -->
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.label>είδε το θάνατο οικογενειακού μέλους</WitnessedDeathFamily.stages.witnessed_family_members_death.label>
+  <!-- EN: I saw a member of my family die. My own flesh and blood... -->
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.description>Είδα ένα μέλος της οικογένειάς μου να πεθαίνει. Τη δική μου σάρκα και αίμα...</WitnessedDeathFamily.stages.witnessed_family_members_death.description>
+  
+  <!-- EN: witnessed outsider's death -->
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>παρατήρησε τον θάνατο ενός ξένου</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>
+  <!-- EN: I saw someone die. They were alive one moment, and dead the next. -->
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>Είδα κάποιον να πεθαίνει. Την μια στιγμή ήταν ζωντανός και την επόμενη νεκρός.</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>
+  
 </LanguageData>

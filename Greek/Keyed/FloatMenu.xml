@@ -1,170 +1,382 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Call {0} -->
   <CallOnRadio>Κλήση {0}</CallOnRadio>
+  <!-- EN: Cannot use ({0}) -->
   <CannotUseReason>Δεν μπορεί να χρησιμοποιηθεί ({0})</CannotUseReason>
+  <!-- EN: Cannot use (solar flare) -->
   <CannotUseSolarFlare>Δεν μπορεί να χρησιμοποιηθεί (ηλιακή έκλαμψη)</CannotUseSolarFlare>
+  <!-- EN: Cannot use (no power) -->
   <CannotUseNoPower>Δεν μπορεί να χρησιμοποιηθεί (χωρίς ενέργεια)</CannotUseNoPower>
+  <!-- EN: Cannot use (no path) -->
   <CannotUseNoPath>Δεν μπορεί να χρησιμοποιηθεί (χωρίς πρόσβαση)</CannotUseNoPath>
+  <!-- EN: Cannot use (reserved) -->
   <CannotUseReserved>Δεν μπορεί να χρησιμοποιηθεί (κατειλημμένο)</CannotUseReserved>
+  <!-- EN: Cannot use (full) -->
   <CannotUseFull>Δεν μπορεί να χρησιμοποιηθεί (γεμάτο))</CannotUseFull>
-  <LeaderUnavailable>ο ηγέτης {0} δεν είναι διαθέσιμος</LeaderUnavailable>
+  <!-- EN: leader {1_labelShort} is unavailable -->
+  <LeaderUnavailable>ο ηγέτης {1_labelShort} δεν είναι διαθέσιμος</LeaderUnavailable>
+  <!-- EN: leader is unavailable -->
   <LeaderUnavailableNoLeader>ο ηγέτης δεν είναι διαθέσιμος</LeaderUnavailableNoLeader>
+  
+  <!-- EN: Fire at {1_label} -->
+  <FireAt>Πυροβόλησε {1_label}</FireAt>
 
-  <FireAt>Πυροβόλησε {0}</FireAt>
-
+  <!-- EN: out of range -->
   <OutOfRange>εκτός βεληνεκές</OutOfRange>
+  <!-- EN: too close -->
+  <TooClose>πολύ κοντά</TooClose>
+  <!-- EN: cannot hit target -->
   <CannotHitTarget>δεν μπορεί να κτυπήσει τον στόχο</CannotHitTarget>
-  <IsIncapableOfViolenceLower>{0} είναι ανίκανος για βία</IsIncapableOfViolenceLower>
+  <!-- EN: {1_labelShort} is incapable of violence -->
+  <IsIncapableOfViolenceLower>{1_labelShort} είναι ανίκανος για βία</IsIncapableOfViolenceLower>
+  <!-- EN: incapable of violence -->
   <IncapableOfViolenceLower>ανίκανος για βία</IncapableOfViolenceLower>
-  <IsNotDraftedLower>{0} δεν στρατολογείτε</IsNotDraftedLower>
+  <!-- EN: {1_labelShort} is not drafted -->
+  <IsNotDraftedLower>{1_labelShort} δεν στρατολογείτε</IsNotDraftedLower>
+  <!-- EN: cannot order characters you do not control -->
   <CannotOrderNonControlledLower>δεν μπορεί να ελέγξει μη ελεγχόμενες μονάδες</CannotOrderNonControlledLower>
+  <!-- EN: cannot attack self -->
   <CannotAttackSelf>δεν μπορεί να επιτεθεί μόνος του</CannotAttackSelf>
 
-  <OrderManThing>Άνθρωπος {0}</OrderManThing>
-
-  <MeleeAttack>Εξ επαφής επίθεση {0}</MeleeAttack>
-  <MeleeAttackToDeath>Εξ επαφής επίθεση {0} μέχρι θανάτου</MeleeAttackToDeath>
+  <!-- EN: Man {1_labelShort} -->
+  <OrderManThing>Άνθρωπος {1_labelShort}</OrderManThing>
+  
+  <!-- EN: Melee attack {1_label} -->
+  <MeleeAttack>Εξ επαφής επίθεση {1_label}</MeleeAttack>
+  <!-- EN: Melee attack {1_label} to death -->
+  <MeleeAttackToDeath>Εξ επαφής επίθεση {1_label} μέχρι θανάτου</MeleeAttackToDeath>
+  <!-- EN: no path -->
   <NoPath>χωρίς πρόσβαση</NoPath>
 
+  <!-- EN: forbidden -->
   <ForbiddenLower>αποκλεισμένο</ForbiddenLower>
+  <!-- EN: outside allowed area -->
   <ForbiddenOutsideAllowedAreaLower>εκτός επιτρεπόμενης περιοχής</ForbiddenOutsideAllowedAreaLower>
+  <!-- EN: not in home area -->
   <NotInHomeArea>δεν είναι στην περιοχή του σπιτιού</NotInHomeArea>
+  <!-- EN: burning -->
   <BurningLower>κάψιμο</BurningLower>
+  <!-- EN: no empty, accessible spot configured to store it -->
   <NoEmptyPlaceLower>κανένα κενό, προσιτό σημείο που έχει διαμορφωθεί για να το αποθηκεύσει</NoEmptyPlaceLower>
+  <!-- EN: no stack available to merge into -->
+  <NoMergeTarget>δεν υπάρχει διαθέσιμη στοίβα για συγχώνευση</NoMergeTarget>
+  <!-- EN: already filled enough -->
   <AlreadyFilledLower>ήδη γέμισε αρκετά</AlreadyFilledLower>
+  <!-- EN: need material -->
   <MissingMaterials>χρειάζεται υλικό</MissingMaterials>
-  <MissingSkill>η ικανότητα είναι πολύ μικρή</MissingSkill>
-  <NoEmptyGraveLower>δεν υπάρχει κενός τάφος ρυθμισμένος για την τοποθέτησή του</NoEmptyGraveLower>
+  <!-- EN: under required skill {0} -->
+  <UnderRequiredSkill>κάτω από την απαιτούμενη ικανότητα {0}</UnderRequiredSkill>
+  <!-- EN: under allowed skill {0} -->
+  <UnderAllowedSkill>κάτω από την επιτρεπόμενη ικανότητα {0}</UnderAllowedSkill>
+  <!-- EN: above allowed skill {0} -->
+  <AboveAllowedSkill>πάνω από την επιτρεπόμενη ικανότητα {0}</AboveAllowedSkill>
+  <!-- EN: missing required skill level -->
+  <MissingRequiredSkillLevel>χωρίς το απαιτούμενο επίπεδο ικανότητας</MissingRequiredSkillLevel>
+  <!-- EN: animal interacted too recently -->
   <AnimalInteractedTooRecently>το ζώο αλληλεπίδρασε πολύ πρόσφατα</AnimalInteractedTooRecently>
+  <!-- EN: no usable food -->
   <NoUsableFood>κανένα χρήσιμο φαγητό</NoUsableFood>
+  <!-- EN: no food -->
   <NoFood>χωρίς τροφή</NoFood>
-  <AnimalsSkillTooLow>η ικανότητα του ζώου είναι πολύ χαμηλή</AnimalsSkillTooLow>
+  <!-- EN: animals skill too low - need {0} -->
+  <AnimalsSkillTooLow>η ικανότητα του ζώου είναι πολύ χαμηλή - χρειάζεται {0}</AnimalsSkillTooLow>
+  <!-- EN: animal downed -->
+  <CantInteractAnimalDowned>ανήμπορο ζώο</CantInteractAnimalDowned>
+  <!-- EN: animal sleeping -->
+  <CantInteractAnimalAsleep>κοιμισμένο ζώο</CantInteractAnimalAsleep>
+  <!-- EN: animal busy -->
+  <CantInteractAnimalBusy>απασχολημένο ζώο</CantInteractAnimalBusy>
+  <!-- EN: construction skill too low -->
   <ConstructionSkillTooLow>πολύ μικρή ικανότητα κατασκευής</ConstructionSkillTooLow>
+  <!-- EN: need components -->
   <NoComponentsToRepair>χρειάζονται εξαρτήματα</NoComponentsToRepair>
+  <!-- EN: need {0} -->
   <NoFuelToRefuel>χρειάζεται {0}</NoFuelToRefuel>
-  <NoWort>χωρίς ζυθόγλευκο</NoWort>
+  <!-- EN: need wort -->
+  <NoWort>χρειάζεται ζυθόγλευκο</NoWort>
+  <!-- EN: available food is in storage of higher priority -->
   <TheOnlyAvailableFoodIsInStorageOfHigherPriority>τα διαθέσιμα τρόφιμα είναι στην αποθήκη με τη μεγαλύτερη προτεραιότητα</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <!-- EN: no suitable food -->
   <NoFoodToFillHopper>δεν υπάρχει κατάλληλο φαγητό</NoFoodToFillHopper>
+  <!-- EN: self-tend disabled -->
   <SelfTendDisabled>η αυτοπεριποίηση απενεργοποιήθηκε</SelfTendDisabled>
-  <ReservedForPrisoners>κατειλημμένο από φυλακισμένους</ReservedForPrisoners>
+  <!-- EN: reserved for prisoners -->
+  <ReservedForPrisoners>κατειλημμένο για φυλακισμένους</ReservedForPrisoners>
+  <!-- EN: cannot reach -->
   <CannotReach>δεν μπορεί να φτάσει</CannotReach>
+  <!-- EN: not ready for surgery -->
   <NotSurgeryReady>δεν είναι έτοιμος για χειρουργική επέμβαση</NotSurgeryReady>
+  <!-- EN: skill incapable -->
+  <SkillDisabled>ανάξια ικανότητα</SkillDisabled>
+  <!-- EN: too bright -->
   <CantSowCavePlantBecauseOfLight>υπερβολικά φωτεινό</CantSowCavePlantBecauseOfLight>
+  <!-- EN: unroofed -->
   <CantSowCavePlantBecauseUnroofed>ασκέπαστο</CantSowCavePlantBecauseUnroofed>
-
-  <ConsumeThing>Κατανάλωση {0}</ConsumeThing>
-
+  <!-- EN: incapable of deconstruction -->
+  <IncapableOfDeconstruction>ανίκανο για αποδόμηση</IncapableOfDeconstruction>
+  <!-- EN: incapable of mining -->
+  <IncapableOfMining>ανίκανο για εξόρυξη</IncapableOfMining>
+  <!-- EN: angers faction -->
+  <AngersFaction>θυμωμένη φαριά</AngersFaction>
+  
+  <!-- EN: Consume {1_labelShort} -->
+  <ConsumeThing>Κατανάλωση {1_labelShort}</ConsumeThing>
+  
+  <!-- EN: Cannot go here (no path) -->
   <CannotGoNoPath>Δεν μπορεί να πάει εκεί (χωρίς πρόσβαση)</CannotGoNoPath>
+  <!-- EN: Go here -->
   <GoHere>Πήγαινε εκεί</GoHere>
-
+  
+  <!-- EN: Arrest {0} -->
   <Arrest>Σύλληψη {0}</Arrest>
-  <TryToArrest>Προσπάθεια για σύλληψη {0}</TryToArrest>
+  <!-- EN: Try to arrest {1_label} -->
+  <TryToArrest>Προσπάθεια για σύλληψη {1_label}</TryToArrest>
+  <!-- EN: Cannot arrest -->
   <CannotArrest>Δεν μπορεί να συλληφθεί</CannotArrest>
 
-  <Capture>Αιχμαλώτιση {0}</Capture>
+  <!-- EN: Capture {1_label} -->
+  <Capture>Αιχμαλώτιση {1_label}</Capture>
+  <!-- EN: Cannot capture -->
   <CannotCapture>Δεν μπορεί να αιχμαλωτισθεί</CannotCapture>
 
-  <Rescue>Διάσωση {0}</Rescue>
+  <!-- EN: Rescue {1_label} -->
+  <Rescue>Διάσωση {1_label}</Rescue>
+  <!-- EN: Cannot rescue -->
   <CannotRescue>Δεν μπορεί να διασωθεί</CannotRescue>
 
-  <CarryToCryptosleepCasket>Μεταφέρετε {0} στο θάλαμο κρυπτογονικού λήθαργου</CarryToCryptosleepCasket>
+  <!-- EN: Carry {1_label} to cryptosleep casket -->
+  <CarryToCryptosleepCasket>Μεταφέρετε {1_label} στο θάλαμο κρυπτογονικού λήθαργου</CarryToCryptosleepCasket>
+  <!-- EN: Cannot carry to cryptosleep casket -->
   <CannotCarryToCryptosleepCasket>Δεν μπορεί να μεταφερθεί στο θάλαμο κρυπτογονικού λήθαργου</CannotCarryToCryptosleepCasket>
 
+  <!-- EN: No available cryptosleep casket. -->
   <NoCryptosleepCasket>Κανένας διαθέσιμος θάλαμος κρυπτογονικού λήθαργου.</NoCryptosleepCasket>
+  <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>Κανένα προσβάσιμο, μη δεσμευμένο, περιφραγμένο κρεβάτι φυλακισμένου σε ασφαλή θερμοκρασία.</NoPrisonerBed>
+  <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
   <NoNonPrisonerBed>Κανένα προσβάσιμο, μη δεσμευμένο, όχι φυλακισμένου κρεβάτι σε ασφαλή θερμοκρασία.</NoNonPrisonerBed>
+  <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
   <NoAnimalBed>Κανένα προσβάσιμο, μη δεσμευμένο, κρεβάτι ζώου σε ασφαλή θερμοκρασία.</NoAnimalBed>
+  <!-- EN: Reserved by someone else. -->
   <Reserved>Δεσμευμένο από κάποιον άλλον.</Reserved>
-  <ReservedBy>Δεσμευμένο από {0}</ReservedBy>
+  <!-- EN: Reserved by {1_labelShort} -->
+  <ReservedBy>Δεσμευμένο από {1_labelShort}</ReservedBy>
+  <!-- EN: {0} is reserved by {1}. -->
   <IsReservedBy>{0} είναι δεσμευμένο από {1}.</IsReservedBy>
+  <!-- EN: Too heavy -->
   <TooHeavy>Πολύ βαρύ</TooHeavy>
 
+  <!-- EN: incapable -->
   <Incapable>ανίκανο</Incapable>
+  <!-- EN: incapable of {0} -->
   <IncapableOfCapacity>ανίκανο από {0}</IncapableOfCapacity>
 
+  <!-- EN: min skill -->
   <MinSkill>ελάχιστη ικανότητα</MinSkill>
-
+  
+  <!-- EN: Equip {0} -->
   <Equip>Εξοπλίσου με {0}</Equip>
+  <!-- EN: (brawler will be unhappy) -->
   <EquipWarningBrawler>(ο καβγατζής θα είναι δυσαρεστημένος)</EquipWarningBrawler>
+  <!-- EN: Cannot equip {0} -->
   <CannotEquip>Δεν μπορεί να εξοπλιστεί {0}</CannotEquip>
-
-  <ForceWear>Εξαναγκαστικό φόρεμα {0}</ForceWear>
-  <CannotWear>Δεν μπορεί να το φορέσει {0}</CannotWear>
+  <!-- EN: Cannot man {1_labelShort} -->
+  <CannotManThing>Δεν μπορεί να επανδρώσει {1_labelShort}</CannotManThing>
+  
+  <!-- EN: Force wear {1_labelShort} -->
+  <ForceWear>Εξαναγκαστικό φόρεμα {1_labelShort}</ForceWear>
+  <!-- EN: Cannot wear {1_label} -->
+  <CannotWear>Δεν μπορεί να το φορέσει {1_label}</CannotWear>
+  <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>λείπουν μέλη του σώματος</CannotWearBecauseOfMissingBodyParts>
+  
+  <!-- EN: Cannot pick up {1_label} -->
+  <CannotPickUp>Δεν μπορεί να το μαζέψει {1_label}</CannotPickUp>
+  <!-- EN: Cannot pick up {1_label} (all) -->
+  <CannotPickUpAll>Δεν μπορεί να τα μαζέψει {1_label} (όλα)</CannotPickUpAll>
+  <!-- EN: Pick up {1_label} -->
+  <PickUp>Μαζεύει {1_label}</PickUp>
+  <!-- EN: Pick up {1_label} (all) -->
+  <PickUpAll>Τα μαζεύει {1_label} (όλα)</PickUpAll>
+  <!-- EN: Pick up {1_labelShort}... -->
+  <PickUpSome>Μαζεύει {1_labelShort}...</PickUpSome>
+  <!-- EN: Pick up {1_labelShort} x{{0}} -->
+  <PickUpCount>Μαζεύει {1_labelShort} x{{0}}</PickUpCount>
+  
+  <!-- EN: Cannot give {1_label} to pack animal -->
+  <CannotGiveToPackAnimal>Δεν μπορεί να δώσει {1_label} στο υποζύγιο</CannotGiveToPackAnimal>
+  <!-- EN: Cannot give {1_label} (all) to pack animal -->
+  <CannotGiveToPackAnimalAll>Δεν μπορεί να τα δώσει {1_label} (όλα) στο υποζύγιο</CannotGiveToPackAnimalAll>
+  <!-- EN: Give {1_label} to pack animal -->
+  <GiveToPackAnimal>Δίνει {1_label} στο υποζύγιο</GiveToPackAnimal>
+  <!-- EN: Give {1_label} (all) to pack animal -->
+  <GiveToPackAnimalAll>Τα δίνει {1_label} (όλα) στο υποζύγιο</GiveToPackAnimalAll>
+  <!-- EN: Give {1_labelShort} to pack animal... -->
+  <GiveToPackAnimalSome>Δίνει {1_labelShort} στο υποζύγιο...</GiveToPackAnimalSome>
+  <!-- EN: Take {1_labelShort} x{{0}} -->
+  <GiveToPackAnimalCount>Παίρνει {1_labelShort} x{{0}}</GiveToPackAnimalCount>
+  
+  <!-- EN: Cannot load {1_label} into caravan -->
+  <CannotLoadIntoCaravan>Δεν μπορεί να φορτώσει {1_label} στο καραβάνι</CannotLoadIntoCaravan>
+  <!-- EN: Cannot load {1_label} (all) into caravan -->
+  <CannotLoadIntoCaravanAll>Δεν μπορεί να φορτώσει {1_label} (όλα) στο καραβάνι</CannotLoadIntoCaravanAll>
+  <!-- EN: Load {1_label} into caravan -->
+  <LoadIntoCaravan>Φορτώνει {1_label} στο καραβάνι</LoadIntoCaravan>
+  <!-- EN: Load {1_label} (all) into caravan -->
+  <LoadIntoCaravanAll>Φορτώνει {1_label} (όλα) στο καραβάνι</LoadIntoCaravanAll>
+  <!-- EN: Load {1_labelShort} into caravan... -->
+  <LoadIntoCaravanSome>Φορτώνει {1_labelShort} στο καραβάνι...</LoadIntoCaravanSome>
+  <!-- EN: Load {1_labelShort}  -->
+  <LoadIntoCaravanCount>Φορτώνει {1_labelShort} x{{0}}</LoadIntoCaravanCount>
+  <!-- EN: overweight -->
+  <OverweightLower>υπέρβαρο</OverweightLower>
 
-  <CannotPickUp>Δεν μπορεί να το μαζέψει {0}</CannotPickUp>
-  <CannotPickUpAll>Δεν μπορεί να τα μαζέψει {0} (όλα)</CannotPickUpAll>
-  <PickUp>Μαζεύει {0}</PickUp>
-  <PickUpAll>Τα μαζεύει {0} (όλα)</PickUpAll>
-  <PickUpSome>Μαζεύει {0}...</PickUpSome>
-  <PickUpCount>Μαζεύει {0} x{{0}}</PickUpCount>
+  <!-- EN: Cannot carry {1_label} and leave the area -->
+  <CannotCarryToExit>Δεν μπορεί να μεταφέρει {1_label} και φεύγει από την περιοχή</CannotCarryToExit>
+  <!-- EN: Carry {1_label} and leave the area -->
+  <CarryToExit>Μεταφέρει {1_label} και φεύγει από την περιοχή</CarryToExit>
+  <!-- EN: Capture {1_label} and leave the area -->
+  <CarryToExitAndCapture>Συλλαμβάνει {1_label} και φεύγει από την περιοχή</CarryToExitAndCapture>
+  
+  <!-- EN: Strip {1_label} -->
+  <Strip>Ξεγύμνωμα {1_label}</Strip>
+  <!-- EN: Cannot strip {1_label} -->
+  <CannotStrip>Δεν μπορεί να γδύσει {1_label}</CannotStrip>
 
-  <CannotGiveToPackAnimal>Δεν μπορεί να δώσει {0} στο υποζύγιο</CannotGiveToPackAnimal>
-  <CannotGiveToPackAnimalAll>Δεν μπορεί να τα δώσει {0} (όλα) στο υποζύγιο</CannotGiveToPackAnimalAll>
-  <GiveToPackAnimal>Δίνει {0} στο υποζύγιο</GiveToPackAnimal>
-  <GiveToPackAnimalAll>Τα δίνει {0} (όλα) στο υποζύγιο</GiveToPackAnimalAll>
-  <GiveToPackAnimalSome>Δίνει {0} στο υποζύγιο...</GiveToPackAnimalSome>
-  <GiveToPackAnimalCount>Παίρνει {0} x{{0}}</GiveToPackAnimalCount>
-
-  <CannotCarryToExit>Δεν μπορεί να μεταφέρει {0} και φεύγει από την περιοχή</CannotCarryToExit>
-  <CarryToExit>Μεταφέρει {0} και φεύγει από την περιοχή</CarryToExit>
-
-  <Strip>Ξεγύμνωμα {0}</Strip>
-  <CannotStrip>Δεν μπορεί να γδύσει {0}</CannotStrip>
-
+  <!-- EN: Self-destruct here -->
   <SelfDestructHere>Αυτοκαταστροφή εδώ</SelfDestructHere>
+  
+  <!-- EN: Drop {1_label} -->
+  <Drop>Πτώση {1_label}</Drop>
 
-  <Drop>Πτώση {0}</Drop>
-
+  <!-- EN: Rest until healed -->
   <UseMedicalBed>Ξεκούραση μέχρι να γίνει ανάρρωση</UseMedicalBed>
+  <!-- EN: not injured -->
   <NotInjured>Δεν είναι τραυματισμένος</NotInjured>
+  <!-- EN: occupied by {0} -->
   <SomeoneElseSleeping>Καταλαμβάνεται από {0}</SomeoneElseSleeping>
-
+  
+  <!-- EN: Trade with {0} -->
   <TradeWith>Εμπόριο με {0}</TradeWith>
+  <!-- EN: Cannot trade -->
   <CannotTrade>Δεν μπορεί να κάνει εμπόριο</CannotTrade>
 
+  <!-- EN: Open {0_label} -->
+  <Open>Ανοίγει {0_label}</Open>
+  <!-- EN: Cannot open {0_label} -->
+  <CannotOpen>Δεν μπορεί να ανοίξει {0_label}</CannotOpen>
+  
+  <!-- EN: Enter {0} -->
   <EnterMap>Είσοδος {0}</EnterMap>
+  <!-- EN: Visit {0} -->
   <VisitSettlement>Επίσκεψη {0}</VisitSettlement>
+  <!-- EN: Visit {0} -->
   <VisitPeaceTalks>Επίσκεψη {0}</VisitPeaceTalks>
-  <VisitSite>Επίσκεψη {0}</VisitSite>
+  <!-- EN: Visit {0} -->
   <VisitEscapeShip>Επίσκεψη {0}</VisitEscapeShip>
-  <AttackSite>Επίθεση {0}</AttackSite>
+  <!-- EN: Attack {0} -->
   <AttackSettlement>Επίθεση {0}</AttackSettlement>
+  <!-- EN: Approach {0} -->
+  <ApproachSite>Προσέγγιση {0}</ApproachSite>
+  <!-- EN: Approaching {0} -->
+  <ApproachingSite>Προσεγγίζει {0}</ApproachingSite>
+  <!-- EN: Offer gifts -->
+  <OfferGifts>Προσφέρει δώρα</OfferGifts>
 
-  <!-- Συγκεκριμένες αλληλεπιδράσεις (Specific thing interactions) -->
+  <!-- Specific thing interactions -->
+  <!-- EN: Enter cryptosleep casket -->
   <EnterCryptosleepCasket>Είσοδος στο θάλαμο κρυπτογονικού λήθαργου</EnterCryptosleepCasket>
+  <!-- EN: Open cryptosleep casket -->
   <OpenCryptosleepCasket>Άνοιγμα θαλάμου κρυπτογονικού λήθαργου</OpenCryptosleepCasket>
 
-  <!-- π.χ. Δεν μπορεί ΡΗΜΑ, Δεν μπορεί να επισκευάσει τοίχο, Δεν μπορεί να μεταφέρει μέταλλο κλπ. (e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.) -->
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
+  <!-- EN: Cannot {0} {1} -->
   <CannotGenericWork>Δεν μπορεί {0} {1}</CannotGenericWork>
+  <!-- EN: Cannot {0} -->
+  <CannotGenericWorkCustom>Δεν μπορεί {0}</CannotGenericWorkCustom>
 
-  <!-- π.χ. Ήδη ΓΕΡΟΥΝΔΙΟ, Ήδη επισκευάζει τον τοίχο, ήδη μεταφέρει μέταλλο, κλπ (e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc) -->
+  <!-- EN: Cannot prioritize (incapable of {0}) -->
   <CannotMissingHealthActivities>Δεν μπορεί να δώσει προτεραιότητα (ανίκανος για {0})</CannotMissingHealthActivities>
 
-  <CannotGenericAlreadyAm>Ήδη {0} {1}</CannotGenericAlreadyAm>
+  <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
+  <!-- EN: Already {0} {2_labelShort} -->
+  <CannotGenericAlreadyAm>Ήδη {0} {2_labelShort}</CannotGenericAlreadyAm>
 
-  <CannotPrioritizeWorkTypeDisabled>Δεν μπορεί να δώσει προτεραιότητα (δεν κάνει ποτέ {0})</CannotPrioritizeWorkTypeDisabled>
+  <!-- EN: Cannot prioritize (will never do {0}) -->
+  <CannotPrioritizeWorkTypeDisabled>Δεν μπορεί να δώσει προτεραιότητα (δεν θα κάνει ποτέ {0})</CannotPrioritizeWorkTypeDisabled>
 
-  <CannotPrioritizeWorkGiverDisabled>Δεν μπορεί να δώσει προτεραιότητα (ποτέ {0})</CannotPrioritizeWorkGiverDisabled>
+  <!-- EN: Cannot prioritize (will never {0}) -->
+  <CannotPrioritizeWorkGiverDisabled>Δεν μπορεί να δώσει προτεραιότητα (ποτέ δεν θα {0})</CannotPrioritizeWorkGiverDisabled>
+  <!-- EN: will never {0} -->
+  <WillNever>ποτέ δεν θα {0}</WillNever>
 
+  <!-- EN: Cannot prioritize (not assigned to {0}) -->
   <CannotPrioritizeNotAssignedToWorkType>Δεν μπορεί να δώσει προτεραιότητα (δεν έχει εκχωρηθεί {0})</CannotPrioritizeNotAssignedToWorkType>
+  <!-- EN: not assigned -->
+  <NotAssigned>δεν έχει εκχωρηθεί</NotAssigned>
 
+  <!-- EN: Cannot prioritize (research is a long-term task) -->
   <CannotPrioritizeResearch>Δεν μπορεί να δώσει προτεραιότητα (η έρευνα είναι μακροπρόθεσμη διαδικασία)</CannotPrioritizeResearch>
 
-  <CannotPrioritizeForbidden>Δεν μπορεί να δώσει προτεραιότητα ({0} είναι απαγορευμένο)</CannotPrioritizeForbidden>
-  <CannotPrioritizeForbiddenOutsideAllowedArea>Δεν μπορεί να δώσει προτεραιότητα ({0}είναι εκτός επιτρεπόμενης περιοχής)</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <!-- EN: Cannot prioritize ({1_label} is forbidden) -->
+  <CannotPrioritizeForbidden>Δεν μπορεί να δώσει προτεραιότητα ({1_label} είναι απαγορευμένο)</CannotPrioritizeForbidden>
+  <!-- EN: Cannot prioritize (forbidden) -->
+  <CannotPrioritizeCellForbidden>>Δεν μπορεί να δώσει προτεραιότητα (απαγορευμένο)</CannotPrioritizeCellForbidden>
+  <!-- EN: Outside allowed area -->
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Εκτός επιτρεπόμενης περιοχής</CannotPrioritizeForbiddenOutsideAllowedArea>
 
-  <!-- π.χ. Προτεραιότητα στο ΓΕΡΟΥΝΔΙΟ, Προτεραιότητα στην επισκευή τοίχων, προτεραιότητα στη μετακίνηση μετάλλων κλπ (e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc) -->
-  <PrioritizeGeneric>Προτεραιότητα {0} {1}</PrioritizeGeneric>
-
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
+  <!-- EN: Prioritize {0} {1} -->
+  <PrioritizeGeneric>Προτεραιότητα στο να {0} {1}</PrioritizeGeneric>
+  
+  <!-- EN: Drop at edge -->
   <DropAtEdge>Άφησε στην άκρη</DropAtEdge>
+  <!-- EN: Drop in center -->
   <DropInCenter>Άφησε στο κέντρο</DropInCenter>
-
+  <!-- EN: Attack {0}: Drop at edge -->
+  <AttackAndDropAtEdge>Επίθεση {0}: Άφησε στην άκρη</AttackAndDropAtEdge>
+  <!-- EN: Attack {0}: Drop in center -->
+  <AttackAndDropInCenter>Επίθεση {0}: Άφησε στο κέντρο</AttackAndDropInCenter>
+  
+  <!-- EN: vomiting -->
   <VomitingLower>εμετός</VomitingLower>
+  <!-- EN: not interruptible -->
   <NotInterruptibleLower>δεν μπορεί να διακοπεί</NotInterruptibleLower>
-
+  
+  <!-- EN: Add a new waypoint here -->
   <AddWaypoint>Πρόσθεσε ένα νέο σημείο εδώ</AddWaypoint>
+  <!-- EN: Remove this waypoint -->
   <RemoveWaypoint>Αφαίρεσε αυτό το σημείο</RemoveWaypoint>
+
+  <!-- EN: Cancel all designations -->
+  <RemoveAllDesignations>Ακύρωση όλων τον αναθέσεων</RemoveAllDesignations>
+  <!-- EN: Designate all -->
+  <DesignateAll>Ανάθεση όλων</DesignateAll>
+  <!-- EN: {0} affected -->
+  <CountToDesignate>{0} επηρεάζονται</CountToDesignate>
+  <!-- EN: Forbid all items -->
+  <ForbidAllItems>Απαγόρευση όλων των αντικειμένων</ForbidAllItems>
+  <!-- EN: Unforbid all items -->
+  <UnforbidAllItems>Επιτρέπονται όλα τα αντικείμενα</UnforbidAllItems>
+
+  <!-- Transport pods -->
+  <!-- EN: Zoom in and choose a landing spot in {0} -->
+  <LandInExistingMap>Μεγέθυνε και διάλεξε σημείο προσεδάφισης στο {0}</LandInExistingMap>
+  <!-- EN: The contents will be lost -->
+  <TransportPodsContentsWillBeLost>Το περιεχόμενο θα χαθεί</TransportPodsContentsWillBeLost>
+  <!-- EN: Form caravan here -->
+  <FormCaravanHere>Σχημάτισε καραβάνι εδώ</FormCaravanHere>
+  <!-- EN: Give to {0} -->
+  <GiveToCaravan>Δώσε σε {0}</GiveToCaravan>
+  <!-- EN: Give as a gift to {0} ({1}) -->
+  <GiveGiftViaTransportPods>Δώσε ως δώρο στους {0} ({1})</GiveGiftViaTransportPods>
+
+  <!-- Rescue quest -->
+  <!-- EN: Free prisoner -->
+  <FreePrisoner>Ελευθέρωση αιχμαλώτου</FreePrisoner>
+  <!-- EN: Offer help -->
+  <OfferHelp>Προσφορά βοήθειας</OfferHelp>
 
 </LanguageData>

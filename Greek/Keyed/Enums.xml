@@ -1,150 +1,290 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- λάμψη (glow) -->
+  <!-- Glow -->
+  <!-- EN: Dark -->
   <Dark>Σκοτάδι</Dark>
+  <!-- EN: Lit -->
   <Lit>Φωτισμένο</Lit>
+  <!-- EN: Brightly lit -->
   <LitBrightly>Έντονα φωτισμένο</LitBrightly>
 
-  <!-- προτιμήσεις αποστολής ιστορικού (history upload pref) -->
-  <Unspecified>Αναποφάσιστος</Unspecified>
-  <Always>Επιτρέπεται</Always>
-  <Never>Δεν επιτρέπεται</Never>
-
-  <!-- Είδη τιμών (Price types) -->
+  <!-- Price types -->
+  <!-- EN: very cheap -->
   <PriceTypeVeryCheap>πολύ φτηνά</PriceTypeVeryCheap>
+  <!-- EN: cheap -->
   <PriceTypeCheap>φτηνά</PriceTypeCheap>
+  <!-- EN: normal -->
   <PriceTypeNormal>κανονικά</PriceTypeNormal>
+  <!-- EN: expensive -->
   <PriceTypeExpensive>ακριβά</PriceTypeExpensive>
+  <!-- EN: exorbitant -->
   <PriceTypeExorbitant>εξωφρενικά</PriceTypeExorbitant>
 
-  <!-- ετικέτες προτεραιότητας αποθήκης (Storage priority labels) -->
+  <!-- Storage priority labels -->
+  <!-- EN: unstored -->
   <StoragePriorityUnstored>αταξινόμητη</StoragePriorityUnstored>
+  <!-- EN: low -->
   <StoragePriorityLow>χαμηλή</StoragePriorityLow>
+  <!-- EN: normal -->
   <StoragePriorityNormal>κανονική</StoragePriorityNormal>
+  <!-- EN: preferred -->
   <StoragePriorityPreferred>προτεινόμενη</StoragePriorityPreferred>
+  <!-- EN: important -->
   <StoragePriorityImportant>σημαντική</StoragePriorityImportant>
+  <!-- EN: critical -->
   <StoragePriorityCritical>κρίσιμη</StoragePriorityCritical>
 
-  <!-- Επισημάνσεις είδος τροφής (Food type flags) -->
+  <!-- Food type flags -->
+  <!-- EN: vegetables -->
   <FoodTypeFlags_VegetableOrFruit>λαχανικά</FoodTypeFlags_VegetableOrFruit>
+  <!-- EN: raw meat -->
   <FoodTypeFlags_Meat>ωμό κρέας</FoodTypeFlags_Meat>
+  <!-- EN: corpses -->
   <FoodTypeFlags_Corpse>πτώματα</FoodTypeFlags_Corpse>
+  <!-- EN: seeds -->
   <FoodTypeFlags_Seed>καρπούς</FoodTypeFlags_Seed>
+  <!-- EN: animal products -->
   <FoodTypeFlags_AnimalProduct>ζωικά παράγωγα</FoodTypeFlags_AnimalProduct>
+  <!-- EN: live plants -->
   <FoodTypeFlags_Plant>ζωντανά φυτά</FoodTypeFlags_Plant>
+  <!-- EN: live trees -->
   <FoodTypeFlags_Tree>ζωντανά δέντρα</FoodTypeFlags_Tree>
+  <!-- EN: meals -->
   <FoodTypeFlags_Meal>γεύμα</FoodTypeFlags_Meal>
+  <!-- EN: processed foods -->
   <FoodTypeFlags_Processed>επεξεργασμένες τροφές</FoodTypeFlags_Processed>
+  <!-- EN: liquor -->
   <FoodTypeFlags_Liquor>ζωμός</FoodTypeFlags_Liquor>
+  <!-- EN: kibble -->
   <FoodTypeFlags_Kibble>κροκέτες</FoodTypeFlags_Kibble>
 
-  <!-- Κατηγορία ποιότητας (Quality category) -->
+  <!-- Quality category -->
+  <!-- EN: awful -->
   <QualityCategory_Awful>απαίσιο</QualityCategory_Awful>
-  <QualityCategory_Shoddy>κακής ποιότητας</QualityCategory_Shoddy>
+  <!-- EN: poor -->
   <QualityCategory_Poor>φτωχό</QualityCategory_Poor>
+  <!-- EN: normal -->
   <QualityCategory_Normal>κανονικό</QualityCategory_Normal>
+  <!-- EN: good -->
   <QualityCategory_Good>καλό</QualityCategory_Good>
-  <QualityCategory_Superior>ανώτερης ποιότητας</QualityCategory_Superior>
+  <!-- EN: excellent -->
   <QualityCategory_Excellent>εξαιρετικό</QualityCategory_Excellent>
+  <!-- EN: masterwork -->
   <QualityCategory_Masterwork>αριστούργημα</QualityCategory_Masterwork>
+  <!-- EN: legendary -->
   <QualityCategory_Legendary>επικό</QualityCategory_Legendary>
+  <!-- EN: awfl -->
   <QualityCategoryShort_Awful>απσο</QualityCategoryShort_Awful>
-  <QualityCategoryShort_Shoddy>κακό</QualityCategoryShort_Shoddy>
+  <!-- EN: poor -->
   <QualityCategoryShort_Poor>φτχο</QualityCategoryShort_Poor>
+  <!-- EN: norm -->
   <QualityCategoryShort_Normal>κννκ</QualityCategoryShort_Normal>
+  <!-- EN: good -->
   <QualityCategoryShort_Good>καλό</QualityCategoryShort_Good>
-  <QualityCategoryShort_Superior>αντρ</QualityCategoryShort_Superior>
+  <!-- EN: exc -->
   <QualityCategoryShort_Excellent>εξρτ</QualityCategoryShort_Excellent>
+  <!-- EN: mast -->
   <QualityCategoryShort_Masterwork>αρστ</QualityCategoryShort_Masterwork>
+  <!-- EN: legd -->
   <QualityCategoryShort_Legendary>επικ</QualityCategoryShort_Legendary>
-
-  <!-- Πείνα (Hunger) -->
+  
+  <!-- Hunger -->
+  <!-- EN: Starving -->
   <HungerLevel_Starving>Λοιμός</HungerLevel_Starving>
+  <!-- EN: Urgently hungry -->
   <HungerLevel_UrgentlyHungry>Επιτακτική πείνα</HungerLevel_UrgentlyHungry>
+  <!-- EN: Hungry -->
   <HungerLevel_Hungry>Πείνα</HungerLevel_Hungry>
+  <!-- EN: Fed -->
   <HungerLevel_Fed>Θρέψη</HungerLevel_Fed>
 
-  <!--- Κόπωση (Fatigue) -->
+  <!-- -Fatigue -->
+  <!-- EN: Exhausted -->
   <HungerLevel_Exhausted>Εξουθενωμένος</HungerLevel_Exhausted>
+  <!-- EN: Very tired -->
   <HungerLevel_VeryTired>Κατάκοπος</HungerLevel_VeryTired>
+  <!-- EN: Tired -->
   <HungerLevel_Tired>Κουρασμένος</HungerLevel_Tired>
+  <!-- EN: Rested -->
   <HungerLevel_Rested>Ξεκούραστος</HungerLevel_Rested>
 
-  <!-- Λοφώδεις (Hilliness) -->
+  <!-- Hilliness -->
+  <!-- EN: flat -->
   <Hilliness_Flat>επίπεδο</Hilliness_Flat>
+  <!-- EN: small hills -->
   <Hilliness_SmallHills>μικροί λόφοι</Hilliness_SmallHills>
+  <!-- EN: large hills -->
   <Hilliness_LargeHills>μεγάλοι λόφοι</Hilliness_LargeHills>
+  <!-- EN: mountainous -->
   <Hilliness_Mountainous>βουνά</Hilliness_Mountainous>
+  <!-- EN: impassable -->
   <Hilliness_Impassable>αδιάβατο</Hilliness_Impassable>
-
-  <!-- Αλληλεπίδραση εργαστηρίου Steam (Steam workshop interaction) -->
+  
+  <!-- Steam workshop interaction -->
+  <!-- EN: Creating -->
   <WorkshopInteractStage_CreatingItem>Δημιουργία</WorkshopInteractStage_CreatingItem>
+  <!-- EN: Submitting -->
   <WorkshopInteractStage_SubmittingItem>Υποβολή</WorkshopInteractStage_SubmittingItem>
+  <!-- EN: Invalid -->
   <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Άκυρο</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <!-- EN: Preparing config data -->
   <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Προετοιμασία δεδομένων διαμόρφωσης</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <!-- EN: Preparing content files -->
   <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Προετοιμασία αρχείων περιεχομένου</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <!-- EN: Uploading content -->
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Ανέβασμα περιεχομένου</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <!-- EN: Uploading preview file -->
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Ανέβασμα αρχείου προεπισκόπησης</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <!-- EN: Committing changes -->
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Εισαγωγή αλλαγών</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
-  <!-- Πηγές mod (Mod sources) -->
+  <!-- Mod sources -->
+  <!-- EN: local folder -->
   <ContentSource_LocalFolder>τοπικός φάκελος</ContentSource_LocalFolder>
+  <!-- EN: Steam Workshop -->
   <ContentSource_SteamWorkshop>Εργαστήρι Steam</ContentSource_SteamWorkshop>
-
-  <!-- Κατηγορία ιατρικής φροντίδας (Medical care category) -->
+  
+  <!-- Medical care category -->
+  <!-- EN: No medical care -->
   <MedicalCareCategory_NoCare>Χωρίς ιατρική φροντίδα</MedicalCareCategory_NoCare>
+  <!-- EN: Doctor care, but no medicine -->
   <MedicalCareCategory_NoMeds>Φροντίδα γιατρού, αλλά χωρίς φάρμακα</MedicalCareCategory_NoMeds>
+  <!-- EN: Herbal medicine or worse -->
   <MedicalCareCategory_HerbalOrWorse>Βότανα ή χειρότερα</MedicalCareCategory_HerbalOrWorse>
+  <!-- EN: Industrial-tech medicine or worse -->
   <MedicalCareCategory_NormalOrWorse>Κανονικά φάρμακα ή χειρότερα</MedicalCareCategory_NormalOrWorse>
-  <MedicalCareCategory_Best>Άριστη ποιότητα ιατρική φροντίδα</MedicalCareCategory_Best>
+  <!-- EN: Best quality medicine -->
+  <MedicalCareCategory_Best>Άριστης ποιότητας ιατρική φροντίδα</MedicalCareCategory_Best>
 
-  <!-- Τρόπος αντίδρασης στην εχθρότητα (Hostility response mode) -->
+  <!-- Hostility response mode -->
+  <!-- EN: Ignore -->
   <HostilityResponseMode_Ignore>Αγνόηση</HostilityResponseMode_Ignore>
+  <!-- EN: Attack -->
   <HostilityResponseMode_Attack>Επίθεση</HostilityResponseMode_Attack>
+  <!-- EN: Flee -->
   <HostilityResponseMode_Flee>Φυγή</HostilityResponseMode_Flee>
-
-  <!-- Λειτουργιά ανάπτυξης του Χέντιφ (HediffGrowthMode) -->
+  
+  <!-- HediffGrowthMode -->
+  <!-- EN: growing -->
   <HediffGrowthMode_Growing>αυξητικά</HediffGrowthMode_Growing>
+  <!-- EN: stable -->
   <HediffGrowthMode_Stable>σταθερά</HediffGrowthMode_Stable>
+  <!-- EN: remission -->
   <HediffGrowthMode_Remission>υποχώρηση</HediffGrowthMode_Remission>
 
-  <!-- επίπεδο τεχνολογίας (TechLevel) -->
+  <!-- TechLevel -->
+  <!-- EN: animal -->
   <TechLevel_Animal>ζωώδες</TechLevel_Animal>
-  <TechLevel_Neolithic>νεολιθική</TechLevel_Neolithic>
-  <TechLevel_Medieval>μεσαίωνας</TechLevel_Medieval>
-  <TechLevel_Industrial>βιομηχανική</TechLevel_Industrial>
-  <TechLevel_Spacer>διαστημική</TechLevel_Spacer>
-  <TechLevel_Ultra>Υπέρ</TechLevel_Ultra>
-  <TechLevel_Transcendent>Υπερβατική</TechLevel_Transcendent>
+  <!-- EN: neolithic -->
+  <TechLevel_Neolithic>νεολιθικό</TechLevel_Neolithic>
+  <!-- EN: medieval -->
+  <TechLevel_Medieval>μεσαιωνικό</TechLevel_Medieval>
+  <!-- EN: industrial -->
+  <TechLevel_Industrial>βιομηχανικό</TechLevel_Industrial>
+  <!-- EN: spacer -->
+  <TechLevel_Spacer>διαστημικό</TechLevel_Spacer>
+  <!-- EN: ultra -->
+  <TechLevel_Ultra>υψηλό</TechLevel_Ultra>
+  <!-- EN: archotech -->
+  <TechLevel_Archotech>αρχοτεχνολογικό</TechLevel_Archotech>
 
-  <!-- Μέθοδος άφιξης πιόνια παίχτη (Player pawns arrive method) -->
+  <!-- Player pawns arrive method -->
+  <!-- EN: Standing -->
   <PlayerPawnsArriveMethod_Standing>Όρθιος</PlayerPawnsArriveMethod_Standing>
+  <!-- EN: Drop pods -->
   <PlayerPawnsArriveMethod_DropPods>Πτώση ακάτου</PlayerPawnsArriveMethod_DropPods>
 
-  <!-- Πλαίσιο παραγωγής πιονιού (Pawn generation context) -->
+  <!-- Pawn generation context -->
+  <!-- EN: all characters -->
   <PawnGenerationContext_All>όλοι οι χαρακτήρες</PawnGenerationContext_All>
+  <!-- EN: player starting characters -->
   <PawnGenerationContext_PlayerStarter>αρχικοί χαρακτήρες παίχτη</PawnGenerationContext_PlayerStarter>
+  <!-- EN: non-player characters -->
   <PawnGenerationContext_NonPlayer>μη ελεγχόμενοι χαρακτήρες</PawnGenerationContext_NonPlayer>
-
-  <!-- Κατάσταση εμφάνισης ονόματος ζώου (Animal name display mode) -->
+  
+  <!-- Animal name display mode -->
+  <!-- EN: Show animal names -->
   <ShowAnimalNames>Όνομα ζώου</ShowAnimalNames>
-  <AnimalNameDisplayMode_TameNamed>Εξημερωμένα (ονοματισμένα μόνο))</AnimalNameDisplayMode_TameNamed>
+  <!-- EN: Tame (named only) -->
+  <AnimalNameDisplayMode_TameNamed>Εξημερωμένα (ονοματισμένα μόνο)</AnimalNameDisplayMode_TameNamed>
+  <!-- EN: Tame (all) -->
   <AnimalNameDisplayMode_TameAll>Εξημερωμένα (όλα)</AnimalNameDisplayMode_TameAll>
-
-  <!-- Θερμοκρασία (Temperature) -->
+  
+  <!-- Temperature -->
+  <!-- EN: Celsius -->
   <Celsius>Κελσίου</Celsius>
+  <!-- EN: Fahrenheit -->
   <Fahrenheit>Φαρενάιτ</Fahrenheit>
+  <!-- EN: Kelvin -->
   <Kelvin>Κέλβιν</Kelvin>
-
-  <!-- Κατεύθυνση 8 διευθύνσεων (Direction8Way) -->
+  
+  <!-- Direction8Way -->
+  <!-- EN: N -->
   <Direction8Way_North_Short>Β</Direction8Way_North_Short>
+  <!-- EN: NE -->
   <Direction8Way_NorthEast_Short>ΒΑ</Direction8Way_NorthEast_Short>
+  <!-- EN: E -->
   <Direction8Way_East_Short>Α</Direction8Way_East_Short>
+  <!-- EN: SE -->
   <Direction8Way_SouthEast_Short>ΝΑ</Direction8Way_SouthEast_Short>
+  <!-- EN: S -->
   <Direction8Way_South_Short>Ν</Direction8Way_South_Short>
+  <!-- EN: SW -->
   <Direction8Way_SouthWest_Short>ΝΔ</Direction8Way_SouthWest_Short>
+  <!-- EN: W -->
   <Direction8Way_West_Short>Δ</Direction8Way_West_Short>
+  <!-- EN: NW -->
   <Direction8Way_NorthWest_Short>ΒΔ</Direction8Way_NorthWest_Short>
+  
+  <!-- Diet category -->
+  <!-- EN: Never eats -->
+  <DietCategory_NeverEats>Αφαγία</DietCategory_NeverEats>
+  <!-- EN: Herbivorous -->
+  <DietCategory_Herbivorous>Χορτοφάγος</DietCategory_Herbivorous>
+  <!-- EN: Dendrovorous -->
+  <DietCategory_Dendrovorous>Δενδροφάγος</DietCategory_Dendrovorous>
+  <!-- EN: Ovivorous -->
+  <DietCategory_Ovivorous>Αυγοφάγος</DietCategory_Ovivorous>
+  <!-- EN: Omnivorous -->
+  <DietCategory_Omnivorous>Παμφάγο</DietCategory_Omnivorous>
+  <!-- EN: Carnivorous -->
+  <DietCategory_Carnivorous>Σαρκοφάγος</DietCategory_Carnivorous>
+  <!-- EN: - -->
+  <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
+  <!-- EN: H -->
+  <DietCategory_Herbivorous_Short>Χορτο</DietCategory_Herbivorous_Short>
+  <!-- EN: D -->
+  <DietCategory_Dendrovorous_Short>Δενδρ</DietCategory_Dendrovorous_Short>
+  <!-- EN: Ov -->
+  <DietCategory_Ovivorous_Short>Αυγο</DietCategory_Ovivorous_Short>
+  <!-- EN: O -->
+  <DietCategory_Omnivorous_Short>Παμφ</DietCategory_Omnivorous_Short>
+  <!-- EN: C -->
+  <DietCategory_Carnivorous_Short>Σαρκο</DietCategory_Carnivorous_Short>
+
+  <!-- Food poison cause -->
+  <!-- EN: incompetent cook -->
+  <FoodPoisonCause_IncompetentCook>σχεδόν αμαγείρευτο</FoodPoisonCause_IncompetentCook>
+  <!-- EN: dirty cooking area -->
+  <FoodPoisonCause_FilthyKitchen>βρόμικη κουζίνα</FoodPoisonCause_FilthyKitchen>
+  <!-- EN: rotten food -->
+  <FoodPoisonCause_Rotten>σάπια τροφή</FoodPoisonCause_Rotten>
+  <!-- EN: dangerous food type -->
+  <FoodPoisonCause_DangerousFoodType>επικίνδυνο είδος τροφής</FoodPoisonCause_DangerousFoodType>
+
+  <!-- Psychic drone level -->
+  <!-- EN: none -->
+  <PsychicDroneLevel_None>τίποτα</PsychicDroneLevel_None>
+  <!-- EN: medium -->
+  <PsychicDroneLevel_GoodMedium>κανονικό</PsychicDroneLevel_GoodMedium>
+  <!-- EN: low -->
+  <PsychicDroneLevel_BadLow>χαμηλό</PsychicDroneLevel_BadLow>
+  <!-- EN: medium -->
+  <PsychicDroneLevel_BadMedium>κανονικό</PsychicDroneLevel_BadMedium>
+  <!-- EN: high -->
+  <PsychicDroneLevel_BadHigh>υψηλό</PsychicDroneLevel_BadHigh>
+  <!-- EN: extreme -->
+  <PsychicDroneLevel_BadExtreme>υπερβολικό</PsychicDroneLevel_BadExtreme>
 
 </LanguageData>

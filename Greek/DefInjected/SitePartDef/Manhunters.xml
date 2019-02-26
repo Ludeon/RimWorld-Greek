@@ -1,9 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: manhunter pack -->
   <Manhunters.label>αγέλη ανθρωποκυνηγών</Manhunters.label>
+  <!-- EN: A pack of manhunting animals. -->
   <Manhunters.description>Μία αγέλη ανθρωποκυνηγών ζώων.</Manhunters.description>
-  <Manhunters.descriptionDialogue>υπάρχει μια ομάδα ανθρωποκυνηγών ζώων που περιπλανιούνται εκεί κοντά</Manhunters.descriptionDialogue>
-
-
+  <!-- EN: There are manhunting animals in this area. -->
+  <Manhunters.arrivedLetter>Υπάρχουν ανθρωποφάγα ζώα σε αυτή την περιοχή.</Manhunters.arrivedLetter>
+  <!-- EN: there is a group of {0} manhunting {1} wandering nearby -->
+  <Manhunters.descriptionDialogue>υπάρχει μια ομάδα από {0} ανθρωποκυνηγών {1} που περιπλανιούνται εκεί κοντά</Manhunters.descriptionDialogue>
+  
 </LanguageData>

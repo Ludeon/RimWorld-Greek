@@ -1,11 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <DirtPath.label>χωμάτινο μονοπάτι</DirtPath.label>
-  <DirtRoad.label>χωμάτινος δρόμος</DirtRoad.label>
-  <StoneRoad.label>πλακόστρωτος δρόμος</StoneRoad.label>
-  <AncientAsphaltRoad.label>αρχαίος ασφαλτωμένος</AncientAsphaltRoad.label>
+  
+  <!-- EN: ancient asphalt highway -->
   <AncientAsphaltHighway.label>αρχαίος ασφαλτωμένος αυτοκινητόδρομος</AncientAsphaltHighway.label>
-
-
+  
+  <!-- EN: ancient asphalt road -->
+  <AncientAsphaltRoad.label>αρχαίος ασφαλτόδρομος</AncientAsphaltRoad.label>
+  
+  <!-- EN: dirt path -->
+  <DirtPath.label>χωμάτινο μονοπάτι</DirtPath.label>
+  
+  <!-- EN: dirt road -->
+  <DirtRoad.label>χωμάτινος δρόμος</DirtRoad.label>
+  
+  <!-- EN: stone road -->
+  <StoneRoad.label>πλακόστρωτος δρόμος</StoneRoad.label>
+  
 </LanguageData>

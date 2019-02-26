@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cougar -->
+  <Cougar.label>πούμα</Cougar.label>
+  
+  <!-- EN: lynx -->
+  <Lynx.label>λυγξ</Lynx.label>
+  <!-- EN: lynx -->
+  <Lynx.labelPlural>λυγξ</Lynx.labelPlural>
+  <!-- EN: lynx kitten -->
+  <Lynx.lifeStages.lynx_kitten.label>κουτάβι λυγξ</Lynx.lifeStages.lynx_kitten.label>
+  
+  <!-- EN: panther -->
+  <Panther.label>πάνθηρας</Panther.label>
+  
+</LanguageData>

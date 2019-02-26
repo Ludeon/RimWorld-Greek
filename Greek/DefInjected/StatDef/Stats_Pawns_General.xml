@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: carrying capacity -->
+  <CarryingCapacity.label>ποσότητα μεταφοράς</CarryingCapacity.label>
+  <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators. This is separate from the ability to carry cargo on long cross-world trips. -->
+  <CarryingCapacity.description>Το ποσό των υλικών που μπορεί να κουβαλήσει αυτό το πλάσμα στα χέρια, στο στόμα ή σε άλλα χειριστήρια. Αυτό είναι ξεχωριστό από την ικανότητα να μεταφέρετε φορτίο σε ταξίδια μακρινών διαδρομών.</CarryingCapacity.description>
+  
+  <!-- EN: Maximum comfortable temperature -->
+  <ComfyTemperatureMax.label>Μεγίστη υποφερτή θερμοκρασία</ComfyTemperatureMax.label>
+  <!-- EN: Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die. -->
+  <ComfyTemperatureMax.description>Πάνω από αυτή τη θερμοκρασία, οι χαρακτήρες θα είναι δυσαρεστημένοι. Σημαντικά πάνω από αυτή τη θερμοκρασία, θα εμφανίσουν θερμοπληξία και τελικά θα πεθάνουν.</ComfyTemperatureMax.description>
+  
+  <!-- EN: Minimum comfortable temperature -->
+  <ComfyTemperatureMin.label>Ελάχιστη υποφερτή θερμοκρασία</ComfyTemperatureMin.label>
+  <!-- EN: Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
+  <ComfyTemperatureMin.description>Κάτω από αυτή τη θερμοκρασία, οι χαρακτήρες θα είναι δυσαρεστημένοι. Σημαντικά κάτω από αυτή τη θερμοκρασία, θα εμφανίσουν υποθερμία και κρυοπαγήματα και τελικά θα πεθάνουν.</ComfyTemperatureMin.description>
+  
+  <!-- EN: eating speed -->
+  <EatingSpeed.label>ταχύτητα βρώσης</EatingSpeed.label>
+  <!-- EN: A multiplier on eating speed. -->
+  <EatingSpeed.description>Ένας πολλαπλασιαστής στην ταχύτητα βρώσης.</EatingSpeed.description>
+  
+  <!-- EN: foraged food amount -->
+  <ForagedNutritionPerDay.label>ποσότητα συλλογής τροφής</ForagedNutritionPerDay.label>
+  <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
+  <ForagedNutritionPerDay.description>Η ποσότητα της τρυφής που αυτό το άτομο θα συλλέγει αυτόματα ανά ημέρα ενώ ταξιδεύει με καραβάνι.</ForagedNutritionPerDay.description>
+  
+  <!-- EN: global learning factor -->
+  <GlobalLearningFactor.label>παράγοντας γενικής μάθησης</GlobalLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for all skills. -->
+  <GlobalLearningFactor.description>Ένας πολλαπλασιαστής για το ποσοστό εκμάθησης για όλες τις δεξιότητες.</GlobalLearningFactor.description>
+  
+  <!-- EN: hunger rate multiplier -->
+  <HungerRateMultiplier.label>πολλαπλασιαστής βαθμού πείνας</HungerRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature becomes hungry. -->
+  <HungerRateMultiplier.description>Ένας πολλαπλασιαστής για το πόσο γρήγορα ένα ζώο πεινάει.</HungerRateMultiplier.description>
+  
+  <!-- EN: immunity gain speed -->
+  <ImmunityGainSpeed.label>ταχύτητα απόκτησης ανοσίας</ImmunityGainSpeed.label>
+  <!-- EN: The speed at which this character gains immunity to diseases. If this is too slow, the character will die from a disease before developing immunity. -->
+  <ImmunityGainSpeed.description>Η ταχύτητα με την οποία ο χαρακτήρας αυτός αποκτά ανοσία στις ασθένειες. Εάν αυτή είναι πολύ αργή, ο χαρακτήρας θα πεθάνει από μια ασθένεια προτού αναπτύξει ανοσία.</ImmunityGainSpeed.description>
+  
+  <!-- EN: leather amount -->
+  <LeatherAmount.label>ποσότητα δέρματος</LeatherAmount.label>
+  <!-- EN: The amount of leather yielded when butchering this creature. -->
+  <LeatherAmount.description>Η ποσότητα του δέρματος που αποφέρετε κατά τη σφαγή αυτού του πλάσματος.</LeatherAmount.description>
+  
+  <!-- EN: meat amount -->
+  <MeatAmount.label>ποσότητα τροφής</MeatAmount.label>
+  <!-- EN: The amount of meat yielded when butchering this creature. -->
+  <MeatAmount.description>Η ποσότητα του κρέατος που αποδίδεται κατά τη σφαγή αυτού του πλάσματος.</MeatAmount.description>
+  
+  <!-- EN: mental break threshold -->
+  <MentalBreakThreshold.label>κατώφλι ψυχολογικής κατάρρευσης</MentalBreakThreshold.label>
+  <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break. The severity of the mental break will depend on how far below the threshold they are. -->
+  <MentalBreakThreshold.description>Όσο η διάθεση ενός ατόμου είναι κάτω από αυτό το επίπεδο, κινδυνεύει να έχει μία ψυχολογική κατάρρευση. Η σοβαρότητα της ψυχολογικής κατάρρευσης θα εξαρτηθεί από το πόσο χαμηλό είναι το κατώτατο όριο.</MentalBreakThreshold.description>
+  
+  <!-- EN: minimum handling skill -->
+  <MinimumHandlingSkill.label>ελάχ. ικανότ. στη φροντ. των ζώων</MinimumHandlingSkill.label>
+  <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
+  <MinimumHandlingSkill.description>Αυτό το πλάσμα δεν μπορεί να εξημερωθεί, να εκπαιδευτεί ή να δεχθεί εντολές από οποιονδήποτε με λιγότερο από αυτή την ικανότητα στα ζώα.</MinimumHandlingSkill.description>
+  
+  <!-- EN: move speed -->
+  <MoveSpeed.label>ταχύτητα κίνησης</MoveSpeed.label>
+  <!-- EN: Speed of movement in cells per second. -->
+  <MoveSpeed.description>Ταχύτητα κίνησης στα κελιά ανά δευτερόλεπτο.</MoveSpeed.description>
+  <!-- EN: {0} c/s -->
+  <MoveSpeed.formatString>{0} κελιά/δτρ</MoveSpeed.formatString>
+  
+  <!-- EN: pain shock threshold -->
+  <PainShockThreshold.label>όριο κλονισμού από πόνο</PainShockThreshold.label>
+  <!-- EN: The pain level at which this creature is downed from pain. -->
+  <PainShockThreshold.description>Το επίπεδο του πόνου στο οποίο αυτό το πλάσμα καταπέφτει από τον πόνο.</PainShockThreshold.description>
+  
+  <!-- EN: psychic sensitivity -->
+  <PsychicSensitivity.label>ψυχολογική ευαισθησία</PsychicSensitivity.label>
+  <!-- EN: Multiplier on the impact of psychic phenomena affecting this person. More sensitive people both suffer more from negative psychic effects, and benefit more from positive ones. -->
+  <PsychicSensitivity.description>Πολλαπλασιαστής για τον αντίκτυπο των ψυχικών φαινομένων που επηρεάζουν αυτό το άτομο. Οι πιο ευαίσθητοι άνθρωποι υποφέρουν περισσότερο από τις αρνητικές ψυχικές επιδράσεις και επωφελούνται περισσότερο από τις θετικές.</PsychicSensitivity.description>
+  
+  <!-- EN: rest rate multiplier -->
+  <RestRateMultiplier.label>πολλαπλασιαστής ρυθμού ξεκούρασης</RestRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
+  <RestRateMultiplier.description>Ένας πολλαπλασιαστής για το πόσο γρήγορα ένα πλάσμα ξεκουράζεται στον ύπνο.</RestRateMultiplier.description>
+  
+  <!-- EN: toxic sensitivity -->
+  <ToxicSensitivity.label>τοξική ευαισθησία</ToxicSensitivity.label>
+  <!-- EN: Multiplier on the impact of toxic buildup on this creature. -->
+  <ToxicSensitivity.description>Πολλαπλασιαστής για την επίδραση της τοξικής συσσώρευσης σε αυτό το πλάσμα.</ToxicSensitivity.description>
+  
+</LanguageData>

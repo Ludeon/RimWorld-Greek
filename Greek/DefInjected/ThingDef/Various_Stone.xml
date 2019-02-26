@@ -1,75 +1,119 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Διάφορα κομμάτια (Misc chunks) -->
-
-  <ChunkSlagSteel.label>κομμάτι σκουριασμένου ατσαλιού</ChunkSlagSteel.label>
-  <ChunkSlagSteel.description>Ένα κομμάτι σκουριασμένου ατσαλιού. Δεν είναι πολύ χρήσιμο στην τρέχουσα μορφή του, αλλά είναι δυνατό να εκκαμινευτεί το ατσάλι από αυτό.</ChunkSlagSteel.description>
-
-
-  <!-- Αμμόλιθος (Sandstone) -->
-
-  <Sandstone.label>αμμόλιθος</Sandstone.label>
-  <Sandstone.description>Ένα ιζηματογενές βράχο αποτελούμενο από συμπιεσμένα σωματίδια άμμου.</Sandstone.description>
-
-  <ChunkSandstone.label>κομμάτι αμμόλιθου</ChunkSandstone.label>
-  <ChunkSandstone.description>Ένα κομμάτι βράχου. Είναι δυνατή η κοπή χρησιμοποιήσιμων λίθινων τούβλων από αυτό.</ChunkSandstone.description>
-
-  <BlocksSandstone.label>τούβλα αμμόλιθου</BlocksSandstone.label>
-  <BlocksSandstone.description>Τούβλα στερεού αμμόλιθου. Ο αμμόλιθος είναι ένας σχετικά μαλακός βράχος και θρυμματίζετε εύκολα.</BlocksSandstone.description>
-  <BlocksSandstone.stuffProps.stuffAdjective>αμμόλιθο</BlocksSandstone.stuffProps.stuffAdjective>
-
-
-  <!-- Γρανίτης (Granite) -->
-
-  <Granite.label>γρανίτης</Granite.label>
-  <Granite.description>Ένας πολύ σκληρός πυριγενής βράχος.</Granite.description>
-
-  <ChunkGranite.label>κομμάτι γρανίτη</ChunkGranite.label>
-  <ChunkGranite.description>Ένα κομμάτι βράχου. Είναι δυνατή η κοπή χρησιμοποιήσιμων λίθινων τούβλων από αυτό.</ChunkGranite.description>
-
+  
+  <!-- EN: granite blocks -->
   <BlocksGranite.label>τούβλα γρανίτη</BlocksGranite.label>
+  <!-- EN: Blocks of solid granite. Granite is a very hard stone. -->
   <BlocksGranite.description>Τούβλα στερεού γρανίτη. Ο γρανίτης είναι μια πολύ σκληρή πέτρα.</BlocksGranite.description>
+  <!-- EN: granite -->
   <BlocksGranite.stuffProps.stuffAdjective>γρανίτη</BlocksGranite.stuffProps.stuffAdjective>
-
-
-  <!-- Ασβεστόλιθος (Limestone) -->
-
-  <Limestone.label>ασβεστόλιθος</Limestone.label>
-  <Limestone.description>Ένας ιζηματογενής βράχος που σχηματίστηκε από τα συμπαγή υπολείμματα αρχαίων κοραλλιών.</Limestone.description>
-
-  <ChunkLimestone.label>κομμάτι ασβεστόλιθου</ChunkLimestone.label>
-  <ChunkLimestone.description>Ένα κομμάτι βράχου. Είναι δυνατή η κοπή χρησιμοποιήσιμων λίθινων τούβλων από αυτό.</ChunkLimestone.description>
-
+  
+  <!-- EN: limestone blocks -->
   <BlocksLimestone.label>τούβλα ασβεστόλιθου</BlocksLimestone.label>
+  <!-- EN: Blocks of solid limestone. -->
   <BlocksLimestone.description>Τούβλα από συμπαγή ασβεστόλιθο.</BlocksLimestone.description>
+  <!-- EN: limestone -->
   <BlocksLimestone.stuffProps.stuffAdjective>ασβεστόλιθο</BlocksLimestone.stuffProps.stuffAdjective>
-
-
-  <!-- Σχιστόλιθος (Slate) -->
-
-  <Slate.label>σχιστόλιθος</Slate.label>
-  <Slate.description>Ένας μεταμορφωμένος βράχος σκούρου χρώματος. Οι λεπτές στρώσεις του είναι αποτέλεσμα της σχιστολιθικής διάσπασης.</Slate.description>
-
-  <ChunkSlate.label>κομμάτι σχιστόλιθου</ChunkSlate.label>
-  <ChunkSlate.description>Ένα κομμάτι βράχου. Είναι δυνατή η κοπή χρησιμοποιήσιμων λίθινων τούβλων από αυτό.</ChunkSlate.description>
-
-  <BlocksSlate.label>τούβλα σχιστόλιθου</BlocksSlate.label>
-  <BlocksSlate.description>Τούβλα στερεού σχιστόλιθου. Ένας πορώδης βράχος που θρυμματίζετε εύκολα.</BlocksSlate.description>
-  <BlocksSlate.stuffProps.stuffAdjective>σχιστόλιθο</BlocksSlate.stuffProps.stuffAdjective>
-
-
-  <!-- Μάρμαρο (Marble) -->
-
-  <Marble.label>μάρμαρο</Marble.label>
-  <Marble.description>Ένας απαλός μεταμορφώσιμος βράχος.</Marble.description>
-
-  <ChunkMarble.label>μαρμάρινο κομμάτι</ChunkMarble.label>
-  <ChunkMarble.description>Ένα κομμάτι βράχου. Είναι δυνατή η κοπή χρησιμοποιήσιμων λίθινων τούβλων από αυτό.</ChunkMarble.description>
-
+  
+  <!-- EN: marble blocks -->
   <BlocksMarble.label>μαρμάρινα τούβλα</BlocksMarble.label>
+  <!-- EN: Blocks of solid marble. Marble is a soft, beautiful stone, known for being easy to sculpt. -->
   <BlocksMarble.description>Τούβλα από συμπαγές μάρμαρο. Το μάρμαρο είναι μια μαλακή, όμορφη πέτρα, γνωστή για το ότι είναι εύκολο να σμιλευτεί.</BlocksMarble.description>
+  <!-- EN: marble -->
   <BlocksMarble.stuffProps.stuffAdjective>μάρμαρο</BlocksMarble.stuffProps.stuffAdjective>
-
-
+  
+  <!-- EN: sandstone blocks -->
+  <BlocksSandstone.label>τούβλα αμμόλιθου</BlocksSandstone.label>
+  <!-- EN: Blocks of solid sandstone. Sandstone is a relatively soft rock and chips easily. -->
+  <BlocksSandstone.description>Τούβλα στερεού αμμόλιθου. Ο αμμόλιθος είναι ένας σχετικά μαλακός βράχος και θρυμματίζετε εύκολα.</BlocksSandstone.description>
+  <!-- EN: sandstone -->
+  <BlocksSandstone.stuffProps.stuffAdjective>αμμόλιθο</BlocksSandstone.stuffProps.stuffAdjective>
+  
+  <!-- EN: slate blocks -->
+  <BlocksSlate.label>τούβλα σχιστόλιθου</BlocksSlate.label>
+  <!-- EN: Blocks of solid slate. A dull-looking rock that chips easily. -->
+  <BlocksSlate.description>Τούβλα στερεού σχιστόλιθου. Ένας πορώδης βράχος που θρυμματίζετε εύκολα.</BlocksSlate.description>
+  <!-- EN: slate -->
+  <BlocksSlate.stuffProps.stuffAdjective>σχιστόλιθο</BlocksSlate.stuffProps.stuffAdjective>
+  
+  <!-- EN: granite chunk -->
+  <ChunkGranite.label>κομμάτι γρανίτη</ChunkGranite.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkGranite.description>Ένα κομμάτι βράχου. Είναι δυνατή η κοπή χρησιμοποιήσιμων γρανιτένιων τούβλων από αυτό.</ChunkGranite.description>
+  
+  <!-- EN: limestone chunk -->
+  <ChunkLimestone.label>κομμάτι ασβεστόλιθου</ChunkLimestone.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkLimestone.description>Ένα κομμάτι βράχου. Είναι δυνατή η κοπή χρησιμοποιήσιμων λίθινων τούβλων από αυτό.</ChunkLimestone.description>
+  
+  <!-- EN: marble chunk -->
+  <ChunkMarble.label>μαρμάρινο κομμάτι</ChunkMarble.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkMarble.description>Ένα κομμάτι βράχου. Είναι δυνατή η κοπή χρησιμοποιήσιμων μαρμάρινων τούβλων από αυτό.</ChunkMarble.description>
+  
+  <!-- EN: sandstone chunk -->
+  <ChunkSandstone.label>κομμάτι αμμόλιθου</ChunkSandstone.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkSandstone.description>Ένα κομμάτι βράχου. Είναι δυνατή η κοπή χρησιμοποιήσιμων λίθινων τούβλων από αυτό.</ChunkSandstone.description>
+  
+  <!-- EN: steel slag chunk -->
+  <ChunkSlagSteel.label>κομμάτι σκουριασμένου ατσαλιού</ChunkSlagSteel.label>
+  <!-- EN: A chunk of steel slag. While it's useless in its current form, it can be smelted to recover steel. -->
+  <ChunkSlagSteel.description>Ένα κομμάτι σκουριασμένου ατσαλιού. Δεν είναι πολύ χρήσιμο στην τρέχουσα μορφή του, αλλά είναι δυνατό να εκκαμινευτεί το ατσάλι από αυτό.</ChunkSlagSteel.description>
+  
+  <!-- EN: slate chunk -->
+  <ChunkSlate.label>κομμάτι σχιστόλιθου</ChunkSlate.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkSlate.description>Ένα κομμάτι βράχου. Είναι δυνατή η κοπή χρησιμοποιήσιμων λίθινων τούβλων από αυτό.</ChunkSlate.description>
+  
+  <!-- EN: granite -->
+  <Granite.label>γρανίτης</Granite.label>
+  <!-- EN: A very hard igneous rock. -->
+  <Granite.description>Ένας πολύ σκληρός πυριγενής βράχος.</Granite.description>
+  
+  <!-- EN: limestone -->
+  <Limestone.label>ασβεστόλιθος</Limestone.label>
+  <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. -->
+  <Limestone.description>Ένας ιζηματογενής βράχος που σχηματίστηκε από τα συμπαγή υπολείμματα αρχαίων κοραλλιών.</Limestone.description>
+  
+  <!-- EN: marble -->
+  <Marble.label>μάρμαρο</Marble.label>
+  <!-- EN: A soft metamorphic rock. -->
+  <Marble.description>Ένας απαλός μεταμορφώσιμος βράχος.</Marble.description>
+  
+  <!-- EN: sandstone -->
+  <Sandstone.label>αμμόλιθος</Sandstone.label>
+  <!-- EN: A sedimentary rock composed of sand particles compressed together. -->
+  <Sandstone.description>Ένα ιζηματογενές βράχο αποτελούμενο από συμπιεσμένα σωματίδια άμμου.</Sandstone.description>
+  
+  <!-- EN: slate -->
+  <Slate.label>σχιστόλιθος</Slate.label>
+  <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. -->
+  <Slate.description>Ένας μεταμορφωμένος βράχος σκούρου χρώματος. Οι λεπτές στρώσεις του είναι αποτέλεσμα της σχιστολιθικής διάσπασης.</Slate.description>
+  
+  <!-- EN: smoothed granite -->
+  <SmoothedGranite.label>λείος γρανίτης</SmoothedGranite.label>
+  <!-- EN: A very hard igneous rock. The shining surface is filled with a mosaic of black, white, and pink speckles. -->
+  <SmoothedGranite.description>Ένας πολύ σκληρός πυριγενής βράχος. Η λαμπερή επιφάνεια είναι γεμάτη με ένα μωσαϊκό από μαύρα, λευκά και ροζ στίγματα.</SmoothedGranite.description>
+  
+  <!-- EN: smoothed limestone -->
+  <SmoothedLimestone.label>λείος ασβεστόλιθος</SmoothedLimestone.label>
+  <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. It glows a smooth white, with light patterns of impurities suspended within. -->
+  <SmoothedLimestone.description>Ένας ιζηματογενής βράχος που σχηματίστηκε από τα συμπαγή υπολείμματα των παλιών κοχυλιών. Γυαλίζει σε ένα απαλό λευκό, με διάχυτα υπολείμματα λίγων ακαθαρσιών.</SmoothedLimestone.description>
+  
+  <!-- EN: smoothed marble -->
+  <SmoothedMarble.label>λείο μάρμαρο</SmoothedMarble.label>
+  <!-- EN: A soft metamorphic rock. This semi-transparent rock almost appears to glow with its own inner light. -->
+  <SmoothedMarble.description>Ένας απαλό μεταμορφωτικός πέτρωμα. Αυτός ο ημιδιαφανής βράχος φαίνεται σχεδόν να λάμπει από το εσωτερικό του φως.</SmoothedMarble.description>
+  
+  <!-- EN: smoothed sandstone -->
+  <SmoothedSandstone.label>λείος αμμόλιθος</SmoothedSandstone.label>
+  <!-- EN: A sedimentary rock composed of sand particles compressed together. The sand layers have been polished to a flat, smooth surface. -->
+  <SmoothedSandstone.description>Ένα ιζηματογενές βράχο αποτελούμενο από συμπιεσμένα σωματίδια άμμου. Τα στρώματα άμμου έχουν γυαλιστεί σε μια επίπεδη, λεία επιφάνεια.</SmoothedSandstone.description>
+  
+  <!-- EN: smoothed slate -->
+  <SmoothedSlate.label>λείος σχιστόλιθος</SmoothedSlate.label>
+  <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. Interior strata are clearly visible through the polished surface. -->
+  <SmoothedSlate.description>Ένα μεταμορφωτικό σκούρου χρώματος πέτρωμα. Τα λεπτά στρώματά του είναι έμβλημα της σχιστολιθικής διάσπασης. Τα εσωτερικά στρώματα είναι εμφανές ορατά μέσω της γυαλισμένης επιφάνειας.</SmoothedSlate.description>
+  
 </LanguageData>

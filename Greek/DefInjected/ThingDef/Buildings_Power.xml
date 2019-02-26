@@ -1,48 +1,54 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <PowerConduit.label>αγωγός ρεύματος</PowerConduit.label>
-  <PowerConduit.description>Ένα σύνολο ηλεκτρικών καλωδίων για τη μετακίνηση της ενέργειας. Μπορεί να τοποθετηθεί κάτω από τοίχους και άλλες κατασκευές.</PowerConduit.description>
-  <PowerConduit_Blueprint.label>αγωγός ρεύματος (προσχέδιο)</PowerConduit_Blueprint.label>
-  <PowerConduit_Frame.label>αγωγός ρεύματος (κατασκευή)</PowerConduit_Frame.label>
-  <PowerConduit_Frame.description>Ένα σύνολο ηλεκτρικών καλωδίων για τη μετακίνηση της ενέργειας. Μπορεί να τοποθετηθεί κάτω από τοίχους και άλλες κατασκευές.</PowerConduit_Frame.description>
-
-  <PowerSwitch.label>διακόπτης ρεύματος</PowerSwitch.label>
-  <PowerSwitch.description>Διακόπτες ενεργοποίησης/απενεργοποίησης.</PowerSwitch.description>
-  <PowerSwitch_Blueprint.label>διακόπτης ρεύματος (προσχέδιο)</PowerSwitch_Blueprint.label>
-  <PowerSwitch_Frame.label>διακόπτης ρεύματος (κατασκευή)</PowerSwitch_Frame.label>
-  <PowerSwitch_Frame.description>Διακόπτες ενεργοποίησης/απενεργοποίησης.</PowerSwitch_Frame.description>
-
-  <WoodFiredGenerator.label>γεννήτρια με ξύλα</WoodFiredGenerator.label>
-  <WoodFiredGenerator.description>Παράγει ενέργεια καταναλώνοντας ξύλο. Πρέπει να τροφοδοτείτε χειροκίνητα.</WoodFiredGenerator.description>
-  <WoodFiredGenerator_Blueprint.label>γεννήτρια με ξύλα (προσχέδιο)</WoodFiredGenerator_Blueprint.label>
-  <WoodFiredGenerator_Frame.label>γεννήτρια με ξύλα (κατασκευή)</WoodFiredGenerator_Frame.label>
-  <WoodFiredGenerator_Frame.description>Παράγει ενέργεια καταναλώνοντας ξύλο. Πρέπει να τροφοδοτείτε χειροκίνητα.</WoodFiredGenerator_Frame.description>
-
-  <ChemfuelPoweredGenerator.label>γεννήτρια με χημικό καύσιμο</ChemfuelPoweredGenerator.label>
-  <ChemfuelPoweredGenerator.description>Παράγει ενέργεια καταναλώνοντας χημικό καύσιμο. Πρέπει να τροφοδοτείτε χειροκίνητα.</ChemfuelPoweredGenerator.description>
-  <ChemfuelPoweredGenerator_Blueprint.label>γεννήτρια με χημικό καύσιμο (προσχέδιο)</ChemfuelPoweredGenerator_Blueprint.label>
-  <ChemfuelPoweredGenerator_Frame.label>γεννήτρια με χημικό καύσιμο (κατασκευή)</ChemfuelPoweredGenerator_Frame.label>
-  <ChemfuelPoweredGenerator_Frame.description>Παράγει ενέργεια καταναλώνοντας χημικό καύσιμο. Πρέπει να τροφοδοτείτε χειροκίνητα.</ChemfuelPoweredGenerator_Frame.description>
-
+  
+  <!-- EN: battery -->
   <Battery.label>μπαταρία</Battery.label>
-  <Battery.description>Αποθηκεύει ηλεκτρικό ρεύμα όταν υπάρχει παραπανίσια ισχύς και την αποδίδει όταν δεν υπάρχει. Προσοχή - Οι φορτισμένες μπαταρίες μπορεί να εκραγούν αν βραχούν ή καούν.</Battery.description>
-  <Battery_Blueprint.label>μπαταρία (προσχέδιο)</Battery_Blueprint.label>
-  <Battery_Blueprint_Install.label>μπαταρία (προσχέδιο)</Battery_Blueprint_Install.label>
-  <Battery_Frame.label>μπαταρία (κατασκευή)</Battery_Frame.label>
-  <Battery_Frame.description>Αποθηκεύει ηλεκτρικό ρεύμα όταν υπάρχει παραπανίσια ισχύς και την αποδίδει όταν δεν υπάρχει. Προσοχή - Οι φορτισμένες μπαταρίες μπορεί να εκραγούν αν βραχούν ή καούν.</Battery_Frame.description>
-
-  <SolarGenerator.label>ηλιακή γεννήτρια</SolarGenerator.label>
-  <SolarGenerator.description>Παράγει ηλεκτρισμό από το φως του ήλιου. Δεν λειτουργεί στο σκοτάδι.</SolarGenerator.description>
-  <SolarGenerator_Blueprint.label>ηλιακή γεννήτρια (προσχέδιο)</SolarGenerator_Blueprint.label>
-  <SolarGenerator_Frame.label>ηλιακή γεννήτρια (κατασκευή)</SolarGenerator_Frame.label>
-  <SolarGenerator_Frame.description>Παράγει ηλεκτρισμό από το φως του ήλιου. Δεν λειτουργεί στο σκοτάδι.</SolarGenerator_Frame.description>
-
+  <!-- EN: Stores electricity for later use. Charged batteries explode when exposed to rain or fire. -->
+  <Battery.description>Αποθηκεύει ηλεκτρικό ρεύμα για μελλοντική χρήση. Προσοχή - Οι φορτισμένες μπαταρίες μπορεί να εκραγούν αν βραχούν ή καούν.</Battery.description>
+  
+  <!-- EN: chemfuel powered generator -->
+  <ChemfuelPoweredGenerator.label>γεννήτρια με χημικό καύσιμο</ChemfuelPoweredGenerator.label>
+  <!-- EN: Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
+  <ChemfuelPoweredGenerator.description>Παράγει ενέργεια καταναλώνοντας χημικό καύσιμο. Πρέπει να τροφοδοτείτε χειροκίνητα.</ChemfuelPoweredGenerator.description>
+  
+  <!-- EN: geothermal generator -->
   <GeothermalGenerator.label>γεωθερμική γεννήτρια</GeothermalGenerator.label>
+  <!-- EN: Produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
   <GeothermalGenerator.description>Παράγει ενέργεια από τον ατμό των θερμών πιδάκων. Πρέπει να τοποθετηθεί πάνω από έναν πίδακα.</GeothermalGenerator.description>
-  <GeothermalGenerator_Blueprint.label>γεωθερμική γεννήτρια (προσχέδιο)</GeothermalGenerator_Blueprint.label>
-  <GeothermalGenerator_Frame.label>γεωθερμική γεννήτρια (κατασκευή)</GeothermalGenerator_Frame.label>
-  <GeothermalGenerator_Frame.description>Παράγει ενέργεια από τον ατμό των θερμών πιδάκων. Πρέπει να τοποθετηθεί πάνω από έναν πίδακα.</GeothermalGenerator_Frame.description>
-
-
+  
+  <!-- EN: power conduit -->
+  <PowerConduit.label>αγωγός ρεύματος</PowerConduit.label>
+  <!-- EN: A bundle of electrical cables for moving power around. Can be placed under walls and other buildings. -->
+  <PowerConduit.description>Ένα σύνολο ηλεκτρικών καλωδίων για τη μεταφορά της ενέργειας. Μπορεί να τοποθετηθεί κάτω από τοίχους και άλλες κατασκευές.</PowerConduit.description>
+  
+  <!-- EN: power switch -->
+  <PowerSwitch.label>διακόπτης ρεύματος</PowerSwitch.label>
+  <!-- EN: Switches power on/off. -->
+  <PowerSwitch.description>Διακόπτες ενεργοποίησης/απενεργοποίησης.</PowerSwitch.description>
+  
+  <!-- EN: solar generator -->
+  <SolarGenerator.label>ηλιακή γεννήτρια</SolarGenerator.label>
+  <!-- EN: Produces electricity from sunlight. Does not work in the dark or under artificial light. -->
+  <SolarGenerator.description>Παράγει ηλεκτρισμό από το φως του ήλιου. Δεν λειτουργεί στο σκοτάδι ή σε τεχνικό φως.</SolarGenerator.description>
+  
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>υδρογεννήτρια</WatermillGenerator.label>
+  <!-- EN: Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation. -->
+  <WatermillGenerator.description>Παράγει ηλεκτρισμό από ένα ποτάμι. Πρέπει να τοποθετηθεί με τον τροχό της σε κινούμενο νερό. Αν οι νερόμυλοι τοποθετηθούν πολύ κοντά, οι αναταράξεις που δημιουργούνται θα παρεμβαίνουν και θα μειώνουν την παραγωγή ενέργειας.</WatermillGenerator.description>
+  
+  <!-- EN: waterproof conduit -->
+  <WaterproofConduit.label>υδατοστεγής αγωγός</WaterproofConduit.label>
+  <!-- EN: Insulated electrical cables for transmitting power under shallow water. -->
+  <WaterproofConduit.description>Μονωμένα ηλεκτρικά καλώδια για τη μετάδοση ισχύος κάτω από ρηχά νερά.</WaterproofConduit.description>
+  
+  <!-- EN: wind turbine -->
+  <WindTurbine.label>ανεμογεννήτρια</WindTurbine.label>
+  <!-- EN: A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
+  <WindTurbine.description>Μια ηλεκτρική γεννήτρια με αιολική ενέργεια. Απαιτεί ένα μεγάλο κενό χώρο εμπρός και πίσω για βέλτιστη ροή αέρα.</WindTurbine.description>
+  
+  <!-- EN: wood-fired generator -->
+  <WoodFiredGenerator.label>γεννήτρια με ξύλα</WoodFiredGenerator.label>
+  <!-- EN: Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
+  <WoodFiredGenerator.description>Παράγει ενέργεια καταναλώνοντας ξύλο. Πρέπει να τροφοδοτείτε περιοδικά με καύσιμο, χειροκίνητα.</WoodFiredGenerator.description>
+  
 </LanguageData>

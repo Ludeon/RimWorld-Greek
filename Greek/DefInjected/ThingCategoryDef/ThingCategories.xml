@@ -1,77 +1,145 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Root.label>ρίζα</Root.label>
-
-
-  <!-- Τροφές (Foods) -->
-
-  <Foods.label>φαγώσιμα</Foods.label>
-  <FoodMeals.label>γεύματα</FoodMeals.label>
-  <FoodRaw.label>ωμή τροφή</FoodRaw.label>
-  <MeatRaw.label>ωμό κρέας</MeatRaw.label>
-  <PlantFoodRaw.label>χορτοφάγος</PlantFoodRaw.label>
+  
+  <!-- EN: animal products -->
   <AnimalProductRaw.label>ζωικά προϊόντα</AnimalProductRaw.label>
-  <EggsUnfertilized.label>αυγά (αγονιμ.)</EggsUnfertilized.label>
-  <EggsFertilized.label>αυγά (γονιμ.)</EggsFertilized.label>
-
-
-  <!-- Κατασκευασμένα (Manufactured) -->
-
-  <Manufactured.label>κατασκευασμένα προϊόντα</Manufactured.label>
-  <Textiles.label>υφάσματα</Textiles.label>
-  <Leathers.label>δέρματα</Leathers.label>
-  <Medicine.label>φάρμακα</Medicine.label>
-  <Drugs.label>ναρκωτικά </Drugs.label>
-  <MortarShells.label>βλήματα όλμου</MortarShells.label>
-
-
-  <!-- Πρώτες ύλες (Raw resources) -->
-
-  <ResourcesRaw.label>πρώτες ύλες</ResourcesRaw.label>
-  <PlantMatter.label>φυτικές ύλες</PlantMatter.label>
-  <StoneBlocks.label>πέτρινα τούβλα</StoneBlocks.label>
-
-
-  <!-- Αντικείμενα (Items) -->
-
-  <Items.label>αντικείμενα</Items.label>
-  <Art.label>τέχνη</Art.label>
-  <Furniture.label>έπιπλα</Furniture.label>
-  <Unfinished.label>ημιτελές</Unfinished.label>
-  <Artifacts.label>τεχνουργήματα</Artifacts.label>
-  <BodyParts.label>μέλη σώματος</BodyParts.label>
-  <BodyPartsNatural.label>φυσικά</BodyPartsNatural.label>
-  <BodyPartsArtificial.label>τεχνητά</BodyPartsArtificial.label>
-
-
-  <!-- Όπλα (Weapons) -->
-
-  <Weapons.label>όπλα</Weapons.label>
-  <WeaponsMelee.label>όπλα εξ επαφής</WeaponsMelee.label>
-  <WeaponsRanged.label>όπλα εξ αποστάσεως</WeaponsRanged.label>
-  <Grenades.label>χειροβομβίδες</Grenades.label>
-
-
-  <!-- Ενδυμασίες (Apparel) -->
-
+  
+  <!-- EN: apparel -->
   <Apparel.label>ρουχισμός</Apparel.label>
-  <Headgear.label>καλύμματα κεφαλής</Headgear.label>
-
-
-  <!-- Κομμάτια (Chunks) -->
-
+  
+  <!-- EN: artifacts -->
+  <Artifacts.label>τεχνουργήματα</Artifacts.label>
+  
+  <!-- EN: body parts -->
+  <BodyParts.label>μέλη σώματος</BodyParts.label>
+  
+  <!-- EN: artificial -->
+  <BodyPartsArtificial.label>τεχνητά</BodyPartsArtificial.label>
+  
+  <!-- EN: natural -->
+  <BodyPartsNatural.label>φυσικά</BodyPartsNatural.label>
+  
+  <!-- EN: buildings -->
+  <Buildings.label>κτίρια</Buildings.label>
+  
+  <!-- EN: art -->
+  <BuildingsArt.label>τέχνη</BuildingsArt.label>
+  
+  <!-- EN: furniture -->
+  <BuildingsFurniture.label>έπιπλο</BuildingsFurniture.label>
+  
+  <!-- EN: recreation -->
+  <BuildingsJoy.label>διασκέδαση</BuildingsJoy.label>
+  
+  <!-- EN: misc -->
+  <BuildingsMisc.label>διάφορα</BuildingsMisc.label>
+  
+  <!-- EN: power -->
+  <BuildingsPower.label>ενέργεια</BuildingsPower.label>
+  
+  <!-- EN: production -->
+  <BuildingsProduction.label>παραγωγή</BuildingsProduction.label>
+  
+  <!-- EN: security -->
+  <BuildingsSecurity.label>ασφάλεια</BuildingsSecurity.label>
+  
+  <!-- EN: special -->
+  <BuildingsSpecial.label>ειδικό</BuildingsSpecial.label>
+  
+  <!-- EN: temperature -->
+  <BuildingsTemperature.label>θερμοκρασία</BuildingsTemperature.label>
+  
+  <!-- EN: chunks -->
   <Chunks.label>κομμάτια</Chunks.label>
-  <StoneChunks.label>πέτρινα κομμάτια</StoneChunks.label>
-
-
-  <!-- Πτώματα (Corpses) -->
-
+  
+  <!-- EN: corpses -->
   <Corpses.label>πτώματα</Corpses.label>
-  <CorpsesHumanlike.label>ανθρώπινα πτώματα</CorpsesHumanlike.label>
+  
+  <!-- EN: animal corpses -->
   <CorpsesAnimal.label>πτώματα ζώων</CorpsesAnimal.label>
+  
+  <!-- EN: humanlike corpses -->
+  <CorpsesHumanlike.label>ανθρώπινα πτώματα</CorpsesHumanlike.label>
+  
+  <!-- EN: insect corpses -->
   <CorpsesInsect.label>πτώματα εντόμων</CorpsesInsect.label>
+  
+  <!-- EN: mechanoid corpses -->
   <CorpsesMechanoid.label>πτώματα μηχανοειδών</CorpsesMechanoid.label>
-
-
+  
+  <!-- EN: drugs -->
+  <Drugs.label>ναρκωτικά </Drugs.label>
+  
+  <!-- EN: eggs (fert.) -->
+  <EggsFertilized.label>αυγά (γονιμ.)</EggsFertilized.label>
+  
+  <!-- EN: eggs (unfert.) -->
+  <EggsUnfertilized.label>αυγά (αγονιμ.)</EggsUnfertilized.label>
+  
+  <!-- EN: meals -->
+  <FoodMeals.label>γεύματα</FoodMeals.label>
+  
+  <!-- EN: raw food -->
+  <FoodRaw.label>ωμή τροφή</FoodRaw.label>
+  
+  <!-- EN: foods -->
+  <Foods.label>φαγώσιμα</Foods.label>
+  
+  <!-- EN: grenades -->
+  <Grenades.label>χειροβομβίδες</Grenades.label>
+  
+  <!-- EN: headgear -->
+  <Headgear.label>καλύμματα κεφαλής</Headgear.label>
+  
+  <!-- EN: items -->
+  <Items.label>αντικείμενα</Items.label>
+  
+  <!-- EN: leathers -->
+  <Leathers.label>δέρματα</Leathers.label>
+  
+  <!-- EN: manufactured -->
+  <Manufactured.label>κατασκευασμένα προϊόντα</Manufactured.label>
+  
+  <!-- EN: meat -->
+  <MeatRaw.label>κρέας</MeatRaw.label>
+  
+  <!-- EN: medicine -->
+  <Medicine.label>φάρμακα</Medicine.label>
+  
+  <!-- EN: mortar shells -->
+  <MortarShells.label>βλήματα όλμου</MortarShells.label>
+  
+  <!-- EN: vegetarian -->
+  <PlantFoodRaw.label>χορτοφάγος</PlantFoodRaw.label>
+  
+  <!-- EN: plant matter -->
+  <PlantMatter.label>φυτικές ύλες</PlantMatter.label>
+  
+  <!-- EN: raw resources -->
+  <ResourcesRaw.label>πρώτες ύλες</ResourcesRaw.label>
+  
+  <!-- EN: root -->
+  <Root.label>ρίζα</Root.label>
+  
+  <!-- EN: stone blocks -->
+  <StoneBlocks.label>πέτρινα τούβλα</StoneBlocks.label>
+  
+  <!-- EN: stone chunks -->
+  <StoneChunks.label>πέτρινα κομμάτια</StoneChunks.label>
+  
+  <!-- EN: textiles -->
+  <Textiles.label>υφάσματα</Textiles.label>
+  
+  <!-- EN: unfinished -->
+  <Unfinished.label>ημιτελές</Unfinished.label>
+  
+  <!-- EN: weapons -->
+  <Weapons.label>όπλα</Weapons.label>
+  
+  <!-- EN: melee weapons -->
+  <WeaponsMelee.label>αγχέμαχα όπλα</WeaponsMelee.label>
+  
+  <!-- EN: ranged weapons -->
+  <WeaponsRanged.label>εκήβολα όπλα</WeaponsRanged.label>
+  
 </LanguageData>

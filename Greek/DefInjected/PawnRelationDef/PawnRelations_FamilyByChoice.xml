@@ -1,43 +1,47 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- συμβία / εραστής (spouse / lover) -->
-
-  <Spouse.label>σύζυγος</Spouse.label>
-  <Spouse.labelFemale>σύζυγος</Spouse.labelFemale>
-
+  
+  <!-- EN: son-in-law -->
+  <ChildInLaw.label>γαμπρός</ChildInLaw.label>
+  <!-- EN: daughter-in-law -->
+  <ChildInLaw.labelFemale>νύφη</ChildInLaw.labelFemale>
+  
+  <!-- EN: ex-lover -->
+  <ExLover.label>πρώην γκόμενος</ExLover.label>
+  <ExLover.labelFemale>πρώην γκόμενα</ExLover.labelFemale>
+  
+  <!-- EN: ex-husband -->
+  <ExSpouse.label>πρώην άντρας</ExSpouse.label>
+  <!-- EN: ex-wife -->
+  <ExSpouse.labelFemale>πρώην γυναίκα</ExSpouse.labelFemale>
+  
+  <!-- EN: fiance -->
   <Fiance.label>αρραβωνιαστικός</Fiance.label>
+  <!-- EN: fiancée -->
   <Fiance.labelFemale>αρραβωνιαστικιά</Fiance.labelFemale>
-
+  
+  <!-- EN: lover -->
   <Lover.label>γκόμενος</Lover.label>
   <Lover.labelFemale>γκόμενα</Lover.labelFemale>
-
-
-  <!-- θετή συγγενείς (step family) -->
-
-  <Stepparent.label>πατριός</Stepparent.label>
-  <Stepparent.labelFemale>μητριά</Stepparent.labelFemale>
-
-  <Stepchild.label>υιοθετημένος</Stepchild.label>
-  <Stepchild.labelFemale>υιοθετημένη</Stepchild.labelFemale>
-
-
-  <!-- πεθερικά (in-law) -->
-
+  
+  <!-- EN: father-in-law -->
   <ParentInLaw.label>πεθερός</ParentInLaw.label>
+  <!-- EN: mother-in-law -->
   <ParentInLaw.labelFemale>πεθερά</ParentInLaw.labelFemale>
-
-  <ChildInLaw.label>γαμπρός</ChildInLaw.label>
-  <ChildInLaw.labelFemale>νύφη</ChildInLaw.labelFemale>
-
-
-  <!-- πρώην γκόμενος / πρώην σύζυγος (ex-lover / ex-spouse) -->
-
-  <ExSpouse.label>πρώην άντρας</ExSpouse.label>
-  <ExSpouse.labelFemale>πρώην γυναίκα</ExSpouse.labelFemale>
-
-  <ExLover.label>πρώην γκόμενα</ExLover.label>
-  <ExLover.labelFemale>πρώην γκόμενος</ExLover.labelFemale>
-
-
+  
+  <!-- EN: husband -->
+  <Spouse.label>σύζυγος</Spouse.label>
+  <!-- EN: wife -->
+  <Spouse.labelFemale>σύζυγος</Spouse.labelFemale>
+  
+  <!-- EN: stepson -->
+  <Stepchild.label>υιοθετημένος</Stepchild.label>
+  <!-- EN: stepdaughter -->
+  <Stepchild.labelFemale>υιοθετημένη</Stepchild.labelFemale>
+  
+  <!-- EN: stepfather -->
+  <Stepparent.label>πατριός</Stepparent.label>
+  <!-- EN: stepmother -->
+  <Stepparent.labelFemale>μητριά</Stepparent.labelFemale>
+  
 </LanguageData>

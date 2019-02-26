@@ -1,73 +1,98 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Καθαρά υλικά: Βασικά (Pure stuffs: Basics) -->
-
-  <Silver.label>ασήμι</Silver.label>
-  <Silver.description>Αυτό το μέταλλο χρησιμοποιείται κυρίως ως νόμισμα βασικών προϊόντων. Μπορεί επίσης να χρησιμοποιηθεί για την κατασκευή ελκυστικών διακοσμήσεων.</Silver.description>
-  <Silver.stuffProps.stuffAdjective>ασήμι</Silver.stuffProps.stuffAdjective>
-
+  
+  <!-- EN: cloth -->
+  <Cloth.label>πανί</Cloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <Cloth.description>Ύφασμα πλεγμένο από οργανικές ίνες.</Cloth.description>
+  <Cloth.stuffProps.stuffAdjective>πάνινο</Cloth.stuffProps.stuffAdjective>
+  
+  <!-- EN: devilstrand -->
+  <DevilstrandCloth.label>διαβολότριχα</DevilstrandCloth.label>
+  <!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame. -->
+  <DevilstrandCloth.description>Ύφασμα που γνέθεται από μικροΐνες που εξάγονται από μανιτάρια Σατανικής Τούφας που παράγουν μετάξι. Είναι πολύ σκληρό, καλό σαν μονωτικό και προστατεύει εξαιρετικά καλά από τη φωτιά.</DevilstrandCloth.description>
+  <DevilstrandCloth.stuffProps.stuffAdjective>διαβολότριχα</DevilstrandCloth.stuffProps.stuffAdjective>
+  
+  <!-- EN: gold -->
   <Gold.label>χρυσός</Gold.label>
-  <Gold.description>Το πιο σαγηνευτικό μέταλλο από όλα. Εκατομμύρια έχουν πεθάνει προσπαθώντας να τροφοδοτήσουν την ατελείωτη ανθρώπινη δίψα για χρυσό. Αυτό το μαλακό μέταλλο ελάχιστα χρησιμεύει από μόνο του, αλλά είναι εντυπωσιακά όμορφο και πολύ σπάνιο.</Gold.description>
+  <!-- EN: The most seductive metal of them all. While it is too soft to be of much practical use, it is strikingly beautiful and never tarnishes. Millions have died in attempting to feed the endless human thirst for gold. -->
+  <Gold.description>Το πιο σαγηνευτικό μέταλλο από όλα. Ενώ είναι πολύ μαλακό για να έχει πρακτική χρήση, είναι εντυπωσιακά όμορφο και ποτέ δεν ξεθωριάζει. Εκατομμύρια έχουν πεθάνει προσπαθώντας να τροφοδοτήσουν την ατελείωτη ανθρώπινη δίψα για χρυσό.</Gold.description>
+  <!-- EN: golden -->
   <Gold.stuffProps.stuffAdjective>χρυσάφι</Gold.stuffProps.stuffAdjective>
-
-  <Steel.label>ατσάλι</Steel.label>
-  <Steel.description>Ένα μεταλλικό κράμα σιδήρου-άνθρακα που χρησιμοποιείται για την κατασκευή δομών, εργαλείων και όπλων.</Steel.description>
-  <Steel.stuffProps.stuffAdjective>ατσάλι</Steel.stuffProps.stuffAdjective>
-
-  <Plasteel.label>πλαστέλ</Plasteel.label>
-  <Plasteel.description>Προηγμένο δομικό υλικό διαστημικής τεχνολογίας. Το πλαστέλ είναι εξαιρετικά ισχυρό λόγω της μοναδικής μοριακής του δομής.</Plasteel.description>
-  <Plasteel.stuffProps.stuffAdjective>πλαστέλ</Plasteel.stuffProps.stuffAdjective>
-
-  <WoodLog.label>ξύλο</WoodLog.label>
-  <WoodLog.description>Ξυλεία από δέντρα ή άλλα ινώδη φυτά. Χρήσιμο για την κατασκευή δομών, όπλων, και ακόμη και απλά προσθετικά. Ένα ακατέργαστο ραβδί ξύλου μπορεί να χρησιμοποιηθεί ως όπλο σε μία έκτακτη ανάγκη.</WoodLog.description>
-  <WoodLog.stuffProps.stuffAdjective>ξύλο</WoodLog.stuffProps.stuffAdjective>
-
-  <Uranium.label>ουράνιο</Uranium.label>
-  <Uranium.description>Ένα εξαιρετικά σκληρό, πυκνό μέταλλο. Αν και είναι γνωστό για τη χρήση του που τροφοδοτεί πυρηνικούς αντιδραστήρες, οι φυσικές του ιδιότητες το καθιστούν επίσης εξαιρετικό σε ορισμένες καταστάσεις ως εργαλείο, όπλο ή θωράκιση.</Uranium.description>
-  <Uranium.stuffProps.stuffAdjective>ουράνιο</Uranium.stuffProps.stuffAdjective>
-
+  
+  <!-- EN: hyperweave -->
+  <Hyperweave.label>υπερπλέξη</Hyperweave.label>
+  <!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
+  <Hyperweave.description>Νανο-ίνες υφασμένες σε μοριακά δομημένα πανιά με τη χρήση εξειδικευμένων μηχανικών παραγωγής. Ενώ τις περισσότερες φορές είναι εύκαμπτη, σκληραίνει ώστε να απορροφά τα χτυπήματα κατά την προσγείωση και είναι εξαιρετικά δύσκολο να σπάσει. Τα μυστικά της παραγωγής της είναι γνωστά μόνο στους πιο εξελιγμένους λαμπρούς πολιτισμούς.</Hyperweave.description>
+  <Hyperweave.stuffProps.stuffAdjective>υπερπλέξη</Hyperweave.stuffProps.stuffAdjective>
+  
+  <!-- EN: jade -->
   <Jade.label>νεφρίτης</Jade.label>
+  <!-- EN: A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. Its hardness and density also makes it a good material for blunt weapons. -->
   <Jade.description>Μια σκληρή, πράσινη πέτρα. Λόγω της ομορφιάς και της σπανιότητας του, ο νεφρίτης χρησιμοποιείται συχνά για στολίδια και διακοσμήσεις. Η σκληρότητα και η πυκνότητα του το καθιστούν ένα καλό υλικό για μυτερά όπλα.</Jade.description>
   <Jade.stuffProps.stuffAdjective>νεφρίτη</Jade.stuffProps.stuffAdjective>
-
-
-  <!-- Καθαρά υλικά: Υφάσματα, δέρματα, κλπ (Pure stuffs: Fabric, leather, etc) -->
-
-  <Cloth.label>πανί</Cloth.label>
-  <Cloth.description>Ύφασμα πλεγμένο από οργανικές ίνες.</Cloth.description>
-  <Cloth.stuffProps.stuffAdjective>πανί</Cloth.stuffProps.stuffAdjective>
-
+  
+  <!-- EN: plasteel -->
+  <Plasteel.label>πλαστέλ</Plasteel.label>
+  <!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
+  <Plasteel.description>Προηγμένο δομικό υλικό διαστημικής τεχνολογίας. Το πλαστέλ είναι εξαιρετικά ισχυρό λόγω της μοναδικής μοριακής του δομής.</Plasteel.description>
+  <Plasteel.stuffProps.stuffAdjective>πλαστέλ</Plasteel.stuffProps.stuffAdjective>
+  
+  <!-- EN: silver -->
+  <Silver.label>ασήμι</Silver.label>
+  <!-- EN: This metal is mostly used as a commodity currency. It can also be used for making decorations. -->
+  <Silver.description>Αυτό το μέταλλο χρησιμοποιείται κυρίως ως νόμισμα βασικών προϊόντων. Μπορεί επίσης να χρησιμοποιηθεί για την κατασκευή ελκυστικών διακοσμήσεων.</Silver.description>
+  <Silver.stuffProps.stuffAdjective>ασήμι</Silver.stuffProps.stuffAdjective>
+  
+  <!-- EN: steel -->
+  <Steel.label>ατσάλι</Steel.label>
+  <!-- EN: An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines. -->
+  <Steel.description>Ένα μεταλλικό κράμα σιδήρου-άνθρακα που χρησιμοποιείται για την κατασκευή δομών, εργαλείων και όπλων.</Steel.description>
+  <Steel.stuffProps.stuffAdjective>ατσάλι</Steel.stuffProps.stuffAdjective>
+  
+  <!-- EN: synthread -->
   <Synthread.label>συγχρονόνημα</Synthread.label>
+  <!-- EN: Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well. -->
   <Synthread.description>Τεχνητό συνθετικό ύφασμα διαστημικής τεχνολογίας σχεδιασμένο για την κατασκευή συνηθισμένων ρούχων. Είναι μαλακό, ελαφρύ, ισχυρό, και μονώνει καλά.</Synthread.description>
   <Synthread.stuffProps.stuffAdjective>συγχρονόνημα</Synthread.stuffProps.stuffAdjective>
-
-  <DevilstrandCloth.label>διαβολότριχα</DevilstrandCloth.label>
-  <DevilstrandCloth.description>Ύφασμα που γνέθεται από μικροΐνες που εξάγονται από μανιτάρια Σατανικής Τούφας που παράγουν μετάξι. Πολύ σκληρό, αλλά δεν μονώνει καλύτερα από πανί.</DevilstrandCloth.description>
-  <DevilstrandCloth.stuffProps.stuffAdjective>διαβολότριχα</DevilstrandCloth.stuffProps.stuffAdjective>
-
-  <Hyperweave.label>υπερπλέξη</Hyperweave.label>
-  <Hyperweave.description>Υφαντικές ίνες υψηλής τεχνολογίας υφασμένες σε σεντόνια. Είναι κάπως βαριά, αλλά είναι εξαιρετικά δύσκολο να σπάσει. Τα μυστικά της παραγωγής του είναι γνωστά μόνο στους πιο εξελιγμένους λαμπρούς πολιτισμούς.</Hyperweave.description>
-  <Hyperweave.stuffProps.stuffAdjective>υπερπλέξη</Hyperweave.stuffProps.stuffAdjective>
-
-
-  <!-- Μαλλί (Wool) -->
-
-  <WoolMegasloth.label>μαλλί μεγαλοβραδύπους</WoolMegasloth.label>
-  <WoolMegasloth.description>Ενώ κάπως χονδροειδείς, οι μακρές ίνες του μαλλιού του μεγαλοβραδύπους το καθιστούν πολύ ισχυρό. Είναι πολύ ζεστό.</WoolMegasloth.description>
-  <WoolMegasloth.stuffProps.stuffAdjective>μαλλί μεγαλοβραδύπους</WoolMegasloth.stuffProps.stuffAdjective>
-
-  <WoolMuffalo.label>μαλλί μίσονα</WoolMuffalo.label>
-  <WoolMuffalo.description>Μαλακό, ελαφρύ και με πολύ καλή μόνωση. Τα μάλλινα ρούχα μπορούν να διατηρήσουν το σώμα ζεστό ακόμη και σε ακραίες συνθήκες.</WoolMuffalo.description>
-  <WoolMuffalo.stuffProps.stuffAdjective>μαλλί μίσονα</WoolMuffalo.stuffProps.stuffAdjective>
-
-  <WoolCamel.label>καμηλότριχα</WoolCamel.label>
-  <WoolCamel.description>Τα ρούχα καμηλότριχας φοριούνται συνήθως από ταξιδιώτες στην έρημο για να τους προστατεύσουν από τη ζέστη. Παρέχει εξαιρετική μόνωση λόγω των θερμοστατικών ιδιοτήτων του.</WoolCamel.description>
-  <WoolCamel.stuffProps.stuffAdjective>καμηλότριχα</WoolCamel.stuffProps.stuffAdjective>
-
+  
+  <!-- EN: uranium -->
+  <Uranium.label>ουράνιο</Uranium.label>
+  <!-- EN: A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
+  <Uranium.description>Ένα σκοτεινό, βαρύ μέταλλο. Ενώ είναι πιο γνωστό ως καύσιμο για πυρηνικές συσκευές, η εξαιρετική πυκνότητα και η σκληρότητα του το καθιστούν καλό και για την κατασκευή ορισμένων όπλων, πανοπλιών και πυρομαχικών.</Uranium.description>
+  <Uranium.stuffProps.stuffAdjective>ουράνιο</Uranium.stuffProps.stuffAdjective>
+  
+  <!-- EN: wood -->
+  <WoodLog.label>ξύλο</WoodLog.label>
+  <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
+  <WoodLog.description>Ξυλεία από δέντρα ή άλλα ινώδη φυτά. Χρήσιμο για την κατασκευή δομών και όπλων. Είναι ένα καλό καύσιμο για φωτιές και γεννήτριες και μπορεί να διυλιστεί σε χημικά καύσιμα. Στην ανάγκη, ένα ξύλινο ραβδί μπορεί να χρησιμοποιηθεί ως όπλο ή πόδι.</WoodLog.description>
+  <!-- EN: wooden -->
+  <WoodLog.stuffProps.stuffAdjective>ξύλο</WoodLog.stuffProps.stuffAdjective>
+  <!-- EN: log -->
+  <WoodLog.tools.log.label>κούτσουρο</WoodLog.tools.log.label>
+  
+  <!-- EN: alpaca wool -->
   <WoolAlpaca.label>μαλλί αλπάκας</WoolAlpaca.label>
+  <!-- EN: The remarkably soft wool of an alpaca. It is very warm. -->
   <WoolAlpaca.description>Το εξαιρετικά μαλακό μαλλί μιας αλπάκας. Είναι πολύ ζεστό.</WoolAlpaca.description>
   <WoolAlpaca.stuffProps.stuffAdjective>μαλλί αλπάκας</WoolAlpaca.stuffProps.stuffAdjective>
-
-
+  
+  <!-- EN: camelhair -->
+  <WoolCamel.label>καμηλότριχα</WoolCamel.label>
+  <!-- EN: Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent heat insulation due to its thermostatic properties. -->
+  <WoolCamel.description>Τα ρούχα καμηλότριχας φοριούνται συνήθως από ταξιδιώτες στην έρημο για να τους προστατεύσουν από τη ζέστη. Παρέχει εξαιρετική μόνωση λόγω των θερμοστατικών ιδιοτήτων του.</WoolCamel.description>
+  <WoolCamel.stuffProps.stuffAdjective>καμηλότριχα</WoolCamel.stuffProps.stuffAdjective>
+  
+  <!-- EN: megasloth wool -->
+  <WoolMegasloth.label>μαλλί μεγαλοβραδύπους</WoolMegasloth.label>
+  <!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->
+  <WoolMegasloth.description>Ενώ κάπως χονδροειδείς, οι μακρές ίνες του μαλλιού του μεγαλοβραδύπους το καθιστούν πολύ ισχυρό. Είναι πολύ ζεστό.</WoolMegasloth.description>
+  <WoolMegasloth.stuffProps.stuffAdjective>μαλλί μεγαλοβραδύπους</WoolMegasloth.stuffProps.stuffAdjective>
+  
+  <!-- EN: muffalo wool -->
+  <WoolMuffalo.label>μαλλί μίσονα</WoolMuffalo.label>
+  <!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
+  <WoolMuffalo.description>Μαλακό, ελαφρύ και με πολύ καλή μόνωση. Τα μάλλινα ρούχα μπορούν να διατηρήσουν το σώμα ζεστό ακόμη και σε ακραίες συνθήκες.</WoolMuffalo.description>
+  <WoolMuffalo.stuffProps.stuffAdjective>μαλλί μίσονα</WoolMuffalo.stuffProps.stuffAdjective>
+  
 </LanguageData>

@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>damaged_inf->bite</li>
+    <li>damaged_inf->chomp</li>
+    <li>damaged_inf(p=0.5)->nip</li>
+    <li>damaged_past->bit</li>
+    <li>damaged_past->chomped</li>
+    <li>damaged_past->nipped</li>
+    <li>damaged_past->gnawed</li>
+    <li>damaged_past(deflected!=True)->tore</li>
+    <li>damaged_present->biting</li>
+    <li>damaged_present->chomping</li>
+    <li>damaged_present->nipped</li>
+    <li>damaged_present->gnawing</li>
+    <li>damaged_present(deflected!=True)->tearing</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->exposing the flesh underneath</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->exposing the machinery underneath</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving grisly tears in the skin</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->leaving grisly tears in the metal</li>
+    <li>destroyed_past->devoured</li>
+    <li>destroyed_past->separated</li>
+    <li>destroyed_past->ripped</li>
+    <li>destroyed_past->ravaged</li>
+    <li>destroyed_present->devouring</li>
+    <li>destroyed_present->separating</li>
+    <li>destroyed_present->ripping</li>
+    <li>destroyed_present->ravaging</li>
+    <li>destroyed_suffix->[to] shreds</li>
+    <li>destroyed_suffix->[to] pieces</li>
+    <li>destroyed_suffix->[to] strips</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] messy strips</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] an unrecognizable mess</li>
+  -->
+  <Maneuver_Bite.rulePack.rulesStrings><li>damaged_inf->δάγκωμα</li>
+    <li>damaged_inf->δαγκωνιά</li>
+    <li>damaged_inf(p=0.5)->κόψιμο</li>
+    <li>damaged_past->έκοψε</li>
+    <li>damaged_past->μάσησε</li>
+    <li>damaged_past->δάγκωσε</li>
+    <li>damaged_past->έφαγε</li>
+    <li>damaged_past(deflected!=True)->έσκισε</li>
+    <li>damaged_present->δαγκώνει</li>
+    <li>damaged_present->μασάει</li>
+    <li>damaged_present->κόβει</li>
+    <li>damaged_present->τρώει</li>
+    <li>damaged_present(deflected!=True)->σκίζει</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->αποκαλύπτει τη σάρκα από κάτω</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->αποκαλύπτει το μηχανισμό από κάτω</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->αφήνει ένα φρικαλέο σκίσιμο στο δέρμα</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->κάνει ένα αποκρουστικό σκίσιμο στο μέταλλο</li>
+    <li>destroyed_past->καταβρόχθισε</li>
+    <li>destroyed_past->διαμέλισε</li>
+    <li>destroyed_past->ξέσκισε</li>
+    <li>destroyed_past->ρήμαξε</li>
+    <li>destroyed_present->καταβροχθίζει</li>
+    <li>destroyed_present->διαμελίζει</li>
+    <li>destroyed_present->ξεσκίζει</li>
+    <li>destroyed_present->ρημάζει</li>
+    <li>destroyed_suffix->[to] κομματάκια</li>
+    <li>destroyed_suffix->[to] τεμάχια</li>
+    <li>destroyed_suffix->[to] λωρίδες</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] ακανόνιστες λωρίδες</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] ένα αγνώριστο χάλι</li></Maneuver_Bite.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] dodged out of the way.</li>
+    <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] blocked it.</li>
+  -->
+  <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings><li>r_logentry->[INITIATOR_definite] προσπαθεί να κλωτσήσει το [TOOL_label] στα μάτια [RECIPIENT_possessive] [RECIPIENT_definite], αλλά [RECIPIENT_definite] το απέφυγε.</li>
+    <li>r_logentry->[INITIATOR_definite]προσπαθεί να κλωτσήσει το [TOOL_label] στα μάτια [RECIPIENT_possessive], αλλά [RECIPIENT_definite] το απέκρουσε.</li></Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] kicked [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] kicked a spray of [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
+  -->
+  <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings><li>r_logentry->[INITIATOR_definite] κλώτσησε ένα [TOOL_label] στα μάτια [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] κλώτσησε ένα νέφος από [TOOL_label] στα μάτια [RECIPIENT_possessive] [RECIPIENT_definite].</li></Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but missed.</li>
+  -->
+  <Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings><li>r_logentry->[INITIATOR_definite] προσπάθησε να κλωτσήσει το [TOOL_label] στα μάτια [RECIPIENT_possessive] [RECIPIENT_definite], αλλά απέτυχε.</li></Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damaged_inf(p=2)->poke</li>
+    <li>damaged_inf(p=2)->jab</li>
+    <li>damaged_inf->prod</li>
+    <li>damaged_inf->shove</li>
+    <li>damaged_inf->stab</li>
+    <li>damaged_past(p=2)->poked</li>
+    <li>damaged_past(p=2)->jabbed</li>
+    <li>damaged_past->prodded</li>
+    <li>damaged_past->shoved</li>
+    <li>damaged_past->stabbed</li>
+    <li>damaged_present(p=2)->poking</li>
+    <li>damaged_present(p=2)->jabbing</li>
+    <li>damaged_present->prodding</li>
+    <li>damaged_present->shoving</li>
+    <li>damaged_present->stabbing</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving an enormous bruise</li>
+    <li>flavortext_consequence->leaving the area visibly deformed</li>
+    <li>flavortext_consequence->knocking [RECIPIENT_objective] off balance</li>
+    <li>flavortext_consequence->knocking [RECIPIENT_objective] to the side</li>
+    <li>destroyed_past->shattered</li>
+    <li>destroyed_past->crushed</li>
+    <li>destroyed_past->obliterated</li>
+    <li>destroyed_past->annihilated</li>
+    <li>destroyed_past->broke</li>
+    <li>destroyed_present->shattering</li>
+    <li>destroyed_present->crushing</li>
+    <li>destroyed_present->obliterating</li>
+    <li>destroyed_present->annihilating</li>
+    <li>destroyed_present->breaking</li>
+    <li>destroyed_suffix->[to] pieces</li>
+    <li>destroyed_suffix->[to] bits</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a fine mist</li>
+    <li>destroyed_suffix->[to] fragments</li>
+  -->
+  <Maneuver_Poke.rulePack.rulesStrings><li>damaged_inf(p=2)->σκούντημα</li>
+    <li>damaged_inf(p=2)->κέντρισμα</li>
+    <li>damaged_inf->σπρώξιμο</li>
+    <li>damaged_inf->χώσιμο</li>
+    <li>damaged_inf->κάρφωμα</li>
+    <li>damaged_past(p=2)->σκούντηξε</li>
+    <li>damaged_past(p=2)->κέντρισε</li>
+    <li>damaged_past->έσπρωξε</li>
+    <li>damaged_past->έχωσε</li>
+    <li>damaged_past->κάρφωσε</li>
+    <li>damaged_present(p=2)->σκουντάει</li>
+    <li>damaged_present(p=2)->κεντρίζει</li>
+    <li>damaged_present->σπρώχνει</li>
+    <li>damaged_present->χώνει</li>
+    <li>damaged_present->καρφώνει</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->αφήνει ένα μεγάλο μώλωπα</li>
+    <li>flavortext_consequence->αφήνει την περιοχή ορατά παραμορφωμένη</li>
+    <li>flavortext_consequence->[RECIPIENT_objective] βγάζει εκτός ισορροπίας</li>
+    <li>flavortext_consequence->[RECIPIENT_objective] πετάει στα πλάγια</li>
+    <li>destroyed_past->κομμάτιασε</li>
+    <li>destroyed_past->σύνθλιψε</li>
+    <li>destroyed_past->κατέστρεψε</li>
+    <li>destroyed_past->εξόντωσε</li>
+    <li>destroyed_past->έσπασε</li>
+    <li>destroyed_present->κομματιάζει</li>
+    <li>destroyed_present->συνθλίβει</li>
+    <li>destroyed_present->καταστρέφει</li>
+    <li>destroyed_present->εξοντώνει</li>
+    <li>destroyed_present->σπάει</li>
+    <li>destroyed_suffix->[to] κομμάτια</li>
+    <li>destroyed_suffix->[to] θραύσματα</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] σε ένα λεπτό νέφος</li>
+    <li>destroyed_suffix->[to] τμήματα</li></Maneuver_Poke.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>woundname->wound</li>
+    <li>woundname(p=0.3)->opening</li>
+    <li>flavortext_situation(recipient_flesh!=Mechanoid)->with blood dripping from the [woundname]</li>
+    <li>flavortext_situation->with fluids dripping from the [woundname]</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->and exposing the flesh underneath</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->and exposing the machinery underneath</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->and leaving a gory [woundname]</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] messy strips</li>
+    <li>destroyed_suffix->[to] strips</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] messy pieces</li>
+    <li>destroyed_suffix->[to] pieces</li>
+    <li>destroyed_suffix->[to] fragments</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a pile of gore</li>
+  -->
+  <Maneuver_Scratch.rulePack.rulesStrings><li>woundname->πληγή</li>
+    <li>woundname(p=0.3)->τραύμα</li>
+    <li>flavortext_situation(recipient_flesh!=Mechanoid)->με το αίμα να στάζει από [woundname]</li>
+    <li>flavortext_situation->με τα υγρά να στάζουν από [woundname]</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->και αποκαλύπτει το κρέας από κάτω</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->και φανερώνει τα εξαρτήματα από κάτω</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->και αφήνει ένα μεγάλο [woundname]</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] ακανόνιστες λωρίδες</li>
+    <li>destroyed_suffix->[to] λωρίδες</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] παραμορφωμένα κομμάτια</li>
+    <li>destroyed_suffix->[to] κομμάτια</li>
+    <li>destroyed_suffix->[to] θραύσματα</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] ένα πίδακα από πηκτό αίμα</li></Maneuver_Scratch.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damaged_inf(p=4)->scratch</li>
+    <li>damaged_inf(deflected!=True)->lacerate</li>
+    <li>damaged_inf(deflected!=True)->tear</li>
+    <li>damaged_inf->cut</li>
+    <li>damaged_past(p=4)->scratched</li>
+    <li>damaged_past(deflected!=True)->lacerated</li>
+    <li>damaged_past(deflected!=True)->tore</li>
+    <li>damaged_past->cut</li>
+    <li>damaged_present->scratching</li>
+    <li>damaged_present(deflected!=True)->lacerating</li>
+    <li>damaged_present(deflected!=True)->tearing</li>
+    <li>damaged_present->cutting</li>
+    <li>destroyed_past->mauled</li>
+    <li>destroyed_past->lacerated</li>
+    <li>destroyed_past->tore off</li>
+    <li>destroyed_past->shredded</li>
+    <li>destroyed_past->ripped</li>
+    <li>destroyed_present->mauling</li>
+    <li>destroyed_present->lacerating</li>
+    <li>destroyed_present->tearing off</li>
+    <li>destroyed_present->shredding</li>
+    <li>destroyed_present->ripping</li>
+  -->
+  <Maneuver_Scratch_Damage.rulePack.rulesStrings><li>damaged_inf(p=4)->γδάρσιμο</li>
+    <li>damaged_inf(deflected!=True)->σκίσιμο</li>
+    <li>damaged_inf(deflected!=True)->αμυχή</li>
+    <li>damaged_inf->κόψιμο</li>
+    <li>damaged_past(p=4)->έγδαρε</li>
+    <li>damaged_past(deflected!=True)->έσκισε</li>
+    <li>damaged_past(deflected!=True)->έκανε αμυχή</li>
+    <li>damaged_past->έκοψε</li>
+    <li>damaged_present->γδέρνει</li>
+    <li>damaged_present(deflected!=True)->σκίζει</li>
+    <li>damaged_present(deflected!=True)->κάνει αμυχή</li>
+    <li>damaged_present->κόβει</li>
+    <li>destroyed_past->κατασπάραξε</li>
+    <li>destroyed_past->κομμάτιασε</li>
+    <li>destroyed_past->έσκισε</li>
+    <li>destroyed_past->ξέσκισε</li>
+    <li>destroyed_past->τεμάχισε</li>
+    <li>destroyed_present->κατασπαράζει</li>
+    <li>destroyed_present->κομματιάζει</li>
+    <li>destroyed_present->σκίζει</li>
+    <li>destroyed_present->ξεσκίζει</li>
+    <li>destroyed_present->τεμαχίζει</li></Maneuver_Scratch_Damage.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damaged_inf(p=4)->slash</li>
+    <li>damaged_inf->cut</li>
+    <li>damaged_inf->chop</li>
+    <li>damaged_inf->hack</li>
+    <li>damaged_inf->slice</li>
+    <li>damaged_inf(deflected!=True)->gash</li>
+    <li>damaged_past(p=4)->slashed</li>
+    <li>damaged_past->cut</li>
+    <li>damaged_past->chopped</li>
+    <li>damaged_past->hacked</li>
+    <li>damaged_past->sliced</li>
+    <li>damaged_past(deflected!=True)->gashed</li>
+    <li>damaged_present->slashing</li>
+    <li>damaged_present->cutting</li>
+    <li>damaged_present->slicing</li>
+    <li>damaged_present(deflected!=True)->gashing</li>
+    <li>damaged_present(deflected!=True)->tearing</li>
+    <li>damaged_present(deflected!=True)->lacerating</li>
+    <li>woundname->wound</li>
+    <li>woundname(p=0.3)->opening</li>
+    <li>flavortext_situation(recipient_flesh!=Mechanoid)->with blood dripping from the [woundname]</li>
+    <li>flavortext_situation->with fluids dripping from the [woundname]</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->exposing the flesh underneath</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->exposing the machinery underneath</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving a gory [woundname]</li>
+    <li>destroyed_past->bisected</li>
+    <li>destroyed_past->divided</li>
+    <li>destroyed_past->halved</li>
+    <li>destroyed_past->separated</li>
+    <li>destroyed_past->split</li>
+    <li>destroyed_present->bisecting</li>
+    <li>destroyed_present->dividing</li>
+    <li>destroyed_present->halving</li>
+    <li>destroyed_present->separating</li>
+    <li>destroyed_present->splitting</li>
+    <li>destroyed_suffix->into neat pieces</li>
+    <li>destroyed_suffix->cleanly</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->exposing its inner workings</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->slicing it in twain</li>
+  -->
+  <Maneuver_Slash.rulePack.rulesStrings><li>damaged_inf(p=4)->πετσόκομμα</li>
+    <li>damaged_inf->κόψιμο</li>
+    <li>damaged_inf->τεμάχισμα</li>
+    <li>damaged_inf->πελέκισμα</li>
+    <li>damaged_inf->κομμάτιασμα</li>
+    <li>damaged_inf(deflected!=True)->χαράκωμα</li>
+    <li>damaged_past(p=4)->πετσόκοψε</li>
+    <li>damaged_past->έκοψε</li>
+    <li>damaged_past->τεμάχισε</li>
+    <li>damaged_past->πελέκισε</li>
+    <li>damaged_past->κομμάτιασε</li>
+    <li>damaged_past(deflected!=True)->χαράκωσε</li>
+    <li>damaged_present->πετσοκόβει</li>
+    <li>damaged_present->κόβει</li>
+    <li>damaged_present->πελεκάει</li>
+    <li>damaged_present(deflected!=True)->χαρακώνει</li>
+    <li>damaged_present(deflected!=True)->σκίζει</li>
+    <li>damaged_present(deflected!=True)->κατακόβει</li>
+    <li>woundname->πληγή</li>
+    <li>woundname(p=0.3)->τραύμα</li>
+    <li>flavortext_situation(recipient_flesh!=Mechanoid)->με αίμα να τρέχει από [woundname]</li>
+    <li>flavortext_situation->με υγρά να αναπηδούν από [woundname]</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->ξεγυμνώνει τη σάρκα από κάτω</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->εμφανίζει τους μηχανισμούς από κάτω</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->κάνει μια σπουδαία [woundname]</li>
+    <li>destroyed_past->διχοτόμησε</li>
+    <li>destroyed_past->διαμέλισε</li>
+    <li>destroyed_past->έκοψε στα δύο</li>
+    <li>destroyed_past->διαχώρισε</li>
+    <li>destroyed_past->τεμάχισε</li>
+    <li>destroyed_present->διχοτομεί</li>
+    <li>destroyed_present->διαμελίζει</li>
+    <li>destroyed_present->κόβει στα δύο</li>
+    <li>destroyed_present->διαχωρίζει</li>
+    <li>destroyed_present->τεμαχίζει</li>
+    <li>destroyed_suffix->σε κομψά κομμάτια</li>
+    <li>destroyed_suffix->καθαρά</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->εκθέτει την εσωτερική λειτουργία του</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->κόβει σε δύο φέτες</li></Maneuver_Slash.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving an enormous bruise</li>
+    <li>flavortext_consequence->leaving the area visibly deformed</li>
+    <li>flavortext_consequence->knocking [RECIPIENT_objective] off balance</li>
+    <li>flavortext_consequence->knocking [RECIPIENT_objective] to the side</li>
+    <li>destroyed_suffix->[to] pieces</li>
+    <li>destroyed_suffix->[to] bits</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a fine mist</li>
+    <li>destroyed_suffix->[to] fragments</li>
+  -->
+  <Maneuver_Smash.rulePack.rulesStrings><li>flavortext_consequence(recipient_flesh!=Mechanoid)->αφήνει έναν τεράστιο μώλωπα</li>
+    <li>flavortext_consequence->αφήνει την περιοχή εμφανές παραμορφωμένη</li>
+    <li>flavortext_consequence->[RECIPIENT_objective] ξαπλώνει κάτω</li>
+    <li>flavortext_consequence->[RECIPIENT_objective] ρίχνει στο πλάι</li>
+    <li>destroyed_suffix->[to] κομμάτια</li>
+    <li>destroyed_suffix->[to] κομματάκια</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] μια λεπτή σκόνη</li>
+    <li>destroyed_suffix->[to] θραύσματα</li></Maneuver_Smash.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damaged_inf(p=4)->smash</li>
+    <li>damaged_inf->bash</li>
+    <li>damaged_inf->clobber</li>
+    <li>damaged_inf->slam</li>
+    <li>damaged_inf->strike</li>
+    <li>damaged_past(p=4)->smashed</li>
+    <li>damaged_past->bashed</li>
+    <li>damaged_past->clobbered</li>
+    <li>damaged_past->slammed</li>
+    <li>damaged_past->struck</li>
+    <li>damaged_present->smashing</li>
+    <li>damaged_present->bashing</li>
+    <li>damaged_present->clobbering</li>
+    <li>damaged_present(deflected!=True)->bruising</li>
+    <li>damaged_present(deflected!=True)->lacerating</li>
+    <li>destroyed_past->shattered</li>
+    <li>destroyed_past->crushed</li>
+    <li>destroyed_past->obliterated</li>
+    <li>destroyed_past->annihilated</li>
+    <li>destroyed_past->broke</li>
+    <li>destroyed_present->shattering</li>
+    <li>destroyed_present->crushing</li>
+    <li>destroyed_present->obliterating</li>
+    <li>destroyed_present->annihilating</li>
+    <li>destroyed_present->breaking</li>
+  -->
+  <Maneuver_Smash_Damage.rulePack.rulesStrings><li>damaged_inf(p=4)->σπάσιμο</li>
+    <li>damaged_inf->κοπάνιμα</li>
+    <li>damaged_inf->βάρεμα</li>
+    <li>damaged_inf->βρόντιγμα</li>
+    <li>damaged_inf->κτύπημα</li>
+    <li>damaged_past(p=4)->έσπασε</li>
+    <li>damaged_past->κοπάνισε</li>
+    <li>damaged_past->βάρεσε</li>
+    <li>damaged_past->βρόντηξε</li>
+    <li>damaged_past->κτύπησε</li>
+    <li>damaged_present->σπάει</li>
+    <li>damaged_present->κοπανάει</li>
+    <li>damaged_present->βαράει</li>
+    <li>damaged_present(deflected!=True)->μελανιάζει</li>
+    <li>damaged_present(deflected!=True)->γδέρνει</li>
+    <li>destroyed_past->κομμάτιασε</li>
+    <li>destroyed_past->σύνθλιψε</li>
+    <li>destroyed_past->κατέστρεψε</li>
+    <li>destroyed_past->εξολόθρευσε</li>
+    <li>destroyed_past->έσπασε</li>
+    <li>destroyed_present->κομματιάζει</li>
+    <li>destroyed_present->συνθλίβει</li>
+    <li>destroyed_present->καταστρέφει</li>
+    <li>destroyed_present->εξολοθρεύει</li>
+    <li>destroyed_present->σπάει</li></Maneuver_Smash_Damage.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damaged_inf(p=4)->stab</li>
+    <li>damaged_inf->jab</li>
+    <li>damaged_inf(deflected!=True)->pierce</li>
+    <li>damaged_inf(deflected!=True)->puncture</li>
+    <li>damaged_inf(deflected!=True)->skewer</li>
+    <li>damaged_past(p=4)->stabbed</li>
+    <li>damaged_past->jabbed</li>
+    <li>damaged_past(deflected!=True)->pierced</li>
+    <li>damaged_past(deflected!=True)->punctured</li>
+    <li>damaged_past(deflected!=True)->skewered</li>
+    <li>damaged_present(deflected!=True)->piercing</li>
+    <li>damaged_present(deflected!=True)->puncturing</li>
+    <li>damaged_present(deflected!=True)->penetrating</li>
+    <li>damaged_present(deflected!=True)->skewering</li>
+    <li>woundname->hole</li>
+    <li>woundname->wound</li>
+    <li>woundname->crevice</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving a bloody [woundname]</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving a torn [woundname]</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving a bleeding [woundname]</li>
+    <li>destroyed_past->impaled</li>
+    <li>destroyed_past->perforated</li>
+    <li>destroyed_past->skewered</li>
+    <li>destroyed_present->impaling</li>
+    <li>destroyed_present->perforating</li>
+    <li>destroyed_present->skewering</li>
+    <li>destroyed_suffix->straight through</li>
+    <li>destroyed_suffix->leaving a clean hole</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid,target_part_destroyed_count==1)->leaving it leaking gory fluids</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->leaving it leaking unrecognizable fluids</li>
+  -->
+  <Maneuver_Stab.rulePack.rulesStrings><li>damaged_inf(p=4)->κάρφωμα</li>
+    <li>damaged_inf->τρύπημα</li>
+    <li>damaged_inf(deflected!=True)->διάτρηση</li>
+    <li>damaged_inf(deflected!=True)->παρακέντηση</li>
+    <li>damaged_inf(deflected!=True)->σούβλισμα</li>
+    <li>damaged_past(p=4)->κάρφωσε</li>
+    <li>damaged_past->τρύπησε</li>
+    <li>damaged_past(deflected!=True)->έκανε διάτρηση</li>
+    <li>damaged_past(deflected!=True)->παρακέντησε</li>
+    <li>damaged_past(deflected!=True)->σούβλισε</li>
+    <li>damaged_present(deflected!=True)->τρυπά</li>
+    <li>damaged_present(deflected!=True)->παρακεντίζει</li>
+    <li>damaged_present(deflected!=True)->διαπερνάει</li>
+    <li>damaged_present(deflected!=True)->σουβλίζει</li>
+    <li>woundname->τρύπα</li>
+    <li>woundname->πληγή</li>
+    <li>woundname->σχισμή</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->αφήνει μία ματωμένη [woundname]</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->αφήνει μία σχισμένη [woundname]</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->κάνει μία [woundname] που αιμορραγεί</li>
+    <li>destroyed_past->παλούκωσε</li>
+    <li>destroyed_past->διαπέρασε</li>
+    <li>destroyed_past->σούβλισε</li>
+    <li>destroyed_present->παλουκώνει</li>
+    <li>destroyed_present->διαπερνά</li>
+    <li>destroyed_present->σουβλίζει</li>
+    <li>destroyed_suffix->κατευθείαν</li>
+    <li>destroyed_suffix->αφήνει μία καθαρή τρύπα</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid,target_part_destroyed_count==1)->αφήνοντας να ξεχυθούν αιματοβαμμένα υγρά</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->δημιουργώντας μια διαρροή μη αναγνωρίσιμων υγρών</li></Maneuver_Stab.rulePack.rulesStrings>
+  
+</LanguageData>

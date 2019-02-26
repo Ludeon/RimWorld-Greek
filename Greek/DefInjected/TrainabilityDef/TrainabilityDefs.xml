@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced -->
+  <Advanced.label>προχωρημένη</Advanced.label>
+  
+  <!-- EN: intermediate -->
+  <Intermediate.label>κανονική</Intermediate.label>
+  
+  <!-- EN: none -->
+  <None.label>καμία</None.label>
+  
+  <!-- EN: simple -->
+  <Simple.label>απλή</Simple.label>
+  
+</LanguageData>

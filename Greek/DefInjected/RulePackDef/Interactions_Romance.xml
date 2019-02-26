@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] agreed and the two are now engaged.</li>
+  -->
+  <Sentence_MarriageProposalAccepted.rulePack.rulesStrings><li>sent->[RECIPIENT_nameDef] συμφώνησε να αρραβωνιαστούν και οι δύο τώρα.</li></Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] rejected the proposal.</li>
+  -->
+  <Sentence_MarriageProposalRejected.rulePack.rulesStrings><li>sent->[RECIPIENT_nameDef] απέρριψε την πρόταση.</li></Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->It was too much for the relationship to continue, and the two have now broken up.</li>
+  -->
+  <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings><li>sent->Ήταν πολύ δύσκολο να συνεχίσει η σχέσης τους, και τώρα οι δύο του έχουν χωρίσει.</li></Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] was attracted and is now [INITIATOR_nameDef]'s lover.</li>
+    <li>sent->[RECIPIENT_nameDef] responded well and is now [INITIATOR_nameDef]'s lover.</li>
+    <li>sent->[RECIPIENT_nameDef] became aroused and agreed to become [INITIATOR_nameDef]'s lover.</li>
+  -->
+  <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings><li>sent->[RECIPIENT_nameDef] γοητεύτηκε και είναι τώρα εραστής [INITIATOR_possessive] [INITIATOR_nameDef].</li>
+    <li>sent->[RECIPIENT_nameDef] ανταποκρίθηκε θετικά και τώρα είναι με [INITIATOR_objective] [INITIATOR_nameDef] εραστές.</li>
+    <li>sent->[RECIPIENT_nameDef] ερεθίστηκε και συμφώνησε να γίνει εραστής [INITIATOR_possessive] [INITIATOR_nameDef].</li></Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] rejected the advance.</li>
+    <li>sent->[RECIPIENT_nameDef] ignored the advance.</li>
+    <li>sent->[RECIPIENT_nameDef] turned [RECIPIENT_possessive] back.</li>
+    <li>sent->[RECIPIENT_nameDef] turned away.</li>
+    <li>sent->[RECIPIENT_nameDef] gave a minimal response.</li>
+    <li>sent->[RECIPIENT_nameDef] did not respond.</li>
+    <li>sent->[RECIPIENT_nameDef] turned [INITIATOR_objective] down.</li>
+  -->
+  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings><li>sent->[RECIPIENT_nameDef] αρνήθηκε την πρόταση.</li>
+    <li>sent->[RECIPIENT_nameDef] αγνόησε την πρόταση.</li>
+    <li>sent->[RECIPIENT_nameDef] [RECIPIENT_possessive] γύρισε την πλάτη.</li>
+    <li>sent->[RECIPIENT_nameDef] έφυγε μακριά.</li>
+    <li>sent->[RECIPIENT_nameDef] έδωσε μια ασήμαντη απάντηση.</li>
+    <li>sent->[RECIPIENT_nameDef] δεν ανταποκρίθηκε.</li>
+    <li>sent->[RECIPIENT_nameDef] [INITIATOR_objective] αγνόησε.</li></Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+  
+</LanguageData>

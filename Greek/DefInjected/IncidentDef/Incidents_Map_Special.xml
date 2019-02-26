@@ -1,31 +1,32 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Πτώση Τμήματος Διαστημοπλοίου (ShipChunkDrop) -->
-
-  <ShipChunkDrop.label>πτώση τμήματος διαστημοπλοίου</ShipChunkDrop.label>
-
-
-  <!-- Τροχιακοί Επισκέπτες (OrbitalVisitor) -->
-
+  
+  <!-- EN: orbital trader arrival -->
   <OrbitalTraderArrival.label>άφιξη τροχιακού εμπόρου</OrbitalTraderArrival.label>
-
-
-  <!-- Άφιξη Συμμάχου (AllyArrival) -->
-
-  <TraderCaravanArrival.label>άφιξη εμπορικού καραβανιού</TraderCaravanArrival.label>
-  <VisitorGroup.label>ομάδα επισκεπτών</VisitorGroup.label>
-  <TravelerGroup.label>παρέα ταξιδιωτών</TravelerGroup.label>
-
-
-  <!-- Συμμαχική Βοήθεια (AllyAssistance) -->
-
+  
+  <!-- EN: enemy raid (special locations) -->
+  <RaidEnemyBeacon.label>εχθρική επιδρομή (ειδική τοποθεσία)</RaidEnemyBeacon.label>
+  
+  <!-- EN: friendly raid -->
   <RaidFriendly.label>φιλική επιδρομή</RaidFriendly.label>
-
-
-  <!-- Γεγονότα από επιδρομές που προσέλκυσε ο φαροπομπός (Raid-beacon-attracted events) -->
-
-  <RaidEnemyEscapeShip.label>εχθρική εισβολή</RaidEnemyEscapeShip.label>
-
-
+  
+  <!-- EN: ship chunk drop -->
+  <ShipChunkDrop.label>σμπαράλια διαστημοπλοίου</ShipChunkDrop.label>
+  
+  <!-- EN: man in black -->
+  <StrangerInBlackJoin.label>τύπος στα μαύρα</StrangerInBlackJoin.label>
+  <!-- EN: Man in black -->
+  <StrangerInBlackJoin.letterLabel>Άνθρωπος με μαύρα</StrangerInBlackJoin.letterLabel>
+  <!-- EN: Sensing trouble, a mysterious [PAWN_kind] has arrived.\n\nWill [PAWN_pronoun] be able to set things right in these parts? -->
+  <StrangerInBlackJoin.letterText>Μοιραζόμαστε μπελάδες, ένα μυστηριώδες [PAWN_kind] έχει καταφτάσει.\n\nΘα μπορέσει [PAWN_pronoun] να ρυθμίσει σωστά τα πράγματα σε αυτά τα τμήματα;</StrangerInBlackJoin.letterText>
+  
+  <!-- EN: trader caravan arrival -->
+  <TraderCaravanArrival.label>άφιξη εμπορικού καραβανιού</TraderCaravanArrival.label>
+  
+  <!-- EN: traveler group -->
+  <TravelerGroup.label>ομάδα ταξιδιωτών</TravelerGroup.label>
+  
+  <!-- EN: visitor group -->
+  <VisitorGroup.label>ομάδα επισκεπτών</VisitorGroup.label>
+  
 </LanguageData>

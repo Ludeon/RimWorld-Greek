@@ -1,49 +1,78 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- φίλτρα πιονιών παίχτη (player pawn filters) -->
-
-  <GameStartDialog.label>κείμενο εκκίνησης παιχνιδιού</GameStartDialog.label>
-  <PawnFilter_Age.label>επιτρεπόμενο εύρος ηλικιών</PawnFilter_Age.label>
-
-
-  <!-- τροποποητής πιονιού παίχτη (player pawn modifier) -->
-
-  <OnPawnDeathExplode.label>έκρηξη χαρακτήρων όταν πεθαίνουν</OnPawnDeathExplode.label>
-  <ForcedTrait.label>αναγκαστικό χαρακτηριστικό</ForcedTrait.label>
-  <ForcedHediff.label>αναγκαστική κατάσταση υγείας</ForcedHediff.label>
-  <SetNeedLevel.label>ορισμός επίπεδου αναγκών</SetNeedLevel.label>
-  <StartingResearch.label>εκκίνηση με έρευνα</StartingResearch.label>
-  <GameCondition_Planetkiller.label>ερχομός όπλου καταστροφέα πλανητών</GameCondition_Planetkiller.label>
-
-
-  <!-- αλλαγές κανόνων (rules changes) -->
-
-  <Rule_DisallowDesignator_ZoneAdd_Growing.label>απαγόρευση σποράς</Rule_DisallowDesignator_ZoneAdd_Growing.label>
-  <Rule_DisallowDesignator_ZoneAdd_Growing.description>Δεν επιτρέπετε η σπορά φυτών στο έδαφος.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
-
-  <Rule_DisallowDesignator_Mine.label>απαγόρευση εξόρυξης</Rule_DisallowDesignator_Mine.label>
-  <Rule_DisallowDesignator_Mine.description>Δεν επιτρέπετε να κάνουν εξόρυξη.</Rule_DisallowDesignator_Mine.description>
-
-  <Rule_DisallowDesignator_Hunt.label>απαγόρευση κυνηγιού</Rule_DisallowDesignator_Hunt.label>
-  <Rule_DisallowDesignator_Hunt.description>Δεν επιτρέπετε να κυνηγήσουν.</Rule_DisallowDesignator_Hunt.description>
-
-  <Rule_DisallowDesignator_Tame.label>απαγόρευση εξημέρωσης</Rule_DisallowDesignator_Tame.label>
-  <Rule_DisallowDesignator_Tame.description>Δεν επιτρέπετε η εξημέρωση ζώων.</Rule_DisallowDesignator_Tame.description>
-
-  <StatFactor.label>πολλαπλασιαστής ιδιοτήτων</StatFactor.label>
-
-
-  <!-- ομαδοποίηση (grouped) -->
-
-  <DisableIncident.label>απενεργοποίηση συμβάντων</DisableIncident.label>
+  
+  <!-- EN: create incident -->
   <CreateIncident.label>δημιουργία συμβάντος</CreateIncident.label>
-  <Rule_DisallowBuilding.label>απαγόρευση κατασκευών</Rule_DisallowBuilding.label>
+  
+  <!-- EN: disable incident -->
+  <DisableIncident.label>απενεργοποίηση συμβάντων</DisableIncident.label>
+  
+  <!-- EN: forced health condition -->
+  <ForcedHediff.label>αναγκαστική κατάσταση υγείας</ForcedHediff.label>
+  
+  <!-- EN: forced trait -->
+  <ForcedTrait.label>αναγκαστικό χαρακτηριστικό</ForcedTrait.label>
+  
+  <!-- EN: planetkiller weapon incoming -->
+  <GameCondition_Planetkiller.label>ερχομός του όπλου καταστροφέα πλανητών</GameCondition_Planetkiller.label>
+  
+  <!-- EN: game start dialog -->
+  <GameStartDialog.label>κείμενο εκκίνησης παιχνιδιού</GameStartDialog.label>
+  
+  <!-- EN: naked -->
+  <Naked.label>γυμνός</Naked.label>
+  
+  <!-- EN: characters explode on death -->
+  <OnPawnDeathExplode.label>έκρηξη χαρακτήρων όταν πεθαίνουν</OnPawnDeathExplode.label>
+  
+  <!-- EN: allowed age range -->
+  <PawnFilter_Age.label>επιτρεπόμενο εύρος ηλικιών</PawnFilter_Age.label>
+  
+  <!-- EN: permanent game condition -->
   <PermanentGameCondition.label>μόνιμες συνθήκες παιχνιδιού</PermanentGameCondition.label>
-  <StartingAnimal.label>εκκίνηση με ζώα</StartingAnimal.label>
-  <StartingThing_Defined.label>εκκίνηση με</StartingThing_Defined.label>
-  <ScatterThingsNearPlayerStart.label>εκκίνηση κοντά</ScatterThingsNearPlayerStart.label>
+  
+  <!-- EN: disallow building -->
+  <Rule_DisallowBuilding.label>απαγόρευση κατασκευών</Rule_DisallowBuilding.label>
+  
+  <!-- EN: cannot hunt -->
+  <Rule_DisallowDesignator_Hunt.label>απαγόρευση κυνηγιού</Rule_DisallowDesignator_Hunt.label>
+  <!-- EN: Cannot hunt. -->
+  <Rule_DisallowDesignator_Hunt.description>Δεν επιτρέπετε να κυνηγήσουν.</Rule_DisallowDesignator_Hunt.description>
+  
+  <!-- EN: cannot mine -->
+  <Rule_DisallowDesignator_Mine.label>απαγόρευση εξόρυξης</Rule_DisallowDesignator_Mine.label>
+  <!-- EN: Cannot mine. -->
+  <Rule_DisallowDesignator_Mine.description>Δεν επιτρέπετε να κάνουν εξόρυξη.</Rule_DisallowDesignator_Mine.description>
+  
+  <!-- EN: cannot tame -->
+  <Rule_DisallowDesignator_Tame.label>απαγόρευση εξημέρωσης</Rule_DisallowDesignator_Tame.label>
+  <!-- EN: Cannot tame animals. -->
+  <Rule_DisallowDesignator_Tame.description>Δεν επιτρέπετε η εξημέρωση ζώων.</Rule_DisallowDesignator_Tame.description>
+  
+  <!-- EN: cannot sow -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>απαγόρευση σποράς</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <!-- EN: Cannot sow plants on the ground. -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>Δεν επιτρέπετε η σπορά φυτών στο έδαφος.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  
+  <!-- EN: scattered randomly -->
   <ScatterThingsAnywhere.label>διάσπαρτα τυχαία</ScatterThingsAnywhere.label>
-
-
+  
+  <!-- EN: start near -->
+  <ScatterThingsNearPlayerStart.label>εκκίνηση κοντά</ScatterThingsNearPlayerStart.label>
+  
+  <!-- EN: set need level -->
+  <SetNeedLevel.label>ορισμός επίπεδου αναγκών</SetNeedLevel.label>
+  
+  <!-- EN: start with animal(s) -->
+  <StartingAnimal.label>εκκίνηση με ζώα</StartingAnimal.label>
+  
+  <!-- EN: start with research -->
+  <StartingResearch.label>εκκίνηση με έρευνα</StartingResearch.label>
+  
+  <!-- EN: start with -->
+  <StartingThing_Defined.label>εκκίνηση με</StartingThing_Defined.label>
+  
+  <!-- EN: stat multiplier -->
+  <StatFactor.label>πολλαπλασιαστής ιδιοτήτων</StatFactor.label>
+  
 </LanguageData>

@@ -1,26 +1,42 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Mood.label>διάθεση</Mood.label>
-  <Mood.description>Η διάθεση αντιπροσωπεύει πόσο χαρούμενος ή αγχωμένος είναι κάποιος. Εάν η διάθεση είναι πολύ χαμηλή, το άτομο μπορεί να υποστεί ψυχική κατάρρευση. Υπάρχουν διάφορες κατηγορίες ψυχικών καταρρεύσεων, διαφορετικής σοβαρότητας.</Mood.description>
-
-  <Food.label>τροφή</Food.label>
-  <Food.description>Το φαγητό είναι η ποσότητα των θρεπτικών συστατικών που έχει καταναλώσει ένα πλάσμα πρόσφατα. Αν είναι στο μηδέν, το πλάσμα θα γίνει όλο και περισσότερο υποσιτισμένο και τελικά θα πεθάνει.</Food.description>
-
-  <Rest.label>ξεκούραση</Rest.label>
-  <Rest.description>Η ξεκούραση είναι πόσο έχει κοιμηθεί ένα πλάσμα πρόσφατα.</Rest.description>
-
-  <Joy.label>χαρά</Joy.label>
-  <Joy.description>Η χαρά αντιπροσωπεύει την ανάγκη να κάνουμε κάτι ευχάριστο από ώρα σε ώρα. Σημειώστε ότι η επανάληψη του ίδιου είδους δραστηριότητας καθιστά λιγότερο αποτελεσματική την επίτευξη χαράς.</Joy.description>
-
+  
+  <!-- EN: beauty -->
   <Beauty.label>ομορφιά</Beauty.label>
-  <Beauty.description>Η ομορφιά αντικατοπτρίζει πόσο ευχάριστο βρήκε το περιβάλλον του ένα άτομο πρόσφατα.</Beauty.description>
-
+  <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
+  <Beauty.description>Η ομορφιά αντικατοπτρίζει πόσο ευχάριστο βρήκε το περιβάλλον του ένα άτομο πρόσφατα. Όμορφα πράγματα όπως η τέχνη βελτιώνουν την ομορφιά όταν τα βλέπει, ενώ άσχημα πράγματα όπως η βρωμιά και οι ακατέργαστες πέτρινες επιφάνειες τη μειώνουν.</Beauty.description>
+  
+  <!-- EN: comfort -->
   <Comfort.label>άνεση</Comfort.label>
-  <Comfort.description>Η άνεση κερδίζεται από το να κάθεστε ή να κοιμάστε σε άνετα έπιπλα.</Comfort.description>
-
-  <Space.label>χώρος</Space.label>
-  <Space.description>Ο χώρος αντικατοπτρίζει την αίσθηση της σωματικής ελευθερίας και κατά πόσο μπορείτε να κινηθείτε. Βλάπτεται με το να περνάτε παρατεταμένες περιόδους σε περιορισμένα δωμάτια.</Space.description>
-
-
+  <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
+  <Comfort.description>Η άνεση κερδίζεται από το να κάθεστε ή να κοιμάστε σε άνετα έπιπλα. Υπολογίζεται όταν ξαπλώνετε στο κρεβάτι, κάθεστε σε μια καρέκλα ενώ εργάζεστε ή και άλλες φορές.</Comfort.description>
+  
+  <!-- EN: food -->
+  <Food.label>τροφή</Food.label>
+  <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
+  <Food.description>Το φαγητό είναι η ποσότητα των θρεπτικών συστατικών που έχει καταναλώσει ένα πλάσμα πρόσφατα. Αν είναι στο μηδέν, το πλάσμα θα γίνει όλο και περισσότερο υποσιτισμένο και τελικά θα πεθάνει.</Food.description>
+  
+  <!-- EN: recreation -->
+  <Joy.label>χαρά</Joy.label>
+  <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
+  <Joy.description>Η χαρά αντιπροσωπεύει την ανάγκη να διασκέδαση. Η επανάληψη του ίδιου είδους δραστηριότητας τη καθιστά λιγότερο διασκεδαστική, οπότε η ποικιλία είναι απαραίτητη.</Joy.description>
+  
+  <!-- EN: mood -->
+  <Mood.label>διάθεση</Mood.label>
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may hide in his room for a day, or may go on a murder spree. -->
+  <Mood.description>Η διάθεση αντιπροσωπεύει πόσο χαρούμενος ή αγχωμένος είναι κάποιος. Εάν η διάθεση είναι πολύ χαμηλή, το άτομο μπορεί να υποστεί ψυχική κατάρρευση. Ανάλογα με το πόσο χαμηλή είναι η διάθεσή του, κάποιος που έχει μία ψυχολογική κατάρρευση  μπορεί να κρυφτεί στο δωμάτιό του για μια μέρα ή μπορεί να εκδηλώσει άγρια δολοφονικά ένστικτα.</Mood.description>
+  
+  <!-- EN: outdoors -->
+  <Outdoors.label>εξωτ. δραστηρ.</Outdoors.label>
+  <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
+  <Outdoors.description>Οι εξωτερικές δραστηριότητες εκφράζουν την ανάγκη να μην υπάρχει εγκλεισμός μέσα. Χειροτερεύει όταν υπάρχουν μεγάλα χρονικά διαστήματα και ειδικά κάτω από το έδαφος. Βελτιώνει όταν κάποιος ξοδεύει χρόνο κάτω από τον ουρανό, ειδικά σε εξωτερικούς χώρους. Δεν πρόκειται για το μέγεθος των δωματίων, αλλά για την ανάγκη να είναι έξω κάποιες στιγμές. Η έλλειψη χρόνου σε εξωτερικούς χώρους είναι μια σημαντική πρόκληση για τους ανθρώπους που κατοικούν σε υπόγειες βάσεις.</Outdoors.description>
+  
+  <!-- EN: rest -->
+  <Rest.label>ξεκούραση</Rest.label>
+  <!-- EN: Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
+  <Rest.description>Η ξεκούραση είναι πόσο έχει κοιμηθεί ένα πλάσμα πρόσφατα. Αν πέσει στο μηδέν, το πλάσμα τελικά θα κοιμηθεί επιτόπου.</Rest.description>
+  
+  <!-- EN: room size -->
+  <RoomSize.label>μέγεθος δωματίου</RoomSize.label>
+  
 </LanguageData>

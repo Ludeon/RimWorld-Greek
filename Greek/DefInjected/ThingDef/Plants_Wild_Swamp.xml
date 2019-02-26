@@ -1,17 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <PlantTreeWillow.label>ιτέα</PlantTreeWillow.label>
-  <PlantTreeWillow.description>Ένα από τα ταχύτερα αναπτυσσόμενα δέντρα της σκιάς παρέχει ένα όμορφο, παχύ, φυλλώδη θόλο. Δεν παράγει πολύ χρήσιμο ξύλο.</PlantTreeWillow.description>
-
-  <PlantTreeCypress.label>κυπαρίσσι</PlantTreeCypress.label>
-  <PlantTreeCypress.description>Ένα ψηλό, αργά αναπτυσσόμενο δέντρο. Συνήθως βρίσκονται σε βάλτους. Παρά την αργή ανάπτυξή του, η φύτευση αυτών των δένδρων μπορεί να είναι κερδοφόρα επειδή παράγει πολύ χρήσιμο ξύλο.</PlantTreeCypress.description>
-
-  <PlantTreeMaple.label>σφένδαμνος</PlantTreeMaple.label>
-  <PlantTreeMaple.description>Ένα κοινό, μεσαίου μεγέθους δέντρο. Συχνά βρίσκεται σε βάλτους και σε υγρό έδαφος.</PlantTreeMaple.description>
-
-  <PlantChokevine.label>περικοκλάδα</PlantChokevine.label>
-  <PlantChokevine.description>Πυκνός θάμνος που επιβραδύνει τον καθένα που κινείται πάνω του.</PlantChokevine.description>
-
-
+  
+  <!-- EN: chokevine -->
+  <Plant_Chokevine.label>περικοκλάδα</Plant_Chokevine.label>
+  <!-- EN: Tangled masses of cord-like, spiky vines which coil in great masses along the ground. Chokevine greatky slows down anyone who moves over it. Multiple tribes have independently generated stories of chokevine strangling children to death in the night, as a way to scare kids into coming home before dark. -->
+  <Plant_Chokevine.description>Μπλεγμένες μάζες από κλαδιά σαν κορδόνια, αγκαθωτών αμπέλων που κουλουριάζονται σε μεγάλες μάζες κατά μήκος του εδάφους. Η περικοκλάδα επιβραδύνει σε μεγάλο βαθμό όποιον κινείται πάνω της. Πολλές φυλές έχουν δημιουργήσει ανεξάρτητα ιστορίες στραγγαλισμών παιδιών μέσα  στη νύχτα, ως τρόπο να τρομάξουν τα παιδιά και να έρθουν στο σπίτι πριν από το σκοτάδι.</Plant_Chokevine.description>
+  
+  <!-- EN: cypress tree -->
+  <Plant_TreeCypress.label>κυπαρίσσι</Plant_TreeCypress.label>
+  <!-- EN: A tall coniferous tree often found in swamps. Despite its slow growth, planting these trees can be profitable as a low-effort, long-term investment because they yield so much usable wood. -->
+  <Plant_TreeCypress.description>Ένα ψηλό, αργά αναπτυσσόμενο δέντρο. Συνήθως βρίσκονται σε βάλτους. Παρά την αργή ανάπτυξή του, η φύτευση αυτών των δένδρων μπορεί να είναι κερδοφόρα επειδή παράγει πολύ χρήσιμο ξύλο.</Plant_TreeCypress.description>
+  
+  <!-- EN: maple tree -->
+  <Plant_TreeMaple.label>σφένδαμνος</Plant_TreeMaple.label>
+  <!-- EN: A common medium-sized tree, easily identifiable by its distinct three-pointed leaf. -->
+  <Plant_TreeMaple.description>Ένα κοινό, μεσαίου μεγέθους δέντρο, εύκολα αναγνωρίσιμο από τα διακριτά τριών ακμών φύλλα του.</Plant_TreeMaple.description>
+  
+  <!-- EN: willow tree -->
+  <Plant_TreeWillow.label>ιτέα</Plant_TreeWillow.label>
+  <!-- EN: One of the fastest growing shade trees, willows provide a beautiful, leafy canopy. It doesn't yield much usable wood. -->
+  <Plant_TreeWillow.description>Ένα από τα ταχύτερα αναπτυσσόμενα δέντρα της σκιάς παρέχει ένα όμορφο, παχύ, φυλλώδη θόλο. Δεν παράγει πολύ χρήσιμο ξύλο.</Plant_TreeWillow.description>
+  
 </LanguageData>

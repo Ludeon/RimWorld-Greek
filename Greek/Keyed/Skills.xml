@@ -1,37 +1,68 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Level -->
   <Level>Επίπεδο</Level>
+  <!-- EN: Progress to next level -->
   <ProgressToNextLevel>Πρόοδος προς το επόμενο επίπεδο</ProgressToNextLevel>
+  <!-- EN: Experience -->
   <Experience>Εμπειρία</Experience>
+  <!-- EN: Passion -->
   <Passion>Πάθος</Passion>
-  <PassionNone>κανένα (μαθαίνει x{0})</PassionNone>
-  <PassionMinor>ενδιαφέρεται (μαθαίνει x{0}, κέρδος ψυχαγωγίας)</PassionMinor>
-  <PassionMajor>φλογερό (μαθαίνει x{0}, κέρδος ψυχαγωγίας 2x)</PassionMajor>
+  <!-- EN: None\n   -Learns {0} -->
+  <PassionNone>Κανένα\n -Μαθαίνει {0}</PassionNone>
+  <!-- EN: Interested\n   -Learns {0} -->
+  <PassionMinor>Ενδιαφέρεται\n -Μαθαίνει {0}</PassionMinor>
+  <!-- EN: Burning\n   -Learns {0} -->
+  <PassionMajor>Φλογερό\n -Μαθαίνει {0}</PassionMajor>
+  <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
   <LearnedMaxToday>Έμαθε το μέγιστο σήμερα ({0}/{1}, επιπλέον μάθηση πολλαπλασιάζεται επί {2})</LearnedMaxToday>
+  <!-- EN: Effects at level {0} -->
   <EffectsAtLevel>Επιπτώσεις στο επίπεδο {0}</EffectsAtLevel>
+  <!-- EN: MAX -->
   <SkillMax>ΜΕΓΙΣΤΟ</SkillMax>
 
+  <!-- EN: Barely heard of it -->
   <Skill0>Μόλις που το άκουσε</Skill0>
-  <Skill1>Αρχάριος</Skill1>
+  <!-- EN: Utter beginner -->
+  <Skill1>Αδαής</Skill1>
+  <!-- EN: Beginner -->
   <Skill2>Πρωτάρης</Skill2>
+  <!-- EN: Basic familiarity -->
   <Skill3>Βασική εξοικείωση</Skill3>
+  <!-- EN: Some familiarity -->
   <Skill4>Ερασιτέχνης</Skill4>
+  <!-- EN: Significant familiarity -->
   <Skill5>Έμπειρος ερασιτέχνης</Skill5>
+  <!-- EN: Capable amateur -->
   <Skill6>Έμπειρος</Skill6>
-  <Skill7>Αρκετά έμπειρος</Skill7>
+  <!-- EN: Weak professional -->
+  <Skill7>Λίγο επαγγελματίας</Skill7>
+  <!-- EN: Employable professional -->
   <Skill8>Επαγγελματίας</Skill8>
+  <!-- EN: Solid professional -->
   <Skill9>Έμπειρος επαγγελματίας</Skill9>
-  <Skill10>Ειδικός</Skill10>
-  <Skill11>Έμπειρος ειδικός</Skill11>
-  <Skill12>Πολύ έμπειρος ειδικός</Skill12>
-  <Skill13>Δάσκαλος</Skill13>
-  <Skill14>Έμπειρος δάσκαλος</Skill14>
-  <Skill15>Δάσκαλος πλανητικών διαστάσεων</Skill15>
-  <Skill16>Δάσκαλος διαστάσεων συστήματος</Skill16>
+  <!-- EN: Skilled professional -->
+  <Skill10>Ικανότατος επαγγελματίας</Skill10>
+  <!-- EN: Very skilled professional -->
+  <Skill11>Πολύ ικανός επαγγελματίας</Skill11>
+  <!-- EN: Expert -->
+  <Skill12>Ειδικός</Skill12>
+  <!-- EN: Strong expert -->
+  <Skill13>Πολύ ειδικός</Skill13>
+  <!-- EN: Master -->
+  <Skill14>Δάσκαλος</Skill14>
+  <!-- EN: Strong master -->
+  <Skill15>Γνωστικός δάσκαλος</Skill15>
+  <!-- EN: Region-known master -->
+  <Skill16>Ονομαστός δάσκαλος</Skill16>
+  <!-- EN: Region-leading master -->
   <Skill17>Σεβαστός δάσκαλος</Skill17>
-  <Skill18>Οραματιστής</Skill18>
-  <Skill19>Θρυλικός</Skill19>
-  <Skill20>Θεϊκός</Skill20>
-
+  <!-- EN: Planet-known master -->
+  <Skill18>Παγκόσμιος δάσκαλος</Skill18>
+  <!-- EN: Planet-leading master -->
+  <Skill19>Θρυλικός δάσκαλος</Skill19>
+  <!-- EN: Legendary master -->
+  <Skill20>Θεϊκός δάσκαλος</Skill20>
+  
 </LanguageData>

@@ -1,34 +1,51 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ειδικές ψυχικές καταστάσεις όχι από ψυχολογική κατάρρευση (Special mental states not from mental breaks) -->
-
-  <WanderConfused.label>περιπλανιέται μπερδεμένος</WanderConfused.label>
-  <WanderConfused.beginLetter>{0} έχει καταρρεύσει και περιπλανιέται τριγύρω συγκεχυμένος.</WanderConfused.beginLetter>
-  <WanderConfused.beginLetterLabel>σύγχυση</WanderConfused.beginLetterLabel>
-  <WanderConfused.recoveryMessage>{0} δεν είναι πλέον σε σύγχυση.</WanderConfused.recoveryMessage>
-  <WanderConfused.baseInspectLine>Ψυχική κατάσταση: Μπερδεμένος και περιφερόμενος</WanderConfused.baseInspectLine>
-
-  <PanicFlee.label>τρέχει πανικόβλητος</PanicFlee.label>
-  <PanicFlee.beginLetter>{0} τρέχει πανικόβλητος.</PanicFlee.beginLetter>
-  <PanicFlee.beginLetterLabel>το βάζει στα πόδια</PanicFlee.beginLetterLabel>
-  <PanicFlee.recoveryMessage>{0} δεν τρέχει πλέον πανικόβλητος.</PanicFlee.recoveryMessage>
-  <PanicFlee.baseInspectLine>Ψυχική κατάσταση: πιλαλάει πανικόβλητος</PanicFlee.baseInspectLine>
-
+  
+  <!-- EN: manhunter -->
   <Manhunter.label>ανθρωποκυνηγός</Manhunter.label>
+  <!-- EN: Maddened: Manhunter -->
+  <Manhunter.baseInspectLine>Παράνοια: Ανθρωποκυνηγός</Manhunter.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
   <Manhunter.beginLetter>{0} έγινε ανθρωποκυνηγός!</Manhunter.beginLetter>
   <Manhunter.beginLetterLabel>ανθρωποκυνηγός</Manhunter.beginLetterLabel>
-  <Manhunter.recoveryMessage>του {0} η λαχτάρα για ανθρώπινο αίμα έσβησε.</Manhunter.recoveryMessage>
-  <Manhunter.baseInspectLine>Παράνοια: Ανθρωποκυνηγός</Manhunter.baseInspectLine>
-
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <Manhunter.recoveryMessage>{PAWN_possessive} {0} η λαχτάρα για ανθρώπινο αίμα έσβησε.</Manhunter.recoveryMessage>
+  
+  <!-- EN: manhunter -->
   <ManhunterPermanent.label>ανθρωποκυνηγός</ManhunterPermanent.label>
+  <!-- EN: Maddened: Manhunter -->
+  <ManhunterPermanent.baseInspectLine>Παράνοια: Ανθρωποκυνηγός</ManhunterPermanent.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
   <ManhunterPermanent.beginLetter>{0} έγινε ανθρωποκυνηγός!</ManhunterPermanent.beginLetter>
   <ManhunterPermanent.beginLetterLabel>ανθρωποκυνηγός</ManhunterPermanent.beginLetterLabel>
-  <ManhunterPermanent.recoveryMessage>του {0} η λαχτάρα για ανθρώπινο αίμα έσβησε.</ManhunterPermanent.recoveryMessage>
-  <ManhunterPermanent.baseInspectLine>Παράνοια: Ανθρωποκυνηγός</ManhunterPermanent.baseInspectLine>
-
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <ManhunterPermanent.recoveryMessage>{PAWN_possessive} {0} η λαχτάρα για ανθρώπινο αίμα έσβησε.</ManhunterPermanent.recoveryMessage>
+  
+  <!-- EN: panic fleeing -->
+  <PanicFlee.label>τρέχει πανικόβλητος</PanicFlee.label>
+  <!-- EN: Mental state: Fleeing in panic -->
+  <PanicFlee.baseInspectLine>Ψυχική κατάσταση: πιλαλάει πανικόβλητος</PanicFlee.baseInspectLine>
+  <!-- EN: {0} is fleeing in panic. -->
+  <PanicFlee.beginLetter>{0} τρέχει πανικόβλητος.</PanicFlee.beginLetter>
+  <!-- EN: flee -->
+  <PanicFlee.beginLetterLabel>το βάζει στα πόδια</PanicFlee.beginLetterLabel>
+  <!-- EN: {0} is no longer fleeing in panic. -->
+  <PanicFlee.recoveryMessage>{0} δεν τρέχει πλέον πανικόβλητος.</PanicFlee.recoveryMessage>
+  
+  <!-- EN: social fighting -->
   <SocialFighting.label>κοινωνική διαμάχη</SocialFighting.label>
+  <!-- EN: Mental state: Social fighting -->
   <SocialFighting.baseInspectLine>Ψυχική κατάσταση: Κοινωνική διαμάχη</SocialFighting.baseInspectLine>
-
-
+  
+  <!-- EN: confused wandering -->
+  <WanderConfused.label>περιπλανιέται μπερδεμένος</WanderConfused.label>
+  <!-- EN: Mental state: Confused and wandering -->
+  <WanderConfused.baseInspectLine>Ψυχική κατάσταση: Μπερδεμένος και περιφερόμενος</WanderConfused.baseInspectLine>
+  <!-- EN: {0} has broken down and is wandering around confused. -->
+  <WanderConfused.beginLetter>{0} έχει καταρρεύσει και περιπλανιέται τριγύρω συγκεχυμένος.</WanderConfused.beginLetter>
+  <!-- EN: confusion -->
+  <WanderConfused.beginLetterLabel>σύγχυση</WanderConfused.beginLetterLabel>
+  <!-- EN: {0} is no longer confused. -->
+  <WanderConfused.recoveryMessage>{0} δεν είναι πλέον σε σύγχυση.</WanderConfused.recoveryMessage>
+  
 </LanguageData>

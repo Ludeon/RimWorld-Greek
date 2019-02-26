@@ -1,41 +1,82 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MechanicalThorax.label>θώρακας</MechanicalThorax.label>
-  <LeftBlade.label>αριστερή λεπίδα</LeftBlade.label>
-  <RightBlade.label>δεξιά λεπίδα</RightBlade.label>
-  <MechanicalNeck.label>λαιμός</MechanicalNeck.label>
-  <MechanicalHead.label>κεφάλι</MechanicalHead.label>
-  <LeftSightSensor.label>αριστερός αισθητήρας όρασης</LeftSightSensor.label>
-  <RightSightSensor.label>δεξιός αισθητήρας όρασης</RightSightSensor.label>
-  <LeftHearingSensor.label>αριστερός αισθητήρας ακοής</LeftHearingSensor.label>
-  <RightHearingSensor.label>δεξιά αισθητήρας ακοής</RightHearingSensor.label>
-  <SmellSensor.label>αισθητήρας όσφρησης</SmellSensor.label>
-  <LeftMechanicalShoulder.label>αριστερός ώμος</LeftMechanicalShoulder.label>
-  <LeftMechanicalArm.label>αριστερό μπράτσο</LeftMechanicalArm.label>
-  <LeftMechanicalHand.label>αριστερό χέρι</LeftMechanicalHand.label>
-  <LeftHandMechanicalPinky.label>αριστερό δακτυλάκι</LeftHandMechanicalPinky.label>
-  <LeftHandMechanicalMiddleFinger.label>αριστερό μέσο δάκτυλο</LeftHandMechanicalMiddleFinger.label>
-  <LeftHandMechanicalIndexFinger.label>αριστερός δείκτης</LeftHandMechanicalIndexFinger.label>
-  <LeftHandMechanicalThumb.label>αριστερός αντίχειρας</LeftHandMechanicalThumb.label>
-  <RightMechanicalShoulder.label>δεξιός ώμος</RightMechanicalShoulder.label>
-  <RightMechanicalArm.label>δεξιό μπράτσο</RightMechanicalArm.label>
-  <RightMechanicalHand.label>δεξιό χέρι</RightMechanicalHand.label>
-  <RightHandMechanicalPinky.label>δεξιό δακτυλάκι</RightHandMechanicalPinky.label>
-  <RightHandMechanicalMiddleFinger.label>δεξιό μέσο δάκτυλο</RightHandMechanicalMiddleFinger.label>
-  <RightHandMechanicalIndexFinger.label>δεξιός δείκτης</RightHandMechanicalIndexFinger.label>
-  <RightHandMechanicalThumb.label>δεξιός αντίχειρας</RightHandMechanicalThumb.label>
-  <LeftMechanicalLeg.label>αριστερό πόδι</LeftMechanicalLeg.label>
-  <LeftMechanicalFoot.label>αριστερή πατούσα</LeftMechanicalFoot.label>
-  <RightMechanicalLeg.label>δεξιό πόδι</RightMechanicalLeg.label>
-  <RightMechanicalFoot.label>δεξιά πατούσα</RightMechanicalFoot.label>
-  <MechanicalCentipedeBodyFirstRing.label>πρώτος δακτύλιος σώματος</MechanicalCentipedeBodyFirstRing.label>
-  <MechanicalCentipedeBodySecondRing.label>δεύτερος δακτύλιος σώματος</MechanicalCentipedeBodySecondRing.label>
-  <MechanicalCentipedeBodyThirdRing.label>τρίτος δακτύλιος σώματος</MechanicalCentipedeBodyThirdRing.label>
-  <MechanicalCentipedeBodyFourthRing.label>τέταρτος δακτύλιος σώματος</MechanicalCentipedeBodyFourthRing.label>
-  <MechanicalCentipedeBodyFifthRing.label>πέμπτος δακτύλιος σώματος</MechanicalCentipedeBodyFifthRing.label>
-  <MechanicalCentipedeBodySixthRing.label>έκτος δακτύλιος σώματος</MechanicalCentipedeBodySixthRing.label>
+  
+  <!-- EN: artificial brain -->
   <ArtificialBrain.label>τεχνητός εγκέφαλος</ArtificialBrain.label>
-
-
+  
+  <!-- EN: blade -->
+  <Blade.label>λεπίδα</Blade.label>
+  
+  <!-- EN: fluid reprocessor -->
+  <FluidReprocessor.label>υγρός επανεπεξεργαστής</FluidReprocessor.label>
+  
+  <!-- EN: sound sensor -->
+  <HearingSensor.label>ηχητικός αισθητήρας</HearingSensor.label>
+  
+  <!-- EN: arm -->
+  <MechanicalArm.label>χέρι</MechanicalArm.label>
+  
+  <!-- EN: fifth body ring -->
+  <MechanicalCentipedeBodyFifthRing.label>πέμπτος δακτύλιος σώματος</MechanicalCentipedeBodyFifthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFifthRing.labelShort>δακτύλιος σώματος</MechanicalCentipedeBodyFifthRing.labelShort>
+  
+  <!-- EN: first body ring -->
+  <MechanicalCentipedeBodyFirstRing.label>πρώτος δακτύλιος σώματος</MechanicalCentipedeBodyFirstRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFirstRing.labelShort>δακτύλιος σώματος</MechanicalCentipedeBodyFirstRing.labelShort>
+  
+  <!-- EN: fourth body ring -->
+  <MechanicalCentipedeBodyFourthRing.label>τέταρτος δακτύλιος σώματος</MechanicalCentipedeBodyFourthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFourthRing.labelShort>δακτύλιος σώματος</MechanicalCentipedeBodyFourthRing.labelShort>
+  
+  <!-- EN: second body ring -->
+  <MechanicalCentipedeBodySecondRing.label>δεύτερος δακτύλιος σώματος</MechanicalCentipedeBodySecondRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodySecondRing.labelShort>δακτύλιος σώματος</MechanicalCentipedeBodySecondRing.labelShort>
+  
+  <!-- EN: sixth body ring -->
+  <MechanicalCentipedeBodySixthRing.label>έκτος δακτύλιος σώματος</MechanicalCentipedeBodySixthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodySixthRing.labelShort>δακτύλιος σώματος</MechanicalCentipedeBodySixthRing.labelShort>
+  
+  <!-- EN: third body ring -->
+  <MechanicalCentipedeBodyThirdRing.label>τρίτος δακτύλιος σώματος</MechanicalCentipedeBodyThirdRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyThirdRing.labelShort>δακτύλιος σώματος</MechanicalCentipedeBodyThirdRing.labelShort>
+  
+  <!-- EN: finger -->
+  <MechanicalFinger.label>δάκτυλο</MechanicalFinger.label>
+  
+  <!-- EN: foot -->
+  <MechanicalFoot.label>πατούσα</MechanicalFoot.label>
+  
+  <!-- EN: hand -->
+  <MechanicalHand.label>παλάμη</MechanicalHand.label>
+  
+  <!-- EN: head -->
+  <MechanicalHead.label>κεφάλι</MechanicalHead.label>
+  
+  <!-- EN: leg -->
+  <MechanicalLeg.label>πόδι</MechanicalLeg.label>
+  
+  <!-- EN: neck -->
+  <MechanicalNeck.label>λαιμός</MechanicalNeck.label>
+  
+  <!-- EN: shoulder -->
+  <MechanicalShoulder.label>ώμος</MechanicalShoulder.label>
+  
+  <!-- EN: thorax -->
+  <MechanicalThorax.label>θώρακας</MechanicalThorax.label>
+  
+  <!-- EN: reactor -->
+  <Reactor.label>αντιδραστήρας</Reactor.label>
+  
+  <!-- EN: visual sensor -->
+  <SightSensor.label>οπτικός αισθητήρας</SightSensor.label>
+  
+  <!-- EN: chemical analyzer -->
+  <SmellSensor.label>χημικός αισθητήρας</SmellSensor.label>
+  
 </LanguageData>

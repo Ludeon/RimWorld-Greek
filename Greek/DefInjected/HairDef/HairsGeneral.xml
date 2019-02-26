@@ -1,30 +1,76 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: afro -->
   <Afro.label>άφρο</Afro.label>
+  
+  <!-- EN: bob -->
   <Bob.label>καρέ</Bob.label>
-  <Burgundy.label>μπορντό</Burgundy.label>
-  <Flowy.label>αραιωμένα</Flowy.label>
-  <Long.label>μακριά</Long.label>
-  <Mohawk.label>μοϊκάνα</Mohawk.label>
-  <Mop.label>αφάνα</Mop.label>
-  <Pigtails.label>κοτσίδες</Pigtails.label>
-  <Shaved.label>ξυρισμένα </Shaved.label>
-  <Spikes.label>καρφάκια</Spikes.label>
-  <Tuft.label>φουντωτά</Tuft.label>
-  <Wavy.label>κυματιστά</Wavy.label>
+  
+  <!-- EN: braided knot -->
   <BraidedKnot.label>πλεξούδα κόμπος</BraidedKnot.label>
-  <Topdog.label>κοκοράκια</Topdog.label>
-  <Senorita.label>δεσποινίς</Senorita.label>
-  <ScorpionTail.label>ουρά σκορπιού</ScorpionTail.label>
+  
+  <!-- EN: brief ponytail -->
   <BriefPonytail.label>κοντή αλογοουρά</BriefPonytail.label>
-  <Troubadour.label>τροβαδούρου</Troubadour.label>
-  <Messy.label>ακατάστατα</Messy.label>
-  <Princess.label>πριγκίπισσας</Princess.label>
-  <Firestarter.label>αναπτήρας</Firestarter.label>
-  <GreasySwoop.label>λιγδωμένα</GreasySwoop.label>
+  
+  <!-- EN: burgundy -->
+  <Burgundy.label>μπορντό</Burgundy.label>
+  
+  <!-- EN: curly -->
   <Curly.label>κατσαρά</Curly.label>
+  
+  <!-- EN: firestarter -->
+  <Firestarter.label>αναπτήρας</Firestarter.label>
+  
+  <!-- EN: flowy -->
+  <Flowy.label>αραιωμένα</Flowy.label>
+  
+  <!-- EN: greasy swoop -->
+  <GreasySwoop.label>λιγδωμένα</GreasySwoop.label>
+  
+  <!-- EN: long -->
+  <Long.label>μακριά</Long.label>
+  
+  <!-- EN: messy -->
+  <Messy.label>ακατάστατα</Messy.label>
+  
+  <!-- EN: mohawk -->
+  <Mohawk.label>μοϊκάνα</Mohawk.label>
+  
+  <!-- EN: mop -->
+  <Mop.label>αφάνα</Mop.label>
+  
+  <!-- EN: pigtails -->
+  <Pigtails.label>κοτσίδες</Pigtails.label>
+  
+  <!-- EN: princess -->
+  <Princess.label>πριγκίπισσας</Princess.label>
+  
+  <!-- EN: scatman -->
   <Scatman.label>σκατάνθρωπος</Scatman.label>
-
-
+  
+  <!-- EN: scorpion tail -->
+  <ScorpionTail.label>ουρά σκορπιού</ScorpionTail.label>
+  
+  <!-- EN: senorita -->
+  <Senorita.label>δεσποινίς</Senorita.label>
+  
+  <!-- EN: shaved -->
+  <Shaved.label>ξυρισμένα </Shaved.label>
+  
+  <!-- EN: spikes -->
+  <Spikes.label>καρφάκια</Spikes.label>
+  
+  <!-- EN: topdog -->
+  <Topdog.label>κοκοράκια</Topdog.label>
+  
+  <!-- EN: troubadour -->
+  <Troubadour.label>τροβαδούρου</Troubadour.label>
+  
+  <!-- EN: tuft -->
+  <Tuft.label>φουντωτά</Tuft.label>
+  
+  <!-- EN: wavy -->
+  <Wavy.label>κυματιστά</Wavy.label>
+  
 </LanguageData>

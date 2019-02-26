@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: elephant -->
+  <Elephant.label>ελέφαντας</Elephant.label>
+  <!-- EN: elephant calf -->
+  <Elephant.lifeStages.elephant_calf.label>ελεφαντάκι</Elephant.lifeStages.elephant_calf.label>
+  
+  <!-- EN: megasloth -->
+  <Megasloth.label>μεγαλοβραδύπους</Megasloth.label>
+  
+  <!-- EN: rhinoceros -->
+  <Rhinoceros.label>ρινόκερος</Rhinoceros.label>
+  <!-- EN: rhinoceroses -->
+  <Rhinoceros.labelPlural>ρινόκεροι</Rhinoceros.labelPlural>
+  
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>θρούμπο</Thrumbo.label>
+  <!-- EN: thrumbo calf -->
+  <Thrumbo.lifeStages.thrumbo_calf.label>μικρό θρούμπο</Thrumbo.lifeStages.thrumbo_calf.label>
+  <!-- EN: thrumbo calves -->
+  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>μικρά θρούμπο</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
+  
+</LanguageData>

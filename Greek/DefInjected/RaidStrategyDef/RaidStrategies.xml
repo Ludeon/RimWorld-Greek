@@ -1,28 +1,45 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <ImmediateAttack.arrivalTextFriendly>Έρχονται για να σας βοηθήσουν αμέσως.</ImmediateAttack.arrivalTextFriendly>
+  
+  <!-- EN: They are attacking immediately. -->
   <ImmediateAttack.arrivalTextEnemy>Επιτίθενται αμέσως.</ImmediateAttack.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttack.arrivalTextFriendly>Έρχονται για να σας βοηθήσουν αμέσως.</ImmediateAttack.arrivalTextFriendly>
+  <!-- EN: Raid -->
   <ImmediateAttack.letterLabelEnemy>Επιδρομή</ImmediateAttack.letterLabelEnemy>
+  <!-- EN: Friendlies -->
   <ImmediateAttack.letterLabelFriendly>Φιλικά</ImmediateAttack.letterLabelFriendly>
-
-  <ImmediateAttackSmart.arrivalTextFriendly>Έρχονται για να σας βοηθήσουν αμέσως.</ImmediateAttackSmart.arrivalTextFriendly>
-  <ImmediateAttackSmart.arrivalTextEnemy>Επιτίθενται αμέσως.\n\nΠροσέξτε - φαίνονται να είναι ασυνήθιστα έξυπνοι με την τακτική τους.</ImmediateAttackSmart.arrivalTextEnemy>
-  <ImmediateAttackSmart.letterLabelEnemy>Επιδρομή</ImmediateAttackSmart.letterLabelEnemy>
-  <ImmediateAttackSmart.letterLabelFriendly>Φιλικά</ImmediateAttackSmart.letterLabelFriendly>
-
-  <StageThenAttack.arrivalTextFriendly>Θα προετοιμαστούν για λίγο πριν έρθουν για να σας βοηθήσουν.</StageThenAttack.arrivalTextFriendly>
-  <StageThenAttack.arrivalTextEnemy>Θα προετοιμαστούν για λίγο και μετά θα επιτεθούν. Προετοιμάστε μια άμυνα ή επιτεθείτε προληπτικά.</StageThenAttack.arrivalTextEnemy>
-  <StageThenAttack.letterLabelEnemy>Επιδρομή</StageThenAttack.letterLabelEnemy>
-  <StageThenAttack.letterLabelFriendly>Φιλικά</StageThenAttack.letterLabelFriendly>
-
+  
+  <!-- EN: It looks like they want to use sappers to tunnel around your defenses. -->
   <ImmediateAttackSappers.arrivalTextEnemy>Φαίνεται ότι θέλουν να χρησιμοποιήσουν σκαφτιάδες για να τρυπώσουν κάτω από τις άμυνές σας.</ImmediateAttackSappers.arrivalTextEnemy>
+  <!-- EN: Raid -->
   <ImmediateAttackSappers.letterLabelEnemy>Επιδρομή</ImmediateAttackSappers.letterLabelEnemy>
-
-  <Siege.arrivalTextFriendly>Φαίνεται ότι θέλουν να χρησιμοποιήσουν τακτική πολιορκίας για να σας βοηθήσουν.</Siege.arrivalTextFriendly>
+  
+  <!-- EN: They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
+  <ImmediateAttackSmart.arrivalTextEnemy>Επιτίθενται αμέσως.\n\nΠροσέξτε - φαίνονται να είναι ασυνήθιστα έξυπνοι με την τακτική τους. Θα αποφύγουν τις περιοχές των πυργίσκων σας και θα εντοπίσουν κάποιες από τις παγίδες σας.</ImmediateAttackSmart.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackSmart.arrivalTextFriendly>Έρχονται για να σας βοηθήσουν αμέσως.</ImmediateAttackSmart.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackSmart.letterLabelEnemy>Επιδρομή</ImmediateAttackSmart.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackSmart.letterLabelFriendly>Φιλικά</ImmediateAttackSmart.letterLabelFriendly>
+  
+  <!-- EN: It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them. -->
   <Siege.arrivalTextEnemy>Φαίνεται ότι θέλουν να πολιορκήσουν την αποικία και να σας σφυροκοπήσουν με όλμους από απόσταση. Μπορείτε να προσπαθήσετε να τους περιμένετε - ή να τους επιτεθείτε.</Siege.arrivalTextEnemy>
+  <!-- EN: It looks like they want to use siege tactics to help you. -->
+  <Siege.arrivalTextFriendly>Φαίνεται ότι θέλουν να χρησιμοποιήσουν τακτική πολιορκίας για να σας βοηθήσουν.</Siege.arrivalTextFriendly>
+  <!-- EN: Siege -->
   <Siege.letterLabelEnemy>Πολιορκία</Siege.letterLabelEnemy>
+  <!-- EN: Friendlies -->
   <Siege.letterLabelFriendly>Φιλικά</Siege.letterLabelFriendly>
-
-
+  
+  <!-- EN: They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively. -->
+  <StageThenAttack.arrivalTextEnemy>Θα προετοιμαστούν για λίγο και μετά θα επιτεθούν.\n\nΠροετοιμάστε μια άμυνα ή επιτεθείτε προληπτικά.</StageThenAttack.arrivalTextEnemy>
+  <!-- EN: They will prepare for a while before moving in to help you. -->
+  <StageThenAttack.arrivalTextFriendly>Θα προετοιμαστούν για λίγο πριν έρθουν για να σας βοηθήσουν.</StageThenAttack.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <StageThenAttack.letterLabelEnemy>Επιδρομή</StageThenAttack.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <StageThenAttack.letterLabelFriendly>Φιλικά</StageThenAttack.letterLabelFriendly>
+  
 </LanguageData>

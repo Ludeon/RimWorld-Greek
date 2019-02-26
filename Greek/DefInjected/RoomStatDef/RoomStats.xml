@@ -1,60 +1,112 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Impressiveness.label>εντυπωσιακό</Impressiveness.label>
-  <Impressiveness.scoreStages.0.label>φρικτό</Impressiveness.scoreStages.0.label>
-  <Impressiveness.scoreStages.1.label>πληκτικό</Impressiveness.scoreStages.1.label>
-  <Impressiveness.scoreStages.2.label>μέτριο</Impressiveness.scoreStages.2.label>
-  <Impressiveness.scoreStages.3.label>ευπρεπές</Impressiveness.scoreStages.3.label>
-  <Impressiveness.scoreStages.4.label>ελαφρώς εντυπωσιακό</Impressiveness.scoreStages.4.label>
-  <Impressiveness.scoreStages.5.label>κάπως εντυπωσιακό</Impressiveness.scoreStages.5.label>
-  <Impressiveness.scoreStages.6.label>πολύ εντυπωσιακό</Impressiveness.scoreStages.6.label>
-  <Impressiveness.scoreStages.7.label>υπερβολικά εντυπωσιακό</Impressiveness.scoreStages.7.label>
-  <Impressiveness.scoreStages.8.label>απίστευτα εντυπωσιακό</Impressiveness.scoreStages.8.label>
-  <Impressiveness.scoreStages.9.label>εκπληκτικά εντυπωσιακό</Impressiveness.scoreStages.9.label>
-
-  <Wealth.label>πλούτος</Wealth.label>
-  <Wealth.scoreStages.0.label>εξαθλιωμένο</Wealth.scoreStages.0.label>
-  <Wealth.scoreStages.1.label>κάπως φτωχό</Wealth.scoreStages.1.label>
-  <Wealth.scoreStages.2.label>μέτριο</Wealth.scoreStages.2.label>
-  <Wealth.scoreStages.3.label>κάπως πλούσιο</Wealth.scoreStages.3.label>
-  <Wealth.scoreStages.4.label>πλούσιο</Wealth.scoreStages.4.label>
-  <Wealth.scoreStages.5.label>πολυτελές</Wealth.scoreStages.5.label>
-  <Wealth.scoreStages.6.label>πολύ πολυτελές</Wealth.scoreStages.6.label>
-  <Wealth.scoreStages.7.label>υπερβολικά πολυτελές</Wealth.scoreStages.7.label>
-  <Wealth.scoreStages.8.label>απίστευτα πολυτελές</Wealth.scoreStages.8.label>
-
-  <Space.label>χώρος</Space.label>
-  <Space.scoreStages.0.label>περιορισμένος</Space.scoreStages.0.label>
-  <Space.scoreStages.1.label>μάλλον στριμόχωρα  r</Space.scoreStages.1.label>
-  <Space.scoreStages.2.label>μεσαίου μεγέθους</Space.scoreStages.2.label>
-  <Space.scoreStages.3.label>κάπως ευρύχωρο</Space.scoreStages.3.label>
-  <Space.scoreStages.4.label>αρκετά ευρύχωρο</Space.scoreStages.4.label>
-  <Space.scoreStages.5.label>πολύ ευρύχωρο</Space.scoreStages.5.label>
-  <Space.scoreStages.6.label>υπερβολικά ευρύχωρο</Space.scoreStages.6.label>
-
+  
+  <!-- EN: beauty -->
   <Beauty.label>ομορφιά</Beauty.label>
-  <Beauty.scoreStages.0.label>αποτρόπαιο</Beauty.scoreStages.0.label>
-  <Beauty.scoreStages.1.label>άσχημο</Beauty.scoreStages.1.label>
-  <Beauty.scoreStages.2.label>ουδέτερο</Beauty.scoreStages.2.label>
-  <Beauty.scoreStages.3.label>χαριτωμένο</Beauty.scoreStages.3.label>
-  <Beauty.scoreStages.4.label>όμορφο</Beauty.scoreStages.4.label>
-  <Beauty.scoreStages.5.label>πολύ όμορφο</Beauty.scoreStages.5.label>
-  <Beauty.scoreStages.6.label>υπερβολικά όμορφο</Beauty.scoreStages.6.label>
-  <Beauty.scoreStages.7.label>απίστευτα όμορφο</Beauty.scoreStages.7.label>
-
+  <!-- EN: hideous -->
+  <Beauty.scoreStages.hideous.label>αποτρόπαιο</Beauty.scoreStages.hideous.label>
+  <!-- EN: ugly -->
+  <Beauty.scoreStages.ugly.label>άσχημο</Beauty.scoreStages.ugly.label>
+  <!-- EN: neutral -->
+  <Beauty.scoreStages.neutral.label>ουδέτερο</Beauty.scoreStages.neutral.label>
+  <!-- EN: pretty -->
+  <Beauty.scoreStages.pretty.label>χαριτωμένο</Beauty.scoreStages.pretty.label>
+  <!-- EN: beautiful -->
+  <Beauty.scoreStages.beautiful.label>όμορφο</Beauty.scoreStages.beautiful.label>
+  <!-- EN: very beautiful -->
+  <Beauty.scoreStages.very_beautiful.label>πολύ όμορφο</Beauty.scoreStages.very_beautiful.label>
+  <!-- EN: extremely beautiful -->
+  <Beauty.scoreStages.extremely_beautiful.label>υπερβολικά όμορφο</Beauty.scoreStages.extremely_beautiful.label>
+  <!-- EN: unbelievably beautiful -->
+  <Beauty.scoreStages.unbelievably_beautiful.label>απίστευτα όμορφο</Beauty.scoreStages.unbelievably_beautiful.label>
+  
+  <!-- EN: cleanliness -->
   <Cleanliness.label>καθαριότητα</Cleanliness.label>
-  <Cleanliness.scoreStages.0.label>πολύ βρόμικο</Cleanliness.scoreStages.0.label>
-  <Cleanliness.scoreStages.1.label>βρόμικο</Cleanliness.scoreStages.1.label>
-  <Cleanliness.scoreStages.2.label>ελαφρώς βρόμικο</Cleanliness.scoreStages.2.label>
-  <Cleanliness.scoreStages.3.label>καθαρό</Cleanliness.scoreStages.3.label>
-  <Cleanliness.scoreStages.4.label>αποστειρωμένο</Cleanliness.scoreStages.4.label>
-
+  <!-- EN: very dirty -->
+  <Cleanliness.scoreStages.very_dirty.label>πολύ βρόμικο</Cleanliness.scoreStages.very_dirty.label>
+  <!-- EN: dirty -->
+  <Cleanliness.scoreStages.dirty.label>βρόμικο</Cleanliness.scoreStages.dirty.label>
+  <!-- EN: slightly dirty -->
+  <Cleanliness.scoreStages.slightly_dirty.label>ελαφρώς βρόμικο</Cleanliness.scoreStages.slightly_dirty.label>
+  <!-- EN: clean -->
+  <Cleanliness.scoreStages.clean.label>καθαρό</Cleanliness.scoreStages.clean.label>
+  <!-- EN: sterile -->
+  <Cleanliness.scoreStages.sterile.label>αποστειρωμένο</Cleanliness.scoreStages.sterile.label>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChance.label>πιθανότητα τροφικής δηλητηρίασης</FoodPoisonChance.label>
+  
+  <!-- EN: grave visiting recreation factor -->
+  <GraveVisitingJoyGainFactor.label>παράγοντας ανακούφισης με την επίσκεψη σε τάφο</GraveVisitingJoyGainFactor.label>
+  
+  <!-- EN: impressiveness -->
+  <Impressiveness.label>εντυπωσιακό</Impressiveness.label>
+  <!-- EN: awful -->
+  <Impressiveness.scoreStages.awful.label>φρικτό</Impressiveness.scoreStages.awful.label>
+  <!-- EN: dull -->
+  <Impressiveness.scoreStages.dull.label>πληκτικό</Impressiveness.scoreStages.dull.label>
+  <!-- EN: mediocre -->
+  <Impressiveness.scoreStages.mediocre.label>μέτριο</Impressiveness.scoreStages.mediocre.label>
+  <!-- EN: decent -->
+  <Impressiveness.scoreStages.decent.label>ευπρεπές</Impressiveness.scoreStages.decent.label>
+  <!-- EN: slightly impressive -->
+  <Impressiveness.scoreStages.slightly_impressive.label>ελαφρώς εντυπωσιακό</Impressiveness.scoreStages.slightly_impressive.label>
+  <!-- EN: somewhat impressive -->
+  <Impressiveness.scoreStages.somewhat_impressive.label>κάπως εντυπωσιακό</Impressiveness.scoreStages.somewhat_impressive.label>
+  <!-- EN: very impressive -->
+  <Impressiveness.scoreStages.very_impressive.label>πολύ εντυπωσιακό</Impressiveness.scoreStages.very_impressive.label>
+  <!-- EN: extremely impressive -->
+  <Impressiveness.scoreStages.extremely_impressive.label>υπερβολικά εντυπωσιακό</Impressiveness.scoreStages.extremely_impressive.label>
+  <!-- EN: unbelievably impressive -->
+  <Impressiveness.scoreStages.unbelievably_impressive.label>απίστευτα εντυπωσιακό</Impressiveness.scoreStages.unbelievably_impressive.label>
+  <!-- EN: wondrously impressive -->
+  <Impressiveness.scoreStages.wondrously_impressive.label>εκπληκτικά εντυπωσιακό</Impressiveness.scoreStages.wondrously_impressive.label>
+  
+  <!-- EN: infection chance factor -->
   <InfectionChanceFactor.label>παράγοντας πιθανότητας μόλυνσης</InfectionChanceFactor.label>
-  <SurgerySuccessChanceCleanlinessFactor.label>επιτυχία εγχείρησης με παράγοντα ρίσκου την καθαριότητα</SurgerySuccessChanceCleanlinessFactor.label>
+  
+  <!-- EN: research speed factor -->
   <ResearchSpeedFactor.label>παράγοντας ταχύτητας έρευνας</ResearchSpeedFactor.label>
-  <GraveVisitingJoyGainFactor.label>παράγοντας ευτυχίας με την επίσκεψη σε τάφο</GraveVisitingJoyGainFactor.label>
-  <FoodPoisonChanceFactor.label>παράγοντα πιθανότητας τροφικής δηλητηρίασης</FoodPoisonChanceFactor.label>
-
-
+  
+  <!-- EN: space -->
+  <Space.label>χώρος</Space.label>
+  <!-- EN: cramped -->
+  <Space.scoreStages.cramped.label>περιορισμένος</Space.scoreStages.cramped.label>
+  <!-- EN: rather tight -->
+  <Space.scoreStages.rather_tight.label>μάλλον στριμόχωρα</Space.scoreStages.rather_tight.label>
+  <!-- EN: average-sized -->
+  <Space.scoreStages.averagesized.label>μεσαίου μεγέθους</Space.scoreStages.averagesized.label>
+  <!-- EN: somewhat spacious -->
+  <Space.scoreStages.somewhat_spacious.label>κάπως ευρύχωρο</Space.scoreStages.somewhat_spacious.label>
+  <!-- EN: quite spacious -->
+  <Space.scoreStages.quite_spacious.label>αρκετά ευρύχωρο</Space.scoreStages.quite_spacious.label>
+  <!-- EN: very spacious -->
+  <Space.scoreStages.very_spacious.label>πολύ ευρύχωρο</Space.scoreStages.very_spacious.label>
+  <!-- EN: extremely spacious -->
+  <Space.scoreStages.extremely_spacious.label>υπερβολικά ευρύχωρο</Space.scoreStages.extremely_spacious.label>
+  
+  <!-- EN: surgery success chance cleanliness factor -->
+  <SurgerySuccessChanceCleanlinessFactor.label>επιτυχία εγχείρησης με παράγοντα ρίσκου την καθαριότητα</SurgerySuccessChanceCleanlinessFactor.label>
+  
+  <!-- EN: wealth -->
+  <Wealth.label>πλούτος</Wealth.label>
+  <!-- EN: impoverished -->
+  <Wealth.scoreStages.impoverished.label>εξαθλιωμένο</Wealth.scoreStages.impoverished.label>
+  <!-- EN: somewhat poor -->
+  <Wealth.scoreStages.somewhat_poor.label>κάπως φτωχό</Wealth.scoreStages.somewhat_poor.label>
+  <!-- EN: mediocre -->
+  <Wealth.scoreStages.mediocre.label>μέτριο</Wealth.scoreStages.mediocre.label>
+  <!-- EN: somewhat rich -->
+  <Wealth.scoreStages.somewhat_rich.label>κάπως πλούσιο</Wealth.scoreStages.somewhat_rich.label>
+  <!-- EN: rich -->
+  <Wealth.scoreStages.rich.label>πλούσιο</Wealth.scoreStages.rich.label>
+  <!-- EN: luxurious -->
+  <Wealth.scoreStages.luxurious.label>πολυτελές</Wealth.scoreStages.luxurious.label>
+  <!-- EN: very luxurious -->
+  <Wealth.scoreStages.very_luxurious.label>πολύ πολυτελές</Wealth.scoreStages.very_luxurious.label>
+  <!-- EN: extremely luxurious -->
+  <Wealth.scoreStages.extremely_luxurious.label>υπερβολικά πολυτελές</Wealth.scoreStages.extremely_luxurious.label>
+  <!-- EN: unbelievably luxurious -->
+  <Wealth.scoreStages.unbelievably_luxurious.label>απίστευτα πολυτελές</Wealth.scoreStages.unbelievably_luxurious.label>
+  
 </LanguageData>

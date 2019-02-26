@@ -1,13 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: aurora -->
+  <Aurora.label>σέλας</Aurora.label>
+  <!-- EN: Aurora -->
+  <Aurora.letterLabel>Σέλας</Aurora.letterLabel>
+  <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
+  <Aurora.letterText>Ένα όμορφο σέλας φωτίζει τον ουρανό.\n\nΤα κυματιστά χρώματα θα ενισχύσουν τη διάθεση του καθενός που είναι έξω για να τα θαυμάσουν, και θα κάνουν τη νύχτα πιο φωτεινή.</Aurora.letterText>
+  
+  <!-- EN: eclipse -->
   <Eclipse.label>έκλειψη</Eclipse.label>
-  <Eclipse.letterText>Ένα από τα φεγγάρια αυτού του πλανήτη είναι σε τροχιά μπροστά από τον ήλιο. Μια έκλειψη έχει αρχίσει.</Eclipse.letterText>
+  <!-- EN: Eclipse -->
   <Eclipse.letterLabel>Έκλειψη</Eclipse.letterLabel>
-
-  <SolarFlare.label>ηλιακή έκλαμψη</SolarFlare.label>
-  <SolarFlare.letterText>Έχει ξεκινήσει η ηλιακή έκλαμψη.\n\nΗ έντονη ακτινοβολία θα απενεργοποιήσει όλες τις ηλεκτρικές συσκευές.\n\nΘα διαρκέσει περίπου μια μέρα.</SolarFlare.letterText>
-  <SolarFlare.letterLabel>Ηλιακή έκλαμψη</SolarFlare.letterLabel>
-
-
+  <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
+  <Eclipse.letterText>Ένα από τα φεγγάρια αυτού του πλανήτη τροχοδρομεί μπροστά από τον ήλιο. Μια έκλειψη έχει αρχίσει.</Eclipse.letterText>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>ηλιακή καταιγίδα</SolarFlare.label>
+  <!-- EN: Solar flare -->
+  <SolarFlare.letterLabel>Ηλιακή καταιγίδα</SolarFlare.letterLabel>
+  <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
+  <SolarFlare.letterText>Έχει αρχίσει η ηλιακή καταιγίδα.\n\nΗ έντονη ακτινοβολία θα απενεργοποιήσει όλες τις ηλεκτρικές συσκευές.\n\nΘα διαρκέσει περίπου μια μέρα.</SolarFlare.letterText>
+  
 </LanguageData>

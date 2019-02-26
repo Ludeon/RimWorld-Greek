@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: δάπεδα tab -->
+  <Architect_Floors.label>καρτέλα δάπεδα</Architect_Floors.label>
+  <!-- EN: Key bindings for the "Δάπεδα" section of the Architect menu -->
+  <Architect_Floors.description>Πλήκτρα συντόμευσης για την ενότητα "Δάπεδα" του μενού Αρχιτεκτονικής</Architect_Floors.description>
+  
+  <!-- EN: επίπλωση tab -->
+  <Architect_Furniture.label>καρτέλα έπιπλα</Architect_Furniture.label>
+  <!-- EN: Key bindings for the "Επίπλωση" section of the Architect menu -->
+  <Architect_Furniture.description>Πλήκτρα συντόμευσης για την ενότητα "Έπιπλα" του μενού Αρχιτεκτονικής</Architect_Furniture.description>
+  
+  <!-- EN: διασκέδαση tab -->
+  <Architect_Joy.label>καρτέλα διασκέδαση</Architect_Joy.label>
+  <!-- EN: Key bindings for the "Διασκέδαση" section of the Architect menu -->
+  <Architect_Joy.description>Πλήκτρα συντόμευσης για την ενότητα "Διασκέδαση" του μενού Αρχιτεκτονικής</Architect_Joy.description>
+  
+  <!-- EN: διάφορα tab -->
+  <Architect_Misc.label>καρτέλα διάφορα</Architect_Misc.label>
+  <!-- EN: Key bindings for the "Διάφορα" section of the Architect menu -->
+  <Architect_Misc.description>Πλήκτρα συντόμευσης για την ενότητα "Διάφορα" του μενού Αρχιτεκτονικής</Architect_Misc.description>
+  
+  <!-- EN: διαταγές tab -->
+  <Architect_Orders.label>καρτέλα εντολών</Architect_Orders.label>
+  <!-- EN: Key bindings for the "Διαταγές" section of the Architect menu -->
+  <Architect_Orders.description>Πλήκτρα συντόμευσης για την ενότητα "Παραγγελίες" του μενού Αρχιτεκτονικής</Architect_Orders.description>
+  
+  <!-- EN: ενέργεια tab -->
+  <Architect_Power.label>καρτέλα ενέργεια</Architect_Power.label>
+  <!-- EN: Key bindings for the "Ενέργεια" section of the Architect menu -->
+  <Architect_Power.description>Πλήκτρα συντόμευσης για την ενότητα "Ενέργεια" του μενού Αρχιτεκτονικής</Architect_Power.description>
+  
+  <!-- EN: παραγωγή tab -->
+  <Architect_Production.label>καρτέλα παραγωγή</Architect_Production.label>
+  <!-- EN: Key bindings for the "Παραγωγή" section of the Architect menu -->
+  <Architect_Production.description>Πλήκτρα συντόμευσης για την ενότητα "Παραγωγή" του μενού Αρχιτεκτονικής</Architect_Production.description>
+  
+  <!-- EN: ασφάλεια tab -->
+  <Architect_Security.label>καρτέλα ασφάλεια</Architect_Security.label>
+  <!-- EN: Key bindings for the "Ασφάλεια" section of the Architect menu -->
+  <Architect_Security.description>Πλήκτρα συντόμευσης για την ενότητα "Ασφάλεια" του μενού Αρχιτεκτονικής</Architect_Security.description>
+  
+  <!-- EN: διαστημόπλοιο tab -->
+  <Architect_Ship.label>καρτέλα διαστημόπλοιο</Architect_Ship.label>
+  <!-- EN: Key bindings for the "Διαστημόπλοιο" section of the Architect menu -->
+  <Architect_Ship.description>Πλήκτρα συντόμευσης για την ενότητα "Διαστημόπλοιο" του μενού Αρχιτεκτονικής</Architect_Ship.description>
+  
+  <!-- EN: οικοδομή tab -->
+  <Architect_Structure.label>καρτέλα κατασκευές</Architect_Structure.label>
+  <!-- EN: Key bindings for the "Οικοδομή" section of the Architect menu -->
+  <Architect_Structure.description>Πλήκτρα συντόμευσης για την ενότητα "Κατασκευές" του μενού Αρχιτεκτονικής</Architect_Structure.description>
+  
+  <!-- EN: θερμοκρασία tab -->
+  <Architect_Temperature.label>καρτέλα θερμοκρασία</Architect_Temperature.label>
+  <!-- EN: Key bindings for the "Θερμοκρασία" section of the Architect menu -->
+  <Architect_Temperature.description>Πλήκτρα συντόμευσης για την ενότητα "Θερμοκρασία" του μενού Αρχιτεκτονικής</Architect_Temperature.description>
+  
+  <!-- EN: ζώνη/Περιοχή tab -->
+  <Architect_Zone.label>καρτέλα ζώνη/Περιοχή</Architect_Zone.label>
+  <!-- EN: Key bindings for the "Ζώνη/Περιοχή" section of the Architect menu -->
+  <Architect_Zone.description>Πλήκτρα συντόμευσης για την ενότητα "Ζώνη/Περιοχή" του μενού Αρχιτεκτονικής</Architect_Zone.description>
+  
+</LanguageData>

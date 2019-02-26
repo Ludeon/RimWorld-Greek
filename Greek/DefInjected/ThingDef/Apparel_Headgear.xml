@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced helmet -->
+  <Apparel_AdvancedHelmet.label>προηγμένο κράνος</Apparel_AdvancedHelmet.label>
+  <!-- EN: A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons. -->
+  <Apparel_AdvancedHelmet.description>Ένα ελαφρύ πολεμικό κράνος με περίπλοκο σχέδιο, ενισχυμένο με πλαστέλ. Δεν είναι αποτελεσματικό ενάντια στα αμβλύ όπλα.</Apparel_AdvancedHelmet.description>
+  
+  <!-- EN: bowler hat -->
+  <Apparel_BowlerHat.label>καπέλο μπόουλινγκ</Apparel_BowlerHat.label>
+  <!-- EN: A good-looking hat which projects a slightly urban, money-loving style. Improves social impact. -->
+  <Apparel_BowlerHat.description>Ένα ωραίο καπέλο που σκιαγραφεί ένα ελαφρώς αστικό, λαμπερό στυλ. Βελτιώνει τον κοινωνικό αντίκτυπο.</Apparel_BowlerHat.description>
+  
+  <!-- EN: cowboy hat -->
+  <Apparel_CowboyHat.label>καπέλο γελαδάρη</Apparel_CowboyHat.label>
+  <!-- EN: Stylish yet rugged, this hat keeps the sun and rain off - and it gives anyone who wears it a bit of extra charm. It is the most important part of traditional western attire. -->
+  <Apparel_CowboyHat.description>Κομψό αλλά ανθεκτικό, αυτό το καπέλο κρατάει τον ήλιο και τη βροχή μακριά - και δίνει σε κάποιον που το φοράει λίγο περισσότερη γοητεία. Είναι το πιο σημαντικό μέρος της παραδοσιακής δυτικής ενδυμασίας.</Apparel_CowboyHat.description>
+  
+  <!-- EN: marine helmet -->
+  <Apparel_PowerArmorHelmet.label>κράνος πεζοναύτη</Apparel_PowerArmorHelmet.label>
+  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines. -->
+  <Apparel_PowerArmorHelmet.description>Ένα θωρακισμένο κράνος πεζοναύτη, με ενσωματωμένο υπολογιστή κατάστασης και με επίστρωση από πλάκες πλέξης-πλαστέλ.\n\nΠανοπλία όπως αυτή χρησιμοποιείται συχνά από αυτοκρατορικούς γενίτσαρους και από διαστημικούς πεζοναύτες ταχείας εισβολής.</Apparel_PowerArmorHelmet.description>
+  
+  <!-- EN: psychic foil helmet -->
+  <Apparel_PsychicFoilHelmet.label>κράνος ψυχικής μεμβράνης</Apparel_PsychicFoilHelmet.label>
+  <!-- EN: A thin helmet containing finely-tuned sheets of psychically-absorptive foil. Reduces the impact of psychic waves. -->
+  <Apparel_PsychicFoilHelmet.description>Ένα λεπτό κράνος που περιέχει λεπτά φύλλα ψυχοαπορροφητικής μεμβράνης. Μειώνει τον αντίκτυπο των ψυχικών γεγονότων.</Apparel_PsychicFoilHelmet.description>
+  
+  <!-- EN: simple helmet -->
+  <Apparel_SimpleHelmet.label>απλό κράνος</Apparel_SimpleHelmet.label>
+  <!-- EN: A simple helmet which gives moderate protection against sharp attacks. Not effective against blunt weapons. -->
+  <Apparel_SimpleHelmet.description>Ένα απλό κράνος που παρέχει μέτρια προστασία από αιχμηρές επιθέσεις. Δεν είναι αποτελεσματικό ενάντια σε αμβλύ όπλα.</Apparel_SimpleHelmet.description>
+  
+  <!-- EN: tribal headdress -->
+  <Apparel_TribalHeaddress.label>φυλετικό μαντήλι</Apparel_TribalHeaddress.label>
+  <!-- EN: Elegant traditional garb, often with religious significance. Improves social impact. -->
+  <Apparel_TribalHeaddress.description>Κομψή παραδοσιακή στολή, συχνά με θρησκευτική σημασία. Βελτιώνει τον κοινωνικό αντίκτυπο.</Apparel_TribalHeaddress.description>
+  
+  <!-- EN: tuque -->
+  <Apparel_Tuque.label>σκούφος</Apparel_Tuque.label>
+  <!-- EN: A soft, thick cap. Great for keeping warm in winter. -->
+  <Apparel_Tuque.description>Ένα μαλακό, παχύ καπέλο. Εξαιρετικό για ζέστη το χειμώνα.</Apparel_Tuque.description>
+  
+  <!-- EN: war mask -->
+  <Apparel_WarMask.label>μάσκα πολέμου</Apparel_WarMask.label>
+  <!-- EN: An artistically terrifying war mask. Hides the wearer's face and makes them more confident. -->
+  <Apparel_WarMask.description>Μια καλλιτεχνική τρομακτική μάσκα πολέμου. Κρύβει τα πρόσωπα των φορών και τους κάνει πιο σίγουρους.</Apparel_WarMask.description>
+  
+  <!-- EN: war veil -->
+  <Apparel_WarVeil.label>βέλο πολέμου</Apparel_WarVeil.label>
+  <!-- EN: A war veil, made out of reinforced cloth torn to appear damaged in combat. Some believe this functions as a talisman of courage. -->
+  <Apparel_WarVeil.description>Μία μαντήλα πολέμου, φτιαγμένη από ενισχυμένο ύφασμα σχισμένη ώστε να φαίνεται μπαρουτοκαπνισμένη. Κάποιοι πιστεύουν ότι αυτό λειτουργεί ως φυλακτό θάρρους.</Apparel_WarVeil.description>
+  
+</LanguageData>

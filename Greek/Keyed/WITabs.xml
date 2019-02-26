@@ -1,39 +1,74 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Τίτλοι καρτελών παραθύρου διαλόγου (WITab titles) -->
+  <!-- WITab titles -->
+  <!-- EN: Terrain -->
   <TabTerrain>Έδαφος</TabTerrain>
+  <!-- EN: Planet -->
   <TabPlanet>Πλανήτης</TabPlanet>
-  <TabCaravanSocial>Κοινωνικότητα</TabCaravanSocial>
+  <!-- EN: Social -->
+  <TabCaravanSocial>Κοινωνικ.</TabCaravanSocial>
+  <!-- EN: Health -->
   <TabCaravanHealth>Υγεία</TabCaravanHealth>
+  <!-- EN: Needs -->
   <TabCaravanNeeds>Ανάγκες</TabCaravanNeeds>
-  <TabCaravanGear>Εξοπλισμός</TabCaravanGear>
-  <TabCaravanItems>Αντικείμενα</TabCaravanItems>
-
-  <!-- Διάφορα (Misc) -->
+  <!-- EN: Gear -->
+  <TabCaravanGear>Εξοπλισμ.</TabCaravanGear>
+  <!-- EN: Items -->
+  <TabCaravanItems>Αντικείμ.</TabCaravanItems>
+  
+  <!-- Misc -->
+  <!-- EN: Abandon {{0}}x {0} -->
   <AbandonSliderText>Άφησε {{0}}x {0}</AbandonSliderText>
+  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
   <ConfirmAbandonItemDialog>Σίγουρα θέλεις να αφήσεις το {0}?\n\nΤα αντικείμενα που αφήνεις εξαφανίζονται και δεν μπορούν ποτέ να ανακτηθούν.</ConfirmAbandonItemDialog>
+  <!-- EN: Abandon -->
   <AbandonTip>Εγκαταλείφθηκαν</AbandonTip>
+  <!-- EN: Banish -->
   <BanishTip>Εξορία</BanishTip>
+  <!-- EN: Abandon specific count -->
   <AbandonSpecificCountTip>Άφησε συγκεκριμένο αριθμό</AbandonSpecificCountTip>
+  <!-- EN: Abandon (all) -->
   <AbandonAllTip>Άφησε (όλα)</AbandonAllTip>
+  <!-- EN: Abandoned items vanish and can never be recovered. -->
   <AbandonItemTipExtraText>Τα αντικείμενα που αφήνεις εξαφανίζονται και δεν μπορούν ποτέ να ανακτηθούν.</AbandonItemTipExtraText>
-  <BanishTipWillDie>{0} πιθανότατα θα πεθάνει.</BanishTipWillDie>
-
-  <!-- Επιθεώρηση καραβανιού (Caravan inspect) -->
+  <!-- EN: {1_labelShort} will most likely die. -->
+  <BanishTipWillDie>{1_labelShort} πιθανότατα θα πεθάνει.</BanishTipWillDie>
+  
+  <!-- Caravan inspect -->
+  <!-- EN: Colonists -->
   <CaravanColonists>Άποικοι</CaravanColonists>
+  <!-- EN: Prisoners and animals -->
   <CaravanPrisonersAndAnimals>Αιχμάλωτοι και ζώα</CaravanPrisonersAndAnimals>
+  <!-- EN: Inventory -->
   <CaravanItems>Απόθεμα</CaravanItems>
+  <!-- EN: Click to open a tab with more details. -->
   <OpenSpecificTabButtonTip>Κάνε κλικ για να ανοίξει νέα καρτέλα με περισσότερες λεπτομέρειες.</OpenSpecificTabButtonTip>
+  <!-- EN: Prisoners -->
   <CaravanPrisoners>Αιχμάλωτοι</CaravanPrisoners>
+  <!-- EN: Inventory -->
   <CaravanWeaponsAndApparel>Απόθεμα</CaravanWeaponsAndApparel>
+  <!-- EN: None capable -->
   <NoneCapable>Κανένας ικανός</NoneCapable>
-
-  <!-- Εξοπλισμός καραβανιού (Caravan gear) -->
+  <!-- EN: Caravan not moving -->
+  <GainingJoyBecauseCaravanNotMoving>Το καραβάνι δεν κινείται</GainingJoyBecauseCaravanNotMoving>
+  
+  <!-- Caravan gear -->
+  <!-- EN: Drag to rearrange. -->
   <DragToRearrange>Σύρε για αναδιάταξη.</DragToRearrange>
 
-  <!-- Πλανήτης (Planet) -->
+  <!-- Caravan items -->
+  <!-- EN: Assign drug policies -->
+  <AssignDrugPolicies>Πολιτικές ναρκωτικών</AssignDrugPolicies>
+
+  <!-- Caravan health -->
+  <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
+  <BeCarriedIfSickTip>Εάν αυτό το άτομο ή το ζώο θα πρέπει να κουβαλιέται από άλλα μέλη του καραβανιού όταν είναι άρρωστο.\n\nΤα μεταφερόμενα μέλη του καραβανιού μπορούν να ξεκουραστούν ακόμη και αν το καραβάνι  κινείται, αλλά το επιβραδύνουν.</BeCarriedIfSickTip>
+  
+  <!-- Planet -->
+  <!-- EN: Seed -->
   <PlanetSeed>Σπορά</PlanetSeed>
+  <!-- EN: Coverage -->
   <PlanetCoverageShort>Κάλυψη</PlanetCoverageShort>
 
 </LanguageData>

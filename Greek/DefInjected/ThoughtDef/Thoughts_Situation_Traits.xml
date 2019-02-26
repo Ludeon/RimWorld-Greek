@@ -1,76 +1,173 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MasochistPain.stages.0.label>μαζοχιστής σε λίγο πόνο</MasochistPain.stages.0.label>
-  <MasochistPain.stages.0.description>Όου... Χε χε χε... Θα μπορούσα να συνηθίσω αυτό!</MasochistPain.stages.0.description>
-  <MasochistPain.stages.1.label>μαζοχιστής σε μέτριο πόνο</MasochistPain.stages.1.label>
-  <MasochistPain.stages.1.description>Γιαχ... Πονάει, αλλά μου αρέσει! Συνέχισε!</MasochistPain.stages.1.description>
-  <MasochistPain.stages.2.label>μαζοχιστής σε οξύ πόνο</MasochistPain.stages.2.label>
-  <MasochistPain.stages.2.description>Ωχ... Νομίζω ότι κάτι έχει σπάσει... Αλλά τι εξαιρετικό συναίσθημα!</MasochistPain.stages.2.description>
-  <MasochistPain.stages.3.label>μαζοχιστής σε ασυνήθιστο πόνο</MasochistPain.stages.3.label>
-  <MasochistPain.stages.3.description>Αααα... Είμαι στον παράδεισο;</MasochistPain.stages.3.description>
-
-  <ProsthophileNoProsthetic.stages.0.label>ο προσθετικόφιλος στερείτε ένα βιονικό μέλος</ProsthophileNoProsthetic.stages.0.label>
-  <ProsthophileNoProsthetic.stages.0.description>Η σάρκα είναι τόσο περιοριστική. Εύχομαι να αποκτήσω κάποιο τεχνητό μέρος του σώματος.</ProsthophileNoProsthetic.stages.0.description>
-
-  <ProsthophileHappy.stages.0.label>ο προσθετικόφιλος έχει ένα βιονικό μέλος</ProsthophileHappy.stages.0.label>
-  <ProsthophileHappy.stages.0.description>Είμαι ένα προϊόν της σύγχρονης τεχνολογίας! Μπορώ να κάνω τα πάντα καλύτερα!</ProsthophileHappy.stages.0.description>
-
-  <ProsthophobeUnhappy.stages.0.label>ο προσθετικοφοβικός έχει ένα βιονικό μέλος</ProsthophobeUnhappy.stages.0.label>
-  <ProsthophobeUnhappy.stages.0.description>Με έκαναν τεχνολογικό βδέλυγμα... Αν μου είχαν δώσει μόνο μια επιλογή...</ProsthophobeUnhappy.stages.0.description>
-
-  <BrawlerUnhappy.stages.0.label>ο τσαμπουκαλής έχει όπλο εξ αποστάσεως</BrawlerUnhappy.stages.0.label>
-  <BrawlerUnhappy.stages.0.description>Μισώ να πυροβολώ από απόσταση. Θέλω να πάω κοντά και προσωπικά!</BrawlerUnhappy.stages.0.description>
-
-  <PyromaniacHappy.stages.0.label>ο πυρομανής έχει εμπρηστικό όπλο</PyromaniacHappy.stages.0.label>
-  <PyromaniacHappy.stages.0.description>Με κάνει να σκέφτομαι φλόγα και πυρκαγιά. Είμαι τόσο χαρούμενος.</PyromaniacHappy.stages.0.description>
-
-  <ClothedNudist.stages.0.label>ντύσιμο με το ζόρι</ClothedNudist.stages.0.label>
-  <ClothedNudist.stages.0.description>Είμαι γυμνιστής αλλά πρέπει να φορέσω αυτά τα ρούχα. Δεν είναι ανυπόφορα - αλλά εξακολουθώ να αισθάνομαι περιορισμένα και άβολα.</ClothedNudist.stages.0.description>
-
-  <HappyNude.stages.0.label>ευτυχισμένος γυμνιστής</HappyNude.stages.0.label>
-  <HappyNude.stages.0.description>Είμαι γυμνός και μου αρέσει! Νιώθω τόσο ελεύθερος, χωρίς περιορισμούς και σε επαφή με το περιβάλλον μου!</HappyNude.stages.0.description>
-
-  <NightOwlDuringTheDay.stages.0.label>νυχτερινή κουκουβάγια στο φως της ημέρας</NightOwlDuringTheDay.stages.0.label>
-  <NightOwlDuringTheDay.stages.0.description>Δεν μου αρέσει να δουλεύω τη διάρκεια της ημέρας.</NightOwlDuringTheDay.stages.0.description>
-
-  <NightOwlDuringTheNight.stages.0.label>νυχτερινή κουκουβάγια τη νύχτα</NightOwlDuringTheNight.stages.0.label>
-  <NightOwlDuringTheNight.stages.0.description>Αισθάνομαι πολύ καλύτερα το βράδυ.</NightOwlDuringTheNight.stages.0.description>
-
-  <Greedy.stages.0.label>άπληστος για εντυπωσιακή κρεβατοκάμαρα</Greedy.stages.0.label>
-  <Greedy.stages.0.description>Είμαι άπληστος. Θέλω ένα πραγματικά εντυπωσιακό δωμάτιο.</Greedy.stages.0.description>
-  <Greedy.stages.1.label>άπληστος για εντυπωσιακή κρεβατοκάμαρα</Greedy.stages.1.label>
-  <Greedy.stages.1.description>Είμαι άπληστος. Το δωμάτιό μου είναι παθητικό! Θέλω ένα πραγματικά εντυπωσιακό δωμάτιο.</Greedy.stages.1.description>
-  <Greedy.stages.2.label>άπληστος για εντυπωσιακή κρεβατοκάμαρα</Greedy.stages.2.label>
-  <Greedy.stages.2.description>Είμαι άπληστος. Το δωμάτιό μου δεν είναι αρκετά καλό. Θέλω ένα πραγματικά εντυπωσιακό δωμάτιο.</Greedy.stages.2.description>
-  <Greedy.stages.3.label>άπληστος για εντυπωσιακή κρεβατοκάμαρα</Greedy.stages.3.label>
-  <Greedy.stages.3.description>Είμαι άπληστος. Το δωμάτιό μου δεν είναι καλό. Θέλω ένα πραγματικά εντυπωσιακό δωμάτιο.</Greedy.stages.3.description>
-  <Greedy.stages.4.label>άπληστος για εντυπωσιακή κρεβατοκάμαρα</Greedy.stages.4.label>
-  <Greedy.stages.4.description>Είμαι άπληστος. Το δωμάτιό μου δεν είναι καθόλου καλό. Θέλω ένα πραγματικά εντυπωσιακό δωμάτιο.</Greedy.stages.4.description>
-
-  <Jealous.stages.0.label>ζηλεύει το υπνοδωμάτιο του {0}</Jealous.stages.0.label>
-  <Jealous.stages.0.description>Πρέπει να έχω το καλλίτερο όλων!</Jealous.stages.0.description>
-
-  <Ascetic.stages.0.label>ο ασκητικός έχει απαίσιο υπνοδωμάτιο</Ascetic.stages.0.label>
-  <Ascetic.stages.0.description>Η κρεβατοκάμαρά μου είναι ακριβώς όπως θέλω να είναι. Πολύ ταπεινή και απλή.</Ascetic.stages.0.description>
-  <Ascetic.stages.1.label>ο ασκητικός έχει απεχθή υπνοδωμάτιο</Ascetic.stages.1.label>
-  <Ascetic.stages.1.description>Η κρεβατοκάμαρά μου είναι ακριβώς όπως θέλω να είναι. Πολύ ταπεινή και απλή.</Ascetic.stages.1.description>
-  <Ascetic.stages.2.label>ο ασκητικός έχει πληκτικό υπνοδωμάτιο</Ascetic.stages.2.label>
-  <Ascetic.stages.2.description>Η κρεβατοκάμαρά μου είναι πολύ ταπεινή και απλή. Μου αρέσει.</Ascetic.stages.2.description>
-  <Ascetic.stages.5.label>ο ασκητικός έχει εντυπωσιακό υπνοδωμάτιο</Ascetic.stages.5.label>
-  <Ascetic.stages.5.description>Δεν μου αρέσει να έχω ένα εντυπωσιακό δωμάτιο.</Ascetic.stages.5.description>
-  <Ascetic.stages.6.label>ο ασκητικός έχει εντυπωσιακό υπνοδωμάτιο</Ascetic.stages.6.label>
-  <Ascetic.stages.6.description>Δεν μου αρέσει να έχω ένα εντυπωσιακό δωμάτιο.</Ascetic.stages.6.description>
-  <Ascetic.stages.7.label>ο ασκητικός έχει εντυπωσιακό υπνοδωμάτιο</Ascetic.stages.7.label>
-  <Ascetic.stages.7.description>Δεν μου αρέσει να έχω ένα εντυπωσιακό δωμάτιο.</Ascetic.stages.7.description>
-  <Ascetic.stages.8.label>ο ασκητικός έχει εντυπωσιακό υπνοδωμάτιο</Ascetic.stages.8.label>
-  <Ascetic.stages.8.description>Δεν μου αρέσει να έχω ένα εντυπωσιακό δωμάτιο.</Ascetic.stages.8.description>
-  <Ascetic.stages.9.label>ο ασκητικός έχει εντυπωσιακό υπνοδωμάτιο</Ascetic.stages.9.label>
-  <Ascetic.stages.9.description>Δεν μου αρέσει να έχω ένα εντυπωσιακό δωμάτιο.</Ascetic.stages.9.description>
-  <Ascetic.stages.10.label>ο ασκητικός έχει εντυπωσιακό υπνοδωμάτιο</Ascetic.stages.10.label>
-  <Ascetic.stages.10.description>Δεν μου αρέσει να έχω ένα εντυπωσιακό δωμάτιο.</Ascetic.stages.10.description>
-  <Ascetic.stages.11.label>ο ασκητικός έχει εντυπωσιακό υπνοδωμάτιο</Ascetic.stages.11.label>
-  <Ascetic.stages.11.description>Δεν μου αρέσει να έχω ένα εντυπωσιακό δωμάτιο.</Ascetic.stages.11.description>
-
-
+  
+  <!-- EN: ascetic has awful bedroom -->
+  <Ascetic.stages.ascetic_has_awful_bedroom.label>ο ασκητικός έχει απαίσιο υπνοδωμάτιο</Ascetic.stages.ascetic_has_awful_bedroom.label>
+  <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
+  <Ascetic.stages.ascetic_has_awful_bedroom.description>Η κρεβατοκάμαρά μου είναι ακριβώς όπως θέλω να είναι. Πολύ ταπεινή και απλή.</Ascetic.stages.ascetic_has_awful_bedroom.description>
+  <!-- EN: ascetic has dull bedroom -->
+  <Ascetic.stages.ascetic_has_dull_bedroom.label>ο ασκητικός έχει απεχθή υπνοδωμάτιο</Ascetic.stages.ascetic_has_dull_bedroom.label>
+  <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
+  <Ascetic.stages.ascetic_has_dull_bedroom.description>Η κρεβατοκάμαρά μου είναι ακριβώς όπως θέλω να είναι. Πολύ ταπεινή και απλή.</Ascetic.stages.ascetic_has_dull_bedroom.description>
+  <!-- EN: ascetic has mediocre bedroom -->
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.label>ο ασκητικός έχει πληκτικό υπνοδωμάτιο</Ascetic.stages.ascetic_has_mediocre_bedroom.label>
+  <!-- EN: My bedroom is very humble and simple. I like it. -->
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.description>Η κρεβατοκάμαρά μου είναι πολύ ταπεινή και απλή. Μου αρέσει.</Ascetic.stages.ascetic_has_mediocre_bedroom.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-0.label>ο ασκητικός έχει εντυπωσιακό υπνοδωμάτιο</Ascetic.stages.ascetic_has_impressive_bedroom-0.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-0.description>Δεν μου αρέσει να έχω ένα εντυπωσιακό δωμάτιο.</Ascetic.stages.ascetic_has_impressive_bedroom-0.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-1.label>ο ασκητικός έχει εντυπωσιακό υπνοδωμάτιο</Ascetic.stages.ascetic_has_impressive_bedroom-1.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-1.description>Δεν μου αρέσει να έχω ένα εντυπωσιακό δωμάτιο.</Ascetic.stages.ascetic_has_impressive_bedroom-1.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-2.label>ο ασκητικός έχει εντυπωσιακό υπνοδωμάτιο</Ascetic.stages.ascetic_has_impressive_bedroom-2.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-2.description>Δεν μου αρέσει να έχω ένα εντυπωσιακό δωμάτιο.</Ascetic.stages.ascetic_has_impressive_bedroom-2.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-3.label>ο ασκητικός έχει εντυπωσιακό υπνοδωμάτιο</Ascetic.stages.ascetic_has_impressive_bedroom-3.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-3.description>Δεν μου αρέσει να έχω ένα εντυπωσιακό δωμάτιο.</Ascetic.stages.ascetic_has_impressive_bedroom-3.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-4.label>ο ασκητικός έχει εντυπωσιακό υπνοδωμάτιο</Ascetic.stages.ascetic_has_impressive_bedroom-4.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-4.description>Δεν μου αρέσει να έχω ένα εντυπωσιακό δωμάτιο.</Ascetic.stages.ascetic_has_impressive_bedroom-4.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-5.label>ο ασκητικός έχει εντυπωσιακό υπνοδωμάτιο</Ascetic.stages.ascetic_has_impressive_bedroom-5.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-5.description>Δεν μου αρέσει να έχω ένα εντυπωσιακό δωμάτιο.</Ascetic.stages.ascetic_has_impressive_bedroom-5.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-6.label>ο ασκητικός έχει εντυπωσιακό υπνοδωμάτιο</Ascetic.stages.ascetic_has_impressive_bedroom-6.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-6.description>Δεν μου αρέσει να έχω ένα εντυπωσιακό δωμάτιο.</Ascetic.stages.ascetic_has_impressive_bedroom-6.description>
+  
+  <!-- EN: brawler has ranged weapon -->
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>τσαμπουκαλής με βαλλιστικό όπλο</BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>
+  <!-- EN: I hate shooting from a distance. I want to get up close and personal! -->
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>Μισώ να πυροβολώ από απόσταση. Θέλω να πάω κοντά και προσωπικά!</BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>
+  
+  <!-- EN: constraining clothes -->
+  <ClothedNudist.stages.constraining_clothes.label>ντύσιμο με το ζόρι</ClothedNudist.stages.constraining_clothes.label>
+  <!-- EN: I'm a nudist but I have to wear these clothes. It's not unbearable - but I still feel constrained and uncomfortable. -->
+  <ClothedNudist.stages.constraining_clothes.description>Είμαι γυμνιστής αλλά πρέπει να φορέσω αυτά τα ρούχα. Δεν είναι ανυπόφορα - αλλά εξακολουθώ να αισθάνομαι περιορισμένα και άβολα.</ClothedNudist.stages.constraining_clothes.description>
+  
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-0.label>θέλω εντυπωσιακή κρεβατοκάμαρα</Greedy.stages.greedy_for_impressive_bedroom-0.label>  
+  <!-- EN: I'm greedy. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-0.description>Είμαι άπληστος. Θέλω ένα πραγματικά εντυπωσιακό δωμάτιο.</Greedy.stages.greedy_for_impressive_bedroom-0.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-1.label>θέλω εντυπωσιακή κρεβατοκάμαρα</Greedy.stages.greedy_for_impressive_bedroom-1.label>
+  <!-- EN: I'm greedy. My room is pathetic! I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-1.description>Είμαι άπληστος. Το δωμάτιό μου είναι παθητικό! Θέλω ένα πραγματικά εντυπωσιακό δωμάτιο.</Greedy.stages.greedy_for_impressive_bedroom-1.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-2.label>θέλω εντυπωσιακή κρεβατοκάμαρα</Greedy.stages.greedy_for_impressive_bedroom-2.label>
+  <!-- EN: I'm greedy. My room isn't nearly good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-2.description>Είμαι άπληστος. Το δωμάτιό μου δεν είναι αρκετά καλό. Θέλω ένα πραγματικά εντυπωσιακό δωμάτιο.</Greedy.stages.greedy_for_impressive_bedroom-2.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-3.label>θέλω εντυπωσιακή κρεβατοκάμαρα</Greedy.stages.greedy_for_impressive_bedroom-3.label>
+  <!-- EN: I'm greedy. My room isn't good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-3.description>Είμαι άπληστος. Το δωμάτιό μου δεν είναι καλό. Θέλω ένα πραγματικά εντυπωσιακό δωμάτιο.</Greedy.stages.greedy_for_impressive_bedroom-3.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-4.label>θέλω εντυπωσιακή κρεβατοκάμαρα</Greedy.stages.greedy_for_impressive_bedroom-4.label>
+  <!-- EN: I'm greedy. My room isn't quite good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-4.description>Είμαι άπληστος. Το δωμάτιό μου δεν είναι καθόλου καλό. Θέλω ένα πραγματικά εντυπωσιακό δωμάτιο.</Greedy.stages.greedy_for_impressive_bedroom-4.description>
+  
+  <!-- EN: happily nude -->
+  <HappyNude.stages.happily_nude.label>ευτυχισμένος γυμνιστής</HappyNude.stages.happily_nude.label>
+  <!-- EN: I'm nude and loving it! I feel so free and unconstrained and in touch with my surroundings! -->
+  <HappyNude.stages.happily_nude.description>Είμαι γυμνός και μου αρέσει! Νιώθω τόσο ελεύθερος, χωρίς περιορισμούς και σε επαφή με το περιβάλλον μου!</HappyNude.stages.happily_nude.description>
+  
+  <!-- EN: jealous of {0}'s bedroom -->
+  <Jealous.stages.jealous_of_s_bedroom.label>ζηλεύει το υπνοδωμάτιο {0}</Jealous.stages.jealous_of_s_bedroom.label>
+  <!-- EN: I need to have the best one! -->
+  <Jealous.stages.jealous_of_s_bedroom.description>Πρέπει να έχω το καλλίτερο όλων!</Jealous.stages.jealous_of_s_bedroom.description>
+  
+  <!-- EN: masochist in minor pain -->
+  <MasochistPain.stages.masochist_in_minor_pain.label>μαζοχιστής σε λίγο πόνο</MasochistPain.stages.masochist_in_minor_pain.label>
+  <!-- EN: Ow... Heh heh heh... I could get used to this! -->
+  <MasochistPain.stages.masochist_in_minor_pain.description>Όου... Χε χε χε... Θα μπορούσα να το συνηθίσω αυτό!</MasochistPain.stages.masochist_in_minor_pain.description>
+  <!-- EN: masochist in serious pain -->
+  <MasochistPain.stages.masochist_in_serious_pain.label>μαζοχιστής σε κανονικό πόνο</MasochistPain.stages.masochist_in_serious_pain.label>
+  <!-- EN: Ughhh... It hurts, but I love it! Keep it coming! -->
+  <MasochistPain.stages.masochist_in_serious_pain.description>Γιαχ... Πονάει, αλλά μου αρέσει! Συνέχισε!</MasochistPain.stages.masochist_in_serious_pain.description>
+  <!-- EN: masochist in intense pain -->
+  <MasochistPain.stages.masochist_in_intense_pain.label>μαζοχιστής σε έντονο πόνο</MasochistPain.stages.masochist_in_intense_pain.label>
+  <!-- EN: Ouch... I think something's broken... But what an exquisite feeling! -->
+  <MasochistPain.stages.masochist_in_intense_pain.description>Ωχ... Νομίζω ότι κάτι έχει σπάσει... Αλλά τι εξαιρετικό συναίσθημα!</MasochistPain.stages.masochist_in_intense_pain.description>
+  <!-- EN: masochist in mind-shattering pain -->
+  <MasochistPain.stages.masochist_in_mindshattering_pain.label>μαζοχιστής σε οξύ πόνο</MasochistPain.stages.masochist_in_mindshattering_pain.label>
+  <!-- EN: Ahhh... Am I in heaven? -->
+  <MasochistPain.stages.masochist_in_mindshattering_pain.description>Αααα... Είμαι στον παράδεισο;</MasochistPain.stages.masochist_in_mindshattering_pain.description>
+  
+  <!-- EN: night owl in daytime -->
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.label>νυχτερινή κουκουβάγια στο φως της ημέρας</NightOwlDuringTheDay.stages.night_owl_in_daytime.label>
+  <!-- EN: I don't like working during the day. -->
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.description>Δεν μου αρέσει να δουλεύω τη διάρκεια της ημέρας.</NightOwlDuringTheDay.stages.night_owl_in_daytime.description>
+  
+  <!-- EN: night owl at night -->
+  <NightOwlDuringTheNight.stages.night_owl_at_night.label>νυχτερινή κουκουβάγια τη νύχτα</NightOwlDuringTheNight.stages.night_owl_at_night.label>
+  <!-- EN: I feel much better at night. -->
+  <NightOwlDuringTheNight.stages.night_owl_at_night.description>Αισθάνομαι πολύ καλύτερα το βράδυ.</NightOwlDuringTheNight.stages.night_owl_at_night.description>
+  
+  <!-- EN: transhumanist pleased -->
+  <ProsthophileHappy.stages.transhumanist_pleased.label>ευτυχισμένος μετανθρωπιστής</ProsthophileHappy.stages.transhumanist_pleased.label>
+  <!-- EN: This artificial part is cool. I want more. -->
+  <ProsthophileHappy.stages.transhumanist_pleased.description>Είμαι ένα προϊόν της σύγχρονης τεχνολογίας! Μπορώ να κάνω τα πάντα καλύτερα!</ProsthophileHappy.stages.transhumanist_pleased.description>
+  <!-- EN: transhumanist quite pleased -->
+  <ProsthophileHappy.stages.transhumanist_quite_pleased.label>αρκετά ευχαριστημένος μετανθρωπιστής </ProsthophileHappy.stages.transhumanist_quite_pleased.label>
+  <!-- EN: Two artificial parts are better than one. I wish I had more. -->
+  <ProsthophileHappy.stages.transhumanist_quite_pleased.description>Δύο τεχνητά μέρη είναι καλύτερα από ένα. Μακάρι να είχα περισσότερα.</ProsthophileHappy.stages.transhumanist_quite_pleased.description>
+  <!-- EN: transhumanist delighted -->
+  <ProsthophileHappy.stages.transhumanist_delighted.label>ενθουσιασμένος μετανθρωπιστής</ProsthophileHappy.stages.transhumanist_delighted.label>
+  <!-- EN: Three artificial parts, and my weak human flesh is receding. But I still want more machine power. -->
+  <ProsthophileHappy.stages.transhumanist_delighted.description>Τρία τεχνητά μέρη και η αδύναμη ανθρώπινη σάρκα μου υποχωρεί. Αλλά θέλω ακόμα περισσότερη μηχανική ισχύ.</ProsthophileHappy.stages.transhumanist_delighted.description>
+  <!-- EN: transhumanist enchanted -->
+  <ProsthophileHappy.stages.transhumanist_enchanted.label>γοητευμένος μετανθρωπιστής</ProsthophileHappy.stages.transhumanist_enchanted.label>
+  <!-- EN: Four artificial body parts and I am becoming more than human. But there's still some flesh that needs replacing. -->
+  <ProsthophileHappy.stages.transhumanist_enchanted.description>Τέσσερα τεχνητά μέρη του σώματος και έχω γίνει περισσότερο από ανθρώπινος. Αλλά υπάρχει ακόμα κάποια σάρκα που χρειάζεται αντικατάσταση.</ProsthophileHappy.stages.transhumanist_enchanted.description>
+  <!-- EN: transhumanist overjoyed -->
+  <ProsthophileHappy.stages.transhumanist_overjoyed.label>πανευτυχής μετανθρωπιστής</ProsthophileHappy.stages.transhumanist_overjoyed.label>
+  <!-- EN: Five artificial body parts! How could an enhanced being like me ever feel sad? -->
+  <ProsthophileHappy.stages.transhumanist_overjoyed.description>Πέντε τεχνητά μέρη του σώματος! Πώς θα μπορούσε μια ενισχυμένη ύπαρξη όπως εγώ να αισθάνεται ποτέ λυπημένη;</ProsthophileHappy.stages.transhumanist_overjoyed.description>
+  <!-- EN: machine body is complete -->
+  <ProsthophileHappy.stages.machine_body_is_complete.label>το μηχανικό σώμα ολοκληρώθηκε</ProsthophileHappy.stages.machine_body_is_complete.label>
+  <!-- EN: I asked for this. -->
+  <ProsthophileHappy.stages.machine_body_is_complete.description>Το ζήτησα αυτό.</ProsthophileHappy.stages.machine_body_is_complete.description>
+  
+  <!-- EN: transhumanist frustrated -->
+  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>απογοητευμένος μετανθρωπιστής</ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>
+  <!-- EN: Flesh is so limiting. I wish I had some kind of artificial body part. -->
+  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>Η σάρκα είναι τόσο περιοριστική. Εύχομαι να αποκτήσω κάποιο τεχνητό μέρος του σώματος.</ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>
+  
+  <!-- EN: body purist squeamish -->
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.label>ο λουδίτης συχαίνεται</ProsthophobeUnhappy.stages.body_purist_squeamish.label>
+  <!-- EN: I hate having this unnatural thing attached to me. It feels so filthy! -->
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.description>Μισώ να έχω αυτό το αφύσικο πράγμα συνδεδεμένο με μένα. Φαίνεται τόσο σιχαμένο!</ProsthophobeUnhappy.stages.body_purist_squeamish.description>
+  <!-- EN: body purist disgusted -->
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.label>αηδιασμένος λουδίτης</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
+  <!-- EN: Two artificial parts are sullying my natural, pure body. It makes me sick to think of it. -->
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.description>Δύο τεχνητά μέρη κηλιδώνουν το φυσικό, καθαρό σώμα μου. Με κάνουν να νιώθω άρρωστος μόνο που το σκέφτομαι.</ProsthophobeUnhappy.stages.body_purist_disgusted.description>
+  <!-- EN: body purist violated -->
+  <ProsthophobeUnhappy.stages.body_purist_violated.label>λουδίτης παραβάτης</ProsthophobeUnhappy.stages.body_purist_violated.label>
+  <!-- EN: Three artificial parts violate my body's pure flesh. I shudder when I think of it... and these objects shudder with me. -->
+  <ProsthophobeUnhappy.stages.body_purist_violated.description>Τρία τεχνητά μέρη βιάζουν την καθαρή σάρκα του σώματος μου. Φρικιάζω όταν το σκέφτομαι... και αυτά τα αντικείμενα τρέμουν μαζί μου.</ProsthophobeUnhappy.stages.body_purist_violated.description>
+  <!-- EN: body purist horrified -->
+  <ProsthophobeUnhappy.stages.body_purist_horrified.label>φρικαρισμένος λουδίτης</ProsthophobeUnhappy.stages.body_purist_horrified.label>
+  <!-- EN: I have four artificial body parts; it's like I'm becoming a robot. What a horrifying sensation. -->
+  <ProsthophobeUnhappy.stages.body_purist_horrified.description>Έχω τέσσερα τεχνητά μέλη στο σώμα, μετατρέπομαι σε ρομπότ. Τι απαίσια αίσθηση.</ProsthophobeUnhappy.stages.body_purist_horrified.description>
+  <!-- EN: body purist nightmare -->
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.label>ο εφιάλτης του λουδίτη</ProsthophobeUnhappy.stages.body_purist_nightmare.label>
+  <!-- EN: Five artificial body parts... Is there anything left of me? Or am I just a robot that thinks it's human? -->
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.description>Πέντε τεχνητά μέλη του σώματος... Έμεινε κάτι από μένα; Ή είμαι απλά ένα ρομπότ που σκέφτεται ότι είναι άνθρωπος;</ProsthophobeUnhappy.stages.body_purist_nightmare.description>
+  <!-- EN: I have become what I hate -->
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>έχω γίνει αυτό που μισώ</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>
+  <!-- EN: I asked for the exact opposite of this! -->
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>Ζήτησα το ακριβώς αντίθετο από αυτό!</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>
+  
+  <!-- EN: pyromaniac has incendiary weapon -->
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>ο πυρομανής έχει εμπρηστικό όπλο</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
+  <!-- EN: It makes me think of flame and fire. I'm so happy. -->
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>Με κάνει να σκέφτομαι φλόγα και πυρκαγιά. Είμαι τόσο χαρούμενος.</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
+  
 </LanguageData>

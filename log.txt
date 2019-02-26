@@ -1,5 +1,0 @@
-{7/7/2014}[23:17](darklex55) I'll better use a normal changelog.txt! So as said before most of DefInjected files are traslated. We'll be done within the next 3 days. I'm also uploading the LangIcon.png and the FriendlyName.txt.
-{7/7/2014}[23:31](darklex55) While I was checking once more by opening the game and comparing I found out that a couple of sentences were not making sence which was expected as we are talknig about TRANSLATION ! Anyway, I'll stop checking for any mistakes and I'll upload the rest of the files as long as I'm done with all of them and check them ALL before uploading.
-{9/7/2014}[2:25](darklex55) Damn that took longer than expected. I don't thing this is going to cause any delays but anyway, I've uploaded the rest of the ThingDefs and I'm really glad it's done since it ruined my afternoon...
-{10/7/2014}[2:48](darklex55) I fully translated the DefInjected files. I'll upload the keyed files tomorrow.
-{6/6/2017}[3:55](darklex55) If you need ANY assistance (@glaciousm) send an e-mail at darklex55@gmail.com :) . 

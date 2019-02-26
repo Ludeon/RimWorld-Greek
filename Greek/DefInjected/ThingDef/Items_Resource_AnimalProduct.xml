@@ -1,64 +1,59 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Διάφορα (Misc) -->
-
-  <Milk.label>γάλα</Milk.label>
-  <Milk.description>Γάλα από ένα ζώο.</Milk.description>
-
-  <InsectJelly.label>γέλη εντόμου</InsectJelly.label>
-  <InsectJelly.description>Η γέλη αποθηκεύεται και χρησιμοποιείται ως τρόφιμο από τα υπερμεγέθη έντομα. Είναι λεία, πλούσια και φέρνει ευθυμία σε εκείνους που τη καταναλώνουν. Λόγω των μοναδικών βιολογικών ιδιοτήτων της, μπορεί να θρέψει σχεδόν οποιοδήποτε πλάσμα και δεν χαλάει ποτέ.</InsectJelly.description>
-
-
-  <!-- Κότα (Chicken) -->
-
-  <EggChickenUnfertilized.label>αυγό κότας (αγονιμ.)</EggChickenUnfertilized.label>
-  <EggChickenUnfertilized.description>Μη ωοτοκισμένο αυγό κοτόπουλου. Μπορεί να τρώγεται ωμό, αλλά είναι πολύ, πολύ καλύτερα μαγειρεμένο.</EggChickenUnfertilized.description>
-
-  <EggChickenFertilized.label>αυγό κότας (γονιμ.)</EggChickenFertilized.label>
-  <EggChickenFertilized.description>Γονιμοποιημένο αυγό κοτόπουλου. Αν όλα πάνε καλά, θα έπρεπε να εκκολαφτεί σε ένα κοτοπουλάκι. Μπορεί να τρώγεται ωμό, αλλά είναι πολύ καλύτερα μαγειρεμένο.</EggChickenFertilized.description>
-
-
-  <!-- Κόμπρα (Cobra) -->
-
-  <EggCobraFertilized.label>αυγό κόμπρας (γονιμ.)</EggCobraFertilized.label>
-  <EggCobraFertilized.description>Γονιμοποιημένο αυγό κόμπρας. Αν όλα πάνε καλά, θα έπρεπε να εκκολαφτεί σε ένα μωρό κόμπρας. Μπορεί να τρώγεται ωμό, αλλά είναι πολύ καλύτερα μαγειρεμένο.</EggCobraFertilized.description>
-
-
-  <!-- Iγκουάνα (Ιguana) -->
-
-  <EggIguanaFertilized.label>αυγό ιγκουάνας (γονιμ.)</EggIguanaFertilized.label>
-  <EggIguanaFertilized.description>Γονιμοποιημένο αυγό ιγκουάνας. Αν όλα πάνε καλά, θα πρέπει να εκκολαφτεί σε ένα μωρό ιγκουάνας. Μπορεί να τρώγεται ωμό, αλλά είναι πολύ καλύτερα μαγειρεμένο.</EggIguanaFertilized.description>
-
-
-  <!-- Χελώνα (Tortoise) -->
-
-  <EggTortoiseFertilized.label>αυγό χελώνας (γονιμ.)</EggTortoiseFertilized.label>
-  <EggTortoiseFertilized.description>Γονιμοποιημένο αυγό χελώνας. Αν όλα πάνε καλά, θα πρέπει να εκκολαφτεί σε ένα μωρό χελώνας. Μπορεί να τρώγεται ωμό, αλλά είναι πολύ καλύτερα μαγειρεμένο.</EggTortoiseFertilized.description>
-
-
-  <!-- Καζουάριος (Cassowary) -->
-
+  
+  <!-- EN: cassowary egg (fert.) -->
   <EggCassowaryFertilized.label>αυγό καζουάριου (γονιμ.)</EggCassowaryFertilized.label>
-  <EggCassowaryFertilized.description>Γονιμοποιημένο αυγό καζουάριου. Αν όλα πάνε καλά, θα πρέπει να εκκολαφτεί σε ένα νεοσσό καζουάριου. Μπορεί να τρώγεται ωμό, αλλά είναι πολύ καλύτερα μαγειρεμένο.</EggCassowaryFertilized.description>
-
-
-  <!-- Εμού (Emu) -->
-
+  <!-- EN: A fertilized cassowary egg. If all goes well, it should hatch into a baby cassowary. It can be eaten raw, but it's much better cooked. -->
+  <EggCassowaryFertilized.description>Γονιμοποιημένο αυγό καζουάριου. Αν όλα πάνε καλά, θα πρέπει να εκκολαφτεί σε ένα νεοσσό καζουάριου. Μπορεί να φαγωθεί ωμό, αλλά είναι πολύ καλύτερο μαγειρεμένο.</EggCassowaryFertilized.description>
+  
+  <!-- EN: chicken egg (fert.) -->
+  <EggChickenFertilized.label>αυγό κότας (γονιμ.)</EggChickenFertilized.label>
+  <!-- EN: A fertilized chicken egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked. -->
+  <EggChickenFertilized.description>Γονιμοποιημένο αυγό κοτόπουλου. Αν όλα πάνε καλά, θα έπρεπε να εκκολαφτεί σε ένα κοτοπουλάκι. Μπορεί να καταναλωθεί ωμό, αλλά είναι πολύ καλύτερο μαγειρεμένο.</EggChickenFertilized.description>
+  
+  <!-- EN: chicken egg (unfert.) -->
+  <EggChickenUnfertilized.label>αυγό κότας (αγονιμ.)</EggChickenUnfertilized.label>
+  <!-- EN: An unfertilized chicken egg. It can be eaten raw, but it's much, much better cooked. -->
+  <EggChickenUnfertilized.description>Μη ωοτοκισμένο αυγό κοτόπουλου. Μπορεί να καταναλωθεί ωμό, αλλά είναι πολύ, πολύ καλύτερα μαγειρεμένο.</EggChickenUnfertilized.description>
+  
+  <!-- EN: cobra egg (fert.) -->
+  <EggCobraFertilized.label>αυγό κόμπρας (γονιμ.)</EggCobraFertilized.label>
+  <!-- EN: A fertilized cobra egg. If all goes well, it should hatch into a baby cobra. It can be eaten raw, but it's much better cooked. -->
+  <EggCobraFertilized.description>Γονιμοποιημένο αυγό κόμπρας. Αν όλα πάνε καλά, θα έπρεπε να εκκολαφτεί σε ένα μωρό κόμπρας. Μπορεί να φαγωθεί ωμό, αλλά είναι πολύ καλύτερο μαγειρεμένο.</EggCobraFertilized.description>
+  
+  <!-- EN: emu egg (fert.) -->
   <EggEmuFertilized.label>αυγό εμού (γονιμ.)</EggEmuFertilized.label>
-  <EggEmuFertilized.description>Γονιμοποιημένο αυγό εμού. Αν όλα πάνε καλά, θα πρέπει να εκκολαφτεί σε ένα νεοσσό εμού. Μπορεί να τρώγεται ωμό, αλλά είναι πολύ καλύτερα μαγειρεμένο.</EggEmuFertilized.description>
-
-
-  <!-- Στρουθοκάμηλος (Ostrich0 -->
-
+  <!-- EN: A fertilized emu egg. If all goes well, it should hatch into a baby emu. It can be eaten raw, but it's much better cooked. -->
+  <EggEmuFertilized.description>Γονιμοποιημένο αυγό εμού. Αν όλα πάνε καλά, θα πρέπει να εκκολαφτεί σε ένα νεοσσό εμού. Μπορεί να καταναλωθεί ωμό, αλλά είναι πολύ καλύτερα μαγειρεμένο.</EggEmuFertilized.description>
+  
+  <!-- EN: iguana egg (fert.) -->
+  <EggIguanaFertilized.label>αυγό ιγκουάνας (γονιμ.)</EggIguanaFertilized.label>
+  <!-- EN: A fertilized iguana egg. If all goes well, it should hatch into a baby iguana. It can be eaten raw, but it's much better cooked. -->
+  <EggIguanaFertilized.description>Γονιμοποιημένο αυγό ιγκουάνας. Αν όλα πάνε καλά, θα πρέπει να εκκολαφτεί σε ένα μωρό ιγκουάνας. Μπορεί να φαγωθεί ωμό, αλλά είναι πολύ καλύτερα μαγειρεμένο.</EggIguanaFertilized.description>
+  
+  <!-- EN: ostrich egg (fert.) -->
   <EggOstrichFertilized.label>αυγό στρουθοκαμήλου (γονιμ.)</EggOstrichFertilized.label>
-  <EggOstrichFertilized.description>Γονιμοποιημένο αυγό στρουθοκαμήλου. Αν όλα πάνε καλά, θα πρέπει να εκκολαφτεί σε ένα νεοσσό στρουθοκαμήλου. Μπορεί να τρώγεται ωμό, αλλά είναι πολύ καλύτερα μαγειρεμένο.</EggOstrichFertilized.description>
-
-
-  <!-- Γαλοπούλα (Turkey) -->
-
+  <!-- EN: A fertilized ostrich egg. If all goes well, it should hatch into a baby ostrich. It can be eaten raw, but it's much better cooked. -->
+  <EggOstrichFertilized.description>Γονιμοποιημένο αυγό στρουθοκαμήλου. Αν όλα πάνε καλά, θα πρέπει να εκκολαφτεί σε ένα νεοσσό στρουθοκαμήλου. Μπορεί να καταναλωθεί ωμό, αλλά είναι πολύ καλύτερα μαγειρεμένο.</EggOstrichFertilized.description>
+  
+  <!-- EN: tortoise egg (fert.) -->
+  <EggTortoiseFertilized.label>αυγό χελώνας (γονιμ.)</EggTortoiseFertilized.label>
+  <!-- EN: A fertilized tortoise egg. If all goes well, it should hatch into a baby tortoise. It can be eaten raw, but it's much better cooked. -->
+  <EggTortoiseFertilized.description>Γονιμοποιημένο αυγό χελώνας. Αν όλα πάνε καλά, θα πρέπει να εκκολαφτεί σε ένα μωρό χελώνας. Μπορεί να φαγωθεί ωμό, αλλά είναι πολύ καλύτερα μαγειρεμένο.</EggTortoiseFertilized.description>
+  
+  <!-- EN: turkey egg (fert.) -->
   <EggTurkeyFertilized.label>αυγό γαλοπούλας (γονιμ.)</EggTurkeyFertilized.label>
-  <EggTurkeyFertilized.description>Γονιμοποιημένο αυγό γαλοπούλας. Αν όλα πάνε καλά, θα πρέπει να εκκολαφτεί σε ένα γαλοπουλάκι. Μπορεί να τρώγεται ωμό, αλλά είναι πολύ καλύτερα μαγειρεμένο.</EggTurkeyFertilized.description>
-
-
+  <!-- EN: A fertilized turkey egg. If all goes well, it should hatch into a baby turkey. It can be eaten raw, but it's much better cooked. -->
+  <EggTurkeyFertilized.description>Γονιμοποιημένο αυγό γαλοπούλας. Αν όλα πάνε καλά, θα πρέπει να εκκολαφτεί σε ένα γαλοπουλάκι. Μπορεί να καταναλωθεί ωμό, αλλά είναι πολύ καλύτερο μαγειρεμένο.</EggTurkeyFertilized.description>
+  
+  <!-- EN: insect jelly -->
+  <InsectJelly.label>γέλη εντόμου</InsectJelly.label>
+  <!-- EN: Jelly stored and used as food by oversized insects. It is smooth, rich, and fulfills the recreation need of those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots. -->
+  <InsectJelly.description>Η γέλη αποθηκεύεται και χρησιμοποιείται ως τρόφιμο από τα υπερμεγέθη έντομα. Είναι λεία, πλούσια και φέρνει ευθυμία σε εκείνους που τη καταναλώνουν. Λόγω των μοναδικών βιολογικών ιδιοτήτων της, μπορεί να θρέψει σχεδόν οποιοδήποτε πλάσμα και δεν χαλάει ποτέ.</InsectJelly.description>
+  
+  <!-- EN: milk -->
+  <Milk.label>γάλα</Milk.label>
+  <!-- EN: Milk from an animal. -->
+  <Milk.description>Γάλα από ένα ζώο.</Milk.description>
+  
 </LanguageData>

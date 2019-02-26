@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bridgeable -->
+  <Bridgeable.label>γεφυρώσιμο</Bridgeable.label>
+  
+  <!-- EN: diggable -->
+  <Diggable.label>μπορεί να σκαφτεί</Diggable.label>
+  
+  <!-- EN: growable -->
+  <GrowSoil.label>μπορεί να φυτευτεί</GrowSoil.label>
+  
+  <!-- EN: heavy -->
+  <Heavy.label>ισχυρό</Heavy.label>
+  
+  <!-- EN: light -->
+  <Light.label>αδύναμο</Light.label>
+  
+  <!-- EN: medium -->
+  <Medium.label>κανονικό</Medium.label>
+  
+  <!-- EN: moving water -->
+  <MovingFluid.label>τρεχούμενο νερό</MovingFluid.label>
+  
+  <!-- EN: shallow water -->
+  <ShallowWater.label>αβαθή ύδατα</ShallowWater.label>
+  
+  <!-- EN: smoothable -->
+  <SmoothableStone.label>μπορεί να λειανθεί</SmoothableStone.label>
+  
+</LanguageData>

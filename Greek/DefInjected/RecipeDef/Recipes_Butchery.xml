@@ -1,13 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: butcher creature -->
   <ButcherCorpseFlesh.label>σφάξε ζώο</ButcherCorpseFlesh.label>
-  <ButcherCorpseFlesh.description>Τεμάχισε ένα ζώο για να πάρεις το κρέας του σε εύχρηστη μορφή.</ButcherCorpseFlesh.description>
+  <!-- EN: Butcher a creature to obtain its meat, leather, and other body products. -->
+  <ButcherCorpseFlesh.description>Τεμάχισε ένα πλάσμα για να πάρεις το κρέας του, το δέρμα του και άλλα σωματικά  προϊόντα.</ButcherCorpseFlesh.description>
+  <!-- EN: Butchering. -->
   <ButcherCorpseFlesh.jobString>Σφάζει.</ButcherCorpseFlesh.jobString>
-
+  
+  <!-- EN: disassemble mechanoid -->
   <ButcherCorpseMechanoid.label>αποσυναρμολόγησε μηχανικό πλάσμα</ButcherCorpseMechanoid.label>
+  <!-- EN: Disassemble a dead mechanoid into its component parts. -->
   <ButcherCorpseMechanoid.description>Αποσυναρμολογείς ένα μηχανικό πτώμα στα βασικά του μέρη.</ButcherCorpseMechanoid.description>
+  <!-- EN: Disassembling mechanoid. -->
   <ButcherCorpseMechanoid.jobString>Αποσυναρμολογεί μηχανικό πτώμα.</ButcherCorpseMechanoid.jobString>
-
-
+  
 </LanguageData>

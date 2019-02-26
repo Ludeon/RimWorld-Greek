@@ -1,12 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: malnutrition -->
   <Malnutrition.label>υποσιτισμός</Malnutrition.label>
-  <Malnutrition.stages.0.label>ασήμαντος</Malnutrition.stages.0.label>
-  <Malnutrition.stages.1.label>ελάχιστος</Malnutrition.stages.1.label>
-  <Malnutrition.stages.2.label>μέτριος</Malnutrition.stages.2.label>
-  <Malnutrition.stages.3.label>σοβαρός</Malnutrition.stages.3.label>
-  <Malnutrition.stages.4.label>ακραίος</Malnutrition.stages.4.label>
-
-
+  <!-- EN: trivial -->
+  <Malnutrition.stages.trivial.label>ασήμαντος</Malnutrition.stages.trivial.label>
+  <!-- EN: minor -->
+  <Malnutrition.stages.minor.label>ελάχιστος</Malnutrition.stages.minor.label>
+  <!-- EN: moderate -->
+  <Malnutrition.stages.moderate.label>μέτριος</Malnutrition.stages.moderate.label>
+  <!-- EN: severe -->
+  <Malnutrition.stages.severe.label>σοβαρός</Malnutrition.stages.severe.label>
+  <!-- EN: extreme -->
+  <Malnutrition.stages.extreme.label>ακραίος</Malnutrition.stages.extreme.label>
+  
 </LanguageData>

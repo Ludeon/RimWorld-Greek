@@ -1,11 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: tropical rainforest -->
   <TropicalRainforest.label>τροπικό δάσος</TropicalRainforest.label>
-  <TropicalRainforest.description>Μια πυκνή, υγρή ζούγκλα. Παρά την οπτική της ομορφιά, αυτός είναι ένα πολύ επικίνδυνο βιότοπος. Πνιγερή υπερανάπτυξη, επιθετικά ζώα, και συνεχή ασθένεια είναι για μερικούς εξερευνητές αυτό που αποκαλούν "πράσινη κόλαση".</TropicalRainforest.description>
-
+  <!-- EN: A thick, moist jungle, buzzing with animal life and infested with disease. Despite its visual beauty, this is a very dangerous biome. Choking overgrowth, aggressive animals, and constant sickness are why some explorers call this the "green hell". -->
+  <TropicalRainforest.description>Μια πυκνή, υγρή ζούγκλα, βρίθει από ζωική ζωή και λυμαίνεται από ασθένειες. Παρά την οπτική της ομορφιά, αυτός είναι ένα πολύ επικίνδυνο βιότοπος. Πνιγερή υπερανάπτυξη, επιθετικά ζώα, και συνεχή ασθένεια είναι για μερικούς εξερευνητές αυτό που αποκαλούν "πράσινη κόλαση".</TropicalRainforest.description>
+  
+  <!-- EN: tropical swamp -->
   <TropicalSwamp.label>τροπικός βάλτος</TropicalSwamp.label>
-  <TropicalSwamp.description>Μια πυκνή ζούγκλα με πολλά έλη και λάσπη. Η δυσκολία στη κίνηση, ο μικρός χώρος για την κατασκευή βαρέων δομών, τα επιθετικά ζώα και οι συνεχείς ασθένειες καθιστούν τη ζωή εδώ έναν εφιάλτη.</TropicalSwamp.description>
-
-
+  <!-- EN: A plant-choked, steamy swamp seething with parasites and pathogens. Much of the land is too marshy to build on. Difficult movement, aggressive animals, and rampant disease make living here a nightmare. -->
+  <TropicalSwamp.description>Ένας φυτικά-πνιγμένος, ατμώδης βάλτος γεμάτο με παράσιτα και παθογόνα. Η δυσκολία στη κίνηση, τα επιθετικά ζώα και οι συνεχείς ασθένειες καθιστούν τη ζωή εδώ έναν εφιάλτη.</TropicalSwamp.description>
+  
 </LanguageData>

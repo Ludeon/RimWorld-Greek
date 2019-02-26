@@ -1,9 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Slaughter.headerTip>Σφάξιμο</Slaughter.headerTip>
+  
+  <!-- EN: Follow master while the master is drafted. -->
   <FollowDrafted.headerTip>Ακολουθεί το αφεντικό του όταν το αφεντικό περιπλανιέται.</FollowDrafted.headerTip>
+  
+  <!-- EN: Follow master while the master is doing field work (hunting or taming animals). -->
   <FollowFieldwork.headerTip>Ακολουθεί τον αφεντικό του ενώ το αφεντικό εργάζεται στο τομέα (κυνηγιού η εξημέρωσης ζώων).</FollowFieldwork.headerTip>
-
-
+  
+  <!-- EN: Mark animals to be hunted by your hunters. -->
+  <Hunt.headerTip>Επισήμανση ζώων που θα κυνηγηθούν από τους κυνηγούς.</Hunt.headerTip>
+  
+  <!-- EN: Slaughter -->
+  <Slaughter.headerTip>Σφάξιμο</Slaughter.headerTip>
+  
+  <!-- EN: Tame a wild animal. -->
+  <Tame.headerTip>Εξημέρωση ενός άγριου ζώου.</Tame.headerTip>
+  
 </LanguageData>

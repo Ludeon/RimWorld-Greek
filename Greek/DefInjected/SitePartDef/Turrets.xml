@@ -1,9 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: turrets -->
   <Turrets.label>πυργίσκοι</Turrets.label>
+  <!-- EN: A group of turrets. -->
   <Turrets.description>Λίγοι πυργίσκοι.</Turrets.description>
-  <Turrets.descriptionDialogue>μία περίμετρος από εχθρικούς πυργίσκους οχυρώνει την περιοχή</Turrets.descriptionDialogue>
-
-
+  <!-- EN: There are enemy turrets in this area. -->
+  <Turrets.arrivedLetter>Υπάρχουν εχθρικοί πυργίσκοι στον τομέα.</Turrets.arrivedLetter>
+  <!-- EN: {0} defend the site -->
+  <Turrets.descriptionDialogue>μία περίμετρος από {0} εχθρικούς πυργίσκους οχυρώνει την περιοχή</Turrets.descriptionDialogue>
+  
 </LanguageData>

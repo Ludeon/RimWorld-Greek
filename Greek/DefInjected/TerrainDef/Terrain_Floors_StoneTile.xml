@@ -1,35 +1,54 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <TileSandstone.label>πλακάκι αμμόλιθου</TileSandstone.label>
-  <TileSandstone.description>Λεπτά, προσεκτικά κομμένα πέτρινα πλακάκια για μία αίσθηση κάστρου. Όμορφα για να τα κοιτάς, αλλά χρειάζονται πολύ χρόνο για να τοποθετηθούν.</TileSandstone.description>
-
-  <TileGranite.label>γρανιτένιο πλακάκι</TileGranite.label>
-  <TileGranite.description>Λεπτά, προσεκτικά κομμένα πέτρινα πλακάκια για μία αίσθηση κάστρου. Όμορφα για να τα κοιτάς, αλλά χρειάζονται πολύ χρόνο για να τοποθετηθούν.</TileGranite.description>
-
-  <TileLimestone.label>πλακάκι ασβεστόλιθου</TileLimestone.label>
-  <TileLimestone.description>Λεπτά, προσεκτικά κομμένα πέτρινα πλακάκια για μία αίσθηση κάστρου. Όμορφα για να τα κοιτάς, αλλά χρειάζονται πολύ χρόνο για να τοποθετηθούν.</TileLimestone.description>
-
-  <TileSlate.label>πλακάκι σχιστόλιθου</TileSlate.label>
-  <TileSlate.description>Λεπτά, προσεκτικά κομμένα πέτρινα πλακάκια για μία αίσθηση κάστρου. Όμορφα για να τα κοιτάς, αλλά χρειάζονται πολύ χρόνο για να τοποθετηθούν.</TileSlate.description>
-
-  <TileMarble.label>μαρμάρινο πλακάκι</TileMarble.label>
-  <TileMarble.description>Λεπτά, προσεκτικά κομμένα πέτρινα πλακάκια για μία αίσθηση κάστρου. Όμορφα για να τα κοιτάς, αλλά χρειάζονται πολύ χρόνο για να τοποθετηθούν.</TileMarble.description>
-
-  <FlagstoneSandstone.label>πλάκα αμμόλιθου</FlagstoneSandstone.label>
-  <FlagstoneSandstone.description>Χοντροκομμένα πέτρινα πλακάκια. Δεν είναι πολύ όμορφα, αλλά κάνουν καλές επιφάνειες για δρόμους και υπαίθριους διαδρόμους. Η αποδόμηση του λιθόστρωτου δεν αποφέρει πόρους.</FlagstoneSandstone.description>
-
+  
+  <!-- EN: granite flagstone -->
   <FlagstoneGranite.label>γρανιτένια πλάκα</FlagstoneGranite.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
   <FlagstoneGranite.description>Χοντροκομμένα πέτρινα πλακάκια. Δεν είναι πολύ όμορφα, αλλά κάνουν καλές επιφάνειες για δρόμους και υπαίθριους διαδρόμους. Η αποδόμηση του λιθόστρωτου δεν αποφέρει πόρους.</FlagstoneGranite.description>
-
+  
+  <!-- EN: limestone flagstone -->
   <FlagstoneLimestone.label>πλάκα ασβεστόλιθου</FlagstoneLimestone.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
   <FlagstoneLimestone.description>Χοντροκομμένα πέτρινα πλακάκια. Δεν είναι πολύ όμορφα, αλλά κάνουν καλές επιφάνειες για δρόμους και υπαίθριους διαδρόμους. Η αποδόμηση του λιθόστρωτου δεν αποφέρει πόρους.</FlagstoneLimestone.description>
-
-  <FlagstoneSlate.label>πλάκα σχιστόλιθου</FlagstoneSlate.label>
-  <FlagstoneSlate.description>Χοντροκομμένα πέτρινα πλακάκια. Δεν είναι πολύ όμορφα, αλλά κάνουν καλές επιφάνειες για δρόμους και υπαίθριους διαδρόμους. Η αποδόμηση του λιθόστρωτου δεν αποφέρει πόρους.</FlagstoneSlate.description>
-
+  
+  <!-- EN: marble flagstone -->
   <FlagstoneMarble.label>μαρμάρινη πλάκα</FlagstoneMarble.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
   <FlagstoneMarble.description>Χοντροκομμένα πέτρινα πλακάκια. Δεν είναι πολύ όμορφα, αλλά κάνουν καλές επιφάνειες για δρόμους και υπαίθριους διαδρόμους. Η αποδόμηση του λιθόστρωτου δεν αποφέρει πόρους.</FlagstoneMarble.description>
-
-
+  
+  <!-- EN: sandstone flagstone -->
+  <FlagstoneSandstone.label>πλάκα αμμόλιθου</FlagstoneSandstone.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneSandstone.description>Χοντροκομμένα πέτρινα πλακάκια. Δεν είναι πολύ όμορφα, αλλά κάνουν καλές επιφάνειες για δρόμους και υπαίθριους διαδρόμους. Η αποδόμηση του λιθόστρωτου δεν αποφέρει πόρους.</FlagstoneSandstone.description>
+  
+  <!-- EN: slate flagstone -->
+  <FlagstoneSlate.label>πλάκα σχιστόλιθου</FlagstoneSlate.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneSlate.description>Χοντροκομμένα πέτρινα πλακάκια. Δεν είναι πολύ όμορφα, αλλά κάνουν καλές επιφάνειες για δρόμους και υπαίθριους διαδρόμους. Η αποδόμηση του λιθόστρωτου δεν αποφέρει πόρους.</FlagstoneSlate.description>
+  
+  <!-- EN: granite tile -->
+  <TileGranite.label>γρανιτένιο πλακάκι</TileGranite.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileGranite.description>Λεπτά, προσεκτικά κομμένα πέτρινα πλακάκια για μία αίσθηση κάστρου. Όμορφα για να τα κοιτάς, αλλά χρειάζονται πολύ χρόνο για να τοποθετηθούν.</TileGranite.description>
+  
+  <!-- EN: limestone tile -->
+  <TileLimestone.label>πλακάκι ασβεστόλιθου</TileLimestone.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileLimestone.description>Λεπτά, προσεκτικά κομμένα πέτρινα πλακάκια για μία αίσθηση κάστρου. Όμορφα για να τα κοιτάς, αλλά χρειάζονται πολύ χρόνο για να τοποθετηθούν.</TileLimestone.description>
+  
+  <!-- EN: marble tile -->
+  <TileMarble.label>μαρμάρινο πλακάκι</TileMarble.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileMarble.description>Λεπτά, προσεκτικά κομμένα πέτρινα πλακάκια για μία αίσθηση κάστρου. Όμορφα για να τα κοιτάς, αλλά χρειάζονται πολύ χρόνο για να τοποθετηθούν.</TileMarble.description>
+  
+  <!-- EN: sandstone tile -->
+  <TileSandstone.label>πλακάκι αμμόλιθου</TileSandstone.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileSandstone.description>Λεπτά, προσεκτικά κομμένα πέτρινα πλακάκια για μία αίσθηση κάστρου. Όμορφα στην εμφάνιση, αλλά χρειάζονται πολύ χρόνο για να τοποθετηθούν.</TileSandstone.description>
+  
+  <!-- EN: slate tile -->
+  <TileSlate.label>πλακάκι σχιστόλιθου</TileSlate.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileSlate.description>Λεπτά, προσεκτικά κομμένα πέτρινα πλακάκια για μία αίσθηση κάστρου. Όμορφα στην όψη, αλλά χρειάζονται πολύ χρόνο για να τοποθετηθούν.</TileSlate.description>
+  
 </LanguageData>

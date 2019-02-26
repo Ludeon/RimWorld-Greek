@@ -1,112 +1,200 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Click to jump to problem -->
   <ClickToJumpToProblem>Κάνε κλικ για να πας στο πρόβλημα</ClickToJumpToProblem>
 
+  <!-- EN: Minor break risk -->
   <BreakRiskMinor>Μικρός κίνδυνος κατάρρευσης</BreakRiskMinor>
+  <!-- EN: Major break risk -->
   <BreakRiskMajor>Μεγάλος κίνδυνος κατάρρευσης</BreakRiskMajor>
+  <!-- EN: Extreme break risk -->
   <BreakRiskExtreme>Ακραίος κίνδυνος κατάρρευσης</BreakRiskExtreme>
+  <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
   <BreakRiskMinorDesc>Αυτοί οι άποικοι είναι σε κακή διάθεση και μπορεί να πάθουν μία μικρή ψυχολογική κατάρρευση ανά πάσα στιγμή:\n\n{0}</BreakRiskMinorDesc>
+  <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
   <BreakRiskMajorDesc>Αυτοί οι άποικοι είναι σε πολύ κακή διάθεση και μπορεί να πάθουν μία μεγάλη ψυχολογική κατάρρευση ανά πάσα στιγμή:\n\n{0}</BreakRiskMajorDesc>
-  <BreakRiskExtremeDesc>Αυτοί οι άποικοι είναι σε πολύ ακραία διάθεση και μπορεί να πάθουν μία ακραία ψυχολογική κατάρρευση (και πιθανών βίαιη) από στιγμή σε στιγμή:\n\n{0}</BreakRiskExtremeDesc>
-  <BreakRiskDescEnding>Έλεγξε την καρτέλα Αναγκών αυτών των αποίκων για να δεις τι τους ενοχλεί.\n\nΓια να τους κάνεις να νοιώσουν καλύτερα, μπορείς να κάνεις κάτι όπως φανταχτερά γεύματα, να τους δώσεις περισσότερες ώρες ψυχαγωγίας ανά μέρα και καλύτερα αντικείμενα ψυχαγωγίας, να τους τοποθετήσεις σε όμορφο περιβάλλον, να τους δώσεις να πιουν ή να καπνίσουν και λοιπά.</BreakRiskDescEnding>
-
+  <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
+  <BreakRiskExtremeDesc>Αυτοί οι άποικοι βρίσκονται σε πολύ κρίσιμο άγχος και μπορεί να πάθουν μία ακραία ψυχολογική κατάρρευση (και πιθανών βίαιη) από στιγμή σε στιγμή:\n\n{0}</BreakRiskExtremeDesc>
+  <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
+  <BreakRiskDescEnding>Έλεγξε την καρτέλα Αναγκών αυτών των αποίκων για να δεις τι τους ενοχλεί.\n\nΓια να τους κάνεις να νοιώσουν καλύτερα, μπορείς να κάνεις κάτι όπως πολύπλοκα γεύματα, να τους δώσεις περισσότερες ώρες ψυχαγωγίας ανά μέρα και καλύτερα αντικείμενα ψυχαγωγίας, να τους τοποθετήσεις σε όμορφο περιβάλλον, να τους δώσεις να πιουν ή να καπνίσουν και λοιπά.</BreakRiskDescEnding>
+  
+  <!-- EN: Colonist needs rescue -->
   <ColonistNeedsRescue>Κάποιος άποικος χρειάζεται διάσωση</ColonistNeedsRescue>
+  <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>Κάποιοι άποικοι χρειάζονται διάσωση</ColonistsNeedRescue>
+  <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
   <ColonistsNeedRescueDesc>Αυτοί οι άποικοι είναι πλέον ανίκανοι και πεσμένοι στο έδαφος:\n\n{0}\nΣτείλε κάποιον άλλο άποικο να τους διασώσει και να τους μεταφέρει στο κρεβάτι.\n\n(Για να διασώσεις, επέλεξε κάποιον άλλο άποικο, μετά κάνε δεξί κλικ στο θύμα και επέλεξε Διάσωση).</ColonistsNeedRescueDesc>
 
-  <NeedDefenses>Χρειάζονται άμυνες</NeedDefenses>
-  <NeedDefensesDesc>Βρίσκεσαι εδώ κάποιο καιρό και πιθανών να σε έχουν δει. Οι επιδρομές των πειρατών θα ξεκινήσουν σύντομα.\n\nΘα πρέπει να προετοιμάσεις άμυνες, είτε είναι παγίδες είτε αμμόσακοι είτε τηλεβόλα.</NeedDefensesDesc>
+  <!-- EN: Need defenses -->
+  <NeedDefenses>Χρειάζεσαι άμυνες</NeedDefenses>
+  <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
+  <NeedDefensesDesc>Βρίσκεσαι εδώ κάποιο καιρό και πιθανών να σε έχουν δει. Οι επιδρομές των πειρατών θα ξεκινήσουν σύντομα.\n\nΘα πρέπει να προετοιμάσεις άμυνες, όπως αμμόσακους και παγίδες.</NeedDefensesDesc>
 
-  <NeedDoctor>Χρειάζεται γιατρό</NeedDoctor>
-  <NeedDoctorDesc>Αυτοί οι άποικοι χρειάζονται ιατρική περίθαλψη, αλλά δεν έχεις κάποιον υγιή άποικο που να έχει ανατεθεί ως γιατρός.\n\n{0}\nΑνέθεσε έναν υγιή άποικο στον τύπο εργασίας Γιατρός. Αν αφεθεί χωρίς θεραπεία, τα τραύματα μπορεί να μην θεραπευτούν ποτέ σωστά και να γίνουν μόνιμα.</NeedDoctorDesc>
+  <!-- EN: Need doctor -->
+  <NeedDoctor>Χρειάζεσαι γιατρό</NeedDoctor>
+  <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
+  <NeedDoctorDesc>Αυτοί οι άποικοι χρειάζονται ιατρική περίθαλψη, αλλά δεν έχεις υγιείς αποίκους που να τους έχει ανατεθεί η ιατρική.\n\n{0}\nΑνέθεσε σε έναν υγιή άποικο τον τύπο εργασίας Γιατρός. Αν αφεθεί χωρίς θεραπεία, τα τραύματα μπορεί να μην θεραπευτούν ποτέ σωστά και να γίνουν μόνιμα.</NeedDoctorDesc>
 
-  <NeedMiner>Χρειάζεται μεταλλωρύχος</NeedMiner>
+  <!-- EN: Need miner -->
+  <NeedMiner>Χρειάζεσαι μεταλλωρύχο</NeedMiner>
+  <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
   <NeedMinerDesc>Έχεις ορίσει κάποια πετρώματα προς εξόρυξη, αλλά κανένας άποικος δεν έχει τον τύπο εργασίας Μεταλλωρύχος.\n\nΌρισε έναν άποικο στον τύπο εργασίας Μεταλλωρύχος.</NeedMinerDesc>
 
-  <NeedWarden>Χρειάζεται φύλακας</NeedWarden>
+  <!-- EN: Need warden -->
+  <NeedWarden>Χρειάζεσαι φύλακα</NeedWarden>
+  <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
   <NeedWardenDesc>Έχεις φυλακισμένους, αλλά κανένας άποικος δεν έχει τον τύπο εργασίας Φύλακας.\n\nΌρισε έναν άποικο στον τύπο εργασίας Φύλακας.</NeedWardenDesc>
 
+  <!-- EN: Low food -->
   <LowFood>Ελάχιστα φαγητό</LowFood>
+  <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
   <LowFoodDesc>Υπάρχουν επικίνδυνα λίγα τρόφιμα.\n\n    Ποσότητα τροφίμων στην αποθήκη: {0}\n    Αριθμός αποίκων και φυλακισμένων που καταναλώνουν φαγητό: {1}\n    Ημέρες που απομένουν μέχρι να καταναλωθούν τα τρόφιμα στην αποθήκη: {2}\n\nΚαλλιέργησε, αγόρασε, βρες ή κυνήγησε για να πάρεις τρόφιμα.</LowFoodDesc>
 
+  <!-- EN: Low medicine -->
   <LowMedicine>Ελάχιστα φάρμακα</LowMedicine>
+  <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
   <LowMedicineDesc>Έχεις μόνο {0} φάρμακα στην αποθήκη.\n\nΑγόρασε περισσότερα φάρμακα από έμπορους.</LowMedicineDesc>
+  <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
   <NoMedicineDesc>Δεν έχεις άλλα φάρμακα στην αποθήκη.\n\nΑγόρασε περισσότερα φάρμακα από έμπορους.</NoMedicineDesc>
-
+  
+  <!-- EN: Need colonist beds -->
   <NeedColonistBeds>Χρειάζονται κρεβάτια για τους αποίκους</NeedColonistBeds>
+  <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
   <NeedColonistBedsDesc>Έχεις περισσότερους αποίκους σε σχέση με τα διαθέσιμα κρεβάτια. Κάποιος δεν θα έχει που να κοιμηθεί.\n\nΕίτε κατασκεύασε περισσότερα κρεβάτια, είτε άλλαξε ένα κρεβάτι φυλακισμένου σε κρεβάτι αποίκου.\n\nΑν δεν έχεις διαθέσιμους πόρους, τα σημεία ύπνου είναι δωρεάν και μπορούν να τοποθετηθούν άμεσα.</NeedColonistBedsDesc>
 
-  <HunterLacksWeapon>Κάποιος κυνηγός δεν έχει όπλο εμβέλειας</HunterLacksWeapon>
+  <!-- EN: Hunter lacks ranged weapon -->
+  <HunterLacksWeapon>Κάποιος κυνηγός δεν έχει βαλλιστικό όπλο</HunterLacksWeapon>
+  <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
   <HunterLacksWeaponDesc>Κάποιος άποικος έχει οριστεί ως κυνηγός αλλά δεν έχει όπλο εμβέλειας.\n\nΔεν θα κυνηγήσει μέχρι να αποκτήσει όπλο εμβέλειας.</HunterLacksWeaponDesc>
 
+  <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>Κατεστραμμένος ρουχισμός</AlertTatteredApparel>
+  <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
   <AlertTatteredApparelDesc>Αυτοί οι άποικοι φοράνε κατεστραμμένα ρούχα, πράγμα που τους κάνει δυστυχισμένους:\n\n{0}\nΔώσε τους ρουχισμό που να είναι σε καλύτερη κατάσταση.\n\nΜπορείς να ράψεις ρουχισμό σε έναν σταθμό ραπτικής ή να αγοράσεις από έμπορους.</AlertTatteredApparelDesc>
 
+  <!-- EN: Unhappy nudity -->
   <AlertUnhappyNudity>Ανεπιθύμητη γυμνότητα</AlertUnhappyNudity>
+  <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
   <AlertUnhappyNudityDesc>Αυτοί οι άποικοι είναι γυμνοί και δεν τους αρέσει:\n\n{0}\nΔώσε τους κάποια ρούχα.\n\nΜπορείς να ράψεις ρουχισμό σε έναν σταθμό ραπτικής ή να αγοράσεις από έμπορους.</AlertUnhappyNudityDesc>
 
+  <!-- EN: Starvation -->
   <Starvation>Λιμοκτονία</Starvation>
+  <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
   <StarvationDesc>Αυτοί οι άποικοι λιμοκτονούν:\n\n{0}\nΔώσε τους φαγητό.</StarvationDesc>
 
+  <!-- EN: Animal starvation -->
   <StarvationAnimals>Λιμοκτονία ζώων</StarvationAnimals>
+  <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
   <StarvationAnimalsDesc>Αυτά τα ζώα της αποικίας λιμοκτονούν:\n\n{0}\nΔώσε τους φαγητό.</StarvationAnimalsDesc>
 
+  <!-- EN: Exhaustion -->
   <Exhaustion>Εξάντληση</Exhaustion>
+  <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
   <ExhaustionDesc>Αυτοί οι άποικοι έχουν εξαντληθεί και χρειάζονται ξεκούραση:\n\n{0}\nΆσε τους να ξεκουραστούν. Θα χρειαστούν ένα κρεβάτι για χρήση από αποίκους. Επίσης σιγουρέψου ότι δεν έχουν στρατολογηθεί.</ExhaustionDesc>
 
-  <NeedFoodHopper>Χρειάζεται χοάνη τροφίμων</NeedFoodHopper>
+  <!-- EN: Need food hopper -->
+  <NeedFoodHopper>Χρειάζεσαι χοάνη τροφίμων</NeedFoodHopper>
+  <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
   <NeedFoodHopperDesc>Έχεις διανομέα τροφής χωρίς χοάνη δίπλα του.\n\nΓια να λειτουργήσει ο διανομέας πρέπει να τραβήξει από μία παρακείμενη χοάνη με ωμά τρόφιμα.\n\nΚατασκεύασε μία χοάνη δίπλα στον διανομέα.</NeedFoodHopperDesc>
 
-  <NeedMealSource>Χρειάζεται πηγή γεύματος</NeedMealSource>
+  <!-- EN: Need meal source -->
+  <NeedMealSource>Χρειάζεσαι πηγή γεύματος</NeedMealSource>
+  <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
   <NeedMealSourceDesc>Δεν έχεις τρόπο παρασκευής γευμάτων από ωμά τρόφιμα.\n\nΚατασκεύασε μία κουζίνα, μία εστία, ή έναν διανομέα τροφής.\n\n(Δεν πρέπει να βρίσκεται μέσα σε κελί φυλακής, αλλιώς οι άποικοι δεν θα μπορούν να το χρησιμοποιήσουν.)</NeedMealSourceDesc>
 
-  <NeedJoySource>Χρειάζεται πηγή ψυχαγωγίας</NeedJoySource>
-  <NeedJoySourceDesc>Οι άποικοί σου χρειάζονται να ικανοποιήσουν την ανάγκη τους για ψυχαγωγία, αλλά δεν έχεις κατασκευάσει κάποια ανάλογη πηγή.\n\nΒοήθησέ τους με το ν κατασκευάσεις μία δοκό πετάλων, ένα σκάκι ή κάποια άλλη πηγή ψυχαγωγίας.</NeedJoySourceDesc>
+  <!-- EN: Need recreation variety -->
+  <NeedJoySource>Χρειάζεσαι πηγή ψυχαγωγίας</NeedJoySource>
+  <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
+  <NeedJoySourceDesc>Υπάρχουν μόνο {0} διαφορετικοί τύποι αναψυχής διαθέσιμοι στο {1}, αλλά στο τρέχον επίπεδο προσδοκιών ({2}), οι άποικοι χρειάζονται {3} διαφορετικά είδη αναψυχής για να παραμείνουν ικανοποιημένοι. Να τους παρέχεις μια ποικιλία στην διασκέδαση παρέχοντας ένα νέο, διαφορετικό είδος αναψυχής. \n\n{4}\n\n{5}\n\nΣημείωση: Μπορείς να ελέγξεις τον τύπο αναψυχής οποιουδήποτε στοιχείου στη σελίδα στατιστικών του, έχοντας πρόσβαση σε αυτό με το πλήκτρο 'i'.</NeedJoySourceDesc>
+  <!-- EN: Available recreation types -->
+  <AvailableRecreationTypes>Διαθέσιμοι τύποι αναψυχής</AvailableRecreationTypes>
+  <!-- EN: Missing recreation types -->
+  <MissingRecreationTypes>Τύποι αναψυχής που λείπουν</MissingRecreationTypes>
+  <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
+  <CurrentExpectationsAndRecreation>Στις τρέχουσες προσδοκίες ({0}), κάθε ανοχή μειώνεται κατά {1} ανά ημέρα που είναι ξύπνιος. Συνιστάται να έχεις {2} τύπους αναψυχής.</CurrentExpectationsAndRecreation>
+  <!-- EN: bored -->
+  <bored>βαριεστημένος</bored>
 
+  <!-- EN: Boredom -->
+  <Boredom>Πλήξη</Boredom>
+  <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
+  <BoredomDesc>Αυτοί οι άνθρωποι είτε χρειάζονται διασκέδαση είτε έχουν αναλάβει την ψυχαγωγία, αλλά έχουν βαρεθεί κάθε διαθέσιμη πηγή διασκέδασης:\n\n{0}\n\nΔιαθέσετε τους περισσότερους τύπους αναψυχής.\n\nΤα διαθέσιμα είδη αναψυχής για {PAWN_labelShort}:\n\n{2}</BoredomDesc>
+
+  <!-- EN: Need batteries -->
   <NeedBatteries>Χρειάζονται μπαταρίες</NeedBatteries>
+  <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
   <NeedBatteriesDesc>Έχεις κάποιο φωτοβολταϊκό ή κάποια ανεμογεννήτρια, αλλά όχι μπαταρίες. Αυτό σημαίνει ότι δεν θα έχεις ισχύ όταν δύει ο ήλιος ή όταν πέφτει ο άνεμος.\n\nΚατασκεύασε κάποια μπαταρία για να εξασφαλίσεις συνεχή ισχύ.</NeedBatteriesDesc>
 
-  <BrawlerHasRangedWeapon>Κάποιος πυγμάχος έχει όπλο εμβέλειας</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>Κάποιος άποικός σου έχει το χαρακτηριστικό προσωπικότητας Πυγμάχος, αλλά φέρει όπλο εμβέλειας. Αυτό θα τον κάνει δυστυχισμένο.</BrawlerHasRangedWeaponDesc>
+  <!-- EN: Brawler has ranged weapon -->
+  <BrawlerHasRangedWeapon>Κάποιος καβγατζής έχει βαλλιστικό όπλο</BrawlerHasRangedWeapon>
+  <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
+  <BrawlerHasRangedWeaponDesc>Κάποιος άποικός σου έχει το χαρακτηριστικό προσωπικότητας Τσαμπουκάς, αλλά φέρει όπλο εμβέλειας. Αυτό θα τον κάνει πολύ δυστυχισμένο.</BrawlerHasRangedWeaponDesc>
 
-  <ShieldUserHasRangedWeapon>Κάποιος ασπιδοφόρος έχει όπλο εμβέλειας</ShieldUserHasRangedWeapon>
+  <!-- EN: Shield user has ranged weapon -->
+  <ShieldUserHasRangedWeapon>Κάποιος ασπιδοφόρος έχει βαλλιστικό όπλο</ShieldUserHasRangedWeapon>
+  <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
   <ShieldUserHasRangedWeaponDesc>Κάποιος άποικός σου έχει μία προσωπική ασπίδα και φέρει όπλο εμβέλειας. Δεν θα μπορεί να χρησιμοποιήσει το όπλο του μέσα από την ασπίδα (εκτός από τους εξ' επαφής στόχους).</ShieldUserHasRangedWeaponDesc>
 
-  <NeedResearchProject>Χρειάζεται κάποιο ερευνητικό έργο</NeedResearchProject>
+  <!-- EN: Need research project -->
+  <NeedResearchProject>Χρειάζεσαι κάποιο ερευνητικό έργο</NeedResearchProject>
+  <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
   <NeedResearchProjectDesc>Έχεις τον εξοπλισμό για να κάνεις έρευνα αλλά δεν έχεις επιλέξει κάποιο έργο.\n\nΆνοιξε το μενού έρευνας και επέλεξε κάποιο έργο.</NeedResearchProjectDesc>
-
+  
+  <!-- EN: {0} colonists idle -->
   <ColonistsIdle>{0} άποικοι άεργοι</ColonistsIdle>
+  <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
   <ColonistsIdleDesc>Αυτοί οι άποικοι περιφέρονται άεργα:\n\n{0}\nΜάλλον πρέπει να τους βρεις κάτι παραγωγικό να κάνουν.</ColonistsIdleDesc>
 
+  <!-- EN: Colonist needs treatment -->
   <ColonistNeedsTreatment>Κάποιος άποικος χρειάζεται θεραπεία</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>Αυτοί οι άποικοι χρειάζονται ιατρική περίθαλψη. Χωρίς αυτή, μπορεί να πεθάνουν λόγω των τραυμάτων τους , ή τα τραύματα μπορεί να γίνουν μόνιμα.\n\n{0}\nΘεράπευσέ τους, στέλνοντάς τους σε κάποιο κρεβάτι νοσοκομείου.\n\n(Αρχικά, όρισε κάποιο κρεβάτι ως νοσοκομείου επιλέγοντάς το και αλλάζοντάς το σε κρεβάτι νοσοκομείου. Μετά, επέλεξε τον τραυματισμένο άποικο και κάνε δεξί κλικ πάνω στο κρεβάτι νοσοκομείου για να τον μετατρέψεις σε ασθενή.)</ColonistNeedsTreatmentDesc>
+  <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
+  <ColonistNeedsTreatmentDesc>Αυτοί οι άποικοι χρειάζονται ιατρική περίθαλψη. Χωρίς αυτή, μπορεί να πεθάνουν λόγω των τραυμάτων τους , ή τα τραύματα μπορεί να γίνουν μόνιμα.\n\n{0}\nΘεράπευσέ τους, στέλνοντάς τους σε κάποιο κρεβάτι νοσοκομείου.\n\n(Αρχικά, όρισε κάποιο κρεβάτι νοσοκομείου επιλέγοντάς το και αλλάζοντάς το σε κρεβάτι νοσοκομείου. Μετά, επέλεξε τον τραυματισμένο άποικο και κάνε δεξί κλικ πάνω στο κρεβάτι νοσοκομείου για να τον μετατρέψεις σε ασθενή.)</ColonistNeedsTreatmentDesc>
 
+  <!-- EN: Hypothermia -->
   <AlertHypothermia>Υποθερμία</AlertHypothermia>
+  <!-- EN: These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
   <AlertHypothermiaDesc>Αυτοί οι άποικοι πάσχουν από υποθερμία.\n\n{0}\nΣιγουρέψου ότι φοράνε τον κατάλληλο ρουχισμό για την εποχή και ότι οι εσωτερικοί χώροι είναι επαρκώς θερμαινόμενοι.</AlertHypothermiaDesc>
-
+  
+  <!-- EN: {0} patients await medical operation -->
   <PatientsAwaitingMedicalOperation>{0} ασθενείς περιμένουν χειρουργική επέμβαση</PatientsAwaitingMedicalOperation>
+  <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
   <PatientsAwaitingMedicalOperationDesc>Αυτοί οι ασθενείς περιμένουν χειρουργική επέμβαση:\n\n{0}\nΣιγουρέψου πως διαθέτεις όλα τα απαραίτητα ιατρικά εργαλεία και έναν διαθέσιμο γιατρό.</PatientsAwaitingMedicalOperationDesc>
 
+  <!-- EN: Fire! -->
   <FireInHomeArea>Φωτιά!</FireInHomeArea>
+  <!-- EN: There is a fire in the home area. -->
   <FireInHomeAreaDesc>Υπάρχει φωτιά στην περιοχή του σπιτιού σου.</FireInHomeAreaDesc>
 
+  <!-- EN: Medical emergency -->
   <PawnsWithLifeThreateningDisease>Σοβαρή ασθένεια</PawnsWithLifeThreateningDisease>
+  <!-- EN: People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible. -->
   <PawnsWithLifeThreateningDiseaseDesc>Κάποιοι κινδυνεύουν να πεθάνουν λόγω σοβαρής ασθένειας:\n\n{0}\nΣιγουρέψου ότι έχουν την καλύτερη δυνατόν ιατρική περίθαλψη.</PawnsWithLifeThreateningDiseaseDesc>
+  <!-- EN: People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
   <PawnsWithLifeThreateningDiseaseAmputationDesc>Κάποιοι κινδυνεύουν να πεθάνουν λόγω σοβαρής ασθένειας:\n\n{0}\nΕάν είναι εφικτό, σκέψου την πιθανότητα ακρωτηριασμού ή αντικατάστασης των προσβεβλημένων άκρων για να τους σώσεις.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
+  <!-- EN: Billiards needs space -->
   <BilliardsNeedsSpace>Το μπιλιάρδο χρειάζεται χώρο</BilliardsNeedsSpace>
+  <!-- EN: One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable. -->
   <BilliardsNeedsSpaceDesc>Ένα από τα τραπέζια μπιλιάρδου είναι κοντά σε κάποιο εμπόδιο που θα εμποδίσει τους αποίκους να το χρησιμοποιήσουν.\n\nΈνα τραπέζι μπιλιάρδου χρειάζεται ελεύθερο χώρο τριγύρω του για να μπορεί να χρησιμοποιηθεί.</BilliardsNeedsSpaceDesc>
 
-  <HunterHasShieldAndRangedWeapon>Κάποιος κυνηγός έχει ασπίδα και όπλο εμβέλειας</HunterHasShieldAndRangedWeapon>
+  <!-- EN: Hunter has shield and ranged weapon -->
+  <HunterHasShieldAndRangedWeapon>Κάποιος κυνηγός έχει ασπίδα και βαλλιστικό όπλο</HunterHasShieldAndRangedWeapon>
+  <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
   <HunterHasShieldAndRangedWeaponDesc>Ένας από τους κυνηγούς σου χρησιμοποιεί όπλο εμβέλειας και φέρει προσωπική ασπίδα, πράγμα που τον εμποδίζει να κυνηγήσει από απόσταση.\n\nΔεν θα μπορεί να κυνηγήσει μέχρι να αφαιρεθεί η ασπίδα.</HunterHasShieldAndRangedWeaponDesc>
 
+  <!-- EN: Need warm clothes -->
   <NeedWarmClothes>Χρειάζονται ζεστά ρούχα</NeedWarmClothes>
+  <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
   <NeedWarmClothesDesc1>Τουλάχιστον {0} από τους άποικούς σου δεν θα έχουν ζεστά ρούχα όταν έρθει ο χειμώνας.</NeedWarmClothesDesc1>
+  <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
   <NeedWarmClothesDesc1All>Όλοι σου οι άποικοι δεν θα έχουν ζεστά ρούχα όταν έρθει ο χειμώνας.</NeedWarmClothesDesc1All>
-  <NeedWarmClothesDesc2>Η εξωτερική θερμοκρασία θα πλησιάσει τους  {0} βαθμούς.\n\nΜπορείς να ράψεις ζεστά ρούχα στον σταθμό ραπτικής ή να αγοράσεις από έμπορους.</NeedWarmClothesDesc2>
-
+  <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
+  <NeedWarmClothesDesc2>Η εξωτερική θερμοκρασία θα πλησιάσει τους {0} βαθμούς.\n\nΜπορείς να ράψεις ζεστά ρούχα στον σταθμό ραπτικής ή να αγοράσεις από έμπορους.</NeedWarmClothesDesc2>
+  
+  <!-- EN: Immobile caravan -->
   <ImmobileCaravan>Ακινητοποιημένο καραβάνι</ImmobileCaravan>
-  <ImmobileCaravanDesc>Ένα από τα καραβάνια σου είναι ακινητοποιημένο επειδή κουβαλάει πάρα πολλά.\n\nΜπορεί να κινητοποιήσεις πάλι αφαιρώντας κάποια αντικείμενα από την καρτέλα ΑΝΤΙΚΕΙΜΕΝΑ.</ImmobileCaravanDesc>
-
+  <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
+  <ImmobileCaravanDesc>Ένα από τα καραβάνια σου είναι ακινητοποιημένο επειδή κουβαλάει πάρα πολλά.\n\nΜπορείς να το κινητοποιήσεις πάλι πετώντας κάποια αντικείμενα από την καρτέλα ΑΝΤΙΚΕΙΜΕΝΑ.</ImmobileCaravanDesc>
+  
 </LanguageData>

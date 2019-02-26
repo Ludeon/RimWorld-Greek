@@ -1,11 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Nuzzle.reportString>κάνει μουσουδιές σε TargetA.</Nuzzle.reportString>
-  <Mate.reportString>ζευγαρώνει με TargetA.</Mate.reportString>
+  
+  <!-- EN: laying egg. -->
   <LayEgg.reportString>γεννά αυγό.</LayEgg.reportString>
-  <PredatorHunt.reportString>κυνηγά TargetA.</PredatorHunt.reportString>
+  
+  <!-- EN: maintaining TargetA. -->
   <Maintain.reportString>συντηρεί TargetA.</Maintain.reportString>
-
-
+  
+  <!-- EN: mating with TargetA. -->
+  <Mate.reportString>ζευγαρώνει με TargetA.</Mate.reportString>
+  
+  <!-- EN: nuzzling TargetA. -->
+  <Nuzzle.reportString>κάνει μουσουδιές σε TargetA.</Nuzzle.reportString>
+  
+  <!-- EN: hunting TargetA. -->
+  <PredatorHunt.reportString>κυνηγά TargetA.</PredatorHunt.reportString>
+  
 </LanguageData>

@@ -1,39 +1,102 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Προσθετικά μέλη σώματος (Added body parts) -->
-
-  <PegLeg.label>ξύλινο πόδι</PegLeg.label>
-  <PegLeg.labelNoun>ένα ξύλινο πόδι</PegLeg.labelNoun>
-
-  <Denture.label>μασέλα</Denture.label>
-  <Denture.labelNoun>μία μασέλα</Denture.labelNoun>
-
-  <SimpleProstheticLeg.label>απλό προσθετικό πόδι</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.labelNoun>ένα απλό προσθετικό πόδι</SimpleProstheticLeg.labelNoun>
-
-  <SimpleProstheticArm.label>απλό προσθετικό χέρι</SimpleProstheticArm.label>
-  <SimpleProstheticArm.comps.0.tools.0.label>γροθιά</SimpleProstheticArm.comps.0.tools.0.label>
-  <SimpleProstheticArm.labelNoun>ένα απλό προσθετικό χέρι</SimpleProstheticArm.labelNoun>
-
-  <BionicEye.label>βιονικό μάτι</BionicEye.label>
-  <BionicEye.labelNoun>ένα βιονικό μάτι</BionicEye.labelNoun>
-
+  
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>αρχοτεχνολογικό χέρι</ArchotechArm.label>
+  <!-- EN: fist -->
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>γροθιά</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: an archotech arm -->
+  <ArchotechArm.labelNoun>ένα αρχοτεχνολογικό χέρι</ArchotechArm.labelNoun>
+  
+  <!-- EN: archotech eye -->
+  <ArchotechEye.label>αρχοτεχνολογικό μάτι</ArchotechEye.label>
+  <!-- EN: an archotech eye -->
+  <ArchotechEye.labelNoun>ένα αρχοτεχνολογικό μάτι</ArchotechEye.labelNoun>
+  
+  <!-- EN: archotech leg -->
+  <ArchotechLeg.label>αρχοτεχνολογικό πόδι</ArchotechLeg.label>
+  <!-- EN: an archotech leg -->
+  <ArchotechLeg.labelNoun>ένα αρχοτεχνολογικό πόδι</ArchotechLeg.labelNoun>
+  
+  <!-- EN: bionic arm -->
   <BionicArm.label>βιονικό χέρι</BionicArm.label>
-  <BionicArm.comps.0.tools.0.label>γροθιά</BionicArm.comps.0.tools.0.label>
+  <!-- EN: fist -->
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>γροθιά</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
   <BionicArm.labelNoun>ένα βιονικό χέρι</BionicArm.labelNoun>
-
+  
+  <!-- EN: bionic ear -->
+  <BionicEar.label>βιονικό αφτί</BionicEar.label>
+  <!-- EN: a bionic ear -->
+  <BionicEar.labelNoun>ένα βιονικό αφτί</BionicEar.labelNoun>
+  
+  <!-- EN: bionic eye -->
+  <BionicEye.label>βιονικό μάτι</BionicEye.label>
+  <!-- EN: a bionic eye -->
+  <BionicEye.labelNoun>ένα βιονικό μάτι</BionicEye.labelNoun>
+  
+  <!-- EN: bionic heart -->
+  <BionicHeart.label>βιονική καρδιά</BionicHeart.label>
+  <!-- EN: a bionic heart -->
+  <BionicHeart.labelNoun>μία βιονική καρδιά</BionicHeart.labelNoun>
+  
+  <!-- EN: bionic leg -->
   <BionicLeg.label>βιονικό πόδι</BionicLeg.label>
+  <!-- EN: a bionic leg -->
   <BionicLeg.labelNoun>ένα βιονικό πόδι</BionicLeg.labelNoun>
-
+  
+  <!-- EN: bionic spine -->
+  <BionicSpine.label>βιονική ραχοκοκαλιά</BionicSpine.label>
+  <!-- EN: a bionic spine -->
+  <BionicSpine.labelNoun>μια βιονική ραχοκοκαλιά</BionicSpine.labelNoun>
+  
+  <!-- EN: bionic stomach -->
+  <BionicStomach.label>βιονικό στομάχι</BionicStomach.label>
+  <!-- EN: a bionic stomach -->
+  <BionicStomach.labelNoun>ένα βιονικό στομάχι</BionicStomach.labelNoun>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>ακουστικός κοχλίας</CochlearImplant.label>
+  <!-- EN: a cochlear implant -->
+  <CochlearImplant.labelNoun>ένας ακουστικός κοχλίας</CochlearImplant.labelNoun>
+  
+  <!-- EN: denture -->
+  <Denture.label>μασέλα</Denture.label>
+  <!-- EN: a denture -->
+  <Denture.labelNoun>μία μασέλα</Denture.labelNoun>
+  
+  <!-- EN: peg leg -->
+  <PegLeg.label>ξύλινο πόδι</PegLeg.label>
+  <!-- EN: a peg leg -->
+  <PegLeg.labelNoun>ένα ξύλινο πόδι</PegLeg.labelNoun>
+  
+  <!-- EN: power claw -->
   <PowerClaw.label>ισχυρό νύχι</PowerClaw.label>
-  <PowerClaw.comps.0.tools.0.label>νύχι</PowerClaw.comps.0.tools.0.label>
+  <!-- EN: claw -->
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>νύχι</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <!-- EN: a power claw -->
   <PowerClaw.labelNoun>ένα ισχυρό νύχι</PowerClaw.labelNoun>
-
-  <ScytherBlade.label>λεπίδα δρεπανοφόρου</ScytherBlade.label>
-  <ScytherBlade.comps.0.tools.0.label>λεπίδα</ScytherBlade.comps.0.tools.0.label>
-  <ScytherBlade.comps.0.tools.1.label>μύτη</ScytherBlade.comps.0.tools.1.label>
-  <ScytherBlade.labelNoun>μία λεπίδα δρεπανοφόρου</ScytherBlade.labelNoun>
-
-
+  
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>προσθετικό χέρι</SimpleProstheticArm.label>
+  <!-- EN: fist -->
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>γροθιά</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a prosthetic arm -->
+  <SimpleProstheticArm.labelNoun>ένα απλό προσθετικό χέρι</SimpleProstheticArm.labelNoun>
+  
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>προσθετική καρδιά</SimpleProstheticHeart.label>
+  <!-- EN: a prosthetic heart -->
+  <SimpleProstheticHeart.labelNoun>μία προσθετική καρδιά</SimpleProstheticHeart.labelNoun>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>προσθετικό πόδι</SimpleProstheticLeg.label>
+  <!-- EN: a prosthetic leg -->
+  <SimpleProstheticLeg.labelNoun>ένα απλό προσθετικό πόδι</SimpleProstheticLeg.labelNoun>
+  
+  <!-- EN: wooden foot -->
+  <WoodenFoot.label>ξύλινη πατούσα</WoodenFoot.label>
+  <!-- EN: a wooden foot -->
+  <WoodenFoot.labelNoun>μια ξύλινη πατούσα</WoodenFoot.labelNoun>
+  
 </LanguageData>

@@ -1,33 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Cut.label>κόψιμο</Cut.label>
-  <Cut.deathMessage>{0} έχει κοπεί μέχρι θανάτου.</Cut.deathMessage>
-
-  <Crush.label>σύνθλιψη</Crush.label>
-  <Crush.deathMessage>{0} έχει συνθλιβεί μέχρι θανάτου.</Crush.deathMessage>
-
-  <Blunt.label>κτύπημα</Blunt.label>
-  <Blunt.deathMessage>{0} ξυλοκοπήθηκε μέχρι θανάτου.</Blunt.deathMessage>
-
-
-  <!-- Τύποι ζημιών είναι οι ίδιοι με το Κτύπημα, αλλά συμπεριφέρονται σαν διαξιφιστικές, προορίζονται για πράγματα όπως τα τουφέκια -->
-  <!-- Damage types are the same as Blunt, but behaves like stabbing; intended for things like rifle barrels -->
-
-  <Poke.label>γροθιά</Poke.label>
-  <Poke.deathMessage>{0} γρονθοκοπήθηκε μέχρι θανάτου.</Poke.deathMessage>
-
-  <Stab.label>μαχαιριά</Stab.label>
-  <Stab.deathMessage>{0} μαχαιρώθηκε μέχρι θανάτου.</Stab.deathMessage>
-
-  <Scratch.label>γδάρσιμο</Scratch.label>
-  <Scratch.deathMessage>{0} έχει σχιστεί μέχρι θανάτου.</Scratch.deathMessage>
-
+  
+  <!-- EN: bite -->
   <Bite.label>δαγκωνιά</Bite.label>
+  <!-- EN: {0} has been bitten to death. -->
   <Bite.deathMessage>{0} δαγκώθηκε μέχρι θανάτου.</Bite.deathMessage>
-
+  
+  <!-- EN: blunt -->
+  <Blunt.label>κτύπημα</Blunt.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Blunt.deathMessage>{0} ξυλοκοπήθηκε μέχρι θανάτου.</Blunt.deathMessage>
+  
+  <!-- EN: crush -->
+  <Crush.label>σύνθλιψη</Crush.label>
+  <!-- EN: {0} has been crushed to death. -->
+  <Crush.deathMessage>{0} έχει συνθλιβεί μέχρι θανάτου.</Crush.deathMessage>
+  
+  <!-- EN: cut -->
+  <Cut.label>κόψιμο</Cut.label>
+  <!-- EN: {0} has been cut to death. -->
+  <Cut.deathMessage>{0} έχει κοπεί μέχρι θανάτου.</Cut.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Poke.label>γροθιά</Poke.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Poke.deathMessage>{0} γρονθοκοπήθηκε μέχρι θανάτου.</Poke.deathMessage>
+  
+  <!-- EN: scratch -->
+  <Scratch.label>γδάρσιμο</Scratch.label>
+  <!-- EN: {0} has been torn to death. -->
+  <Scratch.deathMessage>{0} έχει σχιστεί μέχρι θανάτου.</Scratch.deathMessage>
+  
+  <!-- EN: stab -->
+  <Stab.label>μαχαιριά</Stab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <Stab.deathMessage>{0} μαχαιρώθηκε μέχρι θανάτου.</Stab.deathMessage>
+  
+  <!-- EN: toxic bite -->
   <ToxicBite.label>τοξική δαγκωνιά</ToxicBite.label>
+  <!-- EN: {0} has been bitten to death. -->
   <ToxicBite.deathMessage>{0} δαγκώθηκε μέχρι θανάτου.</ToxicBite.deathMessage>
-
-
+  
 </LanguageData>

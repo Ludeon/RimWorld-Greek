@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: time as a colonist -->
+  <TimeAsColonistOrColonyAnimal.label>χρόνος ως άποικος</TimeAsColonistOrColonyAnimal.label>
+  <!-- EN: Total time spent loyal to your community. -->
+  <TimeAsColonistOrColonyAnimal.description>Ο συνολικός χρόνος που παρέμεινε πιστός στην κοινότητά σας.</TimeAsColonistOrColonyAnimal.description>
+  
+  <!-- EN: time as a prisoner -->
+  <TimeAsPrisoner.label>χρόνος ως φυλακισμένος</TimeAsPrisoner.label>
+  <!-- EN: Total time spent as a prisoner. -->
+  <TimeAsPrisoner.description>Ο συνολικός χρόνος που πέρασε φυλακισμένος.</TimeAsPrisoner.description>
+  
+  <!-- EN: time cleaning -->
+  <TimeCleaning.label>χρόνος καθαριότητας</TimeCleaning.label>
+  <!-- EN: Total time spent cleaning. -->
+  <TimeCleaning.description>Ο συνολικός χρόνος που ξόδεψε στο καθάρισμα.</TimeCleaning.description>
+  
+  <!-- EN: time constructing -->
+  <TimeConstructing.label>χρόνος κατασκευών</TimeConstructing.label>
+  <!-- EN: Total time spent constructing and deconstructing buildings. -->
+  <TimeConstructing.description>Ο συνολικός χρόνος που ξοδεύτηκε στην κατασκευή και αποδόμηση των κτιρίων.</TimeConstructing.description>
+  
+  <!-- EN: time downed -->
+  <TimeDowned.label>χρόνος που ήσουν ανήμπορος</TimeDowned.label>
+  <!-- EN: Total time spent downed. -->
+  <TimeDowned.description>Ο συνολικός χρόνος που πέρασες ενώ ήσουν ανήμπορος.</TimeDowned.description>
+  
+  <!-- EN: time drafted -->
+  <TimeDrafted.label>χρόνος που ήσουν στρατολογημένος</TimeDrafted.label>
+  <!-- EN: Total time spent drafted. -->
+  <TimeDrafted.description>Ο συνολικός χρόνος που πέρασες στρατολογημένος.</TimeDrafted.description>
+  
+  <!-- EN: time firefighting -->
+  <TimeFirefighting.label>χρόνος πυρόσβεσης</TimeFirefighting.label>
+  <!-- EN: Total time spent firefighting. -->
+  <TimeFirefighting.description>Ο συνολικός χρόνος που ξοδεύτηκε στη κατάσβεση των πυρκαγιών.</TimeFirefighting.description>
+  
+  <!-- EN: time finding food and eating -->
+  <TimeGettingFood.label>χρόνος για εύρεση και κατανάλωση τροφής</TimeGettingFood.label>
+  <!-- EN: Total time spent on finding food and eating. -->
+  <TimeGettingFood.description>Ο συνολικός χρόνος που ξοδεύτηκε στον εντοπισμό και την κατανάλωση της τροφής.</TimeGettingFood.description>
+  
+  <!-- EN: time spent on entertainment -->
+  <TimeGettingJoy.label>χρόνος στη διασκέδαση</TimeGettingJoy.label>
+  <!-- EN: Total time spent on entertainment. -->
+  <TimeGettingJoy.description>Ο χρόνος που πέρασες διασκεδάζοντας.</TimeGettingJoy.description>
+  
+  <!-- EN: time handling animals -->
+  <TimeHandlingAnimals.label>χρόνος για κτηνοτροφία</TimeHandlingAnimals.label>
+  <!-- EN: Total time spent handling animals. -->
+  <TimeHandlingAnimals.description>Ο συνολικός χρόνος που ξοδεύτηκε για την φροντίδα των ζώων.</TimeHandlingAnimals.description>
+  
+  <!-- EN: time hauling -->
+  <TimeHauling.label>χρόνος στο κουβάλημα</TimeHauling.label>
+  <!-- EN: Total time spent hauling things. -->
+  <TimeHauling.description>Ο χρόνος που δαπανήθηκε για τη μεταφορά πραγμάτων.</TimeHauling.description>
+  
+  <!-- EN: time hunting -->
+  <TimeHunting.label>χρόνος στο κυνήγι</TimeHunting.label>
+  <!-- EN: Total time spent hunting. -->
+  <TimeHunting.description>Ο χρόνος που πέρασες κυνηγώντας.</TimeHunting.description>
+  
+  <!-- EN: time in a bed -->
+  <TimeInBed.label>χρόνος στο κρεβάτι</TimeInBed.label>
+  <!-- EN: Total time spent in bed. -->
+  <TimeInBed.description>Χρόνος που ξόδεψες ξαπλωμένος στο κρεβάτι.</TimeInBed.description>
+  
+  <!-- EN: time in a bed for medical reasons -->
+  <TimeInBedForMedicalReasons.label>χρόνος στο κρεβάτι για ιατρικούς σκοπούς</TimeInBedForMedicalReasons.label>
+  <!-- EN: Total time spent in bed for medical reasons: awaiting treatment, recovering from injuries or being operated on. -->
+  <TimeInBedForMedicalReasons.description>Συνολικός χρόνος διαμονής στο κρεβάτι για ιατρικούς λόγους: αναμένοντας θεραπεία, ανάκτηση από τραυματισμούς ή εγχείριση.</TimeInBedForMedicalReasons.description>
+  
+  <!-- EN: time in mental state -->
+  <TimeInMentalState.label>χρόνος σε ψυχική κατάσταση</TimeInMentalState.label>
+  <!-- EN: Total time spent in an abnormal mental state. -->
+  <TimeInMentalState.description>Συνολικός χρόνος που πέρασες σε μια ανώμαλη ψυχική κατάσταση.</TimeInMentalState.description>
+  
+  <!-- EN: time mining -->
+  <TimeMining.label>χρόνος στην εξόρυξη</TimeMining.label>
+  <!-- EN: Total time spent mining. -->
+  <TimeMining.description>Ο χρόνος που σπαταλήθηκε για εξόρυξη.</TimeMining.description>
+  
+  <!-- EN: time on fire -->
+  <TimeOnFire.label>χρόνος με φωτά</TimeOnFire.label>
+  <!-- EN: Total time spent on fire. -->
+  <TimeOnFire.description>Ο συνολικός χρόνος που είχες αρπάξει φωτιά.</TimeOnFire.description>
+  
+  <!-- EN: time repairing -->
+  <TimeRepairing.label>χρόνος στις επισκευές</TimeRepairing.label>
+  <!-- EN: Total time spent repairing. -->
+  <TimeRepairing.description>Ο συνολικός χρόνος που δαπανήθηκε για επιδιορθώσεις.</TimeRepairing.description>
+  
+  <!-- EN: time researching -->
+  <TimeResearching.label>χρόνος στην έρευνα</TimeResearching.label>
+  <!-- EN: Total time spent researching. -->
+  <TimeResearching.description>Ο συνολικός χρόνος που δαπανήθηκε στην έρευνα.</TimeResearching.description>
+  
+  <!-- EN: time sowing and harvesting -->
+  <TimeSowingAndHarvesting.label>χρόνος για φύτεμα και συγκομιδή</TimeSowingAndHarvesting.label>
+  <!-- EN: Total time spent sowing, harvesting and cutting plants. -->
+  <TimeSowingAndHarvesting.description>Συνολικός χρόνος για φύτεμα, συγκομιδή και κόψιμο φυτών.</TimeSowingAndHarvesting.description>
+  
+  <!-- EN: time treating and feeding -->
+  <TimeTreatingAndFeeding.label>χρόνος για νοσηλεία και σίτιση</TimeTreatingAndFeeding.label>
+  <!-- EN: Total time spent treating and feeding patients. -->
+  <TimeTreatingAndFeeding.description>Ο συνολικός χρόνος για την νοσηλεία και την σίτιση ασθαινών.</TimeTreatingAndFeeding.description>
+  
+  <!-- EN: time under a roof -->
+  <TimeUnderRoof.label>χρόνος κάτω από μια σκεπή</TimeUnderRoof.label>
+  <!-- EN: Total time spent under a roof. -->
+  <TimeUnderRoof.description>Ο συνολικός χρόνος που πέρασες στο εσωτερικό.</TimeUnderRoof.description>
+  
+  <!-- EN: time wardening -->
+  <TimeWardening.label>χρόνος ως δεσμοφύλακας</TimeWardening.label>
+  <!-- EN: Total time spent wardening. -->
+  <TimeWardening.description>Ο συνολικός χρόνος που ξόδεψες για τη φύλαξη φυλακισμένων.</TimeWardening.description>
+  
+</LanguageData>

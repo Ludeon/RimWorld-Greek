@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: construction speed -->
+  <ConstructionSpeedFactor.label>ταχύτητα κατασκευής</ConstructionSpeedFactor.label>
+  <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value. Some materials, like stone, are slow to build from, while others, like wood, are fast. -->
+  <ConstructionSpeedFactor.description>Η ταχύτητα κατασκευής των κτιρίων αυτών πολλαπλασιάζεται με αυτή την τιμή. Ορισμένα υλικά, όπως η πέτρα, κτίζονται αργά, ενώ άλλα, όπως το ξύλο, είναι πιο γρήγορα.</ConstructionSpeedFactor.description>
+  
+  <!-- EN: medical potency -->
+  <MedicalPotency.label>ιατρική ισχύς</MedicalPotency.label>
+  <!-- EN: How effective this is when used to tend wounds and diseases, or do surgery. Higher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery. Medical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck. -->
+  <MedicalPotency.description>Πόσο αποτελεσματικό είναι αυτό όταν χρησιμοποιείται για την περίθαλψη των πληγών και των ασθενειών ή για τις εγχειρήσεις. Η υψηλότερη ιατρική δραστικότητα βελτιώνει την ποιότητα της περίθαλψης και δρα ως πολλαπλασιαστής στην πιθανότητα επιτυχίας κατά τη διάρκεια της χειρουργικής επέμβασης. Η ιατρική δραστικότητα είναι ένας μόνο παράγοντας των ιατρικών αποτελεσμάτων, μεταξύ πολλών άλλων, συμπεριλαμβανομένης της ιατρικής ικανότητας, του εξοπλισμού, της καθαριότητας και της τύχης.</MedicalPotency.description>
+  
+  <!-- EN: medical tend quality maximum -->
+  <MedicalQualityMax.label>μέγιστη ποιότητα ιατρικής περίθαλψης</MedicalQualityMax.label>
+  <!-- EN: The maximum quality of medical tending that can be achieved while using this. Better tend quality allows skilled doctors to treat wounds better, as well as more reliably. -->
+  <MedicalQualityMax.description>Η μέγιστη ποιότητα της ιατρικής φροντίδας που μπορεί να επιτευχθεί με τη χρήση αυτού. Η καλύτερης ποιότητας φροντίδα επιτρέπει στους ειδικευμένους ιατρούς να θεραπεύουν καλύτερα τα τραύματα, αλλά και πιο αξιόπιστα.</MedicalQualityMax.description>
+  
+</LanguageData>

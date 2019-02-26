@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: medical operation speed -->
+  <MedicalOperationSpeed.label>ταχύτητα ιατρικής εργασίας</MedicalOperationSpeed.label>
+  <!-- EN: The speed at which the character performs medical operations. -->
+  <MedicalOperationSpeed.description>Η ταχύτητα με την οποία ο χαρακτήρας εκτελεί ιατρικές δραστηριότητες.</MedicalOperationSpeed.description>
+  
+  <!-- EN: medical surgery success chance -->
+  <MedicalSurgerySuccessChance.label>πιθανότητα επιτυχίας ιατρικές εγχείρησης</MedicalSurgerySuccessChance.label>
+  <!-- EN: The base chance that a character will succeed when performing a medical operation. The actual success chance is also affected by factors like facilities, room cleanliness, medicine used, the difficulty of the surgery, and inspirations. No matter how high the success chance, there is always a small chance of failure on any operation. -->
+  <MedicalSurgerySuccessChance.description>Η βασική πιθανότητα ενός χαρακτήρα να επιτύχει κατά την εκτέλεση μιας ιατρικής διεργασίας. Η πραγματική πιθανότητα επιτυχίας επηρεάζεται επίσης από παράγοντες όπως οι εγκαταστάσεις, η καθαριότητα του δωματίου, το φάρμακο που χρησιμοποιείται, η δυσκολία της χειρουργικής επέμβασης και οι εμπνεύσεις. Ανεξάρτητα από το πόσο μεγάλη είναι η πιθανότητα επιτυχίας, υπάρχει πάντα μια μικρή πιθανότητα αποτυχίας σε οποιαδήποτε διεργασία.</MedicalSurgerySuccessChance.description>
+  
+  <!-- EN: medical tend quality -->
+  <MedicalTendQuality.label>ποιότητα ιατρικής φροντίδας</MedicalTendQuality.label>
+  <!-- EN: The base quality of tending given when tending wounds and illnesses. The actual tend quality will also be affected by factors like medicine used, facilities, room cleanliness, luck, and so on. -->
+  <MedicalTendQuality.description>Η βασική ποιότητα περίθαλψης να προσφέρεται όταν περιποιούνται πληγές και ασθένειες. Η πραγματική ποιότητα περίθαλψης επηρεάζεται επίσης από παράγοντες όπως το φάρμακο που χρησιμοποιείται, τις εγκαταστάσεις, την καθαριότητα των δωματίων, την τύχη και ούτω καθεξής.</MedicalTendQuality.description>
+  
+  <!-- EN: medical tend speed -->
+  <MedicalTendSpeed.label>ταχύτητα ιατρικής φροντίδας</MedicalTendSpeed.label>
+  <!-- EN: Speed at which the character tends to wounds and illnesses. -->
+  <MedicalTendSpeed.description>Ταχύτητα με την οποία ο χαρακτήρας περιθάλπει πληγές και ασθένειες.</MedicalTendSpeed.description>
+  
+</LanguageData>

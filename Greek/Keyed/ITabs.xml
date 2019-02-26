@@ -1,125 +1,293 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Τίτλοι καρτελών ITab (ITab titles) -->
+  <!-- ITab titles -->
+  <!-- EN: Bills -->
   <TabBills>Εργασίες</TabBills>
-  <TabGrowing>Καλλιέργεια</TabGrowing>
+  <!-- EN: Growing -->
+  <TabGrowing>Καλλιέργ</TabGrowing>
+  <!-- EN: Bio -->
   <TabCharacter>Χαρακτήρς</TabCharacter>
+  <!-- EN: Training -->
   <TabTraining>Εκπαίδευσ</TabTraining>
-  <TabPrisoner>Φυλακισμένος</TabPrisoner>
+  <!-- EN: Prisoner -->
+  <TabPrisoner>Φυλακισμς</TabPrisoner>
+  <!-- EN: Guest -->
   <TabGuest>Επισκέπτης</TabGuest>
+  <!-- EN: Gear -->
   <TabGear>Εξοπλισμς</TabGear>
+  <!-- EN: Needs -->
   <TabNeeds>Ανάγκες</TabNeeds>
+  <!-- EN: Storage -->
   <TabStorage>Αποθήκη</TabStorage>
+  <!-- EN: Shells -->
   <TabShells>Σφαίρες</TabShells>
+  <!-- EN: Health -->
   <TabHealth>Υγεία</TabHealth>
+  <!-- EN: Race -->
   <TabRace>Φυλή</TabRace>
+  <!-- EN: Basics -->
   <TabBasics>Βασικά</TabBasics>
+  <!-- EN: Stats -->
   <TabStats>Στατιστικά</TabStats>
+  <!-- EN: Records -->
   <TabRecords>Εγγραφές</TabRecords>
+  <!-- EN: Art -->
   <TabArt>Τέχνη</TabArt>
+  <!-- EN: Social -->
   <TabSocial>Κοινωνκττ</TabSocial>
-  <TabCombat>Μάχη</TabCombat>
+  <!-- EN: Log -->
+  <TabLog>Καταγραφή</TabLog>
+  <!-- EN: Caravan -->
+  <TabFormingCaravan>Καραβάνι</TabFormingCaravan>
+  <!-- EN: Contents -->
+  <TabTransporterContents>Περιεχόμενα</TabTransporterContents>
 
-
-  <!-- Καρτέλα εργασιών (Bills tab)  -->
+  <!-- Bills tab  -->
+  <!-- EN: Add bill -->
   <AddBill>Προσθήκη εργασίας</AddBill>
+  <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
   <RecipeRequiresSkills>Η συνταγή {0} απαιτεί τις παρακάτω δεξιότητες. Κανείς από τους αποίκους σας δεν έχει αυτές τις δεξιότητες, οπότε κανείς δεν θα κάνει αυτή την εργασία.</RecipeRequiresSkills>
+  <!-- EN: Min skill -->
   <MinimumSkill>Ελάχιστη ικανότητα</MinimumSkill>
-  <SuspendedCaps>ΕΧΕΙ ΔΙΑΚΟΠΕΙ</SuspendedCaps>
-  <BoundWorkerIs>Εργάτης: {0}</BoundWorkerIs>
+  <!-- EN: SUSPENDED -->
+  <SuspendedCaps>ΔΙΑΚΟΠΗΚΕ</SuspendedCaps>
+  <!-- EN: Worker: {1_labelShort} -->
+  <BoundWorkerIs>Εργάτης: {1_labelShort}</BoundWorkerIs>
+  <!-- EN: Plant -->
   <PlantVerb>Φυτό</PlantVerb>
+  <!-- EN: Copied bill cannot be pasted here. -->
+  <ClipboardBillNotAvailableHere>Η αναγεγραμμένη εργασία δεν μπορεί να επικολληθεί εδώ</ClipboardBillNotAvailableHere>
+  <!-- EN: Move up -->
+  <ReorderBillUpTip>Επάνω</ReorderBillUpTip>
+  <!-- EN: Move down -->
+  <ReorderBillDownTip>Κάτω</ReorderBillDownTip>
+  <!-- EN: Delete -->
+  <DeleteBillTip>Διαγραφή</DeleteBillTip>
+  <!-- EN: Copy to the clipboard -->
+  <CopyBillTip>Αντιγραφεί στο πρόχειρο</CopyBillTip>
+  <!-- EN: Suspend -->
+  <SuspendBillTip>Διακοπή</SuspendBillTip>
+  <!-- EN: Paste -->
+  <PasteBillTip>Επικόλληση</PasteBillTip>
+  <!-- EN: can't add more -->
+  <PasteBillTip_LimitReached>δεν μπορεί να προστεθεί άλλη</PasteBillTip_LimitReached>
 
-
-  <!-- Καρτέλα επισκέπτη/φυλακισμένου (Guest/prisoner tab) -->
+  <!-- Guest/prisoner tab -->
+  <!-- EN: Resistance remaining -->
+  <RecruitmentResistance>Αντιστέκεται ακόμα</RecruitmentResistance>
+  <!-- EN: Recruitment difficulty -->
   <RecruitmentDifficulty>Δυσκολία στρατολόγησης</RecruitmentDifficulty>
+  <!-- EN: Gets food -->
   <GetsFood>Τρώει φαγητό</GetsFood>
+  <!-- EN: Doctors care -->
   <DoctorsCare>Ιατρική περίθαλψη</DoctorsCare>
+  <!-- EN: Gets medicine -->
   <GetsMedicine>Παίρνει φάρμακα</GetsMedicine>
+  <!-- EN: Try to recruit -->
   <ShouldTryToRecruit>Προσπάθεια για στρατολόγηση</ShouldTryToRecruit>
+  <!-- EN: Considered guilty (expires in {0}) -->
   <ConsideredGuilty>Θεωρείται ένοχος (λήγει σε {0})</ConsideredGuilty>
 
-
-  <!-- Ιατρικό - γενικά (Medical - general) -->
+  <!-- Medical - general -->
+  <!-- EN: Move speed -->
   <MoveSpeed>Ταχύτητα κίνησης</MoveSpeed>
+  <!-- EN: Efficiency -->
   <Efficiency>Απόδοση</Efficiency>
+  <!-- EN: Part efficiency -->
   <PartEfficiency>Μέρος αποτελεσματικότητας</PartEfficiency>
+  <!-- EN: Body part efficiency -->
   <BodyPartEfficiency>Απόδοση μέλος σώματος</BodyPartEfficiency>
+  <!-- EN: Gone -->
   <MissingBodyPart>Χαμένο</MissingBodyPart>
+  <!-- EN: Destroyed -->
   <DestroyedBodyPart>Κατεστραμμένο</DestroyedBodyPart>
+  <!-- EN: Shattered -->
   <ShatteredBodyPart>Διαλυμένο</ShatteredBodyPart>
+  <!-- EN: Removed -->
   <RemovedBodyPart>Αφαιρεμένο</RemovedBodyPart>
+  <!-- EN: Healthy -->
   <Healthy>Υγιές</Healthy>
+  <!-- EN: In pain -->
   <InPain>Πονεμένο</InPain>
+  <!-- EN: Pain -->
   <PainLevel>Πόνος</PainLevel>
+  <!-- EN: Injured -->
   <Injured>Τραυματισμένος</Injured>
-  <NoInjuries>(χωρίς τραύματα)</NoInjuries>
-  <WholeBody>Ολόκληρο το σώμα</WholeBody>
+  <!-- EN: no health conditions -->
+  <NoHealthConditions>χωρίς υγειονομική κατάσταση</NoHealthConditions>
+  <!-- EN: Whole body -->
+  <WholeBody>Όλο το σώμα</WholeBody>
+  <!-- EN: Data processing -->
   <DataProcessing>Επεξεργασία δεδομένων</DataProcessing>
+  <!-- EN: Communication -->
   <Communication>Επικοινωνία</Communication>
+  <!-- EN: Affects -->
   <Affects>Επιρροές</Affects>
+  <!-- EN: Bleeding -->
   <BleedingRate>Αιμορραγία</BleedingRate>
-  <TimeToDeath>πέθανε στις {0}</TimeToDeath>
+  <!-- EN: death in {0} -->
+  <TimeToDeath>πεθαίνει σε {0}</TimeToDeath>
+  <!-- EN: no immediate danger -->
   <WontBleedOutSoon>δεν υπάρχει άμεσος κίνδυνος</WontBleedOutSoon>
+  <!-- EN: Overview -->
   <HealthOverview>Επισκόπηση</HealthOverview>
+  <!-- EN: Operations ({0}) -->
   <MedicalOperationsShort>Διαδικασίες ({0})</MedicalOperationsShort>
+  <!-- EN: Modifications ({0}) -->
   <MedicalOperationsMechanoidsShort>Τροποποιήσεις ({0})</MedicalOperationsMechanoidsShort>
+  <!-- EN: Medical operations -->
   <MedicalOperations>Ιατρικές πράξεις</MedicalOperations>
+  <!-- EN: amputate -->
   <Amputate>Ακρωτηριασμός</Amputate>
-  <Harvest>Συλλογή</Harvest>
-  <RemoveOrgan>Αφαίρεση</RemoveOrgan>
+  <!-- EN: harvest -->
+  <HarvestOrgan>συλλογή</HarvestOrgan>
+  <!-- EN: remove -->
+  <RemoveOrgan>αφαίρεση</RemoveOrgan>
+  <!-- EN: memory -->
   <MemoryLower>μνήμη</MemoryLower>
+  <!-- EN: social interactions -->
   <SocialInteractionsLower>κοινωνικές συναναστροφές</SocialInteractionsLower>
+  <!-- EN: Hunger rate -->
   <HungerRate>Βαθμός πείνας</HungerRate>
+  <!-- EN: Tiredness -->
   <Tiredness>Κούραση</Tiredness>
+  <!-- EN: Pain -->
   <PainFactor>Πόνος</PainFactor>
+  <!-- EN: Prevents infection -->
   <PreventsInfection>Αποτρέπει τη μόλυνση</PreventsInfection>
+  <!-- EN: Self-tend -->
   <SelfTend>Αυτοφροντίδα</SelfTend>
+  <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
   <SelfTendTip>{0} με την αυτοφροντίδα ενεργοποιημένη θα φροντίζουν αυτόματα τον εαυτό τους επί τόπου με {1} της κανονικής απόδοσης.</SelfTendTip>
-
-
-  <!-- Ιατρική - Σώματος και δραστηριοτήτων προϋπόθεση (Medical - Body and activities condition) -->
+  
+  <!-- Medical - Body and activities condition -->
+  <!-- EN: None -->
   <None>Καμία</None>
+  <!-- EN: Very poor -->
   <VeryPoor>Κάκιστη</VeryPoor>
+  <!-- EN: Poor -->
   <Poor>Φτωχή</Poor>
+  <!-- EN: Weakened -->
   <Weakened>Αδύναμη</Weakened>
+  <!-- EN: OK -->
   <GoodCondition>Εντάξει</GoodCondition>
+  <!-- EN: Enhanced -->
   <Enhanced>Βελτιωμένη</Enhanced>
+  <!-- EN: Seriously impaired -->
   <SeriouslyImpaired>Σοβαρά εξασθενισμένος</SeriouslyImpaired>
+  <!-- EN: Impaired -->
   <Impaired>Εξασθενισμένος</Impaired>
+  <!-- EN: Slightly impaired -->
   <SlightlyImpaired>Ελαφρώς εξασθενισμένος</SlightlyImpaired>
+  <!-- EN: None -->
   <NoPain>Καθόλου</NoPain>
+  <!-- EN: Little -->
   <LittlePain>Λίγο</LittlePain>
+  <!-- EN: Medium -->
   <MediumPain>Κανονικά</MediumPain>
+  <!-- EN: Severe -->
   <SeverePain>Σοβαρά</SeverePain>
+  <!-- EN: Extreme -->
   <ExtremePain>Ακραία</ExtremePain>
 
-
-  <!-- Καρτέλα εκπαίδευσης (Training tab) -->
-  <TrainableIntelligence>Εκπαιδευτική νοημοσύνη</TrainableIntelligence>
+  <!-- Training tab -->
+  <!-- EN: Trainability -->
+  <Trainability>Εκπαιδεύσιμο</Trainability>
+  <!-- EN: Requires trainability {0}. -->
   <CannotTrainNotSmartEnough>Απαιτεί εκπαιδευτική νοημοσύνη {0}.</CannotTrainNotSmartEnough>
-  <CannotTrainTooSmall>{0} είναι πολύ μικρή για να εκπαιδευτεί σε αυτό.</CannotTrainTooSmall>
+  <!-- EN: {1_labelShort} is too small to train this. -->
+  <CannotTrainTooSmall>{1_labelShort} είναι πολύ μικρό για να εκπαιδευτεί σε αυτό.</CannotTrainTooSmall>
 
+  <!-- EN: Prerequisite needed: {0} -->
   <TrainingNeedsPrerequisite>Προϋπόθεση που απαιτείται: {0}</TrainingNeedsPrerequisite>
-
-  <!-- Καρτέλα κοινωνικότητας (Social tab) -->
+  
+  <!-- Social tab -->
+  <!-- EN: (no relationships) -->
   <NoRelationships>(χωρίς σχέση)</NoRelationships>
+  <!-- EN: Kidnapped -->
   <Kidnapped>Απαχθείς</Kidnapped>
+  <!-- EN: Missing -->
   <Missing>Χαμένος</Missing>
+  <!-- EN: Slave -->
   <Slave>Σκλάβος</Slave>
+  <!-- EN: Faction leader -->
   <FactionLeader>Αρχηγός φατρίας</FactionLeader>
-  <OpinionOf>Γνώμη του {0}</OpinionOf>
-  <SomeonesOpinionOfMe>Γνώμη του {0} για μένα</SomeonesOpinionOfMe>
+  <!-- EN: Opinion of {1_labelShort} -->
+  <OpinionOf>Γνώμη του {1_labelShort}</OpinionOf>
+  <!-- EN: {1_labelShort}'s opinion of me -->
+  <SomeonesOpinionOfMe>Γνώμη του {1_labelShort} για μένα</SomeonesOpinionOfMe>
+  <!-- EN: I'm dead -->
   <IAmDead>Είμαι νεκρός</IAmDead>
+  <!-- EN: I'm a psychopath -->
   <IAmPsychopath>Είμαι ψυχοπαθής</IAmPsychopath>
-
-  <!-- Καρτέλα εξοπλισμού (Gear tab) -->
-  <AverageArmor>Μέση θωράκιση</AverageArmor>
+  
+  <!-- Gear tab -->
+  <!-- EN: Overall armor -->
+  <OverallArmor>Συνολική θωράκιση</OverallArmor>
+  <!-- EN: Mass carried: {0} / {1} kg -->
   <MassCarried>Ποσότητα μεταφοράς: {0} / {1} κιλά</MassCarried>
+  <!-- EN: Comfortable temperature range -->
   <ComfyTemperatureRange>Άνετο εύρος θερμοκρασίας</ComfyTemperatureRange>
+  <!-- EN: Blunt -->
   <ArmorBlunt>Κτύπημα</ArmorBlunt>
+  <!-- EN: Sharp -->
   <ArmorSharp>Διάτρηση</ArmorSharp>
+  <!-- EN: Heat -->
   <ArmorHeat>Καύση</ArmorHeat>
-  <ArmorElectric>Ηλεκτρισμό</ArmorElectric>
+  
+  <!-- Log tab -->
+  <!-- EN: Show all -->
+  <ShowAll>Όλες</ShowAll>
+  <!-- EN: Show combat -->
+  <ShowCombat>Μάχης</ShowCombat>
+  <!-- EN: Show social -->
+  <ShowSocial>Κοινωνικές</ShowSocial>
+  <!-- EN: no recent entries -->
+  <NoRecentEntries>καμία πρόσφατη εγγραφή</NoRecentEntries>
+  <!-- EN: Copy log to the clipboard. -->
+  <CopyLogTip>Αντιγραφή εγγραφών στο πρόχειρο.</CopyLogTip>
+
+  <!-- Forming caravan tab -->
+  <!-- EN: Gathering animals -->
+  <FormingCaravanStatus_GatheringAnimals>Συγκέντρωση ζώων</FormingCaravanStatus_GatheringAnimals>
+  <!-- EN: Gathering animals (waiting) -->
+  <FormingCaravanStatus_GatheringAnimals_Pause>Συγκέντρωση ζώων (αναμονή)</FormingCaravanStatus_GatheringAnimals_Pause>
+  <!-- EN: Gathering items -->
+  <FormingCaravanStatus_GatheringItems>Συγκέντρωση αντικειμένων</FormingCaravanStatus_GatheringItems>
+  <!-- EN: Gathering items (waiting) -->
+  <FormingCaravanStatus_GatheringItems_Pause>Συγκέντρωση αντικειμένων (αναμονή)</FormingCaravanStatus_GatheringItems_Pause>
+  <!-- EN: Gathering slaves -->
+  <FormingCaravanStatus_GatheringSlaves>Συγκέντρωση σκλάβων</FormingCaravanStatus_GatheringSlaves>
+  <!-- EN: Gathering slaves (waiting) -->
+  <FormingCaravanStatus_GatheringSlaves_Pause>Συγκέντρωση σκλάβων (αναμονή)</FormingCaravanStatus_GatheringSlaves_Pause>
+  <!-- EN: Gathering downed people -->
+  <FormingCaravanStatus_GatheringDownedPawns>Συγκέντρωση ανήμπορων ατόμων</FormingCaravanStatus_GatheringDownedPawns>
+  <!-- EN: Gathering downed people (waiting) -->
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>Συγκέντρωση ανήμπορων ατόμων (αναμονή)</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <!-- EN: Leaving -->
+  <FormingCaravanStatus_Leaving>Αναχώρηση</FormingCaravanStatus_Leaving>
+  <!-- EN: Leaving (waiting) -->
+  <FormingCaravanStatus_Leaving_Pause>Αναχώρηση (αναμονή)</FormingCaravanStatus_Leaving_Pause>
+  <!-- EN: Waiting -->
+  <FormingCaravanStatus_Waiting>Αναμονή</FormingCaravanStatus_Waiting>
+  <!-- EN: Members -->
+  <CaravanMembers>Μέλη</CaravanMembers>
+  <!-- EN: Animals -->
+  <CaravanAnimals>Ζώα</CaravanAnimals>
+  <!-- EN: Items to load -->
+  <ItemsToLoad>Αντικείμενα για φόρτωμα</ItemsToLoad>
+  <!-- EN: Loaded items -->
+  <LoadedItems>Φορτωμένα αντικείμενα</LoadedItems>
+  <!-- EN: pack animals -->
+  <PackAnimalsCountLower>υποζύγια</PackAnimalsCountLower>
+  <!-- EN: mentally broken -->
+  <InMentalStateCountLower>πνευματική κατάρρευση</InMentalStateCountLower>
+
+  <!-- Transporter contents -->
+  <!-- EN: Remove {{0}}x {0} -->
+  <RemoveSliderText>Αφαίρεση {{0}}x {0}</RemoveSliderText>
+  <!-- EN: Do you really want to remove {0}? -->
+  <ConfirmRemoveItemDialog>Στ' αλήθεια θέλεις να αφαιρέσεις {0}?</ConfirmRemoveItemDialog>
 
 </LanguageData>

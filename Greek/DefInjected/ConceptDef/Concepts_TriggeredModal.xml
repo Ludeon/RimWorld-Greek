@@ -1,19 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Έννοιες που διδάσκονται σε τυπικά παράθυρα διαλόγου (Concepts taught in modal dialogs) -->
-
-  <TradeGoodsMustBeNearBeacon.label>Εμπόριο αγαθών και εμπορικοί φάροι</TradeGoodsMustBeNearBeacon.label>
-  <TradeGoodsMustBeNearBeacon.helpText>Για να στείλετε αντικείμενα ή ασήμι στους τροχιακούς εμπόρους, πρέπει να χτίσετε ένα ΤΡΟΧΙΑΚΟ ΕΜΠΟΡΙΚΟ ΦΑΡΟ και να τοποθετήσετε μία αποθήκη αντικειμένων δίπλα σε αυτό.</TradeGoodsMustBeNearBeacon.helpText>
-
+  
+  <!-- EN: Arresting worsens faction relations -->
   <ArrestingCreatesEnemies.label>Η σύλληψη επιδεινώνει τις σχέσεις των φατριών</ArrestingCreatesEnemies.label>
+  <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist, their entire faction will become your enemy. -->
   <ArrestingCreatesEnemies.helpText>Προειδοποίηση: Το πρόσωπο που προσπαθείτε να συλλάβετε δεν μπορεί να γίνει μυστικά.\n\nΑν συλλάβετε έναν που δεν είναι άποικό σας, ολόκληρη η φατρία του θα γίνει εχθρός σας.</ArrestingCreatesEnemies.helpText>
-
+  
+  <!-- EN: Maximum number of player colonies -->
+  <MaxNumberOfPlayerSettlements.label>Μέγιστος αριθμός αποικιών παίκτη</MaxNumberOfPlayerSettlements.label>
+  <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Though it is possible to have more colonies, this will probably cause performance slowdowns and gameplay imbalances. We recommend that, at least at first, you play the game with a one colony maximum. -->
+  <MaxNumberOfPlayerSettlements.helpText>Προειδοποίηση: Το RimWorld έχει σχεδιαστεί για να παίζεται με μία αποικία παίκτη τη φορά. Παρόλο που είναι δυνατό να υπάρχουν περισσότερες αποικίες, αυτό πιθανώς θα προκαλέσει επιβράδυνση της απόδοσης και ανισορροπίες στο τρόπο παιξίματος. Σας συνιστούμε, τουλάχιστον στην αρχή, να παίξετε το παιχνίδι με μέγιστο μία αποικία.</MaxNumberOfPlayerSettlements.helpText>
+  
+  <!-- EN: Flick designations only designate -->
   <SwitchFlickingDesignation.label>Οι ονομασίες ανοιγοκλείματος ορίζουν μόνο</SwitchFlickingDesignation.label>
-  <SwitchFlickingDesignation.helpText>Σημείωση: Αυτό υποδηλώνει μόνο ότι ένας αποικιστής πρέπει να ανοιγοκλείσει τον διακόπτη.\n\nΤίποτα δεν θα συμβεί μέχρι να έρθει ένας άποικος (με τον τύπο εργασίας Ανοιγοκλείματος) και να ανοίξει το διακόπτη με το χέρι.</SwitchFlickingDesignation.helpText>
-
-  <MaxNumberOfPlayerHomes.label>Μέγιστος αριθμός αποικιών παίκτη</MaxNumberOfPlayerHomes.label>
-  <MaxNumberOfPlayerHomes.helpText>Προειδοποίηση: Το RimWorld έχει σχεδιαστεί για να παίζεται με μία αποικία παίκτη τη φορά. Παρόλο που είναι δυνατό να υπάρχουν περισσότερες αποικίες, αυτό πιθανώς θα προκαλέσει επιβράδυνση της απόδοσης και ανισορροπίες στο τρόπο παιξίματος. Σας συνιστούμε, τουλάχιστον στην αρχή, να παίξετε το παιχνίδι με μέγιστο μία αποικία.</MaxNumberOfPlayerHomes.helpText>
-
-
+  <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
+  <SwitchFlickingDesignation.helpText>Σημείωση: Αυτό υποδηλώνει μόνο ότι ένας αποικιστής πρέπει να ανοιγοκλείσει τον διακόπτη.\n\nΤίποτα δεν θα συμβεί μέχρι να έρθει ένας άποικος και να ανοίξει το διακόπτη με το χέρι.</SwitchFlickingDesignation.helpText>
+  
+  <!-- EN: Trade goods and trade beacons -->
+  <TradeGoodsMustBeNearBeacon.label>Εμπόριο αγαθών και εμπορικοί φάροι</TradeGoodsMustBeNearBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <TradeGoodsMustBeNearBeacon.helpText>Για να στείλετε αντικείμενα ή ασήμι στους τροχιακούς εμπόρους, πρέπει να χτίσετε ένα ΤΡΟΧΙΑΚΟ ΕΜΠΟΡΙΚΟ ΦΑΡΟ και να τοποθετήσετε μία αποθήκη αντικειμένων δίπλα σε αυτό.</TradeGoodsMustBeNearBeacon.helpText>
+  
 </LanguageData>

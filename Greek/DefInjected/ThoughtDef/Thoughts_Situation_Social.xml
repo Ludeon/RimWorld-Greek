@@ -1,49 +1,118 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- επηρεασμός γνώμης (affecting opinion) -->
-
-  <Affair.stages.0.label>σχέση</Affair.stages.0.label>
-  <Incestuous.stages.0.label>αιμομιξία</Incestuous.stages.0.label>
-  <Disfigured.stages.0.label>παραμόρφωση</Disfigured.stages.0.label>
-  <HardWorkerVsLazy.stages.0.label>σκληρά εργαζόμενος εναντίον τεμπέλη</HardWorkerVsLazy.stages.0.label>
-  <TeetotalerVsChemicalInterest.stages.0.label>εγκρατής εναντίον χαπάκια</TeetotalerVsChemicalInterest.stages.0.label>
-  <TeetotalerVsAddict.stages.0.label>εγκρατής εναντίον εθισμένου</TeetotalerVsAddict.stages.0.label>
-  <ChemicalInterestVsTeetotaler.stages.0.label>χαπάκιας εναντίον εγκρατή</ChemicalInterestVsTeetotaler.stages.0.label>
-  <Drunk.stages.0.label>μέθη</Drunk.stages.0.label>
-
-  <Pretty.stages.0.label>χαριτωμένο</Pretty.stages.0.label>
-  <Pretty.stages.1.label>ομορφιά</Pretty.stages.1.label>
-
-  <Ugly.stages.0.label>ασχήμια</Ugly.stages.0.label>
-  <Ugly.stages.1.label>θηριώδης ασχήμια</Ugly.stages.1.label>
-
-  <AnnoyingVoice.stages.0.label>ενοχλητική φωνή</AnnoyingVoice.stages.0.label>
-  <CreepyBreathing.stages.0.label>ανατριχιαστική ανάσα</CreepyBreathing.stages.0.label>
-  <Man.stages.0.label>άντρας</Man.stages.0.label>
-  <Woman.stages.0.label>γυναίκα</Woman.stages.0.label>
-  <ButcheredHumanlikeCorpseOpinion.stages.0.label>τεμάχισε ανθρώπινο πτώμα</ButcheredHumanlikeCorpseOpinion.stages.0.label>
-  <AteRawHumanlikeMeat.stages.0.label>έφαγε ωμό ανθρώπινο κρέας</AteRawHumanlikeMeat.stages.0.label>
-  <SoldPrisoner.stages.0.label>πούλησε φυλακισμένο για σκλάβο</SoldPrisoner.stages.0.label>
-  <ExecutedPrisoner.stages.0.label>εκτέλεσε κρατούμενο</ExecutedPrisoner.stages.0.label>
-  <KilledColonist.stages.0.label>δολοφόνησε άποικο</KilledColonist.stages.0.label>
-  <KilledColonyAnimal.stages.0.label>έσφαξε ζώο αποικίας</KilledColonyAnimal.stages.0.label>
-  <KilledMajorColonyEnemy.stages.0.label>φόνευσε σπουδαίο εχθρό</KilledMajorColonyEnemy.stages.0.label>
-
-
-  <!-- επηρεασμός διάθεσης (affecting mood) -->
-
-  <OpinionOfMyLover.stages.0.label>η γνώμη του {0} {1} μου</OpinionOfMyLover.stages.0.label>
-  <OpinionOfMyLover.stages.0.description>Όντας με τον εραστή μου, με κάνει να νιώθω έτσι.</OpinionOfMyLover.stages.0.description>
-
-  <BondedAnimalMaster.stages.0.label>αφεντικό του {0}</BondedAnimalMaster.stages.0.label>
-  <BondedAnimalMaster.stages.0.description>Η ύπαρξη μαζί με το ζώο μου με κάνει να αισθάνομαι καλύτερα.</BondedAnimalMaster.stages.0.description>
-
-  <NotBondedAnimalMaster.stages.0.label>δεν είναι αφεντικό του {0}</NotBondedAnimalMaster.stages.0.label>
-  <NotBondedAnimalMaster.stages.0.description>Θα έπρεπε να είμαι μαζί με το ζώο μου.</NotBondedAnimalMaster.stages.0.description>
-
-  <WantToSleepWithSpouseOrLover.stages.0.label>θέλω να κοιμηθώ με {0}</WantToSleepWithSpouseOrLover.stages.0.label>
-  <WantToSleepWithSpouseOrLover.stages.0.description>Δεν μου αρέσει να κοιμάμαι χωριστά από τον σύντροφό μου.</WantToSleepWithSpouseOrLover.stages.0.description>
-
-
+  
+  <!-- EN: affair -->
+  <Affair.stages.affair.label>σχέση</Affair.stages.affair.label>
+  
+  <!-- EN: annoying voice -->
+  <AnnoyingVoice.stages.annoying_voice.label>ενοχλητική φωνή</AnnoyingVoice.stages.annoying_voice.label>
+  
+  <!-- EN: ate raw humanlike meat -->
+  <AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>έφαγε ωμό ανθρώπινο κρέας</AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>
+  
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-0.label>αηδία λουδίτη</BodyPuristDisgust.stages.body_purist_disgust-0.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-1.label>απέχθεια λουδίτη</BodyPuristDisgust.stages.body_purist_disgust-1.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-2.label>αποστροφή λουδίτη</BodyPuristDisgust.stages.body_purist_disgust-2.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-3.label>σιχασιά λουδίτη</BodyPuristDisgust.stages.body_purist_disgust-3.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-4.label>αηδία λουδίτη</BodyPuristDisgust.stages.body_purist_disgust-4.label>
+  
+  <!-- EN: {0}'s master -->
+  <BondedAnimalMaster.stages.s_master.label>αφεντικό {0}</BondedAnimalMaster.stages.s_master.label>
+  <!-- EN: Being together with my bonded animal makes me feel better. -->
+  <BondedAnimalMaster.stages.s_master.description>Η ύπαρξη μαζί με το ζώο μου με κάνει να αισθάνομαι καλύτερα.</BondedAnimalMaster.stages.s_master.description>
+  <!-- EN: master of {0} -->
+  <BondedAnimalMaster.stages.master_of.label>αφέντης του {0}</BondedAnimalMaster.stages.master_of.label>
+  <!-- EN: Being together with my bonded animals makes me feel better. -->
+  <BondedAnimalMaster.stages.master_of.description>Το να βρίσκομαι μαζί με τα δικά μου ζώα με κάνει να αισθάνομαι καλύτερα.</BondedAnimalMaster.stages.master_of.description>
+  
+  <!-- EN: butchered humanlike corpse -->
+  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>τεμάχισε ανθρώπινο πτώμα</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+  
+  <!-- EN: chemical interest vs teetotaler -->
+  <ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>χαπάκιας εναντίον εγκρατή</ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>
+  
+  <!-- EN: creepy breathing -->
+  <CreepyBreathing.stages.creepy_breathing.label>ανατριχιαστική ανάσα</CreepyBreathing.stages.creepy_breathing.label>
+  
+  <!-- EN: disfigured -->
+  <Disfigured.stages.disfigured.label>παραμόρφωση</Disfigured.stages.disfigured.label>
+  
+  <!-- EN: drunk -->
+  <Drunk.stages.drunk.label>μέθη</Drunk.stages.drunk.label>
+  
+  <!-- EN: executed prisoner -->
+  <ExecutedPrisoner.stages.executed_prisoner.label>εκτέλεσε κρατούμενο</ExecutedPrisoner.stages.executed_prisoner.label>
+  
+  <!-- EN: hard worker vs lazy -->
+  <HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>σκληρά εργαζόμενος εναντίον τεμπέλη</HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>
+  
+  <!-- EN: incestuous -->
+  <Incestuous.stages.incestuous.label>αιμομιξία</Incestuous.stages.incestuous.label>
+  
+  <!-- EN: killed colonist -->
+  <KilledColonist.stages.killed_colonist.label>δολοφόνησε άποικο</KilledColonist.stages.killed_colonist.label>
+  
+  <!-- EN: killed colony animal -->
+  <KilledColonyAnimal.stages.killed_colony_animal.label>έσφαξε ζώο αποικίας</KilledColonyAnimal.stages.killed_colony_animal.label>
+  
+  <!-- EN: man -->
+  <Man.stages.man.label>άντρας</Man.stages.man.label>
+  
+  <!-- EN: not {0}'s master -->
+  <NotBondedAnimalMaster.stages.not_s_master.label>δεν είναι αφεντικό {0}</NotBondedAnimalMaster.stages.not_s_master.label>
+  <!-- EN: I should be together with my bonded animal. -->
+  <NotBondedAnimalMaster.stages.not_s_master.description>Θα έπρεπε να είμαι μαζί με το ζώο μου.</NotBondedAnimalMaster.stages.not_s_master.description>
+  <!-- EN: not master of {0} -->
+  <NotBondedAnimalMaster.stages.not_master_of.label>δεν είναι ο αφέντης του {0}</NotBondedAnimalMaster.stages.not_master_of.label>
+  <!-- EN: I should be together with my bonded animals. -->
+  <NotBondedAnimalMaster.stages.not_master_of.description>Θα έπρεπε να είμαι μαζί με τα ζώα μου.</NotBondedAnimalMaster.stages.not_master_of.description>
+  
+  <!-- EN: opinion of my {0} {1} -->
+  <OpinionOfMyLover.stages.opinion_of_my.label>η γνώμη {0} μου {1}</OpinionOfMyLover.stages.opinion_of_my.label>
+  <!-- EN: Being with my lover makes me feel this way. -->
+  <OpinionOfMyLover.stages.opinion_of_my.description>Όντας με τον εραστή μου, με κάνει να νιώθω έτσι.</OpinionOfMyLover.stages.opinion_of_my.description>
+  
+  <!-- EN: pretty -->
+  <Pretty.stages.pretty.label>χαριτωμένο</Pretty.stages.pretty.label>
+  <!-- EN: beautiful -->
+  <Pretty.stages.beautiful.label>ομορφιά</Pretty.stages.beautiful.label>
+  
+  <!-- EN: sold prisoner to slavery -->
+  <SoldPrisoner.stages.sold_prisoner_to_slavery.label>πούλησε φυλακισμένο για σκλάβο</SoldPrisoner.stages.sold_prisoner_to_slavery.label>
+  
+  <!-- EN: teetotaler vs addict -->
+  <TeetotalerVsAddict.stages.teetotaler_vs_addict.label>εγκρατής εναντίον εθισμένου</TeetotalerVsAddict.stages.teetotaler_vs_addict.label>
+  
+  <!-- EN: teetotaler vs chemical interest -->
+  <TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>εγκρατής εναντίον χαπάκια</TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>
+  
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>απόλαυση μετανθρωπιστή</TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>εκτίμηση μετανθρωπιστή</TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>αναγνώριση μετανθρωπιστή</TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>απόλαυση μετανθρωπιστή</TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>απόλαυση μετανθρωπιστή</TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>
+  
+  <!-- EN: ugly -->
+  <Ugly.stages.ugly.label>ασχήμια</Ugly.stages.ugly.label>
+  <!-- EN: staggeringly ugly -->
+  <Ugly.stages.staggeringly_ugly.label>θηριώδης ασχήμια</Ugly.stages.staggeringly_ugly.label>
+  
+  <!-- EN: want to sleep with {0} -->
+  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>θέλω να κοιμηθώ με {0}</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>
+  <!-- EN: I don't like sleeping apart from my partner. -->
+  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>Δεν μου αρέσει να κοιμάμαι χωριστά από τον σύντροφό μου.</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>
+  
+  <!-- EN: woman -->
+  <Woman.stages.woman.label>γυναίκα</Woman.stages.woman.label>
+  
 </LanguageData>

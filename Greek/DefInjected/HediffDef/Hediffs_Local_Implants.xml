@@ -1,13 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Εμφυτεύματα (Implants) -->
-
+  
+  <!-- EN: joywire -->
   <Joywire.label>καλώδιο της χαράς</Joywire.label>
+  <!-- EN: a joywire -->
   <Joywire.labelNoun>ένα καλώδιο της χαράς</Joywire.labelNoun>
-
+  
+  <!-- EN: painstopper -->
   <Painstopper.label>αναστολέας πόνου</Painstopper.label>
+  <!-- EN: a painstopper -->
   <Painstopper.labelNoun>ένας αναστολέας πόνου</Painstopper.labelNoun>
-
-
+  
 </LanguageData>

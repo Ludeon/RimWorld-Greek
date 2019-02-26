@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: colored lights -->
+  <ColoredLights.label>χρωματιστά Φώτα</ColoredLights.label>
+  <!-- EN: Construct colored lights for decorative purposes. Cosmetic only. -->
+  <ColoredLights.description>Επιτρέπει τους αποίκους να κατασκευάσουν χρωματιστά φώτα για λόγους διακόσμησης. Διακοσμητικά μόνο.</ColoredLights.description>
+  
+  <!-- EN: flatscreen television -->
+  <FlatscreenTelevision.label>τηλεόραση επίπεδης οθόνης</FlatscreenTelevision.label>
+  <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
+  <FlatscreenTelevision.description>Δημιουργήστε τηλεοράσεις επίπεδης οθόνης υψηλής ανάλυσης για μεγαλύτερη απόλαυση.</FlatscreenTelevision.description>
+  
+  <!-- EN: autocannon turret -->
+  <HeavyTurrets.label>πυργίσκος αυτόματου κανονιού</HeavyTurrets.label>
+  <!-- EN: Produce the heavy, long-ranged autocannon turret. -->
+  <HeavyTurrets.description>Παράγει ένα βαρύ, μεγάλου βεληνεκές πυργίσκου αυτόματου κανονιού.</HeavyTurrets.description>
+  
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>νοσοκομειακό κρεβάτι</HospitalBed.label>
+  <!-- EN: Construct hospital beds which improve medical outcomes. -->
+  <HospitalBed.description>Επιτρέπει στους αποίκους να κατασκευάσουν νοσοκομειακά κρεβάτια που αυξάνουν τις πιθανότητες επιτυχούς ιατρικής διεργασίας.</HospitalBed.description>
+  
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>ανιχνευτής ορυκτών μεγάλου εύρους</LongRangeMineralScanner.label>
+  <!-- EN: Construct long-range mineral scanners your researchers can use to detect precious minerals across the planet. Can be tuned to find a specific mineral. Requires advanced components to construct. -->
+  <LongRangeMineralScanner.description>Κατασκευάστε μεγάλης εμβέλειας ανιχνευτές ορυκτών πόρων που μπορούν να χρησιμοποιήσουν οι ερευνητές σας για να ανιχνεύσουν πολύτιμα μέταλλα στον πλανήτη. Μπορείτε να το συντονίσετε για να βρείτε ένα συγκεκριμένο ορυκτό. Απαιτεί προηγμένα εξαρτήματα για την κατασκευή του..</LongRangeMineralScanner.description>
+  
+  <!-- EN: medicine production -->
+  <MedicineProduction.label>παραγωγή φαρμάκων</MedicineProduction.label>
+  <!-- EN: Produce standard industrial-tech medicine by combining herbal medicine, neutroamine, and cloth. -->
+  <MedicineProduction.description>Κατασκευάστε φάρμακα βασικής βιομηχανικής τεχνολογίας από θεραπευτικά βότανα, ουδετερομίνη και επιδέσμους.</MedicineProduction.description>
+  
+  <!-- EN: microelectronics -->
+  <MicroelectronicsBasics.label>μικροηλεκτρονική</MicroelectronicsBasics.label>
+  <!-- EN: Work with complex microelectronics. This unlocks the hi-tech research bench and comms console. -->
+  <MicroelectronicsBasics.description>Εργαστείτε πάνω στα περίπλοκα ηλεκτρονικά. Αυτό ξεκλειδώνει τον υψηλής τεχνολογίας πάγκο έρευνας και την κονσόλα επικοινωνίας.</MicroelectronicsBasics.description>
+  
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>αντλία υγρασίας</MoisturePump.label>
+  <!-- EN: Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand. -->
+  <MoisturePump.description>Κατασκευάστε αντλίες υγρασίας, οι οποίες αφαιρούν πολύ αργά την υγρασία από το έδαφος γύρω τους. Μπορούν να μετατρέψουν υγρό έδαφος σε ξηρό και να την μαλακή άμμο σε κανονική άμμο.</MoisturePump.description>
+  
+  <!-- EN: multibarrel weapons -->
+  <MultibarrelWeapons.label>πολύκαννα όπλα</MultibarrelWeapons.label>
+  <!-- EN: Assemble miniguns. -->
+  <MultibarrelWeapons.description>Σας δίνει τη δυνατότητα να δημιουργήσετε μίνιγκαν.</MultibarrelWeapons.description>
+  
+  <!-- EN: precision rifling -->
+  <PrecisionRifling.label>κάννη ακριβείας</PrecisionRifling.label>
+  <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
+  <PrecisionRifling.description>Δημιουργήστε όπλα μηχανική ακρίβεια όπως τυφέκια εφόδου και τουφέκια ελεύθερων σκοπευτών.</PrecisionRifling.description>
+  
+  <!-- EN: shield belt -->
+  <ShieldBelt.label>ζώνη θωράκισης</ShieldBelt.label>
+  <!-- EN: Build shield belts, which use momentun-repulsion technology to block ranged attacks coming in or going out. -->
+  <ShieldBelt.description>Η τεχνολογία πεδίων εξουδετέρωσης ορμής σάς επιτρέπει να δημιουργείτε ζώνες θωράκισης, οι οποίες εμποδίζουν τις επικείμενες επιθέσεις που εισέρχονται ή εξέρχονται.</ShieldBelt.description>
+  
+  <!-- EN: transport pod -->
+  <TransportPod.label>άτρακτος μεταφοράς</TransportPod.label>
+  <!-- EN: Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more. -->
+  <TransportPod.description>Κατασκευάστε εκτοξεύσιμες ατράκτους μεταφοράς που μπορείτε να χρησιμοποιήσετε για να εκτοξεύσετε ανθρώπους και προμήθειες σε μεγάλες αποστάσεις στην επιφάνεια του πλανήτη. Μπορούν να χρησιμοποιηθούν για επιδρομές, ταξίδια, αποστολή δώρων και πολλά άλλα.</TransportPod.description>
+  
+</LanguageData>

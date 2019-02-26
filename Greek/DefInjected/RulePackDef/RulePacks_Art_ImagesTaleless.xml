@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>image->a solitary [Character] [desc_pawn]</li>
+    <li>image->a solitary [Character] [desc_pawn] near a [TerrainFeature]</li>
+    <li>image->a solitary [Character] [desc_pawn] near a [Community]</li>
+    <li>image->a [Character] [desc_pawn] surrounded by [Character]s</li>
+    <li>image->[Character]s playing [Game]</li>
+    <li>image->a [Character] [desc_pawn] playing [Game] with [Quantity_adjphrase] [Character]s</li>
+    <li>image->a [Character] [desc_pawn] holding a [Weapon]</li>
+    <li>image->a [Character] [desc_pawn] eating a [Vegetable]</li>
+    <li>image->[Quantity_adjphrase] [PersonJob]s and [PersonJob]s eating [Vegetable]s together</li>
+    <li>image->the minor celebrity [NamePerson] [desc_pawn]</li>
+    <li>image->a [Character] wearing a [Apparel] [desc_pawn]</li>
+    <li>image->a [Community]</li>
+    <li>image->a [TerrainFeature]</li>
+    <li>image->a [Weapon]</li>
+    <li>image->a [TreeType] tree</li>
+    <li>image->a [NaturalObject]</li>
+    <li>image->[Quantity_adjphrase] [Weapon]s</li>
+    <li>image->[Quantity_adjphrase] [Vegetable]s</li>
+    <li>image->an empty [Apparel]</li>
+    <li>image->a [Shape]</li>
+    <li>image->a [Shape] surrounded by [Shape]s</li>
+    <li>image->an abstracted rendering of [ConceptAny]</li>
+    <li>image->a [AdjectiveAny] abstract shape</li>
+    <li>desc_pawn(p=12)-></li>
+    <li>desc_pawn->flying through the air</li>
+    <li>desc_pawn->suspended in the air</li>
+    <li>desc_pawn->moving to the left</li>
+    <li>desc_pawn->moving to the right</li>
+    <li>desc_pawn->sitting on a table</li>
+    <li>desc_pawn->seen through a looking glass</li>
+    <li>desc_pawn->rendered in silhouette</li>
+    <li>desc_pawn->riding on a [Animal] wearing a [Apparel]</li>
+    <li>desc_pawn->looking [AdjectiveAny]</li>
+    <li>desc_pawn->covered in [Gore]</li>
+  -->
+  <TalelessImages.rulePack.rulesStrings><li>image->ένας μοναχικός [Character] [desc_pawn]</li>
+    <li>image->ένας μοναχικός [Character] [desc_pawn] κοντά σε ένα [TerrainFeature]</li>
+    <li>image->ένας μοναχικός [Character] [desc_pawn] κοντά σε μια [Community]</li>
+    <li>image->ένας [Character] [desc_pawn] περιστοιχισμένος από [Character]</li>
+    <li>image->[Character] παίζουν [Game]</li>
+    <li>image->ένας [Character] [desc_pawn] παίζει [Game] με [Quantity_adjphrase] [Character]</li>
+    <li>image->ένας [Character] [desc_pawn] κρατάει ένα [Weapon]</li>
+    <li>image->ένας [Character] [desc_pawn] τρώει ένα [Vegetable]</li>
+    <li>image->[Quantity_adjphrase] [PersonJob] και [PersonJob] τρώνε [Vegetable] μαζί</li>
+    <li>image->μία ασήμαντη προσωπικότητα [NamePerson] [desc_pawn]</li>
+    <li>image->ένας [Character] φοράει ένα [Apparel] [desc_pawn]</li>
+    <li>image->μία [Community]</li>
+    <li>image->ένα [TerrainFeature]</li>
+    <li>image->ένα [Weapon]</li>
+    <li>image->ένα [TreeType] δέντρο</li>
+    <li>image->ένα [NaturalObject]</li>
+    <li>image->[Quantity_adjphrase] [Weapon]s</li>
+    <li>image->[Quantity_adjphrase] [Vegetable]s</li>
+    <li>image->ένα άδειο [Apparel]</li>
+    <li>image->ένα [Shape]</li>
+    <li>image->ένα [Shape] περιβάλλεται από [Shape]</li>
+    <li>image->μια αφηρημένη απόδοση της [ConceptAny]</li>
+    <li>image->ένα [AdjectiveAny] αφηρημένο σχήμα</li>
+    <li>desc_pawn(p=12)-></li>
+    <li>desc_pawn->που πετά μέσα στον αέρα</li>
+    <li>desc_pawn->κρέμεται στον αέρα</li>
+    <li>desc_pawn->κινητέ στα αριστερά</li>
+    <li>desc_pawn->βαδίζει προς τα δεξιά</li>
+    <li>desc_pawn->κάθετε πάνω στο τραπέζι</li>
+    <li>desc_pawn->κοιτάει μέσα από ένα καθρέπτη</li>
+    <li>desc_pawn->μένει σαν σιλουέτα</li>
+    <li>desc_pawn->καβαλάει ένα [Animal] φορώντας [Apparel]</li>
+    <li>desc_pawn->κοιτάει [AdjectiveAny]</li>
+    <li>desc_pawn->καλύπτεται [Gore]</li></TalelessImages.rulePack.rulesStrings>
+  
+</LanguageData>

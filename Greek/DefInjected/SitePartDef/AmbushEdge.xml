@@ -1,9 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: ambush -->
   <AmbushEdge.label>ενέδρα</AmbushEdge.label>
+  <!-- EN: An ambush. -->
   <AmbushEdge.description>Μία ενέδρα.</AmbushEdge.description>
-  <AmbushEdge.descriptionDialogue>μια δύναμη του εχθρού που ενεδρεύει να εφορμήσει σε όποιον πλησιάζει</AmbushEdge.descriptionDialogue>
-
-
+  <!-- EN: an enemy force is waiting to ambush anyone who comes near -->
+  <AmbushEdge.descriptionDialogue>μια δύναμη του εχθρού που ενεδρεύει να εφορμήσει σε όποιον πλησιάσει</AmbushEdge.descriptionDialogue>
+  
 </LanguageData>

@@ -1,14 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <GotMarried.stages.0.label>παντρεύτηκε με {0}</GotMarried.stages.0.label>
-  <GotMarried.stages.0.description>Παντρεύτηκα! Η ζωή είναι γεμάτη δυνατότητες!</GotMarried.stages.0.description>
-
-  <AttendedWedding.stages.0.label>παρακολούθησε το γάμο</AttendedWedding.stages.0.label>
-  <AttendedWedding.stages.0.description>Ήταν υπέροχο να δούμε δύο άτομα να ενωθούν για να χτίσουν ένα τέτοιο μέλλον.</AttendedWedding.stages.0.description>
-
-  <AttendedParty.stages.0.label>συμμετείχε στο πάρτι</AttendedParty.stages.0.label>
-  <AttendedParty.stages.0.description>Είχα μια καλή στιγμή στο πάρτι.</AttendedParty.stages.0.description>
-
-
+  
+  <!-- EN: attended party -->
+  <AttendedParty.stages.attended_party.label>συμμετείχε στο πάρτι</AttendedParty.stages.attended_party.label>
+  <!-- EN: I had a good time at that party. -->
+  <AttendedParty.stages.attended_party.description>Είχα μια καλή στιγμή στο πάρτι.</AttendedParty.stages.attended_party.description>
+  
+  <!-- EN: attended wedding -->
+  <AttendedWedding.stages.attended_wedding.label>παρακολούθησε το γάμο</AttendedWedding.stages.attended_wedding.label>
+  <!-- EN: It was great to see two people come together to build a future like that. -->
+  <AttendedWedding.stages.attended_wedding.description>Ήταν υπέροχο να δούμε δύο άτομα να ενώνονται για να χτίσουν ένα τέτοιο μέλλον.</AttendedWedding.stages.attended_wedding.description>
+  
+  <!-- EN: got married to {0} -->
+  <GotMarried.stages.got_married_to.label>παντρεύτηκε με {0}</GotMarried.stages.got_married_to.label>
+  <!-- EN: I got married! It's so wonderful to be starting a new life together! -->
+  <GotMarried.stages.got_married_to.description>Παντρεύτηκα! Είναι τόσο υπέροχο να ξεκινάμε μια νέα ζωή μαζί! Μια ζωή γεμάτη δυνατότητες!</GotMarried.stages.got_married_to.description>
+  
 </LanguageData>

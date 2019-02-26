@@ -1,22 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Θάμνοι (Bushes) -->
-
-  <PlantAgave.label>αγαύη</PlantAgave.label>
-  <PlantAgave.description>Ένα φυτό με μεγάλα φύλα που βρίσκεται στην έρημο και είναι φαγώσιμο.</PlantAgave.description>
-
-  <PlantPincushionCactus.label>ακιδοειδές κάκτος</PlantPincushionCactus.label>
-  <PlantPincushionCactus.description>Ένα είδος μικρού κάκτου. Ονομάστηκε έτσι επειδή μοιάζει με ένα μαξιλαράκι για καρφίτσες.</PlantPincushionCactus.description>
-
-
-  <!-- Δέντρα (Trees) -->
-
-  <PlantSaguaroCactus.label>κάκτος σαγκουάρο</PlantSaguaroCactus.label>
-  <PlantSaguaroCactus.description>Μεγάλος κάκτος που συναντάται σε ξηρά κλίματα.</PlantSaguaroCactus.description>
-
-  <PlantTreeDrago.label>δρακόδεντρο</PlantTreeDrago.label>
-  <PlantTreeDrago.description>Ένα ανθεκτικό δέντρο της έρημου γεμάτο με πυκνά, μυτερά φύλλα.</PlantTreeDrago.description>
-
-
+  
+  <!-- EN: agave -->
+  <Plant_Agave.label>αγαύη</Plant_Agave.label>
+  <!-- EN: A large-leafed desert plant with edible flowers and stalks. -->
+  <Plant_Agave.description>Ένα φυτό της έρημου με μεγάλα φύλα και βρώσιμα λουλούδια και μίσχους.</Plant_Agave.description>
+  
+  <!-- EN: pincushion cactus -->
+  <Plant_PincushionCactus.label>ακιδοειδές κάκτος</Plant_PincushionCactus.label>
+  <!-- EN: A short cactus. It is so named because it resembles a pincushion. -->
+  <Plant_PincushionCactus.description>Ένα είδος μικρού κάκτου. Ονομάστηκε έτσι επειδή μοιάζει με ένα μαξιλαράκι για καρφίτσες.</Plant_PincushionCactus.description>
+  
+  <!-- EN: saguaro cactus -->
+  <Plant_SaguaroCactus.label>κάκτος σαγκουάρο</Plant_SaguaroCactus.label>
+  <!-- EN: A large cactus native to arid Earth environments. Though it is not a tree, it yields a small amount of fibrous material that can be used like wood. -->
+  <Plant_SaguaroCactus.description>Μεγάλος κάκτος που συναντάται σε ξηρά κλίματα. Αν και δεν είναι δέντρο, παράγει μια μικρή ποσότητα ινώδους υλικού που μπορεί να χρησιμοποιηθεί σαν ξύλο.</Plant_SaguaroCactus.description>
+  
+  <!-- EN: drago tree -->
+  <Plant_TreeDrago.label>δρακόδεντρο</Plant_TreeDrago.label>
+  <!-- EN: A hardy desert tree topped with thick, pointed leaves. -->
+  <Plant_TreeDrago.description>Ένα ανθεκτικό δέντρο της έρημου γεμάτο με πυκνά, μυτερά φύλλα.</Plant_TreeDrago.description>
+  
 </LanguageData>

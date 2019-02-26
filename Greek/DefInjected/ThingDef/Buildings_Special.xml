@@ -1,17 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <PsychicEmanator.label>ψυχική γεννήτρια</PsychicEmanator.label>
-  <PsychicEmanator.description>Μια αρχαία συσκευή που παράγει ένα καταπραϋντικό ψυχικό πεδίο γύρω από τον εαυτό της. Αυτό βελτιώνει τη διάθεση οποιουδήποτε κοντινού ατόμου. Λειτουργεί μέσα από τοίχους.</PsychicEmanator.description>
-  <PsychicEmanator_Blueprint_Install.label>ψυχική γεννήτρια (προσχέδιο)</PsychicEmanator_Blueprint_Install.label>
-
-  <VanometricPowerCell.label>βανομετρικό ενεργειακό κελί</VanometricPowerCell.label>
-  <VanometricPowerCell.description>Δημιουργεί ελεύθερη ενέργεια, για πάντα, χωρίς να χρησιμοποιεί καύσιμο. Αυτή η τεχνολογία αναπτύχθηκε από αρχητεχνολόγο Εάις, και ξεπερνά τις περισσότερες κοινωνίες λαμπρών πολιτισμών. Ενώ κανείς δεν ξέρει ακριβώς πώς λειτουργεί, οι μελετητές πιστεύουν ότι εξάγει με κάποιο τρόπο ενέργεια από τις διακυμάνσεις του κβαντικού φάσματος.</VanometricPowerCell.description>
-  <VanometricPowerCell_Blueprint_Install.label>βανομετρικό ενεργειακό κελί (προσχέδιο)</VanometricPowerCell_Blueprint_Install.label>
-
+  
+  <!-- EN: infinite chemreactor -->
   <InfiniteChemreactor.label>αδιάλειπτος χημικοαντιδραστήρας</InfiniteChemreactor.label>
+  <!-- EN: Slowly generates chemfuel by a complex series of chemical reactions, using atoms extracted from the air. -->
   <InfiniteChemreactor.description>Δημιουργεί με αργούς ρυθμούς χημικά καύσιμα με μια σύνθετη σειρά χημικών αντιδράσεων, χρησιμοποιώντας άτομα που εξάγονται από τον αέρα.</InfiniteChemreactor.description>
-  <InfiniteChemreactor_Blueprint_Install.label>αδιάλειπτος χημικοαντιδραστήρας (προσχέδιο)</InfiniteChemreactor_Blueprint_Install.label>
-
-
+  
+  <!-- EN: psychic emanator -->
+  <PsychicEmanator.label>ψυχική γεννήτρια</PsychicEmanator.label>
+  <!-- EN: An ancient device that projects a soothing psychic field around itself. This improves the mood of anyone nearby. Works through walls. -->
+  <PsychicEmanator.description>Μια αρχαία συσκευή που παράγει ένα καταπραϋντικό ψυχικό πεδίο γύρω από τον εαυτό της. Αυτό βελτιώνει τη διάθεση οποιουδήποτε κοντινού ατόμου. Λειτουργεί μέσα από τοίχους.</PsychicEmanator.description>
+  
+  <!-- EN: vanometric power cell -->
+  <VanometricPowerCell.label>βανομετρικό ενεργειακό κελί</VanometricPowerCell.label>
+  <!-- EN: Generates free energy, forever, without using fuel. This technology is developed by archotech AIs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam. -->
+  <VanometricPowerCell.description>Δημιουργεί ελεύθερη ενέργεια, για πάντα, χωρίς να χρησιμοποιεί καύσιμο. Αυτή η τεχνολογία αναπτύχθηκε από αρχοτεχνολόγικη τεχνητή νοημοσύνη, και ξεπερνά τις περισσότερες κοινωνίες λαμπρών πολιτισμών. Ενώ κανείς δεν ξέρει ακριβώς πώς λειτουργεί, οι μελετητές πιστεύουν ότι εξάγει με κάποιο τρόπο ενέργεια από τις διακυμάνσεις του κβαντικού φάσματος.</VanometricPowerCell.description>
+  
 </LanguageData>

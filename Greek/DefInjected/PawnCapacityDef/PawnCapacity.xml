@@ -1,22 +1,45 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Consciousness.label>συνειδητοποίηση</Consciousness.label>
-  <Consciousness.labelMechanoids>Επεξεργασία δεδομένων</Consciousness.labelMechanoids>
-
-  <Moving.label>κίνηση</Moving.label>
-  <Manipulation.label>χειρισμός</Manipulation.label>
-
-  <Talking.label>ομιλία</Talking.label>
-  <Talking.labelMechanoids>Επικοινωνία</Talking.labelMechanoids>
-
-  <Eating.label>κατάποση</Eating.label>
-  <Sight.label>όραση</Sight.label>
-  <Hearing.label>ακοή</Hearing.label>
-  <Breathing.label>αναπνοή</Breathing.label>
-  <BloodFiltration.label>αντιμετώπιση ασθεν.</BloodFiltration.label>
+  
+  <!-- EN: blood filtration -->
+  <BloodFiltration.label>αιμοκάθαρση</BloodFiltration.label>
+  <!-- EN: fluid reprocessing -->
+  <BloodFiltration.labelMechanoids>επανεπεξεργασία υγρών</BloodFiltration.labelMechanoids>
+  
+  <!-- EN: blood pumping -->
   <BloodPumping.label>κυκλοφορία αίματος</BloodPumping.label>
+  <!-- EN: power generation -->
+  <BloodPumping.labelMechanoids>παραγωγή ενέργειας</BloodPumping.labelMechanoids>
+  
+  <!-- EN: breathing -->
+  <Breathing.label>αναπνοή</Breathing.label>
+  
+  <!-- EN: consciousness -->
+  <Consciousness.label>συνειδητοποίηση</Consciousness.label>
+  <!-- EN: Data processing -->
+  <Consciousness.labelMechanoids>Επεξεργασία δεδομένων</Consciousness.labelMechanoids>
+  
+  <!-- EN: eating -->
+  <Eating.label>κατάποση</Eating.label>
+  
+  <!-- EN: hearing -->
+  <Hearing.label>ακοή</Hearing.label>
+  
+  <!-- EN: manipulation -->
+  <Manipulation.label>χειρισμός</Manipulation.label>
+  
+  <!-- EN: metabolism -->
   <Metabolism.label>μεταβολισμός</Metabolism.label>
-
-
+  
+  <!-- EN: moving -->
+  <Moving.label>κίνηση</Moving.label>
+  
+  <!-- EN: sight -->
+  <Sight.label>όραση</Sight.label>
+  
+  <!-- EN: talking -->
+  <Talking.label>ομιλία</Talking.label>
+  <!-- EN: Communication -->
+  <Talking.labelMechanoids>Επικοινωνία</Talking.labelMechanoids>
+  
 </LanguageData>

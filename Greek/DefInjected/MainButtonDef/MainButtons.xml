@@ -1,37 +1,62 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Inspect.label>επιτήρηση</Inspect.label>
-
-  <Architect.label>αρχιτεκτονική</Architect.label>
-  <Architect.description>Ορίστε τι και πού οι άποικοι θα πρέπει να οικοδομήσουν, να καλλιεργήσουν, να αποθηκεύσουν αντικείμενα και ούτω κάθε εξής.</Architect.description>
-
-  <Work.label>εργασία</Work.label>
-  <Work.description>Επιλέξτε ποιος αποικιστής κάνει συγκεκριμένου είδους εργασία, και με ποια σειρά προτεραιότητας.</Work.description>
-
-  <Restrict.label>περιορισμοί</Restrict.label>
-  <Restrict.description>Περιορίστε τους αποίκους σε ορισμένες δραστηριότητες σε συγκεκριμένες ώρες της ημέρας ή σε συγκεκριμένες επιτρεπόμενες περιοχές.</Restrict.description>
-
-  <Assign.label>διαμόρφωση</Assign.label>
-  <Assign.description>Καθορίστε τι επιτρέπεται να φέρει ο κάθε αποικιστής και πώς θα αντιδρούν στους κοντινούς εχθρούς.</Assign.description>
-
+  
+  <!-- EN: animals -->
   <Animals.label>ζώα</Animals.label>
+  <!-- EN: Configure how the colony's tame animals should be treated. -->
   <Animals.description>Διαμορφώστε τον τρόπο με τον οποίο θα πρέπει να αντιμετωπίζονται τα εξημερωμένα ζώα της αποικίας.</Animals.description>
-
-  <Research.label>έρευνα</Research.label>
-  <Research.description>Εξετάστε και αποφασίστε για τα ερευνητικά έργα.</Research.description>
-
-  <World.label>κόσμος</World.label>
-  <World.description>Εξετάστε το χάρτη του κόσμου.</World.description>
-
-  <History.label>ιστορικό</History.label>
-  <History.description>Δείτε τις εγγραφές του ιστορικού της αποικίας.</History.description>
-
+  
+  <!-- EN: architect -->
+  <Architect.label>αρχιτεκτονική</Architect.label>
+  <!-- EN: Designate where to build, farm, store items, and so on. -->
+  <Architect.description>Ορίστε τι και πού οι άποικοι θα πρέπει να οικοδομήσουν, να καλλιεργήσουν, να αποθηκεύσουν αντικείμενα και ούτω κάθε εξής.</Architect.description>
+  
+  <!-- EN: assign -->
+  <Assign.label>διαμόρφωση</Assign.label>
+  <!-- EN: Assign behaviors to colonists like what they should wear, what drugs to take, or how to respond to enemies. -->
+  <Assign.description>Καθορίστε τι επιτρέπεται να φοράει, τι ναρκωτικά να παίρνει ο κάθε αποικιστής και πώς θα αντιδρά στους εχθρούς.</Assign.description>
+  
+  <!-- EN: factions -->
   <Factions.label>φατρίες</Factions.label>
-  <Factions.description>Ελέγξτε τις φατρίες που είναι γνωστές στην αποικία και τις σχέσεις τους.</Factions.description>
-
+  <!-- EN: Review the other factions on this world and their relationships. -->
+  <Factions.description>Ελέγξτε τις άλλες φατρίες του πλανήτη και τις σχέσεις τους.</Factions.description>
+  
+  <!-- EN: history -->
+  <History.label>ιστορικό</History.label>
+  <!-- EN: Review historical records. -->
+  <History.description>Δείτε τις εγγραφές του ιστορικού της αποικίας.</History.description>
+  
+  <!-- EN: inspect -->
+  <Inspect.label>επιτήρηση</Inspect.label>
+  
+  <!-- EN: menu -->
   <Menu.label>επιλογές</Menu.label>
+  <!-- EN: Change options, save, load, or quit the game. -->
   <Menu.description>Αλλαγή ρυθμίσεων, αποθήκευση, φόρτωση ή έξοδος από το παιχνίδι.</Menu.description>
-
-
+  
+  <!-- EN: research -->
+  <Research.label>έρευνα</Research.label>
+  <!-- EN: Examine and decide on research projects. -->
+  <Research.description>Εξετάστε και αποφασίστε για τα ερευνητικά έργα.</Research.description>
+  
+  <!-- EN: restrict -->
+  <Restrict.label>περιορισμοί</Restrict.label>
+  <!-- EN: Restrict colonists to certain activities at certain times of day, or to specific allowed areas. -->
+  <Restrict.description>Περιορίστε τους αποίκους σε ορισμένες δραστηριότητες σε συγκεκριμένες ώρες της ημέρας ή σε συγκεκριμένες επιτρεπόμενες περιοχές.</Restrict.description>
+  
+  <!-- EN: wildlife -->
+  <Wildlife.label>άγρια ζωή</Wildlife.label>
+  <!-- EN: List wild animals in the area and designate them for hunting or taming. -->
+  <Wildlife.description>Λίστα με όλα τα άγρια ζώα στην περιοχή και ορίστε ποια θα κυνηγήσετε ή εξημερώσετε.</Wildlife.description>
+  
+  <!-- EN: work -->
+  <Work.label>εργασία</Work.label>
+  <!-- EN: Choose which colonist does what kinds of work, and in what order. -->
+  <Work.description>Επιλέξτε ποιος αποικιστής κάνει συγκεκριμένου είδους εργασία, και με ποια σειρά προτεραιότητας.</Work.description>
+  
+  <!-- EN: world -->
+  <World.label>κόσμος</World.label>
+  <!-- EN: Examine the world map, form, and manage caravans. -->
+  <World.description>Εξετάστε το χάρτη του κόσμου, δημιουργήστε και διαχειριστείτε τα καραβάνια.</World.description>
+  
 </LanguageData>

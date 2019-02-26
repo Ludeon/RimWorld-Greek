@@ -1,25 +1,29 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Τάπητες (Carpets) -->
-
-  <PlantGrass.label>γρασίδι</PlantGrass.label>
-  <PlantGrass.description>Άγριο χόρτο. Αναπτύσσεται οπουδήποτε υπάρχει λίγο φως και ελάχιστα γόνιμο έδαφος.</PlantGrass.description>
-
-  <PlantTallGrass.label>ψηλό γρασίδι</PlantTallGrass.label>
-  <PlantTallGrass.description>Άγριο ψηλό χορτάρι. Επιβραδύνει τον καθένα που κινείται πάνω του.</PlantTallGrass.description>
-
-
-  <!-- Θάμνοι (Bushes0 -->
-
-  <PlantBush.label>Θάμνος</PlantBush.label>
-  <PlantBush.description>Ένας μικρός θάμνος. Δεν μιλάει συνήθως.</PlantBush.description>
-
-  <PlantBrambles.label>βάτα</PlantBrambles.label>
-  <PlantBrambles.description>Μπερδεμένοι, ακανθώδεις, ξυλώδεις βλαστοί που καλύπτονται με φύλλα. Επιβραδύνει κάποιον που κινείται πάνω του για λίγο.</PlantBrambles.description>
-
-  <PlantWildHealroot.label>αγριογιατρόριζα</PlantWildHealroot.label>
-  <PlantWildHealroot.description>Ένα φυτό που αναπτύσσεται αργά και γίνετε θεραπευτικό βότανο όταν συγκομίζεται.\n\nΑυτό το άγριο γένος της γιατρόριζας είναι δύσκολο να καλλιεργηθεί. Είναι εκτιμημένη από τις φιλές των ψυχρών περιοχών.</PlantWildHealroot.description>
-
-
+  
+  <!-- EN: brambles -->
+  <Plant_Brambles.label>βάτα</Plant_Brambles.label>
+  <!-- EN: Tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them. -->
+  <Plant_Brambles.description>Μπερδεμένοι, ακανθώδεις, ξυλώδεις βλαστοί που καλύπτονται με φύλλα. Τα βάτα αναπτύσσονται σε συστάδες οι οποίες επιβραδύνει κάποιον που κινείται πάνω τους.</Plant_Brambles.description>
+  
+  <!-- EN: bush -->
+  <Plant_Bush.label>Θάμνος</Plant_Bush.label>
+  <!-- EN: A short shrub. Does not typically talk. -->
+  <Plant_Bush.description>Ένας μικρός θάμνος. Δεν μιλάει συνήθως.</Plant_Bush.description>
+  
+  <!-- EN: grass -->
+  <Plant_Grass.label>γρασίδι</Plant_Grass.label>
+  <!-- EN: Wild grass. Grows anywhere there is a little light and minimally fertile ground. -->
+  <Plant_Grass.description>Άγριο χόρτο. Αναπτύσσεται οπουδήποτε υπάρχει λίγο φως και ελάχιστα γόνιμο έδαφος.</Plant_Grass.description>
+  
+  <!-- EN: wild healroot -->
+  <Plant_HealrootWild.label>αγριογιατρόριζα</Plant_HealrootWild.label>
+  <!-- EN: A slow-growing plant which yields herbal medicine when harvested.\n\nThis wild breed of healroot is hardier than domesticated healroot, but too difficult to cultivate. It is prized by tribespeople in colder climates. -->
+  <Plant_HealrootWild.description>Ένα φυτό που αναπτύσσεται αργά και γίνετε θεραπευτικό βότανο όταν συγκομίζεται.\n\nΑυτό το άγριο γένος της γιατρόριζας είναι δύσκολο να καλλιεργηθεί. Είναι εκτιμημένη από τις φιλές των ψυχρών περιοχών.</Plant_HealrootWild.description>
+  
+  <!-- EN: tall grass -->
+  <Plant_TallGrass.label>ψηλό γρασίδι</Plant_TallGrass.label>
+  <!-- EN: Wild tall grass. Slows down anyone moving over it. -->
+  <Plant_TallGrass.description>Άγριο ψηλό χορτάρι. Επιβραδύνει τον καθένα που κινείται πάνω του.</Plant_TallGrass.description>
+  
 </LanguageData>

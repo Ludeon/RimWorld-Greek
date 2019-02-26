@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aiming time -->
+  <AimingDelayFactor.label>ταχύτητα πυροβολισμού</AimingDelayFactor.label>
+  <!-- EN: How long it takes to shoot after choosing a target. -->
+  <AimingDelayFactor.description>Πόση ώρα χρειάζεται για να πυροβολήσει μετά την επιλογή ενός στόχου.</AimingDelayFactor.description>
+  
+  <!-- EN: melee armor penetration -->
+  <MeleeArmorPenetration.label>εξ επαφής διείσδυση θωράκισης</MeleeArmorPenetration.label>
+  <!-- EN: Average armor penetration of all attacks in melee combat. This stat includes currently used weapon. -->
+  <MeleeArmorPenetration.description>Μέση διείσδυση θωράκισης όλων των επιθέσεων σε μάχη σώμα με σώμα. Αυτό το χαρακτηριστικό αναφέρεται στο τρέχον όπλο που χρησιμοποιείται.</MeleeArmorPenetration.description>
+  
+  <!-- EN: melee dodge chance -->
+  <MeleeDodgeChance.label>πιθανότητα αποφυγής εξ επαφής κτυπήματος</MeleeDodgeChance.label>
+  <!-- EN: Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon. -->
+  <MeleeDodgeChance.description>Η πιθανότητα να αποφύγει μια επίθεση εξ επαφής που διαφορετικά θα τον είχε χτυπήσει. Οι χαρακτήρες δεν μπορούν να κάνουν αποφυγή, ενώ στοχεύουν ή πυροβολούν με ένα όπλο εξ αποστάσεως.</MeleeDodgeChance.description>
+  
+  <!-- EN: melee DPS -->
+  <MeleeDPS.label>Ζημιά Ανά Δευτερόλεπτο εξ επαφής</MeleeDPS.label>
+  <!-- EN: Average damage per second in melee combat. This stat ignores target defenses like dodging and armor. -->
+  <MeleeDPS.description>Η μέση ζημιά ανά δευτερόλεπτο κατά τη μάχη σώμα με σώμα. Αυτό το χαρακτηριστικό αγνοεί τις άμυνες του στόχου όπως την αποφυγή και τη θωράκιση.</MeleeDPS.description>
+  
+  <!-- EN: melee hit chance -->
+  <MeleeHitChance.label>πιθανότητα κτυπήματος εξ επαφής επίθεσης</MeleeHitChance.label>
+  <!-- EN: Chance to hit a target in melee. The target can still dodge even if we would've hit. -->
+  <MeleeHitChance.description>Η πιθανότητα να χτυπήσει έναν στόχο στη μάχη σώμα με σώμα. Ο στόχος μπορεί ακόμα να αποφύγει το κτύπημα ακόμα και αν τον χτυπήσεις.</MeleeHitChance.description>
+  
+  <!-- EN: shooting accuracy -->
+  <ShootingAccuracyPawn.label>ακρίβεια πυροβολισμού</ShootingAccuracyPawn.label>
+  <!-- EN: Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <ShootingAccuracyPawn.description>Η βασική πιθανότητα να μην αστοχήσει ανά κελί από την απόσταση πυροβολισμού. Η πιθανότητα να ευστοχήσει επηρεάζεται επίσης από πολλούς άλλους παράγοντες. Μια εξήγηση πιθανής επιτυχίας για οποιοδήποτε τουφεκισμό μπορεί να φανεί επιλέγοντας έναν σκοπευτή και τοποθετώντας το ποντίκι πάνω από έναν στόχο.</ShootingAccuracyPawn.description>
+  
+</LanguageData>

@@ -1,46 +1,99 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- φυσικά (natural) -->
-
-  <Heart.label>καρδιά</Heart.label>
-  <Heart.description>Προμηθεύει αίμα και οξυγόνο όλα τα μέρη του σώματος. Να είστε έτοιμοι να βρείτε νέο ιδιοκτήτη.</Heart.description>
-
-  <Lung.label>πνεύμονας</Lung.label>
-  <Lung.description>Απαραίτητο μέρος του αναπνευστικού συστήματος.</Lung.description>
-
-  <Kidney.label>νεφρό</Kidney.label>
-  <Kidney.description>Φιλτράρει και απομακρύνει τις ακαθαρσίες από το αίμα.</Kidney.description>
-
-  <Liver.label>συκώτι</Liver.label>
-  <Liver.description>Παίζει σημαντικό ρόλο στον μεταβολισμό.</Liver.description>
-
-
-  <!-- τεχνητά - απλά προσθετικά (artificial - simple prosthetics) -->
-
-  <SimpleProstheticLeg.label>απλό προσθετικό πόδι</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.description>Απλό προσθετικό που έγινε για να αντικαταστήσει το πόδι που λείπει. Δεν είναι πολύ άνετο αλλά αρκετά αποτελεσματικό.</SimpleProstheticLeg.description>
-
-  <SimpleProstheticArm.label>απλό προσθετικό χέρι</SimpleProstheticArm.label>
-  <SimpleProstheticArm.description>Απλή αλλά ανθεκτική προσθετική βραχίονα.</SimpleProstheticArm.description>
-
-
-  <!-- τεχνητά - βιονικά (artificial - bionics) -->
-
-  <BionicEye.label>βιονικό μάτι</BionicEye.label>
-  <BionicEye.description>Προηγμένο τεχνολογικό αντικείμενο όχι μόνο για να αντικαταστήσει πλήρως τα φυσικά μάτια, αλλά και για να δώσει υπερφυσικές ικανότητες όρασης.</BionicEye.description>
-
+  
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>αρχοτεχνολογικό χέρι</ArchotechArm.label>
+  <!-- EN: An artifical arm built by an archotech. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechArm.description>Ένα τεχνητό χέρι που κατασκευάστηκε από έναν αρχοτεχνίτη. Είναι αρκετά ισχυρό για να συνθλίψει ένα χοντρό κλαδί σκληρού ξύλου και αρκετά ακριβές για να γράψει μία σονάτα σε έναν κόκκο ρυζιού. Μοιάζει και έχει την αίσθηση της φυσικής σάρκας, αλλά είναι ακόμα πιο δύσκολο να χτυπηθεί και από το πλαστέλ. Ακόμη και αν χτυπηθεί, επιδιορθώνεται με την πάροδο του χρόνου. Η εσωτερική λειτουργία του είναι ένα μυστήριο για όλα τα ανθρώπινα μυαλά.</ArchotechArm.description>
+  
+  <!-- EN: archotech eye -->
+  <ArchotechEye.label>αρχοτεχνολογικό μάτι</ArchotechEye.label>
+  <!-- EN: An artifical eye built by an archotech. It perceives every type of electromagnetic radiation, including radio waves, infrared, light, x-rays, and gamma rays. Its visual acuity is precise enough to read handwriting from twenty meters away. It can emit various wavelengths of radiation like a flashlight, and has an internal subpersona AI which helps highlight useful visual information. Externally, it looks like a natural human eye, except it can change color at will. Its internal workings are a mystery to all human minds. -->
+  <ArchotechEye.description>Ένα τεχνητό μάτι που δημιουργήθηκε από έναν αρχοτεχνίτη. Αντιλαμβάνεται κάθε τύπο ηλεκτρομαγνητικής ακτινοβολίας, συμπεριλαμβανομένων ραδιοκυμάτων, υπερύθρων, φωτός, ακτίνων Χ και ακτίνων γάμμα. Η οπτική του οξύτητα είναι αρκετά ακριβής ώστε να διαβάζει χειρόγραφο από είκοσι μέτρα μακριά. Μπορεί να εκπέμπει διάφορα μήκη κύματος ακτινοβολίας, όπως ένας φακός, και διαθέτει μία Τεχνητή Νοημοσύνη υποποπροσωπικότητας η οποία βοηθά στο να εντοπίζει χρήσιμες οπτικές πληροφορίες. Εξωτερικά, μοιάζει με ένα φυσικό ανθρώπινο μάτι, εκτός από το ότι μπορεί να αλλάξει χρώμα κατά βούληση. Η εσωτερική λειτουργία του είναι ένα μυστήριο για όλα τα ανθρώπινα μυαλά.</ArchotechEye.description>
+  
+  <!-- EN: archotech leg -->
+  <ArchotechLeg.label>αρχοτεχνολογικό πόδι</ArchotechLeg.label>
+  <!-- EN: An artifical leg built by an archotech. It looks and feels like natural flesh, but a pair of these can move the user as fast as a decent car, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechLeg.description>Ένα τεχνητό πόδι που δημιουργήθηκε από έναν αρχοτεχνίτη. Μοιάζει και έχει την αίσθηση της φυσικής σάρκας, αλλά ένα ζευγάρι από αυτά μπορεί να μετακινήσει τον χρήστη τόσο γρήγορα όσο ένα αξιοπρεπές αυτοκίνητο και είναι πιο δύσκολο να πάθει ζημιά και από το πλαστέλ. Ακόμη και αν χτυπηθεί, επιδιορθώνεται με την πάροδο του χρόνου. Η εσωτερική λειτουργία του είναι ένα μυστήριο για όλα τα ανθρώπινα μυαλά.</ArchotechLeg.description>
+  
+  <!-- EN: bionic arm -->
   <BionicArm.label>βιονικό χέρι</BionicArm.label>
-  <BionicArm.description>Μια από τις πιο εξελιγμένες αντικαταστάσεις του βραχίονα. Δίνει εξαιρετική δύναμη στο χρήστη.</BionicArm.description>
-
+  <!-- EN: An advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
+  <BionicArm.description>Ένα προηγμένο τεχνητό χέρι. Οι αθόρυβοι μίνι-ενισχυτές του δίνουν μεγάλη δύναμη, ενώ η βιογέλη νεύρο-ζεύξης του δίνει εξαιρετικό έλεγχο. Ένα σύστημα επούλωσης με σκόνη πλέγματος επιτρέπει την αποκατάσταση από ζημιές. Είναι καλύτερο από ένα βιολογικό χέρι σχεδόν σε κάθε περίπτωση.</BionicArm.description>
+  
+  <!-- EN: bionic ear -->
+  <BionicEar.label>βιονικό αφτί</BionicEar.label>
+  <!-- EN: An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
+  <BionicEar.description>Ένα προηγμένο εμφύτευμα τεχνητού αυτιού. Μια συλλογή αόρατων υποδερμικών μικροφώνων συλλαμβάνει τον ήχο και το μεταδίδει σε μια διασύνδεση νεύρου από βιογέλη που συνδέεται άμεσα με το ακουστικό νεύρο. Είναι αρκετά ευαίσθητο για να ακούσει μια γάτα πριν τη δείτε, δεν μπορεί να υποστεί ζημιά από το δυνατό θόρυβο και συντονίζεται αυτόματα για να διαλέξει τους ουσιαστικούς ήχους σε θορυβώδη περιβάλλοντα.</BionicEar.description>
+  
+  <!-- EN: bionic eye -->
+  <BionicEye.label>βιονικό μάτι</BionicEye.label>
+  <!-- EN: An advanced artifical eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
+  <BionicEye.description>Ένα προηγμένο τεχνικό μάτι. Με δικό του νευρικό σύνδεσμο από βιογέλη, εσωτερικό προ-επεξεργαστή σήματος και τους ευρέος φάσματος αισθητήρες, είναι καλύτερο από ένα βιολογικό μάτι σχεδόν με κάθε τρόπο. Ένα σύστημα επούλωσης με σκόνη πλέγματος επιτρέπει την αποκατάσταση από ζημιές.</BionicEye.description>
+  
+  <!-- EN: bionic heart -->
+  <BionicHeart.label>βιονική καρδιά</BionicHeart.label>
+  <!-- EN: An advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
+  <BionicHeart.description>Μια προηγμένη τεχνητή καρδιά. Διαθέτει συνθετικές μυϊκές ίνες για να έχει ρεαλιστικό παλμό καρδιάς, συν μια αντλία υψηλής ροής για γρήγορη κυκλοφορία κατά τη διάρκεια υψηλής πίεσης. Είναι καλύτερη από μια βιολογική καρδιά σχεδόν με κάθε τομέα.</BionicHeart.description>
+  
+  <!-- EN: bionic leg -->
   <BionicLeg.label>βιονικό πόδι</BionicLeg.label>
-  <BionicLeg.description>Το βιονικό πόδι χρησιμοποιεί τεχνολογία αιχμής για να προσφέρει στον κάτοχό του εξαιρετική άνεση και δύναμη στο βάδισμα.</BionicLeg.description>
-
+  <!-- EN: An advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
+  <BionicLeg.description>Ένα προηγμένο τεχνητό πόδι. Με δικό του νευρικό σύνδεσμο βιογέλης, ισχυρούς μίνι-ενισχυτές και το σύστημα επούλωσης σκόνης με πλέγμα, είναι καλύτερο από ένα βιολογικό πόδι σχεδόν σε κάθε περίπτωση.</BionicLeg.description>
+  
+  <!-- EN: bionic spine -->
+  <BionicSpine.label>βιονική σπονδυλική στήλη</BionicSpine.label>
+  <!-- EN: An advanced artificial spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
+  <BionicSpine.description>Προηγμένη τεχνητή σπονδυλική στήλη. Μια δέσμη νευρώνων από  βιογέλη τρέχει κάτω από έναν αρθρωτό πυρήνα πλαστέλ, που περιβάλλεται από ένα σύστημα θεραπείας πλέγματος-σκόνης. Ισοδυναμεί στην απόδοση με μια βιολογική σπονδυλική στήλη.</BionicSpine.description>
+  
+  <!-- EN: bionic stomach -->
+  <BionicStomach.label>βιονικό στομάχι</BionicStomach.label>
+  <!-- EN: An advanced artificial stomach. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way. -->
+  <BionicStomach.description>Ένα προηγμένο τεχνητό στομάχι. Ένα σύνολο αισθητήρων και χημικών συνθετικών συσκευών χωνεύει αποτελεσματικά σχεδόν κάθε ενέργεια που φέρει η τροφή. Ένα ολοκληρωμένο σύστημα επούλωσης σκόνης με πλέγμα αυτόματα επισκευάζει τυχόν ζημιές που προκαλούνται από τα ισχυρά οξέα. Είναι καλύτερο από ένα βιολογικό στομάχι σχεδόν με κάθε τομέα.</BionicStomach.description>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>κοχλιακό εμφύτευμα</CochlearImplant.label>
+  <!-- EN: An implant which replaces normal hearing. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
+  <CochlearImplant.description>Ένα εμφύτευμα που αντικαθιστά την κανονική ακοή. Ένα εξωτερικό μικρόφωνο μεταδίδει ένα ηχητικό σήμα στα ηλεκτρόδια που τυλίγονται γύρω από τα ακουστικά νεύρα του ακουστικού θαλάμου του εσωτερικού αυτιού. Τα ηλεκτρόδια διεγείρουν τα νεύρα σύμφωνα με τον ήχο, δημιουργώντας μια αίσθηση της ακοής. Δεν είναι τόσο καλό όσο ένα φυσικό αυτί, αλλά είναι πολύ καλύτερο από το να είσαι κωφός.</CochlearImplant.description>
+  
+  <!-- EN: heart -->
+  <Heart.label>καρδιά</Heart.label>
+  <!-- EN: A biological human heart. Pumps blood around the body. -->
+  <Heart.description>Μια βιολογική ανθρώπινη καρδιά. Κυκλοφορεί το αίμα σε όλο το σώμα.</Heart.description>
+  
+  <!-- EN: kidney -->
+  <Kidney.label>νεφρό</Kidney.label>
+  <!-- EN: A biological human kidney. Filters and removes waste products from the blood. -->
+  <Kidney.description>Ένα βιολογικό ανθρώπινο νεφρό. Φιλτράρει και απομακρύνει τις ακαθαρσίες από το αίμα.</Kidney.description>
+  
+  <!-- EN: liver -->
+  <Liver.label>συκώτι</Liver.label>
+  <!-- EN: A biological human liver. Plays an important role in metabolism. -->
+  <Liver.description>Ένα βιολογικό ανθρώπινο συκώτι. Παίζει σημαντικό ρόλο στον μεταβολισμό.</Liver.description>
+  
+  <!-- EN: lung -->
+  <Lung.label>πνεύμονας</Lung.label>
+  <!-- EN: A biological human lung. A pair of these form the core of the human respiratory system. -->
+  <Lung.description>Ένας βιολογικός ανθρώπινος πνεύμονας. Ένα ζεύγος από αυτούς αποτελεί τον πυρήνα του αναπνευστικού συστήματος του ανθρώπου.</Lung.description>
+  
+  <!-- EN: power claw -->
   <PowerClaw.label>ισχυρά νύχια</PowerClaw.label>
-  <PowerClaw.description>Δυναμική αντικατάσταση χεριού που αποτελείται από τρία θανατηφόρα νύχια.</PowerClaw.description>
-
-  <ScytherBlade.label>λεπίδα δρεπανοφόρου</ScytherBlade.label>
-  <ScytherBlade.description>Αντικατάσταση χεριού με τηλεσκοπική λεπίδα. Συλλεγμένη από ένα νεκρό μηχανοειδές δρεπανοφόρο. Δεν είναι πολύ άνετη, αλλά αρκετά αποτελεσματική ως όπλο εξ επαφής.</ScytherBlade.description>
-
-
+  <!-- EN: A combat-oriented hand replacement consisting of a mechanical hand with a vicious claw on each finger. It is vicious in combat, and its powerful mini-servos can crush a skull like a natural hand crushes an egg. The blades can be retracted, making it as useful as a biological hand for non-combat tasks. -->
+  <PowerClaw.description>Μια πολεμικά προσανατολισμένη αντικατάσταση χεριού που αποτελείται από ένα μηχανικό χέρι με ένα μοχθηρό νύχι σε κάθε δάχτυλο. Είναι θηριώδης στη μάχη και οι ισχυρά μίνι-ενισχυτές του μπορούν να συντρίψουν ένα κρανίο όπως ένα φυσικό χέρι συνθλίβει ένα αυγό. Οι λεπίδες του μπορούν να υπαναχωρούν, καθιστώντας το χρήσιμο σαν ένα βιολογικό χέρι για μη μαχητικά καθήκοντα.</PowerClaw.description>
+  
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>προσθετικό χέρι</SimpleProstheticArm.label>
+  <!-- EN: An arm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
+  <SimpleProstheticArm.description>Μία προσθήκη χεριού. Παρόλο που δεν διαθέτει μια νευρική διεπαφή, η πολύπλοκη διάταξη των εσωτερικών αρθρώσεων της επιτρέπει να μιμείται τη φυσική κίνηση αρκετά πειστικά. Παραμένει κατώτερο από ένα πραγματικό χέρι.</SimpleProstheticArm.description>
+  
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>προσθετική καρδιά</SimpleProstheticHeart.label>
+  <!-- EN: A heart prosthesis. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
+  <SimpleProstheticHeart.description>Μια προσθήκη καρδιάς. Περιέχει ένα ηλεκτρικό μοτέρ που κυκλοφορεί ομαλά το αίμα γύρω από το σώμα. Οι χρήστες συχνά αναφέρουν ότι αισθάνονται κουρασμένοι, αλλά είναι καλύτερο σαν μια εναλλακτική λύση.</SimpleProstheticHeart.description>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>προσθετικό πόδι</SimpleProstheticLeg.label>
+  <!-- EN: A leg prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
+  <SimpleProstheticLeg.description>Μια προσθήκη ποδιού. Παρόλο που δεν διαθέτει μια νευρική διασύνδεση, η πολύπλοκη διάταξη των εσωτερικών αρθρώσεων της επιτρέπει να μιμείται τη φυσική κίνηση αρκετά πειστικά. Παραμένει κατώτερο από ένα πραγματικό πόδι.</SimpleProstheticLeg.description>
+  
 </LanguageData>

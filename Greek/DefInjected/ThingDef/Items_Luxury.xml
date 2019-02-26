@@ -1,10 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Πολυτελές (Luxury) -->
-
+  
+  <!-- EN: chocolate -->
   <Chocolate.label>σοκολάτα</Chocolate.label>
+  <!-- EN: A delicious preparation of cocoa seeds ground together with sugar and vanilla. It fulfills the need for recreation, but it is not very nutritious. -->
   <Chocolate.description>Μία νόστιμη παρασκευή από σπόρους κακάου μαζί με ζάχαρη και βανίλια. Πολύ ευχάριστο για φαγητό, αλλά όχι πολύ θρεπτικό.</Chocolate.description>
-
-
+  
 </LanguageData>

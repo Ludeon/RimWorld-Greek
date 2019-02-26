@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>ομορφιά</Beauty.label>
+  <!-- EN: How enjoyable an object is to look at. Beautiful objects fulfill characters' need for beauty. -->
+  <Beauty.description>Πόσο ευχάριστο είναι ένα αντικείμενο στην όψη. Όμορφα αντικείμενα ικανοποιούν την ανάγκη των χαρακτήρων για ομορφιά.</Beauty.description>
+  
+  <!-- EN: cleanliness -->
+  <Cleanliness.label>καθαριότητα</Cleanliness.label>
+  <!-- EN: How much an object contributes to an area's cleanliness score. -->
+  <Cleanliness.description>Πόσο ένα αντικείμενο συμβάλλει στη βαθμολογία καθαριότητας μιας περιοχής.</Cleanliness.description>
+  
+  <!-- EN: comfort -->
+  <Comfort.label>άνεση</Comfort.label>
+  <!-- EN: How comfortable an object is to sit or lay on. Using comfortable objects fulfills a character's need for comfort. -->
+  <Comfort.description>Πόσο άνετο είναι ένα αντικείμενο για να καθίσεις ή να ξαπλώσεις. Η χρήση άνετων αντικειμένων ικανοποιεί την ανάγκη ενός ατόμου για άνεση.</Comfort.description>
+  
+  <!-- EN: deterioration rate -->
+  <DeteriorationRate.label>ρυθμός φθοράς</DeteriorationRate.label>
+  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points of damage per day. Deterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
+  <DeteriorationRate.description>Ο ρυθμός με τον οποίο αυτό το αντικείμενο φθείρεται όταν μένει έξω, σε μέσο βαθμό ζημιάς ημερησίως. Το ποσοστό αλλοίωσης επηρεάζεται επίσης από πράγματα όπως ο καιρός, οι στέγες, τα τοξικά κατάλοιπα ή η παραμονή σε λιμνάζοντα νερά.</DeteriorationRate.description>
+  <!-- EN: {0} / day -->
+  <DeteriorationRate.formatString>{0} / μέρα</DeteriorationRate.formatString>
+  
+  <!-- EN: flammability -->
+  <Flammability.label>ευφλεκτικότητα</Flammability.label>
+  <!-- EN: How easily an object catches fire and how quickly a fire will grow as it burns. -->
+  <Flammability.description>Πόσο εύκολα ένα αντικείμενο παίρνει φωτιά και πόσο γρήγορα θα αυξηθεί η φωτιά καθώς καίγεται.</Flammability.description>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChanceFixedHuman.label>πιθανότητα τροφικής δηλητηρίασης</FoodPoisonChanceFixedHuman.label>
+  <!-- EN: The chance this food will cause food poisoning. -->
+  <FoodPoisonChanceFixedHuman.description>Η πιθανότητα αυτή η τροφή να προκαλέσει τροφική δηλητηρίαση.</FoodPoisonChanceFixedHuman.description>
+  
+  <!-- EN: market value -->
+  <MarketValue.label>εμπορική αξία</MarketValue.label>
+  <!-- EN: The market value of an object. The actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
+  <MarketValue.description>Η αγοραία αξία ενός αντικειμένου. Η πραγματική του εμπορική τιμή θα εξαρτηθεί από τις δεξιότητες διαπραγμάτευσης, την κατάσταση των σχέσεων και από άλλους συναφής παράγοντες.</MarketValue.description>
+  <!-- EN: ${0} -->
+  <MarketValue.formatString>{0}$</MarketValue.formatString>
+  
+  <!-- EN: mass -->
+  <Mass.label>μάζα</Mass.label>
+  <!-- EN: The physical mass of an object. -->
+  <Mass.description>Η φυσική μάζα ενός αντικειμένου.</Mass.description>
+  <!-- EN: {0} kg -->
+  <Mass.formatString>{0} κιλά</Mass.formatString>
+  
+  <!-- EN: max hit points -->
+  <MaxHitPoints.label>μέγιστο επίπεδο ζωής</MaxHitPoints.label>
+  <!-- EN: The maximum hit points of an object. This represents how much damage it can take before being destroyed. -->
+  <MaxHitPoints.description>Το μέγιστο επίπεδο ζωής ενός αντικειμένου. Αυτό αντιπροσωπεύει πόση ζημιά μπορεί να δεχθεί πριν καταστραφεί.</MaxHitPoints.description>
+  
+  <!-- EN: nutrition -->
+  <Nutrition.label>θρέψη</Nutrition.label>
+  <!-- EN: How nutritious this food is. -->
+  <Nutrition.description>Πόσο θρεπτική είναι αυτή η τροφή</Nutrition.description>
+  
+  <!-- EN: sell price multiplier -->
+  <SellPriceFactor.label>πολλαπλασιαστής τιμής πώλησης</SellPriceFactor.label>
+  <!-- EN: A multiplier on the price at which you can sell items. -->
+  <SellPriceFactor.description>Ένας πολλαπλασιαστής της τιμής στην οποία μπορείτε να πουλήσετε αντικείμενα.</SellPriceFactor.description>
+  
+  <!-- EN: shooting accuracy -->
+  <ShootingAccuracyTurret.label>ακρίβεια τουφεκισμού</ShootingAccuracyTurret.label>
+  <!-- EN: Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <ShootingAccuracyTurret.description>Η βασική πιθανότητα να μην αστοχήσεις ανά κελί της απόστασης πυροβολισμού. Η πιθανότητα ευστοχίας επηρεάζεται επίσης από πολλούς άλλους παράγοντες. Μια εξήγηση πιθανής επιτυχίας για οποιοδήποτε πυροβολισμός μπορεί να φανεί επιλέγοντας έναν σκοπευτή και τοποθετώντας το ποντίκι πάνω σε έναν στόχο.</ShootingAccuracyTurret.description>
+  
+  <!-- EN: work to make -->
+  <WorkToMake.label>εργασία για να γίνει</WorkToMake.label>
+  <!-- EN: The base amount of work it takes to make an item, once all materials are gathered. -->
+  <WorkToMake.description>Η κύρια συνολική εργασία που χρειάζεται για να γίνει ένα αντικείμενο, αφού συγκεντρωθούν όλα τα υλικά.</WorkToMake.description>
+  
+</LanguageData>

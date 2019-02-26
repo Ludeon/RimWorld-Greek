@@ -1,10 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <GoJuice.label>χυμός που σε στέλνει</GoJuice.label>
-  <GoJuice.description>Ένα συνθετικό πολεμικό ναρκωτικό που αναπτύχθηκε για τους πεζοναύτες του διαστήματος κατά τις πρώτες ημέρες του διαπλανητικού πολέμου. Ο χυμός που σε στέλνει αναστέλλει τον πόνο και αυξάνει τις ικανότητες μάχης και ευστοχίας του χρήστη. Αυξάνει επίσης την ταχύτητα κίνησης.n\nΟι στρατιωτικοί χημικοί που το δημιούργησαν δεν ήταν ποτέ σε θέση να αφαιρέσουν την εθιστική του συμπεριφορά. Κάποιοι το είδαν ως μειονέκτημα. άλλοι την είδαν ως ένα όφελος.</GoJuice.description>
+  
+  <!-- EN: go-juice -->
+  <GoJuice.label>φευγάτος χυμός</GoJuice.label>
+  <!-- EN: A synthetic performance-enhancing drug developed for space marines during the early days of interplanetary warfare. Go-juice blocks pain, increases movement speed, and improves the user's melee and shooting abilities.\n\nMilitary chemists who created it were never able to remove its addictiveness. Some saw this as a downside; others saw it as a benefit. -->
+  <GoJuice.description>Ένα συνθετικό βελτίωση της απόδοσης ναρκωτικό που αναπτύχθηκε για τους πεζοναύτες του διαστήματος κατά τις πρώτες ημέρες του διαπλανητικού πολέμου. Ο χυμός που σε στέλνει αναστέλλει τον πόνο, αυξάνει την ταχύτητα κίνησης και τις ικανότητες μάχης και ευστοχίας του χρήστη.n\nΟι στρατιωτικοί χημικοί που το δημιούργησαν δεν ήταν ποτέ σε θέση να αφαιρέσουν την εθιστική του συμπεριφορά. Κάποιοι το είδαν ως μειονέκτημα. άλλοι την είδαν ως ένα όφελος.</GoJuice.description>
+  <!-- EN: Inject {0} -->
   <GoJuice.ingestible.ingestCommandString>Ένεση {0}</GoJuice.ingestible.ingestCommandString>
+  <!-- EN: Injecting {0}. -->
   <GoJuice.ingestible.ingestReportString>Εγχύθηκε {0}.</GoJuice.ingestible.ingestReportString>
-
-
+  
 </LanguageData>

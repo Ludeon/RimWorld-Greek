@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Accuracy (long) -->
+  <AccuracyLong.label>Ακρίβεια (μακριά)</AccuracyLong.label>
+  <!-- EN: The weapon's accuracy at a distance of 40 cells or more. An actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyLong.description>Η ακρίβεια του όπλου σε απόσταση 40 κελιών ή περισσότερων. Η πραγματική πιθανότητα ευστοχίας ενός πυροβολισμού θα επηρεαστεί επίσης και από άλλους παράγοντες.</AccuracyLong.description>
+  
+  <!-- EN: Accuracy (medium) -->
+  <AccuracyMedium.label>Ακρίβεια (μεσαία απόσταση)</AccuracyMedium.label>
+  <!-- EN: The weapon's accuracy at a distance of 25 cells. An actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyMedium.description>Η ακρίβεια του όπλου σε απόσταση 25 κελιών. Η πραγματική πιθανότητα ευστοχίας ενός πυροβολισμού θα επηρεαστεί επίσης και από άλλους παράγοντες.</AccuracyMedium.description>
+  
+  <!-- EN: Accuracy (short) -->
+  <AccuracyShort.label>Ακρίβεια (μικρή απόσταση)</AccuracyShort.label>
+  <!-- EN: The weapon's accuracy at a distance of 12 cells. An actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyShort.description>Η ακρίβεια του όπλου σε απόσταση 12 κελιών. Η πραγματική πιθανότητα ευστοχίας ενός πυροβολισμού θα επηρεαστεί επίσης και από άλλους παράγοντες.</AccuracyShort.description>
+  
+  <!-- EN: Accuracy (close) -->
+  <AccuracyTouch.label>Ακρίβεια (κοντά)</AccuracyTouch.label>
+  <!-- EN: The weapon's accuracy at a distance of 3 cells or less. An actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyTouch.description>Η ακρίβεια του όπλου σε απόσταση 3 κελιών ή λιγότερο. Η πραγματική πιθανότητα ευστοχίας ενός πυροβολισμού θα επηρεαστεί επίσης και από άλλους παράγοντες.</AccuracyTouch.description>
+  
+  <!-- EN: ranged cooldown -->
+  <RangedWeapon_Cooldown.label>χρόνος επαναφόρτ. εξ αποστ.</RangedWeapon_Cooldown.label>
+  <!-- EN: How long it takes to recover after firing this weapon. -->
+  <RangedWeapon_Cooldown.description>Πόσο χρόνο χρειάζεται για να είναι έτοιμο μετά την πυροδότηση αυτό το όπλο.</RangedWeapon_Cooldown.description>
+  <!-- EN: {0} s -->
+  <RangedWeapon_Cooldown.formatString>{0} δευτερόλεπτα</RangedWeapon_Cooldown.formatString>
+  
+  <!-- EN: damage multiplier -->
+  <RangedWeapon_DamageMultiplier.label>πολλαπλασιαστής ζημιάς</RangedWeapon_DamageMultiplier.label>
+  <!-- EN: A damage multiplier applied to projectiles fired from this weapon. -->
+  <RangedWeapon_DamageMultiplier.description>Ένας πολλαπλασιαστής ζημιάς που εφαρμόζεται στις σφαίρες που εκτοξεύονται από αυτό το όπλο.</RangedWeapon_DamageMultiplier.description>
+  
+</LanguageData>

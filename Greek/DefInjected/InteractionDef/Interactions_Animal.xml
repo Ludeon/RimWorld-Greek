@@ -1,21 +1,158 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: animal chat -->
   <AnimalChat.label>επικοινωνία με ζώο</AnimalChat.label>
-  <AnimalChat.logRulesInitiator.rulesStrings.0>logentry->Επικοινωνεί με [other_nameShortIndef], προσπαθώντας να οικοδομήσει μια σχέση.</AnimalChat.logRulesInitiator.rulesStrings.0>
-  <AnimalChat.logRulesRecipient.rulesStrings.0>logentry->Ανταποκρίθηκε στου [other_nameShortIndef] τη φιλική επικοινωνία.</AnimalChat.logRulesRecipient.rulesStrings.0>
-
-  <TrainAttempt.label>προσπάθεια εκπαίδευσης</TrainAttempt.label>
-  <TrainAttempt.logRulesInitiator.rulesStrings.0>logentry->Εκπαιδεύει [other_nameShortIndef].</TrainAttempt.logRulesInitiator.rulesStrings.0>
-  <TrainAttempt.logRulesRecipient.rulesStrings.0>logentry->Εκπαιδεύτηκε από [other_nameShortIndef].</TrainAttempt.logRulesRecipient.rulesStrings.0>
-
-  <TameAttempt.label>προσπάθεια εξημέρωσης</TameAttempt.label>
-  <TameAttempt.logRulesInitiator.rulesStrings.0>logentry->Προσπάθησε να εξημερώσει [other_nameShortIndef].</TameAttempt.logRulesInitiator.rulesStrings.0>
-  <TameAttempt.logRulesRecipient.rulesStrings.0>logentry->Παρατηρώ [other_nameShortIndef] να προσπαθεί να με εξημερώσει.</TameAttempt.logRulesRecipient.rulesStrings.0>
-
+  <!-- EN: r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef]. -->
+  <AnimalChat.logRulesInitiator.rulesStrings.0>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</AnimalChat.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny]. -->
+  <AnimalChat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] έκατσε κοντά στο [RECIPIENT_nameDef] μιλώντας στον εαυτό [INITIATOR_possessive] για [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.1>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] approached [RECIPIENT_nameDef] while whispering to [INITIATOR_objective]self about [TalkTopicAny]. -->
+  <AnimalChat.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] πλησίασε [RECIPIENT_nameDef] ενώ ψιθύριζε στον εαυτό [INITIATOR_possessive] για [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.2>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] came near [RECIPIENT_nameDef] while talking to [INITIATOR_objective]self about [TalkTopicAny]. -->
+  <AnimalChat.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] πήγε κοντά στο [RECIPIENT_nameDef] λέγοντας στον εαυτό [INITIATOR_possessive] για [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.3>
+  <!-- EN: tamed->made calming noises towards -->
+  <AnimalChat.logRulesInitiator.rulesStrings.4>tamed->έκανε καθησυχαστικούς ήχους προς</AnimalChat.logRulesInitiator.rulesStrings.4>
+  <!-- EN: tamed->offered slow, friendly gestures to -->
+  <AnimalChat.logRulesInitiator.rulesStrings.5>tamed->έκανε αργές, φιλικές χειρονομίες στο</AnimalChat.logRulesInitiator.rulesStrings.5>
+  <!-- EN: tamed->made shushing noises at -->
+  <AnimalChat.logRulesInitiator.rulesStrings.6>tamed->έκανε ήσυχους θορύβους στο</AnimalChat.logRulesInitiator.rulesStrings.6>
+  <!-- EN: tamed->made happy clicking noises at -->
+  <AnimalChat.logRulesInitiator.rulesStrings.7>tamed->έκανε χαρούμενους ήχους κλικ στο</AnimalChat.logRulesInitiator.rulesStrings.7>
+  <!-- EN: tamed->gestured gently and approached -->
+  <AnimalChat.logRulesInitiator.rulesStrings.8>tamed->μίλησε απαλά και πλησίασε</AnimalChat.logRulesInitiator.rulesStrings.8>
+  <!-- EN: tamed->slowly approached -->
+  <AnimalChat.logRulesInitiator.rulesStrings.9>tamed->πλησίασε αργά</AnimalChat.logRulesInitiator.rulesStrings.9>
+  <!-- EN: tamed->gently touched -->
+  <AnimalChat.logRulesInitiator.rulesStrings.10>tamed->άγγιξε απαλά</AnimalChat.logRulesInitiator.rulesStrings.10>
+  <!-- EN: tamed->calmed and encouraged -->
+  <AnimalChat.logRulesInitiator.rulesStrings.11>tamed->ηρέμησε και ενθαρρύνθηκε</AnimalChat.logRulesInitiator.rulesStrings.11>
+  <!-- EN: tamed->matched breathing with -->
+  <AnimalChat.logRulesInitiator.rulesStrings.12>tamed->ταίριαξε την αναπνοή με</AnimalChat.logRulesInitiator.rulesStrings.12>
+  <!-- EN: tamed->took a low stance while approaching -->
+  <AnimalChat.logRulesInitiator.rulesStrings.13>tamed->πήρε χαμηλή στάση ενώ πλησίαζε</AnimalChat.logRulesInitiator.rulesStrings.13>
+  <!-- EN: tamed->showed no fear or anger to -->
+  <AnimalChat.logRulesInitiator.rulesStrings.14>tamed->δεν έδειξε κανένα φόβο ή θυμό στο</AnimalChat.logRulesInitiator.rulesStrings.14>
+  <!-- EN: tamed->feigned inattention towards -->
+  <AnimalChat.logRulesInitiator.rulesStrings.15>tamed->προσποιήθηκε απροσεξία προς</AnimalChat.logRulesInitiator.rulesStrings.15>
+  <!-- EN: tamed->gently hummed a song at -->
+  <AnimalChat.logRulesInitiator.rulesStrings.16>tamed->σιγοτραγούδησε απαλά ένα τραγούδι σε</AnimalChat.logRulesInitiator.rulesStrings.16>
+  <!-- EN: tamed->sang an old lullaby at -->
+  <AnimalChat.logRulesInitiator.rulesStrings.17>tamed->τραγούδησε ένα παλιό νανούρισμα σε</AnimalChat.logRulesInitiator.rulesStrings.17>
+  <!-- EN: tamed->firmly yet softly touched -->
+  <AnimalChat.logRulesInitiator.rulesStrings.18>tamed->άγγιξε σταθερά αλλά απαλά το</AnimalChat.logRulesInitiator.rulesStrings.18>
+  <!-- EN: tamed->showed a relaxed attitude towards -->
+  <AnimalChat.logRulesInitiator.rulesStrings.19>tamed->έδειξε χαλαρή στάση απέναντι σε</AnimalChat.logRulesInitiator.rulesStrings.19>
+  <!-- EN: tamed->sat patiently near -->
+  <AnimalChat.logRulesInitiator.rulesStrings.20>tamed->κάθισε υπομονετικά κοντά στο</AnimalChat.logRulesInitiator.rulesStrings.20>
+  <!-- EN: tamed->whispered a story about [TalkTopicAny] to -->
+  <AnimalChat.logRulesInitiator.rulesStrings.21>tamed->ψιθύρισε μια ιστορία σχετικά με [TalkTopicAny] στο</AnimalChat.logRulesInitiator.rulesStrings.21>
+  
+  <!-- EN: nuzzle -->
   <Nuzzle.label>μουσουδιές</Nuzzle.label>
-  <Nuzzle.logRulesInitiator.rulesStrings.0>logentry->Κάνει μουσουδιές σε [other_nameShortIndef].</Nuzzle.logRulesInitiator.rulesStrings.0>
-  <Nuzzle.logRulesRecipient.rulesStrings.0>logentry->Του έκανε μουσουδιές [other_nameShortIndef].</Nuzzle.logRulesRecipient.rulesStrings.0>
-
-
+  <!-- EN: r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef]. -->
+  <Nuzzle.logRulesInitiator.rulesStrings.0>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzled] [nuzzleadverb] [RECIPIENT_objective] [RECIPIENT_nameDef].</Nuzzle.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart]. -->
+  <Nuzzle.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] κτύπησε [nuzzleadverb] την μουσούδα [INITIATOR_possessive] στο [rubbedpart] [RECIPIENT_possessive] [RECIPIENT_nameDef].</Nuzzle.logRulesInitiator.rulesStrings.1>
+  <!-- EN: nuzzled(p=2)->nuzzled -->
+  <Nuzzle.logRulesInitiator.rulesStrings.2>nuzzled(p=2)->έσπρωξε με τη μουσούδα</Nuzzle.logRulesInitiator.rulesStrings.2>
+  <!-- EN: nuzzled->snuggled up to -->
+  <Nuzzle.logRulesInitiator.rulesStrings.3>nuzzled->τρίφτηκε</Nuzzle.logRulesInitiator.rulesStrings.3>
+  <!-- EN: nuzzleadverb(p=4)-> -->
+  <Nuzzle.logRulesInitiator.rulesStrings.4>nuzzleadverb(p=4)-></Nuzzle.logRulesInitiator.rulesStrings.4>
+  <!-- EN: nuzzleadverb->gently -->
+  <Nuzzle.logRulesInitiator.rulesStrings.5>nuzzleadverb->απαλά</Nuzzle.logRulesInitiator.rulesStrings.5>
+  <!-- EN: nuzzleadverb->encouragingly -->
+  <Nuzzle.logRulesInitiator.rulesStrings.6>nuzzleadverb->ενθαρρυντικά</Nuzzle.logRulesInitiator.rulesStrings.6>
+  <!-- EN: nuzzleadverb->happily -->
+  <Nuzzle.logRulesInitiator.rulesStrings.7>nuzzleadverb->χαρούμενα</Nuzzle.logRulesInitiator.rulesStrings.7>
+  <!-- EN: nuzzleadverb->softly -->
+  <Nuzzle.logRulesInitiator.rulesStrings.8>nuzzleadverb->μαλακά</Nuzzle.logRulesInitiator.rulesStrings.8>
+  <!-- EN: nuzzleadverb->supportively -->
+  <Nuzzle.logRulesInitiator.rulesStrings.9>nuzzleadverb->υποστηρικτικά</Nuzzle.logRulesInitiator.rulesStrings.9>
+  <!-- EN: nuzzleadverb->lightly -->
+  <Nuzzle.logRulesInitiator.rulesStrings.10>nuzzleadverb->ελαφριά</Nuzzle.logRulesInitiator.rulesStrings.10>
+  <!-- EN: nuzzleadverb->warmly -->
+  <Nuzzle.logRulesInitiator.rulesStrings.11>nuzzleadverb->εγκάρδια</Nuzzle.logRulesInitiator.rulesStrings.11>
+  <!-- EN: nuzzleadverb->plaintively -->
+  <Nuzzle.logRulesInitiator.rulesStrings.12>nuzzleadverb->παραπονιάρικα</Nuzzle.logRulesInitiator.rulesStrings.12>
+  <!-- EN: nuzzleadverb->lovingly -->
+  <Nuzzle.logRulesInitiator.rulesStrings.13>nuzzleadverb->με τρυφερότητα</Nuzzle.logRulesInitiator.rulesStrings.13>
+  <!-- EN: nuzzleadverb->affectionately -->
+  <Nuzzle.logRulesInitiator.rulesStrings.14>nuzzleadverb->στοργικά</Nuzzle.logRulesInitiator.rulesStrings.14>
+  <!-- EN: rubbedpart->leg -->
+  <Nuzzle.logRulesInitiator.rulesStrings.15>rubbedpart->πόδι</Nuzzle.logRulesInitiator.rulesStrings.15>
+  <!-- EN: rubbedpart->knee -->
+  <Nuzzle.logRulesInitiator.rulesStrings.16>rubbedpart->γόνατο</Nuzzle.logRulesInitiator.rulesStrings.16>
+  <!-- EN: rubbedpart->foot -->
+  <Nuzzle.logRulesInitiator.rulesStrings.17>rubbedpart->πατούσα</Nuzzle.logRulesInitiator.rulesStrings.17>
+  <!-- EN: rubbedpart->elbow -->
+  <Nuzzle.logRulesInitiator.rulesStrings.18>rubbedpart->αγκώνα</Nuzzle.logRulesInitiator.rulesStrings.18>
+  <!-- EN: rubbedpart->hip -->
+  <Nuzzle.logRulesInitiator.rulesStrings.19>rubbedpart->γοφό</Nuzzle.logRulesInitiator.rulesStrings.19>
+  <!-- EN: rubbedpart->shoulder -->
+  <Nuzzle.logRulesInitiator.rulesStrings.20>rubbedpart->ώμο</Nuzzle.logRulesInitiator.rulesStrings.20>
+  <!-- EN: rubbedpart->hand -->
+  <Nuzzle.logRulesInitiator.rulesStrings.21>rubbedpart->χέρι</Nuzzle.logRulesInitiator.rulesStrings.21>
+  <!-- EN: rubbedpart->side -->
+  <Nuzzle.logRulesInitiator.rulesStrings.22>rubbedpart->πλευρά</Nuzzle.logRulesInitiator.rulesStrings.22>
+  <!-- EN: rubbedpart->arm -->
+  <Nuzzle.logRulesInitiator.rulesStrings.23>rubbedpart->μπράτσο</Nuzzle.logRulesInitiator.rulesStrings.23>
+  
+  <!-- EN: tame attempt -->
+  <TameAttempt.label>προσπάθεια εξημέρωσης</TameAttempt.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] tried to tame [RECIPIENT_nameDef]. -->
+  <TameAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] προσπάθησε να εξημερώσει [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] tried to bring [RECIPIENT_nameDef] under control. -->
+  <TameAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] προσπάθησε να θέσει υπό τον έλεγχό του το [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.1>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] attempted to collar [RECIPIENT_nameDef]. -->
+  <TameAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] προσπάθησε να περάσει λουρί στο [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.2>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] demanded obedience from [RECIPIENT_nameDef]. -->
+  <TameAttempt.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] απαίτησε υπακοή από [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.3>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come to [INITIATOR_objective]. -->
+  <TameAttempt.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] κάλεσε το [RECIPIENT_nameDef] να [INITIATOR_objective] ακολουθήσει.</TameAttempt.logRulesInitiator.rulesStrings.4>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] tried to make [RECIPIENT_nameDef] sit still. -->
+  <TameAttempt.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] προσπάθησε να κάνει το [RECIPIENT_nameDef] να παραμείνει ακίνητο.</TameAttempt.logRulesInitiator.rulesStrings.5>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] seized [RECIPIENT_nameDef] sharply and barked a command. -->
+  <TameAttempt.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] άρπαξε απότομα το [RECIPIENT_nameDef] και φώναξε μια εντολή.</TameAttempt.logRulesInitiator.rulesStrings.6>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] attempted to hold [RECIPIENT_nameDef] still. -->
+  <TameAttempt.logRulesInitiator.rulesStrings.7>r_logentry->[INITIATOR_nameDef] προσπάθησε να κρατήσει ήσυχο το [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.7>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] shouted a command at [RECIPIENT_nameDef]. -->
+  <TameAttempt.logRulesInitiator.rulesStrings.8>r_logentry->[INITIATOR_nameDef] φώναξε μια εντολή στο [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.8>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] slapped [RECIPIENT_nameDef] in a show of dominance. -->
+  <TameAttempt.logRulesInitiator.rulesStrings.9>r_logentry->[INITIATOR_nameDef] χτύπησε το [RECIPIENT_nameDef] σε μια επίδειξη κυριαρχίας.</TameAttempt.logRulesInitiator.rulesStrings.9>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] directed [RECIPIENT_nameDef] back towards the community. -->
+  <TameAttempt.logRulesInitiator.rulesStrings.10>r_logentry->[INITIATOR_nameDef] οδήγησε το [RECIPIENT_nameDef] πίσω στην κοινότητα.</TameAttempt.logRulesInitiator.rulesStrings.10>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come back to the community. -->
+  <TameAttempt.logRulesInitiator.rulesStrings.11>r_logentry->[INITIATOR_nameDef] κάλεσε το [RECIPIENT_nameDef] να επιστρέψει στην κοινότητα.</TameAttempt.logRulesInitiator.rulesStrings.11>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] touched a vulnerable body part of [RECIPIENT_nameDef], demanding obedience. -->
+  <TameAttempt.logRulesInitiator.rulesStrings.12>r_logentry->[INITIATOR_nameDef] άγγιξε ένα ευάλωτο σημείο του σώματος στο [RECIPIENT_nameDef], απαιτώντας υπακοή.</TameAttempt.logRulesInitiator.rulesStrings.12>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] pointed at the ground, demanding that [RECIPIENT_nameDef] come. -->
+  <TameAttempt.logRulesInitiator.rulesStrings.13>r_logentry->[INITIATOR_nameDef] έδειξε στο έδαφος, ζητώντας στο [RECIPIENT_nameDef] να πλησιάσει.</TameAttempt.logRulesInitiator.rulesStrings.13>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command. -->
+  <TameAttempt.logRulesInitiator.rulesStrings.14>r_logentry->[INITIATOR_nameDef] έδωσε στο [RECIPIENT_nameDef] την πρώτη εντολή.</TameAttempt.logRulesInitiator.rulesStrings.14>
+  
+  <!-- EN: train attempt -->
+  <TrainAttempt.label>προσπάθεια εκπαίδευσης</TrainAttempt.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef]. -->
+  <TrainAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</TrainAttempt.logRulesInitiator.rulesStrings.0>
+  <!-- EN: trained(p=2)->[tried] to train -->
+  <TrainAttempt.logRulesInitiator.rulesStrings.1>trained(p=2)->[tried] να εκπαιδεύσει</TrainAttempt.logRulesInitiator.rulesStrings.1>
+  <!-- EN: trained->[tried] to show a new trick to -->
+  <TrainAttempt.logRulesInitiator.rulesStrings.2>trained->[tried] να δείξει ένα νέο κόλπο στο</TrainAttempt.logRulesInitiator.rulesStrings.2>
+  <!-- EN: trained->[tried] to discipline -->
+  <TrainAttempt.logRulesInitiator.rulesStrings.3>trained->[tried] να πειθαρχήσει</TrainAttempt.logRulesInitiator.rulesStrings.3>
+  <!-- EN: trained->[tried] to instruct -->
+  <TrainAttempt.logRulesInitiator.rulesStrings.4>trained->[tried] να δώσει οδηγίες στο</TrainAttempt.logRulesInitiator.rulesStrings.4>
+  <!-- EN: trained->[tried] to encourage a new skill in -->
+  <TrainAttempt.logRulesInitiator.rulesStrings.5>trained->[tried] να ενθαρρύνει για μια νέα ικανότητα</TrainAttempt.logRulesInitiator.rulesStrings.5>
+  <!-- EN: trained->demonstrated a skill to -->
+  <TrainAttempt.logRulesInitiator.rulesStrings.6>trained->έδειξε μια δεξιότητα στο</TrainAttempt.logRulesInitiator.rulesStrings.6>
+  <!-- EN: trained->encouraged a new response from -->
+  <TrainAttempt.logRulesInitiator.rulesStrings.7>trained->ενθάρρυνε μια νέα ανταπόκριση από</TrainAttempt.logRulesInitiator.rulesStrings.7>
+  <!-- EN: tried->tried -->
+  <TrainAttempt.logRulesInitiator.rulesStrings.8>tried->προσπάθησε</TrainAttempt.logRulesInitiator.rulesStrings.8>
+  <!-- EN: tried->attempted -->
+  <TrainAttempt.logRulesInitiator.rulesStrings.9>tried->δοκίμασε</TrainAttempt.logRulesInitiator.rulesStrings.9>
+  
 </LanguageData>

@@ -1,14 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Glowstool.label>φεγγοκλανιά</Glowstool.label>
-  <Glowstool.description>Ένα μικρό καφέ μανιτάρι που απαντάται συνήθως στις σπηλιές. Μυρίζει σαν ένα παλιό, βρώμικο πανί που τραβιέται από το στομάχι ενός σάπιου μίσονα - αλλά έχει εκπληκτικά καλή γεύση όταν μαγειρεύεται. Πεθαίνει όταν εκτίθεται στο φως.</Glowstool.description>
-
+  
+  <!-- EN: agarilux -->
   <Agarilux.label>αγαρόζιο</Agarilux.label>
+  <!-- EN: An enormous purple mushroom. Its size and glowing protrusions make this fungus beautiful to look at. It dies when exposed to light. -->
   <Agarilux.description>Ένα τεράστιο μοβ μανιτάρι. Το μέγεθος και οι λαμπερές προεξοχές κάνουν αυτό το μύκητα όμορφο στο κοίταγμα. Πεθαίνει όταν εκτίθεται στο φως.</Agarilux.description>
-
+  
+  <!-- EN: bryolux -->
   <Bryolux.label>βρυολούξ</Bryolux.label>
+  <!-- EN: A blue moss typically found in deep, dark caves. It is sticky, with tangled fibers, which slows anyone walking over it. Dies when exposed to light. -->
   <Bryolux.description>Μια μπλε βρύα που συνήθως βρίσκεται σε βαθιές, σκοτεινές σπηλιές. Είναι κολλώδες, με μπερδεμένες ίνες, που επιβραδύνει οποιονδήποτε περπατά πάνω της. Πεθαίνει όταν εκτίθεται στο φως.</Bryolux.description>
-
-
+  
+  <!-- EN: glowstool -->
+  <Glowstool.label>φεγγοκλανιά</Glowstool.label>
+  <!-- EN: A small brown mushroom typically found in caves. It smells like an old, dirty rag pulled from the stomach of a rotting muffalo - but it tastes surprisingly good when cooked. Dies when exposed to light. -->
+  <Glowstool.description>Ένα μικρό καφέ μανιτάρι που απαντάται συνήθως στις σπηλιές. Μυρίζει σαν ένα παλιό, βρώμικο πανί που τραβιέται από το στομάχι ενός σάπιου μίσονα - αλλά έχει εκπληκτικά καλή γεύση όταν μαγειρεύεται. Πεθαίνει όταν εκτίθεται στο φως.</Glowstool.description>
+  
 </LanguageData>

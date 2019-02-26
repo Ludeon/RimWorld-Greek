@@ -1,35 +1,111 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Torso.label>κορμός</Torso.label>
-  <UpperHead.label>άνω κεφαλή</UpperHead.label>
-  <FullHead.label>όλο το κεφάλι</FullHead.label>
-  <Eyes.label>μάτια</Eyes.label>
-  <Teeth.label>δόντια</Teeth.label>
-  <Mouth.label>στόμα</Mouth.label>
-  <Neck.label>λαιμός</Neck.label>
+  
+  <!-- EN: arms -->
   <Arms.label>μπράτσα</Arms.label>
-  <Shoulders.label>ώμοι</Shoulders.label>
-  <Hands.label>χέρια</Hands.label>
-  <LeftHand.label>αριστερή γροθιά</LeftHand.label>
-  <RightHand.label>δεξιά γροθιά</RightHand.label>
-  <Waist.label>μέση</Waist.label>
-  <Legs.label>πόδια</Legs.label>
-  <Feet.label>πέλμα</Feet.label>
-  <FrontLeftPaw.label>μπροστινή αριστερή πατούσα</FrontLeftPaw.label>
-  <FrontRightPaw.label>μπροστινή δεξιά πατούσα</FrontRightPaw.label>
-  <HeadAttackTool.label>κεφάλι</HeadAttackTool.label>
-  <FrontLeftLeg.label>μπροστινό αριστερό πόδι</FrontLeftLeg.label>
-  <FrontRightLeg.label>μπροστινό δεξί πόδι</FrontRightLeg.label>
-  <FrontLeftClaws.label>μπροστινά αριστερά νύχια</FrontLeftClaws.label>
-  <FrontRightClaws.label>μπροστινά δεξιά νύχια</FrontRightClaws.label>
-  <LeftBlade.label>αριστερή λεπίδα</LeftBlade.label>
-  <RightBlade.label>δεξιά λεπίδα</RightBlade.label>
-  <TuskAttackTool.label>χαυλιόδοντες</TuskAttackTool.label>
-  <HornAttackTool.label>κέρατο</HornAttackTool.label>
-  <HeadClaw.label>γαμψό νύχι</HeadClaw.label>
-  <TurtleBeakAttackTool.label>ράμφος</TurtleBeakAttackTool.label>
+  
+  <!-- EN: beak -->
   <Beak.label>ράμφος</Beak.label>
-
-
+  
+  <!-- EN: eyes -->
+  <Eyes.label>μάτια</Eyes.label>
+  
+  <!-- EN: feet -->
+  <Feet.label>πατούσες</Feet.label>
+  
+  <!-- EN: front left claws -->
+  <FrontLeftClaws.label>μπροστινά αριστερά νύχια</FrontLeftClaws.label>
+  <!-- EN: claws -->
+  <FrontLeftClaws.labelShort>νύχια</FrontLeftClaws.labelShort>
+  
+  <!-- EN: front left leg -->
+  <FrontLeftLeg.label>μπροστινό αριστερό πόδι</FrontLeftLeg.label>
+  <!-- EN: leg -->
+  <FrontLeftLeg.labelShort>πόδι</FrontLeftLeg.labelShort>
+  
+  <!-- EN: front left paw -->
+  <FrontLeftPaw.label>μπροστινό αριστερό πέλμα</FrontLeftPaw.label>
+  <!-- EN: paw -->
+  <FrontLeftPaw.labelShort>πέλμα</FrontLeftPaw.labelShort>
+  
+  <!-- EN: front right claws -->
+  <FrontRightClaws.label>μπροστινά δεξιά νύχια</FrontRightClaws.label>
+  <!-- EN: claws -->
+  <FrontRightClaws.labelShort>νύχια</FrontRightClaws.labelShort>
+  
+  <!-- EN: front right leg -->
+  <FrontRightLeg.label>μπροστινό δεξί πόδι</FrontRightLeg.label>
+  <!-- EN: leg -->
+  <FrontRightLeg.labelShort>πόδι</FrontRightLeg.labelShort>
+  
+  <!-- EN: front right paw -->
+  <FrontRightPaw.label>μπροστινό δεξί πέλμα</FrontRightPaw.label>
+  <!-- EN: paw -->
+  <FrontRightPaw.labelShort>πέλμα</FrontRightPaw.labelShort>
+  
+  <!-- EN: full head -->
+  <FullHead.label>όλο το κεφάλι</FullHead.label>
+  
+  <!-- EN: hands -->
+  <Hands.label>χέρια</Hands.label>
+  
+  <!-- EN: head -->
+  <HeadAttackTool.label>κεφάλι</HeadAttackTool.label>
+  
+  <!-- EN: claw -->
+  <HeadClaw.label>γαμψό νύχι</HeadClaw.label>
+  
+  <!-- EN: horn -->
+  <HornAttackTool.label>κέρατο</HornAttackTool.label>
+  
+  <!-- EN: left blade -->
+  <LeftBlade.label>αριστερή λεπίδα</LeftBlade.label>
+  <!-- EN: blade -->
+  <LeftBlade.labelShort>λεπίδα</LeftBlade.labelShort>
+  
+  <!-- EN: left fist -->
+  <LeftHand.label>αριστερή γροθιά</LeftHand.label>
+  <!-- EN: fist -->
+  <LeftHand.labelShort>γροθιά</LeftHand.labelShort>
+  
+  <!-- EN: legs -->
+  <Legs.label>πόδια</Legs.label>
+  
+  <!-- EN: mouth -->
+  <Mouth.label>στόμα</Mouth.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>λαιμός</Neck.label>
+  
+  <!-- EN: right blade -->
+  <RightBlade.label>δεξιά λεπίδα</RightBlade.label>
+  <!-- EN: blade -->
+  <RightBlade.labelShort>λεπίδα</RightBlade.labelShort>
+  
+  <!-- EN: right fist -->
+  <RightHand.label>δεξιά γροθιά</RightHand.label>
+  <!-- EN: fist -->
+  <RightHand.labelShort>γροθιά</RightHand.labelShort>
+  
+  <!-- EN: shoulders -->
+  <Shoulders.label>ώμοι</Shoulders.label>
+  
+  <!-- EN: teeth -->
+  <Teeth.label>δόντια</Teeth.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>κορμός</Torso.label>
+  
+  <!-- EN: beak -->
+  <TurtleBeakAttackTool.label>ράμφος</TurtleBeakAttackTool.label>
+  
+  <!-- EN: tusks -->
+  <TuskAttackTool.label>χαυλιόδοντες</TuskAttackTool.label>
+  
+  <!-- EN: upper head -->
+  <UpperHead.label>άνω κεφαλή</UpperHead.label>
+  
+  <!-- EN: waist -->
+  <Waist.label>μέση</Waist.label>
+  
 </LanguageData>

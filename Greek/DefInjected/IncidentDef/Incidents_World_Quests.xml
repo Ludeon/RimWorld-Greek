@@ -1,25 +1,52 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <QuestBanditCamp.label>ευκαιρία σε λημέρι ληστών</QuestBanditCamp.label>
-  <QuestBanditCamp.letterText>{0}, {1} από {2}, μας έστειλε ένα μήνυμα.\n\nΦαίνεται πως οι ληστές που βρίσκονται στο κοντινό στρατόπεδο έχουν επιτεθεί στα καραβάνια τους. Μας ζητούν να τους καταστρέψουμε, πράγμα που σημαίνει την εξάλειψη όλων των εχθρών καθώς και των πυργίσκων τους.\n\nΕάν πετύχουμε, οι σχέσεις μας θα βελτιωθούν και θα μας στείλουν αυτή την ανταμοιβή:\n\n{3}</QuestBanditCamp.letterText>
-  <QuestBanditCamp.letterLabel>Ευκαιρία σε λημέρι ληστών</QuestBanditCamp.letterLabel>
-
-  <QuestItemStash.label>ευκαιρία κριμένου αντικειμένου</QuestItemStash.label>
-  <QuestItemStash.letterText>{0}, {1} από {2}, μας ενημέρωσε για μια συλλογή πολύτιμων αντικειμένων που δεν απέχουν πολύ από εμάς. Η συλλογή αποτελείται από:\n\n{3}\n\nΔυστυχώς, θα λήξει - άλλοι θα πάρουν τα στοιχεία σε {4} ημέρες αν δεν τα πάρουμε.\n\nΠροσοχή - τα τιμαλφή τείνουν να προσελκύουν τον κίνδυνο. {5}</QuestItemStash.letterText>
-  <QuestItemStash.letterLabel>Ευκαιρία κριμένου αντικειμένου</QuestItemStash.letterLabel>
-
-  <QuestDownedRefugee.label>ευκαιρία ανήμπορου φυγά</QuestDownedRefugee.label>
-  <QuestDownedRefugee.letterText>{0} επικοινωνεί μαζί σας στον ασύρματο και ζητά βοήθεια. HECAP έχει τραύματα  και δεν μπορεί να κινηθεί. Χωρίς τη βοήθειά σας, HE θα πεθάνει μέσα σε {1} ημέρες.\n\nΜπορεί να είναι επικίνδυνα εκεί, προσέξτε.</QuestDownedRefugee.letterText>
-  <QuestDownedRefugee.letterLabel>Ευκαιρία ανήμπορου φυγά</QuestDownedRefugee.letterLabel>
-
-  <QuestPrisonerWillingToJoin.label>ευκαιρία ελευθέρωσης φυλακισμένου</QuestPrisonerWillingToJoin.label>
-  <QuestPrisonerWillingToJoin.letterText>Ένας κρατούμενος που κρατείται από τους {0} κατάφερε να κλέψει ένα ασύρματο και να σας καλέσει!\n\nNAME κρατιέται σε στρατόπεδο κοντά σε ένοπλες φρουρές. Σώστε HIM και HE θα ενταχθεί στην αποικία σας. HECAP είναι ηλικίας {1} ετών {2}.</QuestPrisonerWillingToJoin.letterText>
-  <QuestPrisonerWillingToJoin.letterLabel>Ευκαιρία ελευθέρωσης φυλακισμένου</QuestPrisonerWillingToJoin.letterLabel>
-
-  <QuestPeaceTalks.label>ευκαιρία ειρηνικών διαπραγματεύσεων</QuestPeaceTalks.label>
-  <QuestPeaceTalks.letterText>NAME, {0} από {1}, μας έστειλε ένα μήνυμα. HECAP θέλει να μιλήσει μαζί μας σε μια κοντινή τοποθεσία.\n\nΘα μπορούσε να είναι μια μεγάλη ευκαιρία για να βελτιωθούν οι σχέσεις με την ομάδα του, αλλά προσέξτε - ένας ανίκανος διαπραγματευτής μπορεί να προκαλέσει περισσότερη βλάβη παρά καλό και ακόμη και να HIM εξοργίσει.\n\nΗ προσφορά λήγει μετά από {2} ημέρες.</QuestPeaceTalks.letterText>
-  <QuestPeaceTalks.letterLabel>Ευκαιρία ειρηνικών διαπραγματεύσεων</QuestPeaceTalks.letterLabel>
-
-
+  
+  <!-- EN: bandit camp quest -->
+  <Quest_BanditCamp.label>αποστολή σε λημέρι ληστών</Quest_BanditCamp.label>
+  <!-- EN: Bandit camp quest -->
+  <Quest_BanditCamp.letterLabel>Αποστολή σε λημέρι ληστών</Quest_BanditCamp.letterLabel>
+  <!-- EN: {0}, {1} of {2}, has sent us a message.\n\nApparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.\n\n{0} says that {5}.\n\nIf we succeed, their relations will improve, and they'll send us this reward worth {6}:\n\n{3}\n\nIf we don't destroy the camp in {4} days, they will do it themselves. -->
+  <Quest_BanditCamp.letterText>{0}, {1} από τους {2}, μας έστειλε ένα μήνυμα.\n\nΌπως φαίνεται οι ληστές που βρίσκονται στο κοντινό καταυλισμό έχουν επιτεθεί στα καραβάνια τους. Μας ζητούν να τους καταστρέψουμε, πράγμα που σημαίνει την εξάλειψη όλων των εχθρών και των πυργίσκων.\n\n{0} λέει ότι {5}.\n\nΕάν πετύχουμε, οι σχέσεις μας θα βελτιωθούν και θα μας στείλουν αυτή την ανταμοιβή αξίας {6}:\n\n{3}\n\nΑν δεν καταστρέψουμε το στρατόπεδο σε {4} ημέρες, θα το κάνουν μόνοι τους.</Quest_BanditCamp.letterText>
+  
+  <!-- EN: incapacitated refugee quest -->
+  <Quest_DownedRefugee.label>αποστολή σακατεμένου πρόσφυγα</Quest_DownedRefugee.label>
+  <!-- EN: Incapacitated refugee quest -->
+  <Quest_DownedRefugee.letterLabel>Αποστολή σε ανήμπορο πρόσφυγα</Quest_DownedRefugee.letterLabel>
+  <!-- EN: {PAWN_nameDef} contacts you and requests help. {PAWN_pronoun} is wounded and unable to move. Without your help, {PAWN_pronoun} will die in {0} days.\n\n{PAWN_nameDef} is a {1}-year-old {2}. {PAWN_pronoun} promises to join you if you rescue {PAWN_objective}.\n\n{PAWN_nameDef} says that {3}. -->
+  <Quest_DownedRefugee.letterText>{PAWN_nameDef} επικοινωνεί μαζί σας και ζητά βοήθεια. {PAWN_pronoun} έχει τραυματιστεί και δεν μπορεί να κινηθεί. Χωρίς τη βοήθειά σας,  θα πεθάνει σε {0} ημέρες. {PAWN_nameDef} είναι {1} ετών {2}. {PAWN_pronoun} υπόσχεται να ενωθεί μαζί σας εάν {PAWN_objective} διασώσεται. {PAWN_nameDef} λέει ότι {3}.</Quest_DownedRefugee.letterText>
+  
+  <!-- EN: item stash quest -->
+  <Quest_ItemStash.label>αποστολή κριμένων αντικειμένων</Quest_ItemStash.label>
+  <!-- EN: Item stash quest -->
+  <Quest_ItemStash.letterLabel>Αποστολή κριμένων αντικείμενων</Quest_ItemStash.letterLabel>
+  <!-- EN: {0}, {1} of {2}, has informed us of a collection of valuable items worth {6} not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won't last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {0} says that {5}. -->
+  <Quest_ItemStash.letterText>{0}, {1} από τους {2}, μας ενημέρωσε για μια συλλογή πολύτιμων αντικειμένων αξίας {6} που δεν απέχει πολύ από εμάς. Η συλλογή αποτελείται από:\n\n{3}\n\nΔυστυχώς, δεν θα είναι διαθέσιμη για πολύ ώρα - άλλοι θα πάρουν τα αντικείμενα σε {4} ημέρες αν δεν τα πάρουμε εμείς.\n\nΠροσοχή - τα τιμαλφή προσελκύουν τον κίνδυνο. {0} λέει ότι {5}.</Quest_ItemStash.letterText>
+  
+  <!-- EN: item stash quest (AI core) -->
+  <Quest_ItemStashAICore.label>αποστολή κριμένου πυρήνα τεχνητής νοημοσύνης</Quest_ItemStashAICore.label>
+  <!-- EN: Item stash quest -->
+  <Quest_ItemStashAICore.letterLabel>Αποστολή κριμένων αντικείμενων</Quest_ItemStashAICore.letterLabel>
+  <!-- EN: {0}, {1} of {2}, has informed us of a collection of valuable items worth {6} not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won't last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {0} says that {5}. -->
+  <Quest_ItemStashAICore.letterText>{0}, {1} από τους {2}, μας ενημέρωσε για μια συλλογή πολύτιμων αντικειμένων αξίας {6} που δεν απέχει πολύ από εμάς. Η συλλογή αποτελείται από:\n\n{3}\n\nΔυστυχώς, δεν θα είναι διαθέσιμη για πολύ ώρα - άλλοι θα πάρουν τα αντικείμενα σε {4} ημέρες αν δεν τα πάρουμε εμείς.\n\nΠροσοχή - τα τιμαλφή προσελκύουν τον κίνδυνο. {0} λέει ότι {5}.</Quest_ItemStashAICore.letterText>
+  
+  <!-- EN: escape ship quest -->
+  <Quest_JourneyOffer.label>αποστολή διαφυγής διαστημοπλοίου</Quest_JourneyOffer.label>
+  
+  <!-- EN: peace talks quest -->
+  <Quest_PeaceTalks.label>αποστολή ειρηνικής διαπραγμάτευσης</Quest_PeaceTalks.label>
+  <!-- EN: Peace talks quest -->
+  <Quest_PeaceTalks.letterLabel>Αποστολή ειρηνικής διαπραγμάτευσης</Quest_PeaceTalks.letterLabel>
+  <!-- EN: {PAWN_nameDef}, {0} of {1}, has sent us a message. {PAWN_pronoun} wants to talk with us in a nearby location.\n\nIt could be a great opportunity to improve relations with their faction and receive gifts, but beware - a poor negotiator can cause more harm than good and may even anger them.\n\nThe offer will expire after {2} days. -->
+  <Quest_PeaceTalks.letterText>{PAWN_nameDef}, {0} από τους {1}, μας έστειλε ένα μήνυμα. {PAWN_pronoun} θέλει να μιλήσει μαζί μας σε μια κοντινή τοποθεσία.\n\nΘα μπορούσε να είναι μια μεγάλη ευκαιρία για να βελτιωθούν οι σχέσεις μας με τη φατρία τους και να ανταλλάξουμε δώρα, αλλά προσέξτε - ένας φτωχός διαπραγματευτής μπορεί να προκαλέσει περισσότερη βλάβη από ότι καλό και μπορεί ακόμη και να τους θυμώσει.\n\nΗ προσφορά λήγει μετά από {2} ημέρες.</Quest_PeaceTalks.letterText>
+  
+  <!-- EN: prisoner rescue quest -->
+  <Quest_PrisonerRescue.label>αποστολή φυγάδευσης κρατούμενου</Quest_PrisonerRescue.label>
+  <!-- EN: Prisoner rescue quest -->
+  <Quest_PrisonerRescue.letterLabel>Αποστολή απελευθέρωσης φυλακισμένου</Quest_PrisonerRescue.letterLabel>
+  <!-- EN: A prisoner being held by {0} has managed to steal a radio and call you!\n\n{PAWN_nameDef} is being held at a camp nearby under armed guard. Rescue {PAWN_objective}, and {PAWN_pronoun} will join your colony. {PAWN_pronoun} is a {1}-year-old {2}. {PAWN_pronoun} says that {3}. -->
+  <Quest_PrisonerRescue.letterText>Ένας κρατούμενος που κρατείται από τους {0} έχει καταφέρει να κλέψει ένα ραδιοπομπό και να σας καλέσει!\n\n{PAWN_nameDef} κρατιέται σε ένα καταυλισμό εδώ κοντά υπό στρατιωτική φύλαξη. Διασώστε {PAWN_objective} και {PAWN_pronoun} θα ενταχθεί στην αποικία σας. {PAWN_pronoun} είναι {1} ετών {2}.  Λέει ότι {3}.</Quest_PrisonerRescue.letterText>
+  
+  <!-- EN: trade request -->
+  <Quest_TradeRequest.label>εμπορικό αίτημα</Quest_TradeRequest.label>
+  
 </LanguageData>

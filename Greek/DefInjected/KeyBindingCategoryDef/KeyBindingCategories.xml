@@ -1,29 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <GameMapCamera.label>κάμερα</GameMapCamera.label>
-  <GameMapCamera.description>Ελεγκτήρια κάμερας.</GameMapCamera.description>
-
-  <Game.label>γενικά στο παιχνίδι</Game.label>
-  <Game.description>Έλεγχοι λειτουργίας αποικίας που ισχύουν στις περισσότερες περιπτώσεις.</Game.description>
-
-  <SelectionMisc.label>διάφορα</SelectionMisc.label>
-  <SelectionMisc.description>Γενικά στοιχεία ελέγχου που επαναχρησιμοποιούνται από πολλά είδη και αντικείμενα σε όλο το παιχνίδι.</SelectionMisc.description>
-
-  <SelectionSpecial.label>ειδικά</SelectionSpecial.label>
-  <SelectionSpecial.description>Ειδικά χειριστήρια για συγκεκριμένες λειτουργίες σε συγκεκριμένα αντικείμενα.</SelectionSpecial.description>
-
+  
+  <!-- EN: architect -->
   <Architect.label>αρχιτεκτονική</Architect.label>
+  <!-- EN: General-use controls for the architect mode menu. -->
   <Architect.description>Γενικής χρήσης εντολές για το μενού αρχιτεκτονικής.</Architect.description>
-
-  <MainTabs.label>βασικές καρτέλες</MainTabs.label>
-  <MainTabs.description>Εντολές για τις βασικές καρτέλες.</MainTabs.description>
-
-  <Modifiers.label>τροποποιητές</Modifiers.label>
-  <Modifiers.description>Εντολές που χρησιμοποιούνται για να τροποποιούν άλλες ενέργειες.</Modifiers.description>
-
+  
+  <!-- EN: developer tools -->
   <Development.label>εργαλεία ανάπτυξης</Development.label>
+  <!-- EN: Controls for developers and modders. Active in development mode only. -->
   <Development.description>Εντολές για υπεύθυνους ανάπτυξης και δημιουργών mod. Διαθέσιμες μόνο σε κατάσταση ανάπτυξης.</Development.description>
-
-
+  
+  <!-- EN: in-game global -->
+  <Game.label>γενικά στο παιχνίδι</Game.label>
+  <!-- EN: Colony mode controls that apply in most situations. -->
+  <Game.description>Έλεγχοι λειτουργίας αποικίας που ισχύουν στις περισσότερες περιπτώσεις.</Game.description>
+  
+  <!-- EN: camera -->
+  <GameMapCamera.label>κάμερα</GameMapCamera.label>
+  <!-- EN: Controls for the camera. -->
+  <GameMapCamera.description>Ελεγκτήρια κάμερας.</GameMapCamera.description>
+  
+  <!-- EN: main tabs -->
+  <MainTabs.label>βασικές καρτέλες</MainTabs.label>
+  <!-- EN: Controls for the main tabs. -->
+  <MainTabs.description>Εντολές για τις βασικές καρτέλες.</MainTabs.description>
+  
+  <!-- EN: modifiers -->
+  <Modifiers.label>τροποποιητές</Modifiers.label>
+  <!-- EN: Controls used to modify other actions. -->
+  <Modifiers.description>Εντολές που χρησιμοποιούνται για να τροποποιούν άλλες ενέργειες.</Modifiers.description>
+  
+  <!-- EN: misc -->
+  <SelectionMisc.label>διάφορα</SelectionMisc.label>
+  <!-- EN: Generic controls that are re-used by many items and objects throughout the game. -->
+  <SelectionMisc.description>Γενικά στοιχεία ελέγχου που επαναχρησιμοποιούνται από πολλά είδη και αντικείμενα σε όλο το παιχνίδι.</SelectionMisc.description>
+  
+  <!-- EN: special -->
+  <SelectionSpecial.label>ειδικά</SelectionSpecial.label>
+  <!-- EN: Special controls reserved for specific functions on specific objects. -->
+  <SelectionSpecial.description>Ειδικά χειριστήρια για συγκεκριμένες λειτουργίες σε συγκεκριμένα αντικείμενα.</SelectionSpecial.description>
+  
 </LanguageData>

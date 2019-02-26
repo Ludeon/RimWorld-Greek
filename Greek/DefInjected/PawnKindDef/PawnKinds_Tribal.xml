@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archer -->
+  <Tribal_Archer.label>τοξότης</Tribal_Archer.label>
+  
+  <!-- EN: berserker -->
+  <Tribal_Berserker.label>μανιακός</Tribal_Berserker.label>
+  
+  <!-- EN: berserker chief -->
+  <Tribal_ChiefMelee.label>μανιακός αρχηγός</Tribal_ChiefMelee.label>
+  
+  <!-- EN: archer chief -->
+  <Tribal_ChiefRanged.label>τοξότης αρχηγός</Tribal_ChiefRanged.label>
+  
+  <!-- EN: heavy archer -->
+  <Tribal_HeavyArcher.label>βαρύς τοξότης</Tribal_HeavyArcher.label>
+  
+  <!-- EN: hunter -->
+  <Tribal_Hunter.label>κυνηγός</Tribal_Hunter.label>
+  
+  <!-- EN: penitent -->
+  <Tribal_Penitent.label>μετανοημένος</Tribal_Penitent.label>
+  
+  <!-- EN: trader -->
+  <Tribal_Trader.label>έμπορος</Tribal_Trader.label>
+  
+  <!-- EN: warrior -->
+  <Tribal_Warrior.label>πολεμιστής</Tribal_Warrior.label>
+  
+</LanguageData>

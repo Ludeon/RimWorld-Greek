@@ -1,22 +1,45 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MechanoidFullyFormed.label>πλήρες σχηματισμένο</MechanoidFullyFormed.label>
-  <HumanlikeBaby.label>έμβρυο</HumanlikeBaby.label>
-  <HumanlikeToddler.label>νήπιο</HumanlikeToddler.label>
-  <HumanlikeChild.label>παιδί</HumanlikeChild.label>
-
-  <HumanlikeTeenager.label>έφηβος</HumanlikeTeenager.label>
-  <HumanlikeTeenager.adjective>εφηβεία</HumanlikeTeenager.adjective>
-
-  <HumanlikeAdult.label>ενήλικας</HumanlikeAdult.label>
-  <EusocialInsectLarva.label>προνύμφη</EusocialInsectLarva.label>
-  <EusocialInsectJuvenile.label>άνηβο</EusocialInsectJuvenile.label>
-  <EusocialInsectAdult.label>ενήλικο</EusocialInsectAdult.label>
-  <AnimalBaby.label>νεογέννητο</AnimalBaby.label>
-  <AnimalBabyTiny.label>μικρούλικο</AnimalBabyTiny.label>
-  <AnimalJuvenile.label>νεανικό</AnimalJuvenile.label>
+  
+  <!-- EN: adult -->
   <AnimalAdult.label>ενήλικο</AnimalAdult.label>
-
-
+  
+  <!-- EN: baby -->
+  <AnimalBaby.label>νεογέννητο</AnimalBaby.label>
+  
+  <!-- EN: baby -->
+  <AnimalBabyTiny.label>μικρούλικο</AnimalBabyTiny.label>
+  
+  <!-- EN: juvenile -->
+  <AnimalJuvenile.label>νεανικό</AnimalJuvenile.label>
+  
+  <!-- EN: adult -->
+  <EusocialInsectAdult.label>ενήλικο</EusocialInsectAdult.label>
+  
+  <!-- EN: immature -->
+  <EusocialInsectJuvenile.label>άνηβο</EusocialInsectJuvenile.label>
+  
+  <!-- EN: larva -->
+  <EusocialInsectLarva.label>προνύμφη</EusocialInsectLarva.label>
+  
+  <!-- EN: adult -->
+  <HumanlikeAdult.label>ενήλικας</HumanlikeAdult.label>
+  
+  <!-- EN: baby -->
+  <HumanlikeBaby.label>έμβρυο</HumanlikeBaby.label>
+  
+  <!-- EN: child -->
+  <HumanlikeChild.label>παιδί</HumanlikeChild.label>
+  
+  <!-- EN: teenager -->
+  <HumanlikeTeenager.label>έφηβος</HumanlikeTeenager.label>
+  <!-- EN: teenage -->
+  <HumanlikeTeenager.adjective>εφηβεία</HumanlikeTeenager.adjective>
+  
+  <!-- EN: toddler -->
+  <HumanlikeToddler.label>νήπιο</HumanlikeToddler.label>
+  
+  <!-- EN: fully-formed -->
+  <MechanoidFullyFormed.label>πλήρες σχηματισμένο</MechanoidFullyFormed.label>
+  
 </LanguageData>

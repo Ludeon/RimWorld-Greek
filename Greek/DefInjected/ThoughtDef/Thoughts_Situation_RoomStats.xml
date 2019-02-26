@@ -1,56 +1,103 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <PrisonCell.stages.0.label>απαίσιο κελί φυλακής</PrisonCell.stages.0.label>
-  <PrisonCell.stages.0.description>Το κελί της φυλακής μου είναι φρικτό μέρος.</PrisonCell.stages.0.description>
-  <PrisonCell.stages.3.label>πρέπων κελί φυλακής</PrisonCell.stages.3.label>
-  <PrisonCell.stages.3.description>Το κελί της φυλακής μου είναι αρκετά ευπρεπές μέρος.</PrisonCell.stages.3.description>
-  <PrisonCell.stages.4.label>λίγο εντυπωσιακό κελί φυλακής</PrisonCell.stages.4.label>
-  <PrisonCell.stages.4.description>Το κελί της φυλακής μου είναι ευχάριστο μέρος.</PrisonCell.stages.4.description>
-  <PrisonCell.stages.5.label>εντυπωσιακό κελί φυλακής</PrisonCell.stages.5.label>
-  <PrisonCell.stages.5.description>Το κελί της φυλακής μου είναι θεαματικό. Δεν μπορώ να πιστέψω ότι με κρατούν σε ένα δωμάτιο σαν αυτό.</PrisonCell.stages.5.description>
-  <PrisonCell.stages.6.label>πολύ εντυπωσιακό κελί φυλακής</PrisonCell.stages.6.label>
-  <PrisonCell.stages.6.description>Το κελί της φυλακής μου είναι πολύ θεαματικό. Δεν μπορώ να πιστέψω ότι με κρατούν σε ένα δωμάτιο σαν αυτό. Μου αρέσει!</PrisonCell.stages.6.description>
-  <PrisonCell.stages.7.label>υπέροχα εντυπωσιακό κελί φυλακής</PrisonCell.stages.7.label>
-  <PrisonCell.stages.7.description>Το κελί της φυλακής μου είναι υπέροχα θεαματικό. Δεν μπορώ να πιστέψω ότι με κρατούν σε ένα δωμάτιο σαν αυτό. Μου αρέσει!</PrisonCell.stages.7.description>
-  <PrisonCell.stages.8.label>απίστευτα εντυπωσιακό κελί φυλακής</PrisonCell.stages.8.label>
-  <PrisonCell.stages.8.description>Το κελί της φυλακής μου είναι απίστευτα θεαματικό. Αυτό είναι το καλύτερο μέρος!</PrisonCell.stages.8.description>
-  <PrisonCell.stages.9.label>φανταστικά εντυπωσιακό κελί φυλακής</PrisonCell.stages.9.label>
-  <PrisonCell.stages.9.description>Το κελί της φυλακής μου είναι ονειρεμένο. Μπορώ να μείνω εδώ για πάντα.</PrisonCell.stages.9.description>
-
-  <PrisonBarracks.stages.0.label>απαίσιος στρατώνας</PrisonBarracks.stages.0.label>
-  <PrisonBarracks.stages.0.description>Ο στρατώνας της φυλακής μου είναι ένα άσχημο μέρος.</PrisonBarracks.stages.0.description>
-  <PrisonBarracks.stages.1.label>βαρετός στρατώνας</PrisonBarracks.stages.1.label>
-  <PrisonBarracks.stages.1.description>Διαμένω σε ένα πληκτικό στρατώνα.</PrisonBarracks.stages.1.description>
-  <PrisonBarracks.stages.4.label>λίγο εντυπωσιακός στρατώνας</PrisonBarracks.stages.4.label>
-  <PrisonBarracks.stages.4.description>Ο στρατώνας της φυλακής μου είναι ένα πρέπων μέρος.</PrisonBarracks.stages.4.description>
-  <PrisonBarracks.stages.5.label>κάπως εντυπωσιακός στρατώνας</PrisonBarracks.stages.5.label>
-  <PrisonBarracks.stages.5.description>Ο στρατώνας της φυλακής μου είναι ένα όμορφο μέρος. Μου αρέσει.</PrisonBarracks.stages.5.description>
-  <PrisonBarracks.stages.6.label>πολύ εντυπωσιακός στρατώνας</PrisonBarracks.stages.6.label>
-  <PrisonBarracks.stages.6.description>Ο στρατώνας της φυλακής μου είναι πανέμορφο μέρος. Μου αρέσει.</PrisonBarracks.stages.6.description>
-  <PrisonBarracks.stages.7.label>υπερβολικά εντυπωσιακός στρατώνας</PrisonBarracks.stages.7.label>
-  <PrisonBarracks.stages.7.description>Ο στρατώνας της φυλακής μου είναι ένα υπερβολικά φανταστικό μέρος. Δεν μπορώ να πιστέψω ότι με κρατούν σε ένα χώρο σαν αυτόν.</PrisonBarracks.stages.7.description>
-  <PrisonBarracks.stages.8.label>απίστευτα εντυπωσιακός στρατώνας</PrisonBarracks.stages.8.label>
-  <PrisonBarracks.stages.8.description>Ο στρατώνας της φυλακής μου είναι ένα απίστευτα φανταστικό μέρος. Δεν μπορώ να πιστέψω ότι με κρατούν σε ένα χώρο σαν αυτόν.</PrisonBarracks.stages.8.description>
-  <PrisonBarracks.stages.9.label>φανταστικά εντυπωσιακός στρατώνας</PrisonBarracks.stages.9.label>
-  <PrisonBarracks.stages.9.description>Ο στρατώνας της φυλακής μου είναι θαυμάσιος! Δεν μπορώ να πιστέψω ότι με κρατούν σε ένα χώρο σαν αυτόν.</PrisonBarracks.stages.9.description>
-
-  <HospitalPatientRoomStats.stages.0.label>απαίσιο νοσοκομείο</HospitalPatientRoomStats.stages.0.label>
-  <HospitalPatientRoomStats.stages.0.description>Αυτό το νοσοκομείο είναι ενοχλητικό.</HospitalPatientRoomStats.stages.0.description>
-  <HospitalPatientRoomStats.stages.1.label>θλιβερό νοσοκομείο</HospitalPatientRoomStats.stages.1.label>
-  <HospitalPatientRoomStats.stages.1.description>Έχω κολλήσει σε ένα καταθλιπτικό νοσοκομείο.</HospitalPatientRoomStats.stages.1.description>
-  <HospitalPatientRoomStats.stages.4.label>λίγο εντυπωσιακό νοσοκομείο</HospitalPatientRoomStats.stages.4.label>
-  <HospitalPatientRoomStats.stages.4.description>Το νοσοκομείο μου είναι ευπρεπές. Με κάνει να αισθάνομαι λίγο καλύτερα.</HospitalPatientRoomStats.stages.4.description>
-  <HospitalPatientRoomStats.stages.5.label>κάπως εντυπωσιακό νοσοκομείο</HospitalPatientRoomStats.stages.5.label>
-  <HospitalPatientRoomStats.stages.5.description>Το νοσοκομείο μου είναι υπέροχο. Με κάνει να αισθάνομαι καλύτερα.</HospitalPatientRoomStats.stages.5.description>
-  <HospitalPatientRoomStats.stages.6.label>πολύ εντυπωσιακό νοσοκομείο</HospitalPatientRoomStats.stages.6.label>
-  <HospitalPatientRoomStats.stages.6.description>Το νοσοκομείο μου είναι πολύ υπέροχο. Με κάνει να αισθάνομαι καλύτερα.</HospitalPatientRoomStats.stages.6.description>
-  <HospitalPatientRoomStats.stages.7.label>υπερβολικά εντυπωσιακό νοσοκομείο</HospitalPatientRoomStats.stages.7.label>
-  <HospitalPatientRoomStats.stages.7.description>Το νοσοκομείο μου είναι υπερβολικά θεαματικό. Με κάνει να αισθάνομαι κιόλας καλά.</HospitalPatientRoomStats.stages.7.description>
-  <HospitalPatientRoomStats.stages.8.label>απίστευτα εντυπωσιακό νοσοκομείο unbelievably impressive hospital</HospitalPatientRoomStats.stages.8.label>
-  <HospitalPatientRoomStats.stages.8.description>Το νοσοκομείο μου είναι απίστευτα θεαματικό. Με κάνει να αισθάνομαι κιόλας καλά.</HospitalPatientRoomStats.stages.8.description>
-  <HospitalPatientRoomStats.stages.9.label>φανταστικά εντυπωσιακό νοσοκομείο</HospitalPatientRoomStats.stages.9.label>
-  <HospitalPatientRoomStats.stages.9.description>Το νοσοκομείο μου είναι θαυμάσιο. Με κάνει να αισθάνομαι κιόλας καλά.</HospitalPatientRoomStats.stages.9.description>
-
-
+  
+  <!-- EN: awful hospital -->
+  <HospitalPatientRoomStats.stages.awful_hospital.label>απαίσιο νοσοκομείο</HospitalPatientRoomStats.stages.awful_hospital.label>
+  <!-- EN: This hospital is awful. -->
+  <HospitalPatientRoomStats.stages.awful_hospital.description>Αυτό το νοσοκομείο είναι ενοχλητικό.</HospitalPatientRoomStats.stages.awful_hospital.description>
+  <!-- EN: dull hospital -->
+  <HospitalPatientRoomStats.stages.dull_hospital.label>θλιβερό νοσοκομείο</HospitalPatientRoomStats.stages.dull_hospital.label>
+  <!-- EN: I'm stuck in a dull hospital. -->
+  <HospitalPatientRoomStats.stages.dull_hospital.description>Έχω κολλήσει σε ένα καταθλιπτικό νοσοκομείο.</HospitalPatientRoomStats.stages.dull_hospital.description>
+  <!-- EN: slightly impressive hospital -->
+  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>λίγο εντυπωσιακό νοσοκομείο</HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>
+  <!-- EN: My hospital is slightly impressive. It makes me feel a bit better. -->
+  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>Το νοσοκομείο μου είναι ευπρεπές. Με κάνει να αισθάνομαι λίγο καλύτερα.</HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>
+  <!-- EN: somewhat impressive hospital -->
+  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>κάπως εντυπωσιακό νοσοκομείο</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>
+  <!-- EN: My hospital is impressive. It makes me feel better. -->
+  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>Το νοσοκομείο μου είναι υπέροχο. Με κάνει να αισθάνομαι καλύτερα.</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>
+  <!-- EN: very impressive hospital -->
+  <HospitalPatientRoomStats.stages.very_impressive_hospital.label>πολύ εντυπωσιακό νοσοκομείο</HospitalPatientRoomStats.stages.very_impressive_hospital.label>
+  <!-- EN: My hospital is very impressive. It makes me feel better. -->
+  <HospitalPatientRoomStats.stages.very_impressive_hospital.description>Το νοσοκομείο μου είναι πολύ υπέροχο. Με κάνει να αισθάνομαι καλύτερα.</HospitalPatientRoomStats.stages.very_impressive_hospital.description>
+  <!-- EN: extremely impressive hospital -->
+  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>υπερβολικά εντυπωσιακό νοσοκομείο</HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>
+  <!-- EN: My hospital is extremely impressive. It makes me feel better already. -->
+  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>Το νοσοκομείο μου είναι υπερβολικά θεαματικό. Με κάνει να αισθάνομαι κιόλας καλά.</HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>
+  <!-- EN: unbelievably impressive hospital -->
+  <HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>απίστευτα εντυπωσιακό νοσοκομείο</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>
+  <!-- EN: My hospital is unbelievably impressive. It makes me feel better already. -->
+  <HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>Το νοσοκομείο μου είναι απίστευτα θεαματικό. Με κάνει να αισθάνομαι κιόλας καλά.</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>
+  <!-- EN: wondrously impressive hospital -->
+  <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>φανταστικά εντυπωσιακό νοσοκομείο</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>
+  <!-- EN: My hospital is wonderful! It makes me feel better already. -->
+  <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>Το νοσοκομείο μου είναι θαυμάσιο. Με κάνει να αισθάνομαι κιόλας καλά.</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>
+  
+  <!-- EN: awful barrack -->
+  <PrisonBarracks.stages.awful_barrack.label>απαίσιος στρατώνας</PrisonBarracks.stages.awful_barrack.label>
+  <!-- EN: My prison barrack is an awful place. -->
+  <PrisonBarracks.stages.awful_barrack.description>Ο στρατώνας της φυλακής μου είναι ένα άσχημο μέρος.</PrisonBarracks.stages.awful_barrack.description>
+  <!-- EN: dull barrack -->
+  <PrisonBarracks.stages.dull_barrack.label>βαρετός στρατώνας</PrisonBarracks.stages.dull_barrack.label>
+  <!-- EN: I'm living in a dull barrack. -->
+  <PrisonBarracks.stages.dull_barrack.description>Διαμένω σε ένα πληκτικό στρατώνα.</PrisonBarracks.stages.dull_barrack.description>
+  <!-- EN: slightly impressive barrack -->
+  <PrisonBarracks.stages.slightly_impressive_barrack.label>λίγο εντυπωσιακός στρατώνας</PrisonBarracks.stages.slightly_impressive_barrack.label>
+  <!-- EN: My prison barrack is slightly impressive. -->
+  <PrisonBarracks.stages.slightly_impressive_barrack.description>Ο στρατώνας της φυλακής μου είναι ένα πρέπων μέρος.</PrisonBarracks.stages.slightly_impressive_barrack.description>
+  <!-- EN: somewhat impressive barrack -->
+  <PrisonBarracks.stages.somewhat_impressive_barrack.label>κάπως εντυπωσιακός στρατώνας</PrisonBarracks.stages.somewhat_impressive_barrack.label>
+  <!-- EN: My prison barrack is impressive. I like it. -->
+  <PrisonBarracks.stages.somewhat_impressive_barrack.description>Ο στρατώνας της φυλακής μου είναι ένα όμορφο μέρος. Μου αρέσει.</PrisonBarracks.stages.somewhat_impressive_barrack.description>
+  <!-- EN: very impressive barrack -->
+  <PrisonBarracks.stages.very_impressive_barrack.label>πολύ εντυπωσιακός στρατώνας</PrisonBarracks.stages.very_impressive_barrack.label>
+  <!-- EN: My prison barrack is very impressive. I like it. -->
+  <PrisonBarracks.stages.very_impressive_barrack.description>Ο στρατώνας της φυλακής μου είναι πανέμορφο μέρος. Μου αρέσει.</PrisonBarracks.stages.very_impressive_barrack.description>
+  <!-- EN: extremely impressive barrack -->
+  <PrisonBarracks.stages.extremely_impressive_barrack.label>υπερβολικά εντυπωσιακός στρατώνας</PrisonBarracks.stages.extremely_impressive_barrack.label>
+  <!-- EN: My prison barrack is extremely impressive. I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.extremely_impressive_barrack.description>Ο στρατώνας της φυλακής μου είναι ένα υπερβολικά φανταστικό μέρος. Δεν μπορώ να πιστέψω ότι με κρατούν σε ένα χώρο σαν αυτόν.</PrisonBarracks.stages.extremely_impressive_barrack.description>
+  <!-- EN: unbelievably impressive barrack -->
+  <PrisonBarracks.stages.unbelievably_impressive_barrack.label>απίστευτα εντυπωσιακός στρατώνας</PrisonBarracks.stages.unbelievably_impressive_barrack.label>
+  <!-- EN: My prison barrack is unbelievably impressive. I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.unbelievably_impressive_barrack.description>Ο στρατώνας της φυλακής μου είναι ένα απίστευτα φανταστικό μέρος. Δεν μπορώ να πιστέψω ότι με κρατούν σε ένα χώρο σαν αυτόν.</PrisonBarracks.stages.unbelievably_impressive_barrack.description>
+  <!-- EN: wondrously impressive barrack -->
+  <PrisonBarracks.stages.wondrously_impressive_barrack.label>φανταστικά εντυπωσιακός στρατώνας</PrisonBarracks.stages.wondrously_impressive_barrack.label>
+  <!-- EN: My prison barrack is wonderful! I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.wondrously_impressive_barrack.description>Ο στρατώνας της φυλακής μου είναι θαυμάσιος! Δεν μπορώ να πιστέψω ότι με κρατούν σε ένα χώρο σαν αυτόν.</PrisonBarracks.stages.wondrously_impressive_barrack.description>
+  
+  <!-- EN: awful prison cell -->
+  <PrisonCell.stages.awful_prison_cell.label>απαίσιο κελί φυλακής</PrisonCell.stages.awful_prison_cell.label>
+  <!-- EN: My prison cell is an awful place. -->
+  <PrisonCell.stages.awful_prison_cell.description>Το κελί της φυλακής μου είναι φρικτό μέρος.</PrisonCell.stages.awful_prison_cell.description>
+  <!-- EN: decent prison cell -->
+  <PrisonCell.stages.decent_prison_cell.label>πρέπων κελί φυλακής</PrisonCell.stages.decent_prison_cell.label>
+  <!-- EN: My prison cell is pretty decent. -->
+  <PrisonCell.stages.decent_prison_cell.description>Το κελί της φυλακής μου είναι αρκετά ευπρεπές μέρος.</PrisonCell.stages.decent_prison_cell.description>
+  <!-- EN: slightly impressive prison cell -->
+  <PrisonCell.stages.slightly_impressive_prison_cell.label>λίγο εντυπωσιακό κελί φυλακής</PrisonCell.stages.slightly_impressive_prison_cell.label>
+  <!-- EN: My prison cell seems to be a nice place. -->
+  <PrisonCell.stages.slightly_impressive_prison_cell.description>Το κελί της φυλακής μου είναι ευχάριστο μέρος.</PrisonCell.stages.slightly_impressive_prison_cell.description>
+  <!-- EN: impressive prison cell -->
+  <PrisonCell.stages.impressive_prison_cell.label>εντυπωσιακό κελί φυλακής</PrisonCell.stages.impressive_prison_cell.label>
+  <!-- EN: My prison cell is impressive. I can't believe they are keeping me in a room like this. -->
+  <PrisonCell.stages.impressive_prison_cell.description>Το κελί της φυλακής μου είναι θεαματικό. Δεν μπορώ να πιστέψω ότι με κρατούν σε ένα δωμάτιο σαν αυτό.</PrisonCell.stages.impressive_prison_cell.description>
+  <!-- EN: very impressive prison cell -->
+  <PrisonCell.stages.very_impressive_prison_cell.label>πολύ εντυπωσιακό κελί φυλακής</PrisonCell.stages.very_impressive_prison_cell.label>
+  <!-- EN: My prison cell is very impressive. I can't believe they are keeping me in a room like this. I love it! -->
+  <PrisonCell.stages.very_impressive_prison_cell.description>Το κελί της φυλακής μου είναι πολύ θεαματικό. Δεν μπορώ να πιστέψω ότι με κρατούν σε ένα δωμάτιο σαν αυτό. Μου αρέσει!</PrisonCell.stages.very_impressive_prison_cell.description>
+  <!-- EN: extremely impressive prison cell -->
+  <PrisonCell.stages.extremely_impressive_prison_cell.label>υπέροχα εντυπωσιακό κελί φυλακής</PrisonCell.stages.extremely_impressive_prison_cell.label>
+  <!-- EN: My prison cell is extremely impressive. I can't believe they are keeping me in a room like this. I love it! -->
+  <PrisonCell.stages.extremely_impressive_prison_cell.description>Το κελί της φυλακής μου είναι υπέροχα θεαματικό. Δεν μπορώ να πιστέψω ότι με κρατούν σε ένα δωμάτιο σαν αυτό. Μου αρέσει!</PrisonCell.stages.extremely_impressive_prison_cell.description>
+  <!-- EN: unbelievably impressive prison cell -->
+  <PrisonCell.stages.unbelievably_impressive_prison_cell.label>απίστευτα εντυπωσιακό κελί φυλακής</PrisonCell.stages.unbelievably_impressive_prison_cell.label>
+  <!-- EN: My prison cell is unbelievably impressive. This is the best place ever! -->
+  <PrisonCell.stages.unbelievably_impressive_prison_cell.description>Το κελί της φυλακής μου είναι απίστευτα θεαματικό. Αυτό είναι το καλύτερο μέρος!</PrisonCell.stages.unbelievably_impressive_prison_cell.description>
+  <!-- EN: wondrously impressive prison cell -->
+  <PrisonCell.stages.wondrously_impressive_prison_cell.label>φανταστικά εντυπωσιακό κελί φυλακής</PrisonCell.stages.wondrously_impressive_prison_cell.label>
+  <!-- EN: My prison cell is the best place one can ever imagine. I can stay here forever. -->
+  <PrisonCell.stages.wondrously_impressive_prison_cell.description>Το κελί της φυλακής μου είναι ονειρεμένο. Μπορώ να μείνω εδώ για πάντα.</PrisonCell.stages.wondrously_impressive_prison_cell.description>
+  
 </LanguageData>

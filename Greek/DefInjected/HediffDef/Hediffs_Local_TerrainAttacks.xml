@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dirt -->
+  <DirtInEyes.label>χώμα</DirtInEyes.label>
+  <!-- EN: dirt -->
+  <DirtInEyes.labelNoun>χώμα</DirtInEyes.labelNoun>
+  
+  <!-- EN: gravel -->
+  <GravelInEyes.label>χαλίκι</GravelInEyes.label>
+  <!-- EN: gravel -->
+  <GravelInEyes.labelNoun>χαλίκι</GravelInEyes.labelNoun>
+  
+  <!-- EN: mud -->
+  <MudInEyes.label>λάσπη</MudInEyes.label>
+  <!-- EN: mud -->
+  <MudInEyes.labelNoun>λάσπη</MudInEyes.labelNoun>
+  
+  <!-- EN: sand -->
+  <SandInEyes.label>άμμος</SandInEyes.label>
+  <!-- EN: sand -->
+  <SandInEyes.labelNoun>άμμος</SandInEyes.labelNoun>
+  
+  <!-- EN: water -->
+  <WaterInEyes.label>νερό</WaterInEyes.label>
+  <!-- EN: water -->
+  <WaterInEyes.labelNoun>νερό</WaterInEyes.labelNoun>
+  
+</LanguageData>

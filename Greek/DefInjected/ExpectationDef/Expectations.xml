@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: extremely low -->
+  <ExtremelyLow.label>υπερβολικά χαμηλή</ExtremelyLow.label>
+  
+  <!-- EN: high -->
+  <High.label>υψηλή</High.label>
+  
+  <!-- EN: low -->
+  <Low.label>χαμηλή</Low.label>
+  
+  <!-- EN: moderate -->
+  <Moderate.label>κανονική</Moderate.label>
+  
+  <!-- EN: sky high -->
+  <SkyHigh.label>στα ύψη</SkyHigh.label>
+  
+  <!-- EN: very low -->
+  <VeryLow.label>πολύ χαμηλή</VeryLow.label>
+  
+</LanguageData>

@@ -1,68 +1,48 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Muffalo.label>μίσονας</Muffalo.label>
-  <Muffalo.description>Ένα μεγάλο φυτοφάγο που κατάγεται από τους βίσονες και προσαρμόστηκε σε κάποιο εξωτικό περιβάλλον. Ειρηνικό αν δεν διαταραχθεί.</Muffalo.description>
-  <Muffalo.tools.0.label>κεφάλι</Muffalo.tools.0.label>
-  <Muffalo_Leather.label>δέρμα μίσονα</Muffalo_Leather.label>
-  <Muffalo_Leather.description>πετσί από μίσονα</Muffalo_Leather.description>
-  <Muffalo_Leather.stuffProps.stuffAdjective>δέρμα μίσονα</Muffalo_Leather.stuffProps.stuffAdjective>
-  <Muffalo_Meat.label>κρέας μίσονα</Muffalo_Meat.label>
-  <Muffalo_Meat.description>κρέας από μίσονα</Muffalo_Meat.description>
-  <Muffalo_Corpse.label>κουφάρι μίσονα</Muffalo_Corpse.label>
-  <Muffalo_Corpse.description>πτώμα μίσονα</Muffalo_Corpse.description>
-
-  <Gazelle.label>γαζέλα</Gazelle.label>
-  <Gazelle.description>Μια μικρή, εξαιρετικά γρήγορη αντιλόπη γνωστή για το εκπληκτικά μεγάλο άλμα της.</Gazelle.description>
-  <Gazelle.tools.0.label>αριστερή οπλή</Gazelle.tools.0.label>
-  <Gazelle.tools.1.label>δεξιά οπλή</Gazelle.tools.1.label>
-  <Gazelle.tools.3.label>κεφάλι</Gazelle.tools.3.label>
-  <Gazelle_Leather.label>δέρμα γαζέλας</Gazelle_Leather.label>
-  <Gazelle_Leather.description>πετσί από γαζέλα</Gazelle_Leather.description>
-  <Gazelle_Leather.stuffProps.stuffAdjective>δέρμα γαζέλας</Gazelle_Leather.stuffProps.stuffAdjective>
-  <Gazelle_Meat.label>κρέας γαζέλας</Gazelle_Meat.label>
-  <Gazelle_Meat.description>κρέας από γαζέλα</Gazelle_Meat.description>
-  <Gazelle_Corpse.label>κουφάρι γαζέλας</Gazelle_Corpse.label>
-  <Gazelle_Corpse.description>πτώμα γαζέλας</Gazelle_Corpse.description>
-
-  <Iguana.label>ιγκουάνα</Iguana.label>
-  <Iguana.description>Αυτές οι μεγάλες σαύρες συνήθως τρέφονται με φυτική ύλη. Ωστόσο, όταν αγρεύουν, το σκληρό τους δέρμα και τα αιχμηρά νύχια τους τις κάνουν αρκετά επικίνδυνες.</Iguana.description>
-  <Iguana.tools.0.label>αριστερό νύχι</Iguana.tools.0.label>
-  <Iguana.tools.1.label>δεξιό νύχι</Iguana.tools.1.label>
-  <Iguana.tools.3.label>κεφάλι</Iguana.tools.3.label>
-  <Iguana_Leather.label>δέρμα ιγκουάνας</Iguana_Leather.label>
-  <Iguana_Leather.description>πετσί από ιγκουάνα</Iguana_Leather.description>
-  <Iguana_Leather.stuffProps.stuffAdjective>δέρμα ιγκουάνας</Iguana_Leather.stuffProps.stuffAdjective>
-  <Iguana_Meat.label>κρέας ιγκουάνας</Iguana_Meat.label>
-  <Iguana_Meat.description>κρέας από ιγκουάνα</Iguana_Meat.description>
-  <Iguana_Corpse.label>ψοφίμι ιγκουάνας</Iguana_Corpse.label>
-  <Iguana_Corpse.description>πτώμα ιγκουάνας</Iguana_Corpse.description>
-
-  <Rhinoceros.label>ρινόκερος</Rhinoceros.label>
-  <Rhinoceros.description>Αυτό το μεγάλο χερσαίο θηλαστικό είναι συνήθως αρκετά ήσυχο, αλλά δεν θα διστάσει να ορμίζει με το κέρατο του για να απομακρύνει τους καταπατητές.</Rhinoceros.description>
-  <Rhinoceros.tools.0.label>κέρατο</Rhinoceros.tools.0.label>
-  <Rhinoceros.tools.1.label>κέρατο</Rhinoceros.tools.1.label>
-  <Rhinoceros.tools.3.label>κεφάλι</Rhinoceros.tools.3.label>
-  <Rhinoceros_Leather.label>δέρμα ρινόκερου</Rhinoceros_Leather.label>
-  <Rhinoceros_Leather.description>πετσί από ρινόκερο</Rhinoceros_Leather.description>
-  <Rhinoceros_Leather.stuffProps.stuffAdjective>δέρμα ρινόκερου</Rhinoceros_Leather.stuffProps.stuffAdjective>
-  <Rhinoceros_Meat.label>κρέας ρινόκερου</Rhinoceros_Meat.label>
-  <Rhinoceros_Meat.description>κρέας από ρινόκερο</Rhinoceros_Meat.description>
-  <Rhinoceros_Corpse.label>κουφάρι ρινόκερου</Rhinoceros_Corpse.label>
-  <Rhinoceros_Corpse.description>πτώμα ρινόκερου</Rhinoceros_Corpse.description>
-
+  
+  <!-- EN: dromedary -->
   <Dromedary.label>δρομάδα</Dromedary.label>
-  <Dromedary.description>Προσαρμοσμένη στην επιβίωση σε ξηρά περιβάλλοντα, αυτός ο μακρινός ξάδελφος του αλόγου μπορεί να περάσει εβδομάδες χωρίς νερό.</Dromedary.description>
-  <Dromedary.tools.0.label>αριστερή οπλή</Dromedary.tools.0.label>
-  <Dromedary.tools.1.label>δεξιά οπλή</Dromedary.tools.1.label>
-  <Dromedary.tools.3.label>κεφάλι</Dromedary.tools.3.label>
-  <Dromedary_Leather.label>δέρμα δρομάδας</Dromedary_Leather.label>
-  <Dromedary_Leather.description>πετσί από δρομάδα</Dromedary_Leather.description>
-  <Dromedary_Leather.stuffProps.stuffAdjective>δέρμα δρομάδας</Dromedary_Leather.stuffProps.stuffAdjective>
-  <Dromedary_Meat.label>κρέας δρομάδας</Dromedary_Meat.label>
-  <Dromedary_Meat.description>κρέας από δρομάδα</Dromedary_Meat.description>
-  <Dromedary_Corpse.label>κουφάρι δρομάδας</Dromedary_Corpse.label>
-  <Dromedary_Corpse.description>πτώμα δρομάδας</Dromedary_Corpse.description>
-
-
+  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but its bouncing gait makes it too uncomfortable to ride for any distance.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking. -->
+  <Dromedary.description>Ένα μεγάλο χερσαίο θηλαστικό προσαρμοσμένο σε άγονα περιβάλλοντα. Εξημερωμένη από τα αρχαία χρόνια, το μαλλί και το δέρμα της είναι εξαιρετικά καλό μονωτικό ενάντια στην θερμότητα της ερήμου, και το γάλα της είναι αρκετά θρεπτικό. Μπορεί να χρησιμοποιηθεί ως υποζύγιο, αλλά ο ζωηρός της βηματισμός τη καθιστά πολύ άβολη για να καβαληθεί σε οποιαδήποτε απόσταση.\n\nΜε την αποθήκευση του νερού στις μεγάλες καμπούρες της και την ανάκτηση της υγρασίας από την αναπνοή της καθώς εκπνέει, μπορεί να περάσει εβδομάδες χωρίς νερό.</Dromedary.description>
+  <!-- EN: left hoof -->
+  <Dromedary.tools.left_hoof.label>αριστερή οπλή</Dromedary.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Dromedary.tools.right_hoof.label>δεξιά οπλή</Dromedary.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Dromedary.tools.head.label>κεφάλι</Dromedary.tools.head.label>
+  
+  <!-- EN: gazelle -->
+  <Gazelle.label>γαζέλα</Gazelle.label>
+  <!-- EN: A small, extremely quick antelope known for its amazingly long leap. -->
+  <Gazelle.description>Μια μικρή, εξαιρετικά γρήγορη αντιλόπη γνωστή για το εκπληκτικά μεγάλο άλμα της.</Gazelle.description>
+  <!-- EN: left hoof -->
+  <Gazelle.tools.left_hoof.label>αριστερή οπλή</Gazelle.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Gazelle.tools.right_hoof.label>δεξιά οπλή</Gazelle.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Gazelle.tools.head.label>κεφάλι</Gazelle.tools.head.label>
+  
+  <!-- EN: iguana -->
+  <Iguana.label>ιγκουάνα</Iguana.label>
+  <!-- EN: These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
+  <Iguana.description>Αυτές οι μεγάλες σαύρες συνήθως τρέφονται με φυτική ύλη. Ωστόσο, όταν αγρεύουν, το σκληρό τους δέρμα και τα αιχμηρά νύχια τους τις κάνουν αρκετά επικίνδυνες.\n\nΤα ιγκουάνα που ξεκουράζονται κρατούν ψηλά τα κεφάλια τους, δίνοντάς τους μια απολαυστική «περήφανη» ματιά. Αλλά δεν είναι υπερήφανοι, προσπαθούν απλώς να δουν τα αρπακτικά ζώα, ώστε να μην φαγωθούν.</Iguana.description>
+  <!-- EN: left claw -->
+  <Iguana.tools.left_claw.label>αριστερό νύχι</Iguana.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Iguana.tools.right_claw.label>δεξιό νύχι</Iguana.tools.right_claw.label>
+  <!-- EN: head -->
+  <Iguana.tools.head.label>κεφάλι</Iguana.tools.head.label>
+  
+  <!-- EN: muffalo -->
+  <Muffalo.label>μίσονας</Muffalo.label>
+  <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
+  <Muffalo.description>Ένας μεγαλόσωμο φυτοφάγο ζώο που κατάγεται από του βίσονες και προσαρμόστηκε στο κρύο και στο ζεστό περιβάλλον. Ενώ οι εξαγριωμένοι μίσονες είναι θανατηφόροι, οι εξημερωμένοι μίσονες είναι αρκετά υπάκουοι και μπορούν να χρησιμοποιηθούν ως υποζύγια.\n\nΚανείς δεν είναι σίγουρος γιατί είναι μπλε - ίσως να είναι και κάποια πρόωρη δοκιμή γενετικής τροποποίησης που δεν άλλαξε ποτέ.</Muffalo.description>
+  <!-- EN: head -->
+  <Muffalo.tools.head.label>κεφάλι</Muffalo.tools.head.label>
+  <!-- EN: left hoof -->
+  <Muffalo.tools.left_hoof.label>αριστερή οπλή</Muffalo.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Muffalo.tools.right_hoof.label>δεξιά οπλή</Muffalo.tools.right_hoof.label>
+  
 </LanguageData>

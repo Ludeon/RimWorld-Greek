@@ -1,18 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: human -->
   <Human.label>άνθρωπος</Human.label>
+  <!-- EN: A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets. -->
   <Human.description>Ένας βασικός άνθρωπος, ως επί το πλείστον αμετάλλακτος από τη γενετική μηχανική και ως επί το πλείστον αμετάβλητος από εξελικτικές διαδικασίες σε μη γαιόμορφους πλανήτες.</Human.description>
-  <Human.tools.0.label>αριστερή γροθιά</Human.tools.0.label>
-  <Human.tools.1.label>δεξιά γροθιά</Human.tools.1.label>
-  <Human.tools.2.label>κεφάλι</Human.tools.2.label>
-  <Human_Leather.label>ανθρώπινο δέρμα</Human_Leather.label>
-  <Human_Leather.description>πετσί από άνθρωπο</Human_Leather.description>
-  <Human_Leather.stuffProps.stuffAdjective>ανθρώπινο δέρμα</Human_Leather.stuffProps.stuffAdjective>
-  <Human_Meat.label>ανθρώπινο κρέας</Human_Meat.label>
-  <Human_Meat.description>κρέας από άνθρωπο</Human_Meat.description>
-  <Human_Corpse.label>ανθρώπινος σορός</Human_Corpse.label>
-  <Human_Corpse.description>πτώμα ανθρώπου</Human_Corpse.description>
-
-
+  <!-- EN: left fist -->
+  <Human.tools.left_fist.label>αριστερή γροθιά</Human.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Human.tools.right_fist.label>δεξιά γροθιά</Human.tools.right_fist.label>
+  <!-- EN: teeth -->
+  <Human.tools.teeth.label>δόντια</Human.tools.teeth.label>
+  <!-- EN: head -->
+  <Human.tools.head.label>κεφάλι</Human.tools.head.label>
+  
 </LanguageData>

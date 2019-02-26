@@ -1,44 +1,59 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Απλά εξορύξιμα (Simple mineables) -->
-
+  
+  <!-- EN: collapsed rocks -->
   <CollapsedRocks.label>σωριασμένοι βράχοι</CollapsedRocks.label>
+  <!-- EN: Collapsed rocks, packed tightly enough to hold up a roof. -->
   <CollapsedRocks.description>Βράχοι, σωριασμένοι και τοποθετημένοι αρκετά καλά ώστε να είναι σε θέση να υποστηρίξουν μία οροφή.</CollapsedRocks.description>
-
-
-  <!-- Πέτρες πόρων (Resource rocks) -->
-
-  <MineableSteel.label>συμπαγές ατσάλι</MineableSteel.label>
-  <MineableSteel.description>TΤα ερείπια αρχαίας, καταρρακτωμένης δομής. Πλούσια σε ατσάλι.</MineableSteel.description>
-
-  <MineableSilver.label>ορυκτό ασημιού</MineableSilver.label>
-  <MineableSilver.description>Βράχος που περιέχει κομμάτια ασημιού.</MineableSilver.description>
-
-  <MineableGold.label>ορυκτό χρυσού</MineableGold.label>
-  <MineableGold.description>Βράχος που περιέχει κομμάτια χρυσού.</MineableGold.description>
-
-  <MineableUranium.label>ορυκτό ουράνιου</MineableUranium.label>
-  <MineableUranium.description>Βράχος που περιέχει κομμάτια ουράνιου.</MineableUranium.description>
-
-  <MineablePlasteel.label>συμπαγές πλαστέλ</MineablePlasteel.label>
-  <MineablePlasteel.description>Αρχαία συμπαγή ερείπια πλούσια σε πλαστέλ.</MineablePlasteel.description>
-
-  <MineableJade.label>νεφρίτης</MineableJade.label>
-  <MineableJade.description>Βράχος που περιέχει κομμάτια από νεφρίτη.</MineableJade.description>
-
-  <MineableComponents.label>συμπιεσμένοι μηχανισμοί</MineableComponents.label>
-  <MineableComponents.description>Αρχαία μηχανήματα, συμπιεσμένα με την πάροδο του χρόνου. Μπορείτε να τα εξορύξετε για χρήσιμα εξαρτήματα.</MineableComponents.description>
-
-  <SteamGeyser.label>>θερμός πίδακας</SteamGeyser.label>
-  <SteamGeyser.description>Φυσική πηγή ατμού.</SteamGeyser.description>
-
-  <Hive.label>κυψέλη</Hive.label>
-  <Hive.description>Μια κυψέλη από γιγαντιαία έντομα. Θα γεννήσουν επιπλέον έντομα και κυψέλες με την πάροδο του χρόνου.</Hive.description>
-
+  
+  <!-- EN: glow pod -->
   <GlowPod.label>σπόρος λάμψης</GlowPod.label>
+  <!-- EN: A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies. -->
   <GlowPod.description>Ένας φορέας βιοφωταύγειας που παράγεται από γιγαντιαία έντομα. Ανάβει κάτω από το δικό του φως για μεγάλο χρονικό διάστημα, και μετά πεθαίνει.</GlowPod.description>
-  <GlowPod_Blueprint_Install.label>σπόρος λάμψης (προσχέδιο)</GlowPod_Blueprint_Install.label>
-
-
+  
+  <!-- EN: hive -->
+  <Hive.label>κυψέλη</Hive.label>
+  <!-- EN: A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. -->
+  <Hive.description>Μια κυψέλη από γιγαντιαία έντομα. ΘΕάν ενεργοποιηθεί, θα δημιουργήσει επιπλέον έντομα και κυψέλες με την πάροδο του χρόνου, καθώς και πολύτιμη γέλη εντόμων.</Hive.description>
+  
+  <!-- EN: compacted machinery -->
+  <MineableComponentsIndustrial.label>συμπιεσμένοι μηχανισμοί</MineableComponentsIndustrial.label>
+  <!-- EN: Ancient machinery, compacted over time. Can be mined for useful components. -->
+  <MineableComponentsIndustrial.description>Αρχαία μηχανήματα, συμπιεσμένα με την πάροδο του χρόνου. Μπορείτε να τα εξορύξετε για χρήσιμα εξαρτήματα.</MineableComponentsIndustrial.description>
+  
+  <!-- EN: gold ore -->
+  <MineableGold.label>ορυκτό χρυσού</MineableGold.label>
+  <!-- EN: Rock containing bits of gold. -->
+  <MineableGold.description>Βράχος που περιέχει κομμάτια χρυσού.</MineableGold.description>
+  
+  <!-- EN: jade -->
+  <MineableJade.label>νεφρίτης</MineableJade.label>
+  <!-- EN: Rock containing bits of jade. -->
+  <MineableJade.description>Βράχος που περιέχει κομμάτια από νεφρίτη.</MineableJade.description>
+  
+  <!-- EN: compacted plasteel -->
+  <MineablePlasteel.label>συμπαγές πλαστέλ</MineablePlasteel.label>
+  <!-- EN: Ancient compacted rubble rich in plasteel. -->
+  <MineablePlasteel.description>Αρχαία συμπαγή ερείπια πλούσια σε πλαστέλ.</MineablePlasteel.description>
+  
+  <!-- EN: silver ore -->
+  <MineableSilver.label>ορυκτό ασημιού</MineableSilver.label>
+  <!-- EN: Rock containing bits of silver. -->
+  <MineableSilver.description>Βράχος που περιέχει κομμάτια ασημιού.</MineableSilver.description>
+  
+  <!-- EN: compacted steel -->
+  <MineableSteel.label>συμπαγές ατσάλι</MineableSteel.label>
+  <!-- EN: The remains of some ancient, collapsed structure. Rich in steel. -->
+  <MineableSteel.description>Τα ερείπια αρχαίας, καταρρακωμένης δομής. Πλούσια σε ατσάλι.</MineableSteel.description>
+  
+  <!-- EN: uranium ore -->
+  <MineableUranium.label>ορυκτό ουράνιου</MineableUranium.label>
+  <!-- EN: Rock containing bits of uranium. -->
+  <MineableUranium.description>Βράχος που περιέχει κομμάτια ουράνιου.</MineableUranium.description>
+  
+  <!-- EN: steam geyser -->
+  <SteamGeyser.label>>θερμός πίδακας</SteamGeyser.label>
+  <!-- EN: A natural source of high-pressure steam. Geothermal generators can harness the steam power. Rooms built over this will rapidly cook. -->
+  <SteamGeyser.description>Μια φυσική πηγή ατμού υψηλής πίεσης. Οι γεωθερμικές γεννήτριες μπορούν να αξιοποιήσουν την ισχύ του ατμού. Στα δωμάτια που κατασκευάζονται πάνω από αυτές το μαγείρεμα  θα είναι γρηγορότερο.</SteamGeyser.description>
+  
 </LanguageData>

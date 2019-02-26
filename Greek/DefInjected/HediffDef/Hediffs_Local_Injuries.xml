@@ -1,120 +1,240 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Απώλεια σωματικού μέλους (Missing body part) -->
-
-  <MissingBodyPart.label>λείπει μέλος σώματος</MissingBodyPart.label>
-  <MissingBodyPart.labelNoun>απολεσθέν μέλος σώματος</MissingBodyPart.labelNoun>
-
-
-  <!-- Τραύματα (Injuries) -->
-
-  <Misc.label>διάφορα</Misc.label>
-  <Misc.comps.0.labelTendedWell>επίδεσμος</Misc.comps.0.labelTendedWell>
-  <Misc.comps.0.labelTendedWellInner>ράμματα</Misc.comps.0.labelTendedWellInner>
-  <Misc.comps.0.labelSolidTendedWell>φροντίδα</Misc.comps.0.labelSolidTendedWell>
-  <Misc.injuryProps.destroyedLabel>Διαλυμένο</Misc.injuryProps.destroyedLabel>
-  <Misc.labelNoun>ένα τραύμα</Misc.labelNoun>
-
-  <Burn.label>κάψιμο</Burn.label>
-  <Burn.comps.0.labelTendedWell>επίδεσμος</Burn.comps.0.labelTendedWell>
-  <Burn.comps.0.labelTendedWellInner>ράμματα</Burn.comps.0.labelTendedWellInner>
-  <Burn.comps.0.labelSolidTendedWell>φροντίδα</Burn.comps.0.labelSolidTendedWell>
-  <Burn.comps.2.oldLabel>ουλή εγκαύματος</Burn.comps.2.oldLabel>
-  <Burn.injuryProps.destroyedLabel>Καυτηριασμένο</Burn.injuryProps.destroyedLabel>
-  <Burn.injuryProps.destroyedOutLabel>Κατακαμένο</Burn.injuryProps.destroyedOutLabel>
-  <Burn.labelNoun>ένα κάψιμο</Burn.labelNoun>
-
-  <Crush.label>σύνθλιψη</Crush.label>
-  <Crush.comps.0.labelTendedWell>επίδεσμος</Crush.comps.0.labelTendedWell>
-  <Crush.comps.0.labelTendedWellInner>ράμματα</Crush.comps.0.labelTendedWellInner>
-  <Crush.comps.0.labelSolidTendedWell>φροντίδα</Crush.comps.0.labelSolidTendedWell>
-  <Crush.comps.2.oldLabel>ουλή</Crush.comps.2.oldLabel>
-  <Crush.injuryProps.destroyedLabel>Συνθλιμμένο</Crush.injuryProps.destroyedLabel>
-  <Crush.labelNoun>ένα τραύμα από σύνθλιψη</Crush.labelNoun>
-
-  <Crack.label>σπάσιμο</Crack.label>
-  <Crack.comps.0.labelTendedWell>επούλωση</Crack.comps.0.labelTendedWell>
-  <Crack.comps.0.labelTendedWellInner>ανάρρωση</Crack.comps.0.labelTendedWellInner>
-  <Crack.comps.0.labelSolidTendedWell>φροντίδα</Crack.comps.0.labelSolidTendedWell>
-  <Crack.injuryProps.destroyedLabel>Σπασμένο</Crack.injuryProps.destroyedLabel>
-  <Crack.labelNoun>ένα τραύμα από σπάσιμο</Crack.labelNoun>
-
-  <Cut.label>κόψιμο</Cut.label>
-  <Cut.comps.0.labelTendedWell>επίδεσμος</Cut.comps.0.labelTendedWell>
-  <Cut.comps.0.labelTendedWellInner>ράμματα</Cut.comps.0.labelTendedWellInner>
-  <Cut.comps.0.labelSolidTendedWell>φροντίδα</Cut.comps.0.labelSolidTendedWell>
-  <Cut.comps.2.oldLabel>ουλή κοψίματος</Cut.comps.2.oldLabel>
-  <Cut.injuryProps.destroyedLabel>Κομμένο</Cut.injuryProps.destroyedLabel>
-  <Cut.injuryProps.destroyedOutLabel>Αφαιρεμένο</Cut.injuryProps.destroyedOutLabel>
-  <Cut.labelNoun>ένα κόψιμο</Cut.labelNoun>
-
-  <SurgicalCut.label>χειρουργική τομή</SurgicalCut.label>
-  <SurgicalCut.comps.0.labelTendedWell>επίδεσμος</SurgicalCut.comps.0.labelTendedWell>
-  <SurgicalCut.comps.0.labelTendedWellInner>ράμματα</SurgicalCut.comps.0.labelTendedWellInner>
-  <SurgicalCut.comps.0.labelSolidTendedWell>φροντίδα</SurgicalCut.comps.0.labelSolidTendedWell>
-  <SurgicalCut.comps.1.oldLabel>ουλή τομής</SurgicalCut.comps.1.oldLabel>
-  <SurgicalCut.labelNoun>μια χειρουργική τομή</SurgicalCut.labelNoun>
-
-  <Scratch.label>γρατζουνιά</Scratch.label>
-  <Scratch.comps.0.labelTendedWell>επίδεσμος</Scratch.comps.0.labelTendedWell>
-  <Scratch.comps.0.labelTendedWellInner>ράμματα</Scratch.comps.0.labelTendedWellInner>
-  <Scratch.comps.0.labelSolidTendedWell>φροντίδα</Scratch.comps.0.labelSolidTendedWell>
-  <Scratch.comps.2.oldLabel>ουλή γρατζουνιάς</Scratch.comps.2.oldLabel>
-  <Scratch.injuryProps.destroyedLabel>Σκισμένος</Scratch.injuryProps.destroyedLabel>
-  <Scratch.injuryProps.destroyedOutLabel>Σκισμένος</Scratch.injuryProps.destroyedOutLabel>
-  <Scratch.labelNoun>μία γρατζουνιά</Scratch.labelNoun>
-
+  
+  <!-- EN: bite -->
   <Bite.label>δαγκωνιά</Bite.label>
-  <Bite.comps.0.labelTendedWell>επίδεσμος</Bite.comps.0.labelTendedWell>
-  <Bite.comps.0.labelTendedWellInner>ράμματα</Bite.comps.0.labelTendedWellInner>
-  <Bite.comps.0.labelSolidTendedWell>φροντίδα</Bite.comps.0.labelSolidTendedWell>
-  <Bite.comps.2.oldLabel>ουλή δαγκωνιάς</Bite.comps.2.oldLabel>
+  <!-- EN: set -->
+  <Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>φροντίδα</Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Bite.comps.HediffComp_TendDuration.labelTendedWell>επίδεσμος</Bite.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Bite.comps.HediffComp_TendDuration.labelTendedWellInner>ράμματα</Bite.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: bite scar -->
+  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>ουλή δαγκωνιάς</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Bitten off -->
   <Bite.injuryProps.destroyedLabel>Δαγκωμένος</Bite.injuryProps.destroyedLabel>
+  <!-- EN: Bitten out -->
   <Bite.injuryProps.destroyedOutLabel>Δαγκωμένος</Bite.injuryProps.destroyedOutLabel>
+  <!-- EN: a bite wound -->
   <Bite.labelNoun>ένα τραύμα από δαγκωνιά</Bite.labelNoun>
-
-  <Stab.label>μαχαιριά</Stab.label>
-  <Stab.comps.0.labelTendedWell>επίδεσμος</Stab.comps.0.labelTendedWell>
-  <Stab.comps.0.labelTendedWellInner>ράμματα</Stab.comps.0.labelTendedWellInner>
-  <Stab.comps.0.labelSolidTendedWell>φροντίδα</Stab.comps.0.labelSolidTendedWell>
-  <Stab.comps.2.oldLabel>ουλή μαχαιριάς</Stab.comps.2.oldLabel>
-  <Stab.injuryProps.destroyedLabel>Κομμένος</Stab.injuryProps.destroyedLabel>
-  <Stab.injuryProps.destroyedOutLabel>Μαχαιρομένος</Stab.injuryProps.destroyedOutLabel>
-  <Stab.labelNoun>ένα τραύμα από μαχαίρι</Stab.labelNoun>
-
-  <Gunshot.label>πυροβολισμός</Gunshot.label>
-  <Gunshot.comps.0.labelTendedWell>επίδεσμος</Gunshot.comps.0.labelTendedWell>
-  <Gunshot.comps.0.labelTendedWellInner>ράμματα</Gunshot.comps.0.labelTendedWellInner>
-  <Gunshot.comps.0.labelSolidTendedWell>φροντίδα</Gunshot.comps.0.labelSolidTendedWell>
-  <Gunshot.comps.2.oldLabel>παλιά πληγή από σφαίρα</Gunshot.comps.2.oldLabel>
-  <Gunshot.comps.2.instantlyOldLabel>Μόνιμο τραύμα σφαίρας</Gunshot.comps.2.instantlyOldLabel>
-  <Gunshot.injuryProps.destroyedLabel>Τουφεκισμένος</Gunshot.injuryProps.destroyedLabel>
-  <Gunshot.injuryProps.destroyedOutLabel>Πιστολισμένος</Gunshot.injuryProps.destroyedOutLabel>
-  <Gunshot.labelNoun>ένα τραύμα πυροβολισμού</Gunshot.labelNoun>
-
-  <Shredded.label>σκίσιμο</Shredded.label>
-  <Shredded.comps.0.labelTendedWell>επίδεσμος</Shredded.comps.0.labelTendedWell>
-  <Shredded.comps.0.labelTendedWellInner>ράμματα</Shredded.comps.0.labelTendedWellInner>
-  <Shredded.comps.0.labelSolidTendedWell>φροντίδα</Shredded.comps.0.labelSolidTendedWell>
-  <Shredded.comps.2.oldLabel>ουλή</Shredded.comps.2.oldLabel>
-  <Shredded.injuryProps.destroyedLabel>Σκισμένος</Shredded.injuryProps.destroyedLabel>
-  <Shredded.injuryProps.destroyedOutLabel>Σκισμένος</Shredded.injuryProps.destroyedOutLabel>
-  <Shredded.labelNoun>ένα τραύμα από σκίσιμο</Shredded.labelNoun>
-
+  <!-- EN: {0} in the {1} -->
+  <Bite.labelNounPretty>{0} στο {1}</Bite.labelNounPretty>
+  
+  <!-- EN: bruise -->
   <Bruise.label>μελανιά</Bruise.label>
-  <Bruise.comps.0.labelTendedWell>επίδεσμος</Bruise.comps.0.labelTendedWell>
-  <Bruise.comps.0.labelTendedWellInner>ράμματα</Bruise.comps.0.labelTendedWellInner>
-  <Bruise.comps.0.labelSolidTendedWell>φροντίδα</Bruise.comps.0.labelSolidTendedWell>
+  <!-- EN: set -->
+  <Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>φροντίδα</Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Bruise.comps.HediffComp_TendDuration.labelTendedWell>επίδεσμος</Bruise.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>ράμματα</Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: Destroyed -->
   <Bruise.injuryProps.destroyedLabel>Διαλυμένο</Bruise.injuryProps.destroyedLabel>
+  <!-- EN: a bruise -->
   <Bruise.labelNoun>μία μελανιά</Bruise.labelNoun>
-
+  <!-- EN: {0} in the {1} -->
+  <Bruise.labelNounPretty>{0} στο {1}</Bruise.labelNounPretty>
+  
+  <!-- EN: burn -->
+  <Burn.label>κάψιμο</Burn.label>
+  <!-- EN: set -->
+  <Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>φροντίδα</Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Burn.comps.HediffComp_TendDuration.labelTendedWell>επίδεσμος</Burn.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Burn.comps.HediffComp_TendDuration.labelTendedWellInner>ράμματα</Burn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: burn scar -->
+  <Burn.comps.HediffComp_GetsPermanent.permanentLabel>ουλή εγκαύματος</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned off -->
+  <Burn.injuryProps.destroyedLabel>Καυτηριασμένο</Burn.injuryProps.destroyedLabel>
+  <!-- EN: Burned out -->
+  <Burn.injuryProps.destroyedOutLabel>Κατακαμένο</Burn.injuryProps.destroyedOutLabel>
+  <!-- EN: a burn -->
+  <Burn.labelNoun>ένα κάψιμο</Burn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Burn.labelNounPretty>{0} στο {1}</Burn.labelNounPretty>
+  
+  <!-- EN: crack -->
+  <Crack.label>σπάσιμο</Crack.label>
+  <!-- EN: set -->
+  <Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>φροντίδα</Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: healed -->
+  <Crack.comps.HediffComp_TendDuration.labelTendedWell>επούλωση</Crack.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: healed -->
+  <Crack.comps.HediffComp_TendDuration.labelTendedWellInner>ανάρρωση</Crack.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: permanent crack -->
+  <Crack.comps.HediffComp_GetsPermanent.permanentLabel>μόνιμο σπάσιμο</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Shattered -->
+  <Crack.injuryProps.destroyedLabel>Σπασμένο</Crack.injuryProps.destroyedLabel>
+  <!-- EN: a crack wound -->
+  <Crack.labelNoun>ένα τραύμα από σπάσιμο</Crack.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Crack.labelNounPretty>{0} στο {1}</Crack.labelNounPretty>
+  
+  <!-- EN: crush -->
+  <Crush.label>σύνθλιψη</Crush.label>
+  <!-- EN: set -->
+  <Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>φροντίδα</Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Crush.comps.HediffComp_TendDuration.labelTendedWell>επίδεσμος</Crush.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Crush.comps.HediffComp_TendDuration.labelTendedWellInner>ράμματα</Crush.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: mangled scar -->
+  <Crush.comps.HediffComp_GetsPermanent.permanentLabel>ουλή</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Crushed -->
+  <Crush.injuryProps.destroyedLabel>Συνθλιμμένο</Crush.injuryProps.destroyedLabel>
+  <!-- EN: a crush wound -->
+  <Crush.labelNoun>ένα τραύμα από σύνθλιψη</Crush.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Crush.labelNounPretty>{0} στο {1}</Crush.labelNounPretty>
+  
+  <!-- EN: cut -->
+  <Cut.label>κόψιμο</Cut.label>
+  <!-- EN: set -->
+  <Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>φροντίδα</Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Cut.comps.HediffComp_TendDuration.labelTendedWell>επίδεσμος</Cut.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Cut.comps.HediffComp_TendDuration.labelTendedWellInner>ράμματα</Cut.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: cut scar -->
+  <Cut.comps.HediffComp_GetsPermanent.permanentLabel>ουλή κοψίματος</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Cut off -->
+  <Cut.injuryProps.destroyedLabel>Κομμένο</Cut.injuryProps.destroyedLabel>
+  <!-- EN: Cut out -->
+  <Cut.injuryProps.destroyedOutLabel>Αφαιρεμένο</Cut.injuryProps.destroyedOutLabel>
+  <!-- EN: a cut -->
+  <Cut.labelNoun>ένα κόψιμο</Cut.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Cut.labelNounPretty>{0} στο {1}</Cut.labelNounPretty>
+  
+  <!-- EN: frostbite -->
   <Frostbite.label>κρυοπάγημα</Frostbite.label>
-  <Frostbite.comps.0.labelTendedWell>επίδεσμος</Frostbite.comps.0.labelTendedWell>
-  <Frostbite.comps.0.labelTendedWellInner>ράμματα</Frostbite.comps.0.labelTendedWellInner>
-  <Frostbite.comps.0.labelSolidTendedWell>φροντίδα</Frostbite.comps.0.labelSolidTendedWell>
-  <Frostbite.comps.2.oldLabel>σημάδι κρυοπαγήματος</Frostbite.comps.2.oldLabel>
+  <!-- EN: set -->
+  <Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>φροντίδα</Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Frostbite.comps.HediffComp_TendDuration.labelTendedWell>επίδεσμος</Frostbite.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>ράμματα</Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: frostbite scar -->
+  <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>σημάδι κρυοπαγήματος</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Lost to frostbite -->
   <Frostbite.injuryProps.destroyedLabel>Χάθηκε από κρυοπάγημα</Frostbite.injuryProps.destroyedLabel>
-
-
+  <!-- EN: {0} in the {1} -->
+  <Frostbite.labelNounPretty>{0} στο {1}</Frostbite.labelNounPretty>
+  
+  <!-- EN: gunshot -->
+  <Gunshot.label>πυροβολισμός</Gunshot.label>
+  <!-- EN: set -->
+  <Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>φροντίδα</Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Gunshot.comps.HediffComp_TendDuration.labelTendedWell>επίδεσμος</Gunshot.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>ράμματα</Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: permanent gunshot injury -->
+  <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>μόνιμο τραύμα σφαίρας</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <!-- EN: old gunshot -->
+  <Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>παλιά πληγή από σφαίρα</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Shot off -->
+  <Gunshot.injuryProps.destroyedLabel>Τουφεκισμένος</Gunshot.injuryProps.destroyedLabel>
+  <!-- EN: Shot out -->
+  <Gunshot.injuryProps.destroyedOutLabel>Πιστολισμένος</Gunshot.injuryProps.destroyedOutLabel>
+  <!-- EN: a gunshot wound -->
+  <Gunshot.labelNoun>ένα τραύμα πυροβολισμού</Gunshot.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Gunshot.labelNounPretty>{0} στο {1}</Gunshot.labelNounPretty>
+  
+  <!-- EN: misc -->
+  <Misc.label>διάφορα</Misc.label>
+  <!-- EN: set -->
+  <Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>φροντίδα</Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Misc.comps.HediffComp_TendDuration.labelTendedWell>επίδεσμος</Misc.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Misc.comps.HediffComp_TendDuration.labelTendedWellInner>ράμματα</Misc.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: Destroyed -->
+  <Misc.injuryProps.destroyedLabel>Διαλυμένο</Misc.injuryProps.destroyedLabel>
+  <!-- EN: an injury -->
+  <Misc.labelNoun>ένα τραύμα</Misc.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Misc.labelNounPretty>{0} στο {1}</Misc.labelNounPretty>
+  
+  <!-- EN: missing body part -->
+  <MissingBodyPart.label>λείπει μέλος σώματος</MissingBodyPart.label>
+  <!-- EN: a missing body part -->
+  <MissingBodyPart.labelNoun>απολεσθέν μέλος σώματος</MissingBodyPart.labelNoun>
+  <!-- EN: missing a {1} -->
+  <MissingBodyPart.labelNounPretty>λείπει ένα {1}</MissingBodyPart.labelNounPretty>
+  
+  <!-- EN: scratch -->
+  <Scratch.label>γρατζουνιά</Scratch.label>
+  <!-- EN: set -->
+  <Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>φροντίδα</Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Scratch.comps.HediffComp_TendDuration.labelTendedWell>επίδεσμος</Scratch.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>ράμματα</Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: scratch scar -->
+  <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>ουλή γρατζουνιάς</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Torn off -->
+  <Scratch.injuryProps.destroyedLabel>Σκισμένος</Scratch.injuryProps.destroyedLabel>
+  <!-- EN: Torn out -->
+  <Scratch.injuryProps.destroyedOutLabel>Σκισμένος</Scratch.injuryProps.destroyedOutLabel>
+  <!-- EN: a scratch -->
+  <Scratch.labelNoun>μία γρατζουνιά</Scratch.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Scratch.labelNounPretty>{0} στο {1}</Scratch.labelNounPretty>
+  
+  <!-- EN: shredded -->
+  <Shredded.label>σκίσιμο</Shredded.label>
+  <!-- EN: set -->
+  <Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>φροντίδα</Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Shredded.comps.HediffComp_TendDuration.labelTendedWell>επίδεσμος</Shredded.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>ράμματα</Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: shredded scar -->
+  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>ουλή</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Torn off -->
+  <Shredded.injuryProps.destroyedLabel>Σκισμένος</Shredded.injuryProps.destroyedLabel>
+  <!-- EN: Torn out -->
+  <Shredded.injuryProps.destroyedOutLabel>Σκισμένος</Shredded.injuryProps.destroyedOutLabel>
+  <!-- EN: a shredded wound -->
+  <Shredded.labelNoun>ένα τραύμα από σκίσιμο</Shredded.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Shredded.labelNounPretty>{0} στο {1}</Shredded.labelNounPretty>
+  
+  <!-- EN: stab -->
+  <Stab.label>μαχαιριά</Stab.label>
+  <!-- EN: set -->
+  <Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>φροντίδα</Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Stab.comps.HediffComp_TendDuration.labelTendedWell>επίδεσμος</Stab.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Stab.comps.HediffComp_TendDuration.labelTendedWellInner>ράμματα</Stab.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: stab scar -->
+  <Stab.comps.HediffComp_GetsPermanent.permanentLabel>ουλή μαχαιριάς</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Cut off -->
+  <Stab.injuryProps.destroyedLabel>Κομμένος</Stab.injuryProps.destroyedLabel>
+  <!-- EN: Cut out -->
+  <Stab.injuryProps.destroyedOutLabel>Μαχαιρομένος</Stab.injuryProps.destroyedOutLabel>
+  <!-- EN: a stab wound -->
+  <Stab.labelNoun>ένα τραύμα από μαχαίρι</Stab.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Stab.labelNounPretty>{0} στο {1}</Stab.labelNounPretty>
+  
+  <!-- EN: surgical cut -->
+  <SurgicalCut.label>χειρουργική τομή</SurgicalCut.label>
+  <!-- EN: set -->
+  <SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>φροντίδα</SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>επίδεσμος</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>ράμματα</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: surgical scar -->
+  <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>ουλή τομής</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: a surgical cut -->
+  <SurgicalCut.labelNoun>μια χειρουργική τομή</SurgicalCut.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <SurgicalCut.labelNounPretty>{0} στο {1}</SurgicalCut.labelNounPretty>
+  
 </LanguageData>

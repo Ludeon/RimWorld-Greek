@@ -1,121 +1,189 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ψυχικές καταρρεύσεις: βαριές (Mental breaks: extreme) -->
-
-  <Berserk.label>μανιασμένος</Berserk.label>
-  <Berserk.beginLetter>{0} έχει βγει έκτος εαυτού!</Berserk.beginLetter>
-  <Berserk.beginLetterLabel>μανιασμένος</Berserk.beginLetterLabel>
-  <Berserk.recoveryMessage>Η έξαλλη οργή HIS {0} έχει τελειώσει.</Berserk.recoveryMessage>
-  <Berserk.baseInspectLine>Ψυχολογική κατάσταση: Μανιασμένος</Berserk.baseInspectLine>
-
-  <FireStartingSpree.label>πυρομανία</FireStartingSpree.label>
-  <FireStartingSpree.beginLetter>{0} βρίσκει ευχάριστο να βάζει φωτιές.</FireStartingSpree.beginLetter>
-  <FireStartingSpree.beginLetterLabel>πυρομανία</FireStartingSpree.beginLetterLabel>
-  <FireStartingSpree.recoveryMessage>HISCAP {0} δεν HIS αρέσει πλέον να βάζει φωτιές.</FireStartingSpree.recoveryMessage>
-  <FireStartingSpree.baseInspectLine>Ψυχολογική κατάσταση: Πυρομανία</FireStartingSpree.baseInspectLine>
-
-  <GiveUpExit.label>εγκατάλειψη και φυγή</GiveUpExit.label>
-  <GiveUpExit.beginLetter>{0} αποχωρεί από την αποικία.</GiveUpExit.beginLetter>
-  <GiveUpExit.beginLetterLabel>τα παρατάει</GiveUpExit.beginLetterLabel>
-  <GiveUpExit.recoveryMessage>κάτι άλλαξε στη καρδιά HIS {0} και επιστρέφει στην αποικία.</GiveUpExit.recoveryMessage>
-  <GiveUpExit.baseInspectLine>Ψυχολογική κατάσταση: Εγκατάλειψη και φυγή</GiveUpExit.baseInspectLine>
-
-  <BingingDrugExtreme.label>κραιπάλη με ναρκωτικό</BingingDrugExtreme.label>
-  <BingingDrugExtreme.baseInspectLine>Ψυχολογική κατάσταση: Κατάχρηση σε {0}</BingingDrugExtreme.baseInspectLine>
-
-  <Jailbreaker.label>παρακίνηση φυλακισμένου για δραπέτευση</Jailbreaker.label>
-  <Jailbreaker.beginLetter>{0} έχει μια διανοητική διαταραχή και παρακινεί τους φυλακισμένους να δραπετεύσουν.</Jailbreaker.beginLetter>
-  <Jailbreaker.beginLetterLabel>δραπέτης</Jailbreaker.beginLetterLabel>
-  <Jailbreaker.recoveryMessage>{0} δεν παρακινεί άλλο τους κρατούμενους να το σκάσουν.</Jailbreaker.recoveryMessage>
-  <Jailbreaker.baseInspectLine>Ψυχολογική κατάσταση: Δραπέτης</Jailbreaker.baseInspectLine>
-
-  <Slaughterer.label>μακελάρης</Slaughterer.label>
-  <Slaughterer.beginLetter>{0} έχει μια διανοητική διαταραχή και εξαπολύει την οργή HIS στα ζώα σας.</Slaughterer.beginLetter>
-  <Slaughterer.beginLetterLabel>μακελάρης</Slaughterer.beginLetterLabel>
-  <Slaughterer.recoveryMessage>{0} δεν σφάζει πλέον ζώα στην τύχη.</Slaughterer.recoveryMessage>
-  <Slaughterer.baseInspectLine>Ψυχολογική κατάσταση: Μακελάρης</Slaughterer.baseInspectLine>
-
-  <MurderousRage.label>δολοφονική οργή</MurderousRage.label>
-  <MurderousRage.beginLetter>{0} έχει καταβληθεί από δολοφονική μανία. HECAP προσπαθεί να σκοτώσει {1}.</MurderousRage.beginLetter>
-  <MurderousRage.beginLetterLabel>δολοφονική οργή</MurderousRage.beginLetterLabel>
-  <MurderousRage.recoveryMessage>έφυγε η δολοφονική μανία HIS {0}.</MurderousRage.recoveryMessage>
-  <MurderousRage.baseInspectLine>Ψυχολογική κατάσταση: Δολοφονική οργή</MurderousRage.baseInspectLine>
-
-
-  <!--  Ψυχικές καταρρεύσεις: σοβαρές (Mental breaks: major) -->
-
-  <BingingDrugMajor.label>Κατάχρηση σε ναρκωτικό</BingingDrugMajor.label>
-  <BingingDrugMajor.baseInspectLine>Ψυχολογική κατάσταση: Κατάχρηση σε {0}</BingingDrugMajor.baseInspectLine>
-
-  <WanderPsychotic.label>περιφέρετε με ψύχωση</WanderPsychotic.label>
-  <WanderPsychotic.beginLetter>{0} περιπλανιέται τριγύρω σε ψυχωτική κατάσταση.</WanderPsychotic.beginLetter>
-  <WanderPsychotic.beginLetterLabel>σύγχυση</WanderPsychotic.beginLetterLabel>
-  <WanderPsychotic.recoveryMessage>{0} δεν είναι πλέον σε ψυχωτική κατάσταση.</WanderPsychotic.recoveryMessage>
-  <WanderPsychotic.baseInspectLine>Ψυχολογική κατάσταση: Περιφέρετε με ψύχωση</WanderPsychotic.baseInspectLine>
-
-  <Tantrum.label>έκρηξη οργής</Tantrum.label>
-  <Tantrum.beginLetter>{0} βρίσκεται σε έκρηξη οργής.</Tantrum.beginLetter>
-  <Tantrum.beginLetterLabel>έκρηξη οργής</Tantrum.beginLetterLabel>
-  <Tantrum.recoveryMessage>πέρασε η έκρηξη οργής HIS {0}.</Tantrum.recoveryMessage>
-  <Tantrum.baseInspectLine>Ψυχολογική κατάσταση: Έκρηξη οργής</Tantrum.baseInspectLine>
-
-  <TargetedTantrum.label>κρίση υστερίας</TargetedTantrum.label>
-  <TargetedTantrum.beginLetter>{0} έχει μία κρίση υστερίας. HECAP προσπαθεί να σπάσει {1}.</TargetedTantrum.beginLetter>
-  <TargetedTantrum.beginLetterLabel>κρίση υστερίας</TargetedTantrum.beginLetterLabel>
-  <TargetedTantrum.recoveryMessage>πέρασε η κρίση υστερίας HIS {0}.</TargetedTantrum.recoveryMessage>
-  <TargetedTantrum.baseInspectLine>Ψυχολογική κατάσταση: Κρίση υστερίας</TargetedTantrum.baseInspectLine>
-
+  
+  <!-- EN: tantrum -->
   <BedroomTantrum.label>νευρικό ξέσπασμα</BedroomTantrum.label>
-  <BedroomTantrum.beginLetter>{0} έχει ένα νευρικό ξέσπασμα. HECAP πάει να σπάσει τα έπιπλα στο δωμάτιό HIS.</BedroomTantrum.beginLetter>
-  <BedroomTantrum.beginLetterLabel>νευρικό ξέσπασμα</BedroomTantrum.beginLetterLabel>
-  <BedroomTantrum.recoveryMessage>πέρασε το νευρικό ξέσπασμα HIS {0}.</BedroomTantrum.recoveryMessage>
+  <!-- EN: Mental state: Tantrum -->
   <BedroomTantrum.baseInspectLine>Ψυχολογική κατάσταση: Νευρικό ξέσπασμα</BedroomTantrum.baseInspectLine>
-
-  <SadisticRage.label>σαδιστικό μένος</SadisticRage.label>
-  <SadisticRage.beginLetter>{0} έχει πιάσει σαδιστικό μένος. HECAP πάει να ξεσπάσει τον θυμό HIS πάνω στου φυλακισμένους.</SadisticRage.beginLetter>
-  <SadisticRage.beginLetterLabel>σαδιστικό μένος</SadisticRage.beginLetterLabel>
-  <SadisticRage.recoveryMessage>{0} δεν έχει πλέον σαδιστική οργή.</SadisticRage.recoveryMessage>
-  <SadisticRage.baseInspectLine>Ψυχολογική κατάσταση: Σαδιστικό μένος</SadisticRage.baseInspectLine>
-
+  <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room. -->
+  <BedroomTantrum.beginLetter>{0} έχει ένα νευρικό ξέσπασμα.\n\n{PAWN_pronoun} πάει να σπάσει τα έπιπλα στο δωμάτιό {PAWN_possessive}.</BedroomTantrum.beginLetter>
+  <BedroomTantrum.beginLetterLabel>νευρικό ξέσπασμα</BedroomTantrum.beginLetterLabel>
+  <!-- EN: {0} is no longer having a tantrum. -->
+  <BedroomTantrum.recoveryMessage>πέρασε το νευρικό ξέσπασμα {PAWN_possessive} {0}.</BedroomTantrum.recoveryMessage>
+  
+  <!-- EN: berserk -->
+  <Berserk.label>μανιασμένος</Berserk.label>
+  <!-- EN: Mental state: Berserk -->
+  <Berserk.baseInspectLine>Ψυχολογική κατάσταση: Μανιασμένος</Berserk.baseInspectLine>
+  <!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
+  <Berserk.beginLetter>{0} έχει βγει έκτος εαυτού!\n\n[PAWN_pronoun] θα επιτεθεί σε όποιον δει μπροστά [PAWN_pronoun].</Berserk.beginLetter>
+  <Berserk.beginLetterLabel>μανιασμένος</Berserk.beginLetterLabel>
+  <!-- EN: {0}'s berserk rage has come to an end. -->
+  <Berserk.recoveryMessage>Η έξαλλη οργή {PAWN_possessive} {0} έχει τελειώσει.</Berserk.recoveryMessage>
+  
+  <!-- EN: binging on drug -->
+  <Binging_DrugExtreme.label>κραιπάλη με ναρκωτικό</Binging_DrugExtreme.label>
+  <!-- EN: Mental state: Binging on {0} -->
+  <Binging_DrugExtreme.baseInspectLine>Ψυχολογική κατάσταση: Κατάχρηση σε {0}</Binging_DrugExtreme.baseInspectLine>
+  
+  <!-- EN: binging on drug -->
+  <Binging_DrugMajor.label>Κατάχρηση σε ναρκωτικό</Binging_DrugMajor.label>
+  <!-- EN: Mental state: Binging on {0} -->
+  <Binging_DrugMajor.baseInspectLine>Ψυχολογική κατάσταση: Κατάχρηση σε {0}</Binging_DrugMajor.baseInspectLine>
+  
+  <!-- EN: binging on food -->
+  <Binging_Food.label>λαιμαργία στο φαγητό</Binging_Food.label>
+  <!-- EN: Mental state: Pigging out -->
+  <Binging_Food.baseInspectLine>Ψυχολογική κατάσταση: Λαιμαργία</Binging_Food.baseInspectLine>
+  <!-- EN: {0} is pigging out on food. -->
+  <Binging_Food.beginLetter>{0} κατασπαράζει τα τρόφιμα.</Binging_Food.beginLetter>
+  <!-- EN: food binge -->
+  <Binging_Food.beginLetterLabel>τρώει τον αγλέουρα</Binging_Food.beginLetterLabel>
+  <!-- EN: {0} is no longer pigging out on food. -->
+  <Binging_Food.recoveryMessage>{PAWN_possessive} {0} {PAWN_possessive} πέρασε η λαιμαργία για φαγητό.</Binging_Food.recoveryMessage>
+  
+  <!-- EN: corpse obsession -->
   <CorpseObsession.label>εμμονή για πτώματα</CorpseObsession.label>
-  <CorpseObsession.beginLetter>{0} έχει καταβάλει μία εμμονή για πτώματα. HECAP πάει να ξεθάψει έναν νεκρό.</CorpseObsession.beginLetter>
-  <CorpseObsession.beginLetterLabel>εμμονή για πτώματα</CorpseObsession.beginLetterLabel>
-  <CorpseObsession.recoveryMessage>{0} δεν έχει πλέον εμμονή για πτώματα.</CorpseObsession.recoveryMessage>
+  <!-- EN: Mental state: Corpse obsession -->
   <CorpseObsession.baseInspectLine>Ψυχολογική κατάσταση: Εμμονή για πτώματα</CorpseObsession.baseInspectLine>
-
-
-  <!--  Ψυχικές καταρρεύσεις: ελαφριές (Mental breaks: minor) -->
-
-  <BingingFood.label>λαιμαργία στο φαγητό</BingingFood.label>
-  <BingingFood.beginLetter>{0} κατασπαράζει τα τρόφιμα.</BingingFood.beginLetter>
-  <BingingFood.beginLetterLabel>τρώει τον αγλέουρα</BingingFood.beginLetterLabel>
-  <BingingFood.recoveryMessage>HISCAP {0} HIS πέρασε η λαιμαργία για φαγητό.</BingingFood.recoveryMessage>
-  <BingingFood.baseInspectLine>Ψυχολογική κατάσταση: Λαιμαργία</BingingFood.baseInspectLine>
-
-  <WanderSad.label>περιπλανιέται λυπημένος</WanderSad.label>
-  <WanderSad.beginLetter>{0} περιφέρετε τριγύρω στεναχωρημένος.</WanderSad.beginLetter>
-  <WanderSad.beginLetterLabel>θλιμμένος περπατητής</WanderSad.beginLetterLabel>
-  <WanderSad.recoveryMessage>{0} δεν τριγυρνάει μέσα στη στεναχώρια.</WanderSad.recoveryMessage>
-  <WanderSad.baseInspectLine>Ψυχολογική κατάσταση: Περιπλανιέται λυπημένος</WanderSad.baseInspectLine>
-
-  <WanderOwnRoom.label>κάθετε μόνος του</WanderOwnRoom.label>
-  <WanderOwnRoom.beginLetter>{0} απομονώνετε στο δωμάτιό HIS.</WanderOwnRoom.beginLetter>
-  <WanderOwnRoom.beginLetterLabel>κρύβετε στο δωμάτιο</WanderOwnRoom.beginLetterLabel>
-  <WanderOwnRoom.recoveryMessage>{0} δεν κρύβεται πλέον στο δωμάτιό HIS.</WanderOwnRoom.recoveryMessage>
-  <WanderOwnRoom.baseInspectLine>Ψυχολογική κατάσταση: Κρύβεται στο δωμάτιο</WanderOwnRoom.baseInspectLine>
-
+  <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to dig up a corpse and present it for all to see. -->
+  <CorpseObsession.beginLetter>τον {0} τον έχει καταβάλει μία εμμονή για πτώματα.\n\n[PAWN_pronoun] πάει να ξεθάψει έναν νεκρό και θα τον φέρει να τον δουν όλοι.</CorpseObsession.beginLetter>
+  <CorpseObsession.beginLetterLabel>εμμονή για πτώματα</CorpseObsession.beginLetterLabel>
+  <!-- EN: {0} is no longer having a corpse obsession. -->
+  <CorpseObsession.recoveryMessage>{0} δεν έχει πλέον εμμονή για πτώματα.</CorpseObsession.recoveryMessage>
+  
+  <!-- EN: fire starting spree -->
+  <FireStartingSpree.label>πυρομανία</FireStartingSpree.label>
+  <!-- EN: Mental state: Fire starting spree -->
+  <FireStartingSpree.baseInspectLine>Ψυχολογική κατάσταση: Πυρομανία</FireStartingSpree.baseInspectLine>
+  <!-- EN: {0} is on a fire starting spree.\n\n[PAWN_pronoun] will wander around for a while, randomly starting fires. -->
+  <FireStartingSpree.beginLetter>{0} βρίσκει ευχάριστο να βάζει φωτιές.\n\n[PAWN_pronoun] θα τριγυρίζει για λίγο και θα βάζει τυχαία φωτιές.</FireStartingSpree.beginLetter>
+  <FireStartingSpree.beginLetterLabel>πυρομανία</FireStartingSpree.beginLetterLabel>
+  <!-- EN: {0} is no longer on a fire starting spree. -->
+  <FireStartingSpree.recoveryMessage>{PAWN_possessive} {0} δεν του αρέσει πλέον να βάζει φωτιές.</FireStartingSpree.recoveryMessage>
+  
+  <!-- EN: giving up and leaving -->
+  <GiveUpExit.label>εγκατάλειψη και φυγή</GiveUpExit.label>
+  <!-- EN: Mental state: Given up and leaving -->
+  <GiveUpExit.baseInspectLine>Ψυχολογική κατάσταση: Εγκατάλειψη και φυγή</GiveUpExit.baseInspectLine>
+  <!-- EN: {0} has given up on this community.\n\n[PAWN_pronoun] has decided to leave and pursue a better life elsewhere. You can try to arrest [PAWN_objective] as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] again some day. -->
+  <GiveUpExit.beginLetter>{0} αποχωρεί από την αποικία.\n\n[PAWN_pronoun] αποφάσισε να μας εγκαταλείψει και να αναζητήσει μια καλύτερη ζωή αλλού. Μπορείτε να προσπαθήσετε να [PAWN_objective] συλλάβετε καθώς φεύγει. Διαφορετικά, ενδέχεται να εμφανιστεί ξανά κάποια μέρα.</GiveUpExit.beginLetter>
+  <!-- EN: gave up -->
+  <GiveUpExit.beginLetterLabel>τα παρατάει</GiveUpExit.beginLetterLabel>
+  <!-- EN: {0} has had a change of heart and is coming back to the colony. -->
+  <GiveUpExit.recoveryMessage>κάτι άλλαξε στη καρδιά {PAWN_possessive} {0} και επιστρέφει στην αποικία.</GiveUpExit.recoveryMessage>
+  
+  <!-- EN: insulting spree -->
   <InsultingSpree.label>ευχαριστιέται να βρίζει</InsultingSpree.label>
-  <InsultingSpree.beginLetter>{0} ευχαριστιέται να βρίζει.</InsultingSpree.beginLetter>
-  <InsultingSpree.beginLetterLabel>ευχαριστιέται να βρίζει</InsultingSpree.beginLetterLabel>
-  <InsultingSpree.recoveryMessage>{0} σταμάτησε πλέων να βρίζει.</InsultingSpree.recoveryMessage>
+  <!-- EN: Mental state: Insulting spree -->
   <InsultingSpree.baseInspectLine>Ψυχολογική κατάσταση: Ευχαριστιέται να βρίζει</InsultingSpree.baseInspectLine>
-
+  <!-- EN: {0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others. -->
+  <InsultingSpree.beginLetter>{0} ευχαριστιέται να βρίζει.\n\n[PAWN_pronoun] θα περιφέρετε τριγύρω, προσβάλλοντας μερικούς άλλους</InsultingSpree.beginLetter>
+  <InsultingSpree.beginLetterLabel>ευχαριστιέται να βρίζει</InsultingSpree.beginLetterLabel>
+  <!-- EN: {0} is no longer on an insulting spree. -->
+  <InsultingSpree.recoveryMessage>{0} σταμάτησε πλέων να βρίζει.</InsultingSpree.recoveryMessage>
+  
+  <!-- EN: inducing prisoner to escape -->
+  <Jailbreaker.label>παρακίνηση φυλακισμένου για δραπέτευση</Jailbreaker.label>
+  <!-- EN: Mental state: Jailbreaker -->
+  <Jailbreaker.baseInspectLine>Ψυχολογική κατάσταση: Δραπέτης</Jailbreaker.baseInspectLine>
+  <!-- EN: {0} has a mental breakdown and is going to induce prisoners to escape. -->
+  <Jailbreaker.beginLetter>{0} έχει μια διανοητική διαταραχή και παρακινεί τους φυλακισμένους να δραπετεύσουν.</Jailbreaker.beginLetter>
+  <!-- EN: jailbreaker -->
+  <Jailbreaker.beginLetterLabel>δραπέτης</Jailbreaker.beginLetterLabel>
+  <!-- EN: {0} is no longer inducing prisoners to escape. -->
+  <Jailbreaker.recoveryMessage>{0} δεν παρακινεί άλλο τους κρατούμενους να το σκάσουν.</Jailbreaker.recoveryMessage>
+  
+  <!-- EN: murderous rage -->
+  <MurderousRage.label>δολοφονική οργή</MurderousRage.label>
+  <!-- EN: Mental state: Murderous rage -->
+  <MurderousRage.baseInspectLine>Ψυχολογική κατάσταση: Δολοφονική οργή</MurderousRage.baseInspectLine>
+  <!-- EN: {0} has flown into a murderous rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
+  <MurderousRage.beginLetter>{0} έχει καταβληθεί από δολοφονική μανία.\n\n[PAWN_pronoun] προσπαθεί να σκοτώσει {1}.</MurderousRage.beginLetter>
+  <MurderousRage.beginLetterLabel>δολοφονική οργή</MurderousRage.beginLetterLabel>
+  <!-- EN: {0} is no longer in a murderous rage. -->
+  <MurderousRage.recoveryMessage>έφυγε η δολοφονική μανία {PAWN_possessive} {0}.</MurderousRage.recoveryMessage>
+  
+  <!-- EN: sadistic rage -->
+  <SadisticRage.label>σαδιστικό μένος</SadisticRage.label>
+  <!-- EN: Mental state: Sadistic rage -->
+  <SadisticRage.baseInspectLine>Ψυχολογική κατάσταση: Σαδιστικό μένος</SadisticRage.baseInspectLine>
+  <!-- EN: {0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners. -->
+  <SadisticRage.beginLetter>{0} έχει πιάσει σαδιστικό μένος.\n\n[PAWN_pronoun] πάει να ξεσπάσει τον θυμό [PAWN_possessive] πάνω στους φυλακισμένους.</SadisticRage.beginLetter>
+  <SadisticRage.beginLetterLabel>σαδιστικό μένος</SadisticRage.beginLetterLabel>
+  <!-- EN: {0} is no longer in a sadistic rage. -->
+  <SadisticRage.recoveryMessage>{0} δεν έχει πλέον σαδιστική οργή.</SadisticRage.recoveryMessage>
+  
+  <!-- EN: slaughterer -->
+  <Slaughterer.label>μακελάρης</Slaughterer.label>
+  <!-- EN: Mental state: Slaughterer -->
+  <Slaughterer.baseInspectLine>Ψυχολογική κατάσταση: Μακελάρης</Slaughterer.baseInspectLine>
+  <!-- EN: {0} has a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
+  <Slaughterer.beginLetter>{0} έχει μια διανοητική διαταραχή και εξαπολύει την οργή {PAWN_possessive} στα ζώα σας.</Slaughterer.beginLetter>
+  <Slaughterer.beginLetterLabel>μακελάρης</Slaughterer.beginLetterLabel>
+  <!-- EN: {0} is no longer slaughtering random animals. -->
+  <Slaughterer.recoveryMessage>{0} δεν σφάζει πλέον ζώα στην τύχη.</Slaughterer.recoveryMessage>
+  
+  <!-- EN: tantrum -->
+  <Tantrum.label>έκρηξη οργής</Tantrum.label>
+  <!-- EN: Mental state: Tantrum -->
+  <Tantrum.baseInspectLine>Ψυχολογική κατάσταση: Έκρηξη οργής</Tantrum.baseInspectLine>
+  <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] will smash up random furniture, items and structures. -->
+  <Tantrum.beginLetter>{0} βρίσκεται σε έκρηξη οργής.\n\n[PAWN_pronoun] θα καταστρέφει τυχαία έπιπλα, αντικείμενα και κατασκευές.</Tantrum.beginLetter>
+  <Tantrum.beginLetterLabel>έκρηξη οργής</Tantrum.beginLetterLabel>
+  <!-- EN: {0} is no longer having a tantrum. -->
+  <Tantrum.recoveryMessage>πέρασε η έκρηξη οργής {PAWN_possessive} {0}.</Tantrum.recoveryMessage>
+  
+  <!-- EN: insulting spree -->
   <TargetedInsultingSpree.label>ευχαριστιέται να προσβάλει</TargetedInsultingSpree.label>
-  <TargetedInsultingSpree.beginLetter>HISCAP {0} HIS αρέσει να προσβάλει {1}.</TargetedInsultingSpree.beginLetter>
+  <!-- EN: Mental state: Insulting spree against {0} -->
+  <TargetedInsultingSpree.baseInspectLine>Ψυχολογική κατάσταση: Ευχαριστιέται να προσβάλει {0}</TargetedInsultingSpree.baseInspectLine>
+  <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
+  <TargetedInsultingSpree.beginLetter>[PAWN_possessive] {0} αρέσει να προσβάλει τον {1}.\n\n[PAWN_pronoun] ακολουθεί τον {1} και του ρίχνει μπινελίκια.</TargetedInsultingSpree.beginLetter>
   <TargetedInsultingSpree.beginLetterLabel>ευχαριστιέται να προσβάλει</TargetedInsultingSpree.beginLetterLabel>
   <TargetedInsultingSpree.recoveryMessage>{0} σταμάτησε πλέων να προσβάλει τους άλλους</TargetedInsultingSpree.recoveryMessage>
-  <TargetedInsultingSpree.baseInspectLine>Ψυχολογική κατάσταση: Ευχαριστιέται να προσβάλει {0}</TargetedInsultingSpree.baseInspectLine>
-
-
+  
+  <!-- EN: tantrum -->
+  <TargetedTantrum.label>κρίση υστερίας</TargetedTantrum.label>
+  <!-- EN: Mental state: Tantrum -->
+  <TargetedTantrum.baseInspectLine>Ψυχολογική κατάσταση: Κρίση υστερίας</TargetedTantrum.baseInspectLine>
+  <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to destroy {1}. -->
+  <TargetedTantrum.beginLetter>{0} έχει μία κρίση υστερίας.\n\n[PAWN_pronoun] πάει να σπάσει το {1}.</TargetedTantrum.beginLetter>
+  <TargetedTantrum.beginLetterLabel>κρίση υστερίας</TargetedTantrum.beginLetterLabel>
+  <!-- EN: {0} is no longer having a tantrum. -->
+  <TargetedTantrum.recoveryMessage>πέρασε η κρίση υστερίας {PAWN_possessive} {0}.</TargetedTantrum.recoveryMessage>
+  
+  <!-- EN: sitting alone -->
+  <Wander_OwnRoom.label>κάθετε μόνος του</Wander_OwnRoom.label>
+  <!-- EN: Mental state: Hiding in room -->
+  <Wander_OwnRoom.baseInspectLine>Ψυχολογική κατάσταση: Κρύβεται στο δωμάτιο</Wander_OwnRoom.baseInspectLine>
+  <!-- EN: {0} is hiding in [PAWN_possessive] room. -->
+  <Wander_OwnRoom.beginLetter>{0} απομονώνετε στο δωμάτιό {PAWN_possessive}.</Wander_OwnRoom.beginLetter>
+  <!-- EN: hide in room -->
+  <Wander_OwnRoom.beginLetterLabel>κρύβετε στο δωμάτιο</Wander_OwnRoom.beginLetterLabel>
+  <!-- EN: {0} is no longer hiding in [PAWN_possessive] room. -->
+  <Wander_OwnRoom.recoveryMessage>{0} δεν κρύβεται πλέον στο δωμάτιό {PAWN_possessive}.</Wander_OwnRoom.recoveryMessage>
+  
+  <!-- EN: wandering in psychosis -->
+  <Wander_Psychotic.label>περιφέρετε με ψύχωση</Wander_Psychotic.label>
+  <!-- EN: Mental state: Psychotic wandering -->
+  <Wander_Psychotic.baseInspectLine>Ψυχολογική κατάσταση: Περιφέρετε με ψύχωση</Wander_Psychotic.baseInspectLine>
+  <!-- EN: {0} is wandering around in a psychotic state. -->
+  <Wander_Psychotic.beginLetter>{0} περιπλανιέται τριγύρω σε ψυχωτική κατάσταση.</Wander_Psychotic.beginLetter>
+  <!-- EN: daze -->
+  <Wander_Psychotic.beginLetterLabel>σύγχυση</Wander_Psychotic.beginLetterLabel>
+  <!-- EN: {0} is no longer wandering in a psychotic state. -->
+  <Wander_Psychotic.recoveryMessage>{0} δεν είναι πλέον σε ψυχωτική κατάσταση.</Wander_Psychotic.recoveryMessage>
+  
+  <!-- EN: sad wandering -->
+  <Wander_Sad.label>περιπλανιέται λυπημένος</Wander_Sad.label>
+  <!-- EN: Mental state: Sad wandering -->
+  <Wander_Sad.baseInspectLine>Ψυχολογική κατάσταση: Περιπλανιέται λυπημένος</Wander_Sad.baseInspectLine>
+  <!-- EN: {0} has broken down and is wandering around in sadness. -->
+  <Wander_Sad.beginLetter>{0} έχει γίνει κουρέλι και περιφέρετε τριγύρω στεναχωρημένος.</Wander_Sad.beginLetter>
+  <!-- EN: sad wander -->
+  <Wander_Sad.beginLetterLabel>θλιμμένος περπατητής</Wander_Sad.beginLetterLabel>
+  <!-- EN: {0} is no longer wandering in sadness. -->
+  <Wander_Sad.recoveryMessage>{0} δεν τριγυρνάει μέσα στη στεναχώρια.</Wander_Sad.recoveryMessage>
+  
 </LanguageData>

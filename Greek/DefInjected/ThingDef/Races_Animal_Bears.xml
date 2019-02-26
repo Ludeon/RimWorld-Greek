@@ -1,30 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <GrizzlyBear.label>αρκούδα γκρίζλι</GrizzlyBear.label>
-  <GrizzlyBear.description>Τεράστια παμφάγα θηλαστικά προσαρμοσμένα για ψυχρά κλίματα. Το παχύ λίπος και η γούνα τις κρατούν ζεστές το χειμώνα.\n\nΕνώ η συνηθισμένη διατροφή τους αποτελείται από ψάρι, μούρα, μέλι και μη αλλοιωμένο κρέας, η γκρίζλι  μπορεί να χρησιμοποιήσει την τεράστια δύναμή της και τα θανατηφόρα νύχια της για να σκοτώσει ζωντανή λεία. Είναι εκπληκτικά γρήγορες για τέτοια βαρυκίνητα πλάσματα.</GrizzlyBear.description>
-  <GrizzlyBear.tools.0.label>αριστερό νύχι</GrizzlyBear.tools.0.label>
-  <GrizzlyBear.tools.1.label>δεξιό νύχι</GrizzlyBear.tools.1.label>
-  <GrizzlyBear.tools.3.label>κεφάλι</GrizzlyBear.tools.3.label>
-  <GrizzlyBear_Leather.label>δέρμα αρκούδας</GrizzlyBear_Leather.label>
-  <GrizzlyBear_Leather.description>πετσί από αρκούδα</GrizzlyBear_Leather.description>
-  <GrizzlyBear_Leather.stuffProps.stuffAdjective>δέρμα αρκούδας</GrizzlyBear_Leather.stuffProps.stuffAdjective>
-  <GrizzlyBear_Meat.label>κρέας αρκούδας</GrizzlyBear_Meat.label>
-  <GrizzlyBear_Meat.description>κρέας από αρκούδα</GrizzlyBear_Meat.description>
-  <GrizzlyBear_Corpse.label>ψοφίμι αρκούδας γκρίζλι</GrizzlyBear_Corpse.label>
-  <GrizzlyBear_Corpse.description>πτώμα αρκούδας γκρίζλι</GrizzlyBear_Corpse.description>
-
-  <PolarBear.label>πολική αρκούδα</PolarBear.label>
-  <PolarBear.description>Μια μεγάλη λευκή αρκούδα που ζει στον απομακρυσμένο βορά. Το παχύ λίπος και η γούνα τις κρατούν ζεστές το χειμώνα.\n\nΕνώ η συνηθισμένη διατροφή τους αποτελείται από ψάρια και μη αλλοιωμένα κρέατα, η πολική αρκούδα είναι περισσότερο από ικανή να χρησιμοποιήσει την τεράστια δύναμή της και τα θανατηφόρα νύχια της για να σκοτώσει ζωντανά θηράματα. Είναι εκπληκτικά γρήγοροι για τέτοια βαρυκίνητα πλάσματα.</PolarBear.description>
-  <PolarBear.tools.0.label>αριστερό νύχι</PolarBear.tools.0.label>
-  <PolarBear.tools.1.label>δεξιό νύχι</PolarBear.tools.1.label>
-  <PolarBear.tools.3.label>κεφάλι</PolarBear.tools.3.label>
-  <PolarBear_Leather.label>δέρμα πολικής αρκούδας</PolarBear_Leather.label>
-  <PolarBear_Leather.description>πετσί από πολική αρκούδα</PolarBear_Leather.description>
-  <PolarBear_Leather.stuffProps.stuffAdjective>δέρμα πολικής αρκούδας</PolarBear_Leather.stuffProps.stuffAdjective>
-  <!-- Χρήση Κρέατος Από: Αρκούδα Γκρίζλι (Use Meat From: GrizzlyBear) -->
-  <PolarBear_Corpse.label>ψοφίμι πολικής αρκούδας</PolarBear_Corpse.label>
-  <PolarBear_Corpse.description>πτώμα πολικής αρκούδας</PolarBear_Corpse.description>
-
-
+  
+  <!-- EN: grizzly bear -->
+  <Bear_Grizzly.label>αρκούδα γκρίζλι</Bear_Grizzly.label>
+  <!-- EN: A huge omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the grizzly is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <Bear_Grizzly.description>Τεράστια παμφάγα θηλαστικά προσαρμοσμένα για ψυχρά κλίματα. Το παχύ λίπος και η γούνα τις κρατούν ζεστές το χειμώνα.\n\nΕνώ η συνηθισμένη διατροφή τους αποτελείται από ψάρι, μούρα, μέλι και πτώματα, η γκρίζλι  μπορεί να χρησιμοποιήσει την τεράστια δύναμή της και τα θανατηφόρα νύχια της για να σκοτώσει ζωντανή λεία. Είναι εκπληκτικά γρήγορες για τέτοια βαρυκίνητα πλάσματα.</Bear_Grizzly.description>
+  <!-- EN: bear meat -->
+  <Bear_Grizzly.race.meatLabel>κρέας αρκούδας</Bear_Grizzly.race.meatLabel>
+  <!-- EN: left claw -->
+  <Bear_Grizzly.tools.left_claw.label>αριστερό νύχι</Bear_Grizzly.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Bear_Grizzly.tools.right_claw.label>δεξιό νύχι</Bear_Grizzly.tools.right_claw.label>
+  <!-- EN: head -->
+  <Bear_Grizzly.tools.head.label>κεφάλι</Bear_Grizzly.tools.head.label>
+  
+  <!-- EN: polar bear -->
+  <Bear_Polar.label>πολική αρκούδα</Bear_Polar.label>
+  <!-- EN: A great white bear adapted for frozen climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear can also use its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <Bear_Polar.description>Μια μεγάλη λευκή αρκούδα που ζει στον απομακρυσμένο βορά. Το παχύ λίπος και η γούνα τις κρατούν ζεστές το χειμώνα.\n\nΕνώ η συνηθισμένη διατροφή τους αποτελείται από ψάρια και πτώματα, η πολική αρκούδα είναι περισσότερο από ικανή να χρησιμοποιήσει την τεράστια δύναμή της και τα θανατηφόρα νύχια της για να σκοτώσει ζωντανά θηράματα. Είναι εκπληκτικά γρήγοροι για τέτοια βαρυκίνητα πλάσματα.</Bear_Polar.description>
+  <!-- EN: left claw -->
+  <Bear_Polar.tools.left_claw.label>αριστερό νύχι</Bear_Polar.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Bear_Polar.tools.right_claw.label>δεξιό νύχι</Bear_Polar.tools.right_claw.label>
+  <!-- EN: head -->
+  <Bear_Polar.tools.head.label>κεφάλι</Bear_Polar.tools.head.label>
+  
 </LanguageData>

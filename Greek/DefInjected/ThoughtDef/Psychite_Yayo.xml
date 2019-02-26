@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <YayoHigh.stages.0.label>έχω φτιαχτεί με κόκα</YayoHigh.stages.0.label>
-  <YayoHigh.stages.0.description>Αισθάνομαι καύλα! Ας το κάνουμε!</YayoHigh.stages.0.description>
-
-
-  <!-- Εθισμός στο ψυχηλό (Psychite addiction) -->
-
-  <PsychiteWithdrawal.stages.1.label>στέρηση από το ψυχηλό</PsychiteWithdrawal.stages.1.label>
-  <PsychiteWithdrawal.stages.1.description>Θεέ μου είμαι κουρασμένος. Και τίποτα δεν είναι πλέον καλό.</PsychiteWithdrawal.stages.1.description>
-
-
+  
+  <!-- EN: psychite withdrawal -->
+  <PsychiteWithdrawal.stages.psychite_withdrawal.label>στέρηση από το ψυχηλό</PsychiteWithdrawal.stages.psychite_withdrawal.label>
+  <!-- EN: God I'm tired. Everything's so slow and boring. Especially me. -->
+  <PsychiteWithdrawal.stages.psychite_withdrawal.description>Θεέ μου είμαι κουρασμένος. Τα πάντα είναι τόσο αργά και βαρετά. Ειδικά εγώ.</PsychiteWithdrawal.stages.psychite_withdrawal.description>
+  
+  <!-- EN: high on yayo -->
+  <YayoHigh.stages.high_on_yayo.label>έχω φτιαχτεί με κόκα</YayoHigh.stages.high_on_yayo.label>
+  <!-- EN: Feeling pumped! Let's do this! -->
+  <YayoHigh.stages.high_on_yayo.description>Αισθάνομαι καύλα! Ας το κάνουμε!</YayoHigh.stages.high_on_yayo.description>
+  
 </LanguageData>

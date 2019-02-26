@@ -1,11 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Stun.label>αναισθησία</Stun.label>
-  <Stun.deathMessage>{0} αναισθητοποιήθηκε μέχρι θανάτου.</Stun.deathMessage>
-
+  
+  <!-- EN: EMP -->
   <EMP.label>ηλεκτρομαγνητικός παλμός</EMP.label>
+  <!-- EN: {0} has been EMPed to death. -->
   <EMP.deathMessage>{0} αποσβολώθηκε από τον ηλεκτρομαγνητικό παλμό μέχρι θανάτου.</EMP.deathMessage>
-
-
+  
+  <!-- EN: stun -->
+  <Stun.label>ζάλισμα</Stun.label>
+  <!-- EN: {0} has been stunned to death. -->
+  <Stun.deathMessage>{0} αναισθητοποιήθηκε μέχρι θανάτου.</Stun.deathMessage>
+  
 </LanguageData>

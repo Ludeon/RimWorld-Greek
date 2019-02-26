@@ -1,75 +1,112 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Καλά (Good) -->
-
-  <ResourcePodCrash.label>συντριβή ατράκτου εμπορευμάτων</ResourcePodCrash.label>
-  <PsychicSoothe.label>ψυχική ανακούφιση</PsychicSoothe.label>
-  <SelfTame.label>εξημερώθηκε μόνο του</SelfTame.label>
-
-  <AmbrosiaSprout.label>φύτρωσε αμβροσία</AmbrosiaSprout.label>
-  <AmbrosiaSprout.letterText>Μία συστάδα του μυστηριώδους θάμνου αμβροσίας έχει φυτρώσει εδώ κοντά! Αν περιμένετε τα φυτά να αναπτυχθούν, θα είστε σε θέση να μαζέψετε τα νόστιμα, ευχάριστα και ελαφρώς εθιστικά φρούτα.</AmbrosiaSprout.letterText>
-  <AmbrosiaSprout.letterLabel>Φύτρωσε αμβροσία</AmbrosiaSprout.letterLabel>
-
-  <FarmAnimalsWanderIn.label>οικόσιτα ζώα περιπλανιούνται</FarmAnimalsWanderIn.label>
-  <WandererJoin.label>ένωση με περιπλανώμενο</WandererJoin.label>
-  <RefugeePodCrash.label>συντριβή ατράκτου διαφυγής</RefugeePodCrash.label>
-
-
-  <!-- Ουδέτερα (Neutral) -->
-
-  <RefugeeChased.label>κυνηγημένος πρόσφυγας</RefugeeChased.label>
-  <ThrumboPasses.label>διέλευση θράμπο</ThrumboPasses.label>
-
-  <RansomDemand.label>απαίτηση λύτρων</RansomDemand.label>
-  <RansomDemand.letterLabel>Απαίτηση λύτρων</RansomDemand.letterLabel>
-
-  <CaravanRequest.label>αίτηση για καραβάνι</CaravanRequest.label>
-
-  <MeteoriteImpact.label>πρόσκρουση μετεωρίτη</MeteoriteImpact.label>
-  <MeteoriteImpact.letterText>Ένας μεγάλος μετεωρίτης έχει προσκρούσει στο έδαφος στην περιοχή. Έχει αφήσει πίσω του ένα κομμάτι {0}.</MeteoriteImpact.letterText>
-  <MeteoriteImpact.letterLabel>Μετεωρίτης</MeteoriteImpact.letterLabel>
-
-  <HerdMigration.label>μετανάστευση κοπαδιού</HerdMigration.label>
-  <HerdMigration.letterText>Ένα μεγάλο κοπάδι από {0} περνά μέσα από την περιοχή. Δεν θα επιτεθούν αν δεν προκληθούν.</HerdMigration.letterText>
-  <HerdMigration.letterLabel>Μετανάστευση κοπαδιού: {0}</HerdMigration.letterLabel>
-
-
-  <!-- Άσχημα (Bad) -->
-
-  <PsychicDrone.label>ψυχικός βόμβος</PsychicDrone.label>
-
-  <ToxicFallout.label>τοξικά κατάλοιπα</ToxicFallout.label>
-  <ToxicFallout.letterText>Μια μακρινή χημική πυρκαγιά έχει απελευθερώσει ένα νέφος από δηλητήριο σε όλη την περιοχή.\n\nΟποιοδήποτε άτομο ή πλάσμα που δεν βρίσκεται κάτω από μια στέγη θα αρρωστήσει σιγά, σιγά από την τοξική σκόνη που εμπεριέχεται στην ατμόσφαιρα.\n\nΘα διαρκέσει για οπουδήποτε μεταξύ μερικών ημερών και λιγότερο από μια εποχή.</ToxicFallout.letterText>
-  <ToxicFallout.letterLabel>Τοξικά κατάλοιπα</ToxicFallout.letterLabel>
-
-  <VolcanicWinter.label>ηφαιστειακός χειμώνας</VolcanicWinter.label>
-  <VolcanicWinter.letterText>Ένα απομακρυσμένο υπερηφαίστειο εξερράγη και άρχισε να εκπέμπει εκατομμύρια κυβικά χιλιόμετρα τέφρας στην ατμόσφαιρα.\n\n Η στάχτη στην ατμόσφαιρα θα σκιάζει τον ήλιο. Οι θερμοκρασίες θα πέσουν και τα φυτά θα υποφέρουν λόγω έλλειψης ηλιακού φωτός. Μπορεί να διαρκέσει λίγες εβδομάδες, ή μπορεί να διαρκέσει πολλές εποχές.</VolcanicWinter.letterText>
-  <VolcanicWinter.letterLabel>Ηφαιστειακός χειμώνας</VolcanicWinter.letterLabel>
-
-  <HeatWave.label>κύμα καύσωνα</HeatWave.label>
-  <HeatWave.letterText>Έχει ξεκινήσει ένα ασυνήθιστο κύμα καύσωνα.\n\nΤα κύματα καύσωνα μπορούν να σκοτώσουν γρήγορα αν οι άνθρωποι αρχίσουν να υποφέρουν από θερμοπληξία. Μείνετε δροσεροί, κατασκευάζοντας ένα ψυκτήρα ή πηγαίνοντας βαθιά κάτω από ένα βουνό.</HeatWave.letterText>
-  <HeatWave.letterLabel>Κύμα καύσωνα</HeatWave.letterLabel>
-
-  <ColdSnap.label>ψυχρές ριπές αέρα</ColdSnap.label>
-  <ColdSnap.letterText>Μία ασυνήθιστα ψυχρή κακοκαιρία βρίσκεται σε εξέλιξη.\n\nΟι ψυχρές ριπές αέρα μπορούν γρήγορα να σκοτώσουν από υποθερμία. Βεβαιωθείτε ότι έχετε χτίσει έναν θερμαινόμενο χώρο για να επιβιώσετε, να φορέσετε κατάλληλα ενδύματα και να προσπαθήσετε να συγκομίσετε τις καλλιέργειες πριν παγώσουν και ξεραθούν.</ColdSnap.letterText>
-  <ColdSnap.letterLabel>Ψυχρές ριπές αέρα</ColdSnap.letterLabel>
-
-  <Aurora.label>σέλας</Aurora.label>
-  <Aurora.letterText>Ένα όμορφο σέλας φωτίζει τον ουρανό.\n\nΤα κυματιστά χρώματα θα ενισχύσουν τη διάθεση όλων όσων βρίσκονται έξω για να τα δουν και θα κάνουν τη νύχτα πιο φωτεινή.</Aurora.letterText>
-  <Aurora.letterLabel>Σέλας</Aurora.letterLabel>
-
-  <Flashstorm.label>θύελλα αστραπών</Flashstorm.label>
-  <Flashstorm.letterText>Μια αφύσικη τοπική καταιγίδα κεραυνών χτυπά μια μικρή περιοχή με αστραπές. Αυτό μπορεί να προκαλέσει τεράστιες πυρκαγιές.</Flashstorm.letterText>
-  <Flashstorm.letterLabel>Θύελλα αστραπών</Flashstorm.letterLabel>
-
-  <Tornado.label>ανεμοστρόβιλος</Tornado.label>
-  <Tornado.letterText>Έχει σχηματιστεί ένας ανεμοστρόβιλος!\n\nΘα χαράξει μια διαδρομή καταστροφής μέσα στη περιοχή.</Tornado.letterText>
-  <Tornado.letterLabel>Ανεμοστρόβιλος</Tornado.letterLabel>
-
-  <ShortCircuit.label>βραχυκύκλωμα</ShortCircuit.label>
-  <CropBlight.label>ασθένεια φυτών</CropBlight.label>
+  
+  <!-- EN: alphabeavers -->
   <Alphabeavers.label>αλφακάστορες</Alphabeavers.label>
-
-
+  
+  <!-- EN: ambrosia sprout -->
+  <AmbrosiaSprout.label>βλάστηση αμβροσίας</AmbrosiaSprout.label>
+  <!-- EN: Ambrosia sprout -->
+  <AmbrosiaSprout.letterLabel>Βλάστηση αμβροσίας</AmbrosiaSprout.letterLabel>
+  <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
+  <AmbrosiaSprout.letterText>Μία συστάδα του μυστηριώδους θάμνου αμβροσίας έχει βλαστήσει εδώ κοντά! Εάν περιμένετε τα φυτά να αναπτυχθούν, θα είστε σε θέση να συγκομιστείτε τα νόστιμα, ευχάριστα και ελαφρώς εθιστικά φρούτα.</AmbrosiaSprout.letterText>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>ψυχρό κύμα</ColdSnap.label>
+  <!-- EN: Cold snap -->
+  <ColdSnap.letterLabel>Κύμα ψύχους</ColdSnap.letterLabel>
+  <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
+  <ColdSnap.letterText>Ένα ασυνήθιστο ψυχρό κύμα έχει καταφτάσει.\n\nΤα ψυχρά κύματα μπορούν γρήγορα να σκοτώσουν από υποθερμία. Βεβαιωθείτε ότι έχετε χτίσει έναν θερμαινόμενο χώρο για να επιβιώσετε, φορέσετε τα κατάλληλα ενδύματα και να προσπαθήστε να συγκομιστείτε τις καλλιέργειες πριν παγώσουν και πεθάνουν.</ColdSnap.letterText>
+  
+  <!-- EN: crop blight -->
+  <CropBlight.label>σήψη καλλιεργειών</CropBlight.label>
+  
+  <!-- EN: farm animals wander in -->
+  <FarmAnimalsWanderIn.label>οικόσιτα ζώα περιπλανώνται σε</FarmAnimalsWanderIn.label>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>θύελλα αστραπών</Flashstorm.label>
+  <!-- EN: Flashstorm -->
+  <Flashstorm.letterLabel>Θύελλα αστραπών</Flashstorm.letterLabel>
+  <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
+  <Flashstorm.letterText>Μια φρικιαστική τοπική καταιγίδα κεραυνών χτυπά μια μικρή περιοχή με αστραπές. Αυτό μπορεί να προκαλέσει τεράστιες πυρκαγιές.</Flashstorm.letterText>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>κύμα καύσωνα</HeatWave.label>
+  <!-- EN: Heat wave -->
+  <HeatWave.letterLabel>Κύμα καύσωνα</HeatWave.letterLabel>
+  <!-- EN: An unusual heat wave has begun.\n\nHeat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain. -->
+  <HeatWave.letterText>Έχει ξεκινήσει ένα ασυνήθιστο κύμα καύσωνα.\n\nΤα κύματα καύσωνα μπορούν να σκοτώσουν γρήγορα αν οι άνθρωποι αρχίσουν να υποφέρουν από θερμοπληξία. Μείνετε δροσεροί, οικοδομώντας ένα ψυκτήρα ή βαθιά κάτω από ένα βουνό.</HeatWave.letterText>
+  
+  <!-- EN: herd migration -->
+  <HerdMigration.label>μετανάστευση κοπαδιού</HerdMigration.label>
+  <!-- EN: Animal migration: {0} -->
+  <HerdMigration.letterLabel>Μετανάστευση ζώων: {0}</HerdMigration.letterLabel>
+  <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
+  <HerdMigration.letterText>Μια ομάδα {0} διέρχεται από την περιοχή.\n\nΔεν θα επιτεθούν αν δεν προκληθούν.</HerdMigration.letterText>
+  
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>σύγκρουση μετεωρίτη</MeteoriteImpact.label>
+  <!-- EN: Meteorite -->
+  <MeteoriteImpact.letterLabel>Μετεωρίτης</MeteoriteImpact.letterLabel>
+  <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
+  <MeteoriteImpact.letterText>Ένας μεγάλος μετεωρίτης έχει συγκρουστεί στο έδαφος της περιοχής. Έχει αφήσει πίσω του ένα κομμάτι {0}.</MeteoriteImpact.letterText>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>ψυχικό δρώμενο</PsychicDrone.label>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>ψυχική καταπράυνση</PsychicSoothe.label>
+  
+  <!-- EN: ransom demand -->
+  <RansomDemand.label>αίτηση για λύτρα</RansomDemand.label>
+  <!-- EN: Ransom demand -->
+  <RansomDemand.letterLabel>Αίτηση για λύτρα</RansomDemand.letterLabel>
+  
+  <!-- EN: chased refugee -->
+  <RefugeeChased.label>κυνηγημένος πρόσφυγας</RefugeeChased.label>
+  
+  <!-- EN: transport pod crash -->
+  <RefugeePodCrash.label>συντριβή μεταφορικής ατράκτου</RefugeePodCrash.label>
+  
+  <!-- EN: resource pod crash -->
+  <ResourcePodCrash.label>συντριβή εμπορικής ατράκτου</ResourcePodCrash.label>
+  
+  <!-- EN: self-tame -->
+  <SelfTame.label>αυτοεξημέρωση</SelfTame.label>
+  
+  <!-- EN: short circuit -->
+  <ShortCircuit.label>βραχυκύκλωμα</ShortCircuit.label>
+  
+  <!-- EN: thrumbos pass -->
+  <ThrumboPasses.label>διέλευση θρούμπο</ThrumboPasses.label>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>τοξικά ραδιενεργά κατάλοιπα</ToxicFallout.label>
+  <!-- EN: Toxic fallout -->
+  <ToxicFallout.letterLabel>Τοξικά ραδιενεργά κατάλοιπα</ToxicFallout.letterLabel>
+  <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a season. -->
+  <ToxicFallout.letterText>Μια μακρινή χημική πυρκαγιά έχει απελευθερώσει ένα δηλητηριώδες νέφος σε όλη την περιοχή.\n\nΟποιοδήποτε άτομο ή πλάσμα που δεν βρίσκεται κάτω από μια οροφή θα αρρωστήσει σταδιακά από την τοξική τέφρα που απομακρύνεται από την ατμόσφαιρα.\n\nΘα διαρκέσει για οπουδήποτε μεταξύ μερικών ημερών έως μια σεζόν.</ToxicFallout.letterText>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>ηφαιστειακός χειμώνας</VolcanicWinter.label>
+  <!-- EN: Volcanic winter -->
+  <VolcanicWinter.letterLabel>Ηφαιστειακός χειμώνας</VolcanicWinter.letterLabel>
+  <!-- EN: A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
+  <VolcanicWinter.letterText>Ένα μακρινό υπερηφαίστειο ξέσπασε και άρχισε να εκπέμπει σε χιλιόμετρα εκατομμύρια κυβικά τέφρας στην ατμόσφαιρα.\n\nΗ τέφρα στην ατμόσφαιρα θα καλύψει τον ήλιο. Οι θερμοκρασίες θα πέσουν και τα φυτά θα υποφέρουν λόγω έλλειψης ηλιακού φωτός. Μπορεί να περάσει σε λίγες εβδομάδες, ή μπορεί να διαρκέσει πολλά τετράκια.</VolcanicWinter.letterText>
+  
+  <!-- EN: wanderer join -->
+  <WandererJoin.label>ενσωμάτωση περιπλανώμενου</WandererJoin.label>
+  <!-- EN: Wanderer joins -->
+  <WandererJoin.letterLabel>Ενσωμάτωση περιπλανώμενου</WandererJoin.letterLabel>
+  <!-- EN: A {PAWN_kind} named {PAWN_nameDef} has arrived and is joining the colony. {PAWN_pronoun} is a {PAWN_title}.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
+  <WandererJoin.letterText>Ένας {PAWN_kind} με όνομα {PAWN_nameDef} έχει φθάσει και ενσωματωθεί στην αποικία. {PAWN_pronoun} είναι {PAWN_title}.\n\nΕίναι πρόθυμος να συνεισφέρει, αλλά δεν θα φύγει οικειοθελώς. Αν δεν θέλετε {PAWN_objective} {PAWN_nameDef}, μπορείτε να απαλλαγείτε από {PAWN_pronoun}  πουλώντας {PAWN_objective} ως δούλο ή απλά να {PAWN_objective} σκοτώσετε. Ωστόσο, οι υπόλοιποι άποικοί σας μπορεί αυτό να το βρουν ενοχλητικό.</WandererJoin.letterText>
+  
+  <!-- EN: wild man wanders in -->
+  <WildManWandersIn.label>ένας αγριάνθρωπος περιπλανιέται σε</WildManWandersIn.label>
+  <!-- EN: {PAWN_kind} wanders in -->
+  <WildManWandersIn.letterLabel>ένα {PAWN_kind} περιπλανιέται σε</WildManWandersIn.letterLabel>
+  <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
+  <WildManWandersIn.letterText>Ένα άτομο που ζει ανάμεσα στα άγρια θηρία περιπλανιέται στην περιοχή. {PAWN_pronoun} ονομάζεται {0}.\n\nΜπορείτε να προσπαθήσετε να {PAWN_objective} εξημερώσετε ή να {PAWN_objective} συλλάβετε.</WildManWandersIn.letterText>
+  
 </LanguageData>

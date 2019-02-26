@@ -1,31 +1,66 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <FactionGreetingHostile>Ο/Η {0} πετάει μερικά επίθετα στο μικρόφωνο και αποσυνδέεται.</FactionGreetingHostile>
-  <FactionGreetingWary>Ο/Η {0} χαιρετάει τον/την {1} ανήσυχα και ρωτάει τι θέλει.</FactionGreetingWary>
-  <FactionGreetingWarm>Ο/Η {0} χαιρετάει τον/την {1} εγκάρδια και ρωτάει πως τα πάει η αποικία.</FactionGreetingWarm>
+  <!-- EN: {0} hurls some epithets into the microphone and disconnects. -->
+  <FactionGreetingHostile>{0} πετάει μερικά επίθετα στο μικρόφωνο και αποσυνδέεται.</FactionGreetingHostile>
+  <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects. -->
+  <FactionGreetingHostileAppreciative>{0} απαιτεί να κάνετε μια χειρονομία καλής θέλησης, όπως την προσφορά δώρων σε έναν από τους οικισμούς {0_possessive} ή την απελευθέρωση των σώων κρατουμένων της φατρίας {0_possessive}. Μέχρι τότε, {0_pronoun} δεν είναι πρόθυμος να μιλήσει.\n\nΜουρμουρίζοντας μια βρισιά, αποσυνδέθηκε.</FactionGreetingHostileAppreciative>
+  <!-- EN: {0} greets {NEGOTIATOR_labelShort} warily and asks what business you want to handle. -->
+  <FactionGreetingWary>{0} χαιρετίζει {NEGOTIATOR_objective} {NEGOTIATOR_labelShort} επιφυλακτικά και σας ρωτά ποια υπόθεση θέλετε να χειριστείτε.</FactionGreetingWary>
+  <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
+  <FactionGreetingWarm>{0} χαιρετίζει {NEGOTIATOR_objective} {NEGOTIATOR_labelShort} επιφυλακτικά και σας ρωτά τι μπορεί να κάνει {LEADER_pronoun} για να σας βοηθήσει.</FactionGreetingWarm>
 
+  <!-- EN: Disconnect -->
   <Disconnect>Αποσύνδεση</Disconnect>
 
-  <!-- προσφορά δώρου (gift offer) -->
+  <!-- Gift offer -->
+  <!-- EN: Offer gift -->
   <OfferGift>Πρόσφερε δώρο</OfferGift>
+  <!-- EN: must be ally -->
+  <MustBeAlly>πρέπει να είναι σύμμαχος</MustBeAlly>
+  <!-- EN: need {0} goodwill -->
+  <NeedGoodwill>χρειάζεται {0} εύνοια</NeedGoodwill>
+  <!-- EN: need {0} silver near trade beacons -->
   <NeedSilverLaunchable>χρειάζονται {0} ασήμι κοντά στους φάρους εμπορίου</NeedSilverLaunchable>
+  <!-- EN: not enough silver -->
   <NotEnoughSilver>δεν υπάρχει αρκετό ασήμι</NotEnoughSilver>
-  <SilverForGoodwill>{0} ασήμι για {1} καλής διάθεσης</SilverForGoodwill>
-  <SilverGiftSent>Ο/Η {0} σε ευχαριστεί.\n\n(Η καλή διάθεση βελτιώθηκε κατά {1}).</SilverGiftSent>
+  <!-- EN: {0} silver for {1} goodwill -->
+  <SilverForGoodwill>{0} ασήμι για {1} εύνοια</SilverForGoodwill>
+  <!-- EN: {0} thanks you.\n\n(Goodwill improved by {1}) -->
+  <SilverGiftSent>Ο/Η {0} σε ευχαριστεί.\n\n(Η εύνοια βελτιώθηκε κατά {1}).</SilverGiftSent>
 
-  <!-- αίτηση εμπορικού καραβανιού (trade caravan request) -->
-  <RequestTrader>Ζήτησε ένα εμπορικό καραβάνι (κόστος: {0} ασήμι)</RequestTrader>
+  <!-- Trade caravan request -->
+  <!-- EN: Request a trade caravan (cost: {0} goodwill) -->
+  <RequestTrader>Ζήτησε ένα εμπορικό καραβάνι (κόστος: {0} εύνοια)</RequestTrader>
+  <!-- EN: {0} asks what kind of trade caravan you want. -->
   <ChooseTraderKind>Ο/Η {0} ρωτάει τι είδους εμπορικό καραβάνι θέλεις.</ChooseTraderKind>
+  <!-- EN: {0} agrees to send you a trade caravan. It will arrive within a few days. -->
   <TraderSent>Ο/Η {0} συμφωνεί να σου στείλουν ένα εμπορικό καραβάνι. Θα φτάσει εντός μερικών ημερών.</TraderSent>
+  <!-- EN: wait {0} -->
   <WaitTime>αναμονή {0}</WaitTime>
 
-
-  <!-- αίτηση στρατιωτικής βοήθειας (military aid request) -->
-  <RequestMilitaryAid>Ζήτησε άμεση στρατιωτική υποστήριξη (κόστος: {0} καλής θέλησης).</RequestMilitaryAid>
+  <!-- AI core request -->
+  <!-- EN: Request the location of an {0} (cost: {1} silver) -->
+  <RequestAICoreInformation>Ζήτησε την τοποθεσία ενός {0} (κόστος: {1} ασήμι)</RequestAICoreInformation>
+  <!-- EN: {0} sends the requested information and wishes you good luck. -->
+  <RequestAICoreInformationResult>{0} σας στέλνει τις απαιτούμενες πληροφορίες και σας εύχεται καλή τύχη</RequestAICoreInformationResult>
+  <!-- EN: no more locations known -->
+  <NoKnownAICore>δεν ξέρει άλλες τοποθεσίες</NoKnownAICore>  
+  
+  <!-- Military aid request -->
+  <!-- EN: Request immediate military aid (cost: {0} goodwill) -->
+  <RequestMilitaryAid>Ζήτησε άμεση στρατιωτική υποστήριξη (κόστος: {0} εύνοια).</RequestMilitaryAid>
+  <!-- EN: {0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid? -->
   <MilitaryAidConfirmMutualEnemy>Ο/Η {0} δεν θα σε βοηθήσει να πολεμήσεις κάποια άλλη φατρία που δεν είναι εχθροί τους. Αυτό περιλαμβάνει και αυτούς που σε απειλούν, {1}. Θέλεις ακόμα να ζητήσεις στρατιωτική υποστήριξη;</MilitaryAidConfirmMutualEnemy>
+  <!-- EN: Yes, call them anyway. -->
   <CallConfirm>Ναι, κάλεσέ τους όπως και να έχει.</CallConfirm>
+  <!-- EN: No, never mind. -->
   <CallCancel>Όχι, τέλος πάντων.</CallCancel>
+  <!-- EN: {0} agrees to send fighters to help you. -->
   <MilitaryAidSent>Ο/Η {0} συμφωνεί να στείλει πολεμιστές  για να σε βοηθήσει.</MilitaryAidSent>
+  <!-- EN: {0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods) -->
+  <CantSendMilitaryAidInTime>Ο/Η {0} απολογείται και λέει ότι δεν θα μπορέσει να φτάσει εγκαίρως. (Το επίπεδο τεχνολογίας αυτής της φατρίας είναι πολύ χαμηλό για ατράκτους μεταφοράς)</CantSendMilitaryAidInTime>
+  <!-- EN: hostile visitors present -->
+  <HostileVisitorsPresent>παρόντες εχθρικοί επισκέπτες</HostileVisitorsPresent>
 
 </LanguageData>

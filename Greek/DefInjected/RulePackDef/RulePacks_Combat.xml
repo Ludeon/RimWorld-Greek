@@ -1,0 +1,888 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_logentry(p=1)->[INITIATOR_definite] [damaged_past] [at] [RECIPIENT_definite] in the [recipient_part0_label] [deflected_result].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite], wielding [INITIATOR_possessive] [WEAPON_label] [expertly], [damaged_past] [RECIPIENT_definite] in the [recipient_part0_label] [deflected_result].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] hit [RECIPIENT_definite] with a [damaged_inf] from [implement] [deflected_result].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] used [implement] to [damaged_inf] [RECIPIENT_definite] [deflected_result].</li>
+    <li>r_logentry(p=0.6)->[INITIATOR_definite] [damaged_past] [at] [RECIPIENT_definite] with [implement] [deflected_result].</li>
+    <li>r_logentry(p=0.6)->[INITIATOR_definite] [damaged_past] [at] [RECIPIENT_definite] [deflected_result].</li>
+    <li>at-></li>
+    <li>at->at</li>
+    <li>deflected_result-> [adverb_deflected]</li>
+    <li>deflected_result->, [deflected_consequence]</li>
+    <li>adverb_deflected_opt(p=4)-></li>
+    <li>adverb_deflected_opt->[adverb_deflected]</li>
+    <li>adverb_deflected->harmlessly</li>
+    <li>adverb_deflected->uselessly</li>
+    <li>deflected_consequence->but the [TOOL_label] [scraped_past] off [adverb_deflected_opt]</li>
+    <li>deflected_consequence->[scraped_present] off [RECIPIENT_possessive] armor [adverb_deflected_opt]</li>
+    <li>scraped_present->scraping</li>
+    <li>scraped_present->sliding</li>
+    <li>scraped_past->scraped</li>
+    <li>scraped_past->slid</li>
+  -->
+  <Combat_Deflect.rulePack.rulesStrings><li>r_logentry(p=1)->[INITIATOR_definite] [damaged_past] [at] [RECIPIENT_definite] στο [recipient_part0_label] [deflected_result].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite], χρησιμοποιεί [WEAPON_label] [expertly] [INITIATOR_possessive], [damaged_past] [RECIPIENT_definite] στο [recipient_part0_label] [deflected_result].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] κτυπά [RECIPIENT_definite] με ένα [damaged_inf] από [implement] [deflected_result].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] χρησιμοποιεί [implement] για να [damaged_inf] [RECIPIENT_definite] [deflected_result].</li>
+    <li>r_logentry(p=0.6)->[INITIATOR_definite] [damaged_past] [at] [RECIPIENT_definite] με [implement] [deflected_result].</li>
+    <li>r_logentry(p=0.6)->[INITIATOR_definite] [damaged_past] [at] [RECIPIENT_definite] [deflected_result].</li>
+    <li>at-></li>
+    <li>at->κατά</li>
+    <li>deflected_result-> [adverb_deflected]</li>
+    <li>deflected_result->, [deflected_consequence]</li>
+    <li>adverb_deflected_opt(p=4)-></li>
+    <li>adverb_deflected_opt->[adverb_deflected]</li>
+    <li>adverb_deflected->ακίνδυνα</li>
+    <li>adverb_deflected->ανώφελα</li>
+    <li>deflected_consequence->αλλά το [TOOL_label] [scraped_past] από [adverb_deflected_opt]</li>
+    <li>deflected_consequence->[scraped_present] την θωράκισή [RECIPIENT_possessive] [adverb_deflected_opt]</li>
+    <li>scraped_present->γρατζουνάει</li>
+    <li>scraped_present->γλιστράει</li>
+    <li>scraped_past->γρατζούνισε</li>
+    <li>scraped_past->γλίστρησε</li></Combat_Deflect.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>scraped_present->glancing</li>
+    <li>scraped_present->bouncing</li>
+    <li>scraped_present->grazing</li>
+    <li>scraped_present->caroming</li>
+    <li>scraped_present->skipping</li>
+    <li>scraped_present->skating</li>
+    <li>scraped_past->glanced</li>
+    <li>scraped_past->bounced</li>
+    <li>scraped_past->grazed</li>
+    <li>scraped_past->caromed</li>
+    <li>scraped_past->skipped</li>
+    <li>scraped_past->skated</li>
+  -->
+  <Combat_DeflectIncludes.rulePack.rulesStrings><li>scraped_present->εξοστρακίζετε</li>
+    <li>scraped_present->αναπηδά</li>
+    <li>scraped_present->γδέρνει</li>
+    <li>scraped_present->κάνει γκελ</li>
+    <li>scraped_present->χοροπηδά</li>
+    <li>scraped_present->εκτρέπεται</li>
+    <li>scraped_past->εξοστρακίστηκε</li>
+    <li>scraped_past->αναπήδησε</li>
+    <li>scraped_past->γδάρθηκε</li>
+    <li>scraped_past->έκανε γκελ</li>
+    <li>scraped_past->χοροπήδησε</li>
+    <li>scraped_past->εκτράπηκε</li></Combat_DeflectIncludes.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry(p=0.2)->[RECIPIENT_definite] dodged [INITIATOR_definite]'s [damaged_inf] from [implement].</li>
+    <li>r_logentry(p=0.2)->[RECIPIENT_definite] dodged [INITIATOR_definite]'s [damaged_inf].</li>
+    <li>result->but [RECIPIENT_definite] leapt out of the way</li>
+    <li>result->but was deceived by [RECIPIENT_definite]'s feint</li>
+    <li>result->but the attack was cleverly avoided</li>
+  -->
+  <Combat_Dodge.rulePack.rulesStrings><li>r_logentry(p=0.2)->[RECIPIENT_definite] απέφυγε το [damaged_inf] [INITIATOR_possessive] [INITIATOR_definite] από [implement].</li>
+    <li>r_logentry(p=0.2)->[RECIPIENT_definite] απέφυγε το [damaged_inf] [INITIATOR_possessive] [INITIATOR_definite].</li>
+    <li>result->αλλά [RECIPIENT_definite] πήδησε στα πλάγια</li>
+    <li>result->αλλά εξαπατήθηκε από τη προσποίηση [RECIPIENT_possessive] [RECIPIENT_definite]</li>
+    <li>result->αλλά το κτύπημα αποφεύχθηκε έξυπνα</li></Combat_Dodge.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>prefix->The [blast] [fromof] [INITIATOR_definite]'s [WEAPON_projectile_label]</li>
+    <li>prefix->The [blast] [fromof] [INITIATOR_definite]'s [WEAPON_label]</li>
+    <li>prefix->The [blast] [fromof] [INITIATOR_definite]'s [WEAPON_projectile_label]</li>
+    <li>prefix->The [blast] [fromof] [INITIATOR_definite]'s [WEAPON_label]</li>
+    <li>prefix->[INITIATOR_definite]'s [blast]</li>
+    <li>prefix->[INITIATOR_definite]'s [WEAPON_projectile_label] [blast]</li>
+    <li>prefix->[INITIATOR_definite]'s [WEAPON_label] [blast]</li>
+    <li>prefix->[INITIATOR_definite]'s [WEAPON_projectile_label]</li>
+    <li>prefix->[INITIATOR_definite]'s [WEAPON_label]</li>
+    <li>r_logentry->[prefix] [injured] [RECIPIENT_definite].</li>
+    <li>r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+    <li>r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [adverb_flavortext].</li>
+    <li>r_logentry->[prefix] [adverb_flavortext] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+    <li>r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [RECIPIENT_definite]'s [damaged_targets] [adverb_flavortext].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [adverb_flavortext] [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
+    <li>r_logentry->[RECIPIENT_definite] was [damaged_past] by [INITIATOR_definite].</li>
+    <li>r_logentry->[RECIPIENT_definite] was [damaged_past] [adverb_flavortext] by [INITIATOR_definite].</li>
+    <li>r_logentry->[RECIPIENT_definite] was [damaged_past].</li>
+    <li>r_logentry(p=0.001)->[RECIPIENT_definite] was caught in an explosion.</li>
+    <li>r_logentry(p=0.001)->[RECIPIENT_definite] was hit by an explosion.</li>
+    <li>blast->explosion</li>
+    <li>blast->blast</li>
+    <li>blast->shockwave</li>
+    <li>blast->detonation</li>
+    <li>blast->discharge</li>
+    <li>blast->impact</li>
+    <li>fromof->from</li>
+    <li>fromof->of</li>
+  -->
+  <Combat_ExplosionImpact.rulePack.rulesStrings><li>prefix->Η [blast] [fromof] το [WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite]</li>
+    <li>prefix->Η [blast] [fromof] το [WEAPON_label] [INITIATOR_possessive] [INITIATOR_definite]</li>
+    <li>prefix->Η [blast] [fromof] το [WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite]</li>
+    <li>prefix->Η [blast] [fromof] το [WEAPON_label] [INITIATOR_possessive] [INITIATOR_definite]</li>
+    <li>prefix->Η [blast] [INITIATOR_possessive] [INITIATOR_definite]</li>
+    <li>prefix->Η [blast] του [WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite]</li>
+    <li>prefix->Η [blast] του [WEAPON_label] [INITIATOR_possessive] [INITIATOR_definite]</li>
+    <li>prefix->Το [WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite]</li>
+    <li>prefix->Το [WEAPON_label] [INITIATOR_possessive] [INITIATOR_definite]</li>
+    <li>r_logentry->[prefix] [injured] [RECIPIENT_definite].</li>
+    <li>r_logentry->[prefix] [destroyed_past] [destroyed_targets] [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry->[prefix] [destroyed_past] [destroyed_targets] [adverb_flavortext] [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry->[prefix] [adverb_flavortext] [destroyed_past] [destroyed_targets] [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry->[prefix] [destroyed_past] [destroyed_targets] [RECIPIENT_definite] και [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [damaged_targets] [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [damaged_targets] [adverb_flavortext] [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [adverb_flavortext] [damaged_past] [damaged_targets] [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry->[RECIPIENT_definite] [damaged_past] από [INITIATOR_definite].</li>
+    <li>r_logentry->[RECIPIENT_definite] [damaged_past] [adverb_flavortext] από [INITIATOR_definite].</li>
+    <li>r_logentry->[RECIPIENT_definite] [damaged_past].</li>
+    <li>r_logentry(p=0.001)->[RECIPIENT_definite] πιάστηκε από την έκρηξη.</li>
+    <li>r_logentry(p=0.001)->[RECIPIENT_definite] κτυπήθηκε από μια έκρηξη.</li>
+    <li>blast->εκπυρσοκρότηση</li>
+    <li>blast->έκρηξη</li>
+    <li>blast->ανατίναξη</li>
+    <li>blast->πυροδότηση</li>
+    <li>blast->εκκένωση</li>
+    <li>blast->πρόσκρουση</li>
+    <li>fromof->από</li>
+    <li>fromof->από</li></Combat_ExplosionImpact.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite]</li>
+    <li>action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite] with [implement]</li>
+    <li>action->[INITIATOR_definite] [tried] to use [implement] to [damaged_inf] [RECIPIENT_definite]</li>
+    <li>action->[INITIATOR_definite] swung [INITIATOR_possessive] [WEAPON_label] at [RECIPIENT_definite]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite] with [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] with [implement]</li>
+    <li>towardsat->towards</li>
+    <li>towardsat->at</li>
+    <li>verb_genericattack->swung</li>
+    <li>verb_genericattack->flailed</li>
+    <li>verb_genericattack->thrashed</li>
+    <li>tried->tried</li>
+    <li>tried->attempted</li>
+  -->
+  <Combat_FailIncludes.rulePack.rulesStrings><li>action->[INITIATOR_definite] [tried] να [damaged_inf] [RECIPIENT_definite]</li>
+    <li>action->[INITIATOR_definite] [tried] να [damaged_inf] [RECIPIENT_definite] με [implement]</li>
+    <li>action->[INITIATOR_definite] [tried] να χρησιμοποιήσει [implement] για να [damaged_inf] [RECIPIENT_definite]</li>
+    <li>action->[INITIATOR_definite] κράδασε το [WEAPON_label] [INITIATOR_possessive] κατά [RECIPIENT_definite]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite] με [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] με [implement]</li>
+    <li>towardsat->κατά</li>
+    <li>towardsat->προς</li>
+    <li>verb_genericattack->κράδασε</li>
+    <li>verb_genericattack->κοπάνησε</li>
+    <li>verb_genericattack->βάρεσε</li>
+    <li>tried->προσπάθησε</li>
+    <li>tried->δοκίμασε</li></Combat_FailIncludes.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] in the [recipient_part0_label].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] in the [recipient_part0_label] [adverb_flavortext].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] in the [recipient_part0_label] [flavortext_situation].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] in the [recipient_part0_label], [flavortext_consequence].</li>
+    <li>r_logentry(p=0.07)->[INITIATOR_definite], wielding [INITIATOR_possessive] [WEAPON_label] [expertly], [damaged_past] [RECIPIENT_definite] in the [recipient_part0_label].</li>
+    <li>r_logentry(p=0.03)->[INITIATOR_definite], wielding [INITIATOR_possessive] [WEAPON_label] [expertly], [adverb_flavortext] [damaged_past] [RECIPIENT_definite] in the [recipient_part0_label].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [destroyed_suffix].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [expertly].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] with [implement].</li>
+    <li>result(p=1,recipient_part_damaged_count==0)->[destroyed_present] [RECIPIENT_possessive] [destroyed_targets]</li>
+    <li>result(p=1,recipient_part_destroyed_count==0)->[damaged_present] [RECIPIENT_possessive] [damaged_targets]</li>
+    <li>result(p=1)->[destroyed_present] [RECIPIENT_possessive] [destroyed_targets] and [damaged_present] [RECIPIENT_possessive] [damaged_targets]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] hit [RECIPIENT_definite] with a [damaged_inf] from [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] used [implement] to [damaged_inf] [RECIPIENT_definite]</li>
+    <li>action->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] with [implement]</li>
+    <li>action(p=0.6)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite]</li>
+  -->
+  <Combat_Hit.rulePack.rulesStrings><li>r_logentry(p=0.3)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] στο [recipient_part0_label].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] στο [recipient_part0_label] [adverb_flavortext].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] στο [recipient_part0_label] [flavortext_situation].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] στο [recipient_part0_label], [flavortext_consequence].</li>
+    <li>r_logentry(p=0.07)->[INITIATOR_definite], κρατάει το [WEAPON_label] [INITIATOR_possessive] [expertly], [damaged_past] [RECIPIENT_definite] στο [recipient_part0_label].</li>
+    <li>r_logentry(p=0.03)->[INITIATOR_definite], κρατάει [expertly] το [WEAPON_label] [INITIATOR_possessive] , [adverb_flavortext] [damaged_past] [RECIPIENT_definite] στο [recipient_part0_label].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] [destroyed_past] τους [destroyed_targets] [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] [destroyed_past] τους [destroyed_targets] [destroyed_suffix] [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] [destroyed_past] τους [destroyed_targets] [RECIPIENT_possessive] [RECIPIENT_definite] [expertly].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] [destroyed_past] τους [destroyed_targets] [RECIPIENT_possessive] [RECIPIENT_definite] με ένα [implement].</li>
+    <li>result(p=1,recipient_part_damaged_count==0)->[destroyed_present] [RECIPIENT_possessive] [destroyed_targets]</li>
+    <li>result(p=1,recipient_part_destroyed_count==0)->[damaged_present] [RECIPIENT_possessive] [damaged_targets]</li>
+    <li>result(p=1)->[destroyed_present] [RECIPIENT_possessive] [destroyed_targets] και [damaged_present] [RECIPIENT_possessive] [damaged_targets]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] χτύπησε [RECIPIENT_definite] με ένα [damaged_inf] από [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] χρησιμοποίησε ένα [implement] για να [damaged_inf] [RECIPIENT_definite]</li>
+    <li>action->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] με ένα [implement]</li>
+    <li>action(p=0.6)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite]</li></Combat_Hit.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>result(p=0.5)->[damaged_present] [RECIPIENT_possessive] [targetlist]</li>
+    <li>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [adverb_flavortext]</li>
+    <li>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [flavortext_situation]</li>
+    <li>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] and [flavortext_consequence]</li>
+    <li>adverb_flavortext->painfully</li>
+    <li>adverb_flavortext->brutally</li>
+    <li>adverb_flavortext->horribly</li>
+    <li>adverb_flavortext->agonizingly</li>
+    <li>adverb_flavortext->fiercely</li>
+    <li>adverb_flavortext->ruthlessly</li>
+    <li>adverb_flavortext->savagely</li>
+    <li>adverb_flavortext->viciously</li>
+    <li>adverb_flavortext->mercilessly</li>
+    <li>adverb_flavortext->heartlessly</li>
+    <li>flavortext_situation(recipient_flesh!=Mechanoid)->in an explosion of gore</li>
+    <li>flavortext_situation(recipient_flesh==Mechanoid)->in an explosion of scrap</li>
+    <li>flavortext_situation->without emotion</li>
+    <li>flavortext_situation(p=0.4)->while wearing a blank look</li>
+    <li>flavortext_situation(p=0.2,initiator_flesh==Normal)->while wearing a savage look</li>
+    <li>flavortext_situation(p=0.2,initiator_flesh==Normal)->while wearing a [AdjectiveBadass] look</li>
+    <li>flavortext_situation(p=0.2,initiator_flesh==Normal)->while grimacing</li>
+    <li>flavortext_situation(p=0.2,initiator_flesh==Normal)->while laughing</li>
+    <li>flavortext_situation(p=0.2,initiator_flesh==Normal)->while smirking</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving a disgusting wound</li>
+    <li>flavortext_consequence->leaving a horrific wound</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->making [RECIPIENT_objective] [wince] [painevent]</li>
+    <li>flavortext_consequence(p=0.2)->throwing [RECIPIENT_objective] off balance</li>
+  -->
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings><li>result(p=0.5)->[RECIPIENT_possessive] [damaged_present] το [targetlist]</li>
+    <li>result(p=0.1)->[RECIPIENT_possessive] [damaged_present] το [targetlist] [adverb_flavortext]</li>
+    <li>result(p=0.1)->[RECIPIENT_possessive] [damaged_present] το [targetlist] [flavortext_situation]</li>
+    <li>result(p=0.1)->[RECIPIENT_possessive] [damaged_present] το [targetlist] και [flavortext_consequence]</li>
+    <li>adverb_flavortext->οδυνηρά</li>
+    <li>adverb_flavortext->βίαια</li>
+    <li>adverb_flavortext->φρικτά</li>
+    <li>adverb_flavortext->επώδυνα</li>
+    <li>adverb_flavortext->λυσσαλέα</li>
+    <li>adverb_flavortext->αδίστακτα</li>
+    <li>adverb_flavortext->βάναυσα</li>
+    <li>adverb_flavortext->άγρια</li>
+    <li>adverb_flavortext->ανηλεώς</li>
+    <li>adverb_flavortext->άκαρδα</li>
+    <li>flavortext_situation(recipient_flesh!=Mechanoid)->σε μια έκρηξη από πηχτό αίμα</li>
+    <li>flavortext_situation(recipient_flesh==Mechanoid)->σε μια έκρηξη από παλιοσίδερα</li>
+    <li>flavortext_situation->χωρίς συναίσθημα</li>
+    <li>flavortext_situation(p=0.4)->ενώ είχε μια ανέκφραστη όψη</li>
+    <li>flavortext_situation(p=0.2,initiator_flesh==Normal)->καθώς μια σκληρή ματιά</li>
+    <li>flavortext_situation(p=0.2,initiator_flesh==Normal)->καθώς είχε μια [AdjectiveBadass] όψη</li>
+    <li>flavortext_situation(p=0.2,initiator_flesh==Normal)->καθώς έκανε μορφασμούς</li>
+    <li>flavortext_situation(p=0.2,initiator_flesh==Normal)->ενώ γελούσε</li>
+    <li>flavortext_situation(p=0.2,initiator_flesh==Normal)->ενώ χαμογελούσε αυτάρεσκα</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->αφήνοντας μια αηδιαστική πληγή</li>
+    <li>flavortext_consequence->αφήνοντας μια τρομακτική πληγή</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->κάνοντας [RECIPIENT_objective] [wince] [painevent]</li>
+    <li>flavortext_consequence(p=0.2)->πετώντας [RECIPIENT_objective] εκτός ισορροπίας</li></Combat_MeleeDamageIncludes.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[action], [result].</li>
+    <li>r_logentry(p=0.2)->[action].</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[INITIATOR_possessive] [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->a [WEAPON_label]'s [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->a [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[INITIATOR_possessive] [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==bodypart,p=1)->[INITIATOR_possessive] [adjective_bodypart] [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [TOOL_label]</li>
+    <li>adjective_bodypart->hard</li>
+    <li>adjective_bodypart->strong</li>
+    <li>adjective_bodypart->powerful</li>
+    <li>adjective_bodypart->forceful</li>
+    <li>adjective_bodypart->mighty</li>
+    <li>adjective_bodypart->rugged</li>
+    <li>adjective_bodypart->stout</li>
+    <li>adjective_bodypart->sturdy</li>
+    <li>adjective_bodypart->solid</li>
+    <li>adjective_bodypart->tough</li>
+    <li>adjective_bodypart(initiator_flesh==True)->calloused</li>
+    <li>adjective_bodypart->firm</li>
+    <li>targetlist(recipient_part_count==1)->[recipient_part0_label]</li>
+    <li>targetlist(recipient_part_count==2)->[recipient_part0_label] and [recipient_part1_label]</li>
+    <li>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], and [recipient_part2_label]</li>
+    <li>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], and [recipient_part3_label]</li>
+    <li>damaged_present(deflected!=True)->wounding</li>
+    <li>damaged_present(deflected!=True)->injuring</li>
+    <li>destroyed(p=0.5)->destroyed</li>
+    <li>destroyed(p=0.5)->demolished</li>
+    <li>destroyed(p=0.5)->ruined</li>
+    <li>destroyed(p=0.5)->wrecked</li>
+    <li>wince(recipient_flesh==Normal)->wince</li>
+    <li>wince(recipient_flesh==Normal)->grimace</li>
+    <li>wince(recipient_flesh==Normal)->cringe</li>
+    <li>wince(recipient_flesh==Normal)->groan</li>
+    <li>wince(recipient_flesh!=Mechanoid)->scream</li>
+    <li>wince(recipient_flesh!=Mechanoid)->shout</li>
+    <li>wince->recoil</li>
+    <li>wince->stumble</li>
+    <li>painstate->in</li>
+    <li>painstate->with</li>
+    <li>painstate->from the</li>
+    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] pain</li>
+    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] agony</li>
+    <li>painevent(recipient_flesh==Normal)->with misery</li>
+    <li>painevent->from the injury</li>
+    <li>painevent->from the wound</li>
+    <li>to->to</li>
+    <li>to->into</li>
+  -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings><li>r_logentry->[action], [result].</li>
+    <li>r_logentry(p=0.2)->[action].</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=2)->το [TOOL_label] του [WEAPON_label] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->το [WEAPON_label] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->ένα [TOOL_label] του [WEAPON_label] </li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->ένα [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[TOOL_label] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==bodypart,p=1)->[adjective_bodypart] [TOOL_label] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[TOOL_label] του [WEAPON_label] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[WEAPON_label] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[TOOL_label] [INITIATOR_possessive]</li>
+    <li>adjective_bodypart->σκληρό</li>
+    <li>adjective_bodypart->ισχυρό</li>
+    <li>adjective_bodypart->δυνατό</li>
+    <li>adjective_bodypart->δυναμικό</li>
+    <li>adjective_bodypart->γερό</li>
+    <li>adjective_bodypart->στιβαρό</li>
+    <li>adjective_bodypart->παχύ</li>
+    <li>adjective_bodypart->ανθεκτικό</li>
+    <li>adjective_bodypart->συμπαγές</li>
+    <li>adjective_bodypart->σκλιροτράχηλο</li>
+    <li>adjective_bodypart(initiator_flesh==True)->ανελέητο</li>
+    <li>adjective_bodypart->ακλόνητο</li>
+    <li>targetlist(recipient_part_count==1)->[recipient_part0_label]</li>
+    <li>targetlist(recipient_part_count==2)->[recipient_part0_label] και [recipient_part1_label]</li>
+    <li>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], και [recipient_part2_label]</li>
+    <li>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], και [recipient_part3_label]</li>
+    <li>damaged_present(deflected!=True)->τραυματίζει</li>
+    <li>damaged_present(deflected!=True)->πληγώνει</li>
+    <li>destroyed(p=0.5)->κατεστραμμένο</li>
+    <li>destroyed(p=0.5)->διαλυμένο</li>
+    <li>destroyed(p=0.5)->ρημαγμένο</li>
+    <li>destroyed(p=0.5)->χαλασμένο</li>
+    <li>wince(recipient_flesh==Normal)->κάνει μορφασμό</li>
+    <li>wince(recipient_flesh==Normal)->κάνει γκριμάτσα</li>
+    <li>wince(recipient_flesh==Normal)->ανατριχιάζει</li>
+    <li>wince(recipient_flesh==Normal)->βογκάει</li>
+    <li>wince(recipient_flesh!=Mechanoid)->ουρλιάζει</li>
+    <li>wince(recipient_flesh!=Mechanoid)->κραυγάζει</li>
+    <li>wince->αναπηδά</li>
+    <li>wince->σκοντάφτει</li>
+    <li>painstate->από</li>
+    <li>painstate->με</li>
+    <li>painstate->από τον</li>
+    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] πόνο</li>
+    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] οδύνη</li>
+    <li>painevent(recipient_flesh==Normal)->με θλίψη</li>
+    <li>painevent->από την πληγή</li>
+    <li>painevent->από την λαβωματιά</li>
+    <li>to->σε</li>
+    <li>to->στο</li></Combat_MeleeIncludes.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry(p=0.2)->[RECIPIENT_definite] avoided [INITIATOR_definite]'s [WEAPON_label] [damaged_inf].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] missed [RECIPIENT_definite] with a [damaged_inf] from [implement].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] [failtype] while trying to [damaged_inf] [RECIPIENT_definite] with [implement].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] [failtype] while trying to [damaged_inf] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] [failtype].</li>
+    <li>failtype->stumbled</li>
+    <li>failtype->tripped</li>
+    <li>failtype->flailed</li>
+    <li>failtype->floundered</li>
+    <li>failtype->missed</li>
+    <li>result->but missed</li>
+    <li>result->but hit only air</li>
+    <li>result->but the swing went wide</li>
+    <li>result->but stumbled at the last second</li>
+    <li>result(initiator_flesh!=Mechanoid)->but hesitated at the last second</li>
+  -->
+  <Combat_Miss.rulePack.rulesStrings><li>r_logentry(p=0.2)->[RECIPIENT_definite] αποφεύγει το [damaged_inf] του [WEAPON_label] [INITIATOR_possessive] [INITIATOR_definite].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] αστοχεί σ[RECIPIENT_objective] [RECIPIENT_definite] με ένα [damaged_inf] από το [implement].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] [failtype] καθώς προσπαθεί να [damaged_inf] σ[RECIPIENT_objective] [RECIPIENT_definite] με ένα [implement].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] [failtype] ενώ προσπαθεί να [damaged_inf] σ[RECIPIENT_objective] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] [failtype].</li>
+    <li>failtype->σκοντάφτει</li>
+    <li>failtype->παραπατά</li>
+    <li>failtype->χτυπιέται</li>
+    <li>failtype->κομπιάζει</li>
+    <li>failtype->αστοχεί</li>
+    <li>result->αλλά αστόχησε</li>
+    <li>result->αλλά κτυπά μόνο τον αέρα</li>
+    <li>result->αλλά η ταλάντευση ήταν μεγάλη</li>
+    <li>result->αλλά σκόνταψε στο τελευταίο δευτερόλεπτο</li>
+    <li>result(initiator_flesh!=Mechanoid)->αλλά δίστασε στο τελευταίο δευτερόλεπτο</li></Combat_Miss.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+    <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [to] [destroyed_suffix].</li>
+    <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [expertly].</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite], [destroyed_present] [RECIPIENT_definite]'s [destroyed_targets].</li>
+    <li>r_logentry->[RECIPIENT_definite]'s [destroyed_targets] was [destroyed_past] by [INITIATOR_definite]'s [WEAPON_projectile_label].</li>
+    <li>r_logentry->[RECIPIENT_definite]'s [destroyed_targets] was [destroyed_past] by [INITIATOR_definite]'s [expert] [WEAPON_projectile_label].</li>
+    <li>r_logentry->[RECIPIENT_definite]'s [destroyed_targets] was [destroyed_past] into [destroyed_suffix] by [INITIATOR_definite]'s [WEAPON_projectile_label].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[INITIATOR_definite]'s [WEAPON_projectile_label] [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[INITIATOR_definite]'s [WEAPON_projectile_label] [damaged_past] [RECIPIENT_definite]'s [damaged_targets] [expertly].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite], [damaged_present] [RECIPIENT_definite]'s [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_definite]'s [damaged_targets] was [damaged_past] by [INITIATOR_definite]'s [WEAPON_projectile_label].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_definite]'s [damaged_targets] was [damaged_past] by [INITIATOR_definite]'s [expert] [WEAPON_projectile_label].</li>
+    <li>r_logentry(p=3)->[INITIATOR_definite]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(p=6)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite], [destroyed_present] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_present] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite] with a [WEAPON_projectile_label].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite]'s [WEAPON_projectile_label] hit [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite] with a [WEAPON_projectile_label].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite] with a [WEAPON_projectile_label] intended for [ORIGINALTARGET_definite].</li>
+    <li>weapon_projectile_label(p=0.05)->shot</li>
+    <li>destroyed_past->shattered</li>
+    <li>destroyed_past->crushed</li>
+    <li>destroyed_past->obliterated</li>
+    <li>destroyed_past->annihilated</li>
+    <li>destroyed_past->pierced</li>
+    <li>destroyed_past->perforated</li>
+    <li>destroyed_past->punctured</li>
+    <li>destroyed_present->shattering</li>
+    <li>destroyed_present->crushing</li>
+    <li>destroyed_present->obliterating</li>
+    <li>destroyed_present->annihilating</li>
+    <li>destroyed_present->piercing</li>
+    <li>destroyed_present->perforating</li>
+    <li>destroyed_present->puncturing</li>
+    <li>destroyed_suffix->pieces</li>
+    <li>destroyed_suffix->bits</li>
+    <li>destroyed_suffix->a fine mist</li>
+    <li>destroyed_suffix->fragments</li>
+    <li>destroyed_suffix(p=0.5)->a holey mess</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid,p=0.2)->ground beef</li>
+    <li>damaged_past->wounded</li>
+    <li>damaged_past->injured</li>
+    <li>damaged_past->pierced</li>
+    <li>damaged_past->damaged</li>
+    <li>damaged_past->shot</li>
+    <li>damaged_present->wounding</li>
+    <li>damaged_present->injuring</li>
+    <li>damaged_present->piercing</li>
+    <li>damaged_present->damaging</li>
+    <li>damaged_present->shooting</li>
+    <li>damaged_suffix->in an ugly fashion</li>
+    <li>damaged_suffix(recipient_flesh!=Mechanoid)->with visible blood</li>
+    <li>damaged_suffix(recipient_flesh!=Mechanoid)->with the flesh visible</li>
+    <li>to->to</li>
+    <li>to->into</li>
+    <li>missed->missed</li>
+    <li>missed->narrowly missed</li>
+  -->
+  <Combat_RangedDamage.rulePack.rulesStrings><li>r_logentry->[WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] [destroyed_past] [destroyed_targets] [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry->[WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] [destroyed_past] [destroyed_targets] [to] [destroyed_suffix] [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry->[WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] [destroyed_past] [expertly] [destroyed_targets] [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=2)->[WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] [missed] [ORIGINALTARGET_definite] και [destroyed_past] [destroyed_targets] [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=2)->[WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] [missed] [ORIGINALTARGET_definite], [destroyed_present] [destroyed_targets] [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry->[destroyed_targets] [RECIPIENT_possessive] [RECIPIENT_definite] [destroyed_past_passive] από [WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite].</li>
+    <li>r_logentry->[destroyed_targets] [RECIPIENT_possessive] [RECIPIENT_definite] [destroyed_past_passive] από [expert] [WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite].</li>
+    <li>r_logentry->[destroyed_targets] [RECIPIENT_possessive] [RECIPIENT_definite] [destroyed_past_passive] στην [destroyed_suffix] από [WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] [damaged_past] [damaged_targets] [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] [damaged_past] [damaged_targets] [expertly] [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] [missed] [ORIGINALTARGET_definite] και [damaged_past] [damaged_targets] [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] [missed] [ORIGINALTARGET_definite], [damaged_present] [damaged_targets] [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[damaged_targets] [RECIPIENT_possessive] [RECIPIENT_definite] [destroyed_past_passive] από [WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[damaged_targets] [RECIPIENT_possessive] [RECIPIENT_definite] [destroyed_past_passive] από [expert] [WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite].</li>
+    <li>r_logentry(p=3)->[WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] [destroyed_past] [destroyed_targets] [RECIPIENT_possessive] [RECIPIENT_definite] και [damaged_past] [damaged_targets] [RECIPIENT_possessive].</li>
+    <li>r_logentry(p=6)->[WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] [missed] [ORIGINALTARGET_definite], [destroyed_present] [destroyed_targets] [RECIPIENT_possessive] [RECIPIENT_definite] και [damaged_present] [damaged_targets] [RECIPIENT_possessive].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] χτυπά [RECIPIENT_objective] [RECIPIENT_definite] με [WEAPON_projectile_label].</li>
+    <li>r_logentry(p=0.2)->[WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] βρίσκει [RECIPIENT_objective] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_objective] [ORIGINALTARGET_definite] και πετυχαίνει [RECIPIENT_objective] [RECIPIENT_definite] με [WEAPON_projectile_label].</li>
+    <li>r_logentry(p=0.4)->[WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] [missed] [ORIGINALTARGET_objective] [ORIGINALTARGET_definite] και βρίσκει [RECIPIENT_objective] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] χτυπά [RECIPIENT_definite] με [WEAPON_projectile_label] που προοριζόταν για [ORIGINALTARGET_objective] [ORIGINALTARGET_definite].</li>
+	<li>weapon_projectile_label(p=0.05)->βλήμα</li>
+    <li>destroyed_past->θρυμματίζεται</li>
+    <li>destroyed_past->συντρίβεται</li>
+    <li>destroyed_past->καταστρέφεται</li>
+    <li>destroyed_past->κονιορτοποιείται</li>
+    <li>destroyed_past->σπάζει</li>
+    <li>destroyed_past->κομματιάζεται</li>
+    <li>destroyed_past->διαλύεται</li>
+    <li>destroyed_present->θρυμματίζει</li>
+    <li>destroyed_present->συντρίβει</li>
+    <li>destroyed_present->καταστρέφει</li>
+    <li>destroyed_present->κονιορτοποιεί</li>
+    <li>destroyed_present->σπάζει</li>
+    <li>destroyed_present->κομματιάζει</li>
+    <li>destroyed_present->διαλύει</li>
+	<li>destroyed_past_passive->θρυμματίστηκε</li>
+	<li>destroyed_past_passive->συντρίφθηκε</li>
+	<li>destroyed_past_passive->καταστράφηκε</li>
+	<li>destroyed_past_passive->κονιορτοποιήθηκε</li>
+	<li>destroyed_past_passive->έσπασε</li>
+	<li>destroyed_past_passive->κομματιάστηκε</li>
+	<li>destroyed_past_passive->διαλύθηκε</li>
+    <li>destroyed_suffix->κομμάτια</li>
+    <li>destroyed_suffix->κομματάκια</li>
+    <li>destroyed_suffix->ένα εκνέφωμα</li>
+    <li>destroyed_suffix->θραύσματα</li>
+    <li>destroyed_suffix(p=0.5)->ένα χάος από τρύπες</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid,p=0.2)->κιμά</li>
+    <li>damaged_past->πλήγωσε</li>
+    <li>damaged_past->τραυμάτισε</li>
+    <li>damaged_past->διατρύπησε</li>
+    <li>damaged_past->κτύπησε</li>
+    <li>damaged_past->πυροβόλησε</li>
+    <li>damaged_present->πληγώνει</li>
+    <li>damaged_present->τραυματίζει</li>
+    <li>damaged_present->διατρυπά</li>
+    <li>damaged_present->κτυπάει</li>
+    <li>damaged_present->πυροβολεί</li>
+    <li>damaged_suffix->με άσχημο τρόπο</li>
+    <li>damaged_suffix(recipient_flesh!=Mechanoid)->με εμφανές αίμα</li>
+    <li>damaged_suffix(recipient_flesh!=Mechanoid)->με ορατή τη σάρκα</li>
+    <li>to->σε</li>
+    <li>to->στο</li>
+    <li>missed->αστόχησε</li>
+    <li>missed->δεν πέτυχε</li></Combat_RangedDamage.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [damaged_past] [RECIPIENT_definite][damaged_target] [deflected_result].</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and [damaged_past] [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
+    <li>r_logentry->[RECIPIENT_definite][damaged_target_possessive_opt] was [damaged_past] by [INITIATOR_definite]'s [WEAPON_projectile_label] [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [WEAPON_projectile_label] [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite]'s [WEAPON_projectile_label] hit [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [WEAPON_projectile_label] [deflected_result].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [WEAPON_projectile_label] intended for [ORIGINALTARGET_definite] [deflected_result].</li>
+    <li>weapon_projectile_label(p=0.05)->shot</li>
+    <li>damaged_target_possessive_opt-></li>
+    <li>damaged_target_possessive_opt(recipient_part_damaged0_outside==True)->'s [recipient_part_damaged0_label]</li>
+    <li>deflected_result-> [adverb_deflected]</li>
+    <li>deflected_result->, [deflected_consequence]</li>
+    <li>adverb_deflected_opt(p=4)-></li>
+    <li>adverb_deflected_opt->[adverb_deflected]</li>
+    <li>adverb_deflected->harmlessly</li>
+    <li>adverb_deflected->uselessly</li>
+    <li>deflected_consequence->but it [scraped_past] off [adverb_deflected_opt]</li>
+    <li>deflected_consequence->[scraped_present] off [RECIPIENT_possessive] armor [adverb_deflected_opt]</li>
+    <li>scraped_past->ricocheted</li>
+    <li>scraped_present->ricocheting</li>
+    <li>missed->missed</li>
+    <li>missed->narrowly missed</li>
+  -->
+  <Combat_RangedDeflect.rulePack.rulesStrings><li>r_logentry->[WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] [damaged_past] [RECIPIENT_definite] στο [damaged_target] [deflected_result].</li>
+    <li>r_logentry(p=2)->[WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] [missed] [ORIGINALTARGET_definite] και [damaged_past] [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
+    <li>r_logentry->[RECIPIENT_definite][damaged_target_possessive_opt] [damaged_past] από [WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] κτύπησε [RECIPIENT_definite][damaged_target_possessive_opt] με [WEAPON_projectile_label] [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] πέτυχε [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] και χτύπησε [RECIPIENT_definite][damaged_target_possessive_opt] με ένα [WEAPON_projectile_label] [deflected_result].</li>
+    <li>r_logentry(p=0.4)->[WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] [missed] [ORIGINALTARGET_definite] και πέτυχε [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] ευστόχησε [RECIPIENT_definite][damaged_target_possessive_opt] με ένα [WEAPON_projectile_label] που ήταν για [ORIGINALTARGET_definite] [deflected_result].</li>
+    <li>weapon_projectile_label(p=0.05)->βλήμα</li>
+    <li>damaged_target_possessive_opt-></li>
+    <li>damaged_target_possessive_opt(recipient_part_damaged0_outside==True)-> [recipient_part_damaged0_label]</li>
+    <li>deflected_result-> [adverb_deflected]</li>
+    <li>deflected_result->, [deflected_consequence]</li>
+    <li>adverb_deflected_opt(p=4)-></li>
+    <li>adverb_deflected_opt->[adverb_deflected]</li>
+    <li>adverb_deflected->ελαφρώς</li>
+    <li>adverb_deflected->ανώφελα</li>
+    <li>deflected_consequence->αλλά αυτό [scraped_past] [adverb_deflected_opt]</li>
+    <li>deflected_consequence->[scraped_present] από την θωράκισή [RECIPIENT_possessive] [adverb_deflected_opt]</li>
+    <li>scraped_past->εξοστρακίστηκε</li>
+    <li>scraped_present->εξοστρακίζεται</li>
+    <li>missed->αστόχησε</li>
+    <li>missed->αστόχησε ελάχιστα</li></Combat_RangedDeflect.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_definite] with [INITIATOR_possessive] [WEAPON_label].</li>
+    <li>r_logentry->[INITIATOR_definite] [shot] [INITIATOR_possessive] [WEAPON_label] at [RECIPIENT_definite].</li>
+    <li>r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_definite].</li>
+    <li>r_logentry->[INITIATOR_definite] [shot_a] [WEAPON_projectile_label] [burst] at [RECIPIENT_definite].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot_a] [WEAPON_projectile_label].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot] [INITIATOR_possessive] [WEAPON_label].</li>
+    <li>shot_a->[adverb_shot] [verb_shot] a</li>
+    <li>shot_a(p=2)->[verb_shot] a</li>
+    <li>shot(p=2)->[verb_shot]</li>
+    <li>shot->[adverb_shot] [verb_shot]</li>
+    <li>shotat->shot [aburst] at</li>
+    <li>shotat->[adverb_shot] shot [aburst] at</li>
+    <li>shotat(p=0.5)->tried to shoot [aburst] at</li>
+    <li>shotat(p=0.3)->took a shot at</li>
+    <li>shotat(p=0.2)->took a [adjective_shot] shot at</li>
+    <li>shotat->fired [aburst] at</li>
+    <li>shotat->fired [aburst] [adverb_shot] at</li>
+    <li>shotat(p=0.5)->aimed and fired [aburst] at</li>
+    <li>shotat(p=0.3)->opened fire at</li>
+    <li>aburst-></li>
+    <li>aburst(BURST==True,p=3)->a burst</li>
+    <li>burst-></li>
+    <li>burst(BURST==True,p=3)->burst</li>
+    <li>verb_shot->shot</li>
+    <li>verb_shot->fired</li>
+    <li>verb_shot->discharged</li>
+    <li>adverb_shot->carefully</li>
+    <li>adverb_shot->quickly</li>
+    <li>adverb_shot->precisely</li>
+    <li>adverb_shot->deliberately</li>
+    <li>adverb_shot(initiator_flesh!=Mechanoid)->gingerly</li>
+    <li>adverb_shot->precisely</li>
+    <li>adverb_shot(initiator_flesh!=Mechanoid)->warily</li>
+    <li>adjective_shot->careful</li>
+    <li>adjective_shot->quick</li>
+    <li>adjective_shot->deliberate</li>
+    <li>adjective_shot->precise</li>
+    <li>adjective_shot(initiator_flesh!=Mechanoid)->wary</li>
+  -->
+  <Combat_RangedFire.rulePack.rulesStrings><li>r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_definite] με το [WEAPON_label] [INITIATOR_possessive].</li>
+    <li>r_logentry->[INITIATOR_definite] [shot] [WEAPON_label] [INITIATOR_possessive] κατά [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_definite].</li>
+    <li>r_logentry->[INITIATOR_definite] [shot_a] [WEAPON_projectile_label] [burst] κατά [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot_a] [WEAPON_projectile_label].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot] [WEAPON_label] [INITIATOR_possessive].</li>
+    <li>shot_a->[verb_shot] [adverb_shot] </li>
+    <li>shot_a(p=2)->[verb_shot] ένα</li>
+    <li>shot(p=2)->[verb_shot]</li>
+    <li>shot->[verb_shot] [adverb_shot]</li>
+    <li>shotat->ρίχνει [aburst] κατά</li>
+    <li>shotat->ρίχνει [adverb_shot] [aburst] εναντίον</li>
+    <li>shotat(p=0.5)->προσπαθεί να ρίξει [aburst] ενάντια</li>
+    <li>shotat(p=0.3)->πετυχαίνει ένα πυροβολισμό</li>
+    <li>shotat(p=0.2)->κάνει ένα [adjective_shot] πυροβολισμό κατά</li>
+    <li>shotat->fired [aburst] προς</li>
+    <li>shotat->fired [adverb_shot] [aburst] προς</li>
+    <li>shotat(p=0.5)->οπλίζει και ρίχνει [aburst] κατά</li>
+    <li>shotat(p=0.3)->αρχίζει να πυροβολεί προς</li>
+    <li>aburst-></li>
+    <li>aburst(BURST==True,p=3)->μία βολή</li>
+    <li>burst-></li>
+    <li>burst(BURST==True,p=3)->βολή</li>
+    <li>verb_shot->τουφεκίζει</li>
+    <li>verb_shot->ρίχνει</li>
+    <li>verb_shot->πυροβολεί</li>
+    <li>adverb_shot->προσεχτικά</li>
+    <li>adverb_shot->γρήγορα</li>
+    <li>adverb_shot->σωστά</li>
+    <li>adverb_shot->σκόπιμα</li>
+    <li>adverb_shot(initiator_flesh!=Mechanoid)->επιφυλακτικά</li>
+    <li>adverb_shot->με ακρίβεια</li>
+    <li>adverb_shot(initiator_flesh!=Mechanoid)->με το μαλακό</li>
+    <li>adjective_shot->προσεχτικό</li>
+    <li>adjective_shot->γρήγορο</li>
+    <li>adjective_shot->σκόπιμο</li>
+    <li>adjective_shot->ακριβή</li>
+    <li>adjective_shot(initiator_flesh!=Mechanoid)->διστακτικό</li></Combat_RangedFire.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] [threw] [INITIATOR_possessive] [WEAPON_projectile_label] at [RECIPIENT_definite].</li>
+    <li>r_logentry->[INITIATOR_definite] [threw_a] [WEAPON_projectile_label] at [RECIPIENT_definite].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw] [INITIATOR_possessive] [WEAPON_projectile_label].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw_a] [WEAPON_projectile_label].</li>
+    <li>threw_a->[adverb_threw] [verb_threw] a</li>
+    <li>threw_a(p=2)->[verb_threw] a</li>
+    <li>threw(p=2)->[verb_threw]</li>
+    <li>threw->[adverb_threw] [verb_threw]</li>
+    <li>verb_threw->threw</li>
+    <li>verb_threw->flung</li>
+    <li>verb_threw->launched</li>
+    <li>adverb_threw->carefully</li>
+    <li>adverb_threw->quickly</li>
+    <li>adverb_threw->precisely</li>
+    <li>adverb_threw->deliberately</li>
+    <li>adverb_threw(initiator_flesh!=Mechanoid)->gingerly</li>
+    <li>adverb_threw->precisely</li>
+    <li>adverb_threw(initiator_flesh!=Mechanoid)->warily</li>
+    <li>adjective_threw->careful</li>
+    <li>adjective_threw->quick</li>
+    <li>adjective_threw->deliberate</li>
+    <li>adjective_threw->precise</li>
+    <li>adjective_threw(initiator_flesh!=Mechanoid)->wary</li>
+  -->
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings><li>r_logentry->[INITIATOR_definite] [threw] το [WEAPON_projectile_label] [INITIATOR_possessive] κατά [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry->[INITIATOR_definite] [threw_a] [WEAPON_projectile_label] εναντίον [RECIPIENT_possessive] [RECIPIENT_definite].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw] το [WEAPON_projectile_label] [INITIATOR_possessive].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw_a] [WEAPON_projectile_label].</li>
+    <li>threw_a->[verb_threw] [adverb_threw] ένα</li>
+    <li>threw_a(p=2)->[verb_threw] ένα</li>
+    <li>threw(p=2)->[verb_threw]</li>
+    <li>threw->[adverb_threw] [verb_threw]</li>
+    <li>verb_threw->πετάει</li>
+    <li>verb_threw->ρίχνει</li>
+    <li>verb_threw->εκτοξεύει</li>
+    <li>adverb_threw->προσεχτικά</li>
+    <li>adverb_threw->γρήγορα</li>
+    <li>adverb_threw->με ακρίβεια</li>
+    <li>adverb_threw->σκόπιμα</li>
+    <li>adverb_threw(initiator_flesh!=Mechanoid)->επιφυλακτικά</li>
+    <li>adverb_threw->σωστά</li>
+    <li>adverb_threw(initiator_flesh!=Mechanoid)->με το μαλακό</li>
+    <li>adjective_threw->προσεχτικά</li>
+    <li>adjective_threw->γρήγορο</li>
+    <li>adjective_threw->σκόπιμο</li>
+    <li>adjective_threw->ακριβή</li>
+    <li>adjective_threw(initiator_flesh!=Mechanoid)->διστακτικό</li></Combat_RangedFire_Thrown.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed].</li>
+    <li>r_logentry->[INITIATOR_definite] missed [ORIGINALTARGET_definite].</li>
+    <li>r_logentry->[ORIGINALTARGET_definite] [avoidance], [INITIATOR_definite]'s [WEAPON_projectile_label] [missing].</li>
+    <li>missed(p=4)->missed</li>
+    <li>missed(p=2)->missed by a small margin</li>
+    <li>missed(p=2)->missed by a wide margin</li>
+    <li>missed->went wide</li>
+    <li>missed->flew into the air</li>
+    <li>missed->flew high into the air</li>
+    <li>missed->dug into the ground</li>
+    <li>missed->skipped off the ground and was lost</li>
+    <li>missed->dug a divot out of the ground</li>
+    <li>missed(p=0.2)->passed within millimeters of [ORIGINALTARGET_definite]</li>
+    <li>missed->passed within centimeters of [ORIGINALTARGET_definite]</li>
+    <li>missed->passed within a meter of [ORIGINALTARGET_definite]</li>
+    <li>missed->was blown offcourse</li>
+    <li>missing->missing</li>
+    <li>missing->missing by a small margin</li>
+    <li>missing->missing by a wide margin</li>
+    <li>missing->going wide</li>
+    <li>missing->flying into the air</li>
+    <li>missing->flying high into the air</li>
+    <li>missing->digging into the ground</li>
+    <li>missing->skipping off the ground and becoming lost</li>
+    <li>missing->digging a divot out of the ground</li>
+    <li>missing(p=0.2)->passing within millimeters of [ORIGINALTARGET_definite]</li>
+    <li>missing->passing within centimeters of [ORIGINALTARGET_definite]</li>
+    <li>missing->passing within a meter of [ORIGINALTARGET_definite]</li>
+    <li>missing->blowing offcourse</li>
+    <li>avoidance(ORIGINALTARGET_mobile==True)->jerked aside at the last second</li>
+    <li>avoidance(ORIGINALTARGET_mobile==True)->stumbled in an attempt to escape</li>
+    <li>avoidance(ORIGINALTARGET_mobile==True)->threw [ORIGINALTARGET_objective]self to the ground</li>
+    <li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->ducked behind [COVER_definite]</li>
+    <li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->leaped behind [COVER_definite]</li>
+  -->
+  <Combat_RangedMiss.rulePack.rulesStrings><li>r_logentry->[WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] [missed].</li>
+    <li>r_logentry->[INITIATOR_definite] αστόχησε [ORIGINALTARGET_definite].</li>
+    <li>r_logentry->[ORIGINALTARGET_definite] [avoidance], [WEAPON_projectile_label] [INITIATOR_possessive] [INITIATOR_definite] [missing].</li>
+    <li>missed(p=4)->αστόχησε</li>
+    <li>missed(p=2)->αστόχησε για λίγο</li>
+    <li>missed(p=2)->αστόχησε για πολύ</li>
+    <li>missed->ξέφυγε</li>
+    <li>missed->εκτοξεύτηκε στον αέρα</li>
+    <li>missed->πέταξε ψηλά στον αέρα</li>
+    <li>missed->σφηνώθηκε στο έδαφος</li>
+    <li>missed->αναπήδησε στο έδαφος και χάθηκε</li>
+    <li>missed->άνοιξε μια τρύπα στο έδαφος</li>
+    <li>missed(p=0.2)->πέρασε λίγα χιλιοστά από [ORIGINALTARGET_objective] [ORIGINALTARGET_definite]</li>
+    <li>missed->πέρασε μερικά εκατοστά από [ORIGINALTARGET_objective] [ORIGINALTARGET_definite]</li>
+    <li>missed->πέρασε ένα μέτρο από [ORIGINALTARGET_objective] [ORIGINALTARGET_definite]</li>
+    <li>missed->εξαφανίστηκε</li>
+    <li>missing->αστοχεί</li>
+    <li>missing->αστοχεί ελάχιστα</li>
+    <li>missing->αστοχεί αρκετά</li>
+    <li>missing->ξεφεύγει</li>
+    <li>missing->εκτοξεύεται στον αέρα</li>
+    <li>missing->πετάγεται ψιλά στο κενό</li>
+    <li>missing->σφηνώνει στο χώμα</li>
+    <li>missing->αναπηδά στο έδαφος και εξαφανίζεται</li>
+    <li>missing->ανοίγει μια οπή στο έδαφος</li>
+    <li>missing(p=0.2)->περνάει ξυστά ελάχιστα χιλιοστά από [ORIGINALTARGET_objective] [ORIGINALTARGET_definite]</li>
+    <li>missing->περνά λίγα εκατοστά από [ORIGINALTARGET_objective] [ORIGINALTARGET_definite]</li>
+    <li>missing->περνά ένα μέτρο από [ORIGINALTARGET_objective] [ORIGINALTARGET_definite]</li>
+    <li>missing->εξαφανίζεται</li>
+    <li>avoidance(ORIGINALTARGET_mobile==True)->εκτινάσσεται το τελευταίο δευτερόλεπτο</li>
+    <li>avoidance(ORIGINALTARGET_mobile==True)->σκοντάφτει σε μια προσπάθεια να ξεφύγει</li>
+    <li>avoidance(ORIGINALTARGET_mobile==True)->πετάγεται στο έδαφος</li>
+    <li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->έσκυψε πίσω από [COVER_definite]</li>
+    <li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->πήδηξε πίσω από [COVER_definite]</li></Combat_RangedMiss.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] and [recipient_part_destroyed1_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], and [recipient_part_destroyed2_label]</li>
+    <li>destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label], and [recipient_part_destroyed3_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==1)->[recipient_part_damaged0_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] and [recipient_part_damaged1_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], and [recipient_part_damaged2_label]</li>
+    <li>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], and [recipient_part_damaged3_label]</li>
+    <li>expertly->expertly</li>
+    <li>expertly->adeptly</li>
+    <li>expertly->adroitly</li>
+    <li>expertly->deftly</li>
+    <li>expertly->skillfully</li>
+    <li>expertly->slickly</li>
+    <li>expertly->professionally</li>
+    <li>expertly->aptly</li>
+    <li>expertly->dexterously</li>
+    <li>expertly->cleverly</li>
+    <li>expertly->masterfully</li>
+    <li>expertly->artistically</li>
+    <li>expertly->with skill</li>
+    <li>expertly->with impressive experience</li>
+    <li>expertly->with flair</li>
+    <li>expertly->with care</li>
+    <li>expertly->with precision</li>
+    <li>expertly->with proficiency</li>
+    <li>expertly->with strength</li>
+    <li>expertly->with dexterity</li>
+    <li>expertly->with mastery</li>
+    <li>expertly->with artistry</li>
+    <li>expertly->with professionalism</li>
+    <li>expertly->like a virtuoso</li>
+    <li>expertly->like an expert</li>
+    <li>expertly->like a master</li>
+    <li>expertly->like an artist</li>
+    <li>expertly->like a pro</li>
+    <li>expert->expert</li>
+    <li>expert->adept</li>
+    <li>expert->adroit</li>
+    <li>expert->deft</li>
+    <li>expert->skillful</li>
+    <li>expert->slick</li>
+    <li>expert->professional</li>
+    <li>expert->apt</li>
+    <li>expert->dexterous</li>
+    <li>expert->clever</li>
+    <li>expert->masterful</li>
+    <li>expert->artistic</li>
+  -->
+  <Combat_WoundIncludes.rulePack.rulesStrings><li>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] και [recipient_part_destroyed1_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], και [recipient_part_destroyed2_label]</li>
+    <li>destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label], και [recipient_part_destroyed3_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==1)->[recipient_part_damaged0_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] και [recipient_part_damaged1_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], και [recipient_part_damaged2_label]</li>
+    <li>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], και [recipient_part_damaged3_label]</li>
+    <li>expertly->επιδέξια</li>
+    <li>expertly->με μαεστρία</li>
+    <li>expertly->με επιδέξιο τρόπο</li>
+    <li>expertly->με άνεση</li>
+    <li>expertly->ικανά</li>
+    <li>expertly->έμπειρα</li>
+    <li>expertly->επαγγελματικά</li>
+    <li>expertly->κατάλληλα</li>
+    <li>expertly->με δεξιοσύνη</li>
+    <li>expertly->έξυπνα</li>
+    <li>expertly->περίτεχνα</li>
+    <li>expertly->καλλιτεχνικά</li>
+    <li>expertly->με ικανότητα</li>
+    <li>expertly->με καταπληκτική εμπειρία</li>
+    <li>expertly->με κομψότητα</li>
+    <li>expertly->με φροντίδα</li>
+    <li>expertly->με ακρίβεια</li>
+    <li>expertly->με ευχέρεια</li>
+    <li>expertly->με δύναμη</li>
+    <li>expertly->με μαστοριά</li>
+    <li>expertly->με αριστοτεχνία </li>
+    <li>expertly->με επιδεξιότητα</li>
+    <li>expertly->με επαγγελματισμό</li>
+    <li>expertly->σαν δεξιοτέχνης</li>
+    <li>expertly->ως εδικός</li>
+    <li>expertly->σαν αυθεντία</li>
+    <li>expertly->σαν καλλιτέχνης</li>
+    <li>expertly->ως επαγγελματίας</li>
+    <li>expert->ειδήμονας</li>
+    <li>expert->δεξιοτεχνική</li>
+    <li>expert->επιδέξια</li>
+    <li>expert->ικανή</li>
+    <li>expert->περίτεχνη</li>
+    <li>expert->έμπειρη</li>
+    <li>expert->επαγγελματίας</li>
+    <li>expert->κατάλληλη</li>
+    <li>expert->επιτήδεια</li>
+    <li>expert->έξυπνη</li>
+    <li>expert->αριστουργηματική</li>
+    <li>expert->καλλιτέχνης</li></Combat_WoundIncludes.rulePack.rulesStrings>
+  
+</LanguageData>

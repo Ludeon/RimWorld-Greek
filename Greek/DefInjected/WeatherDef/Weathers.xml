@@ -1,29 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: clear -->
   <Clear.label>καθαρός</Clear.label>
+  <!-- EN: A clear day. No penalties or modifiers. -->
   <Clear.description>Μια καθαρή μέρα. Χωρίς επιπτώσεις ή αλλαγές.</Clear.description>
-
-  <Fog.label>ομίχλη</Fog.label>
-  <Fog.description>Η ομίχλη μειώνει την ευστοχία στα όπλα βεληνεκούς.</Fog.description>
-
-  <Rain.label>βροχή</Rain.label>
-  <Rain.description>Η βροχή μειώνει την ευστοχία στα όπλα βεληνεκούς, σβήνει φωτιές και καθυστερεί τους ανθρώπους.</Rain.description>
-
+  
+  <!-- EN: dry thunderstorm -->
   <DryThunderstorm.label>ξηρή καταιγίδα</DryThunderstorm.label>
+  <!-- EN: Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out. -->
   <DryThunderstorm.description>Οι ξηρές καταιγίδες είναι επικίνδυνες διότι οι κεραυνοί μπορούν να ανάψουν φωτιές και δεν υπάρχει βροχή να τις σβήσει.</DryThunderstorm.description>
-
-  <RainyThunderstorm.label>βροχερή καταιγίδα</RainyThunderstorm.label>
-  <RainyThunderstorm.description>Οι κεραυνοί θα ανάψουν φωτιές αλλά η βροχή θα τις σβήσει. Η βροχή επίσης, μειώνει την ευστοχία και καθυστερεί τους ανθρώπους.</RainyThunderstorm.description>
-
+  
+  <!-- EN: fog -->
+  <Fog.label>ομίχλη</Fog.label>
+  <!-- EN: Fog reduces the accuracy of ranged weapons. -->
+  <Fog.description>Η ομίχλη μειώνει την ευστοχία στα όπλα βεληνεκούς.</Fog.description>
+  
+  <!-- EN: foggy rain -->
   <FoggyRain.label>ομιχλώδης βροχή</FoggyRain.label>
+  <!-- EN: Reduces accuracy and movement speed. -->
   <FoggyRain.description>Μειώνει την ευστοχία και την ταχύτητα των αποίκων.</FoggyRain.description>
-
-  <SnowHard.label>χιονοθύελλα</SnowHard.label>
-  <SnowHard.description>Η χιονοθύελλα μειώνει την ευστοχία στα όπλα βεληνεκούς, σβήνει φωτιές και καθυστερεί τους ανθρώπους.</SnowHard.description>
-
+  
+  <!-- EN: rain -->
+  <Rain.label>βροχή</Rain.label>
+  <!-- EN: Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <Rain.description>Η βροχή μειώνει την ευστοχία στα όπλα βεληνεκούς, σβήνει φωτιές και καθυστερεί τους ανθρώπους.</Rain.description>
+  
+  <!-- EN: rainy thunderstorm -->
+  <RainyThunderstorm.label>βροχερή καταιγίδα</RainyThunderstorm.label>
+  <!-- EN: The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
+  <RainyThunderstorm.description>Οι κεραυνοί θα ανάψουν φωτιές αλλά η βροχή θα τις σβήσει. Η βροχή επίσης, μειώνει την ευστοχία και καθυστερεί τους ανθρώπους.</RainyThunderstorm.description>
+  
+  <!-- EN: gentle snow -->
   <SnowGentle.label>ελαφριά χιονόπτωση</SnowGentle.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
   <SnowGentle.description>Το απαλό χιόνι μειώνει την ευστοχία στα όπλα βεληνεκούς, σβήνει φωτιές και καθυστερεί τους ανθρώπους.</SnowGentle.description>
-
-
+  
+  <!-- EN: hard snow -->
+  <SnowHard.label>χιονοθύελλα</SnowHard.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowHard.description>Η χιονοθύελλα μειώνει την ευστοχία στα όπλα βεληνεκούς, σβήνει φωτιές και καθυστερεί τους ανθρώπους.</SnowHard.description>
+  
 </LanguageData>

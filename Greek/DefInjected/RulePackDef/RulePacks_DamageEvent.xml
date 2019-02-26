@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>damage_source->the [roof] [collapsed] on</li>
+    <li>roof->roof</li>
+    <li>roof->roofing</li>
+    <li>roof->ceiling</li>
+    <li>collapsed->collapsed</li>
+    <li>collapsed->fell</li>
+    <li>collapsed->caved in</li>
+    <li>damaged_present->smashing</li>
+    <li>damaged_present->bashing</li>
+    <li>damaged_present->clobbering</li>
+    <li>damaged_present->bruising</li>
+    <li>damaged_present->lacerating</li>
+    <li>destroyed_present->shattering</li>
+    <li>destroyed_present->crushing</li>
+    <li>destroyed_present->obliterating</li>
+    <li>destroyed_present->annihilating</li>
+    <li>destroyed_present->breaking</li>
+  -->
+  <DamageEvent_Ceiling.rulePack.rulesStrings><li>damage_source->η [roof] [collapsed] πάνω σ</li>
+    <li>roof->σκεπή</li>
+    <li>roof->στέγη</li>
+    <li>roof->οροφή</li>
+    <li>collapsed->κατέρρευσε</li>
+    <li>collapsed->έπεσε</li>
+    <li>collapsed->υποχώρησε</li>
+    <li>damaged_present->σπάζοντας</li>
+    <li>damaged_present->κοπανώντας</li>
+    <li>damaged_present->κυτπόντας</li>
+    <li>damaged_present->μελανιάζοντας</li>
+    <li>damaged_present->γδέρνοντας</li>
+    <li>destroyed_present->θρυμματίζοντας</li>
+    <li>destroyed_present->συνθλίβοντας</li>
+    <li>destroyed_present->καταστρέφοντας</li>
+    <li>destroyed_present->εξαλείφοντας</li>
+    <li>destroyed_present->σπάζοντας</li></DamageEvent_Ceiling.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damage_source->[fire] burned</li>
+    <li>fire(p=3)->fire</li>
+    <li>fire(p=3)->a fire</li>
+    <li>fire(p=3)->the fire</li>
+    <li>fire->heat</li>
+    <li>fire->a conflagration</li>
+    <li>fire->an inferno</li>
+    <li>damaged_present->scorching</li>
+    <li>damaged_present->broiling</li>
+    <li>damaged_present->searing</li>
+    <li>damaged_present->singeing</li>
+    <li>destroyed_present->charring</li>
+    <li>destroyed_present->roasting</li>
+    <li>destroyed_present->cooking</li>
+    <li>destroyed_present->cremating</li>
+  -->
+  <DamageEvent_Fire.rulePack.rulesStrings><li>damage_source->[fire] έκαψε </li>
+    <li>fire(p=3)->μία φωτιά</li>
+    <li>fire(p=3)->μια φλόγα</li>
+    <li>fire(p=3)->η φωτιά</li>
+    <li>fire->η θερμότητα</li>
+    <li>fire->μια πυρκαγιά</li>
+    <li>fire->μια πύρινη λαίλαπα</li>
+    <li>damaged_present->τσουρουφλίζοντας</li>
+    <li>damaged_present->καψαλίζοντας</li>
+    <li>damaged_present->καυτηριάζοντας</li>
+    <li>damaged_present->καίγοντας</li>
+    <li>destroyed_present->καρβουνιάζοντας</li>
+    <li>destroyed_present->ψήνωντας</li>
+    <li>destroyed_present->μαγειρεύοντας</li>
+    <li>destroyed_present->αποτεφρώνοντας</li></DamageEvent_Fire.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[damage_source] [RECIPIENT_nameDef], [destroyed_present] [RECIPIENT_possessive] [destroyed_targets].</li>
+    <li>r_logentry->[damage_source] [RECIPIENT_nameDef], [destroyed_present] [RECIPIENT_possessive] [destroyed_targets] and [damaged_present] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[damage_source] [RECIPIENT_nameDef], [damaged_present] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef].</li>
+  -->
+  <DamageEvent_Include.rulePack.rulesStrings><li>r_logentry->[damage_source][RECIPIENT_objective] [RECIPIENT_nameDef], [destroyed_present] [destroyed_targets] [RECIPIENT_possessive] .</li>
+    <li>r_logentry->[damage_source][RECIPIENT_objective] [RECIPIENT_nameDef], [destroyed_present] [destroyed_targets] [RECIPIENT_possessive] και [damaged_present] [damaged_targets] [RECIPIENT_possessive].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[damage_source][RECIPIENT_objective] [RECIPIENT_nameDef], [damaged_present] [damaged_targets] [RECIPIENT_possessive].</li>
+    <li>r_logentry(p=0.1)->[damage_source][RECIPIENT_objective] [RECIPIENT_nameDef].</li></DamageEvent_Include.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damage_source->The [sky] opened up on</li>
+    <li>damage_source->A beam of incredible [power] [damaged_past]</li>
+    <li>damage_source->A column of [light] [damaged_past]</li>
+    <li>sky->sky</li>
+    <li>sky->clouds</li>
+    <li>sky->heavens</li>
+    <li>power->power</li>
+    <li>power->energy</li>
+    <li>power->heat</li>
+    <li>light->light</li>
+    <li>light->heat</li>
+    <li>light->flame</li>
+    <li>light(p=0.2)->incandescence</li>
+  -->
+  <DamageEvent_PowerBeam.rulePack.rulesStrings><li>damage_source->[sky] άνοιξαν πάνω από </li>
+    <li>damage_source->Μία ακτίνα απίστευτης  [power] [damaged_past] </li>
+    <li>damage_source->Μια [light] στήλη  [damaged_past] </li>
+    <li>sky->ο ουρανός</li>
+    <li>sky->τα σύννεφα</li>
+    <li>sky->οι ουρανοί</li>
+    <li>power->δύναμης</li>
+    <li>power->ενέργειας</li>
+    <li>power->θερμοκρασίας</li>
+    <li>light->φωτεινή</li>
+    <li>light->καυτή</li>
+    <li>light->πύρινη</li>
+    <li>light(p=0.2)->πυρακτωμένη</li></DamageEvent_PowerBeam.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damage_source->A [spiraling] tornado [enveloped]</li>
+    <li>destroyed_present(p=3)->tearing off</li>
+    <li>spiraling->spiraling</li>
+    <li>spiraling->whirling</li>
+    <li>spiraling->spinning</li>
+    <li>spiraling(p=10)-></li>
+    <li>enveloped(p=8)->enveloped</li>
+    <li>enveloped->engulfed</li>
+    <li>enveloped->surrounded</li>
+  -->
+  <DamageEvent_Tornado.rulePack.rulesStrings><li>damage_source->Ένας [spiraling] σίφουνας [enveloped] </li>
+    <li>destroyed_present(p=3)->σκίζοντας</li>
+    <li>spiraling->σπειροειδής</li>
+    <li>spiraling->περιστρεφόμενος</li>
+    <li>spiraling->ελικοειδής</li>
+    <li>spiraling(p=10)-></li>
+    <li>enveloped(p=8)->τύλιξε</li>
+    <li>enveloped->σκέπασε</li>
+    <li>enveloped->περικύκλωσε</li></DamageEvent_Tornado.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damage_source->[spiketrap] stabbed</li>
+    <li>damage_source->[spiketrap] struck</li>
+    <li>damage_source->[spiketrap] launched at</li>
+    <li>spiketrap(p=3)->a spike trap</li>
+    <li>spiketrap(p=3)->the spike trap</li>
+    <li>spiketrap->spikes</li>
+    <li>spiketrap->a sharp trap</li>
+    <li>spiketrap->a spiky trap</li>
+    <li>damaged_present->perforating</li>
+    <li>damaged_present->spearing</li>
+    <li>damaged_present->penetrating</li>
+    <li>damaged_present->jabbing into</li>
+    <li>destroyed_present->tearing apart</li>
+    <li>destroyed_present->shredding</li>
+    <li>destroyed_present->eviscerating</li>
+    <li>destroyed_present->exploding</li>
+  -->
+  <DamageEvent_TrapSpike.rulePack.rulesStrings><li>damage_source->[spiketrap] καρφώθηκε σ</li>
+    <li>damage_source->[spiketrap] χτύπησε σ</li>
+    <li>damage_source->[spiketrap] πετάχτηκε σ</li>
+    <li>spiketrap(p=3)->μια παγίδα με καρφιά</li>
+    <li>spiketrap(p=3)->η παγίδα με τα καρφιά</li>
+    <li>spiketrap->τα καρφιά</li>
+    <li>spiketrap->μια αιχμηρή παγίδα</li>
+    <li>spiketrap->μία αγκαθωτή παγίδα</li>
+    <li>damaged_present->τρυπώντας</li>
+    <li>damaged_present->λογχίζοντας</li>
+    <li>damaged_present->εισχωρώντας</li>
+    <li>damaged_present->εμβολίζοντας</li>
+    <li>destroyed_present->κομματιάζοντας</li>
+    <li>destroyed_present->ξεσκίζοντας</li>
+    <li>destroyed_present->ξεκοιλιάζοντας</li>
+    <li>destroyed_present->καρφώνοντας</li></DamageEvent_TrapSpike.rulePack.rulesStrings>
+  
+</LanguageData>

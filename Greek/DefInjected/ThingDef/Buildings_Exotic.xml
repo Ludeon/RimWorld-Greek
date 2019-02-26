@@ -1,17 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <CrashedPsychicEmanatorShipPart.label>αρχαίο τμήμα διαστημοπλοίου (ψυχικό)</CrashedPsychicEmanatorShipPart.label>
-  <CrashedPsychicEmanatorShipPart.description>Ένα μυστηριώδες κομμάτι ενός διαστημοπλοίου. Μπορεί να περιέχει εξωτικά υλικά και υπολογιστές. Αυτό φαίνεται να εκπέμπει ψυχικά κύματα.</CrashedPsychicEmanatorShipPart.description>
-
+  
+  <!-- EN: ship part (poison) -->
   <CrashedPoisonShipPart.label>αρχαίο τμήμα διαστημοπλοίου (δηλητηριώδες)</CrashedPoisonShipPart.label>
-  <CrashedPoisonShipPart.description>Ένα μυστηριώδης κατεστραμμένο μέρος ενός διαστημοπλοίου. Μπορεί να περιέχει εξωτικά μέταλλα και υπολογιστές. Αυτό μοιάζει να δηλητηριάζει το έδαφος γύρω του.</CrashedPoisonShipPart.description>
-
-
-  <!-- Διάφορα (Misc) -->
-
+  <!-- EN: A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be killing plant life around it. -->
+  <CrashedPoisonShipPart.description>Ένα μυστηριώδης κατεστραμμένο μέρος ενός διαστημοπλοίου. Μπορεί να περιέχει οποιοδήποτε είδος θανάσιμων υπερασπιστών και εξωτικών υλικών. Αυτό μοιάζει να δηλητηριάζει το έδαφος γύρω του.</CrashedPoisonShipPart.description>
+  
+  <!-- EN: ship part (psychic) -->
+  <CrashedPsychicEmanatorShipPart.label>αρχαίο τμήμα διαστημοπλοίου (ψυχικό)</CrashedPsychicEmanatorShipPart.label>
+  <!-- EN: A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be emanating psychic waves. -->
+  <CrashedPsychicEmanatorShipPart.description>Ένα μυστηριώδες κομμάτι ενός διαστημοπλοίου. Μπορεί να περιέχει οποιοδήποτε είδος θανάσιμων υπερασπιστών και εξωτικών υλικών. Αυτό φαίνεται να εκπέμπει ψυχικά κύματα.</CrashedPsychicEmanatorShipPart.description>
+  
+  <!-- EN: ship chunk -->
   <ShipChunk.label>κομμάτι διαστημοπλοίου</ShipChunk.label>
-  <ShipChunk.description>Ένα κομμάτι διαστημοπλοίου. Μπορεί να αποδομηθεί για να αποδώσει χρήσιμο ατσάλι και εξαρτήματα.</ShipChunk.description>
-
-
+  <!-- EN: A chunk of a spacecraft. Can be deconstructed to yield useful resources. -->
+  <ShipChunk.description>Ένα κομμάτι διαστημοπλοίου. Μπορεί να αποδομηθεί για να αποδώσει χρήσιμα υλικά.</ShipChunk.description>
+  
 </LanguageData>

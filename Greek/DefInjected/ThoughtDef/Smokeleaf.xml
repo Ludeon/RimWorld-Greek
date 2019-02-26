@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <SmokeleafHigh.stages.0.label>φτιάχτηκε με καπνόφυλλα</SmokeleafHigh.stages.0.label>
-  <SmokeleafHigh.stages.0.description>Είμαι, σαν, πέτρινος, άνθρωπος.</SmokeleafHigh.stages.0.description>
-
-
-  <!-- Εθισμός στα καπνόφυλλα (Smokeleaf addiction) -->
-
-  <SmokeleafWithdrawal.stages.1.label>στέρηση από τα καπνόφυλλα</SmokeleafWithdrawal.stages.1.label>
-  <SmokeleafWithdrawal.stages.1.description>Θέλω πραγματικά να καπνίσω.</SmokeleafWithdrawal.stages.1.description>
-
-
+  
+  <!-- EN: high on smokeleaf -->
+  <SmokeleafHigh.stages.high_on_smokeleaf.label>φτιάχτηκε με καπνόφυλλα</SmokeleafHigh.stages.high_on_smokeleaf.label>
+  <!-- EN: I'm, like, stoned, man. -->
+  <SmokeleafHigh.stages.high_on_smokeleaf.description>Είμαι, σαν, πέτρινος, άνθρωπος.</SmokeleafHigh.stages.high_on_smokeleaf.description>
+  
+  <!-- EN: smokeleaf withdrawal -->
+  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>στέρηση από τα καπνόφυλλα</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>
+  <!-- EN: I really wish I could smoke. I feel jittery, and my gut has that anxious sensation all the time. -->
+  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>Θέλω πραγματικά να καπνίσω. Νιώθω αμηχανία και το ένστικτό μου έχει αυτή την ανήσυχη αίσθηση όλη την ώρα.</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>
+  
 </LanguageData>

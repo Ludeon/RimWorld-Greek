@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cat -->
+  <Cat.label>γάτα</Cat.label>
+  <!-- EN: kitten -->
+  <Cat.lifeStages.kitten.label>γατούλα</Cat.lifeStages.kitten.label>
+  
+  <!-- EN: husky -->
+  <Husky.label>χάσκυ</Husky.label>
+  <!-- EN: huskies -->
+  <Husky.labelPlural>χάσκυ</Husky.labelPlural>
+  <!-- EN: husky puppy -->
+  <Husky.lifeStages.husky_puppy.label>κουτάβι χάσκυ</Husky.lifeStages.husky_puppy.label>
+  <!-- EN: husky puppies -->
+  <Husky.lifeStages.husky_puppy.labelPlural>κουτάβια χάσκυ</Husky.lifeStages.husky_puppy.labelPlural>
+  
+  <!-- EN: labrador retriever -->
+  <LabradorRetriever.label>λαμπραντόρ ιχνηλάτης</LabradorRetriever.label>
+  <!-- EN: labrador puppy -->
+  <LabradorRetriever.lifeStages.labrador_puppy.label>κουτάβι λαμπραντόρ</LabradorRetriever.lifeStages.labrador_puppy.label>
+  <!-- EN: labrador puppies -->
+  <LabradorRetriever.lifeStages.labrador_puppy.labelPlural>κουτάβια λαμπραντόρ</LabradorRetriever.lifeStages.labrador_puppy.labelPlural>
+  
+  <!-- EN: yorkshire terrier -->
+  <YorkshireTerrier.label>γιορκσάιρ τεριέ</YorkshireTerrier.label>
+  <!-- EN: yorkshire terrier puppy -->
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>κουτάβι γιορκσάιρ τεριέ</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>
+  <!-- EN: yorkshire terrier puppies -->
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>κουτάβια γιορκσάιρ τεριέ</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>
+  
+</LanguageData>

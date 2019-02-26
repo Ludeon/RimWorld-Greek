@@ -1,32 +1,49 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: abandoned settlement -->
+  <AbandonedSettlement.label>εγκαταλελειμμένη αποικία</AbandonedSettlement.label>
+  <!-- EN: An abandoned settlement. -->
+  <AbandonedSettlement.description>Ένας εγκαταλελειμμένος οικισμός.</AbandonedSettlement.description>
+  
+  <!-- EN: attacked caravan -->
+  <AttackedNonPlayerCaravan.label>καραβάνι που δέχεται επίθεση</AttackedNonPlayerCaravan.label>
+  <!-- EN: A caravan under attack. -->
+  <AttackedNonPlayerCaravan.description>Ένα καραβάνι κάτω από επίθεση.</AttackedNonPlayerCaravan.description>
+  
+  <!-- EN: caravan -->
   <Caravan.label>καραβάνι</Caravan.label>
+  <!-- EN: A group of traveling people. -->
   <Caravan.description>Μια ομάδα ανθρώπων που ταξιδεύουν.</Caravan.description>
-
-  <FactionBase.label>βάση φατρίας</FactionBase.label>
-  <FactionBase.description>Μια βάση μιας από τις φατρίες.</FactionBase.description>
-
-  <AbandonedFactionBase.label>εγκαταλελειμμένη βάση φατρίας</AbandonedFactionBase.label>
-  <AbandonedFactionBase.description>Μια εγκαταλελειμμένη βάση μιας από τις φατρίες.</AbandonedFactionBase.description>
-
-  <DestroyedFactionBase.label>κατεστραμμένη βάση φατρίας</DestroyedFactionBase.label>
-  <DestroyedFactionBase.description>Μία κατεστραμμένη βάση φατρίας.</DestroyedFactionBase.description>
-
+  
+  <!-- EN: destroyed settlement -->
+  <DestroyedSettlement.label>κατεστραμμένη αποικία</DestroyedSettlement.label>
+  <!-- EN: A destroyed settlement. -->
+  <DestroyedSettlement.description>Μία κατεστραμμένη βάση φατρίας.</DestroyedSettlement.description>
+  
+  <!-- EN: landed ship -->
   <EscapeShip.label>προσγειωμένο διαστημόπλοιο</EscapeShip.label>
+  <!-- EN: The location of a hidden ship which can help you escape the planet. -->
   <EscapeShip.description>Η τοποθεσία ενός κρυμμένου διαστημόπλοιου που μπορεί να σας βοηθήσει να ξεφύγετε από τον πλανήτη.</EscapeShip.description>
-
-  <AttackedCaravan.label>καραβάνι που δέχεται επίθεση</AttackedCaravan.label>
-  <AttackedCaravan.description>Ένα καραβάνι κάτω από επίθεση.</AttackedCaravan.description>
-
-  <TravelingTransportPods.label>άτρακτοι μεταφοράς</TravelingTransportPods.label>
-  <TravelingTransportPods.description>Άτρακτοι μεταφοράς κατά την πτήση.</TravelingTransportPods.description>
-
-  <RoutePlannerWaypoint.label>σημείο αναφοράς</RoutePlannerWaypoint.label>
-  <RoutePlannerWaypoint.description>Ένα προσωρινό σημείο.</RoutePlannerWaypoint.description>
-
+  
+  <!-- EN: peace talks -->
   <PeaceTalks.label>ειρηνευτικές συνομιλίες</PeaceTalks.label>
+  <!-- EN: A site designated for peace talks. -->
   <PeaceTalks.description>Ένας τόπος που έχει οριστεί για ειρηνευτικές συνομιλίες.</PeaceTalks.description>
-
-
+  
+  <!-- EN: waypoint -->
+  <RoutePlannerWaypoint.label>σημείο αναφοράς</RoutePlannerWaypoint.label>
+  <!-- EN: A temporary waypoint. -->
+  <RoutePlannerWaypoint.description>Ένα προσωρινό σημείο.</RoutePlannerWaypoint.description>
+  
+  <!-- EN: settlement -->
+  <Settlement.label>αποικία</Settlement.label>
+  <!-- EN: A base of one of the factions. -->
+  <Settlement.description>Μια βάση μιας από τις φατρίες.</Settlement.description>
+  
+  <!-- EN: transport pods -->
+  <TravelingTransportPods.label>άτρακτοι μεταφοράς</TravelingTransportPods.label>
+  <!-- EN: Transport pods in flight. -->
+  <TravelingTransportPods.description>Άτρακτοι μεταφοράς κατά την πτήση.</TravelingTransportPods.description>
+  
 </LanguageData>

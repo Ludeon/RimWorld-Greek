@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beer brewing -->
+  <Brewing.label>ζυθοποιία</Brewing.label>
+  <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
+  <Brewing.description>Σας επιτρέπει να δημιουργήσετε ένα ζυθοποιείο για να μετατρέψετε το λυκίσκο σε νόστιμη, νόστιμη μπύρα.</Brewing.description>
+  
+  <!-- EN: carpet making -->
+  <CarpetMaking.label>παραγωγή χαλιών</CarpetMaking.label>
+  <!-- EN: Weave beautiful carpets from cloth. -->
+  <CarpetMaking.description>Επιτρέπει στους αποίκους να φτιάξουν χαλιά από υφάσματα.</CarpetMaking.description>
+  
+  <!-- EN: cocoa -->
+  <Cocoa.label>κακάο</Cocoa.label>
+  <!-- EN: Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation, and it's valuable on the market too. -->
+  <Cocoa.description>Φυτεύεστε κακαόδεντρα για να δημιουργήσετε τη δική σας νόστιμη σοκολάτα. Η κατανάλωση σοκολάτας ικανοποιεί την ανάγκη για ευχαρίστηση και είναι πολύτιμη στην αγορά.</Cocoa.description>
+  
+  <!-- EN: complex clothing -->
+  <ComplexClothing.label>πολύπλοκα ρούχα</ComplexClothing.label>
+  <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
+  <ComplexClothing.description>Ράψτε περίπλοκα ενδύματα όπως παντελόνια, χιτώνες και καπέλα γελαδάρηδων.</ComplexClothing.description>
+  
+  <!-- EN: complex furniture -->
+  <ComplexFurniture.label>πολύπλοκα έπιπλα</ComplexFurniture.label>
+  <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more. -->
+  <ComplexFurniture.description>Κατασκευάστε πολύπλοκα έπιπλα όπως κρεβάτια, τραπέζια, καρέκλες τραπεζαρίας, πολυθρόνες, συρταρίερες, ερμάρια εργαλείων, τραπέζια μπιλιάρδου, τραπέζια πόκερ, αεραγωγούς, σαρκοφάγους και πολλά άλλα.</ComplexFurniture.description>
+  
+  <!-- EN: devilstrand -->
+  <Devilstrand.label>σατανική τούφα</Devilstrand.label>
+  <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
+  <Devilstrand.description>Επιτρέπει στους αποίκους να φυτέψουν τη σατανική τούφα, ένα αργά αναπτυσσόμενο μανιτάρι που αποδίδει μια πολύτιμη φυτική ίνα, ανθεκτική στη θερμότητα.</Devilstrand.description>
+  
+  <!-- EN: drug production -->
+  <DrugProduction.label>παραγωγή ναρκωτικών</DrugProduction.label>
+  <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
+  <DrugProduction.description>Τα βασικά της παρασκευής και της σύνθεσης του ναρκωτικού. Απαιτείται περαιτέρω έρευνα για να φτιάξετε συγκεκριμένα ναρκωτικά.</DrugProduction.description>
+  
+  <!-- EN: go-juice production -->
+  <GoJuiceProduction.label>παραγωγή χυμού που σε στέλνει</GoJuiceProduction.label>
+  <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
+  <GoJuiceProduction.description>Δημιουργήστε το χυμό που σε στέλνει, ένα συνθετικό ναρκωτικό που ενισχύει την απόδοση στη μάχη, βελτιώνει το σημάδι, τη μάχη σώμα με σώμα, την ικανότητα κίνησης και ελαττώνει τον πόνο.</GoJuiceProduction.description>
+  
+  <!-- EN: greatbow -->
+  <Greatbow.label>μεγάλα τόξα</Greatbow.label>
+  <!-- EN: Craft greatbows for killing enemies at great range. -->
+  <Greatbow.description>Μάθετε να παρασκευάζετε ισχυρά μεγάλα τόξα για να κτυπάτε τους αντίπαλους από μακριά.</Greatbow.description>
+  
+  <!-- EN: long blades -->
+  <LongBlades.label>μακριές λεπίδες</LongBlades.label>
+  <!-- EN: Craft longswords and spears. -->
+  <LongBlades.description>Χειροτεχνία μακρύξιφων και δοράτων.</LongBlades.description>
+  
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>παθητικός ψυκτήρας</PassiveCooler.label>
+  <!-- EN: Make passive coolers, to cool indoor spaces without using electricity. -->
+  <PassiveCooler.description>Κάντε παθητικούς ψυκτήρες, ένας τρόπος για να κρυώνετε εσωτερικούς χώρους χωρίς να χρησιμοποιείτε ηλεκτρική ενέργεια.</PassiveCooler.description>
+  
+  <!-- EN: pemmican -->
+  <Pemmican.label>αποξηραμένο κρέας</Pemmican.label>
+  <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
+  <Pemmican.description>Φτιάξτε αποξηραμένο κρέας, ένα μείγμα κρέατος και φυτικής ύλης που διατηρείται σε καλή κατάσταση για μεγάλο χρονικό διάστημα. Εξαιρετικό για ταξίδια.</Pemmican.description>
+  
+  <!-- EN: penoxycyline production -->
+  <PenoxycylineProduction.label>παραγωγή πενοξυκυλίνης</PenoxycylineProduction.label>
+  <!-- EN: Produce penoxycline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
+  <PenoxycylineProduction.description>Μάθετε να παράγετε πενοξυκυλίνη, ένα ναρκωτικό πρόληψης ασθενειών όπως πανώλη, ελονοσία και άλλων.</PenoxycylineProduction.description>
+  
+  <!-- EN: plate armor -->
+  <PlateArmor.label>πλάκες θωράκισης</PlateArmor.label>
+  <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
+  <PlateArmor.description>Σμιλεύετε στολές από μεταλλικές ή ξύλινες πλάκες θωράκισης. Αυτή η βαριά θωράκιση επιβραδύνει αισθητά την κίνηση, αλλά προστατεύει πολύ αποτελεσματικά.</PlateArmor.description>
+  
+  <!-- EN: psychite refining -->
+  <PsychiteRefining.label>διύλιση ψυχιτών</PsychiteRefining.label>
+  <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
+  <PsychiteRefining.description>Μάθετε να διυλίζετε τα φύλλα ψυχοειδών σε νιφάδες και κόκα, διαφορετικές μορφές του ευφορικού ψυχεδελικού ναρκωτικού.</PsychiteRefining.description>
+  
+  <!-- EN: psychoid brewing -->
+  <PsychoidBrewing.label>ψυχοειδής ζυθοποιία</PsychoidBrewing.label>
+  <!-- EN: Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove. -->
+  <PsychoidBrewing.description>Προετοιμάστε τα φύλλα ψυχοειδών σε ένα ελαφρώς ευφημικό και εθιστικό τσάι στην εστία φωτιάς ή στη μαγειρική εστία.</PsychoidBrewing.description>
+  
+  <!-- EN: recurve bow -->
+  <RecurveBow.label>κυρτό τόξο</RecurveBow.label>
+  <!-- EN: Build the recurve bow, an effective and inexpensive ranged weapon. -->
+  <RecurveBow.description>Οι προηγμένες τεχνικές κατασκευής επιτρέπουν την παραγωγή του κυρτού στις άκρες τόξου, ενός αποτελεσματικού και φθηνού όπλου.</RecurveBow.description>
+  
+  <!-- EN: smithing -->
+  <Smithing.label>μεταλλουργία</Smithing.label>
+  <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
+  <Smithing.description>Κατασκευάστε σιδηρουργία για την κατασκευή μεταλλικών όπλων και όπως μαχαίρια, ρωμαϊκά σπαθιά και ρόπαλα. Επεξεργαστείτε το μέταλλο σε καθαρά, όμορφα πλακάκια δαπέδου.</Smithing.description>
+  
+  <!-- EN: stonecutting -->
+  <Stonecutting.label>κοπή πέτρας</Stonecutting.label>
+  <!-- EN: Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways. -->
+  <Stonecutting.description>Κόψτε κομμάτια βράχου σε πέτρινα τούβλα για χρήση στις κατασκευές. Κατασκευάστε όμορφα δάπεδα από πλακάκια ή άσχημους διαδρόμους από σκυρόδεμα.</Stonecutting.description>
+  
+  <!-- EN: tree sowing -->
+  <TreeSowing.label>καλλιέργεια δένδρων</TreeSowing.label>
+  <!-- EN: Sow the local biome's natural trees in your fields. -->
+  <TreeSowing.description>Καλλιέργησε τα φυσικά δέντρα του τοπικού βιότοπου στους αγρούς σου.</TreeSowing.description>
+  
+  <!-- EN: wake-up production -->
+  <WakeUpProduction.label>παραγωγή ξυπνηστήρι</WakeUpProduction.label>
+  <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
+  <WakeUpProduction.description>Συνθέτει ξυπνηστήρι, ένα ναρκωτικό που βελτιώνει την απόδοση της εργασίας και αντικαθιστά την ανάγκη για ύπνο.</WakeUpProduction.description>
+  
+</LanguageData>

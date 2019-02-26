@@ -1,0 +1,604 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attended party -->
+  <AttendedParty.label>συμμετείχε σε πάρτι</AttendedParty.label>
+  <!-- EN:
+    <li>tale_noun->[ATTENDER_nameDef] attending [ORGANIZER_nameDef]'s party</li>
+    <li>tale_noun->[ATTENDER_nameDef] relaxing with [ORGANIZER_nameDef] at a party</li>
+    <li>image->[ATTENDER_nameFull] having a conversation with [ORGANIZER_nameFull] [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] getting a drink from [ORGANIZER_nameFull] [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] chatting with [ORGANIZER_nameFull] [circumstance_group]</li>
+    <li>image->[ORGANIZER_nameFull] welcoming [ATTENDER_nameFull] [circumstance_group]</li>
+    <li>image->[ORGANIZER_nameFull] introducing [ATTENDER_nameFull] to a friend [circumstance_group]</li>
+    <li>circumstance_phrase->with a broad grin</li>
+    <li>circumstance_phrase->with a laugh</li>
+    <li>circumstance_phrase->with a [AdjectiveFriendly] smile</li>
+    <li>circumstance_phrase->while laughing uproariously</li>
+    <li>circumstance_phrase->while [AdjectiveFriendly]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are involved in the conversation.</li>
+    <li>desc_sentence->The area is decorated with [Color] and [Color].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s play nearby.</li>
+  -->
+  <AttendedParty.rulePack.rulesStrings><li>tale_noun->[ATTENDER_nameDef] συμμετείχε στο πάρτι [ORGANIZER_possessive] [ORGANIZER_nameDef]</li>
+    <li>tale_noun->[ATTENDER_nameDef] χαλάρωσε με [ORGANIZER_objective] [ORGANIZER_nameDef] σε ένα πάρτι</li>
+    <li>image->[ATTENDER_nameFull] συζητώντας  με [ORGANIZER_objective] [ORGANIZER_nameFull] [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] παίρνοντας ένα ποτό από [ORGANIZER_objective] [ORGANIZER_nameFull] [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] κουβέντιασε με [ORGANIZER_objective] [ORGANIZER_nameFull] [circumstance_group]</li>
+    <li>image->[ORGANIZER_nameFull] καλωσόρισε [ATTENDER_objective] [ATTENDER_nameFull] [circumstance_group]</li>
+    <li>image->[ORGANIZER_nameFull] σύστησε [ATTENDER_objective] [ATTENDER_nameFull] σε ένα φίλο [circumstance_group]</li>
+    <li>circumstance_phrase->με ένα πλατύ χαμόγελο</li>
+    <li>circumstance_phrase->χαμογελώντας</li>
+    <li>circumstance_phrase->με ένα [AdjectiveFriendly] χαμόγελο</li>
+    <li>circumstance_phrase->ενώ γελούσε τρανταχτά</li>
+    <li>circumstance_phrase->ενώ [AdjectiveFriendly]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]συμμετείχαν σε μια συζήτηση.</li>
+    <li>desc_sentence->Το μέρος ήταν διακοσμημένο με [Color] και [Color].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] παίζουν δίπλα.</li></AttendedParty.rulePack.rulesStrings>
+  
+  <!-- EN: built snowman -->
+  <BuiltSnowman.label>φτιάχνει χιονάνθρωπο</BuiltSnowman.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] building a snowman</li>
+    <li>tale_noun->[PAWN_nameDef] playing in the snow</li>
+    <li>image->[PAWN_nameFull] forming a snowball [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] rolling a giant ball of snow on the ground [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] arranging [Vegetable]s into a rough human face [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lying down in the snow [circumstance_group]</li>
+    <li>circumstance_phrase->while enveloped in [Quantity_adjphrase] parkas</li>
+    <li>circumstance_phrase->while obscured in a light snowstorm</li>
+    <li>circumstance_phrase->while [PAWN_possessive] friends build a fort</li>
+    <li>circumstance_phrase->while [PAWN_possessive] friends build a snowman family</li>
+    <li>desc_sentence->A [Color] aurora shines in the background.</li>
+    <li>desc_sentence->In the distance, a [Community] is covered with snow.</li>
+    <li>desc_sentence->A field of [Vegetable]s is barely visible through the snow.</li>
+    <li>desc_sentence->A snow-covered [TerrainFeature] can be seen far away.</li>
+  -->
+  <BuiltSnowman.rulePack.rulesStrings><li>tale_noun->[PAWN_nameDef] φτιάχνει ένα χιονάνθρωπο</li>
+    <li>tale_noun->[PAWN_nameDef] παίζει στο χιόνι</li>
+    <li>image->[PAWN_nameFull] σχηματίζει μία χιονόμπαλα [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] κυλάει με τεράστια μπάλα χιονιού στο [circumstance_group] έδαφος</li>
+    <li>image->[PAWN_nameFull] ταξινομεί [Vegetable] σχηματίζοντας ένα ανθρώπινο πρόσωπο [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ξαπλώνει πάνω στο χιονισμένο [circumstance_group]</li>
+    <li>circumstance_phrase->καθώς τυλίγεται [Quantity_adjphrase] μπουφάν</li>
+    <li>circumstance_phrase->ενώ καλύπτετε από ελαφριά χιονόπτωση</li>
+    <li>circumstance_phrase->ενώ οι φίλοι [PAWN_possessive] φτιάχνουν ένα κάστρο</li>
+    <li>circumstance_phrase->καθώς οι φίλοι [PAWN_possessive] φτιάχνουν μια οικογένεια χιονάνθρωπων</li>
+    <li>desc_sentence->Ένα [Color] σέλας λάμπει στον ορίζοντα.</li>
+    <li>desc_sentence->Μακριά, μία [Community] καλύπτετε από το χιόνι.</li>
+    <li>desc_sentence->Ένα χωράφι από [Vegetable] είναι μόλις ορατό από το χιόνι.</li>
+    <li>desc_sentence->Ένα καλυμμένο με χιόνι [TerrainFeature] φαίνεται στο βάθος.</li></BuiltSnowman.rulePack.rulesStrings>
+  
+  <!-- EN: buried corpse -->
+  <BuriedCorpse.label>έθαψε πτώμα</BuriedCorpse.label>
+  <!-- EN:
+    <li>tale_noun->[DIGGER_nameDef] burying [CORPSE_nameDef]</li>
+    <li>tale_noun->[DIGGER_nameDef] laying [CORPSE_nameDef] to rest</li>
+    <li>image->[DIGGER_nameFull] standing next to [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] sitting next to [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] leaning against [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] scribing text on [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] drawing art on [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] placing [CORPSE_nameFull]'s body within a grave [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->and consumed in thought</li>
+    <li>circumstance_phrase->while gazing at a faraway [TerrainFeature]</li>
+    <li>circumstance_phrase->and talking quietly to the memorial</li>
+    <li>desc_sentence->A [Color] aurora shines in the background.</li>
+    <li>desc_sentence->In the distance, a [Community] is covered with snow.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] looks over the scene with a [AdjectiveFriendly] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] stands next to [DIGGER_nameDef], wearing a [AdjectiveFriendly] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] looks over the scene with a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] stands next to [DIGGER_nameDef], wearing a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
+  -->
+  <BuriedCorpse.rulePack.rulesStrings><li>tale_noun->[DIGGER_nameDef] θάβει [CORPSE_objective] [CORPSE_nameDef]</li>
+    <li>tale_noun->[DIGGER_nameDef] τοποθετεί [CORPSE_objective] [CORPSE_nameDef] για ανάπαυση</li>
+    <li>image->[DIGGER_nameFull] στέκεται δίπλα στο [circumstance_group] τάφο [CORPSE_possessive] [CORPSE_nameFull]</li>
+    <li>image->[DIGGER_nameFull] κάθετε δίπλα στο [circumstance_group] τάφο [CORPSE_possessive] [CORPSE_nameFull]</li>
+    <li>image->[DIGGER_nameFull] ακουμπάει στο [circumstance_group] τάφο [CORPSE_possessive] [CORPSE_nameFull]</li>
+    <li>image->[DIGGER_nameFull] χαράσσει μία επιγραφή πάνω στο [circumstance_group] τάφο [CORPSE_possessive] [CORPSE_nameFull]</li>
+    <li>image->[DIGGER_nameFull] σχεδιάζει κάτι πάνω στο [circumstance_group] τάφο [CORPSE_possessive] [CORPSE_nameFull]</li>
+    <li>image->[DIGGER_nameFull] τοποθετεί το σώμα [CORPSE_possessive] [CORPSE_nameFull] μέσα σε ένα [circumstance_group] τάφο</li>
+    <li>circumstance_phrase->με μία [AdjectiveAngsty] έκφραση</li>
+    <li>circumstance_phrase->και χάνετε στις σκέψεις</li>
+    <li>circumstance_phrase->καθώς ατενίζει ένα πολύ μακρινό [TerrainFeature]</li>
+    <li>circumstance_phrase->και μιλώντας σιωπηλά στο μνημείο</li>
+    <li>desc_sentence->Ένα [Color] σέλας φέγγει στο φόντο.</li>
+    <li>desc_sentence->Στο βάθος, μία [Community] σκεπάζεται από χιόνι.</li>
+    <li>desc_sentence->Μια φασματική εικόνα [CORPSE_possessive] [CORPSE_nameDef] παρατηρεί τη σκηνή με μια [AdjectiveFriendly] έκφραση.</li>
+    <li>desc_sentence->Ένα φασματικό είδωλο [CORPSE_possessive] [CORPSE_nameDef] κάθετε δίπλα σ[DIGGER_objective] [DIGGER_nameDef], φορώντας μία [AdjectiveFriendly] έκφραση.</li>
+    <li>desc_sentence->Μια φασματική φιγούρα [CORPSE_possessive] [CORPSE_nameDef] παρατηρεί τη σκηνή με ένα [AdjectiveAngsty] ύφος.</li>
+    <li>desc_sentence->Ένα φασματικό είδωλο [CORPSE_possessive] [CORPSE_nameDef] κάθετε δίπλα σ[DIGGER_objective] [DIGGER_nameDef], φορώντας μία [AdjectiveAngsty] έκφραση.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li></BuriedCorpse.rulePack.rulesStrings>
+  
+  <!-- EN: completed long construction project -->
+  <CompletedLongConstructionProject.label>ολοκλήρωσε ένα έργο μεγάλης κατασκευής</CompletedLongConstructionProject.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] finishing construction on a [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] building a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] putting together a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] polishing the surface of a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] inscribing [PAWN_possessive] name on a [OBJECT_label] [circumstance_group]</li>
+    <li>circumstance_phrase->with a gleam in [PAWN_possessive] eye</li>
+    <li>circumstance_phrase->while wiping the sweat from [PAWN_possessive] forehead</li>
+    <li>circumstance_phrase->while covered in grime</li>
+    <li>circumstance_phrase->while smiling proudly</li>
+    <li>circumstance_phrase->with a satisfied expression on [PAWN_possessive] face</li>
+    <li>desc_sentence->The [OBJECT_label] appears to tower above [PAWN_nameDef].</li>
+    <li>desc_sentence->The [OBJECT_label] glows a soft [Color].</li>
+    <li>desc_sentence->The [OBJECT_label] is intricately detailed.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s marvel at the [OBJECT_label].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze in awe.</li>
+  -->
+  <CompletedLongConstructionProject.rulePack.rulesStrings><li>tale_noun->[PAWN_nameDef] ολοκλήρωσε την κατασκευή ενός [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] κατασκευάζει ένα [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] τοποθετεί μαζί ένα [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] λειαίνει την επιφάνειας του [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] αναγράφει το όνομά [PAWN_possessive] στο [OBJECT_label] [circumstance_group]</li>
+    <li>circumstance_phrase->με μια λάμψη στο μάτι [PAWN_possessive]</li>
+    <li>circumstance_phrase->ενώ σκουπίζει τον ιδρώτα από το μέτωπο [PAWN_possessive]</li>
+    <li>circumstance_phrase->ενώ καλύπτεται από βρωμιά</li>
+    <li>circumstance_phrase->χαμογελώντας με υπερηφάνεια</li>
+    <li>circumstance_phrase->με μια έκφραση ικανοποίησης στο πρόσωπο [PAWN_possessive]</li>
+    <li>desc_sentence->Το [OBJECT_label] φαίνεται να βρίσκεται πάνω από [CORPSE_objective] [PAWN_nameDef].</li>
+    <li>desc_sentence->To [OBJECT_label] αστράφτει από ένα απαλό [Color].</li>
+    <li>desc_sentence->Το [OBJECT_label] είναι περίπλοκα λεπτομερές.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] θαυμάζουν το [OBJECT_label].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] κοιτάνε με δέος.</li></CompletedLongConstructionProject.rulePack.rulesStrings>
+  
+  <!-- EN: completed long crafting project -->
+  <CompletedLongCraftingProject.label>ολοκλήρωσε μία χρονοβόρα χειροτεχνία</CompletedLongCraftingProject.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] completing work on a [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] working on a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] polishing the surface of a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] adding surface detail to a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] inscribing [PAWN_possessive] name on a [OBJECT_label] [circumstance_group]</li>
+    <li>circumstance_phrase->with a gleam in [PAWN_possessive] eye</li>
+    <li>circumstance_phrase->while wiping the sweat from [PAWN_possessive] forehead</li>
+    <li>circumstance_phrase->while covered in grime</li>
+    <li>circumstance_phrase->while smiling proudly</li>
+    <li>circumstance_phrase->with a satisfied expression on [PAWN_possessive] face</li>
+    <li>desc_sentence->The [OBJECT_label] glows a soft [Color].</li>
+    <li>desc_sentence->The [OBJECT_label] is intricately detailed.</li>
+    <li>desc_sentence->[PAWN_nameDef] lifts the [OBJECT_label] seemingly without effort.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s marvel at the device.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze in awe.</li>
+  -->
+  <CompletedLongCraftingProject.rulePack.rulesStrings><li>tale_noun->[PAWN_nameDef] ολοκλήρωσε τη δουλειά στο [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] δουλεύει πάνω σε ένα [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] γυαλίζει την επιφάνεια ενός[OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] προσθέτει μια λεπτομέρεια στην επιφάνεια του [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] χαράζει το όνομά [PAWN_possessive] πάνω στο [OBJECT_label] [circumstance_group]</li>
+    <li>circumstance_phrase->με μια χαρά στα μάτια [PAWN_possessive]</li>
+    <li>circumstance_phrase->ενώ σκουπίζει τον ιδρώτα από το μέτωπό [PAWN_possessive]</li>
+    <li>circumstance_phrase->καθώς καλύπτετε από βρομιά</li>
+    <li>circumstance_phrase->ενώ χαμογελά υπερήφανα</li>
+    <li>circumstance_phrase->με μια έκφραση ικανοποίησης στο πρόσωπό [PAWN_possessive]</li>
+    <li>desc_sentence->Το [OBJECT_label] αστράφτει στο [Color].</li>
+    <li>desc_sentence->Το [OBJECT_label] έχει περίπλοκες λεπτομέρειες.</li>
+    <li>desc_sentence->[PAWN_nameDef] ανυψώνει το [OBJECT_label] φαινομενικά χωρίς προσπάθεια.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] θαυμάζουν τη συσκευή.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] κοιτάνε με θαυμασμό.</li></CompletedLongCraftingProject.rulePack.rulesStrings>
+  
+  <!-- EN: entered cryptosleep -->
+  <EnteredCryptosleep.label>μπήκε σε κρυογονικό ύπνο</EnteredCryptosleep.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] entering cryptosleep</li>
+    <li>image->[PAWN_nameFull] lying down inside a cryptosleep casket [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] opening an empty cryptosleep casket [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sealing themselves inside a cryptosleep casket [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] looking through the wall of a cryptosleep casket at a world they're about to leave [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->while consumed in thought</li>
+    <li>circumstance_phrase->while gazing at a faraway [TerrainFeature]</li>
+    <li>circumstance_phrase->and talking quietly to themselves</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s approach the area.</li>
+    <li>desc_sentence->[PAWN_nameDef] radiates determination.</li>
+    <li>desc_sentence->[PAWN_nameDef] is visibly wounded.</li>
+    <li>desc_sentence->A [Color] aurora shines in the background.</li>
+    <li>desc_sentence->[Quantity_adjphrase] filled cryptosleep caskets surround the scene.</li>
+  -->
+  <EnteredCryptosleep.rulePack.rulesStrings><li>tale_noun->[PAWN_nameDef] μπαίνει σε κρυογονικό ύπνο</li>
+    <li>image->[PAWN_nameFull] ξαπλώνει μέσα στη κρυογονική κάψουλα [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ανοίγει μία κενή κρυογονική κάψουλα [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] σφραγίζοντας των εαυτό [PAWN_possessive] μέσα σε μία κρυογονική κάψουλα [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] κοιτάζοντας μέσα από το κρυσταλλικό παράθυρο της κάψουλας τον κόσμο που πρόκειται να αποχωριστεί [circumstance_group]</li>
+    <li>circumstance_phrase->με ένα [AdjectiveAngsty] ύφος</li>
+    <li>circumstance_phrase->ενώ αναλώνεται στις σκέψεις</li>
+    <li>circumstance_phrase->κοιτάζοντας μακριά [TerrainFeature]</li>
+    <li>circumstance_phrase->και ψιθυρίζοντας στον εαυτό [PAWN_possessive]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] αναπαύονται δίπλα από το σημείο.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] προσεγγίζουν την περιοχή.</li>
+    <li>desc_sentence->[PAWN_nameDef] ακτινοβολεί αποφασιστικότητα.</li>
+    <li>desc_sentence->[PAWN_nameDef] είναι εμφανώς τραυματισμένη.</li>
+    <li>desc_sentence->Ένα [Color] σέλας φέγγει στον ορίζοντα.</li>
+    <li>desc_sentence->[Quantity_adjphrase] γεμάτες κρυογονικές κάψουλες περιβάλλουν τη σκηνή.</li></EnteredCryptosleep.rulePack.rulesStrings>
+  
+  <!-- EN: gained master skill -->
+  <GainedMasterSkillWithoutPassion.label>απέκτησε μέγιστη ικανότητα</GainedMasterSkillWithoutPassion.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] becoming a master at [SKILL_label] tasks</li>
+    <li>image->[PAWN_nameFull] practicing [SKILL_label] skills [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] reading a tome on [SKILL_label] methods [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] receiving training in [SKILL_label] skills [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] working feverishly [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] finishing a project [circumstance_group]</li>
+    <li>circumstance_phrase->while covered in sweat</li>
+    <li>circumstance_phrase->with visible exhaustion</li>
+    <li>circumstance_phrase->with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->with a bored expression</li>
+    <li>desc_sentence->The scene is surrounded by [Quantity_adjphrase] failed experiments.</li>
+    <li>desc_sentence->The scene is surrounded by [Quantity_adjphrase] books.</li>
+    <li>desc_sentence->[PAWN_possessive] skill is visible in the work.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s watch with amazement.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s watch with amazement.</li>
+    <li>desc_sentence->[Quantity_adjphrase] ethereal spirits of ancient masters watch from above.</li>
+  -->
+  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings><li>tale_noun->[PAWN_nameDef] γίνετε αυθεντία στις [SKILL_label] εργασίες</li>
+    <li>image->[PAWN_nameFull] εξασκεί τις [SKILL_label] ικανότητες [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] διαβάζει έναν τόμο για τις [SKILL_label] μεθόδους [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] εκπαιδεύεται στις [SKILL_label] ικανότητες [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] εργάζεται πυρετωδώς [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ολοκληρώνει ένα έργο finishing a project [circumstance_group]</li>
+    <li>circumstance_phrase->ενώ γεμίζει με ιδρώτα</li>
+    <li>circumstance_phrase->με φανερή εξάντληση</li>
+    <li>circumstance_phrase->με μία [AdjectiveAngsty] έκφραση</li>
+    <li>circumstance_phrase->με μια έκφραση βαρεμάρας</li>
+    <li>desc_sentence->Η σκηνή αποτελείτε από [Quantity_adjphrase] αποτυχημένα πειράματα.</li>
+    <li>desc_sentence->Ο χώρος περιβάλλεται από [Quantity_adjphrase] βιβλία.</li>
+    <li>desc_sentence->Η ικανότητά [PAWN_possessive] είναι φανερή στη δουλειά.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] παρακολουθούν με έκπληξη.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] κοιτάζουν με έκπληξη.</li>
+    <li>desc_sentence->[Quantity_adjphrase] αιθέρια πνεύματα των αρχαίων δασκάλων παρακολουθούν από ψηλά.</li></GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
+  
+  <!-- EN: gained master skill with passion -->
+  <GainedMasterSkillWithPassion.label>απέκτησε μέγιστη ικανότητα με πάθος</GainedMasterSkillWithPassion.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] becoming a master at [SKILL_label] tasks</li>
+    <li>image->[PAWN_nameFull] practicing [SKILL_label] skills [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] reading a tome on [SKILL_label] methods [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] receiving training for [SKILL_label] skills [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] working feverishly [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] finishing a project [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveFriendly] expression</li>
+    <li>circumstance_phrase->with a joyous expression</li>
+    <li>circumstance_phrase->while [VerbFriendly]</li>
+    <li>circumstance_phrase->with an exuberant shout</li>
+    <li>circumstance_phrase->while covered in sweat</li>
+    <li>circumstance_phrase->with visible exhaustion</li>
+    <li>desc_sentence->The subject is surrounded by the results of [Quantity_adjphrase] failed experiments.</li>
+    <li>desc_sentence->The subject is surrounded by [Quantity_adjphrase] books.</li>
+    <li>desc_sentence->[PAWN_possessive] skill is visible in the work.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s watch with amazement.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s watch with amazement.</li>
+    <li>desc_sentence->[Quantity_adjphrase] ethereal spirits of ancient masters watch from above.</li>
+  -->
+  <GainedMasterSkillWithPassion.rulePack.rulesStrings><li>tale_noun->[PAWN_nameDef] γίνετε αυθεντία στις [SKILL_label] εργασίες</li>
+    <li>image->[PAWN_nameFull] εξασκεί τις [SKILL_label] ικανότητες [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] διαβάζει έναν τόμο για τις [SKILL_label] μεθόδους [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] εκπαιδεύεται στις [SKILL_label] ικανότητες [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] εργάζεται πυρετωδώς [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ολοκληρώνει ένα έργο finishing a project [circumstance_group]</li>
+    <li>circumstance_phrase->με μία [AdjectiveAngsty] έκφραση</li>
+    <li>circumstance_phrase->με μια χαρούμενη έκφραση</li>
+	<li>circumstance_phrase->καθώς [VerbFriendly]</li>
+	<li>circumstance_phrase->φωνάζοντας με ενθουσιασμό</li>
+	<li>circumstance_phrase->ενώ γεμίζει με ιδρώτα</li>
+    <li>circumstance_phrase->με φανερή εξάντληση</li>
+    <li>desc_sentence->Το υποκείμενο περιβάλλεται από τα αποτελέσματα [Quantity_adjphrase] αποτυχημένων πειραμάτων.</li>
+    <li>desc_sentence->Το αντικείμενο το περιβάλλουν [Quantity_adjphrase] βιβλία.</li>
+    <li>desc_sentence->Η ικανότητά [PAWN_possessive] είναι φανερή στη δουλειά.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] παρακολουθούν με έκπληξη.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] κοιτάζουν με έκπληξη.</li>
+    <li>desc_sentence->[Quantity_adjphrase] αιθέρια πνεύματα των αρχαίων δασκάλων παρακολουθούν από ψηλά.</li></GainedMasterSkillWithPassion.rulePack.rulesStrings>
+  
+  <!-- EN: increased menagerie -->
+  <IncreasedMenagerie.label>αυξημένο θηριοτροφείο</IncreasedMenagerie.label>
+  <!-- EN:
+    <li>tale_noun(p=3)->[HUMAN_nameDef] recruiting yet another animal to [HUMAN_possessive] growing [AnimalGroup]</li>
+    <li>tale_noun->[HUMAN_nameDef] being followed around by a [AnimalGroup]</li>
+    <li>tale_noun->[HUMAN_nameDef]'s taming of [ANIMAL_nameDef]</li>
+    <li>image->[HUMAN_nameFull] taming [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] offering a morsel of food to [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] whispering to a skittish [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] calming a wild [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->with great care and caution</li>
+    <li>circumstance_phrase->with a smile</li>
+    <li>circumstance_phrase->while exhausted but happy</li>
+    <li>circumstance_phrase->with a [AnimalGroup] in the background</li>
+    <li>desc_sentence->[HUMAN_nameDef] is surrounded by uncountable [Animal]s.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is moving to join a [AnimalGroup] of its kin.</li>
+    <li>desc_sentence->The scene is packed with [Animal]s and [Animal]s.</li>
+    <li>desc_sentence->A line of uncountable [Animal]s waits to be tamed by [HUMAN_nameDef].</li>
+  -->
+  <IncreasedMenagerie.rulePack.rulesStrings><li>tale_noun(p=3)->[HUMAN_nameDef] εντάσσει ένα ακόμα ζώο στο αυξανόμενο [AnimalGroup] [HUMAN_possessive]</li>
+    <li>tale_noun->[HUMAN_nameDef] ακολουθείτε από ένα [AnimalGroup]</li>
+    <li>tale_noun->η εξημέρωση του [ANIMAL_nameDef] από [HUMAN_objective] [HUMAN_nameDef]</li>
+    <li>image->[HUMAN_nameFull] εξημερώνει το [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] προσφέρει ένα κομμάτι φαγητού στο [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] ψιθυρίζει σε ένα δειλό [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] ηρεμώντας ένα άγριο [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->με μεγάλη φροντίδα και προσοχή</li>
+    <li>circumstance_phrase->με ένα χαμόγελο</li>
+    <li>circumstance_phrase->εξουθενωμένη αλλά ευτυχισμένη</li>
+    <li>circumstance_phrase->με μία [AnimalGroup] στο βάθος</li>
+    <li>desc_sentence->[HUMAN_nameDef] περιβάλλεται από αμέτρητα [Animal].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] πηγαίνει να ενταχθεί σε ένα [AnimalGroup] του είδους του.</li>
+    <li>desc_sentence->Η σκηνή είναι γεμάτη με [Animal] και [Animal].</li>
+    <li>desc_sentence->Μια σειρά αμέτρητων [Animal] περιμένει να εξημερωθεί από [HUMAN_objective] [HUMAN_nameDef].</li></IncreasedMenagerie.rulePack.rulesStrings>
+  
+  <!-- EN: meditated -->
+  <Meditated.label>συλλογίστηκε</Meditated.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] meditating</li>
+    <li>image->[PAWN_nameFull] sitting under a [TreeType] tree, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sitting quietly, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] gazing into the distance and [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] closing [PAWN_possessive] eyes and [circumstance_group]</li>
+    <li>circumstance_phrase->radiating serenity</li>
+    <li>circumstance_phrase->with a tranquil smile</li>
+    <li>circumstance_phrase->with a [VerbFriendly] smile</li>
+    <li>circumstance_phrase->glowing softly</li>
+    <li>circumstance_phrase->surrounded by a [Color] aura</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze upon [PAWN_pronoun].</li>
+    <li>desc_sentence->[PAWN_pronoun] is surrounded by [Quantity_adjphrase] [Animal]s.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest peacefully.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene.</li>
+  -->
+  <Meditated.rulePack.rulesStrings><li>tale_noun->[PAWN_nameDef] διαλογίζεται</li>
+    <li>image->[PAWN_nameFull] κάθεται κάτω από ένα [TreeType] δέντρο, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] κάθεται ήσυχα, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] κοιτάζει στο βάθος και [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] κλείνει τα μάτια [PAWN_possessive] και [circumstance_group]</li>
+    <li>circumstance_phrase->ακτινοβολά γαλήνη</li>
+    <li>circumstance_phrase->με ένα γαλήνιο χαμόγελο</li>
+    <li>circumstance_phrase->με ένα [VerbFriendly] χαμόγελο</li>
+    <li>circumstance_phrase->λάμπει ελαφριά</li>
+    <li>circumstance_phrase->περιβάλλεται από μία [Color] αύρα</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] έχουν το βλέμμα τους πάνω σε [PAWN_pronoun].</li>
+    <li>desc_sentence->[PAWN_pronoun] περικυκλώθηκε από [Quantity_adjphrase] [Animal].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] ξεκουράζονται ήσυχα.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] εκπλήσσονται από το σκηνικό.</li></Meditated.rulePack.rulesStrings>
+  
+  <!-- EN: mined valuable -->
+  <MinedValuable.label>εξόρυξε κάτι πολύτιμο</MinedValuable.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] mining a rich vein of [MATERIAL_label]</li>
+    <li>image->[PAWN_nameFull] working a [MATERIAL_label] wall with mining tools, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] holding up a chunk of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] resting against a wall of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] coordinating an excavation team against a rich vein of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] carefully inspecting a rich vein of [MATERIAL_label], [circumstance_group]</li>
+    <li>circumstance_phrase->sweating heavily</li>
+    <li>circumstance_phrase->wearing a [AdjectiveFriendly] expression</li>
+    <li>circumstance_phrase->wearing a [AdjectiveFriendly] expression</li>
+    <li>circumstance_phrase->smiling proudly</li>
+    <li>circumstance_phrase->a satisfied expression on [PAWN_possessive] face</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]s assist.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander the area.</li>
+    <li>desc_sentence->There is a [Community] in the background.</li>
+    <li>desc_sentence->[Quantity_adjphrase] further veins are visible in the distance.</li>
+    <li>desc_sentence->A [TerrainFeature] is visible in the distance.</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
+  -->
+  <MinedValuable.rulePack.rulesStrings><li>tale_noun->[PAWN_nameDef] εξόρυξε μια πλούσια φλέβα από [MATERIAL_label]</li>
+    <li>image->[PAWN_nameFull] επεξεργάζεται ένα [MATERIAL_label] τοίχο με τα εργαλεία εξόρυξης, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] κρατάει ένα κομμάτι από [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] στηρίζεται σε έναν τοίχο από [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] συντονίζει μια ομάδα ανασκαφής πάνω σε μια πλούσια φλέβα από [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] επιθεωρεί προσεκτικά μια πλούσια φλέβα από [MATERIAL_label], [circumstance_group]</li>
+    <li>circumstance_phrase->ιδρώνοντας πολύ</li>
+    <li>circumstance_phrase->φορώντας μία  [AdjectiveFriendly] έκφραση</li>
+    <li>circumstance_phrase->έχοντας ένα [AdjectiveFriendly] ύφος</li>
+    <li>circumstance_phrase->χαμογελώντας με υπερηφάνεια</li>
+    <li>circumstance_phrase->με μία έκφραση ικανοποίησης στο πρόσωπό [PAWN_possessive]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally] βοηθάνε.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] περιπλανώνται στην περιοχή.</li>
+    <li>desc_sentence->Υπάρχει μία [Community] στο φόντο.</li>
+    <li>desc_sentence->[Quantity_adjphrase] επιπλέον φλέβες είναι ορατές σε απόσταση.</li>
+    <li>desc_sentence->Ένα [TerrainFeature] φαίνεται από μακριά.</li>
+    <li>desc_sentence->[PAWN_nameDef] είναι ιδρωμένη και βρόμικη από την δουλειά.</li></MinedValuable.rulePack.rulesStrings>
+  
+  <!-- EN: played game -->
+  <PlayedGame.label>έπαιξε ένα παιχνίδι</PlayedGame.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] relaxing at a [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] playing games at a [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] waiting in a chair, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sitting next to the [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] winning at a [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] losing at a [OBJECT_label], [circumstance_group]</li>
+    <li>circumstance_phrase->tense with energy</li>
+    <li>circumstance_phrase->[PAWN_possessive] body loose and relaxed</li>
+    <li>circumstance_phrase->planning [PAWN_possessive] next action</li>
+    <li>circumstance_phrase->gently massaging [PAWN_possessive] wrists</li>
+    <li>circumstance_phrase->[angstyverb] with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->wearing a [AdjectiveAngsty] look</li>
+    <li>circumstance_phrase->[angstyverb]</li>
+    <li>desc_sentence->A [Color] aurora shines in the background.</li>
+    <li>desc_sentence->In the distance, a [Community] is visible.</li>
+    <li>desc_sentence->In the distance, a [TerrainFeature] is visible.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are playing as well.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s play nearby.</li>
+    <li>desc_sentence->[PAWN_nameDef] is glowing with a [Color] aura.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s features are exaggerated.</li>
+    <li>desc_sentence->[PAWN_nameDef] towers above the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are slumped in defeat.</li>
+  -->
+  <PlayedGame.rulePack.rulesStrings><li>tale_noun->[PAWN_nameDef] χαλαρώνει σε ένα [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] παίζει παιχνίδια σε ένα [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] απολαμβάνει τον εαυτό [PAWN_possessive] σε ένα [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] περιμένει σε μια καρέκλα, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ισορροπεί πάνω σε ένα [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] κάθεται δίπλα στο  [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] κερδίζει στο [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] χάνει στο  [OBJECT_label], [circumstance_group]</li>
+    <li>circumstance_phrase->με ένταση και ενέργεια</li>
+    <li>circumstance_phrase->το σώμα [PAWN_possessive] χαλαρώνει και ηρεμεί</li>
+    <li>circumstance_phrase->σχεδιάζοντας την επόμενη κίνησή [PAWN_possessive]</li>
+    <li>circumstance_phrase->κάνοντας απαλό μασάζ στους καρπούς [PAWN_possessive]</li>
+    <li>circumstance_phrase->[angstyverb] με μία [AdjectiveAngsty] έκφραση</li>
+    <li>circumstance_phrase->έχοντας μία [AdjectiveAngsty] φάτσα</li>
+    <li>circumstance_phrase->[angstyverb]</li>
+    <li>desc_sentence->Ένα [Color] σέλας λάμπει στο φόντο.</li>
+    <li>desc_sentence->Από μακριά, μια [Community] είναι ορατή.</li>
+    <li>desc_sentence->Σε απόσταση, φαίνεται ένα [TerrainFeature].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] παίζουν επίσης καλά.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] παίζουν δίπλα.</li>
+    <li>desc_sentence->[PAWN_nameDef] λάμπει από μία [Color] αύρα.</li>
+    <li>desc_sentence->Τα χαρακτηριστικά [PAWN_possessive] [PAWN_nameDef] είναι υπερβολικά.</li>
+    <li>desc_sentence->[PAWN_nameDef] δεσπόζει στη σκηνή</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] καταπίνουν την ήττα τους.</li></PlayedGame.rulePack.rulesStrings>
+  
+  <!-- EN: prayed -->
+  <Prayed.label>προσευχήθηκε</Prayed.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] praying</li>
+    <li>tale_noun->[PAWN_nameDef] praying to a higher power</li>
+    <li>image->[PAWN_nameFull] gazing into the distance and [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] closing [PAWN_possessive] eyes and [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] clasping [PAWN_possessive] hands and [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] looking into the sky and [circumstance_group]</li>
+    <li>circumstance_phrase->radiating serenity</li>
+    <li>circumstance_phrase->whispering softly</li>
+    <li>circumstance_phrase->wearing a hopeful expression</li>
+    <li>circumstance_phrase->glowing softly</li>
+    <li>circumstance_phrase->surrounded by a [Color] aura</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze upon [PAWN_pronoun].</li>
+    <li>desc_sentence->[PAWN_pronoun] is surrounded by [Quantity_adjphrase] [Animal]s.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest peacefully.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene.</li>
+  -->
+  <Prayed.rulePack.rulesStrings><li>tale_noun->[PAWN_nameDef] προσεύχεται</li>
+    <li>tale_noun->[PAWN_nameDef] προσεύχεται με μεγάλη δύναμη</li>
+    <li>image->[PAWN_nameFull] χάνεται το βλέμμα της στο βάθος και [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] κλείνει τα μάτια [PAWN_possessive] και [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] συσφίγγει τα χέρια [PAWN_possessive] και [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] κοιτάζει προς τον ουρανό και [circumstance_group]</li>
+    <li>circumstance_phrase->ακτινοβολεί γαλήνη</li>
+    <li>circumstance_phrase->ψιθυρίζει απαλά</li>
+    <li>circumstance_phrase->καταβάλετε από μια έκφραση ελπίδας</li>
+    <li>circumstance_phrase->λάμπει ελαφρώς</li>
+    <li>circumstance_phrase->περιβάλλεται από μία [Color] αύρα</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] [PAWN_objective] παρακολουθούν.</li>
+    <li>desc_sentence->[PAWN_pronoun] περιστοιχίζεται από [Quantity_adjphrase] [Animal].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] ξεκουράζονται ήρεμα.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] γοητεύονται από το σκηνικό.</li></Prayed.rulePack.rulesStrings>
+  
+  <!-- EN: put into cryptosleep -->
+  <PutIntoCryptosleep.label>έβαλε σε κρυογονικό ύπνο</PutIntoCryptosleep.label>
+  <!-- EN:
+    <li>tale_noun->[CARRIER_nameDef] putting [SLEEPER_nameDef] into cryptosleep</li>
+    <li>image->[CARRIER_nameFull] placing [SLEEPER_nameDef] inside a cryptosleep casket [circumstance_group]</li>
+    <li>image->[CARRIER_nameFull] opening an empty cryptosleep casket while supporting [SLEEPER_nameDef] [circumstance_group]</li>
+    <li>image->[CARRIER_nameFull] sealing [SLEEPER_nameDef] inside a cryptosleep casket [circumstance_group]</li>
+    <li>image->[CARRIER_nameFull] walking away as [SLEEPER_nameDef] looks through the wall of a cryptosleep casket [circumstance_group]</li>
+    <li>circumstance_phrase(p=3)->with a [AdjectiveAny] expression</li>
+    <li>circumstance_phrase->while consumed in thought</li>
+    <li>circumstance_phrase->while gazing at a faraway [TerrainFeature]</li>
+    <li>circumstance_phrase->with visible tension between the two</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s approach the area.</li>
+    <li>desc_sentence->[CARRIER_nameDef] radiates determination.</li>
+    <li>desc_sentence->[SLEEPER_nameDef] is visibly wounded.</li>
+    <li>desc_sentence->[SLEEPER_nameDef] looks exhausted.</li>
+    <li>desc_sentence->[Quantity_adjphrase] filled cryptosleep caskets surround the scene.</li>
+  -->
+  <PutIntoCryptosleep.rulePack.rulesStrings><li>tale_noun->[CARRIER_nameDef] βάζει [SLEEPER_objective] [SLEEPER_nameDef] σε κρυογονικό ύπνο</li>
+    <li>image->[CARRIER_nameFull] τοποθετεί [SLEEPER_objective] [SLEEPER_nameDef] μέσα σε μία κρυογονική κάψουλα [circumstance_group]</li>
+    <li>image->[CARRIER_nameFull] ανοίγει μία κενή κρυογονική κάψουλα βοηθώντας [SLEEPER_objective] [SLEEPER_nameDef] [circumstance_group]</li>
+    <li>image->[CARRIER_nameFull] σφραγίζει [SLEEPER_objective] [SLEEPER_nameDef] μέσα σε μία κρυογονική κάψουλα [circumstance_group]</li>
+    <li>image->[CARRIER_nameFull] απομακρύνεται καθώς [SLEEPER_nameDef] κοιτάζει μέσα από το προστατευτικό κάλυμμα της κρυογονικής κάψουλας [circumstance_group]</li>
+    <li>circumstance_phrase(p=3)->με μία [AdjectiveAny] έκφραση</li>
+    <li>circumstance_phrase->καθώς καταβάλλεται από σκέψεις</li>
+    <li>circumstance_phrase->καθώς ατενίζει ένα μακρινό [TerrainFeature]</li>
+    <li>circumstance_phrase->με εμφανή υπερένταση μεταξύ τους</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] ξεκουράζονται δίπλα από το σκηνικό.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] καταφθάνουν στην περιοχή.</li>
+    <li>desc_sentence->[CARRIER_nameDef] ακτινοβολεί αποφασιστικότητα.</li>
+    <li>desc_sentence->[SLEEPER_nameDef] είναι φανερά πληγωμένη.</li>
+    <li>desc_sentence->[SLEEPER_nameDef] φαίνεται εξαντλημένη.</li>
+    <li>desc_sentence->[Quantity_adjphrase] γεμάτες κρυογονικές κάψουλες βρίσκονται τριγύρω.</li></PutIntoCryptosleep.rulePack.rulesStrings>
+  
+  <!-- EN: stripped -->
+  <Stripped.label>ξεγυμνώθηκε</Stripped.label>
+  <!-- EN:
+    <li>tale_noun->[TAKER_nameDef] stripping [STRIPPED_nameDef]</li>
+    <li>image->[TAKER_nameFull] disrobing [STRIPPED_nameFull] in public [circumstance_group]</li>
+    <li>image->[TAKER_nameFull] removing the clothes of [STRIPPED_nameFull] [circumstance_group]</li>
+    <li>image->[TAKER_nameFull] holding an armful of [Apparel]s while standing next to [STRIPPED_nameFull], who is completely naked [circumstance_group]</li>
+    <li>image->[TAKER_nameFull] waiting patiently as [STRIPPED_nameFull] removes [STRIPPED_possessive] clothes [circumstance_group]</li>
+    <li>circumstance_phrase->with a sense of purpose</li>
+    <li>circumstance_phrase->with no hint of shame</li>
+    <li>circumstance_phrase->while others look on</li>
+    <li>circumstance_phrase->for no apparent reason</li>
+    <li>circumstance_phrase->while confused animals look on</li>
+    <li>desc_sentence->[STRIPPED_nameDef] is visibly aroused.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] is covered in unexplained moisture.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] is breathing heavily for no obvious reason.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] is fondling a shrub.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] wears only a [AdjectiveAngsty] expression.</li>
+  -->
+  <Stripped.rulePack.rulesStrings><li>tale_noun->[TAKER_nameDef] ξεγυμνώνει [STRIPPED_objective] [STRIPPED_nameDef]</li>
+    <li>image->[TAKER_nameFull] γδύνει [STRIPPED_objective] [STRIPPED_nameFull] δημόσια [circumstance_group]</li>
+    <li>image->[TAKER_nameFull] αφαιρεί τα ρούχα [STRIPPED_possessive] [STRIPPED_nameFull] [circumstance_group]</li>
+    <li>image->[TAKER_nameFull] κρατάει μια αγκαλιά από [Apparel] ενώ στέκεται δίπλα σ[STRIPPED_objective] [STRIPPED_nameFull], που είναι τελείως γυμνή [circumstance_group]</li>
+    <li>image->[TAKER_nameFull] περιμένει υπομονετικά [STRIPPED_objective] [STRIPPED_nameFull] να αφαιρέσει τα ρούχα [STRIPPED_possessive] [circumstance_group]</li>
+    <li>circumstance_phrase->με μια αίσθηση του σκοπού</li>
+    <li>circumstance_phrase->χωρίς αίσθηση ντροπής</li>
+    <li>circumstance_phrase->καθώς οι άλλοι κοιτάνε</li>
+    <li>circumstance_phrase->χωρίς προφανή λόγο</li>
+    <li>circumstance_phrase->καθώς κοιτάνε τα ζώα σαστισμένα</li>
+    <li>desc_sentence->[STRIPPED_nameDef] είναι φανερά προκλητική.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] καλύπτεται με ανεξήγητη ανάδοση.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] αναπνέει έντονα χωρίς προφανή λόγο.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] χαϊδεύει έναν θάμνο.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] φοράει μόνο μία [AdjectiveAngsty] έκφραση.</li></Stripped.rulePack.rulesStrings>
+  
+  <!-- EN: visited grave -->
+  <VisitedGrave.label>επισκέφτηκε τάφο</VisitedGrave.label>
+  <!-- EN:
+    <li>tale_noun->[VISITOR_nameDef] visiting the grave of [CORPSE_nameDef]</li>
+    <li>tale_noun->[VISITOR_nameDef] visiting [CORPSE_nameDef]'s grave</li>
+    <li>image->[VISITOR_nameFull] standing next to [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] sitting next to [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] leaning against [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] reading the text on [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] looking at the art on [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->and consumed in thought</li>
+    <li>circumstance_phrase->while gazing at a faraway [TerrainFeature]</li>
+    <li>circumstance_phrase->and talking quietly to the memorial</li>
+    <li>desc_sentence->A [Color] aurora shines in the background.</li>
+    <li>desc_sentence->In the distance, a [Community] is covered with snow.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] looks over the scene with a [AdjectiveFriendly] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] stands next to [VISITOR_nameDef], wearing a [AdjectiveFriendly] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] looks over the scene with a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] stands next to [VISITOR_nameDef], wearing a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
+  -->
+  <VisitedGrave.rulePack.rulesStrings><li>tale_noun->[VISITOR_nameDef] επισκέπτεται τον τάφο [CORPSE_possessive] [CORPSE_nameDef]</li>
+    <li>tale_noun->[VISITOR_nameDef] πηγαίνει στον τάφο [CORPSE_possessive] [CORPSE_nameDef]</li>
+    <li>image->[VISITOR_nameFull] στέκεται δίπλα στον τάφο [CORPSE_possessive] [CORPSE_nameDef] [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] κάθεται κοντά στον τάφο [CORPSE_possessive] [CORPSE_nameDef] [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] ακουμπά στον τάφο [CORPSE_possessive] [CORPSE_nameDef] [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] διαβάζει την επιγραφή του τάφου [CORPSE_possessive] [CORPSE_nameDef] [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] χαζεύει την διακόσμηση του τάφου [CORPSE_possessive] [CORPSE_nameDef] [circumstance_group]</li>
+    <li>circumstance_phrase->με μια [AdjectiveAngsty] έκφραση</li>
+    <li>circumstance_phrase->και βυθίζεται σε σκέψεις</li>
+    <li>circumstance_phrase->καθώς το βλέμμα χάνεται σε ένα μακρινό [TerrainFeature]</li>
+    <li>circumstance_phrase->μιλώντας ήσυχα στο μνημείο</li>
+    <li>desc_sentence->Ένα [Color] σέλας λάμπει στο βάθος.</li>
+    <li>desc_sentence->Στο βάθος, μια [Community] είναι κολλημένη με χιόνι.</li>
+    <li>desc_sentence->Ένα φασματικό είδωλο [CORPSE_possessive] [CORPSE_nameDef] κοιτάζει τη σκηνή με μία [AdjectiveFriendly] έκφραση.</li>
+    <li>desc_sentence->Μια φασματική προβολή [CORPSE_possessive] [CORPSE_nameDef] στέκεται δίπλα σ[ISITOR_objective] [VISITOR_nameDef], έχοντας ένα [AdjectiveFriendly] ύφος.</li>
+    <li>desc_sentence->Μια φασματική απεικόνιση [CORPSE_possessive] [CORPSE_nameDef] βλέπει το σκινικό με μια [AdjectiveAngsty] έκφραση.</li>
+    <li>desc_sentence->Ένα ολογράφημα [CORPSE_possessive] [CORPSE_nameDef] βρίσκεται δίπλα σ[ISITOR_objective] [VISITOR_nameDef], φορώντας μια έκφραση [AdjectiveAngsty].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] είναι ξαπλωμένα εκεί κοντά.</li></VisitedGrave.rulePack.rulesStrings>
+  
+</LanguageData>

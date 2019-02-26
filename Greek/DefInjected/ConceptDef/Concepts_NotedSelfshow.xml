@@ -1,113 +1,174 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Έννοιες που διδάσκονται μέσω της ανάγνωσης μάθησης, χωρίς καμία ευκαιριακή ανάγκη (Concepts taught through the learning readout, with no opportunity needed) -->
-
-  <CameraDolly.label>Τροχηλάτηση κάμερας</CameraDolly.label>
-  <CameraDolly.helpText>Μετακίνησε την κάμερα κάνοντας κλικ και σύρσιμο με το ΠΛΗΚΤΡΟ ΠΟΝΤΙΚΟΥ 3 (μεσαίο πλήκτρο) ή με τα πλήκτρα {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight}.</CameraDolly.helpText>
-
-  <CameraZoom.label>Μεγέθυνση κάμερας</CameraZoom.label>
-  <CameraZoom.helpText>Μεγέθυνση και σμίκρυνση με τη ΡΟΔΕΛΑ ΤΟΥ ΠΟΝΤΙΚΙΟΕ ή με τα πλήκτρα {Key:MapZoomIn} και {Key:MapZoomOut}.</CameraZoom.helpText>
-
-  <TimeControls.label>Έλεγχος χρόνου</TimeControls.label>
-  <TimeControls.helpText>Μπορείτε να επιταχύνετε το χρόνο.\n\nΔοκιμάστε να ελέγξετε το χρόνο με τα πλήκτρα {Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, και {Key:TimeSpeedSuperfast}, η με τα στοιχεία ελέγχου χρόνου κάτω δεξιά.</TimeControls.helpText>
-
-  <Pause.label>Παύση</Pause.label>
-  <Pause.helpText>Πατήστε το πλήκτρο {Key:TogglePause} για να σταματήσετε ή να ξεκινήστε το παιχνίδι.\n\nΜπορείτε να δώσετε εντολές ενώ είστε σε παύση.\n\nΘυμηθείτε αυτό - αν τα πράγματα γίνονται ταραχώδη, πατήστε απλά {Key:TogglePause}!</Pause.helpText>
-
-  <Stockpiles.label>Αποθήκες</Stockpiles.label>
-  <Stockpiles.helpText>Οι άποικοι χρειάζονται κάπου να αποθηκεύουν αντικείμενα. Ορίστε μία ΑΠΟΘΗΚΗ για να αποθηκεύσουν τα πράγματα.\n\nΒρείτε την αποθήκη στην ενότητα ΖΩΝΕΣ του μενού ΑΡΧΙΤΕΚΤΟΝΙΚΗ κάτω αριστερά.</Stockpiles.helpText>
-
-  <Forbidding.label>Απαγόρευση και άρση απαγόρευσης</Forbidding.label>
-  <Forbidding.helpText>Οι αποικιστές δεν θα αλληλεπιδρούν με τα αντικείμενα που έχουν επισημανθεί ως ΑΠΑΓΟΡΕΥΜΕΝΑ.\n\nΤα απαγορευμένα αντικείμενα έχουν ένα μικρό κόκκινο X συνημμένο. Επιλέξτε ένα απαγορευμένο στοιχείο και χρησιμοποιήστε τα στοιχεία ελέγχου στο κάτω μέρος για να ΑΡΕΤΕ ΤΗΝ ΑΠΑΓΟΡΕΥΣΗ.</Forbidding.helpText>
-
-  <GrowingFood.label>Ζώνες καλλιέργειας</GrowingFood.label>
-  <GrowingFood.helpText>Για να καλλιεργήσετε τρόφιμα, τοποθετήστε τις ΖΩΝΕΣ ΚΑΛΛΙΕΡΓΕΙΑΣ χρησιμοποιώντας το μενού Αρχιτεκτονική.\n\nΜπορούν να τοποθετηθούν μόνο σε γόνιμο έδαφος.</GrowingFood.helpText>
-
-  <EquippingWeapons.label>Εξοπλισμός με όπλα</EquippingWeapons.label>
-  <EquippingWeapons.helpText>Οι άποικοι σας έφτασαν με κάποια όπλα. Εξοπλιστείτε τα!\n\nΕπιλέξτε κάθε άποικο και κάντε δεξί κλικ στο όπλο με το οποίο θέλετε να εξοπλιστεί.</EquippingWeapons.helpText>
-
+  
+  <!-- EN: Alerts -->
   <Alerts.label>Συναγερμοί</Alerts.label>
+  <!-- EN: The alerts at the right edge of the screen tell you about issues that need your attention.\n\nKeep an eye on the alerts. -->
   <Alerts.helpText>Οι ειδοποιήσεις στο δεξί άκρο της οθόνης σας λένε για το θέμα που χρειάζονται την προσοχή σας.\n\nΠαρακολουθήστε τις ειδοποιήσεις.</Alerts.helpText>
-
-  <Mining.label>Εξόρυξη</Mining.label>
-  <Mining.helpText>Μπορείτε να ορίσετε πού να εξορύξουν ανοίγοντας το μενού ΑΡΧΙΤΕΚΤΟΝΙΚΗ και επιλέγοντας την καρτέλα ΔΙΑΤΑΓΕΣ.\n\nΟρισμένα εξορύξημα κομμάτια παράγουν ΑΤΣΑΛΙ, ΧΡΥΣΟ, ΠΛΑΣΤΕΛ και άλλα χρήσιμα υλικά.</Mining.helpText>
-
-  <WorkTab.label>Ρυθμίσεις εργασίας</WorkTab.label>
-  <WorkTab.helpText>Μπορείτε να ορίσετε τις ρυθμίσεις εργασίας κάθε αποίκου στην καρτέλα ΕΡΓΑΣΙΑ στην κάτω αριστερή πλευρά της οθόνης.\n\nΘα κάνουν πάντα την εργασία με την υψηλότερη προτεραιότητα που μπορούν να βρουν.\n\nΕάν δεν έχει οριστεί κάποιος συγκεκριμένος τύπος εργασίας ή εάν είναι απασχολημένος με καθήκοντα υψηλότερης προτεραιότητας, δεν θα γίνει ποτέ.</WorkTab.helpText>
-
-  <ForbiddingDoors.label>Αποκλεισμένες πόρτες</ForbiddingDoors.label>
-  <ForbiddingDoors.helpText>Μπορείτε να ΑΠΟΚΛΕΙΣΕΤΕ τις πόρτες έτσι ώστε οι άποικοι και τα εξημερωμένα ζώα να μην διέρχονται από αυτές.\n\nΣημειώστε ότι δεν πρόκειται για κλείδωμα πόρτας. Οι πόρτες είναι πάντα κλειδωμένες, έτσι οι εχθροί δεν μπορούν να περάσουν ελεύθερα. Ο αποκλεισμός απλώς κατευθύνει τους αποίκους σας να μην χρησιμοποιήσουν την πόρτα. Οι αποικιστές που τρελαίνονται μπορούν να χρησιμοποιήσουν την πόρτα ούτως ή άλλως.</ForbiddingDoors.helpText>
-
-  <CoverAndShooting.label>Κάλυψη και πυροβολισμός</CoverAndShooting.label>
-  <CoverAndShooting.helpText>Το πιο σημαντικό πράγμα που πρέπει να κάνετε σε μια μάχη εξ αποστάσεως είναι να χρησιμοποιήσετε την κάλυψη.\n\nΗ κάλυψη λειτουργεί μόνο εάν ο αποικιστής σας την αγγίζει, και είναι μεταξύ του αποίκου σας και του εχθρού.\n\nΜπορείτε επίσης να τοποθετήσετε τους αποίκους πίσω από τις γωνίες των τοίχων. Θα κλίνουν για να πυροβολήσουν.\n\nΤα περισσότερα αντικείμενα μπορούν να χρησιμοποιηθούν ως κάλυψη, αλλά ορισμένα αντικείμενα είναι καλύτερα από άλλα. Η απόκρυψη πίσω από ένα δέντρο είναι καλύτερη από το τίποτα, αλλά η απόκρυψη πίσω από τους σάκους με άμμο είναι καλύτερη από τη χρήση ενός δέντρου.</CoverAndShooting.helpText>
-
-  <FormCaravan.label>Σύνθεση καραβανιών</FormCaravan.label>
-  <FormCaravan.helpText>Μπορείτε να δημιουργήσετε ένα καραβάνι για να στείλετε ομάδες ανθρώπων που ταξιδεύουν στον πλανήτη!\n\nΣτην καρτέλα ΚΟΣΜΟΣ, επιλέξτε τη βάση κατοικίας σας και κάντε κλικ στο κουμπί "σύνθεση καραβανιού".</FormCaravan.helpText>
-
-  <AnimalTaming.label>Εξημέρωση ζώου</AnimalTaming.label>
-  <AnimalTaming.helpText>Μπορείτε να ορίσετε αποίκους για να δαμάσουν ένα άγριο ζώο με την εντολή ΕΞΗΜΕΡΩΣΗ.\n\nΟι αποικιστές θα προσφέρουν τροφή στα ζώα και θα προσπαθήσουν να τα εξημερώσουν. Προσοχή: ορισμένα ζώα μπορούν να ανταποκριθούν βίαια σε αποτυχημένες προσπάθειες εξημέρωσης.</AnimalTaming.helpText>
-
-  <AnimalTraining.label>Εκπαίδευση ζώου</AnimalTraining.label>
-  <AnimalTraining.helpText>Μπορείτε να ορίσετε σ' ένα εξημερωμένο ζώο να εκπαιδεύετε σε συγκεκριμένες δεξιότητες στην καρτέλα ΕΚΠΑΙΔΕΥΣΗΣ του.\n\nΤα ζώα δεν μπορούν να εκπαιδεύονται συνεχώς. Χρειάζονται χρόνο μεταξύ των εκπαιδεύσεών τους.</AnimalTraining.helpText>
-
-  <InfoCard.label>Καρτέλα πληροφοριών</InfoCard.label>
-  <InfoCard.helpText>Η κάρτα πληροφοριών εμφανίζει λεπτομερή στατιστικά στοιχεία για κάθε αντικείμενο, άτομο ή κατασκευή.\n\nΕπιλέξτε ένα άτομο ή αντικείμενο και ανοίξτε την κάρτα πληροφοριών με το κουμπί 'i' στο παράθυρο επιθεώρησης.</InfoCard.helpText>
-
-  <StorageTab.label>Καρτέλα αποθήκης</StorageTab.label>
-  <StorageTab.helpText>Μπορείτε να διαμορφώσετε τις αποθήκες και τα κτίρια αποθήκευσης επιλέγοντάς τα και ανοίγοντας τη ΚΑΡΤΕΛΑ ΑΠΟΘΗΚΕΥΣΗΣ πάνω από το κάτω αριστερό παράθυρο επιθεώρησης.\n\nΣτην καρτέλα αποθήκευσης μιας αποθήκης, μπορείτε να επεκτείνετε κατηγορίες για να επιτρέψετε ή να απορρίψετε συγκεκριμένα στοιχεία. Κάντε κλικ στα τρίγωνα στα αριστερά των ονομάτων των κατηγοριών.\n\nΜπορείτε να αλλάξετε τη ΠΡΟΤΕΡΑΙΟΤΗΤΑ της αποθήκευσης. Οι αποικιστές θα γεμίσουν πρώτα την αποθήκη υψηλότερης προτεραιότητας και θα μεταφέρουν τα αντικείμενα από χαμηλότερη σε υψηλότερη προτεραιότητα.</StorageTab.helpText>
-
-  <HomeArea.label>Περιοχή σπιτιού</HomeArea.label>
-  <HomeArea.helpText>Η ΠΕΡΙΟΧΗ ΣΠΙΤΙΟΥ λέει στους αποίκους σας ποια περιοχή θα καθαρίζουν και που θα σβήνουν φωτιές.\n\nΟρίστε την ΠΕΡΙΟΧΗ ΣΠΙΤΙΟΥ από την κατηγορία Ζώνες κάτω από το μενού Αρχιτεκτονική.</HomeArea.helpText>
-
-  <SpoilageAndFreezers.label>Φύρα και ψυγεία</SpoilageAndFreezers.label>
-  <SpoilageAndFreezers.helpText>Τα περισσότερα τρόφιμα θα χαλάσουν μετά από ένα σχετικά σύντομο χρονικό διάστημα.\n\nΓια να αποφευχθεί αυτό, μπορείτε να φτιάξετε έναν καταψύκτη δωμάτιο.\n\nΓια να φτιάξετε έναν καταψύκτη, κατασκευάστε ένα κλειστό δωμάτιο και βάλτε ένα ή δύο ψυγεία στον τοίχο. Ρυθμίστε τους ψύκτες σε αρνητική θερμοκρασία στόχου.\n\nΤα κατεψυγμένα τρόφιμα δεν θα χαλάσουν ποτέ.</SpoilageAndFreezers.helpText>
-
-  <Deterioration.label>Αλλοίωση αντικειμένου</Deterioration.label>
-  <Deterioration.helpText>Αντικείμενα που βρίσκονται έξω σιγά, σιγά θα αλλοιωθούν.\n\nΑν θέλετε να αποθηκεύσετε αντικείμενα για μεγάλο χρονικό διάστημα, κρατήστε τα κάτω από οροφή.</Deterioration.helpText>
-
-  <HostilityResponse.label>Λειτουργίες αντίδρασης στην εχθρότητα</HostilityResponse.label>
-  <HostilityResponse.helpText>Μπορείτε να διαμορφώσετε τον τρόπο με τον οποίο οι άποικοι θα πρέπει να ανταποκρίνονται αυτόματα σε απειλές όπως τα αρπακτικά ζώα.\n\nΕπιλέξτε από τις λειτουργίες ΥΠΟΧΩΡΗΣΗ, ΕΠΙΘΕΣΗ και ΑΓΝΟΗΣΗ στο μενού ΑΝΑΘΕΣΕΙΣ.</HostilityResponse.helpText>
-
+  
+  <!-- EN: Allowed areas -->
   <AllowedAreas.label>Επιτρεπόμενες περιοχές</AllowedAreas.label>
+  <!-- EN: Colonists and colony animals can be assigned to ALLOWED AREAS. This forbids them from taking destinations outside their allowed area.\n\nThis can be used to, for example, forbid colonists from going outside.\n\nYou can create multiple allowed areas and assign them to different colonists and animals.\n\nCreate, delete, and assign allowed areas in the RESTRICT tab.\n\nPaint allowed areas onto the map using the EXPAND ALLOWED AREA and CLEAR ALLOWED AREA designators in the Architect tab. -->
   <AllowedAreas.helpText>Οι αποικιστές και τα αποικιακά ζώα μπορούν να αντιστοιχιστούν στις ΕΠΙΤΡΕΠΟΜΕΝΕΣ ΠΕΡΙΟΧΕΣ. Αυτό τους απαγορεύει να πηγαίνουν σε προορισμούς εκτός της επιτρεπόμενης περιοχής τους.\n\nΑυτό μπορεί να χρησιμοποιηθεί, για παράδειγμα, για να απαγορεύσει στους αποίκους να πάνε έξω.\n\nΜπορείτε να δημιουργήσετε πολλαπλές επιτρεπόμενες περιοχές και να τις αντιστοιχίσετε σε διαφορετικούς αποίκους και ζώα.\n\nΔημιουργήστε, διαγράψτε και ορίστε επιτρεπόμενες περιοχές στην καρτέλα ΠΕΡΙΟΡΙΣΜΟΣ.\n\nΣχεδιάστε τις επιτρεπόμενες περιοχές πάνω στο χάρτη χρησιμοποιώντας την επιλογή ΕΠΕΚΤΑΣΗ ΕΠΙΤΡΕΠΟΜΕΝΗΣ ΠΕΡΙΟΧΗΣ και ΔΙΑΓΡΑΦΗ ΕΠΙΤΡΕΠΟΜΕΝΗΣ ΠΕΡΙΟΧΗΣ στην καρτέλα Αρχιτεκτονική.</AllowedAreas.helpText>
-
-  <MedicalOperations.label>Ιατρικές δραστηριότητες</MedicalOperations.label>
-  <MedicalOperations.helpText>Για να εκχωρήσετε μια ιατρική δραστηριότητα, όπως η αφαίρεση οργάνων ή η εγκατάσταση προσθετικού μέλους, ανοίξτε την καρτέλα ΥΓΕΙΑ του αποίκου και στη συνέχεια μεταβείτε στην υπό-καρτέλα ΛΕΙΤΟΥΡΓΙΕΣ.</MedicalOperations.helpText>
-
-  <TimeAssignments.label>Αναθέσεις ώρας</TimeAssignments.label>
-  <TimeAssignments.helpText>Μπορείτε να τροποποιήσετε την ώρα της ημέρας που οι άποικοι θα πρέπει να κάνουν διαφορετικές δραστηριότητες χρησιμοποιώντας την καρτέλα ΠΕΡΙΟΡΙΣΜΟΙ.</TimeAssignments.helpText>
-
-  <ManualWorkPriorities.label>Χειροκίνητες προτεραιότητες εργασίας</ManualWorkPriorities.label>
-  <ManualWorkPriorities.helpText>Ένα από τα πιο σημαντικά κομμάτια του RimWorld είναι η επιλογή καλών ρυθμίσεων εργασίας για τους αποίκους σας.\n\nΟι κακές ρυθμίσεις εργασίας μπορούν να αφήσουν την ουσιώδης εργασία ατελείωτη για μεγάλο χρονικό διάστημα, ενώ οι άποικοι χάνουν χρόνο σε ασήμαντα καθήκοντα.\n\nΓια να δώσετε μεγαλύτερο έλεγχο στο τι εργασία θα κάνουν οι άποικοι, μπορείτε να χρησιμοποιήσετε τη λειτουργία Χειροκίνητων Προτεραιοτήτων στην καρτέλα ΕΡΓΑΣΙΑ.\n\nΣε αυτή τη λειτουργία, κάθε άποικος έχει έναν αριθμό προτεραιότητας για κάθε τύπο εργασίας. Οι αποικιστές θα δουλέψουν με προτεραιότητα 1 από αριστερά προς τα δεξιά, κατόπιν η εργασία προτεραιότητας 2 από αριστερά προς τα δεξιά και ούτω καθεξής.\n\nΗ έξυπνη χρήση αυτών των ρυθμίσεων είναι απαραίτητη για μια μεγάλη, καλά αυτοματοποιημένη αποικία.</ManualWorkPriorities.helpText>
-
-  <GettingMoreTraders.label>Να να έρθουν περισσότεροι έμποροι</GettingMoreTraders.label>
-  <GettingMoreTraders.helpText>Περισσότερα καραβάνια εμπόρων θα έρθουν να σας επισκεφθούν εάν είστε σύμμαχοι με περισσότερες παρατάξεις.\n\nΑν δεν έχετε συμμάχους, κανένα καραβάνι δεν θα σας επισκεφθεί ποτέ!\n\nΜπορείτε επίσης να πληρώσετε συμμάχους για να στείλετε καραβάνια καλώντας τους από την κονσόλα επικοινωνίας.</GettingMoreTraders.helpText>
-
-  <InspectRoomStats.label>Επιθεωρητής στατιστικών δωματίου</InspectRoomStats.label>
-  <InspectRoomStats.helpText>Μπορείτε να επιθεωρήσετε την εντυπωσιακότητα, τον πλούτο και την ομορφιά μεμονωμένων δωματίων, χρησιμοποιώντας τον διακόπτη ΕΠΙΘΕΩΡΗΣΗ ΣΤΑΤΙΣΤΙΚΩΝ ΔΩΜΑΤΙΟΥ στην κάτω δεξιά γωνία.</InspectRoomStats.helpText>
-
-  <Outfits.label>Ενδυμασίες</Outfits.label>
-  <Outfits.helpText>Οι αποικιστές θα προσπαθήσουν αυτόματα να φορέσουν τα νεώτερα, υψηλής ποιότητας ενδύματα που μπορούν.\n\nΔεν χρειάζεται να εκχωρήσετε με το χέρι κάθε κομμάτι ρούχου στους αποίκους (αν και μπορείτε, αν το επιθυμείτε).\n\nΓια να ορίσετε στους αποίκους περιορισμούς στον πως θα ντύνονται, ανοίξτε την καρτέλα ΑΝΑΘΕΣΕΙΣ, χρησιμοποιήστε το παράθυρο διαλόγου "Διαχείριση ενδυμασιών" για να σχεδιάσετε μια νέα στολή και, στη συνέχεια, εκχωρήστε την στολή στους αποίκους.</Outfits.helpText>
-
-  <FirePreparation.label>Πυροπροστασία</FirePreparation.label>
-  <FirePreparation.helpText>Οι πυρκαγιές μπορούν να κατακάψουν εύκολα μια αποικία. Για να τις νικήσετε, πρέπει να προετοιμαστείτε πριν να συμβούν.
-\nΑυτά τα στοιχεία σχεδιασμού μπορούν να συμβάλλουν στη μείωση των ζημιών από πυρκαγιές:
-\n1. Αντί να κατασκευάσετε μια υπεροικοδομή, χτίστε χωριστά κτίρια με διαστήματα μεταξύ τους.
-\n2. Χρησιμοποιήστε λιγότερο εύφλεκτα υλικά. Το ξύλο είναι φθηνό και γρήγορο - αλλά πολύ εύφλεκτο.
-\n3. Κατασκευάστε πυροπροστασίες για να σταματήσετε τις πυρκαγιές που πλησιάζουν τη βάση σας. Μια λωρίδα πλάτους σκυροδέματος 3 ή 4 κελιών γενικά θα σταματήσει μια πρόοδο φωτιάς.</FirePreparation.helpText>
-
-  <HistoryTab.label>Καρτέλα ιστορικού</HistoryTab.label>
-  <HistoryTab.helpText>Μπορείτε να δείτε μια καταγραφή της μοίρας της αποικίας σας με την πάροδο του χρόνου στην καρτέλα ΙΣΤΟΡΙΑ στο κάτω μέρος της οθόνης.</HistoryTab.helpText>
-
+  
+  <!-- EN: Animal taming -->
+  <AnimalTaming.label>Εξημέρωση ζώου</AnimalTaming.label>
+  <!-- EN: You can assign colonists to tame a wild animal with the TAME designator.\n\nColonists will offer the animal food and attempt to tame it.\n\nBeware: Some animals can respond violently to failed taming attempts. -->
+  <AnimalTaming.helpText>Μπορείτε να ορίσετε αποίκους για να δαμάσουν ένα άγριο ζώο με την εντολή ΕΞΗΜΕΡΩΣΗ.\n\nΟι αποικιστές θα προσφέρουν τροφή στα ζώα και θα προσπαθήσουν να τα εξημερώσουν. Προσοχή: ορισμένα ζώα μπορεί να ανταποκριθούν βίαια σε αποτυχημένες προσπάθειες εξημέρωσης.</AnimalTaming.helpText>
+  
+  <!-- EN: Animal training -->
+  <AnimalTraining.label>Εκπαίδευση ζώου</AnimalTraining.label>
+  <!-- EN: You can assign a tame animal to be trained in specific skills on its TRAINING tab.\n\nAnimals can't be trained continuously; they need time between training sessions. -->
+  <AnimalTraining.helpText>Μπορείτε να ορίσετε σ' ένα εξημερωμένο ζώο να εκπαιδεύεται σε συγκεκριμένες δεξιότητες στην καρτέλα ΕΚΠΑΙΔΕΥΣΗΣ του.\n\nΤα ζώα δεν μπορούν να εκπαιδεύονται συνεχώς. Χρειάζονται χρόνο μεταξύ των εκπαιδεύσεών τους.</AnimalTraining.helpText>
+  
+  <!-- EN: Camera dolly -->
+  <CameraDolly.label>Τροχηλάτηση κάμερας</CameraDolly.label>
+  <!-- EN: Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle button) or with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys. -->
+  <CameraDolly.helpText>Μετακίνησε την κάμερα κάνοντας κλικ και σύρσιμο με το ΠΛΗΚΤΡΟ ΠΟΝΤΙΚΟΥ 3 (μεσαίο πλήκτρο) ή με τα πλήκτρα {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}.</CameraDolly.helpText>
+  
+  <!-- EN: Camera zoom -->
+  <CameraZoom.label>Μεγέθυνση κάμερας</CameraZoom.label>
+  <!-- EN: Zoom in and out with the MOUSEWHEEL or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys. -->
+  <CameraZoom.helpText>Μεγέθυνση και σμίκρυνση με τη ΡΟΔΕΛΑ ΤΟΥ ΠΟΝΤΙΚΙΟΥ ή με τα πλήκτρα {Key:MapZoom_In} και {Key:MapZoom_Out}.</CameraZoom.helpText>
+  
+  <!-- EN: Clicking messages -->
   <ClickingMessages.label>Κάνοντας κλικ στα μηνύματα</ClickingMessages.label>
+  <!-- EN: You can click on the notifications in the top-left of the screen to instantly center the camera on their subject. -->
   <ClickingMessages.helpText>Μπορείτε να κάνετε κλικ στις ειδοποιήσεις στην επάνω αριστερή γωνία της οθόνης για να εστιάσετε άμεσα την κάμερα στο θέμα τους.</ClickingMessages.helpText>
-
-  <ShotAccuracyTooltip.label>Επεξήγηση (tooltip) ευστοχίας πυροβολισμού</ShotAccuracyTooltip.label>
-  <ShotAccuracyTooltip.helpText>Μπορείτε να δείτε τους ακριβείς υπολογισμούς της ακρίβειας κάθε πυροβολισμού.\n\nΓια να το κάνετε αυτό, επιλέξτε τον σκοπευτή και, στη συνέχεια, τοποθετήστε το ποντίκι πάνω από τον στόχο. Η επεξήγηση εργαλείου θα δείξει την πιθανότητα να βρει στόχο και μια ανάλυση της συμβολής των διαφόρων συντελεστών πιθανότητας ευστοχίας.</ShotAccuracyTooltip.helpText>
-
+  
+  <!-- EN: Cover and shooting -->
+  <CoverAndShooting.label>Κάλυψη και πυροβολισμός</CoverAndShooting.label>
+  <!-- EN: The most important thing to do in ranged combat is to use cover.\n\nCover only works if your colonist is touching it, and it is between your colonist and the enemy.\n\nYou can also place colonists behind wall corners. They will lean out to shoot.\n\nMost things can be used as cover, but some things are better than others. Hiding behind a tree is better than nothing, but hiding behind sandbags is better than using a tree. -->
+  <CoverAndShooting.helpText>Το πιο σημαντικό πράγμα που πρέπει να κάνετε σε μια μάχη εξ αποστάσεως είναι να χρησιμοποιήσετε την κάλυψη.\n\nΗ κάλυψη λειτουργεί μόνο εάν ο αποικιστής σας την αγγίζει, και είναι μεταξύ του αποίκου σας και του εχθρού.\n\nΜπορείτε επίσης να τοποθετήσετε τους αποίκους πίσω από τις γωνίες των τοίχων. Θα κλίνουν για να πυροβολήσουν.\n\nΤα περισσότερα αντικείμενα μπορούν να χρησιμοποιηθούν ως κάλυψη, αλλά ορισμένα αντικείμενα είναι καλύτερα από άλλα. Η απόκρυψη πίσω από ένα δέντρο είναι καλύτερη από το τίποτα, αλλά η απόκρυψη πίσω από τους σάκους με άμμο είναι καλύτερη από τη χρήση ενός δέντρου.</CoverAndShooting.helpText>
+  
+  <!-- EN: Item deterioration -->
+  <Deterioration.label>Αλλοίωση αντικειμένου</Deterioration.label>
+  <!-- EN: Items left outdoors will slowly deteriorate.\n\nIf you want to store items long-term, keep them in a roofed room. -->
+  <Deterioration.helpText>Αντικείμενα που βρίσκονται έξω σιγά, σιγά θα αλλοιωθούν.\n\nΑν θέλετε να αποθηκεύσετε αντικείμενα για μεγάλο χρονικό διάστημα, κρατήστε τα κάτω από οροφή.</Deterioration.helpText>
+  
+  <!-- EN: Equipping weapons -->
+  <EquippingWeapons.label>Εξοπλισμός με όπλα</EquippingWeapons.label>
+  <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip. -->
+  <EquippingWeapons.helpText>Οι άποικοι σας έφτασαν με κάποια όπλα. Εξοπλιστείτε τα!\n\nΕπιλέξτε κάθε άποικο και κάντε δεξί κλικ στο όπλο με το οποίο θέλετε να εξοπλιστεί.</EquippingWeapons.helpText>
+  
+  <!-- EN: Fire preparation -->
+  <FirePreparation.label>Πυροπροστασία</FirePreparation.label>
+  <!-- EN: Fires can easily burn down a colony. To defeat them, you must prepare before they happen.\n\nThese design elements can help reduce the damage from fires:\n\n1. Instead of constructing one super-building, build separate buildings with spaces in between.\n\n2. Use less flammable materials. Wood is cheap and fast - but very flammable.\n\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire. -->
+  <FirePreparation.helpText>Οι πυρκαγιές μπορούν να κατακάψουν εύκολα μια αποικία. Για να τις νικήσετε, πρέπει να προετοιμαστείτε πριν να συμβούν.\n\nΑυτά τα στοιχεία σχεδιασμού μπορούν να συμβάλλουν στη μείωση των ζημιών από πυρκαγιές:\n\n1. Αντί να κατασκευάσετε μια υπεροικοδομή, χτίστε χωριστά κτίρια με διαστήματα μεταξύ τους.\n\n2. Χρησιμοποιήστε λιγότερο εύφλεκτα υλικά. Το ξύλο είναι φθηνό και γρήγορο - αλλά πολύ εύφλεκτο.\n\n3. Κατασκευάστε πυροπροστασίες για να σταματήσετε τις πυρκαγιές που πλησιάζουν τη βάση σας. Μια λωρίδα πλάτους σκυροδέματος 3 ή 4 κελιών γενικά θα σταματήσει μια πρόοδο φωτιάς.</FirePreparation.helpText>
+  
+  <!-- EN: Forbid and allow -->
+  <Forbidding.label>Απαγόρευση και άρση απαγόρευσης</Forbidding.label>
+  <!-- EN: Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to ALLOW it. -->
+  <Forbidding.helpText>Οι αποικιστές δεν θα αλληλεπιδρούν με τα αντικείμενα που έχουν επισημανθεί ως ΑΠΑΓΟΡΕΥΜΕΝΑ.\n\nΤα απαγορευμένα αντικείμενα έχουν ένα μικρό κόκκινο X συνημμένο. Επιλέξτε ένα απαγορευμένο στοιχείο και χρησιμοποιήστε τα στοιχεία ελέγχου στο κάτω μέρος για να ΑΡΕΤΕ ΤΗΝ ΑΠΑΓΟΡΕΥΣΗ.</Forbidding.helpText>
+  
+  <!-- EN: Forbidding doors -->
+  <ForbiddingDoors.label>Αποκλεισμένες πόρτες</ForbiddingDoors.label>
+  <!-- EN: You can FORBID doors so colonists and tame animals won't go through them.\n\nNote that this isn't a door lock. Doors are always locked, so enemies can't pass freely. Forbidding just directs your colonists not to use the door. Colonists who are going crazy might use the door anyway. -->
+  <ForbiddingDoors.helpText>Μπορείτε να ΑΠΟΚΛΕΙΣΕΤΕ τις πόρτες έτσι ώστε οι άποικοι και τα εξημερωμένα ζώα να μην διέρχονται από αυτές.\n\nΣημειώστε ότι δεν πρόκειται για κλείδωμα πόρτας. Οι πόρτες είναι πάντα κλειδωμένες, έτσι οι εχθροί δεν μπορούν να περάσουν ελεύθερα. Ο αποκλεισμός απλώς κατευθύνει τους αποίκους σας να μην χρησιμοποιήσουν την πόρτα. Οι αποικιστές που τρελαίνονται μπορούν να χρησιμοποιήσουν την πόρτα ούτως ή άλλως.</ForbiddingDoors.helpText>
+  
+  <!-- EN: Forming caravans -->
+  <FormCaravan.label>Σύνθεση καραβανιών</FormCaravan.label>
+  <!-- EN: You can form a caravan to send groups of people traveling across the planet!\n\nIn the WORLD tab, select your home base and click the "form caravan" button. -->
+  <FormCaravan.helpText>Μπορείτε να δημιουργήσετε ένα καραβάνι για να στείλετε ομάδες ανθρώπων που ταξιδεύουν στον πλανήτη!\n\nΣτην καρτέλα ΚΟΣΜΟΣ, επιλέξτε τη βάση κατοικίας σας και κάντε κλικ στο κουμπί "σύνθεση καραβανιού".</FormCaravan.helpText>
+  
+  <!-- EN: Friendly fire safety -->
   <FriendlyFireSafety.label>Προστασία από φίλια πυρά</FriendlyFireSafety.label>
+  <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over his friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
   <FriendlyFireSafety.helpText>Τα φίλια πυρά ποτέ δεν υπολογίζονται εάν ο σκοπευτής είναι κοντά στον σύμμαχό του.\n\nΓια παράδειγμα, μπορείτε να τοποθετήσετε με ασφάλεια έναν αποικιστή με σπαθιά απευθείας μπροστά από ένα πυροβολητή. Ο σκοπευτής θα πυροβολήσει πάνω από τον ώμο του φίλου του.\n\nΑυτός είναι ένας καλός τρόπος για να συνδυάσετε τους εξ αποστάσεως και εκ του συστάδην μαχητές.</FriendlyFireSafety.helpText>
-
-
+  
+  <!-- EN: Getting more traders -->
+  <GettingMoreTraders.label>Για να έρθουν περισσότεροι έμποροι</GettingMoreTraders.label>
+  <!-- EN: More trader caravans will come to visit you if you're allied with more factions.\n\nIf you have no allies, no caravans will ever visit!\n\nYou can also pay allies to send trade caravans by calling them on the comms console. -->
+  <GettingMoreTraders.helpText>Περισσότερα καραβάνια εμπόρων θα έρθουν να σας επισκεφθούν εάν είστε σύμμαχοι με περισσότερες παρατάξεις.\n\nΑν δεν έχετε συμμάχους, κανένα καραβάνι δεν θα σας επισκεφθεί ποτέ!\n\nΜπορείτε επίσης να πληρώσετε συμμάχους για να στείλετε καραβάνια καλώντας τους από την κονσόλα επικοινωνίας.</GettingMoreTraders.helpText>
+  
+  <!-- EN: Growing zones -->
+  <GrowingFood.label>Ζώνες καλλιέργειας</GrowingFood.label>
+  <!-- EN: To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground. -->
+  <GrowingFood.helpText>Για να καλλιεργήσετε τρόφιμα, τοποθετήστε τις ΖΩΝΕΣ ΚΑΛΛΙΕΡΓΕΙΑΣ χρησιμοποιώντας το μενού Αρχιτεκτονική.\n\nΜπορούν να τοποθετηθούν μόνο σε γόνιμο έδαφος.</GrowingFood.helpText>
+  
+  <!-- EN: History tab -->
+  <HistoryTab.label>Καρτέλα ιστορικού</HistoryTab.label>
+  <!-- EN: You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen. -->
+  <HistoryTab.helpText>Μπορείτε να δείτε μια καταγραφή της μοίρας της αποικίας σας με την πάροδο του χρόνου στην καρτέλα ΙΣΤΟΡΙΑ στο κάτω μέρος της οθόνης.</HistoryTab.helpText>
+  
+  <!-- EN: Home area -->
+  <HomeArea.label>Περιοχή σπιτιού</HomeArea.label>
+  <!-- EN: The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu. -->
+  <HomeArea.helpText>Η ΠΕΡΙΟΧΗ ΣΠΙΤΙΟΥ λέει στους αποίκους σας ποια περιοχή θα καθαρίζουν και που θα σβήνουν φωτιές.\n\nΟρίστε την ΠΕΡΙΟΧΗ ΣΠΙΤΙΟΥ από την κατηγορία Ζώνες κάτω από το μενού Αρχιτεκτονική.</HomeArea.helpText>
+  
+  <!-- EN: Hostility response modes -->
+  <HostilityResponse.label>Λειτουργίες αντίδρασης στην εχθρότητα</HostilityResponse.label>
+  <!-- EN: You can configure how colonists should automatically respond to threats like predatory animals.\n\nChoose from FLEE, ATTACK, and IGNORE modes in the ASSIGN menu. -->
+  <HostilityResponse.helpText>Μπορείτε να διαμορφώσετε τον τρόπο με τον οποίο οι άποικοι θα πρέπει να ανταποκρίνονται αυτόματα σε απειλές όπως τα αρπακτικά ζώα.\n\nΕπιλέξτε από τις λειτουργίες ΥΠΟΧΩΡΗΣΗ, ΕΠΙΘΕΣΗ και ΑΓΝΟΗΣΗ στο μενού ΑΝΑΘΕΣΕΙΣ.</HostilityResponse.helpText>
+  
+  <!-- EN: Info card -->
+  <InfoCard.label>Καρτέλα πληροφοριών</InfoCard.label>
+  <!-- EN: The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane. -->
+  <InfoCard.helpText>Η κάρτα πληροφοριών εμφανίζει λεπτομερή στατιστικά στοιχεία για κάθε αντικείμενο, άτομο ή κατασκευή.\n\nΕπιλέξτε ένα άτομο ή αντικείμενο και ανοίξτε την κάρτα πληροφοριών με το κουμπί 'i' στο παράθυρο επιθεώρησης.</InfoCard.helpText>
+  
+  <!-- EN: Room stats inspector -->
+  <InspectRoomStats.label>Επιθεωρητής στατιστικών δωματίου</InspectRoomStats.label>
+  <!-- EN: You can inspect the impressiveness, wealth, and beauty of individual rooms using the ROOM STATS INSPECT toggle in the bottom right. -->
+  <InspectRoomStats.helpText>Μπορείτε να επιθεωρήσετε την εντυπωσιακότητα, τον πλούτο και την ομορφιά μεμονωμένων δωματίων, χρησιμοποιώντας τον διακόπτη ΕΠΙΘΕΩΡΗΣΗ ΣΤΑΤΙΣΤΙΚΩΝ ΔΩΜΑΤΙΟΥ στην κάτω δεξιά γωνία.</InspectRoomStats.helpText>
+  
+  <!-- EN: Manual work priorities -->
+  <ManualWorkPriorities.label>Χειροκίνητες προτεραιότητες εργασίας</ManualWorkPriorities.label>
+  <!-- EN: One of the most important parts of RimWorld is choosing good work settings for your colonists.\n\nPoor work settings can leave essential work unfinished for a long time while colonists waste time on unimportant tasks.\n\nTo give more control over what work colonists do, you can use the Manual Priorities mode in the WORK tab.\n\nIn this mode, each colonist has a priority number for each work type. Colonists will do priority 1 work from left to right, then priority 2 work from left to right, and so on.\n\nIntelligent use of these setting is essential for a large, well-automated colony. -->
+  <ManualWorkPriorities.helpText>Ένα από τα πιο σημαντικά κομμάτια του RimWorld είναι η επιλογή καλών ρυθμίσεων εργασίας για τους αποίκους σας.\n\nΟι κακές ρυθμίσεις εργασίας μπορούν να αφήσουν την ουσιώδης εργασία ατελείωτη για μεγάλο χρονικό διάστημα, ενώ οι άποικοι χάνουν χρόνο σε ασήμαντα καθήκοντα.\n\nΓια να δώσετε μεγαλύτερο έλεγχο στο τι εργασία θα κάνουν οι άποικοι, μπορείτε να χρησιμοποιήσετε τη λειτουργία Χειροκίνητων Προτεραιοτήτων στην καρτέλα ΕΡΓΑΣΙΑ.\n\nΣε αυτή τη λειτουργία, κάθε άποικος έχει έναν αριθμό προτεραιότητας για κάθε τύπο εργασίας. Οι αποικιστές θα δουλέψουν με προτεραιότητα 1 από αριστερά προς τα δεξιά, κατόπιν η εργασία προτεραιότητας 2 από αριστερά προς τα δεξιά και ούτω καθεξής.\n\nΗ έξυπνη χρήση αυτών των ρυθμίσεων είναι απαραίτητη για μια μεγάλη, καλά αυτοματοποιημένη αποικία.</ManualWorkPriorities.helpText>
+  
+  <!-- EN: Medical operations -->
+  <MedicalOperations.label>Ιατρικές δραστηριότητες</MedicalOperations.label>
+  <!-- EN: To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab. -->
+  <MedicalOperations.helpText>Για να εκχωρήσετε μια ιατρική δραστηριότητα, όπως η αφαίρεση οργάνων ή η εγκατάσταση προσθετικού μέλους, ανοίξτε την καρτέλα ΥΓΕΙΑ του αποίκου και στη συνέχεια μεταβείτε στην υπό-καρτέλα ΛΕΙΤΟΥΡΓΙΕΣ.</MedicalOperations.helpText>
+  
+  <!-- EN: Mining -->
+  <Mining.label>Εξόρυξη</Mining.label>
+  <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
+  <Mining.helpText>Μπορείτε να ορίσετε πού να εξορύξουν ανοίγοντας το μενού ΑΡΧΙΤΕΚΤΟΝΙΚΗ και επιλέγοντας την καρτέλα ΔΙΑΤΑΓΕΣ.\n\nΟρισμένα εξορύξημα κομμάτια παράγουν ΑΤΣΑΛΙ, ΧΡΥΣΟ, ΠΛΑΣΤΕΛ και άλλα χρήσιμα υλικά.</Mining.helpText>
+  
+  <!-- EN: Outfits -->
+  <Outfits.label>Ενδυμασίες</Outfits.label>
+  <!-- EN: Colonists will automatically try to wear the newest, highest-quality apparel they can.\n\nYou don't need to manually assign each piece of apparel to colonists (though you can, if you wish).\n\nTo assign colonists restrictions on how to dress, open the ASSIGN tab, use the "Manage outfits" dialog box to design a new outfit, and then assign the outfit to colonists. -->
+  <Outfits.helpText>Οι αποικιστές θα προσπαθήσουν αυτόματα να φορέσουν τα νεώτερα, υψηλής ποιότητας ενδύματα που μπορούν.\n\nΔεν χρειάζεται να εκχωρήσετε με το χέρι κάθε κομμάτι ρούχου στους αποίκους (αν και μπορείτε, αν το επιθυμείτε).\n\nΓια να ορίσετε στους αποίκους περιορισμούς στον πως θα ντύνονται, ανοίξτε την καρτέλα ΑΝΑΘΕΣΕΙΣ, χρησιμοποιήστε το παράθυρο διαλόγου "Διαχείριση ενδυμασιών" για να σχεδιάσετε μια νέα στολή και, στη συνέχεια, εκχωρήστε την στολή στους αποίκους.</Outfits.helpText>
+  
+  <!-- EN: Pausing -->
+  <Pause.label>Παύση</Pause.label>
+  <!-- EN: Hit {Key:TogglePause} to pause or unpause the game.\n\nYou can give orders while paused.\n\nRemember this - if things get hectic, just hit {Key:TogglePause}! -->
+  <Pause.helpText>Πατήστε το πλήκτρο {Key:TogglePause} για να σταματήσετε ή να ξεκινήστε το παιχνίδι.\n\nΜπορείτε να δώσετε εντολές ενώ είστε σε παύση.\n\nΘυμηθείτε αυτό - αν τα πράγματα γίνονται ταραχώδη, πατήστε απλά {Key:TogglePause}!</Pause.helpText>
+  
+  <!-- EN: Shot accuracy tooltip -->
+  <ShotAccuracyTooltip.label>Επεξήγηση (tooltip) ευστοχίας πυροβολισμού</ShotAccuracyTooltip.label>
+  <!-- EN: You can see the exact calculations behind the accuracy of any shot.\n\nTo do so, select the shooter, then rest the mouse over the target. The tooltip will show the chance to hit, and a breakdown of the contribution of various to-hit chance multipliers. -->
+  <ShotAccuracyTooltip.helpText>Μπορείτε να δείτε τους ακριβείς υπολογισμούς της ακρίβειας κάθε πυροβολισμού.\n\nΓια να το κάνετε αυτό, επιλέξτε τον σκοπευτή και, στη συνέχεια, τοποθετήστε το ποντίκι πάνω από τον στόχο. Η επεξήγηση εργαλείου θα δείξει την πιθανότητα να βρει στόχο και μια ανάλυση της συμβολής των διαφόρων συντελεστών πιθανότητας ευστοχίας.</ShotAccuracyTooltip.helpText>
+  
+  <!-- EN: Spoilage and freezers -->
+  <SpoilageAndFreezers.label>Φύρα και ψυγεία</SpoilageAndFreezers.label>
+  <!-- EN: Most foodstuffs will spoil after a relatively short time.\n\nTo prevent this, you can build a walk-in freezer.\n\nTo build a freezer, construct a closed room, and put one or two coolers into the wall. Set the coolers to a negative target temperature.\n\nFrozen foods won't ever spoil. -->
+  <SpoilageAndFreezers.helpText>Τα περισσότερα τρόφιμα θα χαλάσουν μετά από ένα σχετικά σύντομο χρονικό διάστημα.\n\nΓια να αποφευχθεί αυτό, μπορείτε να φτιάξετε έναν καταψύκτη δωμάτιο.\n\nΓια να φτιάξετε έναν καταψύκτη, κατασκευάστε ένα κλειστό δωμάτιο και βάλτε ένα ή δύο ψυγεία στον τοίχο. Ρυθμίστε τους ψύκτες σε αρνητική θερμοκρασία στόχου.\n\nΤα κατεψυγμένα τρόφιμα δεν θα χαλάσουν ποτέ.</SpoilageAndFreezers.helpText>
+  
+  <!-- EN: Stockpiles -->
+  <Stockpiles.label>Αποθήκες</Stockpiles.label>
+  <!-- EN: Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left. -->
+  <Stockpiles.helpText>Οι άποικοι χρειάζονται κάπου να αποθηκεύουν αντικείμενα. Ορίστε μία ΑΠΟΘΗΚΗ για να αποθηκεύσουν τα πράγματα.\n\nΒρείτε την αποθήκη στην ενότητα ΖΩΝΕΣ του μενού ΑΡΧΙΤΕΚΤΟΝΙΚΗ κάτω αριστερά.</Stockpiles.helpText>
+  
+  <!-- EN: Storage tab -->
+  <StorageTab.label>Καρτέλα αποθήκης</StorageTab.label>
+  <!-- EN: You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority. -->
+  <StorageTab.helpText>Μπορείτε να διαμορφώσετε τις αποθήκες και τα κτίρια αποθήκευσης επιλέγοντάς τα και ανοίγοντας τη ΚΑΡΤΕΛΑ ΑΠΟΘΗΚΕΥΣΗΣ πάνω από το κάτω αριστερό παράθυρο επιθεώρησης.\n\nΣτην καρτέλα αποθήκευσης μιας αποθήκης, μπορείτε να επεκτείνετε κατηγορίες για να επιτρέψετε ή να απορρίψετε συγκεκριμένα στοιχεία. Κάντε κλικ στα τρίγωνα στα αριστερά των ονομάτων των κατηγοριών.\n\nΜπορείτε να αλλάξετε τη ΠΡΟΤΕΡΑΙΟΤΗΤΑ της αποθήκευσης. Οι αποικιστές θα γεμίσουν πρώτα την αποθήκη υψηλότερης προτεραιότητας και θα μεταφέρουν τα αντικείμενα από χαμηλότερη σε υψηλότερη προτεραιότητα.</StorageTab.helpText>
+  
+  <!-- EN: Time assignments -->
+  <TimeAssignments.label>Αναθέσεις ώρας</TimeAssignments.label>
+  <!-- EN: You can modify what time of day colonists should do different activities using the RESTRICT tab. -->
+  <TimeAssignments.helpText>Μπορείτε να τροποποιήσετε την ώρα της ημέρας που οι άποικοι θα πρέπει να κάνουν διαφορετικές δραστηριότητες χρησιμοποιώντας την καρτέλα ΠΕΡΙΟΡΙΣΜΟΙ.</TimeAssignments.helpText>
+  
+  <!-- EN: Time controls -->
+  <TimeControls.label>Έλεγχος χρόνου</TimeControls.label>
+  <!-- EN: You can speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
+  <TimeControls.helpText>Μπορείτε να επιταχύνετε το χρόνο.\n\nΔοκιμάστε να ελέγξετε το χρόνο με τα πλήκτρα {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, και {Key:TimeSpeed_Superfast}, η με τα στοιχεία ελέγχου χρόνου κάτω δεξιά.</TimeControls.helpText>
+  
+  <!-- EN: Work settings -->
+  <WorkTab.label>Ρυθμίσεις εργασίας</WorkTab.label>
+  <!-- EN: You can set each colonist's work settings in the WORK tab at the bottom left of the screen.\n\nThey will always do the highest priority work that they can find.\n\nIf nobody has a certain work type assigned, or if they are busy with higher-priority tasks, it will never get done. -->
+  <WorkTab.helpText>Μπορείτε να ορίσετε τις ρυθμίσεις εργασίας κάθε αποίκου στην καρτέλα ΕΡΓΑΣΙΑ στην κάτω αριστερή πλευρά της οθόνης.\n\nΘα κάνουν πάντα την εργασία με την υψηλότερη προτεραιότητα που μπορούν να βρουν.\n\nΕάν δεν έχει οριστεί κάποιος συγκεκριμένος τύπος εργασίας ή εάν είναι απασχολημένος με καθήκοντα υψηλότερης προτεραιότητας, δεν θα την κάνει ποτέ.</WorkTab.helpText>
+  
 </LanguageData>

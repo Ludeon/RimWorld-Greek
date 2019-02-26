@@ -1,11 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: temperate forest -->
   <TemperateForest.label>εύκρατο δάσος</TemperateForest.label>
-  <TemperateForest.description>Δάση φυλλοβόλων δέντρων διάσπαρτα με εύφορα ξέφωτα. Πολλά είδη ζώων μετακινούνται στα δέντρα και στις πεδιάδες. Λόγω του χιονιού, είναι χρονοβόρο να ταξιδέψετε το χειμώνα.</TemperateForest.description>
-
+  <!-- EN: Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around among the trees and on the plains. -->
+  <TemperateForest.description>Δάση φυλλοβόλων δέντρων με διάσπαρτα γόνιμα ξέφωτα. Πολλά είδη ζώων μετακινούνται ανάμεσα στα δέντρα και στις πεδιάδες.</TemperateForest.description>
+  
+  <!-- EN: temperate swamp -->
   <TemperateSwamp.label>εύκρατος βάλτος</TemperateSwamp.label>
-  <TemperateSwamp.description>Η εξαιρετικά πυκνή βλάστηση και τα ελώδη εδάφη καθιστούν πολύ δύσκολη την κίνηση και την κατασκευή μεγάλων δομών. Στην περιοχή αυτή ζουν πολλά είδη ζώων.</TemperateSwamp.description>
-
-
+  <!-- EN: Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures. -->
+  <TemperateSwamp.description>Υγρότοποι πνιγμένοι στη βλάστηση και στις ασθένειες. Η πυκνή υπερανάπτυξη δυσκολεύει την κίνηση και η εκκαθάριση του χώρου για κατασκευές διαρκεί πολύ. Ένα μεγάλο μέρος του εδάφους είναι υπερβολικά ελώδες για να υποστηρίξει τις βαριές κατασκευές.</TemperateSwamp.description>
+  
 </LanguageData>

@@ -1,11 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <PlantRose.label>τριαντάφυλλο</PlantRose.label>
-  <PlantRose.description>Ένα όμορφο καλλιεργήσιμο λουλούδι, σύμβολο της αγάπης και του ρομαντισμού από την αρχαιότητα.</PlantRose.description>
-
-  <PlantDaylily.label>κρίνος</PlantDaylily.label>
-  <PlantDaylily.description>Ένα όμορφο καλλιεργήσιμο λουλούδι - ιδανικό για να ομορφαίνει μια αυλή. Πρέπει να μεταφυτεύεται συχνά.</PlantDaylily.description>
-
-
+  
+  <!-- EN: daylily -->
+  <Plant_Daylily.label>ημεροκαλλίδα</Plant_Daylily.label>
+  <!-- EN: A cultivated flower with wide petals and a short lifespan. Daylilies are very beautiful, but must be replanted often. -->
+  <Plant_Daylily.description>Ένα καλλιεργημένο λουλούδι με ευρεία πέταλα και μικρή διάρκεια ζωής. Οι ημεροκαλλίδες είναι πολύ ωραίες, αλλά πρέπει να επαναφυτεύονται συχνά.</Plant_Daylily.description>
+  
+  <!-- EN: rose -->
+  <Plant_Rose.label>τριαντάφυλλο</Plant_Rose.label>
+  <!-- EN: A beautiful cultivated flower, the rose has been a symbol of love since Earth's ancient era. -->
+  <Plant_Rose.description>Ένα όμορφο καλλιεργήσιμο λουλούδι, σύμβολο της αγάπης και του ρομαντισμού από την αρχαιότητα.</Plant_Rose.description>
+  
 </LanguageData>

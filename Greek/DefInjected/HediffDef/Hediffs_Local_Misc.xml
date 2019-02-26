@@ -1,19 +1,35 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <TraumaSavant.label>αυτιστικός Σαβάντ</TraumaSavant.label>
-  <TraumaSavant.labelNoun>αυτιστικός</TraumaSavant.labelNoun>
-
+  
+  <!-- EN: chemical damage -->
   <ChemicalDamageModerate.label>χημική βλάβη</ChemicalDamageModerate.label>
+  
+  <!-- EN: chemical damage -->
   <ChemicalDamageSevere.label>χημική βλάβη</ChemicalDamageSevere.label>
+  
+  <!-- EN: cirrhosis -->
   <Cirrhosis.label>κίρρωση</Cirrhosis.label>
-
+  
+  <!-- EN: resurrection psychosis -->
   <ResurrectionPsychosis.label>ψύχωση της ανάστασης</ResurrectionPsychosis.label>
-  <ResurrectionPsychosis.stages.0.label>ήπια</ResurrectionPsychosis.stages.0.label>
-  <ResurrectionPsychosis.stages.1.label>ήπια</ResurrectionPsychosis.stages.1.label>
-  <ResurrectionPsychosis.stages.2.label>μέτρια</ResurrectionPsychosis.stages.2.label>
-  <ResurrectionPsychosis.stages.3.label>προχωρημένη</ResurrectionPsychosis.stages.3.label>
-  <ResurrectionPsychosis.stages.4.label>ολική</ResurrectionPsychosis.stages.4.label>
-
-
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-0.label>ήπια</ResurrectionPsychosis.stages.early-0.label>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-1.label>ήπια</ResurrectionPsychosis.stages.early-1.label>
+  <!-- EN: moderate -->
+  <ResurrectionPsychosis.stages.moderate.label>μέτρια</ResurrectionPsychosis.stages.moderate.label>
+  <!-- EN: advanced -->
+  <ResurrectionPsychosis.stages.advanced.label>προχωρημένη</ResurrectionPsychosis.stages.advanced.label>
+  <!-- EN: severe -->
+  <ResurrectionPsychosis.stages.severe.label>σφοδρή</ResurrectionPsychosis.stages.severe.label>
+  <!-- EN: total -->
+  <ResurrectionPsychosis.stages.total.label>ολική</ResurrectionPsychosis.stages.total.label>
+  <!-- EN: catatonic -->
+  <ResurrectionPsychosis.stages.catatonic.label>κατατονική</ResurrectionPsychosis.stages.catatonic.label>
+  
+  <!-- EN: trauma savant -->
+  <TraumaSavant.label>αυτιστικός Σαβάντ</TraumaSavant.label>
+  <!-- EN: trauma -->
+  <TraumaSavant.labelNoun>αυτιστικός</TraumaSavant.labelNoun>
+  
 </LanguageData>

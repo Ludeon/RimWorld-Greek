@@ -1,46 +1,80 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <BadBack.label>οσφυαλγία</BadBack.label>
-  <BadBack.labelNoun>μία οσφυαλγία</BadBack.labelNoun>
-
-  <Frail.label>αδυναμία</Frail.label>
-  <Frail.labelNoun>αδύναμος</Frail.labelNoun>
-
-  <Cataract.label>καταρράκτης</Cataract.label>
-  <Cataract.labelNoun>ένας καταρράκτης</Cataract.labelNoun>
-
-  <Blindness.label>τύφλωση</Blindness.label>
-  <HearingLoss.label>απώλεια ακοής</HearingLoss.label>
-  <Dementia.label>άνοια</Dementia.label>
-
+  
+  <!-- EN: alzheimer's -->
   <Alzheimers.label>νόσος Αλτσχάιμερ</Alzheimers.label>
-  <Alzheimers.stages.0.label>ελαφριά</Alzheimers.stages.0.label>
-  <Alzheimers.stages.1.label>ελαφριά</Alzheimers.stages.1.label>
-  <Alzheimers.stages.2.label>σοβαρή</Alzheimers.stages.2.label>
-  <Alzheimers.stages.3.label>σοβαρή</Alzheimers.stages.3.label>
-
+  <!-- EN: minor -->
+  <Alzheimers.stages.minor-0.label>ελαφριά</Alzheimers.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Alzheimers.stages.minor-1.label>ελαφριά</Alzheimers.stages.minor-1.label>
+  <!-- EN: major -->
+  <Alzheimers.stages.major-0.label>σοβαρή</Alzheimers.stages.major-0.label>
+  <!-- EN: major -->
+  <Alzheimers.stages.major-1.label>σοβαρή</Alzheimers.stages.major-1.label>
+  
+  <!-- EN: asthma -->
   <Asthma.label>άσθμα</Asthma.label>
-  <Asthma.stages.0.label>λίγο</Asthma.stages.0.label>
-  <Asthma.stages.1.label>πολύ</Asthma.stages.1.label>
-  <Asthma.stages.2.label>πολύ</Asthma.stages.2.label>
-
-  <HeartArteryBlockage.label>έμφραξη αρτηρίας</HeartArteryBlockage.label>
-  <HeartArteryBlockage.stages.0.label>ασήμαντη</HeartArteryBlockage.stages.0.label>
-  <HeartArteryBlockage.stages.1.label>ασήμαντη</HeartArteryBlockage.stages.1.label>
-  <HeartArteryBlockage.stages.2.label>σοβαρή</HeartArteryBlockage.stages.2.label>
-  <HeartArteryBlockage.stages.3.label>σοβαρή</HeartArteryBlockage.stages.3.label>
-  <HeartArteryBlockage.stages.4.label>ακραία</HeartArteryBlockage.stages.4.label>
-  <HeartArteryBlockage.labelNoun>μία έμφραξη αρτηρίας</HeartArteryBlockage.labelNoun>
-
+  <!-- EN: minor -->
+  <Asthma.stages.minor.label>λίγο</Asthma.stages.minor.label>
+  <!-- EN: major -->
+  <Asthma.stages.major-0.label>πολύ</Asthma.stages.major-0.label>
+  <!-- EN: major -->
+  <Asthma.stages.major-1.label>πολύ</Asthma.stages.major-1.label>
+  
+  <!-- EN: bad back -->
+  <BadBack.label>οσφυαλγία</BadBack.label>
+  <!-- EN: a bad back -->
+  <BadBack.labelNoun>μία οσφυαλγία</BadBack.labelNoun>
+  
+  <!-- EN: blindness -->
+  <Blindness.label>τύφλωση</Blindness.label>
+  
+  <!-- EN: carcinoma -->
   <Carcinoma.label>καρκίνωμα</Carcinoma.label>
-  <Carcinoma.stages.0.label>μικρό</Carcinoma.stages.0.label>
-  <Carcinoma.stages.1.label>μικρό</Carcinoma.stages.1.label>
-  <Carcinoma.stages.2.label>μεγάλο</Carcinoma.stages.2.label>
-  <Carcinoma.stages.3.label>μεγάλο</Carcinoma.stages.3.label>
-  <Carcinoma.stages.4.label>σοβαρό</Carcinoma.stages.4.label>
-  <Carcinoma.stages.5.label>σοβαρό</Carcinoma.stages.5.label>
+  <!-- EN: a carcinoma -->
   <Carcinoma.labelNoun>ένα καρκίνωμα</Carcinoma.labelNoun>
-
-
+  <!-- EN: minor -->
+  <Carcinoma.stages.minor-0.label>μικρό</Carcinoma.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Carcinoma.stages.minor-1.label>μικρό</Carcinoma.stages.minor-1.label>
+  <!-- EN: major -->
+  <Carcinoma.stages.major-0.label>μεγάλο</Carcinoma.stages.major-0.label>
+  <!-- EN: major -->
+  <Carcinoma.stages.major-1.label>μεγάλο</Carcinoma.stages.major-1.label>
+  <!-- EN: extreme -->
+  <Carcinoma.stages.extreme-0.label>σοβαρό</Carcinoma.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Carcinoma.stages.extreme-1.label>σοβαρό</Carcinoma.stages.extreme-1.label>
+  
+  <!-- EN: cataract -->
+  <Cataract.label>καταρράκτης</Cataract.label>
+  <!-- EN: a cataract -->
+  <Cataract.labelNoun>ένας καταρράκτης</Cataract.labelNoun>
+  
+  <!-- EN: dementia -->
+  <Dementia.label>άνοια</Dementia.label>
+  
+  <!-- EN: frail -->
+  <Frail.label>αδυναμία</Frail.label>
+  <!-- EN: frailty -->
+  <Frail.labelNoun>αδύναμος</Frail.labelNoun>
+  
+  <!-- EN: hearing loss -->
+  <HearingLoss.label>απώλεια ακοής</HearingLoss.label>
+  
+  <!-- EN: artery blockage -->
+  <HeartArteryBlockage.label>έμφραξη αρτηρίας</HeartArteryBlockage.label>
+  <!-- EN: an artery blockage -->
+  <HeartArteryBlockage.labelNoun>μία έμφραξη αρτηρίας</HeartArteryBlockage.labelNoun>
+  <!-- EN: minor -->
+  <HeartArteryBlockage.stages.minor-0.label>ασήμαντη</HeartArteryBlockage.stages.minor-0.label>
+  <!-- EN: minor -->
+  <HeartArteryBlockage.stages.minor-1.label>ασήμαντη</HeartArteryBlockage.stages.minor-1.label>
+  <!-- EN: major -->
+  <HeartArteryBlockage.stages.major-0.label>σοβαρή</HeartArteryBlockage.stages.major-0.label>
+  <!-- EN: major -->
+  <HeartArteryBlockage.stages.major-1.label>σοβαρή</HeartArteryBlockage.stages.major-1.label>
+  <!-- EN: extreme -->
+  <HeartArteryBlockage.stages.extreme.label>ακραία</HeartArteryBlockage.stages.extreme.label>
+  
 </LanguageData>

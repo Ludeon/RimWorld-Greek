@@ -1,23 +1,34 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Peaceful.label>Ειρηνικός</Peaceful.label>
-  <Peaceful.description>Για όσους θέλουν να χαλαρώσουν και να χτίσουν μια αποικία σε ένα περιβάλλον πολύ ήρεμο (sandbox).\n\nΤα μεγάλα απειλητικά γεγονότα είναι απενεργοποιημένα, αλλά οι άποικοι μπορούν ακόμα να γκρινιάζουν και τα ζώα μπορούν να τρελαίνονται από καιρό σε καιρό.</Peaceful.description>
-
-  <VeryEasy.label>Βασικός οικοδόμος</VeryEasy.label>
-  <VeryEasy.description>Για όσους θέλουν να χτίσουν μια αποικία με μία γεύση κινδύνου.\n\nΠαρουσιάζονται μεγάλες απειλές, αλλά αδύναμες. Μερικά από τα εξαιρετικά επικίνδυνα συμβάντα είναι απενεργοποιημένα.</VeryEasy.description>
-
-  <Easy.label>Κάποια πρόκληση</Easy.label>
-  <Easy.description>Για τους παίκτες που παίζουν το πρώτο τους παιχνίδι, ή χαλαρούς παίκτες που θέλουν ακόμα μια πρόκληση.\n\nΟι απειλές είναι επικίνδυνες αλλά όχι βίαιες.</Easy.description>
-
-  <Medium.label>Σκληρός</Medium.label>
-  <Medium.description>Είναι ένας σκληρός πλανήτης.\n\nΟι απειλές μπορεί να είναι αρκετά επικίνδυνες. Δεν συνιστάται μέχρι να έχετε κάποια εμπειρία με το παιχνίδι.</Medium.description>
-
-  <Hard.label>Έντονος</Hard.label>
-  <Hard.description>Μια σημαντική πρόκληση.\n\nΗ επιτυχία σε αυτό το επίπεδο απαιτεί μια σταθερή και πλήρες κατανόηση των στρατηγικών επιβίωσης και κάποια τύχη.</Hard.description>
-
-  <VeryHard.label>Ακραίος</VeryHard.label>
-  <VeryHard.description>Είναι τόσο σκληρό όσο ένα διαμαντένιο στιλέτο.\n\nΟι εχθροί είναι πολυάριθμοι, οι τιμές είναι φτωχές, τα τρόφιμα είναι λιγοστά και οι άποικοι είναι δύστροποι. Για όσους απολαμβάνουν τον ψηφιακό πόνο.</VeryHard.description>
-
-
+  
+  <!-- EN: builder -->
+  <Easy.label>οικοδόμος</Easy.label>
+  <!-- EN: Build a colony, while still having a taste of danger.\n\nRecommended for: Players who are new to this kind of game, and players who want to build a perfect colony.\n\nMajor threats appear, but they're weaker than other modes. Some extremely dangerous events are disabled. -->
+  <Easy.description>Κατασκευάστε μια αποικία, ενώ εξακολουθείτε να έχετε μια γεύση κινδύνου.\n\nΣυνιστάται για  παίκτες που είναι νέοι σε αυτό το είδος παιχνιδιού ή για παίκτες που θέλουν να χτίσουν μια τέλεια αποικία.\n\nΠαρουσιάζονται μεγάλες απειλές, αλλά είναι πιο αδύναμες από άλλες λειτουργίες παιχνιδιού. Ορισμένα εξαιρετικά επικίνδυνα συμβάντα έχουν απενεργοποιηθεί.</Easy.description>
+  
+  <!-- EN: merciless -->
+  <Extreme.label>αμείλικτος</Extreme.label>
+  <!-- EN: Apply mastery of every RimWorld skill for just a chance to survive a harrowing trial against a merciless, unfair world.\n\nRecommended for: Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n\nThis level is about dealing with losses, because preventing them is impossible. You'll spend a lot of time fighting wounded and recovering, and you'll need to sacrifice people and things you love. Unfair challenges and capricious death may come at any time. -->
+  <Extreme.description>Εφαρμόστε την μαεστρία σας σε κάθε ικανότητα του RimWorld απλά και μόνο για να επιβιώσετε από μια οδυνηρή δοκιμασία εναντίον ενός ανελέητου, άδικου κόσμου.\n\nΣυνιστάται για έμπειρους παίκτες που θέλουν να αντιμετωπίσουν μια βίαιη, άδικη πρόκληση όπου ακόμη και η μεγάλη δεξιότητα στο παιχνίδι δεν μπορεί να αποτρέψει το θάνατο.\n\nΑυτό το επίπεδο αφορά την αντιμετώπιση ζημιών, επειδή η πρόληψή τους είναι αδύνατη. Θα περάσετε πολύ χρόνο παλεύοντας με τραυματισμούς και την ανάρρωση, ενώ θα πρέπει να θυσιάσετε τους ανθρώπους και τα πράγματα που αγαπάτε. Οι αθέμιτες προκλήσεις και ο θλιβερός θάνατος μπορεί να εμφανιστούν ανά πάσα στιγμή.</Extreme.description>
+  
+  <!-- EN: savage -->
+  <Hard.label>άγριος</Hard.label>
+  <!-- EN: Face brutal survival challenges. The price of survival is blood.\n\nRecommended for: Experienced players who want to experience great tests and sacrifice.\n\nSucceeding at this level requires diverse strategies, disciplined preparation, and luck. Threats can spike and combine in vicious ways. Even if you play well, some challenges will be impossible to overcome without losses. -->
+  <Hard.description>Αντιμετωπίστε βίαιες προκλήσεις επιβίωσης. Η τιμή της επιβίωσης είναι το αίμα.\n\nΣυνιστάται για έμπειρους παίκτες που θέλουν να δοκιμαστούν σε σκληρές δοκιμασίες και να θυσίες.\n\nΗ επιτυχία σε αυτό το επίπεδο απαιτεί ποικίλες στρατηγικές, πειθαρχημένη προετοιμασία και τύχη. Οι απειλές μπορούν να ξεπετάγονται και να συνδυάζονται με φαύλους τρόπους. Ακόμα κι αν παίζετε καλά, ορισμένες προκλήσεις θα είναι αδύνατο να ξεπεραστούν χωρίς απώλειες.</Hard.description>
+  
+  <!-- EN: medium -->
+  <Medium.label>μεσαίος</Medium.label>
+  <!-- EN: Build a community while facing down dangerous threats.\n\nRecommended for: Experienced strategy game players on their first game of RimWorld, or skilled RimWorld players who want some breathing room to pursue funny or weird goals.\n\nThere's room to grow and thrive, but it's still a dangerous planet. -->
+  <Medium.description>Δημιουργήστε μια κοινότητα ενώ αντιμετωπίζετε επικίνδυνες απειλές.\n\nΣυνιστάται για έμπειρους παίκτες παιχνιδιών στρατηγικής που παίζουν πρώτη φορά RimWorld ή για ικανούς παίκτες του RimWorld που θέλουν κάποιο περιθώριο ανάσας ώστε να ολοκληρώσουν αστείους ή παράξενους στόχους.\n\nΥπάρχει περιθώριο για ανάπτυξη και ευημερία, αλλά εξακολουθεί να παραμένει ένας επικίνδυνος πλανήτης.</Medium.description>
+  
+  <!-- EN: peaceful -->
+  <Peaceful.label>ειρηνικός</Peaceful.label>
+  <!-- EN: Build a community in sandbox environment.\n\nRecommendeed for: Players who want to focus on the community-building aspects of RimWorld.\n\nThis mode disables major threatening events, but challenges like disease, mental breaks, and mad animals still occur. -->
+  <Peaceful.description>Για όσους θέλουν να χαλαρώσουν και να χτίσουν μια αποικία σε ένα περιβάλλον πολύ ήρεμο (sandbox).\n\nΣυνιστάται για παίκτες που θέλουν να επικεντρωθούν στις πτυχές της ανάπτυξης αποικίας του RimWorld. Αυτή η λειτουργία απενεργοποιεί σημαντικά απειλητικά συμβάντα, αλλά εξακολουθούν να εμφανίζονται προκλήσεις όπως ασθένειες, ψυχικές διαταραχές και τα τρελαμένα ζώα.</Peaceful.description>
+  
+  <!-- EN: rough -->
+  <Rough.label>σκληρός</Rough.label>
+  <!-- EN: Strive to survive on a rough, tough planet.\n\nRecommended for: Players with experience with RimWorld, looking to play a rough story requiring skill to survive.\n\nThere will be good times and bad times; triumph and tragedy. It's all for the drama. -->
+  <Rough.description>Προσπαθήστε να επιβιώσετε σε έναν βάναυσο, σκληρό πλανήτη. Συνιστάται για παίκτες με εμπειρία στο RimWorld, θέλοντας να παίξουν μια σκληρή ιστορία που απαιτεί δεξιότητες για να επιβιώσουν. Θα υπάρξουν καλές και κακές στιγμές, θρίαμβος και τραγωδία. Όλα για το δράμα.</Rough.description>
+  
 </LanguageData>

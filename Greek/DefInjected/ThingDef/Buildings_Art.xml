@@ -1,25 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Γλυπτά (Sculptures) -->
-
-  <SculptureSmall.label>μικρό γλυπτό</SculptureSmall.label>
-  <SculptureSmall.description>Ένα κομμάτι υλικού μεγέθους κορμού, που είναι σκαλισμένο σε μια καλλιτεχνική μορφή.</SculptureSmall.description>
-  <SculptureSmall_Blueprint_Install.label>μικρό γλυπτό (προσχέδιο)</SculptureSmall_Blueprint_Install.label>
-
-  <SculptureLarge.label>μεγάλο γλυπτό</SculptureLarge.label>
-  <SculptureLarge.description>Ένα κομμάτι υλικού μεγέθους ενός ατόμου που είναι σκαλισμένο σε μια καλλιτεχνική μορφή.</SculptureLarge.description>
-  <SculptureLarge_Blueprint_Install.label>μεγάλο γλυπτό (προσχέδιο)</SculptureLarge_Blueprint_Install.label>
-
+  
+  <!-- EN: grand sculpture -->
   <SculptureGrand.label>μεγαλοπρεπή γλυπτό</SculptureGrand.label>
-  <SculptureGrand.description>Ένα κομμάτι υλικού μεγέθους ενός αυτοκινήτου που είναι σκαλισμένο σε μια καλλιτεχνική μορφή.</SculptureGrand.description>
-  <SculptureGrand_Blueprint_Install.label>μεγαλοπρεπή γλυπτό (προσχέδιο)</SculptureGrand_Blueprint_Install.label>
-
-
-  <!-- Χιονάνθρωπος (Snowman) -->
-
+  <!-- EN: A huge sculpture sized to dominate a room. -->
+  <SculptureGrand.description>Ένα τεράστιο γλυπτό με μέγεθος που να κυριαρχεί σε ένα δωμάτιο.</SculptureGrand.description>
+  
+  <!-- EN: large sculpture -->
+  <SculptureLarge.label>μεγάλο γλυπτό</SculptureLarge.label>
+  <!-- EN: A person-sized piece of material sculpted into an artistic form. -->
+  <SculptureLarge.description>Ένα κομμάτι υλικού μεγέθους ενός ατόμου που είναι σκαλισμένο σε μια καλλιτεχνική μορφή.</SculptureLarge.description>
+  
+  <!-- EN: small sculpture -->
+  <SculptureSmall.label>μικρό γλυπτό</SculptureSmall.label>
+  <!-- EN: A torso-sized piece of material sculpted into an artistic form. -->
+  <SculptureSmall.description>Ένα κομμάτι υλικού μεγέθους κορμού, που είναι σκαλισμένο σε μια καλλιτεχνική μορφή.</SculptureSmall.description>
+  
+  <!-- EN: snowman -->
   <Snowman.label>χιονάνθρωπος</Snowman.label>
-  <Snowman.description>Ένα σύνολο μεγάλων χιονόμπαλων στοιβαγμένες και διαμορφωμένες για να μοιάζουν με έναν άνθρωπο.</Snowman.description>
-
-
+  <!-- EN: A set of large snowballs piled and shaped to resemble a person. People make these for the fun of it. -->
+  <Snowman.description>Ένα σύνολο μεγάλων χιονόμπαλων στοιβαγμένες και διαμορφωμένες για να μοιάζουν με έναν άνθρωπο. Οι άνθρωποι τους κάνουν για τη διασκέδασή τους.</Snowman.description>
+  
 </LanguageData>

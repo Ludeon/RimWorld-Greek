@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ψυχική Κατάρρευση: ακραία (Mental breaks: extreme) -->
-
+  
+  <!-- EN: catatonic -->
   <Catatonic.label>κατατονικός</Catatonic.label>
+  
+  <!-- EN: run wild -->
   <RunWild.label>ανεξέλεγκτος</RunWild.label>
-
-
+  
 </LanguageData>

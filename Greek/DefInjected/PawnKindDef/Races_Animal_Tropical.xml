@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boomalope -->
+  <Boomalope.label>βομβολόπη</Boomalope.label>
+  <!-- EN: boomalope calf -->
+  <Boomalope.lifeStages.boomalope_calf.label>μικρή βομβολόπη</Boomalope.lifeStages.boomalope_calf.label>
+  <!-- EN: boomalope calves -->
+  <Boomalope.lifeStages.boomalope_calf.labelPlural>μικρές βομβολόπες</Boomalope.lifeStages.boomalope_calf.labelPlural>
+  
+  <!-- EN: cobra -->
+  <Cobra.label>κόμπρα</Cobra.label>
+  
+  <!-- EN: monkey -->
+  <Monkey.label>μαϊμού</Monkey.label>
+  
+</LanguageData>

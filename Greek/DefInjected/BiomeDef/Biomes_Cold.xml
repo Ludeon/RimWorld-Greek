@@ -1,20 +1,29 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <BorealForest.label>βόρειο δάσος</BorealForest.label>
-  <BorealForest.description>Δάση κωνοφόρων δέντρων. Παρά τους σκληρούς χειμώνες, τα βόρεια δάση διατηρούν έναν ποικίλο πληθυσμό μικρών και μεγάλων ζώων και έχουν ζεστά καλοκαίρια. Το χιόνι καθιστά εξαιρετικά αργό το ταξίδι το χειμώνα.</BorealForest.description>
-
-  <Tundra.label>τούντρα</Tundra.label>
-  <Tundra.description>Αυτές οι συνήθως κατεψυγμένες πεδιάδες σχεδόν δεν έχουν δέντρα και λίγη βλάστηση. Υπάρχουν μερικά μικρά ζώα διασκορπισμένα σε μεγάλα κοπάδια στους μεταναστευτικούς βοσκότοπους και οι θηρευτές τους. Το χιόνι καθιστά εξαιρετικά αργό το ταξίδι το χειμώνα.</Tundra.description>
-
+  
+  <!-- EN: boreal forest -->
+  <BorealForest.label>αρκτικό δάσος</BorealForest.label>
+  <!-- EN: Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. -->
+  <BorealForest.description>Δάση κωνοφόρων δέντρων. Παρά τους σκληρούς χειμώνες, τα αρκτικά δάση διατηρούν έναν ποικίλο πληθυσμό μικρών και μεγάλων ζώων και έχουν ζεστά καλοκαίρια.</BorealForest.description>
+  
+  <!-- EN: cold bog -->
   <ColdBog.label>παγωμένος βάλτος</ColdBog.label>
-  <ColdBog.description>Ένας υγρότοπος με λίγα ζώα αλλά πλούσια βλάστηση. Υπάρχει πολύ περισσότερη χαμηλή βλάστηση και λιγότερα δέντρα απ' ότι στους τυπικούς βάλτους. Το μεγαλύτερο μέρος της γης εδώ δεν μπορεί να στηρίξει τις βαριές κατασκευές κάνοντας έτσι δύσκολη την επιβίωση.</ColdBog.description>
-
+  <!-- EN: A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
+  <ColdBog.description>Ένας υγρότοπος γεμάτος δέντρα και αναρριχητικά φυτά. Μεγάλο μέρος της βαλτώδους γης δεν μπορεί να στηρίξει τις βαριές κατασκευές, η κίνηση είναι αργή λόγω της πυκνής βλάστησης. Η ασθένεια είναι ενδημική σε αυτό το πυκνό, υγρό οικοσύστημα.</ColdBog.description>
+  
+  <!-- EN: ice sheet -->
   <IceSheet.label>στρώμα πάγου</IceSheet.label>
-  <IceSheet.description>Η επιφάνεια είναι καλυμμένη με φύλλα πάγου που μπορούν να κινούνται χιλιόμετρα. Χωρίς χώμα, χωρίς φυτά. Τα μόνα ζώα εδώ μεταναστεύουν κάπου αλλού - ή έχουν χαθεί τελείως. Το χιόνι επιβραδύνει το ταξίδι, αλλά υπάρχουν παγόφυλλα που παρέχουν ομαλό περπάτημα.</IceSheet.description>
-
+  <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
+  <IceSheet.description>Η επιφάνεια είναι καλυμμένη με φύλλα πάγου που μπορούν να κινούνται χιλιόμετρα. Χωρίς χώμα, χωρίς φυτά. Τα μόνα ζώα εδώ μεταναστεύουν κάπου αλλού - ή έχουν χαθεί τελείως.</IceSheet.description>
+  
+  <!-- EN: sea ice -->
   <SeaIce.label>παγωμένη θάλασσα</SeaIce.label>
-  <SeaIce.description>Μόνιμα φύλλα πάγου που επιπλέουν στο νερό. Δεν υπάρχει έδαφος, φυτά, ορυκτά και πολύ λίγα ζώα. Το ταξίδι είναι πολύ αργό λόγω του βαθιού χιόνι και των ρωγμών.</SeaIce.description>
-
-
+  <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
+  <SeaIce.description>Μόνιμα φύλλα πάγου που επιπλέουν στο νερό. Δεν υπάρχει έδαφος για να αναπτυχθούν φυτά, δεν υπάρχουν ορυκτά για εξόρυξη και σχεδόν καθόλου ζώα.</SeaIce.description>
+  
+  <!-- EN: tundra -->
+  <Tundra.label>τούντρα</Tundra.label>
+  <!-- EN: These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. -->
+  <Tundra.description>Αυτές οι συνήθως κατεψυγμένες πεδιάδες σχεδόν δεν έχουν δέντρα και έχουν λίγη βλάστηση. Υπάρχουν μερικά μικρά ζώα διασκορπισμένα σε μεγάλα κοπάδια στους μεταναστευτικούς βοσκότοπους και οι θηρευτές τους.</Tundra.description>
+  
 </LanguageData>

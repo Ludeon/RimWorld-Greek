@@ -1,189 +1,390 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!--=========== Βασικό μενού (Main menu) ==========-->
+  <!-- Main menu -->
+  <!-- EN: Tutorial -->
   <Tutorial>Εκμάθηση</Tutorial>
+  <!-- EN: New colony -->
   <NewColony>Νέα αποικία</NewColony>
+  <!-- EN: Back to game -->
   <BackToGame>Επιστροφή στο παιχνίδι</BackToGame>
+  <!-- EN: Review scenario -->
   <ReviewScenario>Ανασκόπηση σεναρίου</ReviewScenario>
+  <!-- EN: Save -->
   <Save>Αποθήκευση</Save>
+  <!-- EN: Load game -->
   <LoadGame>Φόρτωση παιχνιδιού</LoadGame>
+  <!-- EN: Options -->
   <Options>Επιλογές</Options>
+  <!-- EN: Mods -->
   <Mods>Mods</Mods>
+  <!-- EN: Save translation report -->
+  <SaveTranslationReport>Αναφορά μετάφρασης</SaveTranslationReport>
+  <!-- EN: Generating translation report -->
+  <GeneratingTranslationReport>Δημιουργία αναφοράς μετάφρασης</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>Εκκαθάριση αρχείων μετάφρασης</CleanupTranslationFiles>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>Καθαρισμός αρχείων μετάφρασης</CleaningTranslationFiles>
+  <!-- EN: Credits -->
   <Credits>Συντελεστές</Credits>
+  <!-- EN: Quit to main menu -->
   <QuitToMainMenu>Έξοδος στο αρχικό μενού</QuitToMainMenu>
+  <!-- EN: Save and quit to menu -->
   <SaveAndQuitToMainMenu>Αποθήκευση και έξοδος στο μενού</SaveAndQuitToMainMenu>
-  <QuitToOS>Έξοδος</QuitToOS>
-  <SaveAndQuitToOS>Αποθήκευση και έξοδος</SaveAndQuitToOS>
+  <!-- EN: Quit to OS -->
+  <QuitToOS>Έξοδος στο λειτουργικό</QuitToOS>
+  <!-- EN: Save and quit to OS -->
+  <SaveAndQuitToOS>Αποθήκευση και έξοδος στο λειτουργικό</SaveAndQuitToOS>
+  <!-- EN: Fiction primer -->
   <FictionPrimer>Εισαγωγικό φαντασιοκόπημα</FictionPrimer>
+  <!-- EN: Ludeon blog -->
   <LudeonBlog>Ludeon blog</LudeonBlog>
-  <Forums>Forums</Forums>
-  <OfficialWiki>Επίσημο wiki</OfficialWiki>
+  <!-- EN: Forums -->
+  <Forums>Φόρουμ</Forums>
+  <!-- EN: Official wiki -->
+  <OfficialWiki>Επίσημο βικι</OfficialWiki>
+  <!-- EN: Tynan's twitter -->
   <TynansTwitter>Tynan twitter</TynansTwitter>
+  <!-- EN: Tynan's design book -->
   <TynansDesignBook>Βιβλίο σχεδίασης του Tynan</TynansDesignBook>
+  <!-- EN: Help translate RimWorld -->
   <HelpTranslate>Βοήθησε στην μετάφραση του RimWorld</HelpTranslate>
+  <!-- EN: Buy soundtrack -->
   <BuySoundtrack>Αγόρασε τη μουσική επένδυση</BuySoundtrack>
+  <!-- EN: Create world -->
   <CreateWorld>Δημιουργία κόσμου</CreateWorld>
 
-  <!--=========== Δημιουργία/προεπισκόπηση κόσμου (Create/review world0 ================-->
+  <!-- Main menu translations info window -->
+  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
+  <TranslationThanks>Όλες οι μεταφράσεις του RimWorld είναι της κοινότητας. Αυτή η μετάφραση της κοινότητας δημιουργήθηκε από τους ακόλουθους καταπληκτικούς εθελοντές:\n\n{0}</TranslationThanks>
+  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
+  <TranslationHowToContribute>Μπορείς επίσης να συνεισφέρεις. Κάνε κλικ παρακάτω για να μάθεις περισσότερα (ανοίγει το πρόγραμμα περιήγησης ιστού).</TranslationHowToContribute>
+  <!-- EN: Learn more -->
+  <LearnMore>Μάθε περισσότερα</LearnMore>
+
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
+  <DevBuildWarning>Προειδοποίηση: Πρόκειται για μια δομή ασταθής ανάπτυξης. Αυτό σημαίνει ότι εκτελούμε πειράματα σχεδιασμού και πραγματοποιούμε τεχνική ανάπτυξη.\n\nΟρισμένα πράγματα θα λειτουργούν ανισόρροπα. Πρόκειται για μια κλασική μέθοδο σχεδιασμού παιχνιδιών όπου σκοπίμως κάνουμε αρκετές αλλαγές ισορροπίας προκειμένου να κατανοήσουμε καλύτερα τα όρια της ισορροπίας. Στη συνέχεια, μπορούμε να χρησιμοποιήσουμε αυτές τις πληροφορίες για να αποφασίσουμε για τα τελικά σημεία ισορροπίας.\n\nΘα υπάρξουν επίσης σφάλματα, συμπεριλαμβανομένων των καταρρεύσεων του παιχνιδιού. Η συμβατότητα των αποθηκευμένων παιχνιδιών μπορεί να διακοπή οποιαδήποτε στιγμή.\n\nΑν είσαι εντάξει με όλα αυτά, ευχαριστούμε για τη δοκιμή! Αν δεν θέλεις να υποβληθείς σε πειράματα, παρακαλούμε να παίξεις την τελευταία σταθερή έκδοση.</DevBuildWarning>
+
+  <!-- Create/review world -->
+  <!-- EN: Review world -->
   <ReviewWorld>Ανασκόπηση κόσμου</ReviewWorld>
+  <!-- EN: Generate -->
   <WorldGenerate>Δημιουργία</WorldGenerate>
+  <!-- EN: Save and finish -->
   <WorldSaveAndFinish>Αποθήκευση και ολοκλήρωση</WorldSaveAndFinish>
+  <!-- EN: Reset -->
   <Reset>Επαναφορά</Reset>
+  <!-- EN: Globe coverage -->
   <PlanetCoverage>Κάλυψη υδρογείου</PlanetCoverage>
+  <!-- EN: Overall rainfall -->
   <PlanetRainfall>Συνολική βροχόπτωση</PlanetRainfall>
+  <!-- EN: Overall temperature -->
   <PlanetTemperature>Συνολική θερμοκρασία</PlanetTemperature>
+  <!-- EN: Low -->
   <PlanetRainfall_Low>Χαμηλή</PlanetRainfall_Low>
+  <!-- EN: Normal -->
   <PlanetRainfall_Normal>Κανονική</PlanetRainfall_Normal>
+  <!-- EN: High -->
   <PlanetRainfall_High>Υψηλή</PlanetRainfall_High>
+  <!-- EN: Low -->
   <PlanetTemperature_Low>Χαμηλή</PlanetTemperature_Low>
+  <!-- EN: Normal -->
   <PlanetTemperature_Normal>Κανονική</PlanetTemperature_Normal>
+  <!-- EN: High -->
   <PlanetTemperature_High>Υψηλή</PlanetTemperature_High>
+  <!-- EN: Seed -->
   <WorldSeed>Σπορά</WorldSeed>
-  <RandomizeSeed>Τυχαίο σπορά</RandomizeSeed>
+  <!-- EN: Randomize seed -->
+  <RandomizeSeed>Τυχαία σπορά</RandomizeSeed>
+  <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
   <PlanetCoverageTip>Ο πλανήτης έχει πάντα την ίδια διάμετρο, αλλά μιας και είναι πολύ μεγαλύτερος από ότι χρειάζεται για το παιχνίδι, δεν παράγουμε ολόκληρη την επιφάνεια γιατί μπορεί να καθυστερήσει πολύ. Αυτό είναι το ποσοστό της επιφάνειας που θέλεις να παραχθεί.</PlanetCoverageTip>
+  <!-- EN: Factions -->
   <WorldFactionsTab>Φατρίες</WorldFactionsTab>
 
-  <!--=========== Επιλογή κόσμου (Select world) ===================-->
+  <!-- Select world -->
+  <!-- EN: Select world -->
   <SelectWorld>Επιλογή κόσμου</SelectWorld>
+  <!-- EN: Select -->
   <WorldChooseButton>Επιλογή</WorldChooseButton>
+  <!-- EN: No world files found. Create a world first. -->
   <NoWorldsFilesFound>Δεν βρέθηκαν αρχεία κόσμου. Δημιούργησε ένα κόσμο πρώτα.</NoWorldsFilesFound>
-
-  <!--=========== Πληροφορίες έκδοσης (Version info) ==========-->
+  
+  <!-- Version info -->
+  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
   <BuildNowAvailable>Η έκδοση {0} είναι πλέον διαθέσιμη. Έλεγξε το ludeon.com για περισσότερες πληροφορίες.</BuildNowAvailable>
+  <!-- EN: This is the latest version. -->
   <BuildUpToDate>Αυτή είναι η πιο πρόσφατη έκδοσή.</BuildUpToDate>
+  <!-- EN: Error getting version info: {0} -->
   <ErrorGettingVersionInfo>Σφάλμα κατά την λήψη πληροφοριών έκδοσης: {0}</ErrorGettingVersionInfo>
+  <!-- EN: Loading version info... -->
   <LoadingVersionInfo>Φόρτωση πληροφοριών έκδοσης...</LoadingVersionInfo>
 
-  <!--=========== Παραγωγή κόσμου (World generator) =========-->
+  <!-- World generator -->
+  <!-- EN: Generate world -->
   <GenerateWorld>Παραγωγή κόσμου</GenerateWorld>
 
-  <!--=========== Διαμόρφωση Mods (Mods config) ==========-->
-  <OpenSteamWorkshop>Άνοιγμα του Steam Workshop</OpenSteamWorkshop>
+  <!-- Mods config -->
+  <!-- EN: Open Steam Workshop -->
+  <OpenSteamWorkshop>Άνοιγμα Εργαστηριού Steam</OpenSteamWorkshop>
+  <!-- EN: Get mods from forum -->
   <GetModsFromForum>Απόκτησε mods από το forum</GetModsFromForum>
+  <!-- EN: Open mods data folder -->
   <OpenModsDataFolder>Άνοιγμα φακέλου δεδομένων των mods</OpenModsDataFolder>
+  <!-- EN: Show mods data location -->
+  <ShowModsDataLocation>Εμφάνιση τοποθεσίας δεδομένων των mods</ShowModsDataLocation>
+  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
   <ConfirmDisableCoreMod>Είσαι σίγουρος πως θέλεις να απενεργοποιήσεις το κεντρικό mod; Το παιχνίδι δεν θα λειτουργήσει εκτός και αν έχεις κάποιο άλλο mod που να αντικαθιστά όλες τις κεντρικές λειτουργίες.\n\nΘυμήσου, άλλα mods μπορούν να αντικαταστήσουν τα defs στο κεντρικό mod χρησιμοποιώντας το ίδιο defName.</ConfirmDisableCoreMod>
+  <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>Είσαι σίγουρος ότι θέλεις να διαγράψεις όλα τα περιεχόμενα του {0}?</ConfirmDeleteMod>
+  <!-- EN: Unsubscribe -->
   <Unsubscribe>Κατάργηση συνδρομής</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
   <ConfirmUnsubscribe>Είσαι σίγουρος πως θέλεις να καταργήσεις την συνδρομή από το {0}?</ConfirmUnsubscribe>
+  <!-- EN: Author -->
   <Author>Δημιουργός</Author>
+  <!-- EN: Workshop page -->
   <WorkshopPage>Σελίδα του Workshop</WorkshopPage>
-  <UploadToSteamWorkshop>Ανέβασμα στο Steam Workshop</UploadToSteamWorkshop>
+  <!-- EN: Upload to Steam Workshop -->
+  <UploadToSteamWorkshop>Εργαστήρι Steam</UploadToSteamWorkshop>
+  <!-- EN: Update on Steam Workshop -->
   <UpdateOnSteamWorkshop>Ανανέωση στο Steam Workshop</UpdateOnSteamWorkshop>
+  <!-- EN: Upload already in progress. -->
   <UploadAlreadyInProgress>Ανέβασμα σε εξέλιξη.</UploadAlreadyInProgress>
+  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
   <WorkshopSubmissionFailed>Η υποβολή στο Workshop απέτυχε.\n\nΑιτία: {0}</WorkshopSubmissionFailed>
+  <!-- EN: Successfully uploaded {0}. -->
   <WorkshopUploadSucceeded>Επιτυχές ανέβασμα {0}.</WorkshopUploadSucceeded>
+  <!-- EN: Downloading -->
   <Downloading>Κατέβασμα</Downloading>
+  <!-- EN: Source -->
   <Source>Πηγή</Source>
+  <!-- EN: For version(s): {0} -->
   <ModTargetVersion>Για την έκδοση: {0}</ModTargetVersion>
+  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>Αυτό το mod δεν δημιουργήθηκε για αυτή την έκδοση του RimWorld, και πιθανόν δεν θα λειτουργεί σωστά.</ModNotMadeForThisVersion>
-  <MessageModNeedsWellFormattedTargetVersion>Το mod χρειάζεται μία σωστά δομημένο έκδοση στόχου στο About.xml. Σαν αυτό: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion_Newer>Αυτό το mod έγινε για μια νεότερη έκδοση του RimWorld από αυτή και πιθανότατα δεν θα λειτουργήσει σωστά.</ModNotMadeForThisVersion_Newer>
+  <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
+  <MessageModNeedsWellFormattedTargetVersion>Το Mod χρειάζεται μία σωστά μορφοποιημένη υποστηριζόμενη έκδοση πληροφοριών στο About.xml. Όπως αυτή: &lt;supportedVersions>&lt;li>{0}&lt;/li>&lt;/supportedVersions> - &lt;/targetVersion> απορρίπτεται. Έλεγξε το αρχείο καταγραφής για περισσότερες πληροφορίες.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Drag to reorder -->
   <DragToReorder>Σύρε για αναταξινόμηση</DragToReorder>
-
-  <!--=========== Επιλογή σεναρίου (Select scenario) =============-->
+  
+  <!-- Select scenario -->
+  <!-- EN: Choose scenario -->
   <ChooseScenario>Επιλογή σεναρίου</ChooseScenario>
+  <!-- EN: Custom -->
   <ScenariosCustom>Προσαρμοσμένο</ScenariosCustom>
+  <!-- EN: Steam Workshop -->
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
-  <ScenarioEditor>Επεξεργαστής σεναρίου</ScenarioEditor>
+  <!-- EN: Scenario editor -->
+  <ScenarioEditor>Επεξεργασία</ScenarioEditor>
+  <!-- EN: Delete -->
   <Delete>Διαγραφή</Delete>
-
-  <!--============ Επεξεργαστής σεναρίου (Scenario editor) ===============-->
+  
+  <!-- Scenario editor -->
+  <!-- EN: seed -->
   <Seed>σπορά</Seed>
+  <!-- EN: Load -->
   <Load>Φόρτωση</Load>
-  <EditMode>Κατάσταση επεξεργασίας</EditMode>
+  <!-- EN: edit mode -->
+  <EditMode>λειτουργία επεξεργασίας</EditMode>
+  <!-- EN: Summary -->
   <Summary>Περίληψη</Summary>
-  <AddPart>Προσθήκη τμήματος</AddPart>
+  <!-- EN: Add part -->
+  <AddPart>Προσθήκη στοιχείου</AddPart>
+  <!-- EN: All text fields must be filled. -->
   <TextFieldsMustBeFilled>Πρέπει να συμπληρωθούν όλα τα πεδία.</TextFieldsMustBeFilled>
+  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
   <ConfirmSteamWorkshopUpload>Είσαι σίγουρος πως θέλεις να το ανεβάσεις στο Steam Workshop;\n\nΠρέπει να συμφωνήσεις στους όρους χρήσης του Steam Workshop. Βρες τους πλήρεις όρους εδώ:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
   <ConfirmContentAuthor>Προφανώς πρέπει να ανεβάσεις περιεχόμενα που δημιούργησες εσύ.\n\nΤα δημιούργησες εσύ ο ίδιος;</ConfirmContentAuthor>
+  <!-- EN: Incompatible -->
   <Incompatible>Ασύμβατο</Incompatible>
+  <!-- EN: Too many (max {0}):  -->
   <TooMany>Πάρα πολλά (μέγιστο {0}): </TooMany>
+  <!-- EN: Can be updated on Workshop, since you are the author. -->
   <CanBeUpdatedOnWorkshop>Μπορεί να αναβαθμιστεί στο Workshop, αφού είσαι ο δημιουργός.</CanBeUpdatedOnWorkshop>
-
-  <!--=========== Επιλογή αφηγητή (Select storyteller) ==========-->
+  
+  <!-- Select storyteller -->
+  <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>Επέλεξε ΤΝ αφηγητή</ChooseAIStoryteller>
+  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
   <HowStorytellersWork>Η ΤΝ αφηγητή δημιουργεί γεγονότα όπως επιδρομές πειρατών, πτώσεις πόρων ή επιθέσεις ζώων. Οι επιλογές τους θα επηρεάσουν την ιστορία της αποικίας σου. Μπορείς να αλλάξεις αυτές τις ρυθμίσεις ανά πάσα στιγμή.</HowStorytellersWork>
+  <!-- EN: Please choose a difficulty setting. -->
   <MustChooseDifficulty>Παρακαλώ επέλεξε ένα βαθμό δυσκολίας.</MustChooseDifficulty>
+  <!-- EN: Difficulty -->
   <Difficulty>Δυσκολία</Difficulty>
+  <!-- EN: Commitment mode -->
+  <CommitmentMode>Λειτουργιά δέσμευσης</CommitmentMode>
+  <!-- EN: Reload anytime mode -->
+  <ReloadAnytimeMode>Επαναφόρτωση ανά πάσα στιγμή</ReloadAnytimeMode>
+  <!-- EN: Please choose commitment mode or reload anytime mode. -->
+  <MustChoosePermadeath>Παρακαλώ επέλεξε λειτουργία δέσμευσης ή επαναφόρτωσης οποτεδήποτε.</MustChoosePermadeath>
+  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
+  <ReloadAnytimeModeInfo>Μπορείς να αποθηκεύσεις και να φορτώσεις το παιχνίδι ανά πάσα στιγμή.\n\nΑυτή είναι μια καλή επιλογή αν συνεχίζεις να μαθαίνεις το παιχνίδι ακόμα, αν ταιριάζει με το προσωπικό σου τρόπο παιξίματος, αν χρησιμοποιείς mods που μπορεί να καταρρεύσει το παιχνίδι ή αν σκοπεύεις να αυτοεπιβάλλεις μία λειτουργία δέσμευσης.</ReloadAnytimeModeInfo>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
+  <PermadeathModeInfo>Μπορείς να κάνεις αποθήκευση μόνο όταν κλείνεις το παιχνίδι.\n\nΔεδομένου ότι το RimWorld είναι μία γεννήτρια ιστοριών, ακόμη και η απώλεια όλων ή ενός ατόμου δεν είναι το τέλος του παιχνιδιού - είναι μέρος της ιστορίας. Το παιχνίδι έχει σχεδιαστεί για να επιτρέπει την ανάκαμψη μετά από τις απώλειες.\n\nΤο να παίζεις με αυτές τις τρομερές καταστάσεις κάνει μια ιστορία τραγική και θριαμβική. Είναι ο τρόπος με τον οποίο το RimWorld σχεδιάστηκε για να παιχτεί.\n\nΓι' αυτό το λόγο ο Λουκ Σκαϊγουώκερ δεν εγκατέλειψε και επαναφόρτωσε όταν σκοτώθηκε η οικογένειά του - η απώλεια και η ανάκαμψη είναι συνταρακτική.</PermadeathModeInfo>
+  <!-- EN: Storyteller and difficulty can be changed any time. -->
+  <CanChangeStorytellerSettingsDuringPlay>Ο αφηγητής και η δυσκολία μπορούν να αλλάξουν οποιαδήποτε στιγμή.</CanChangeStorytellerSettingsDuringPlay>
+  <!-- EN: Merciless mode -->
+  <UnlockExtremeDifficulty>Αδυσώπητο</UnlockExtremeDifficulty>
+  <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
+  <ConfirmUnlockExtremeDifficulty>Η λειτουργία αδυσώπητου είναι μια ειδική λειτουργία παιχνιδιού όπου κάθε πρόκληση εμφανίζεται σε ακραία επίπεδα.\n\nΗ λειτουργία αδυσώπητου ξεκλειδώνει αυτόματα όταν φτάσεις σε συγκεκριμένα ορόσημα. Ωστόσο, μπορείς να την ξεκλειδώσεις από τώρα.\n\nΑυτή η επιλογή συνιστάται μόνο αφού έχεις παίξει ένα δύο παιχνίδια στη μεγάλη δυσκολία και θέλεις να έχεις μια καλή ευκαιρία να πεθάνεις παρά τις φιλότιμες προσπάθειές σου.</ConfirmUnlockExtremeDifficulty>
 
-  <!--=========== Επιλογή τόπου προσγείωσης (Landing site select) =========-->
-  <SelectLandingSite>Επέλεξε σημείο προσεδάφισης</SelectLandingSite>
-  <SelectRandomSite>Επέλεξε τυχαίο σημείο</SelectRandomSite>
+  <!-- Site select -->
+  <!-- EN: Select starting site -->
+  <SelectStartingSite>Επέλεξε αρχικό σημείο</SelectStartingSite>
+  <!-- EN: Select random site -->
+  <SelectRandomSite>Τυχαίο σημείο</SelectRandomSite>
+  <!-- EN: Select site -->
   <SelectSite>Επέλεξε σημείο</SelectSite>
-  <MustSelectLandingSite>Παρακαλώ επέλεξε ένα σημείο προσεδάφισης.</MustSelectLandingSite>
+  <!-- EN: Please select a site. -->
+  <MustSelectStartingSite>Παρακαλώ επέλεξε ένα σημείο</MustSelectStartingSite>
+  <!-- EN: You cannot land on this biome: {0} -->
   <CannotLandBiome>Δεν μπορείς να προσεδαφιστείς σε αυτό το βιοσύστημα: {0}</CannotLandBiome>
+  <!-- EN: Biome not implemented -->
   <BiomeNotImplemented>Το βιοσύστημα δεν έχει υλοποιηθεί</BiomeNotImplemented>
+  <!-- EN: You cannot land on impassable mountains. -->
   <CannotLandImpassableMountains>Δεν μπορείς να προσεδαφιστείς σε αδιάβατα βουνά.</CannotLandImpassableMountains>
+  <!-- EN: {0} already have a base there. -->
   <BaseAlreadyThere>Οι {0} έχουν ήδη βάση εκεί.</BaseAlreadyThere>
+  <!-- EN: You already have a base there. -->
   <YourBaseAlreadyThere>Έχει ήδη μία βάση εκεί.</YourBaseAlreadyThere>
+  <!-- EN: This tile is occupied. -->
   <TileOccupied>Αυτό το σημείο είναι κατειλημμένο.</TileOccupied>
+  <!-- EN: Settlements cannot be directly adjacent to each other. -->
   <FactionBaseAdjacent>Οι οικισμοί δεν μπορούν να γειτνιάζουν άμεσα αναμεταξύ τους.</FactionBaseAdjacent>
+  <!-- EN: Biome -->
   <Biome>Βιοσύστημα</Biome>
+  <!-- EN: Terrain -->
   <Terrain>Έδαφος</Terrain>
+  <!-- EN: Road -->
   <Road>Δρόμος</Road>
+  <!-- EN: River -->
   <River>Ποτάμι</River>
+  <!-- EN: Elevation -->
   <Elevation>Υψόμετρο</Elevation>
+  <!-- EN: Fertility -->
   <Fertility>Γονιμότητα</Fertility>
+  <!-- EN: Average temperature -->
   <AvgTemp>Μέση θερμοκρασία</AvgTemp>
-  <AvgSummerTemp>Θερινή θερμοκρασία</AvgSummerTemp>
-  <AvgWinterTemp>Χειμερινή θερμοκρασία</AvgWinterTemp>
+  <!-- EN: Rainfall -->
   <Rainfall>Βροχόπτωση</Rainfall>
+  <!-- EN: Special features -->
   <SpecialFeatures>Ειδικά χαρακτηριστικά</SpecialFeatures>
-  <HasCoast0>Βόρεια ακτή</HasCoast0>
-  <HasCoast1>Ανατολική ακτή</HasCoast1>
-  <HasCoast2>Νότια ακτή</HasCoast2>
-  <HasCoast3>Δυτική ακτή</HasCoast3>
+  <!-- EN: northern coast -->
+  <HasCoast0>βόρεια ακτή</HasCoast0>
+  <!-- EN: eastern coast -->
+  <HasCoast1>ανατολική ακτή</HasCoast1>
+  <!-- EN: southern coast -->
+  <HasCoast2>νότια ακτή</HasCoast2>
+  <!-- EN: western coast -->
+  <HasCoast3>δυτική ακτή</HasCoast3>
+  <!-- EN: caves -->
   <HasCaves>σπηλιές</HasCaves>
+  <!-- EN: Faction base -->
   <FactionBase>Βάση φατρίας</FactionBase>
+  <!-- EN: Stone types -->
   <StoneTypesHere>Τύπος πετρώματος</StoneTypesHere>
+  <!-- EN: Time zone -->
   <TimeZone>Ζώνη ώρας</TimeZone>
-  <MovementTimeNow>Τρέχων χρόνος κίνησης</MovementTimeNow>
-  <MovementTimeSummer>Θερινός χρόνος κίνησης</MovementTimeSummer>
-  <MovementTimeWinter>Χειμερινός χρόνος κίνησης</MovementTimeWinter>
-  <AnimalsCanGrazeNow>Τα ζώα μπορούν να βόσκουν τώρα</AnimalsCanGrazeNow>
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty>Δυσκολία βάδισης</MovementDifficulty>
+  <!-- EN: Animals can graze now -->
+  <AnimalsCanGrazeNow>Βοσκή ζώων (τώρα)</AnimalsCanGrazeNow>
+  <!-- EN: Average disease frequency -->
   <AverageDiseaseFrequency>Μέση συχνότητα αρρώστιας</AverageDiseaseFrequency>
+  <!-- EN: per year -->
   <PerYear>ανά έτος</PerYear>
+  <!-- EN: Forageability -->
+  <Forageability>Τροφοσυλλογή</Forageability>
+  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Κανένας από τους επιλεγμένους ανθρώπους δεν μπορεί να κάνει τις ακόλουθες εργασίες:\n\n{0}\n\nΑυτό μπορεί να κάνει το παιχνίδι πιο δύσκολο από το συνηθισμένο. Είσαι σίγουρος ότι θέλεις να συνεχίσεις;</ConfirmRequiredWorkTypeDisabledForEveryone>
 
-
-  <!--=========== Επιλογέας χαρακτήρα (Character chooser) ==========-->
+  <!-- Character chooser -->
+  <!-- EN: Create characters -->
   <CreateCharacters>Δημιουργία χαρακτήρων</CreateCharacters>
+  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
   <FirstNameDesc>Το μικρό όνομα του χαρακτήρα.\n\nΠροβάλλεται μόνο σε συγκεκριμένα μενού.</FirstNameDesc>
-  <ShortIdentifierDesc>Το υποκοριστικό του χαρακτήρα.\n\nΠροβάλλεται συνεχώς. Μπορεί να είναι το μικρό όνομα ή το επίθετο, ή ένα ψευδώνυμο.</ShortIdentifierDesc>
+  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
+  <ShortIdentifierDesc>Το υποκοριστικό του χαρακτήρα.\n\nΠροβάλλεται συνεχώς. Μπορεί να είναι το μικρό όνομα ή το επίθετο, ή ένα τελείως διαφορετικό ψευδώνυμο.</ShortIdentifierDesc>
+  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
   <LastNameDesc>Το επίθετο του χαρακτήρα.\n\nΠροβάλλεται μόνο σε συγκεκριμένα μενού.</LastNameDesc>
+  <!-- EN: Randomize -->
   <Randomize>Τυχαίος</Randomize>
+  <!-- EN: age {0} -->
   <AgeIndicator>ηλικία {0}</AgeIndicator>
-  <Backstory>Ιστορία</Backstory>
+  <!-- EN: Backstory -->
+  <Backstory>Παρελθόν</Backstory>
+  <!-- EN: Incapable of -->
   <IncapableOf>Ανικανότητες</IncapableOf>
+  <!-- EN: Traits -->
   <Traits>Χαρακτηριστικά</Traits>
+  <!-- EN: Permanent mood effect -->
   <PermanentMoodEffect>Μόνιμη επίδραση διάθεσης</PermanentMoodEffect>
+  <!-- EN: Skills -->
   <Skills>Ικανότητες</Skills>
-  <NoneLower>κανένα</NoneLower>
+  <!-- EN: none -->
+  <NoneLower>καμία</NoneLower>
+  <!-- EN: Adulthood -->
   <Adulthood>Ενηλικιότητα</Adulthood>
+  <!-- EN: Childhood -->
   <Childhood>Παιδική ηλικία</Childhood>
+  <!-- EN: Current -->
+  <Current>Τρέχων</Current>
+  <!-- EN: male -->
   <Male>αρσενικός</Male>
+  <!-- EN: female -->
   <Female>θηλυκός</Female>
+  <!-- EN: male -->
+  <MaleAnimal>αρσενικό</MaleAnimal>
+  <!-- EN: female -->
+  <FemaleAnimal>θηλυκό</FemaleAnimal>
+  <!-- EN: Pain -->
   <Pain>Πόνος</Pain>
+  <!-- EN: Health -->
   <Health>Υγεία</Health>
+  <!-- EN: Relations -->
   <Relations>Σχέσεις</Relations>
+  <!-- EN: Team skills -->
   <TeamSkills>Ικανότητες ομάδας</TeamSkills>
+  <!-- EN: Selected -->
   <StartingPawnsSelected>Επιλεγμένοι</StartingPawnsSelected>
+  <!-- EN: Left behind -->
   <StartingPawnsLeftBehind>Μένουν πίσω</StartingPawnsLeftBehind>
-
-  <!--=========== Διάφορα (Misc) ==========-->
+  
+  <!-- Misc -->
+  <!-- EN: Start -->
   <Start>Εκκίνηση</Start>
+  <!-- EN: Advanced -->
   <Advanced>Για προχωρημένους</Advanced>
+  <!-- EN: Next -->
   <Next>Επόμενο</Next>
+  <!-- EN: Back -->
   <Back>Επιστροφή</Back>
+  <!-- EN: Gameplay -->
   <Gameplay>Τρόπος παιξίματος</Gameplay>
+  <!-- EN: Really quit? You'll lose unsaved progress. -->
   <ConfirmQuit>Σίγουρα θέλεις να σταματήσεις; Θα χάσεις όποια πρόοδο δεν αποθηκεύτηκε.</ConfirmQuit>
+  <!-- EN: Each person needs a valid name. -->
   <EveryoneNeedsValidName>Κάθε άτομο χρειάζεται ένα έγκυρο όνομα.</EveryoneNeedsValidName>
+  <!-- EN: None of the selected people can do the following jobs -->
+  <RequiredWorkTypeDisabledForEveryone>Κανένα από τα επιλεγμένα άτομα δεν μπορεί να κάνει τις ακόλουθες εργασίες</RequiredWorkTypeDisabledForEveryone>
+  <!-- EN: Quit -->
   <Quit>Έξοδος</Quit>
+  <!-- EN: Ignore -->
   <Ignore>Αγνόηση</Ignore>
-
-  <!--============ Μπάρα προόδου (Progress bar) ==============-->
+  
+  <!-- Progress bar -->
+  <!-- EN: Generating world -->
   <GeneratingWorld>Δημιουργία κόσμου</GeneratingWorld>
+  <!-- EN: Generating planet -->
   <GeneratingPlanet>Δημιουργία πλανήτη</GeneratingPlanet>
+  <!-- EN: Generating map -->
   <GeneratingMap>Δημιουργία χάρτη</GeneratingMap>
-  <GeneratingMapForNewEncounter>Δημιουργία χάρτη για νέα συνάντηση</GeneratingMapForNewEncounter>
+  <!-- EN: Generating map for new encounter -->
+  <GeneratingMapForNewEncounter>Δημιουργία χάρτη για νέα αναμέτρηση</GeneratingMapForNewEncounter>
 
 </LanguageData>

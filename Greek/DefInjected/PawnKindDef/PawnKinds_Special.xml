@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: slave -->
+  <Slave.label>σκλάβος</Slave.label>
+  
+  <!-- EN: stranger in black -->
+  <StrangerInBlack.label>άγνωστος με τα μαύρα</StrangerInBlack.label>
+  <!-- EN: woman in black -->
+  <StrangerInBlack.labelFemale>γυναίκα με τα μαύρα</StrangerInBlack.labelFemale>
+  <!-- EN: man in black -->
+  <StrangerInBlack.labelMale>άνδρας με τα μαύρα</StrangerInBlack.labelMale>
+  <!-- EN: strangers in black -->
+  <StrangerInBlack.labelPlural>άγνωστοι με τα μαύρα</StrangerInBlack.labelPlural>
+  
+  <!-- EN: wild man -->
+  <WildMan.label>αγριάνθρωπος</WildMan.label>
+  <!-- EN: wild woman -->
+  <WildMan.labelFemale>άγρια γυναίκα</WildMan.labelFemale>
+  <!-- EN: wild women -->
+  <WildMan.labelFemalePlural>άγριες γυναίκες</WildMan.labelFemalePlural>
+  <!-- EN: wild men -->
+  <WildMan.labelPlural>αγριάνθρωποι</WildMan.labelPlural>
+  
+</LanguageData>

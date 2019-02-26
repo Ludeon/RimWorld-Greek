@@ -1,394 +1,867 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Confirm -->
   <Confirm>Επιβεβαίωση</Confirm>
+  <!-- EN: Go back -->
   <GoBack>Πίσω</GoBack>
+  <!-- EN: OK -->
   <OK>Εντάξει</OK>
-
-  <!-- Αναβάθμιση παιχνιδιού σε καινούρια έκδοση (Game updated to new version) -->
+  <!-- EN: Close -->
+  <Close>Κλείσιμο</Close>
+  
+  <!-- Game updated to new version -->
+  <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
   <GameUpdatedToNewVersionInitial>Το RimWorld έχει αναβαθμιστεί από την έκδοση {0} στην έκδοση {1}.</GameUpdatedToNewVersionInitial>
+  <!-- EN: This may cause saved games and mods from the old version to stop working. -->
   <GameUpdatedToNewVersionSavesIncompatible>Αυτό μπορεί να προκαλέσει τη διακοπή λειτουργίας των αποθηκευμένων παιχνιδιών και των mods της παλιάς έκδοσης.</GameUpdatedToNewVersionSavesIncompatible>
+  <!-- EN: Saved games from the old version should be compatible, however some mods may stop working. -->
   <GameUpdatedToNewVersionSavesCompatible>Τα αποθηκευμένα παιχνίδια από την παλιά έκδοση μπορεί να είναι συμβατά, ωστόσο μερικά mods μπορεί να σταματήσουν να λειτουργούν.</GameUpdatedToNewVersionSavesCompatible>
+  <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
   <GameUpdatedToNewVersionNonSteam>Δεδομένου ότι πρόκειται για ένα αντίγραφο ελεύθερης άδειας (DRM), μπορείτε να εγκαταστήσετε το παιχνίδι δύο φορές σε δύο διαφορετικούς φακέλους, για να μπορείτε να παίζετε παλιές και νέες εκδόσεις.</GameUpdatedToNewVersionNonSteam>
+  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this. -->
   <GameUpdatedToNewVersionSteam>Εάν θέλετε να συνεχίσετε με την παλιά έκδοση, μπορείτε να επιλέξετε τη χρήση της λειτουργίας "Betas" από το Steam.\n\n 1. Στη βιβλιοθήκη Steam, κάντε δεξί κλικ στο RimWorld.\n 2. Κάντε κλικ στην επιλογή Ιδιότητες.\n 3. Κάντε κλικ στην καρτέλα Betas.\n 4. Επιλέξτε την έκδοση που θέλετε από το αναπτυσσόμενο μενού.\n\nΟι παλιές εκδόσεις πιθανότατα θα καταργηθούν κάποια στιγμή από αυτήν τη λίστα - απλά δεν θέλαμε να διακόψουμε τα παιχνίδια σε εξέλιξη.\n\nΣημειώστε ότι αν οι δημιουργοί mod ενημερώσουν τα mods τους για την νέα έκδοση του παιχνιδιού, πιθανώς θα σταματήσουν να εργάζονται στη παλιά έκδοση. Ίσως θελήσετε να απενεργοποιήσετε τις αυτόματες ενημερώσεις για να το αποφύγετε.</GameUpdatedToNewVersionSteam>
-
-  <!-- Ανάκτηση από σφάλματα που προκλήθηκαν από mods (Recovered from errors caused by mods) -->
+  
+  <!-- Recovered from errors caused by mods -->
+  <!-- EN: Recovered from incompatible or corrupted mods errors -->
   <RecoveredFromErrorsDialogTitle>Ανακτήθηκε από σφάλματα ασύμβατων ή κατεστραμμένων mods</RecoveredFromErrorsDialogTitle>
+  <!-- EN: It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog. -->
   <RecoveredFromErrorsText>Φαίνεται ότι μερικά από τα ενεργά mods προκάλεσαν σφάλματα.\n\nΔεν ήταν συμβατά μεταξύ τους, σχεδιασμένα για διαφορετική έκδοση του RimWorld ή αλλοιωμένα.\n\nΌλα τα mods έχουν απενεργοποιηθεί και μπορούν να ενεργοποιηθούν πάλι στο παράθυρο διαλόγου mods.</RecoveredFromErrorsText>
-
-  <!-- Σφάλματα κατά τη φόρτωση (Errors during loading) -->
+  
+  <!-- Errors during loading -->
+  <!-- EN: Error while loading assets -->
   <ErrorWhileLoadingAssetsTitle>Σφάλμα κατά τη φόρτωση στοιχείων</ErrorWhileLoadingAssetsTitle>
+  <!-- EN: An error occurred while loading game assets. See error log for more information. -->
   <ErrorWhileLoadingAssets>Παρουσιάστηκε ένα σφάλμα κατά τη φόρτωση των στοιχείων του παιχνιδιού. Δείτε το αρχείο καταγραφής σφαλμάτων για περισσότερες πληροφορίες.</ErrorWhileLoadingAssets>
+  <!-- EN: The game is currently running with custom mods - they may or may not cause these problems. -->
   <ErrorWhileLoadingAssets_ModsInfo>Το παιχνίδι εκτελείται αυτή τη στιγμή με προσαρμοσμένα mods - μπορεί αυτά να προκαλέσουν ή να μην προκαλέσουν προβλήματα.</ErrorWhileLoadingAssets_ModsInfo>
+  <!-- EN: Error while generating a map -->
   <ErrorWhileGeneratingMapTitle>Σφάλμα κατά τη δημιουργία ενός χάρτη</ErrorWhileGeneratingMapTitle>
+  <!-- EN: An error occurred while generating a new map. See error log for more information. -->
   <ErrorWhileGeneratingMap>Παρουσιάστηκε ένα σφάλμα κατά τη δημιουργία νέου χάρτη. Δείτε το αρχείο καταγραφής σφαλμάτων για περισσότερες πληροφορίες.</ErrorWhileGeneratingMap>
+  <!-- EN: Error while loading a map -->
   <ErrorWhileLoadingMapTitle>Σφάλμα κατά τη φόρτωση ενός χάρτη</ErrorWhileLoadingMapTitle>
+  <!-- EN: An error occurred while loading a map. See error log for more information. -->
   <ErrorWhileLoadingMap>Παρουσιάστηκε ένα σφάλμα κατά τη φόρτωση ενός χάρτη. Δείτε το αρχείο καταγραφής σφαλμάτων για περισσότερες πληροφορίες.</ErrorWhileLoadingMap>
-
-  <!-- Αδυναμία φόρτωσης mod με μηχανισμό (Unloaded mod with an assembly) -->
+  
+  <!-- Unloaded mod with an assembly -->
+  <!-- EN: The mod list has changed. The game will now restart automatically. -->
   <ModsChanged>Η λίστα των mod άλλαξε. Το παιχνίδι τώρα θα κάνει επανεκκίνηση αυτόματα.</ModsChanged>
+  <!-- EN: Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly. -->
   <FailedToRestart>Κάτι πήγε στραβά κατά την επανεκκίνηση του παιχνιδιού. Το παιχνίδι δεν μπορεί να ξεφορτώσει πλήρως τον τροποποιημένο κώδικα από τα απενεργοποιημένα mods, οπότε ο κώδικας από τα απενεργοποιημένα mods μπορεί να είναι ακόμα ενεργός.\n\nΣυνιστάται να κλείνετε και να κάνετε επανεκκίνηση του παιχνιδιού τώρα για να φορτώσετε όλα τα mods καθαρά.</FailedToRestart>
+  <!-- EN: Restarting -->
   <Restarting>Επανεκκίνηση</Restarting>
-
-  <!-- Λείπει το Steam (Missing Steam) -->
+  
+  <!-- Missing Steam -->
+  <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
   <SteamClientMissing>Δεν ήταν δυνατή η προετοιμασία του Steam API. Πιθανές αιτίες:\n\n-Το Steam δεν εκτελείται.\n-Εκτελείτε εξωτερικά του Steam χωρίς steam_appid.txt στη θέση του.\n-Εκτελείται με διαφορετικά δικαιώματα από τον Steam client (π.χ. "ως διαχειριστής").\n\nΣτις περισσότερες περιπτώσεις, η επανεκκίνηση του υπολογιστή σας θα διορθώσει αυτό το πρόβλημα.\n\nΜπορείτε να παίξετε ούτως ή άλλως, αλλά δεν θα καταγραφούν στατιστικά στοιχεία Steam και τα χαρακτηριστικά Steam δεν θα είναι διαθέσιμα.</SteamClientMissing>
-
-  <!-- Συμβάντα αρχείου καταγραφής (Long events) -->
+  
+  <!-- Long events -->
+  <!-- EN: Initializing interface -->
   <InitializingInterface>Προετοιμασία διεπαφής</InitializingInterface>
+  <!-- EN: Unloading unused assets -->
   <UnloadingUnusedAssets>Εκφόρτωση μη χρησιμοποιηθέντων στοιχείων</UnloadingUnusedAssets>
+  <!-- EN: Loading all active mods -->
   <LoadingAllActiveMods>Φόρτωση όλων των ενεργών mods</LoadingAllActiveMods>
+  <!-- EN: Loading defs -->
   <LoadingDefs>Φόρτωση συναρτήσεων</LoadingDefs>
+  <!-- EN: Loading assets -->
   <LoadingAssets>Φόρτωση στοιχείων</LoadingAssets>
+  <!-- EN: Initializing -->
   <Initializing>Προετοιμασία</Initializing>
+  <!-- EN: Loading world -->
   <LoadingWorld>Φόρτωση κόσμου</LoadingWorld>
+  <!-- EN: Loading map -->
   <LoadingMap>Φόρτωση χάρτη</LoadingMap>
+  <!-- EN: Initializing game -->
   <InitializingGame>Φόρτωση παιχνιδιού</InitializingGame>
+  <!-- EN: Spawning things -->
   <SpawningAllThings>Τοποθέτηση όλων των αντικειμένων</SpawningAllThings>
+  <!-- EN: Spawning colonists -->
   <SpawningColonists>Τοποθέτηση αποίκων</SpawningColonists>
-
-  <!-- Αποθήκευση/φόρτωση (Save/load) -->
+  
+  <!-- Save/load -->
+  <!-- EN: Save -->
   <SaveGameButton>Αποθήκευση</SaveGameButton>
+  <!-- EN: Load -->
   <LoadGameButton>Φόρτωση</LoadGameButton>
+  <!-- EN: Overwrite -->
   <OverwriteButton>Αντικατάσταση</OverwriteButton>
+  <!-- EN: Really delete {0}? -->
   <ConfirmDelete>Θέλετε να διαγράψετε {0};</ConfirmDelete>
-  <DeleteThisSavegame>Διαγραφή αυτού του σώσιμο παιχνιδιού.</DeleteThisSavegame>
+  <!-- EN: Delete this savegame. -->
+  <DeleteThisSavegame>Διαγραφή αυτού του σωσμένου παιχνιδιού.</DeleteThisSavegame>
+  <!-- EN: Saved as {0}. -->
   <SavedAs>Αποθήκευση ως {0}.</SavedAs>
-  <NeedAName>Παρακαλώ δώστε ένα όνομα.</NeedAName>
+  <!-- EN: Please enter a name. -->
+  <NeedAName>Παρακαλώ δώσε ένα όνομα.</NeedAName>
+  <!-- EN: Loading -->
   <LoadingLongEvent>Φόρτωμα</LoadingLongEvent>
+  <!-- EN: Saving -->
   <SavingLongEvent>Σώσιμο</SavingLongEvent>
+  <!-- EN: (Permadeath) -->
   <PermadeathModeSaveSuffix>(Μόνιμος θάνατος)</PermadeathModeSaveSuffix>
+  <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
   <SaveIsFromDifferentGameVersion>Εκτελούμε την έκδοση {0}, αλλά τα δεδομένα αποθήκευσης είναι από την {1}, η οποία είναι μια διαφορετική έκδοση εξ ολοκλήρου.\n\nΗ προσπάθεια για τη φόρτωση αυτών των δεδομένων πιθανότατα δεν θα λειτουργήσει.</SaveIsFromDifferentGameVersion>
+  <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
   <SaveIsFromDifferentGameBuild>Εκτελούμε την έκδοση {0}, αλλά τα δεδομένα αποθήκευσης είναι από την {1}, η οποία είναι μια διαφορετική ανάπτυξη.\n\nΗ προσπάθεια για τη φόρτωση αυτών των δεδομένων πιθανότατα θα λειτουργήσει.</SaveIsFromDifferentGameBuild>
+  <!-- EN: Save data was saved with our game version and should work without issue. -->
   <SaveIsFromThisGameBuild>Τα δεδομένα αποθήκευσης αποθηκεύτηκαν με την έκδοση του παιχνιδιού μας και πρέπει να λειτουργήσουν χωρίς πρόβλημα.</SaveIsFromThisGameBuild>
+  <!-- EN: Save data is in an unknown format and almost certainly will not load properly. -->
   <SaveIsUnknownFormat>Τα δεδομένα αποθήκευσης είναι σε άγνωστη μορφή και είναι σχεδόν βέβαιο ότι δεν θα φορτωθούν σωστά.</SaveIsUnknownFormat>
+  <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
   <ProblemSavingFile>Παρουσιάστηκε πρόβλημα κατά την αποθήκευση του αρχείου {0}:\n\n{1}\n\nΔείτε το αρχείο καταγραφής σφαλμάτων για περισσότερες πληροφορίες.</ProblemSavingFile>
+  <!-- EN: Load anyway -->
   <LoadAnyway>Φόρτωση παρ' αυτά</LoadAnyway>
-  <ChangeLoadedMods>Φόρτωση λίστας mod από το σώσιμο παιχνιδιού</ChangeLoadedMods>
+  <!-- EN: Load mod list from save -->
+  <ChangeLoadedMods>Φόρτωση λίστας mod από το σωσμένο παιχνιδιού</ChangeLoadedMods>
+  <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>Μερικά mods δεν είναι διαθέσιμα και χρειάζεται να εγκατασταθούν</MissingMods>
-
-  <!-- Ονομασία φατρίας παίκτη (Player faction naming) -->
-  <NamePlayerFactionMessage>{0} πιστεύει ότι πρέπει να δώσετε στην φατρία σας ένα όνομα. Πως θα αποκαλείτε η φατρία σας;</NamePlayerFactionMessage>
+  
+  <!-- Player faction naming -->
+  <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
+  <NamePlayerFactionMessage>Επειδή μοιάζει να είστε εδώ για κάποιο διάστημα, {0_definite} πιστεύει ότι πρέπει να δώσετε στην φατρία σας ένα όνομα. Πως θα αποκαλείτε η φατρία σας;</NamePlayerFactionMessage>
+  <!-- EN: Your faction is now known as {0}. -->
   <PlayerFactionGainsName>Η φατρίας σας τώρα είναι γνωστή ως {0}.</PlayerFactionGainsName>
-  <PlayerFactionNameIsInvalid>Αυτό το όνομα αυτό δεν είναι έγκυρο.</PlayerFactionNameIsInvalid>
+  <!-- EN: That name isn't valid. -->
+  <PlayerFactionNameIsInvalid>Αυτό το όνομα δεν είναι έγκυρο.</PlayerFactionNameIsInvalid>
 
-  <!-- Ονομασία βασικής φατρίας παίκτη (Player faction base naming) -->
-  <NamePlayerFactionBaseMessage>Εφόσον μοιάζει να βρίσκεστε εδώ για λίγο καιρό, ο {0} πιστεύει ότι πρέπει να δώσετε σε αυτή την κοινότητα ένα όνομα. Πως πρέπει να ονομάζεται η τοπική κοινότητα;</NamePlayerFactionBaseMessage>
+  <!-- Player faction base naming -->
+  <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
+  <NamePlayerFactionBaseMessage>{0_definite} πιστεύει ότι πρέπει να δώσετε σε αυτή την κοινότητα ένα όνομα. Πως πρέπει να ονομάζεται η τοπική κοινότητα;</NamePlayerFactionBaseMessage>
+  <!-- EN: This community is now known as {0}. -->
   <PlayerFactionBaseGainsName>Αυτή η κοινότητα τώρα είναι γνωστή ως {0}.</PlayerFactionBaseGainsName>
-  <PlayerFactionBaseNameIsInvalid>Αυτό το όνομα αυτό δεν είναι έγκυρο.</PlayerFactionBaseNameIsInvalid>
-
-  <!-- Ονομασία φατρίας και βασικής φατρίας παίκτη (Player faction and faction base naming) -->
-  <NamePlayerFactionBaseMessage_NameFactionContinuation>Εφόσον μοιάζει να βρίσκεστε εδώ για λίγο καιρό, ο {0} πιστεύει ότι πρέπει να δώσετε σε αυτή την κοινότητα ένα όνομα. Πως πρέπει να ονομάζεται η τοπική κοινότητα;</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <!-- EN: That name isn't valid. -->
+  <PlayerFactionBaseNameIsInvalid>Αυτό το όνομα δεν είναι έγκυρο.</PlayerFactionBaseNameIsInvalid>
+  
+  <!-- Player faction and faction base naming -->
+  <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>{0_definite} πιστεύει ότι πρέπει να δώσετε σε αυτή την κοινότητα ένα όνομα. Πως πρέπει να ονομάζεται η τοπική κοινότητα;</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <!-- EN: Your faction is now known as {0}, and this community is now known as {1}. -->
   <PlayerFactionAndBaseGainsName>Η φατρίας σας τώρα είναι γνωστή ως {0} και αυτή η κοινότητα τώρα είναι γνωστή ως {1}.</PlayerFactionAndBaseGainsName>
-
-  <!-- Μετονομασία (Renaming) -->
+  
+  <!-- Renaming -->
+  <!-- EN: Please enter a valid name. -->
   <NameIsInvalid>Παρακαλώ δώστε ένα έγκυρο όνομα.</NameIsInvalid>
+  <!-- EN: Name is already in use. -->
   <NameIsInUse>Το όνομα ήδη χρησιμοποιείτε.</NameIsInUse>
+  <!-- EN: The zone is now called {0}. -->
   <ZoneGainsName>Η περιοχή τώρα θα ονομάζεται {0}.</ZoneGainsName>
+  
+  <!-- Pawn naming -->
+  <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
+  <PawnGainsName>Το ψευδώνυμο του αποίκου τώρα είναι {0}. Ο τίτλος {PAWN_possessive} είναι {PAWN_title}.</PawnGainsName>
+  <!-- EN: The animal's name is now {0}. -->
+  <AnimalGainsName>Το όνομα του ζώου τώρα είναι {0}.</AnimalGainsName>
 
-  <!-- Όνομα πιονιού (Pawn naming) -->
-  <PawnGainsName>Το ψευδώνυμο του αποίκου τώρα είναι {0}.</PawnGainsName>
-
-  <!-- Προειδοποίηση ασύμβατης αποθήκευσης παιχνιδιού (Save game incompatible warning) -->
+  <!-- Save game incompatible warning -->
+  <!-- EN: Version mismatch -->
   <VersionMismatch>Αναντιστοιχία έκδοσης</VersionMismatch>
+  <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
   <SaveGameIncompatibleWarningText>Αυτό το παιχνίδι αποθηκεύτηκε με την έκδοση παιχνιδιού {0}\nΕκτελούμε την έκδοση παιχνιδιού {1}\n\nΗ φόρτωση αυτού του σωσίματος μπορεί να προκαλέσει σφάλματα και καταρρεύσεις.</SaveGameIncompatibleWarningText>
+  <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
   <WorldFileVersionMismatch>Το αρχείο κόσμου δημιουργήθηκε με την έκδοση παιχνιδιού {0}\nΕκτελούμε την έκδοση παιχνιδιού {1}\n\nΗ φόρτωση αυτού του κόσμου μπορεί να προκαλέσει σφάλματα και καταρρεύσεις. Προτείνετε να δημιουργήσετε έναν νέο κόσμο από την αρχή.</WorldFileVersionMismatch>
+  <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
   <FileIncompatibleWarning>Αυτό το αρχείο αποθηκεύτηκε με την έκδοση παιχνιδιού {0}\nΕκτελούμε την έκδοση παιχνιδιού {1}\n\nΗ φόρτωση αυτού του αρχείου μπορεί να προκαλέσει σφάλματα και καταρρεύσεις.</FileIncompatibleWarning>
+  <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>Αναντιστοιχία Mods</ModsMismatchWarningTitle>
+  <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
   <ModsMismatchWarningText>Αυτό το αρχείο αποθηκεύτηκε με ένα διαφορετικό σύνολο ενεργών mods από αυτά που τρέχουμε αυτήν τη στιγμή. Αυτό μπορεί να προκαλέσει ή να μην προκαλέσει προβλήματα, ανάλογα με το τι ακριβώς κάνουν αυτά τα mods.\n\nΤο αρχείο αποθηκεύτηκε με (αυτή τη σειρά):\n\n{0}\n\nΛειτουργούμε με (αυτή τη σειρά):\n\n{1}</ModsMismatchWarningText>
 
-  <!-- Παράθυρο διαλόγου αλλαγής ανάλυσης (Resolution change dialog) -->
+  <!-- Resolution change dialog -->
+  <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
   <ConfirmResolutionChange>Έχετε αλλάξει τις ρυθμίσεις της οθόνης σας. Οι νέες ρυθμίσεις λειτουργούν σωστά;\n\nΑυτόματη επαναφορά σε {0}...</ConfirmResolutionChange>
+  <!-- EN: Keep -->
   <ResolutionKeep>Αποδοχή</ResolutionKeep>
+  <!-- EN: Revert -->
   <ResolutionRevert>Επαναφορά</ResolutionRevert>
 
-  <!-- Έρευνα (Research) -->
+  <!-- Confirm permanently disable dev mode -->
+  <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
+  <ConfirmPermanentlyDisableDevMode>Θέλεις πραγματικά να απενεργοποιήσεις μόνιμα τη λειτουργία ανάπτυξης σε αυτόν τον υπολογιστή;\n\nΑυτή η επιλογή απευθύνεται στα άτομα που θέλουν μια εμπειρία καθαρού παιχνιδιού χωρίς τον πειρασμό να χρησιμοποιούν τα εργαλεία ανάπτυξης για να κερδίσουν πλεονεκτήματα στο κανονικό παιχνίδι.\n\nΗ λειτουργία ανάπτυξης μπορεί να ενεργοποιηθεί ξανά, αλλά απαιτεί χειροκίνητη επεξεργασία των αρχείων ρυθμίσεων. Θα πρέπει να ψάξεις στο Διαδίκτυο για να μάθεις το πώς.</ConfirmPermanentlyDisableDevMode>
+
+  <!-- Research -->
+  <!-- EN: Research -->
   <Research>Έρευνα</Research>
+  <!-- EN: Researched -->
   <Researched>Έχει ερευνηθεί</Researched>
+  <!-- EN: Unresearched -->
   <Unresearched>Δεν έχει ερευνηθεί</Unresearched>
+  <!-- EN: Finished -->
   <Finished>Τελειωμένο</Finished>
+  <!-- EN: In Progress -->
   <InProgress>Σε εξέλιξη</InProgress>
+  <!-- EN: Locked -->
   <Locked>Κλειδωμένο</Locked>
+  <!-- EN: Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now. -->
   <ResearchMenuWithoutBench>Μέχρι να κατασκευάσετε ένα ΠΑΓΚΟ ΕΡΕΥΝΑΣ, οι άποικοί σας δεν θα μπορέσουν πραγματικά να κάνουν έρευνα.\n\nΩστόσο, μπορείτε από τώρα να εξετάσετε τα ερευνητικά έργα.</ResearchMenuWithoutBench>
+  <!-- EN: Research prerequisites -->
   <ResearchPrerequisites>Προϋποθέσεις έρευνας</ResearchPrerequisites>
+  <!-- EN: Required research bench -->
   <RequiredResearchBench>Απαιτείτε ερευνητικός πάγκος</RequiredResearchBench>
+  <!-- EN: Required research bench facilities -->
   <RequiredResearchBenchFacilities>Απαιτούνται εγκαταστάσεις ερευνητικού πάγκου</RequiredResearchBenchFacilities>
-
-  <!-- Προηγμένες επιλογές εκκίνησης παιχνιδιού (Advanced game start options) -->
+  
+  <!-- Advanced game start options -->
+  <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
   <MapTemperatureDangerWarning>Προειδοποίηση: Θα προσγειωθείτε σε ένα παγωμένο περιβάλλον. Μπορεί να είναι δύσκολο ή σχεδόν αδύνατο να επιβιώσετε. Αν δεν σκοπεύετε να αντιμετωπίσετε μια ακραία πρόκληση, επιλέξτε διαφορετική τοποθεσία ή εποχή.</MapTemperatureDangerWarning>
-  <MapSizePerformanceWarning>Προειδοποίηση: Η απόδοση μπορεί να υποβαθμιστεί σε μεγαλύτερα μεγέθη χαρτών. Το Ludeonικο (πολύ μεγάλο μέγεθος) δεν είναι δοκιμασμένο και σχεδόν σίγουρα δεν θα παίξει καλά.</MapSizePerformanceWarning>
+  <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
+  <MapSizePerformanceWarning>Το παιχνίδι έχει σχεδιαστεί για να παίζει σε μεσαία μεγέθη χαρτών. Αυτά τα μεγέθη παρέχουν άφθονο χώρο!\n\nΤα μεγάλα μεγέθη χαρτών δεν υποβαθμίζουν μόνο την απόδοση - αλλά στην πραγματικότητα κατακερματίζουν τον σχεδιασμό του παιχνιδιού. Η Τεχνική Νοημοσύνη θα παίρνει ηλίθιες αποφάσεις και η ισορροπία του παιχνιδιού θα επηρεαστεί σοβαρά με διάφορους τρόπους. Αυτά τα μεγέθη περιλαμβάνονται μόνο για εθιμοτυπικούς λόγους και για ελέγχους, παρακαλούμε να μην τα χρησιμοποιείς χωρίς συγκεκριμένο λόγο.</MapSizePerformanceWarning>
+  <!-- EN: Map size -->
   <MapSize>Μέγεθος χάρτη</MapSize>
+  <!-- EN: {0}x{0} ({1} cells) -->
   <MapSizeDesc>{0}x{0} ({1} κελιά)</MapSizeDesc>
+  <!-- EN: Small -->
   <MapSizeSmall>Μικρός</MapSizeSmall>
+  <!-- EN: Medium -->
   <MapSizeMedium>Μεσαίος</MapSizeMedium>
+  <!-- EN: Large -->
   <MapSizeLarge>Μεγάλος</MapSizeLarge>
-  <MapSizeExtreme>Ludeonικος</MapSizeExtreme>
+  <!-- EN: Extreme (test) -->
+  <MapSizeExtreme>Υπερβολικό (δοκιμή)</MapSizeExtreme>
+  <!-- EN: Starting season -->
   <MapStartSeason>Αρχική εποχή:</MapStartSeason>
+  <!-- EN: Auto -->
   <MapStartSeasonDefault>Αυτόματα</MapStartSeasonDefault>
-  <PermadeathMode>Κατάσταση μόνιμου θανάτου</PermadeathMode>
-  <PermadeathModeInfo>Σε λειτουργία μόνιμου θανάτου, έχετε ένα αρχείο αποθήκευσης και μπορείτε να αποθηκεύσετε μόνο όταν κλείνετε το παιχνίδι. Δεν μπορείτε να επαναφορτώσετε το παιχνίδι για να διορθώσετε λάθη και όταν πεθάνει η αποικία, αυτό είναι.\n\nΑυτός είναι ο τρόπος με τον οποίο το RimWorld προοριζόταν να παιχτεί, με κάθε κρίσιμη επιλογή - είτε τραγική είτε ελπιδοφόρα - να έχει πλήρεις συνέπειες.</PermadeathModeInfo>
+  <!-- EN: Notice -->
+  <Notice>Προσοχή</Notice>
 
-  <!-- Διαμόρφωση χρέωσης (Bill config) -->
+  <!-- Bill config -->
+  <!-- EN: Suspended -->
   <Suspended>Διακοπή</Suspended>
+  <!-- EN: Not suspended -->
   <NotSuspended>Χωρίς διακοπή</NotSuspended>
+  <!-- EN: SUSPENDED -->
   <SuspendedAllCaps>ΔΙΑΚΟΠΗ</SuspendedAllCaps>
-  <RepeatCount>Επανάληψη: {0}</RepeatCount>
+  <!-- EN: Repeat: -->
+  <RepeatCount>Επανάληψη: </RepeatCount>
+  <!-- EN: Forever -->
   <Forever>Για πάντα</Forever>
+  <!-- EN: Details -->
   <Details>Λεπτομέρειες</Details>
+  <!-- EN: Ingredient radius -->
   <IngredientSearchRadius>Ακτίνα συστατικού</IngredientSearchRadius>
+  <!-- EN: Currently have -->
   <CurrentlyHave>Τώρα έχεις</CurrentlyHave>
+  <!-- EN: Counting -->
   <CountingProducts>Άθροιση</CountingProducts>
+  <!-- EN: Infinite -->
   <Infinite>Άπειρο</Infinite>
+  <!-- EN: Allowed {0} skill: -->
   <AllowedSkillRange>Επιτρέπονται {0} ικανότητες:</AllowedSkillRange>
-
+  <!-- EN: incompatible -->
+  <IncompatibleLower>ασυμβατότητα</IncompatibleLower>
+  <!-- EN: Any worker -->
+  <AnyWorker>Κάθε εργάτης</AnyWorker>
+  <!-- EN: Unlimited -->
+  <Unlimited>Απεριόριστο</Unlimited>
+  
+  <!-- EN: (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
   <RecipeCannotHaveTargetCount>(Αυτή η συνταγή δεν μπορεί να παραχθεί σε συγκεκριμένο αριθμό επειδή έχει πολλαπλά ή απρόβλεπτα προϊόντα.)</RecipeCannotHaveTargetCount>
+  <!-- EN: Work amount -->
   <WorkAmount>Ποσό εργασίας</WorkAmount>
+  <!-- EN: Minimum skills: -->
   <MinimumSkills>Ελάχιστες ικανότητες:</MinimumSkills>
+  <!-- EN: Requires {0} {1} -->
   <BillRequires>Απαιτήσεις {0} {1}</BillRequires>
+  <!-- EN: Requires {0} nutrition -->
   <BillRequiresNutrition>Απαιτεί {0} τροφή</BillRequiresNutrition>
+  <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
   <BillRequiresMayVary>Σημείωση: τα συστατικά μικρού όγκου όπως ο χρυσός απαιτούν {0}x το ίδιο.</BillRequiresMayVary>
+  <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
   <ThisIsSmallVolume>Πρόκειται για συστατικό μικρού όγκου. Αυτό σημαίνει ότι κάθε «μονάδα» είναι μόνο 1/{0} όσο ένα συστατικό κανονικού όγκου. Έτσι, για να καλύψετε την ίδια απαίτηση συστατικών, θα χρειαστεί συνήθως {0}x το ίδιο.</ThisIsSmallVolume>
+  <!-- EN: ingredients -->
   <UsableIngredients>συστατικά</UsableIngredients>
+  <!-- EN: To {0} -->
   <BillRepeatTargetCountShort>Έως {0}</BillRepeatTargetCountShort>
 
+  <!-- EN: Pause when satisfied -->
   <PauseWhenSatisfied>Παύση όταν ικανοποιηθεί</PauseWhenSatisfied>
+  <!-- EN: Unpause at -->
   <UnpauseWhenYouHave>Συνέχιση σε</UnpauseWhenYouHave>
+  <!-- EN: Paused -->
   <Paused>Παύση</Paused>
+  <!-- EN: Unpause -->
   <Unpause>Συνέχιση</Unpause>
 
-  <!-- Κάρτα πληροφοριών (Info card) -->
+  <!-- EN: Count equipped -->
+  <IncludeEquipped>Μέτρηση εξοπλισμένου</IncludeEquipped>
+  <!-- EN: Count tainted -->
+  <IncludeTainted>Μέτρηση μολυσμένων</IncludeTainted>
+  <!-- EN: Only allowed ingredients -->
+  <LimitToAllowedStuff>Μόνο επιτρεπόμενα συστατικά</LimitToAllowedStuff>
+  <!-- EN: Look everywhere -->
+  <IncludeFromAll>Κοίτα παντού</IncludeFromAll>
+  <!-- EN: Look in {0} -->
+  <IncludeSpecific>Κοίτα σε {0}</IncludeSpecific>
+  
+  <!-- Info card -->
+  <!-- EN: Damage -->
   <Damage>Ζημιά</Damage>
+  <!-- EN: Armor penetration -->
+  <ArmorPenetration>Διάτρηση θωράκισης</ArmorPenetration>
+  <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
+  <ArmorPenetrationExplanation>Η διάτρηση της θωράκισης είναι η ποσότητα θωράκισης που αυτό το όπλο θα αγνοήσει κάθε φορά που χτυπάει τον στόχο.\n\nΕάν η διάτρηση της θωράκισης είναι μεγαλύτερη από τη θωράκιση του στόχου, είναι σαν να είναι ο στόχος χωρίς θωράκιση. Διαφορετικά, η διάτρηση της θωράκισης αφαιρείται από την θωράκιση του στόχου.</ArmorPenetrationExplanation>
+  <!-- EN: Accuracy -->
   <Accuracy>Ακρίβεια</Accuracy>
+  <!-- EN: Burst shot count -->
   <BurstShotCount>Καταμέτρηση πυροβολισμών</BurstShotCount>
+  <!-- EN: Warmup -->
   <WarmupTime>Προθέρμανση</WarmupTime>
+  <!-- EN: Melee warmup -->
   <MeleeWarmupTime>Προθέρμανση εξ' επαφής</MeleeWarmupTime>
+  <!-- EN: Cooldown -->
   <CooldownTime>Ελάχιστο χρόνος</CooldownTime>
+  <!-- EN: Fire rate -->
   <BurstShotFireRate>Ρυθμός βολών</BurstShotFireRate>
+  <!-- EN: Range -->
   <Range>Βεληνεκές</Range>
+  <!-- EN: Stopping power -->
+  <StoppingPower>Ισχύ αναχαίτισης</StoppingPower>
+  <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected. -->
+  <StoppingPowerExplanation>Οι ρίψεις από αυτό το όπλο θα κλονίσουν τους στόχους, επιβραδύνοντας την κίνησή τους για μερικά δευτερόλεπτα. Οι στόχοι με μέγεθος σώματος μεγαλύτερο από την ισχύ αναχαίτισης δεν θα επηρεαστούν.</StoppingPowerExplanation>
+  <!-- EN: Direct hit chance -->
+  <DirectHitChance>Πιθανότητα άμεσου κτυπήματος</DirectHitChance>
+  <!-- EN: Miss radius -->
+  <MissRadius>Ακτίνα αστοχίας</MissRadius>
+  <!-- EN: Grows wild -->
   <GrowsWild>Αυτοφυές</GrowsWild>
+  <!-- EN: Harvestable -->
   <Harvestable>Εκμεταλλεύσιμο</Harvestable>
+  <!-- EN: Limited lifespan -->
   <LimitedLifespan>Περιορισμένη διάρκεια ζωής</LimitedLifespan>
+  <!-- EN: Growing time -->
   <GrowingTime>Χρόνος ανάπτυξης</GrowingTime>
+  <!-- EN: Harvest yield -->
+  <HarvestYield>Απόδοση συγκομιδής</HarvestYield>
+  <!-- EN: Min growth temperature -->
+  <MinGrowthTemperature>Ελάχιστη θερμοκρασία ανάπτυξης</MinGrowthTemperature>
+  <!-- EN: Max growth temperature -->
+  <MaxGrowthTemperature>Μέγιστη θερμοκρασία ανάπτυξης</MaxGrowthTemperature>
+  <!-- EN: Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth. -->
   <GrowingTimeDesc>Τα φυτά αυξάνονται μόνο κατά τη διάρκεια της ημέρας, και μόνο όταν υπάρχει φως. Αυτή το δεδομένο προσμετρείται στο χρόνο που χρειάζεται να δαπανήσει το φυτό για να αναπτυχθεί σε πλήρες μέγεθος. Ο πραγματικός χρόνος ανάπτυξης θα είναι περίπου ο διπλάσιος. Οι χαμηλές θερμοκρασίες επιβραδύνουν επίσης την ανάπτυξη των φυτών.</GrowingTimeDesc>
+  <!-- EN: days -->
   <Days>μέρες</Days>
+  <!-- EN: Minimum growing skill to sow -->
   <MinGrowingSkillToSow>Ελάχιστη καλλιεργητική ικανότητα για σπορά</MinGrowingSkillToSow>
+  <!-- EN: Fertility requirement -->
   <FertilityRequirement>Απαιτείται γονιμότητα</FertilityRequirement>
+  <!-- EN: Fertility sensitivity -->
   <FertilitySensitivity>Ευαισθησία γονιμότητας</FertilitySensitivity>
+  <!-- EN: Light requirement -->
   <LightRequirement>Απαιτείται φως</LightRequirement>
+  <!-- EN: Attributes -->
   <Attributes>Χαρακτηριστικά</Attributes>
+  <!-- EN: Lifespan -->
   <LifeSpan>Διάρκεια ζωής</LifeSpan>
+  <!-- EN: Nutrition -->
   <Nutrition>Θρεπτική αξία</Nutrition>
+  <!-- EN: Recreation -->
   <Joy>Ευχαρίστηση</Joy>
+  <!-- EN: Food quality -->
   <FoodQuality>Ποιότητα τροφής</FoodQuality>
+  <!-- EN: Walk speed -->
   <WalkSpeedProperty>Ταχύτητα βαδίσματος</WalkSpeedProperty>
+  <!-- EN: Min. food quality -->
   <MinFoodQuality>Ελάχιστη ποιότητα τροφής</MinFoodQuality>
+  <!-- EN: Diet -->
   <Diet>Διατροφή </Diet>
+  <!-- EN: Leather type -->
+  <LeatherType>Είδος δέρματος</LeatherType>
+  <!-- EN: Body size -->
   <BodySize>Μέγεθος σώματος</BodySize>
+  <!-- EN: Recruit difficulty -->
   <RecruitDifficulty>Δυσκολία στρατολόγησης</RecruitDifficulty>
+  <!-- EN: Base price -->
   <MarketValue>Βασική τιμή</MarketValue>
+  <!-- EN: Covers -->
   <Covers>Καλύψεις</Covers>
+  <!-- EN: Layer -->
+  <Layer>Στρώση</Layer>
+  <!-- EN: Cover effectiveness -->
   <CoverEffectiveness>Αποτελεσματικότητα κάλυψης</CoverEffectiveness>
+  <!-- EN: How effective this is when used as cover in a gunfight. Higher percentages will block more shots. -->
   <CoverEffectivenessExplanation>Πόσο αποτελεσματικό είναι αυτό όταν χρησιμοποιείται ως κάλυμμα σε ένα πιστολίδι. Υψηλότερα ποσοστά θα μπλοκάρουν περισσότερους πυροβολισμούς.</CoverEffectivenessExplanation>
+  <!-- EN: Experience gain factor -->
   <MedicineXpGainFactor>Παράγοντας κέρδους εμπειρίας</MedicineXpGainFactor>
+  <!-- EN: Mood change -->
   <MoodChange>Αλλαγή διάθεσης</MoodChange>
+  <!-- EN: Wildness -->
   <Wildness>Αγριάδα</Wildness>
+  <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
   <WildnessExplanation>Τα άγρια ζώα είναι φυσικά πολύ πιο δύσκολο να εξημερωθούν, να εκπαιδεύσουν και να δαμαστούν.</WildnessExplanation>
+  <!-- EN: Training decay interval -->
+  <TrainingDecayInterval>Περίοδος φθοράς εκπαίδευσης</TrainingDecayInterval>
+  <!-- EN: Tameness will never decay. -->
+  <TamenessWillNotDecay>Η εξημέρωση ποτέ δεν χάνεται.</TamenessWillNotDecay>
+  <!-- EN: Animal filth rate -->
   <AnimalFilthRate>Ποσοστό ακαθαρσίας των ζώων</AnimalFilthRate>
+  <!-- EN: Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
   <AnimalFilthRateExplanation>Τα ζώα παράγουν βρωμιά όταν μετακινούνται σε κατασκευασμένα πατώματα. Αυτή είναι η μέση ποσότητα της βρωμιάς που παράγεται ανά {0} κελί που περπατάει αυτό το πλάσμα.\n\nΜεγαλύτερα ή λιγότερο ζώα που μοιάζουν με κατοικίδια παράγουν περισσότερα βρωμιά.</AnimalFilthRateExplanation>
+  <!-- EN: Time -->
   <TimeRecordsCategory>Χρόνος</TimeRecordsCategory>
+  <!-- EN: Misc -->
   <MiscRecordsCategory>Διάφορα</MiscRecordsCategory>
+  <!-- EN: Addictiveness -->
   <Addictiveness>Εθιστικότητα</Addictiveness>
+  <!-- EN: Pack animal -->
   <PackAnimal>Υποζύγιο</PackAnimal>
-  <PackAnimalExplanation>Το αν αυτό το ζώο είναι κατάλληλο να χρησιμοποιηθεί για τη μεταφορά αντικειμένων σε καραβάνι για μεγάλες αποστάσεις.</PackAnimalExplanation>
+  <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
+  <PackAnimalExplanation>Αν αυτό το ζώο είναι κατάλληλο να χρησιμοποιηθεί για τη μεταφορά αντικειμένων σε καραβάνι για μεγάλες αποστάσεις.</PackAnimalExplanation>
+  <!-- EN: Skill -->
   <Skill>Ικανότητα</Skill>
+  <!-- EN: Success rate multiplier -->
   <SurgerySuccessChanceFactor>Πολλαπλασιαστής ποσοστού επιτυχίας</SurgerySuccessChanceFactor>
-  <SurgeryRequireBed>Χρειάζεται κρεβάτι</SurgeryRequireBed>
+  <!-- EN: Work speed governed by -->
   <WorkSpeedStat>Η ταχύτητα εργασίας συγκρατείται από</WorkSpeedStat>
+  <!-- EN: Output quantity governed by -->
   <EfficiencyStat>Η ποσότητα παραγωγής συγκρατείται από</EfficiencyStat>
+  <!-- EN: Construction skill required -->
   <ConstructionSkillRequired>Απαιτείται δεξιότητα κατασκευής</ConstructionSkillRequired>
+  <!-- EN: Requires this level of Construction in order to build. -->
   <ConstructionSkillRequiredExplanation>Απαιτεί αυτό το επίπεδο Κατασκευής για να κατασκευαστεί.</ConstructionSkillRequiredExplanation>
+  <!-- EN: Nuzzle interval -->
+  <NuzzleInterval>Περίοδος μουσουδιάσματος</NuzzleInterval>
+  <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
+  <NuzzleIntervalExplanation>Πόσο συχνά ένα ζώο θα κάνει μουσουδιές στους φιλικούς αποίκους, κατά μέσο όρο.\n\nΤο μουσούδιασμα είναι μια συμπεριφορά που συναντάται σε πολλά είδη ζώων, όπου το ζώο πιέζει τη μύτη ή τη μουσούδα σ' έναν φίλο ως ένδειξη της αγάπης του. Οι περισσότεροι άνθρωποι το βρίσκουν αυτό χαριτωμένο και θα τους αφήσει μια καλή διάθεση για μια χρονική περίοδο.</NuzzleIntervalExplanation>
+  <!-- EN: Revenge chance on harm -->
+  <HarmedRevengeChance>Εκδίκησης κατά τον τραυματισμό</HarmedRevengeChance>
+  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
+  <HarmedRevengeChanceExplanation>Η πιθανότητα αυτό το πλάσμα να επιδιώξει εκδίκηση όταν τραυματιστεί από έναν επιτιθέμενο στην εμβέλεια του τουφεκιού.\n\nΑυτή η πιθανότητα αυξάνεται εάν ο επιτιθέμενος είναι αρκετά κοντά. Αν επιτεθεί σε πολύ κοντινή απόσταση, η πιθανότητα είναι τρεις φορές μεγαλύτερη.\n\nΑυτή η πιθανότητα εφαρμόζεται κάθε φορά που πετυχαίνεις το ζώο, έτσι ώστε τα αργά όπλα και τα όπλα υψηλότερης ζημιάς να είναι λιγότερο πιθανό να την ενεργοποιήσουν.\n\nΓια να ελαχιστοποιήσεις την πιθανότητα ενός πλάσματος να αναζητήσει εκδίκηση, κάνε του επίθεση από την εμβέλεια του τουφεκιού με ένα αργό όπλο.</HarmedRevengeChanceExplanation>
+  <!-- EN: Revenge chance on tame fail -->
+  <TameFailedRevengeChance>Εκδίκηση στην αποτυχία εξημέρσς</TameFailedRevengeChance>
+  <!-- EN: Terrain requirement -->
+  <TerrainRequirement>Απαιτήσεις εδάφους</TerrainRequirement>
+  <!-- EN: Supports -->
+  <Supports>Υποστηρίζει</Supports>
+  <!-- EN: Trap armor penetration -->
+  <TrapArmorPenetration>Διάτρηση θωράκισης παγίδας</TrapArmorPenetration>
+  <!-- EN: Rearm cost -->
+  <RearmCost>Κόστος επανεξοπλισμού</RearmCost>
+  <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
+  <RearmCostExplanation>Πόροι που απαιτούνται για τον επανεξοπλισμό αυτού του πυργίσκου (επηρεάζεται από τη  δυσκολία).</RearmCostExplanation>
+  <!-- EN: Shots before rearm -->
+  <ShotsBeforeRearm>Βολές πριν τον επανεξοπλισμό</ShotsBeforeRearm>
+  <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
+  <ShotsBeforeRearmExplanation>Πόσες βολές μπορεί να ρίξει αυτός ο πυργίσκος, πριν να επανεξοπληστεί.</ShotsBeforeRearmExplanation>
+  <!-- EN: Power consumption -->
+  <PowerConsumption>Κατανάλωση ενέργειας</PowerConsumption>
 
-  <!-- Εμπόριο (Trade) -->
+  <!-- Trade -->
+  <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
   <PositiveBuysNegativeSells>Αγορά με θετικούς αριθμούς.\nΠώληση με αρνητικούς αριθμούς.</PositiveBuysNegativeSells>
+  <!-- EN: Price you pay to buy this. -->
   <BuyPriceDesc>Τιμή που πληρώνετε για να το αγοράσετε.</BuyPriceDesc>
+  <!-- EN: Price you receive for selling this. -->
   <SellPriceDesc>Τιμή που λαμβάνετε πουλώντας το.</SellPriceDesc>
+  <!-- EN: For this item, this price is {0}. -->
   <PriceTypeDesc>Για αυτό το αντικείμενο, η τιμή είναι {0}.</PriceTypeDesc>
+  <!-- EN: How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon. -->
   <ColonyCount>Πόσα από αυτό το αντικείμενο η αποικία είναι έτοιμη να πουλήσει.\n\nΜπορείτε να πουλήσετε αντικείμενα μόνο σε πλανόδιους εμπόρους εάν βρίσκονται σε εξωτερικούς χώρους και κοντά σε πλανόδιο εμπορικό φάρο.</ColonyCount>
+  <!-- EN: How many of this item the trader has to trade. -->
   <TraderCount>Πόσα από αυτό το αντικείμενο έχει ο έμπορας να πουλήσει.</TraderCount>
+  <!-- EN: Accept -->
   <AcceptButton>Αποδοχή</AcceptButton>
+  <!-- EN: Reset -->
   <ResetButton>Επαναφορά</ResetButton>
+  <!-- EN: Cancel -->
   <CancelButton>Ακύρωση</CancelButton>
+  <!-- EN: Close -->
   <CloseButton>Κλείσιμο</CloseButton>
+  <!-- EN: Your tradeable silver: {0} -->
   <YourTradeableSilver>Εμπορεύσιμο ασήμι: {0}</YourTradeableSilver>
+  <!-- EN: You can only trade with silver that is near an orbital trade beacon and not under a roof. -->
   <YourTradeableSilverTip>Μπορείτε να κάνετε εμπόριο μόνο με ασήμι όταν βρίσκεστε κοντά σε ένα πλανόδιο εμπορικό φάρο και όχι κάτω από μια στέγη.</YourTradeableSilverTip>
+  <!-- EN: Trader has no more. -->
   <TraderHasNoMore>Ο έμπορος δεν έχει άλλα.</TraderHasNoMore>
+  <!-- EN: No more to sell. -->
   <ColonyHasNoMore>Δεν υπάρχουν άλλα για πούλημα.</ColonyHasNoMore>
-  <TraderWillNotTrade>Ο έμπορος δεν είναι πρόθυμος να το πουλήσει.</TraderWillNotTrade>
+  <!-- EN: Trader is not willing to buy this. -->
+  <TraderWillNotTrade>Ο έμπορος δεν είναι πρόθυμος να το αγοράσει.</TraderWillNotTrade>
+  <!-- EN: Negotiator -->
   <Negotiator>Διαπραγματευτής</Negotiator>
-  <NegotiatorTalkingImpaired>Ο διαπραγματευτής {0} δεν μπορεί να μιλήσει σωστά λόγω κακής υγείας.</NegotiatorTalkingImpaired>
-  <NegotiatorHearingImpaired>Ο διαπραγματευτής {0} δεν μπορεί να ακούσει σωστά λόγω κακής υγείας.</NegotiatorHearingImpaired>
+  <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
+  <NegotiatorTalkingImpaired>Ο διαπραγματευτής {1_labelShort} δεν μπορεί να μιλήσει σωστά λόγω κακής υγείας.</NegotiatorTalkingImpaired>
+  <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
+  <NegotiatorHearingImpaired>Ο διαπραγματευτής {1_labelShort} δεν μπορεί να ακούσει σωστά λόγω κακής υγείας.</NegotiatorHearingImpaired>
+  <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
   <NegotiatorCapacityImpaired>Αυτό θα επηρεάσει τις τιμές του εμπορίου.\n\nΣκεφτείτε τη χρήση ενός υγιέστερου διαπραγματευτή.</NegotiatorCapacityImpaired>
+  <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
   <ConfirmTraderShortFunds>Ο έμπορος δεν έχει αρκετό ασήμι για να καλύψει πλήρως αυτή τη συναλλαγή. Συνέχισε έτσι και αλλιώς;</ConfirmTraderShortFunds>
-  <SortBy>Ταξινόμηση κατά</SortBy>
+  <!-- EN: Sort by -->
+  <SortBy>Ταξινόμηση</SortBy>
+  <!-- EN: trader type -->
   <TraderTypePrice>είδος εμπόρου</TraderTypePrice>
-  <Selling>πουλάει selling</Selling>
-  <Buying>αγοράζει buying</Buying>
+  <!-- EN: selling -->
+  <Selling>πουλάει</Selling>
+  <!-- EN: buying -->
+  <Buying>αγοράζει</Buying>
+  <!-- EN: item sell price multiplier -->
   <ItemSellPriceFactor>πολλαπλασιαστής τιμής πώλησης αντικειμένου</ItemSellPriceFactor>
+  <!-- EN: difficulty level -->
   <DifficultyLevel>βαθμός δυσκολίας</DifficultyLevel>
+  <!-- EN: global post-process curve -->
   <PostCurve>παγκόσμια καμπύλη μετά την επεξεργασία</PostCurve>
+  <!-- EN: Your negotiator bonus -->
   <YourNegotiatorBonus>Το μπόνους του διαπραγματευτή σας</YourNegotiatorBonus>
+  <!-- EN: Trading with faction base bonus -->
   <TradeWithFactionBaseBonus>Βασικό μπόνους εμπορίου με την φατρία</TradeWithFactionBaseBonus>
+  <!-- EN: minimum -->
   <minimum>ελάχιστο</minimum>
+  <!-- EN: Final price -->
   <FinalPrice>Τελική τιμή</FinalPrice>
-  <TradeMassUsageTooltip>Το αποτέλεσμα της χρησιμοποιούμενης ποσότητας και της χωρητικότητας.</TradeMassUsageTooltip>
+  <!-- EN: Gift mode - offer gifts to {0}. -->
+  <GiftModeTip>Λειτουργία δωρεάς - προσφορά δώρων σε {0}</GiftModeTip>
+  <!-- EN: Return to trade mode. -->
+  <TradeModeTip>Επιστροφή σε λειτουργία εμπορίου</TradeModeTip>
 
-  <!-- Σχήμα καραβανιού (Form caravan) -->
+  <!-- Sellable items -->
+  <!-- EN: Things this trader will buy -->
+  <SellableItemsTitle>Πράγματα που ο έμπορος θα αγοράσει</SellableItemsTitle>
+  <!-- EN: Creatures -->
+  <PawnsTabShort>Πλάσματα</PawnsTabShort>
+  
+  <!-- Form caravan -->
+  <!-- EN: Form caravan -->
   <FormCaravan>Σχήμα καραβανιού</FormCaravan>
-  <FormCaravanColonyThingCountTip>Πόσα από αυτό το αντικείμενο η αποικία είναι έτοιμη να δώσει στο καραβάνι.</FormCaravanColonyThingCountTip>
+  <!-- EN: Number available to send with the caravan. -->
+  <FormCaravanColonyThingCountTip>Διαθέσιμη ποσότητα για αποστολή με το καραβάνι.</FormCaravanColonyThingCountTip>
+  <!-- EN: People and animals -->
   <PawnsTab>Άνθρωποι και ζώα</PawnsTab>
+  <!-- EN: Items -->
   <ItemsTab>Αντικείμενα</ItemsTab>
-  <CaravanConfigTab>Διαμόρφωση</CaravanConfigTab>
-  <CaravanMustHaveAtLeastOneColonist>Πρέπει να εκχωρήσετε τουλάχιστον έναν μη κατηφή άποικο.</CaravanMustHaveAtLeastOneColonist>
+  <!-- EN: You must assign at least one non-downed colonist. -->
+  <CaravanMustHaveAtLeastOneColonist>Πρέπει να εκχωρήσετε τουλάχιστον έναν μη ανήμπορο άποικο.</CaravanMustHaveAtLeastOneColonist>
+  <!-- EN: The chosen exit location ({0}) is inaccessible. -->
   <CaravanCouldNotFindExitSpot>Η επιλεχθέν τοποθεσία εξόδου ({0}) είναι απροσπέλαστη.</CaravanCouldNotFindExitSpot>
+  <!-- EN: Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
   <CaravanCouldNotFindPackingSpot>Δεν ήταν δυνατή η εύρεση έγκυρου σημείου συσκευασίας. Βεβαιωθείτε ότι η επιλεγμένη θέση εξόδου ({0}) είναι προσβάσιμη.</CaravanCouldNotFindPackingSpot>
-  <CaravanCouldNotFindReachableExitSpot>Προειδοποίηση: ορισμένοι από τους επιλεγμένους αποίκους δεν μπορούν να φτάσουν στην τοποθεσία εξόδου ({0}).</CaravanCouldNotFindReachableExitSpot>
-  <CaravanPawnIsUnreachable>{0} είναι απρόσιτη από κάθε επιλεγμένο άποικο.</CaravanPawnIsUnreachable>
+  <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
+  <CaravanCouldNotFindReachableExitSpot>Προειδοποίηση: Ορισμένοι από τους επιλεγμένους αποίκους δεν μπορούν να φτάσουν στην τοποθεσία εξόδου ({0}).</CaravanCouldNotFindReachableExitSpot>
+  <!-- EN: {1_labelShort} is unreachable by any of the assigned colonists. -->
+  <CaravanPawnIsUnreachable>{1_labelShort} είναι απρόσιτη από κάθε επιλεγμένο άποικο.</CaravanPawnIsUnreachable>
+  <!-- EN: None of the assigned colonists are able to reach the {0}. -->
   <CaravanItemIsUnreachableSingle>Κανείς από τους επιλεγμένους αποίκους δεν είναι σε θέση να φτάσει {0}.</CaravanItemIsUnreachableSingle>
+  <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
   <CaravanItemIsUnreachableMulti>Κανείς από τους επιλεγμένους αποίκους δεν είναι σε θέση να φτάσει {0}x {1}.</CaravanItemIsUnreachableMulti>
+  <!-- EN: The caravan can't carry that much. -->
   <TooBigCaravanMassUsage>Το καραβάνι δεν μπορεί να μεταφέρει τόσα πολλά.</TooBigCaravanMassUsage>
-  <CaravanMassUsageTooltip>Η τρέχουσα χρησιμοποιούμενη ποσότητα και η χωρητικότητα.\n\nΗ χρησιμοποιούμενη ποσότητα περιλαμβάνει τα εκχωρημένα εφόδια του καραβανιού καθώς και τον τρέχοντα εξοπλισμό των αποίκων.\n\nΔεν θα μπορείτε να στείλετε το καραβάνι εάν η χρησιμοποιούμενη ποσότητα υπερβαίνει τη χωρητικότητα.</CaravanMassUsageTooltip>
-  <MassUsageInfo>{0} / {1} κιλά</MassUsageInfo>
-  <DaysWorthOfFoodInfo>{0} ημέρες αντοχής φαγητού</DaysWorthOfFoodInfo>
-  <DaysWorthOfFoodInfoRot>{0} ημέρες αντοχής φαγητού, σήψη σε {1} ημέρες</DaysWorthOfFoodInfoRot>
-  <InfiniteDaysWorthOfFoodInfo>Ποτέ δεν θα ξεμείνετε από φαγητό</InfiniteDaysWorthOfFoodInfo>
-  <DaysWorthOfFoodTooltip>Ένας κατά προσέγγιση αριθμός ημερών πριν από την εξάντληση τροφής του καραβανιού.\n\nΛαμβάνει υπόψη τόσο την τροφή των ανθρώπων και των ζώων, όσο και το χειρότερο σενάριο. Αυτό σημαίνει ότι μετά από αρκετές ημέρες, τουλάχιστον ένα άτομο ή ζώο δεν θα μπορεί να τραφεί.</DaysWorthOfFoodTooltip>
-  <DaysWorthOfFoodTooltip_CanEatLocalPlants>Με βάση την τρέχουσα εποχή, τη θερμοκρασία και τις γύρω περιοχές υποθέτουμε ότι ΘΑ είναι δυνατό για τα φυτοφάγα ζώα να τρώνε τοπική βλάστηση. Αυτό όμως μπορεί να αλλάξει ανά πάσα στιγμή.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
-  <DaysWorthOfFoodTooltip_CantEatLocalPlants>Με βάση την τρέχουσα εποχή, τη θερμοκρασία και τις γύρω περιοχές υποθέτουμε ότι ΔΕΝ ΘΑ είναι δυνατό για τα φυτοφάγα ζώα να τρώνε τοπική βλάστηση. Αυτό όμως μπορεί να αλλάξει ανά πάσα στιγμή.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
+  <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
+  <CaravanMassUsageTooltip>Περιλαμβάνει τα αντικείμενα που μεταφέρονται και τα αντικείμενα του εξοπλισμού. Η ποσότητα μεταφοράς κάτω από το μέγιστο δίνει ένα μπόνους ταχύτητας.</CaravanMassUsageTooltip>
+  <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
+  <CaravanVisibilityTip>Η ορατότητα είναι το πόσο εύκολο είναι να εντοπιστεί το καραβάνι σου.\n\nΑυτή πολλαπλασιάζει την πιθανότητα το καραβάνι σου να πέσει σε ενέδρα των εχθρών.\n\nΗ ορατότητα δεν επηρεάζει την ικανότητά σου να βρεις τα πράγματα που θέλεις.\n\nΗ ορατότητα βασίζεται στο συνολικό μέγεθος του σώματος όλων των ανθρώπων και των ζώων στο καραβάνι.</CaravanVisibilityTip>
+  <!-- EN: Days of food -->
+  <DaysWorthOfFood>Ημέρες φαγητού</DaysWorthOfFood>
+  <!-- EN: rot in {0} -->
+  <DaysWorthOfFoodInfoRot>σήψη σε {0}</DaysWorthOfFoodInfoRot>
+  <!-- EN: Unlimited -->
+  <InfiniteDaysWorthOfFoodInfo>Απεριόριστες</InfiniteDaysWorthOfFoodInfo>
+  <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
+  <DaysWorthOfFoodTooltip>Ένας κατά προσέγγιση αριθμός ημερών πριν από ένα τουλάχιστον άτομο ή ζώο ξεμείνει από φαγητό. Διαφορετικά είδη έχουν διαφορετικές δίαιτες, οπότε κάποιος μπορεί να ξεμείνει από φαγητό πριν από τους άλλους. Αυτή η τιμή υπολογίζεται με μεγαλύτερη ακρίβεια μετά την επιλογή της διαδρομής.\n\nΕπηρεάζετε από:\n - Τον τύπος και την ποσότητα των μεταφερθέντων τροφίμων\n - Τα μέλη του καραβανιού και τη διατροφή τους\n - Το βαθμό συλλογής τροφής\n - Το ποσοστό βοσκής των ζώων\n - Το χρόνο μέχρι να σαπίσουν τα τρόφιμα\n - Το ζεστό καιρό που επιταχύνει την αλλοίωση των τροφίμων.</DaysWorthOfFoodTooltip>
+  <!-- EN: (only the first waypoint is taken into account) -->
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(λαμβάνεται υπόψη μόνο το πρώτο σημείο αναφοράς)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
   <DaysWorthOfFoodWarningDialog>Το καραβάνι σου έχει μόνο {0} μέρες ποσότητα φαγητού και πολύ σύντομα θα πεινάσει.</DaysWorthOfFoodWarningDialog>
+  <!-- EN: Your caravan has no food and will become hungry very quickly. -->
   <DaysWorthOfFoodWarningDialog_NoFood>Το καραβάνι σου δεν έχει τροφή και πολύ σύντομα θα πεινάσει.</DaysWorthOfFoodWarningDialog_NoFood>
-  <CaravanFoodWillRotSoonWarningDialog>Ένα μεγάλο μέρος της εκχωρημένης τροφής σύντομα θα σαπίσει.</CaravanFoodWillRotSoonWarningDialog>
+  <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
+  <ForagedFoodPerDayTip>Η μέση ημερήσια ποσότητα φαγητού που οι άνθρωποί σου θα συλλέξουν. Αυτή η τιμή θα αλλάζει καθώς ταξιδεύετε σε βιότοπους με διαφορετικούς ρυθμούς παραγωγής ζωοτροφών.</ForagedFoodPerDayTip>
+  <!-- EN: Forage per day -->
+  <ForagedFoodPerDay>Ημερήσια συγκομιδή</ForagedFoodPerDay>
+  <!-- EN: A large part of the caravan's food will rot soon. -->
+  <CaravanFoodWillRotSoonWarningDialog>Ένα μεγάλο μέρος της τροφής του καραβανιού σύντομα θα σαπίσει.</CaravanFoodWillRotSoonWarningDialog>
+  <!-- EN: You have no caravan members capable of diplomacy or trading. -->
   <CaravanIncapableOfSocial>Δεν υπάρχουν μέλη του καραβανιού ικανά για διπλωματία ή εμπόριο.</CaravanIncapableOfSocial>
-  <CaravanAreYouSure>Είστε βέβαιοι ότι θέλετε να διαμορφώσετε αυτό το καραβάνι;</CaravanAreYouSure>
-  <NoExitDirectionForCaravanChosen>Πρέπει να επιλέξετε μια κατεύθυνση εξόδου για το καραβάνι.</NoExitDirectionForCaravanChosen>
-  <NoCaravanExitDirectionAvailable>(καμία διαθέσιμη κατεύθυνση εξόδου)</NoCaravanExitDirectionAvailable>
-  <ExitDirection>Κατεύθυνση εξόδου</ExitDirection>
-  <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
+  <!-- EN: Are you sure you want to form this caravan? -->
+  <CaravanAreYouSure>Είσαι βέβαιος ότι θέλεις να διαμορφώσεις αυτό το καραβάνι;</CaravanAreYouSure>
+  <!-- EN: You must choose a route for the caravan first. -->
+  <MessageMustChooseRouteFirst>Πρέπει πρώτα να επιλέξεις μία διαδρομή για το καραβάνι</MessageMustChooseRouteFirst>
+  <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
+  <MessageNoValidExitTile>Το καραβάνι σου δεν μπορεί να εγκαταλείψει την περιοχή. Βεβαιώσου ότι είναι προσβάσιμη τουλάχιστον μία πλευρά.</MessageNoValidExitTile>
+  <!-- EN: Weight of this item. -->
   <ItemWeightTip>Βάρος αυτού του αντικειμένου.</ItemWeightTip>
+  <!-- EN: Market value -->
   <MarketValueTip>Αξία αγοράς</MarketValueTip>
+  <!-- EN: The number of days until this item starts to rot based on the average temperature in this area. -->
   <DaysUntilRotTip>Ο αριθμός τον ημερών μέχρι αυτό το αντικείμενο να αρχίσει να αλλοιώνετε με βάση τη μέση θερμοκρασία σε αυτή την περιοχή.</DaysUntilRotTip>
+  <!-- EN: How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day. -->
+  <ItemNutritionTip>Πόσα θρεπτικά στοιχεία παρέχει αυτό το φαγητό.\n\nΑναφορικά: ένας ενήλικας χρειάζεται {0} θρεπτικά στοιχεία ανά ημέρα</ItemNutritionTip>
+  <!-- EN: This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
+  <AnimalCanGrazeTip>Αυτό το ζώο μπορεί να βόσκει τροφή από το περιβάλλον αντί να καταναλώνει το μεταφερμένο φαγητό. Η βόσκηση είναι δυνατή μόνο σε μερικούς βιότοπος και συγκεκριμένο εύρος θερμοκρασιών.</AnimalCanGrazeTip>
+  <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
+  <NutritionForagedPerDayTip>Η συγκομιδή τροφής ανά ημέρα. Η πραγματική ποσότητα που συλλέγεται επηρεάζεται επίσης από την δυνατότητα τροφοσυλλογής του βιότοπου.\n\n{0}</NutritionForagedPerDayTip>
+  <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1}. -->
+  <NutritionEatenPerDayTip>Τα θρεπτικά στοιχεία που καταναλώνονται ανά ημέρα. Αναφορικά, τα απλά γεύματα έχουν {0} θρεπτικά στοιχεία\n\nΜπορείς να φας: {2}\n\nΥπόμνημα:\n{1}.</NutritionEatenPerDayTip>
+  <!-- EN: Mass carried -->
+  <MassCarriedSimple>Μεταφερόμενη ποσότητα</MassCarriedSimple>
+  <!-- EN: Mass capacity -->
   <MassCapacity>Χωρητικότητα</MassCapacity>
+  <!-- EN: Mass -->
   <Mass>Ποσότητα</Mass>
+  <!-- EN: Caravan mass -->
+  <CaravanMass>Ποσότητα καραβανιού</CaravanMass>
+  <!-- EN: Equipment and apparel mass -->
   <EquipmentAndApparelMass>Ποσότητα εξοπλισμού και ενδυμάτων</EquipmentAndApparelMass>
+  <!-- EN: Inventory mass -->
   <InventoryMass>Ποσότητα αποθέματος</InventoryMass>
-  <CaravanFormationProcessStarted>Οι άποικοι σου τώρα θα πάρουν τα επιλεγμένα αντικείμενα και θα φύγουν από την περιοχή το συντομότερο δυνατών.</CaravanFormationProcessStarted>
-  <ReformCaravan>Μεταρρύθμιση καραβανιού</ReformCaravan>
+  <!-- EN: Your colonists will now gather the items and leave the area. -->
+  <CaravanFormationProcessStarted>Οι άποικοι σου τώρα θα πάρουν τα επιλεγμένα αντικείμενα και θα φύγουν από την περιοχή.</CaravanFormationProcessStarted>
+  <!-- EN: Reform caravan -->
+  <ReformCaravan>Αναμόρφωση καραβανιού</ReformCaravan>
+  <!-- EN: Colonists -->
   <ColonistsSection>Άποικοι</ColonistsSection>
+  <!-- EN: Prisoners -->
   <PrisonersSection>Φυλακισμένοι</PrisonersSection>
+  <!-- EN: Capture -->
+  <CaptureSection>Αιχμάλωτοι</CaptureSection>
+  <!-- EN: Animals -->
   <AnimalsSection>Ζώα</AnimalsSection>
-  <EstimatedTimeToDestinationButton>Εκτιμώμενος χρόνος για τον προορισμό</EstimatedTimeToDestinationButton>
+  <!-- EN: Choose route -->
+  <ChooseRouteButton>Επέλεξε διαδρομή</ChooseRouteButton>
+  <!-- EN: Abandon -->
   <AbandonButton>Εγκατάλειψη</AbandonButton>
+  <!-- EN: Movement speed -->
+  <CaravanMovementSpeed>Ταχύτητα κίνησης</CaravanMovementSpeed>
+  <!-- EN: tiles/day -->
+  <TilesPerDay>πλακίδια/ημέρα</TilesPerDay>
+  <!-- EN: Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty. -->
+  <CaravanMovementSpeedTip>Η ταχύτητα κίνησης εξαρτάται από τη μέση ταχύτητα όλων των ανθρώπων και των ζώων, τη μεταφερόμενη ποσότητα και τη δυσκολία κίνησης του εδάφους.</CaravanMovementSpeedTip>
+  <!-- EN: Animals will be able to graze -->
+  <AnimalsWillBeAbleToGraze>Τα ζώα θα μπορούν να βοσκήσουν</AnimalsWillBeAbleToGraze>
+  <!-- EN: Animals can graze -->
+  <AnimalsCanGraze>Τα ζώα μπορούν να βοσκήσουν</AnimalsCanGraze>
+  <!-- EN: (for {0} more days) -->
+  <PossibleToGrazeFor>(για {0} επιπλέον ημέρες)</PossibleToGrazeFor>
+  <!-- EN: (forever) -->
+  <PossibleToGrazeForever>(συνεχώς)</PossibleToGrazeForever>
+  <!-- EN: ({0}) -->
+  <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
+  <!-- EN: (too cold for {0} more days) -->
+  <CantGrazeBecauseOfTemp>(πολλή παγωνιά για {0} επιπλέον μέρες)</CantGrazeBecauseOfTemp>
+  <!-- EN: Total nutrition -->
+  <TotalNutrition>Συνολικά θρεπτικά στοιχεία</TotalNutrition>
+  <!-- EN: Not moving -->
+  <CaravanNotMoving>Δεν κινείται</CaravanNotMoving>
+  <!-- EN: Foraged nutrition per day -->
+  <ForagedNutritionPerDay>Συλλεχθέντα θρεπτικά στοιχεία ανά ημέρα</ForagedNutritionPerDay>
+  <!-- EN: Faction type -->
+  <FactionType>Είδος φατρίας</FactionType>
+  <!-- EN: Total body size -->
+  <TotalBodySize>Συνολικό μέγεθος σωμάτων</TotalBodySize>
 
-  <!-- Διαχωρισμός καραβανιού (Split caravan) -->
+  <!-- Split caravan -->
+  <!-- EN: Split caravan -->
   <SplitCaravan>Διαχωρισμός καραβανιού</SplitCaravan>
-  <SourceCaravanMustHaveAtLeastOneColonist>Πρέπει να αφήσετε τουλάχιστον έναν μη κατηφή άποικο.</SourceCaravanMustHaveAtLeastOneColonist>
-  <CaravanSplitSourceLabel>Τρέχων</CaravanSplitSourceLabel>
-  <CaravanSplitDestLabel>Νέο</CaravanSplitDestLabel>
+  <!-- EN: You must leave at least one non-downed colonist. -->
+  <SourceCaravanMustHaveAtLeastOneColonist>Πρέπει να αφήσετε τουλάχιστον έναν μη ανήμπορο άποικο.</SourceCaravanMustHaveAtLeastOneColonist>
+  <!-- EN: How many of this item the caravan has ready to give to the new caravan. -->
   <SplitCaravanThingCountTip>Πόσα από αυτό το αντικείμενο το καραβάνι είναι έτοιμο να δώσει στο καινούριο καραβάνι.</SplitCaravanThingCountTip>
-  <SplitCaravanMassUsageTooltip>Η τρέχουσα χρησιμοποιούμενη ποσότητα και η χωρητικότητα.</SplitCaravanMassUsageTooltip>
-
-  <!-- Φόρτωση μεταφορέων (Load transporters) -->
+  
+  <!-- Load transporters -->
+  <!-- EN: Load {0} -->
   <LoadTransporters>Φόρτωση {0}</LoadTransporters>
+  <!-- EN: The assigned people and items are too heavy for the transport pods. -->
   <TooBigTransportersMassUsage>Οι επιλεγμένοι άνθρωποι και τα αντικείμενα είναι πολύ βαριά για τις μεταφορικές ατράκτους.</TooBigTransportersMassUsage>
+  <!-- EN: You can't send empty transport pods. -->
   <CantSendEmptyTransportPods>Δεν μπορείτε να στείλετε άδειες μεταφορικές ατράκτους.</CantSendEmptyTransportPods>
-  <PawnCantReachTransporters>{0} δεν μπορεί να φτάσει στις μεταφορικές ατράκτους.</PawnCantReachTransporters>
+  <!-- EN: {1_labelShort} can't reach the transport pods. -->
+  <PawnCantReachTransporters>{1_labelShort} δεν μπορεί να φτάσει στις μεταφορικές ατράκτους.</PawnCantReachTransporters>
+  <!-- EN: There is no path between the transport pods and the {0}. -->
   <TransporterItemIsUnreachableSingle>Δεν υπάρχει πέρασμα μεταξύ των μεταφορικών ατράκτων και του {0}.</TransporterItemIsUnreachableSingle>
+  <!-- EN: There is no path between the transport pods and {0}x {1}. -->
   <TransporterItemIsUnreachableMulti>Δεν υπάρχει πέρασμα μεταξύ των μεταφορικών ατράκτων και του {0}x {1}.</TransporterItemIsUnreachableMulti>
-  <TransportersMassUsageTooltip>Η τρέχουσα χρησιμοποιούμενη ποσότητα και η χωρητικότητα.\n\nΔεν θα μπορείτε να στείλετε τις μεταφορικές ατράκτους εάν η χρησιμοποιούμενη ποσότητα υπερβαίνει τη χωρητικότητα.</TransportersMassUsageTooltip>
-
-  <!-- Επικοινωνία (Comms) -->
+  
+  <!-- Comms -->
+  <!-- EN: Social skill: {0} -->
   <SocialSkillIs>Κοινωνική ικανότητα: {0}</SocialSkillIs>
-
-  <!-- Έρευνα (Research) -->
+  
+  <!--Research-->
+  <!-- EN: Research finished: {0} -->
   <ResearchFinished>Ολοκληρωμένη έρευνα: {0}</ResearchFinished>
+  <!-- EN: Research Screen -->
   <ResearchScreen>Οθόνη Έρευνας</ResearchScreen>
-
-  <!-- Φόρτωση Ιστορικού (HistoryUpload) -->
+  
+  <!--HistoryUpload-->
+  <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
   <HistoryUploadMessage>Θέλετε να μεταφορτώσετε τα δεδομένα εγγραφών του τρόπου παιξίματος σας στο διακομιστή RimWorld για να βοηθήσετε τους προγραμματιστές να ισορροπήσουν το παιχνίδι; Εάν συμφωνείτε, τα δεδομένα σας θα μεταφορτωθούν κάθε {0} ημέρες (και σε ορισμένες άλλες σπάνιες περιπτώσεις, όπως το τέλος του παιχνιδιού). Οι προτιμήσεις απορρήτου μπορούν να τροποποιηθούν αργότερα από το μενού επιλογών.</HistoryUploadMessage>
+  <!-- EN: Even though history is sent anonymously, you can attach your name. -->
   <HistoryUploadMessagePlayerName>Παρόλο που το ιστορικό αποστέλλεται ανώνυμα, μπορείτε να επισυνάψετε το όνομά σας.</HistoryUploadMessagePlayerName>
+  <!-- EN: Allow uploading gameplay data -->
   <HistoryUploadYes>Αποδοχή μεταφόρτωσης δεδομένων τρόπου παιξίματος</HistoryUploadYes>
+  <!-- EN: Do not allow uploading gameplay data -->
   <HistoryUploadNo>Δεν επιτρέπετε η μεταφόρτωση δεδομένων τρόπου παιξίματος</HistoryUploadNo>
+  <!-- EN: Upload only this time -->
   <HistoryUploadYesOnce>Μεταφόρτωση μόνο αυτή τη φορά</HistoryUploadYesOnce>
+  <!-- EN: Do not upload this time, ask me later -->
   <HistoryUploadNoOnce>Δεν θα ανεβούν αυτή τη φορά, ρωτήστε με αργότερα</HistoryUploadNoOnce>
-
-  <!-- Διαχείριση ρουχισμού (Outfit management) -->
+  
+  <!-- Outfit management -->
+  <!-- EN: Outfit -->
   <Outfit>Ρουχισμός</Outfit>
+  <!-- EN: Select outfit... -->
   <SelectOutfit>Επιλογή ρουχισμού...</SelectOutfit>
+  <!-- EN: New outfit -->
   <NewOutfit>Νέος ρουχισμός</NewOutfit>
+  <!-- EN: Delete outfit... -->
   <DeleteOutfit>Διαγραφή ρουχισμού...</DeleteOutfit>
+  <!-- EN: Outfit is in use by {0}. -->
   <OutfitInUse>Ο ρουχισμός φοριέται από {0}.</OutfitInUse>
+  <!-- EN: No outfit selected -->
   <NoOutfitSelected>Δεν επιλέχτηκε ρουχισμός</NoOutfitSelected>
-
-  <!-- Διαχείριση πολιτικής ναρκωτικών (Drug policy management) -->
+  
+  <!-- Drug policy management -->
+  <!-- EN: Drug policy -->
   <DrugPolicy>Πολιτική ναρκωτικών</DrugPolicy>
+  <!-- EN: Select policy... -->
   <SelectDrugPolicy>Επιλογή πολιτικής...</SelectDrugPolicy>
+  <!-- EN: New policy -->
   <NewDrugPolicy>Νέα πολιτική</NewDrugPolicy>
+  <!-- EN: Delete policy... -->
   <DeleteDrugPolicy>Διαγραφή πολιτικής...</DeleteDrugPolicy>
+  <!-- EN: Drugs policy is in use by {0}. -->
   <DrugPolicyInUse>Η πολιτική ναρκωτικών χρησιμοποιείται από {0}.</DrugPolicyInUse>
+  <!-- EN: Food restriction is in use by {0}. -->
+  <FoodRestrictionInUse>Ο περιορισμός των τροφίμων χρησιμοποιείται από {0}</FoodRestrictionInUse>
+  <!-- EN: Social drugs -->
   <SocialDrugs>Κοινωνικά ναρκωτικά</SocialDrugs>
+  <!-- EN: No drugs -->
   <NoDrugs>Χωρίς ναρκωτικά</NoDrugs>
+  <!-- EN: One drink per day -->
   <OneDrinkPerDay>Ένα ναρκωτικό την μέρα</OneDrinkPerDay>
+  <!-- EN: Unrestricted -->
   <Unrestricted>Απεριόριστα</Unrestricted>
+  <!-- EN: No drug policy selected -->
   <NoDrugPolicySelected>Δεν επιλέχτηκε πολιτική ναρκωτικού</NoDrugPolicySelected>
+  <!-- EN: Add drug... -->
   <AddDrug>Προσθήκη ναρκωτικού...</AddDrug>
+  <!-- EN: Drug -->
   <DrugColumnLabel>Ναρκωτικό</DrugColumnLabel>
+  <!-- EN: Usage -->
   <DrugUsageColumnLabel>Χρήση</DrugUsageColumnLabel>
+  <!-- EN: Frequency -->
   <FrequencyColumnLabel>Συχνότητα</FrequencyColumnLabel>
+  <!-- EN: Only if mood below -->
   <MoodThresholdColumnLabel>Μόνο εάν η διάθεση είναι κάτω από</MoodThresholdColumnLabel>
+  <!-- EN: Only if recreation below -->
   <JoyThresholdColumnLabel>Μόνο εάν η χαρά είναι κάτω από</JoyThresholdColumnLabel>
+  <!-- EN: Take to inventory -->
   <TakeToInventoryColumnLabel>Βάλε στο απόθεμα</TakeToInventoryColumnLabel>
+  <!-- EN: (no drugs) -->
   <NoDrugsBrackets>(χωρίς ναρκωτικά)</NoDrugsBrackets>
+  <!-- EN: Every day -->
   <EveryDay>Κάθε μέρα</EveryDay>
+  <!-- EN: {0} times per day -->
   <TimesPerDay>{0} φόρες τη μέρα</TimesPerDay>
+  <!-- EN: Every {0} days -->
   <EveryDays>Κάθε {0} μέρες</EveryDays>
+  <!-- EN: Any -->
   <NoDrugUseRequirement>Κάθε</NoDrugUseRequirement>
+  <!-- EN: Delete this drug. -->
   <DeleteDrugTooltip>Διαγραφή αυτού του ναρκωτικού.</DeleteDrugTooltip>
+  <!-- EN: The name of a drug. -->
   <DrugNameColumnDesc>Το όνομα του ναρκωτικού.</DrugNameColumnDesc>
+  <!-- EN: How the drug is allowed to be used. -->
   <DrugUsageColumnDesc>Πως το ναρκωτικό θα επιτρέπετε να χρησιμοποιείται.</DrugUsageColumnDesc>
+  <!-- EN: How often the colonists should try to take this drug. -->
   <FrequencyColumnDesc>Πόσο συχνά οι άποικοι θα δοκιμάζουν να παίρνουν αυτό το ναρκωτικό.</FrequencyColumnDesc>
+  <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
   <MoodThresholdColumnDesc>Οι άποικοι θα παίρνουν αυτό το ναρκωτικό μόνο αν το επίπεδο της διάθεσή τους είναι κάτω από αυτό το όριο.</MoodThresholdColumnDesc>
+  <!-- EN: The colonists will take this drug only if their recreation level is below this threshold. -->
   <JoyThresholdColumnDesc>Οι άποικοι θα παίρνουν αυτό το ναρκωτικό μόνο αν το επίπεδο της χαράς τους είναι κάτω από αυτό το όριο.</JoyThresholdColumnDesc>
+  <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
   <TakeToInventoryColumnDesc>Η ποσότητα του ναρκωτικού που θα πάρει επιπλέον όταν το περισυλλέξει για κατανάλωση, προκειμένου να αποφευχθεί η επίσκεψη στην αποθήκη ναρκωτικών κάθε φορά.</TakeToInventoryColumnDesc>
-  <DrugUsageTipForAddiction>Για εθισμούς\n\nΧρησιμοποιήστε αυτό το ναρκωτικό για να τροφοδοτήσετε τις ήδη καθιερωμένες ανάγκες εξάρτησης.\n\nΑκόμη και αν είναι απενεργοποιημένο, μερικοί χαρακτήρες με συγκεκριμένα χαρακτηριστικά ή σε διανοητικές αστάθειες, μπορεί να χρησιμοποιήσουν το ναρκωτικό ούτως ή άλλως.</DrugUsageTipForAddiction>
-  <DrugUsageTipForJoy>Για απόλαυση\n\nΧρησιμοποιήστε αυτό το ναρκωτικό για χαρά και κοινωνικούς σκοπούς\n\nΑκόμη και αν είναι απενεργοποιημένο, μερικοί χαρακτήρες με συγκεκριμένα χαρακτηριστικά ή σε διανοητικές αστάθειες, μπορεί να χρησιμοποιήσουν το ναρκωτικό ούτως ή άλλως.</DrugUsageTipForJoy>
+  <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
+  <DrugUsageTipForAddiction>Για εθισμούς\n\nΧρησιμοποιήστε αυτό το ναρκωτικό για να τροφοδοτήσετε τις ήδη καθιερωμένες ανάγκες εξάρτησης.\n\nΑκόμη και αν είναι απενεργοποιημένο, μερικοί χαρακτήρες με συγκεκριμένα χαρακτηριστικά ή με διανοητικές αστάθειες, μπορεί να χρησιμοποιήσουν το ναρκωτικό ούτως ή άλλως.</DrugUsageTipForAddiction>
+  <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
+  <DrugUsageTipForJoy>Για απόλαυση\n\nΧρησιμοποιήστε αυτό το ναρκωτικό για χαρά και κοινωνικούς σκοπούς\n\nΑκόμη και αν είναι απενεργοποιημένο, μερικοί χαρακτήρες με συγκεκριμένα χαρακτηριστικά ή με διανοητικές αστάθειες, μπορεί να χρησιμοποιήσουν το ναρκωτικό ούτως ή άλλως.</DrugUsageTipForJoy>
+  <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
   <DrugUsageTipScheduled>Προγραμματισμένα\n\nΧρησιμοποιήστε αυτό το ναρκωτικό σε ένα καθορισμένο χρονοδιάγραμμα, όταν πληρούνται συγκεκριμένες προϋποθέσεις.</DrugUsageTipScheduled>
 
-  <!-- Ρυθμίσεις φαρμάκων (Medical settings) -->
+  <!-- Food restriction management -->
+  <!-- EN: Food restriction -->
+  <FoodRestriction>Διατροφή</FoodRestriction>
+  <!-- EN: Lavish -->
+  <FoodRestrictionLavish>Πολυτελή</FoodRestrictionLavish>
+  <!-- EN: Fine -->
+  <FoodRestrictionFine>Ωραίο</FoodRestrictionFine>
+  <!-- EN: Simple -->
+  <FoodRestrictionSimple>Απλό</FoodRestrictionSimple>
+  <!-- EN: Paste -->
+  <FoodRestrictionPaste>Χυλός</FoodRestrictionPaste>
+  <!-- EN: Raw -->
+  <FoodRestrictionRaw>Ωμό</FoodRestrictionRaw>
+  <!-- EN: Nothing -->
+  <FoodRestrictionNothing>Τίποτα</FoodRestrictionNothing>
+  <!-- EN: Select food restriction -->
+  <SelectFoodRestriction>Επιλογή περιορισμού</SelectFoodRestriction>
+  <!-- EN: New food restriction -->
+  <NewFoodRestriction>Νέος περιορισμός</NewFoodRestriction>
+  <!-- EN: Delete food restriction -->
+  <DeleteFoodRestriction>Διαγραφή περιορισμού</DeleteFoodRestriction>
+  <!-- EN: No food restriction selected -->
+  <NoFoodRestrictionSelected>Δεν έχει επιλεχτεί περιορισμός φαγητού</NoFoodRestrictionSelected>
+
+  <!-- Medical settings -->
+  <!-- EN: Defaults -->
   <MedGroupDefaults>Προεπιλογή</MedGroupDefaults>
+  <!-- EN: Colonist -->
   <MedGroupColonist>Άποικος</MedGroupColonist>
+  <!-- EN: Imprisoned colonist -->
   <MedGroupImprisonedColonist>Φυλακισμένος άποικος</MedGroupImprisonedColonist>
+  <!-- EN: Colony animal -->
   <MedGroupColonyAnimal>Ζώο αποικίας</MedGroupColonyAnimal>
+  <!-- EN: Neutral animal -->
   <MedGroupNeutralAnimal>Ουδέτερο ζώο</MedGroupNeutralAnimal>
+  <!-- EN: Neutral faction -->
   <MedGroupNeutralFaction>Ουδέτερη φατρία</MedGroupNeutralFaction>
+  <!-- EN: Hostile faction -->
   <MedGroupHostileFaction>Εχθρική φατρία</MedGroupHostileFaction>
+  
+  <!-- Growing -->
+  <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
+  <NoGrowerCanPlant>{0} απαιτεί {1} ικανότητα στην Καλλιέργεια για τη σπορά.\n\nΚανένας από τους μη ανήμπορους καλλιεργητές σας δεν έχει αυτή την ικανότητα, οπότε αυτό το φυτό δεν θα σπαρθεί.</NoGrowerCanPlant>
 
-  <!-- Καλλιέργεια (Growing) -->
-  <NoGrowerCanPlant>{0} απαιτεί {1} ικανότητα στην Καλλιέργεια για τη σπορά. Κανένας από τους μη κατηφείς καλλιεργητές σας δεν έχει αυτή την ικανότητα, οπότε αυτό το φυτό δεν θα σπαρθεί.</NoGrowerCanPlant>
-
-  <!-- Εγκαταλειμμένο σπίτι (Abandon home) -->
+  <!-- Abandon home -->
+  <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
   <ConfirmAbandonHomeWithColonyPawns>Μερικοί από τους αποίκους ή τα ζώα σας βρίσκονται σε αυτήν την περιοχή. Είστε βέβαιοι ότι θέλετε να τους εγκαταλείψετε;\n\nΟι παρακάτω άνθρωποι και ζώα θα μείνουν πίσω:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <!-- EN: Abandoning {0} will cause the following people to get the following thoughts: -->
   <ConfirmAbandonHomeNegativeThoughts>Η εγκατάλειψη του {0} θα προκαλέσει στους συνανθρώπους του τις παρακάτω σκέψεις:</ConfirmAbandonHomeNegativeThoughts>
+  <!-- EN: Everyone: -->
   <ConfirmAbandonHomeNegativeThoughts_Everyone>Όλοι:</ConfirmAbandonHomeNegativeThoughts_Everyone>
-
-  <!-- Μετακίνησε το καραβάνι και άφησε πίσω φυλακισμένους και ζώα (Move caravan and leave prisoners and animals behind) -->
-  <ConfirmLeavePrisonersOrAnimalsBehind>Υπάρχουν ακόμη κάποιοι φυλακισμένοι ή ζώα που έχουν απομείνει σε αυτή τη περιοχή και αυτό είναι το μοναδικό καραβάνι που μπορούν να ενταχθούν αυτή τη στιγμή.\n\nΑν μετακινήσετε το καραβάνι σας, δεν θα μπορέσουν να φύγουν από την περιοχή μέχρι να επιστρέψετε. Οι φυλακισμένοι θα αρχίσουν να δραπετεύουν, ενώ τα ζώα θα σας περιμένουν.\n\nΑν αποφασίσετε να περιμένετε, θα προσπαθήσουν να ενταχθούν στο καραβάνι σας το συντομότερο δυνατό.\n\nΕίστε βέβαιοι ότι θέλετε να μετακινήσετε το καραβάνι σας;</ConfirmLeavePrisonersOrAnimalsBehind>
-
-  <!-- Εγκατάλειψη πιονιού (Abandon pawn) -->
-  <ConfirmBanishPawnDialog>Θέλετε να εγκαταλείψετε {0}?</ConfirmBanishPawnDialog>
-  <ConfirmBanishPawnDialog_LeftToDie>{0} πιθανότατα θα πεθάνει.</ConfirmBanishPawnDialog_LeftToDie>
-  <ConfirmBanishPawnDialog_Items>{0} θα πάρει ΜΑΖΊ ΤΟΥ τα ακόλουθα αντικείμενα:</ConfirmBanishPawnDialog_Items>
+  
+  <!-- Move caravan and leave prisoners and animals behind -->
+  <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
+  <ConfirmMoveAutoJoinableCaravan>Ορισμένα ζώα ή φυλακισμένοι προσπαθούν να ενταχθούν σε αυτό το καραβάνι. Αν το μετακινήσεις, δεν θα μπορούν πλέον να ενταχθούν.\n\nΤα ζώα, οι φυλακισμένοι και οι ανήμποροι άποικοι που εγκαταλείπονται  σ' έναν χάρτη, χωρίς να έχουν μη ανήμπορους αποίκους, θεωρούνται εγκαταλελειμμένοι και μπορούν να συλληφθούν από τους εχθρούς.\n\nΕίσαι βέβαιος ότι θέλεις να μετακινήσεις το καραβάνι σου;</ConfirmMoveAutoJoinableCaravan>
+  
+  <!-- Abandon pawn -->
+  <!-- EN: Do you really want to banish {1_label}? -->
+  <ConfirmBanishPawnDialog>Θέλετε να εγκαταλείψετε {1_label}?</ConfirmBanishPawnDialog>
+  <!-- EN: {1_labelShort} will most likely die. -->
+  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort} πιθανότατα θα πεθάνει.</ConfirmBanishPawnDialog_LeftToDie>
+  <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
+  <ConfirmBanishPawnDialog_Items>{1_labelShort} θα πάρει μαζί {1_objective} τα ακόλουθα αντικείμενα:</ConfirmBanishPawnDialog_Items>
+  <!-- EN: All colonists will get the following thoughts: -->
   <ConfirmBanishPawnDialog_AllColonistsThoughts>Όλοι οι άποικοι έχουν τις ακόλουθες σκέψεις:</ConfirmBanishPawnDialog_AllColonistsThoughts>
-  <ConfirmBanishPawnDialog_IndividualThoughts>Η εγκατάλειψη του {0} θα προκαλέσει στους συνανθρώπους του τις παρακάτω σκέψεις:</ConfirmBanishPawnDialog_IndividualThoughts>
+  <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
+  <ConfirmBanishPawnDialog_IndividualThoughts>Η εγκατάλειψη {1_objective} {1_labelShort} θα προκαλέσει στους συνανθρώπους {1_objective} τις παρακάτω σκέψεις:</ConfirmBanishPawnDialog_IndividualThoughts>
 
-  <!-- Στείλτε μεταφορικές ατράκτους που δεν είναι πλήρως φορτωμένες (Send transport pods which are not completely loaded) -->
-  <ConfirmSendNotCompletelyLoadedPods>Η ομάδα ατράκτου δεν είναι πλήρως φορτωμένη. {0} λείπει. Εκτόξευση ούτως ή άλλως;</ConfirmSendNotCompletelyLoadedPods>
+  <!-- Send transport pods which are not completely loaded -->
+  <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
+  <ConfirmSendNotCompletelyLoadedPods>Η ομάδα ατράκτου δεν είναι πλήρως φορτωμένη. {1_labelShort} λείπει. Εκτόξευση ούτως ή άλλως;</ConfirmSendNotCompletelyLoadedPods>
+
+  <!-- Settle near a faction base -->
+  <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
+  <ConfirmSettleNearFactionBase>Επειδή αυτή η θέση βρίσκεται εντός {0} πλακιδίων μιας άλλης βάσης φατρίας, θα αισθάνονται ότι καταπατείται η γη τους και οι σχέσεις με αυτές τις φατρίες θα επιδεινώνεται κάθε {1} ημέρες.\n\nΑποίκηση εδώ ούτως ή άλλως;</ConfirmSettleNearFactionBase>
+  
+  <!-- Cleanup translation files -->
+  <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
+  <ConfirmCleanupTranslationFiles>Είσαι βέβαιος ότι θέλεις να καθαρίσεις όλα τα αρχεία μετάφρασης για τη γλώσσα {0};\n\nΑυτό θα:\n - Προσθέσει δεσμευτικά (placeholders) για τις μεταφράσεις που λείπει το κλειδί, τις μεταφράσεις εισαχθέντων συναρτήσεων (def-injected) και τα παρελθόν (backstories)\n - Προσθέσει ή ενημερώσει τα σχόλια που περιέχουν το πρωτότυπο μη μεταφρασμένο κείμενο\n - Μετακινήσει όλες τις μεταφράσεις με κλειδί και τις εισαχθέντες συναρτήσεις (def-injected) στα κατάλληλα αρχεία XML\n - Εφαρμόσει αυτόματη μορφοποίηση σε όλα τα αρχεία XML\n - Ενημερώσει τα ονόματα των συναρτήσεων της προηγούμενης συμβατότητας\n - Καταργήσει όλα τα υπάρχοντα XML σχόλια (εκτός από τις προσθήκες πλήρους λίστας)\n\nΤα αρχεία που δεν είναι XML δεν θα καταργηθούν ή θα τροποποιηθούν.\n\nΘυμήσου να κάνεις επανεκκίνηση του παιχνιδιού μετά την τροποποίηση των αρχείων γλώσσας προτού εκτελέσεις αυτό το εργαλείο για να επαναφορτώσετε όλα τα δεδομένα.\n\nΒεβαιώσου ότι έχεις δημιουργήσει αντίγραφα ασφαλείας όλων των αρχείων μετάφρασης πριν χρησιμοποιήσεις αυτό το εργαλείο.</ConfirmCleanupTranslationFiles>
+  <!-- EN: Yes, I have a backup -->
+  <ConfirmCleanupTranslationFiles_Confirm>Ναι, έχω αντίγραφο</ConfirmCleanupTranslationFiles_Confirm>
+
+  <!-- Load transporters -->
+  <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
+  <TransportersCaravanWillBeImmobile>Το καραβάνι θα μείνει ακίνητο αν στείλεις τις ατράκτους σε ένα άδειο πλακίδιο. Συνέχεια ούτως ή άλλως;</TransportersCaravanWillBeImmobile>
+
 
 </LanguageData>

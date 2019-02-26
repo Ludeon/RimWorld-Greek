@@ -1,53 +1,88 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Shooting.label>σκόπευση</Shooting.label>
-  <Shooting.description>Χρήση όλων των ειδών εξ αποστάσεως όπλων.</Shooting.description>
-  <Shooting.skillLabel>σκόπευση</Shooting.skillLabel>
-
-  <Melee.label>σώμα με σώμα</Melee.label>
-  <Melee.description>Χρήση όλα τα είδη αγχέμαχων όπλων καθώς και για άοπλη μάχη.</Melee.description>
-  <Melee.skillLabel>σώμα με σώμα</Melee.skillLabel>
-
-  <Social.label>κοινωνικότητα</Social.label>
-  <Social.description>Διαπραγμάτευση, πείθωση, χειραγώγηση, καθοδήγηση και επευφημίες άλλων.</Social.description>
-  <Social.skillLabel>κοινωνικότητα</Social.skillLabel>
-
+  
+  <!-- EN: animals -->
   <Animals.label>ζώα</Animals.label>
+  <!-- EN: Taming, training, and controlling animals. -->
   <Animals.description>Περιποίηση, εκπαίδευση, διαχείριση και έλεγχος των ζώων.</Animals.description>
+  <!-- EN: animals -->
   <Animals.skillLabel>ζώα</Animals.skillLabel>
-
-  <Medicine.label>ιατρική</Medicine.label>
-  <Medicine.description>Θεραπεία τραυμάτων και ασθενειών και χειρουργική επέμβαση.</Medicine.description>
-  <Medicine.skillLabel>ιατρική</Medicine.skillLabel>
-
-  <Cooking.label>μαγειρική</Cooking.label>
-  <Cooking.description>Δημιουργία γευμάτων από ακατέργαστα συστατικά.</Cooking.description>
-  <Cooking.skillLabel>μαγειρική</Cooking.skillLabel>
-
-  <Construction.label>κατασκευή</Construction.label>
-  <Construction.description>Οι καλύτεροι κατασκευαστές φτιάχνουν δομές και έπιπλα γρηγορότερα και καλύτερης ποιότητας.</Construction.description>
-  <Construction.skillLabel>κατασκευή</Construction.skillLabel>
-
-  <Growing.label>καλλιέργεια</Growing.label>
-  <Growing.description>Σπορά, φροντίδα και συγκομιδή καλλιεργειών.</Growing.description>
-  <Growing.skillLabel>καλλιέργεια</Growing.skillLabel>
-
-  <Mining.label>εξόρυξη</Mining.label>
-  <Mining.description>Σκάψιμο σηράγγων και εξόρυξη ορυκτών ή θαμμένων πόρων.</Mining.description>
-  <Mining.skillLabel>εξόρυξη</Mining.skillLabel>
-
+  
+  <!-- EN: artistic -->
   <Artistic.label>τέχνη</Artistic.label>
+  <!-- EN: Crafting art. -->
   <Artistic.description>Δημιουργία τέχνης.</Artistic.description>
+  <!-- EN: artistic -->
   <Artistic.skillLabel>τέχνη</Artistic.skillLabel>
-
+  
+  <!-- EN: construction -->
+  <Construction.label>κατασκευή</Construction.label>
+  <!-- EN: Constructing and deconstructing structures and furniture. -->
+  <Construction.description>Κατασκευή και αποσυναρμολόγηση κατασκευών και επίπλων.</Construction.description>
+  <!-- EN: construction -->
+  <Construction.skillLabel>κατασκευή</Construction.skillLabel>
+  
+  <!-- EN: cooking -->
+  <Cooking.label>μαγειρική</Cooking.label>
+  <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
+  <Cooking.description>Δημιουργία γευμάτων από ακατέργαστα συστατικά γρήγορα και χωρίς τυχαία τροφική δηλητηρίαση.</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.skillLabel>μαγειρική</Cooking.skillLabel>
+  
+  <!-- EN: crafting -->
   <Crafting.label>χειροτεχνία</Crafting.label>
-  <Crafting.description>Κατασκευή γενικών ειδών, συμπεριλαμβανομένων όπλων και εργαλείων.</Crafting.description>
+  <!-- EN: Crafting general items including weapons, components, and refined resources. -->
+  <Crafting.description>Κατασκευή γενικών ειδών, συμπεριλαμβανομένων όπλων, εργαλείων και διυλισμένων προϊόντων.</Crafting.description>
+  <!-- EN: crafting -->
   <Crafting.skillLabel>χειροτεχνία</Crafting.skillLabel>
-
+  
+  <!-- EN: intellectual -->
   <Intellectual.label>διάνοια</Intellectual.label>
-  <Intellectual.description>Διερεύνηση αποδεικτικών στοιχείων, πραγματοποίηση συνδέσεων, υπολογισμός και χρήση λογικής.</Intellectual.description>
+  <!-- EN: Researching and drug synthesis. -->
+  <Intellectual.description>Έρευνα και σύνθεση φαρμάκων και ναρκωτικών.</Intellectual.description>
+  <!-- EN: intellectual -->
   <Intellectual.skillLabel>διάνοια</Intellectual.skillLabel>
-
-
+  
+  <!-- EN: medical -->
+  <Medicine.label>ιατρική</Medicine.label>
+  <!-- EN: Tending wounds and diseases and performing surgery. -->
+  <Medicine.description>Θεραπεία τραυμάτων και ασθενειών και χειρουργική επέμβαση.</Medicine.description>
+  <!-- EN: medical -->
+  <Medicine.skillLabel>ιατρική</Medicine.skillLabel>
+  
+  <!-- EN: melee -->
+  <Melee.label>σώμα με σώμα</Melee.label>
+  <!-- EN: Melee combat, both armed and unarmed. -->
+  <Melee.description>Χρήση όλα τα είδη αγχέμαχων όπλων καθώς και για άοπλη μάχη.</Melee.description>
+  <!-- EN: melee -->
+  <Melee.skillLabel>σώμα με σώμα</Melee.skillLabel>
+  
+  <!-- EN: mining -->
+  <Mining.label>εξόρυξη</Mining.label>
+  <!-- EN: Digging tunnels and extracting buried resources. -->
+  <Mining.description>Σκάψιμο σηράγγων και εξόρυξη ορυκτών ή θαμμένων πόρων.</Mining.description>
+  <!-- EN: mining -->
+  <Mining.skillLabel>εξόρυξη</Mining.skillLabel>
+  
+  <!-- EN: plants -->
+  <Plants.label>καλλιέργεια</Plants.label>
+  <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
+  <Plants.description>Σπορά, φροντίδα και συγκομιδή καλλιεργειών και συγκέντρωση τροφής κατά τη διάρκεια των ταξιδιών.</Plants.description>
+  <!-- EN: plants -->
+  <Plants.skillLabel>καλλιέργεια</Plants.skillLabel>
+  
+  <!-- EN: shooting -->
+  <Shooting.label>σκόπευση</Shooting.label>
+  <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
+  <Shooting.description>Χρήση όλων των ειδών εκήβολων όπλων συμπεριλαμβανομένων της υψηλής και της χαμηλής τεχνολογίας.</Shooting.description>
+  <!-- EN: shooting -->
+  <Shooting.skillLabel>σκόπευση</Shooting.skillLabel>
+  
+  <!-- EN: social -->
+  <Social.label>κοινωνικότητα</Social.label>
+  <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
+  <Social.description>Διαπραγμάτευση, πείθωση, χειραγώγηση, καθοδήγηση και επευφημίες άλλων.</Social.description>
+  <!-- EN: social -->
+  <Social.skillLabel>κοινωνικότητα</Social.skillLabel>
+  
 </LanguageData>

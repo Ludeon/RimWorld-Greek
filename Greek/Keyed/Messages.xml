@@ -1,264 +1,525 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Sieging {0} from {1} are assaulting the colony. -->
   <MessageSiegersAssaulting>Πολιορκία {0} από {1} επιτίθεται στην αποικία.</MessageSiegersAssaulting>
 
+  <!-- EN: {0} from {1} are beginning their assault. -->
   <MessageRaidersBeginningAssault>{0} από {1} ξεκινούν την επίθεση τους.</MessageRaidersBeginningAssault>
+  <!-- EN: {0} from {1} have detected you and begun their assault early. -->
   <MessageRaidersDetectedEarlyAssault>{0} από {1} σας ανακάλυψαν και ξεκίνησαν την επίθεσή τους νωρίς.</MessageRaidersDetectedEarlyAssault>
+  <!-- EN: {0} from {1} have decided to kidnap who they can and leave. -->
   <MessageRaidersKidnapping>{0} από {1} αποφάσισαν να απαγάγουν όσους μπορούν και να φύγουν.</MessageRaidersKidnapping>
+  <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
   <MessageRaidersStealing>{0} από {1} έχουν αποφασίσει να κλέψουν ό,τι μπορούν και να φύγουν.</MessageRaidersStealing>
 
+  <!-- EN: {0} from {1} are leaving. -->
   <MessageRaidersLeaving>{0} από {1} φεύγουν.</MessageRaidersLeaving>
+  <!-- EN: {0} from {1} have given up and are leaving. -->
   <MessageRaidersGivenUpLeaving>{0} από {1} έχουν εγκαταλείψει και φεύγουν.</MessageRaidersGivenUpLeaving>
+  <!-- EN: {0} from {1} are satisfied with the damage done and are leaving. -->
   <MessageRaidersSatisfiedLeaving>{0} από {1} είναι ικανοποιημένοι με τη ζημιά που προκάλεσαν και φεύγουν.</MessageRaidersSatisfiedLeaving>
 
+  <!-- EN: {0} from {1} are fleeing. -->
   <MessageFightersFleeing>{0} από {1} ξεφεύγουν.</MessageFightersFleeing>
+  <!-- EN: Friendly {0} from {1} are leaving. -->
   <MessageFriendlyFightersLeaving>Οι φιλικοί {0} από {1} φεύγουν.</MessageFriendlyFightersLeaving>
 
+  <!-- EN: {0} from {1} are taking a wounded guest. -->
   <MessageVisitorsTakingWounded>{0} από {1} παίρνουν έναν τραυματισμένο επισκέπτη.</MessageVisitorsTakingWounded>
+  <!-- EN: {0} from {1} have been trapped and are digging out to escape. -->
   <MessageVisitorsTrappedLeaving>{0} από {1} έχουν παγιδευτεί και ψάχνουν να βρουν τρόπο για να ξεφύγουν.</MessageVisitorsTrappedLeaving>
+  <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
   <MessageVisitorsDangerousTemperature>{0} από {1} φεύγουν από το χάρτη λόγω επικίνδυνης θερμοκρασίας.</MessageVisitorsDangerousTemperature>
 
-  <MessageWornApparelDeterioratedAway>{0} που φοριέται από {1} υποβαθμίζεται σε τίποτα.</MessageWornApparelDeterioratedAway>
+  <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
+  <MessageWornApparelDeterioratedAway>{0} που φοριέται από {1_nameFull} υποβαθμίζεται σε τίποτα.</MessageWornApparelDeterioratedAway>
 
+  <!-- EN: {0} has begun. -->
   <MessageSeasonBegun>{0} ξεκίνησε.</MessageSeasonBegun>
 
+  <!-- EN: {0} has left comms range. -->
   <MessageShipHasLeftCommsRange>{0} έχει απομακρυνθεί από το εύρος επικοινωνιών.</MessageShipHasLeftCommsRange>
 
-  <MessageNeedBeaconToTradeWithShip>Χρειάζεστε ένα τροχιακό εμπορικό φάρο για να κάνετε εμπόριο με ένα διαστημόπλοιο. Ο φάρος πρέπει να ρευματοδοτηθεί.</MessageNeedBeaconToTradeWithShip>
+  <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
+  <MessageNeedBeaconToTradeWithShip>Χρειάζεστε ένα τροχιακό εμπορικό φάρο για να κάνετε εμπόριο με ένα διαστημόπλοιο.</MessageNeedBeaconToTradeWithShip>
 
+  <!-- EN: Bill complete: {0}. -->
   <MessageBillComplete>Η λίστα ολοκληρώθηκε: {0}.</MessageBillComplete>
 
-  <MessageFullyHealed>{0} είναι υγιέστατος.</MessageFullyHealed>
+  <!-- EN: {1_label} is fully healed. -->
+  <MessageFullyHealed>{1_label} είναι υγιέστατος.</MessageFullyHealed>
 
-  <MessagePrisonerIsEscaping>Ο φυλακισμένος {0} δραπετεύει.</MessagePrisonerIsEscaping>
+  <!-- EN: Prisoner {1_labelShort} is escaping. -->
+  <MessagePrisonerIsEscaping>Ο φυλακισμένος {1_labelShort} δραπετεύει.</MessagePrisonerIsEscaping>
 
-  <MessageOutOfNearbyShellsFor>{0} δεν βρήκε στη γύρω περιοχή διαθέσιμες σφαίρες για {1}.</MessageOutOfNearbyShellsFor>
+  <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
+  <MessageOutOfNearbyShellsFor>{PAWN_labelShort} δεν βρήκε στη γύρω περιοχή διαθέσιμες σφαίρες για {GUN_label}.</MessageOutOfNearbyShellsFor>
 
-  <MessageAnimalsGoPsychoHunted>Προειδοποίηση: {0} θα επιτεθεί συχνά όταν τραυματιστεί.</MessageAnimalsGoPsychoHunted>
-  <MessageAnimalManhuntsOnTameFailed>Προειδοποίηση: {0} μπορεί να επιτεθεί σε μια αποτυχημένη προσπάθεια εξημέρωσης ({1} πιθανότητα).</MessageAnimalManhuntsOnTameFailed>
-
+  <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} chance to attack when harmed from rifle range. Chance is higher if closer, less with good hunter stealth. -->
+  <MessageAnimalsGoPsychoHunted>Προειδοποίηση: {ANIMAL_kindBasePlural} έχει {1} πιθανότητα να επιτεθεί όταν τραυματιστεί στο βεληνεκές του τουφεκιού. Η πιθανότητα είναι υψηλότερη εάν είναι πιο κοντά και λιγότερη στην καλή απόκρυψη του κυνηγού..</MessageAnimalsGoPsychoHunted>
+  <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
+  <MessageAnimalManhuntsOnTameFailed>Προειδοποίηση: {ANIMAL_kindBasePlural} μπορεί να επιτεθεί σε μια αποτυχημένη προσπάθεια εξημέρωσης ({1} πιθανότητα).</MessageAnimalManhuntsOnTameFailed>
+  
+  <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>Καινούριος νεοσύλλεκτος</LetterLabelMessageRecruitSuccess>
-  <MessageRecruitSuccess>{0} στρατολόγησε με επιτυχία {1} ({2} πιθανότητα).</MessageRecruitSuccess>
-  <MessageTameSuccess>{0} με επιτυχία εξημέρωσε {1} ({2} πιθανότητα).</MessageTameSuccess>
-  <MessageTameAndNameSuccess>{0} εξημέρωσε επιτυχώς {1} ({2} πιθανότητα) και ΤΟ ονόμασε {3}.</MessageTameAndNameSuccess>
+  <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance). -->
+  <MessageRecruitSuccess>{RECRUITER_nameFull} στρατολόγησε με επιτυχία {RECRUITEE_nameFull} ({2} πιθανότητα).</MessageRecruitSuccess>
+  <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). -->
+  <MessageTameSuccess>{RECRUITER_nameFull} με επιτυχία εξημέρωσε {1} ({2} πιθανότητα).</MessageTameSuccess>
+  <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance) and named {RECRUITEE_objective} {RECRUITEE_nameFull}. -->
+  <MessageTameAndNameSuccess>{RECRUITER_nameFull} εξημέρωσε επιτυχώς {1} ({2} πιθανότητα) και {RECRUITEE_objective} ονόμασε {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
 
+  <!-- EN: The colony cannot afford this deal. -->
   <MessageColonyCannotAfford>Η αποικία δεν μπορεί να ανταποκριθεί σε αυτή τη συμφωνία.</MessageColonyCannotAfford>
+  <!-- EN: You do not have enough silver ready to trade. -->
   <MessageColonyNotEnoughSilver>Δεν έχετε αρκετό ασήμι έτοιμο για εμπόριο.</MessageColonyNotEnoughSilver>
 
+  <!-- EN: Critical alert: {0} -->
   <MessageCriticalAlert>Κρίσιμη προειδοποίηση: {0}</MessageCriticalAlert>
 
+  <!-- EN: Must designate harvestable sufficiently-grown plants. -->
   <MessageMustDesignateHarvestable>Πρέπει να οριστούν για συγκομιδή επαρκώς ωριμασμένα φυτά.</MessageMustDesignateHarvestable>
+  <!-- EN: Must designate wood-yielding, sufficiently-grown plants. -->
   <MessageMustDesignateHarvestableWood>Πρέπει να οριστούν για συγκομιδή ξυλείας, επαρκώς αναπτυγμένα φυτά.</MessageMustDesignateHarvestableWood>
+  <!-- EN: Must designate plants. -->
   <MessageMustDesignatePlants>Πρέπει να οριστούν φυτά.</MessageMustDesignatePlants>
+  <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
   <MessageMustDesignateHaulable>Πρέπει να οριστούν μεταφερόμενα αντικείμενα. Ορισμένα αντικείμενα είναι πάντα μεταφερόμενα και δεν μπορούν να οριστούν.</MessageMustDesignateHaulable>
+  <!-- EN: Must designate impassable mineable rocks. -->
   <MessageMustDesignateMineable>Πρέπει να οριστούν αδιάβατα εξορίξημα πετρώματα.</MessageMustDesignateMineable>
+  <!-- EN: Must designate huntable animals. -->
   <MessageMustDesignateHuntable>Πρέπει να οριστούν ζώα που μπορούν να κυνηγηθούν.</MessageMustDesignateHuntable>
-  <MessageMustDesignateTameable>Πρέπει να ορίσετε ζώα που να είναι εξημερώσιμα.</MessageMustDesignateTameable>
-  <MessageMustDesignateClaimable>Πρέπει να ορίσετε εγκαταλελειμμένες τεχνητές δομές.</MessageMustDesignateClaimable>
-  <MessageMustDesignateSmoothableFloor>Πρέπει να ορίσετε τραχύ έδαφος πέτρας.</MessageMustDesignateSmoothableFloor>
+  <!-- EN: Must designate tameable animals. -->
+  <MessageMustDesignateTameable>Πρέπει να οριστούν ζώα που να είναι εξημερώσιμα.</MessageMustDesignateTameable>
+  <!-- EN: Must designate abandoned artificial structures. -->
+  <MessageMustDesignateClaimable>Πρέπει να οριστούν εγκαταλελειμμένες τεχνητές δομές.</MessageMustDesignateClaimable>
+  <!-- EN: Must designate rough stone surfaces. -->
+  <MessageMustDesignateSmoothableSurface>Πρέπει να οριστούν ακατέργαστες επιφάνειες πέτρας.</MessageMustDesignateSmoothableSurface>
+  <!-- EN: Nothing can remove thick roofs. -->
   <MessageNothingCanRemoveThickRoofs>Τίποτα δεν μπορεί να αφαιρέσει συμπαγής στέγες.</MessageNothingCanRemoveThickRoofs>
+  <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
   <MessageAlreadyInStorage>Αυτό είναι ήδη αποθηκευμένο και θα μεταφερθεί σε αποθήκη υψηλής προτεραιότητας, όπως είναι απαραίτητο.</MessageAlreadyInStorage>
-  <MessageMustDesignateStrippable>Πρέπει να ορίσετε πτώμα ή τον αποτελειωμένο χαρακτήρα με απογυμνωμένη ενδυμασία.</MessageMustDesignateStrippable>
+  <!-- EN: Must designate corpse or downed character with strippable apparel. -->
+  <MessageMustDesignateStrippable>Πρέπει να ορίσετε πτώμα ή τον αποτελειωμένο χαρακτήρα με ενδυμασία που μπορεί να αφαιρεθεί.</MessageMustDesignateStrippable>
+  <!-- EN: Must designate tame animal that belongs to the colony. -->
   <MessageMustDesignateSlaughterable>Πρέπει να ορίσετε ένα εξημερωμένο ζώο που ανήκει στην αποικία.</MessageMustDesignateSlaughterable>
+  <!-- EN: Must designate full graves or containers. -->
   <MessageMustDesignateOpenable>Πρέπει να ορίσετε πλήρεις τάφους ή φέρετρα.</MessageMustDesignateOpenable>
+  <!-- EN: Must designate unforbidden items. -->
+  <MessageMustDesignateForbiddable>Πρέπει να οριστούν μη απαγορευμένα αντικείμενα.</MessageMustDesignateForbiddable>
+  <!-- EN: Must designate forbidden items. -->
+  <MessageMustDesignateUnforbiddable>Πρέπει να οριστούν απαγορευμένα αντικείμενα.</MessageMustDesignateUnforbiddable>
 
-  <MessageRefusedArrest>{0} αρνήθηκε να συλληφθεί!</MessageRefusedArrest>
-
+  <!-- EN: {1_labelShort} has refused to be arrested! -->
+  <MessageRefusedArrest>{1_labelShort} αρνήθηκε να συλληφθεί!</MessageRefusedArrest>
+  
+  <!-- EN: There are no medical beds available. -->
   <MessageNoMedicalBeds>Δεν υπάρχουν διαθέσιμα κρεβάτια ανάρρωσης.</MessageNoMedicalBeds>
+  <!-- EN: There are no animal beds available. -->
   <MessageNoAnimalBeds>Δεν υπάρχουν κρεβάτια ζώου διαθέσιμα.</MessageNoAnimalBeds>
-  <MessageTooLowMedCare>Η λειτουργία απαιτεί {0} ή καλύτερη, αλλά του {1} η τρέχουσα κατάσταση ιατρικής περίθαλψης είναι "{2}".</MessageTooLowMedCare>
+  <!-- EN: Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}". -->
+  <MessageTooLowMedCare>Η λειτουργία απαιτεί {0} ή καλύτερη, αλλά {0_possessive} {PAWN_labelShort} η τρέχουσα κατάσταση ιατρικής περίθαλψης είναι "{2}".</MessageTooLowMedCare>
+  
+  <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
+  <PawnDiedBecauseOf>{PAWN_labelShort} πέθανε. Αιτία: {1}.</PawnDiedBecauseOf>
+  <!-- EN: {1_labelShort} has died. -->
+  <PawnDied>{1_labelShort} πέθανε.</PawnDied>
 
-  <PawnDiedBecauseOf>{0} πέθανε λόγω {1}.</PawnDiedBecauseOf>
+  <!-- EN: {1_label} is no longer incapable of walking. -->
+  <MessageNoLongerDowned>{1_label} δεν είναι πλέον ανίκανος να περπατήσει.</MessageNoLongerDowned>
 
-  <MessageNoLongerDowned>{0} δεν είναι πλέον ανίκανος να περπατήσει.</MessageNoLongerDowned>
+  <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
+  <MessageInvoluntarySleep>{1_labelShort} έχει καταρρεύσει εξαιτίας της ακραίας εξάντλησης.</MessageInvoluntarySleep>
 
-  <MessageInvoluntarySleep>{0} έχει καταρρεύσει εξαιτίας της ακραίας εξάντλησης.</MessageInvoluntarySleep>
+  <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort}. -->
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} απέτυχε ελάχιστα καθώς προσπαθούσε σ{PATIENT_objective} {PATIENT_labelShort}.</MessageMedicalOperationFailureMinor>
+  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort}. -->
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} απέτυχε παταγωδώς καθώς προσπαθούσε σ{PATIENT_objective} {PATIENT_labelShort}.</MessageMedicalOperationFailureCatastrophic>
+  <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort}. -->
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} απέτυχε γελοιωδώς καθώς προσπαθούσε σ{PATIENT_objective} {PATIENT_labelShort}.</MessageMedicalOperationFailureRidiculous>
+  <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2} -->
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} έχει διαπράξει ένα θανατηφόρο σφάλμα καθώς προσπαθούσε σ{PATIENT_objective} {PATIENT_labelShort} λόγω των ειδικών προκλήσεων: {2}</MessageMedicalOperationFailureFatal>
 
-  <MessageMedicalOperationFailureMinor>{0} απέτυχε ελάχιστα καθώς προσπαθούσε {1}.</MessageMedicalOperationFailureMinor>
-  <MessageMedicalOperationFailureCatastrophic>{0} απέτυχε παταγωδώς καθώς προσπαθούσε {1}.</MessageMedicalOperationFailureCatastrophic>
-  <MessageMedicalOperationFailureRidiculous>{0} απέτυχε με γελοιωδώς καθώς προσπαθούσε {1}.</MessageMedicalOperationFailureRidiculous>
-  <MessageMedicalOperationFailureFatal>{0} έχει διαπράξει ένα θανατηφόρο σφάλμα κατά τη λειτουργία του {1} λόγω των ειδικών προκλήσεων: {2}</MessageMedicalOperationFailureFatal>
-
+  <!-- EN: This operation will anger {0}. -->
   <MessageMedicalOperationWillAngerFaction>Αυτή η λειτουργία θα εξοργίσει {0}.</MessageMedicalOperationWillAngerFaction>
 
-  <MessagePawnExitMapRelationsGain>Επειδή ο {0} εξήλθε από τον χάρτη υγιής, οι σχέσεις με {1} βελτιώθηκαν κατά {2}.</MessagePawnExitMapRelationsGain>
-
+  <!-- EN: {0} has miscarried due to starvation. -->
   <MessageMiscarriedStarvation>Η {0} έχει αποβάλει λόγω πείνας.</MessageMiscarriedStarvation>
+  <!-- EN: {0} has miscarried due to poor health. -->
   <MessageMiscarriedPoorHealth>Η {0} έχει αποβάλει λόγω κακής υγείας.</MessageMiscarriedPoorHealth>
+  <!-- EN: {0} has given birth. -->
   <MessageGaveBirth>Η {0} έχει γεννήσει.</MessageGaveBirth>
 
-  <MessageNuzzledPawnGaveNameTo>Η {0} έχει ονομάσει {1} {2} αφού έχει φωλιάσει.</MessageNuzzledPawnGaveNameTo>
+  <!-- EN: {NAMER_nameFull} has named {1} {NAMEE_nameFull} after being nuzzled. -->
+  <MessageNuzzledPawnGaveNameTo>Η {NAMER_nameFull} έχει ονομάσει {1} {NAMEE_nameFull} αφού {NAMER_possessive} έχει μουσουδιές.</MessageNuzzledPawnGaveNameTo>
 
-  <MessageNoHandlerSkilledEnough>Κανένας εκπαιδευτής δεν μπορεί να δαμάσει {0} (απαιτείτε επίπεδο {1} στο {2}, ο καλύτερος εκπαιδευτής {3} έχει {4}).</MessageNoHandlerSkilledEnough>
-
-  <MessageEatenByPredator>{0} έχει φαγωθεί από {1}.</MessageEatenByPredator>
-  <MessageAttackedByPredator>{0} δέχεται επίθεση από {1}!</MessageAttackedByPredator>
-
+  <!-- EN: No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}). -->
+  <MessageNoHandlerSkilledEnough>Κανένας εκπαιδευτής δεν μπορεί να δαμάσει {ANIMAL_kindBase} (απαιτείτε επίπεδο {1} στο {2}, ο καλύτερος εκπαιδευτής {HANDLER_labelShort} έχει {4}).</MessageNoHandlerSkilledEnough>
+  
+  <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
+  <MessageEatenByPredator>{EATEN_labelShort} έχει φαγωθεί από {PREDATOR}.</MessageEatenByPredator>
+  <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
+  <MessageAttackedByPredator>{PREY_labelShort} δέχεται επίθεση από {PREDATOR}!</MessageAttackedByPredator>
+  
+  <!-- EN: A bug hive has reproduced itself. -->
   <MessageHiveReproduced>Μια κυψέλη μικροβίων αναπαράγει τον εαυτό της.</MessageHiveReproduced>
-
+  
+  <!-- EN: The trade caravan from {0} is leaving. -->
   <MessageTraderCaravanLeaving>Το εμπορικό καραβάνι από {0} φεύγει.</MessageTraderCaravanLeaving>
-
-  <MessageCantSelectDeadPawn>{0} είναι νεκρός.</MessageCantSelectDeadPawn>
-  <MessageCantSelectOffMapPawn>{0} είναι εκτός χάρτη.</MessageCantSelectOffMapPawn>
-
-  <MessageSocialFight>{0} ξεκίνησε έναν κοινωνική διαμάχη με {1}. Λόγος: {2}.</MessageSocialFight>
-
-  <MessageNewMarriageCeremony>Οι άποικοι συγκεντρώθηκαν για να γιορτάσουν το γάμο {0} και {1}.</MessageNewMarriageCeremony>
-  <MessageMarriageCeremonyStarts>{0} και {1} αρχίζουν την τελετή του γάμου τους!</MessageMarriageCeremonyStarts>
-  <MessageMarriageCeremonyCalledOff>Η τελετή του γάμου για {0} και {1} έχει ματαιωθεί.</MessageMarriageCeremonyCalledOff>
-  <MessageNewlyMarried>{0} και {1} παντρεύτηκαν. Οι άποικοι γιορτάζουν τώρα την περίσταση.</MessageNewlyMarried>
-  <MessageMarriageCeremonyAfterPartyFinished>Η τελετή του γάμου για {0} και {1} έχει τελειώσει.</MessageMarriageCeremonyAfterPartyFinished>
-
-  <MessageNewBondRelation>{0} και {1} έχουν σχηματίσει δεσμό.</MessageNewBondRelation>
-  <MessageNewBondRelationNewName>{0} και {1} έχουν σχηματίσει δεσμό. H {0} τον ονόμασε {2}.</MessageNewBondRelationNewName>
-
-  <MessageBondedAnimalMentalBreak>{0} έχει ένα ψυχικό κλονισμό λόγω του θανάτου του {1}.</MessageBondedAnimalMentalBreak>
-  <MessageNamedBondedAnimalMentalBreak>0} που ονομάζεται {1} έχει ψυχικό κλονισμό λόγω του θανάτου {2}.</MessageNamedBondedAnimalMentalBreak>
-  <MessageBondedAnimalsMentalBreak>Τα {0} ζώα έχουν διανοητικές διαταραχές λόγω του θανάτου {1}.</MessageBondedAnimalsMentalBreak>
-
-  <MessageSuccessfullyRemovedHediff>{0} κατάργησε με επιτυχία του {1} {2}.</MessageSuccessfullyRemovedHediff>
-
-  <MessageShipChunkDrop>Ένα κομμάτι ενός διαστημικού σκάφους έχει πέσει από το διάστημα και έχει προσγειωθεί κοντά.</MessageShipChunkDrop>
-
+  
+  <!-- EN: {1_labelShort} is dead. -->
+  <MessageCantSelectDeadPawn>{1_labelShort} είναι νεκρός.</MessageCantSelectDeadPawn>
+  <!-- EN: {1_labelShort} is off the map. -->
+  <MessageCantSelectOffMapPawn>{1_labelShort} είναι εκτός χάρτη.</MessageCantSelectOffMapPawn>
+  
+  <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
+  <MessageSocialFight>{PAWN1_labelShort} ξεκίνησε μία κοινωνική διαμάχη με {PAWN2_labelShort}.</MessageSocialFight>
+  
+  <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}’s marriage. -->
+  <MessageNewMarriageCeremony>Οι άποικοι συγκεντρώθηκαν για να γιορτάσουν το γάμο {PAWN1_possessive} {PAWN1_labelShort} και {PAWN2_possessive} {PAWN2_labelShort}.</MessageNewMarriageCeremony>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
+  <MessageMarriageCeremonyStarts>{PAWN1_labelShort} και {PAWN2_labelShort} αρχίζουν την τελετή του γάμου τους!</MessageMarriageCeremonyStarts>
+  <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off. -->
+  <MessageMarriageCeremonyCalledOff>Η τελετή του γάμου για {PAWN1_objective} {PAWN1_labelShort} και {PAWN2_objective} {PAWN2_labelShort} έχει ματαιωθεί.</MessageMarriageCeremonyCalledOff>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion. -->
+  <MessageNewlyMarried>{PAWN1_labelShort} και {PAWN2_labelShort} παντρεύτηκαν. Οι άποικοι γιορτάζουν τώρα την περίσταση.</MessageNewlyMarried>
+  <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished. -->
+  <MessageMarriageCeremonyAfterPartyFinished>Η τελετή του γάμου για {PAWN1_objective} {PAWN1_labelShort} και {PAWN2_objective} {PAWN2_labelShort} έχει τελειώσει.</MessageMarriageCeremonyAfterPartyFinished>
+  
+  <!-- EN: {HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond. -->
+  <MessageNewBondRelation>{HUMAN_gender ? Ο : Η} {HUMAN_labelShort} και {ANIMAL_labelShort} έχουν σχηματίσει δεσμό.</MessageNewBondRelation>
+  <!-- EN: {HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}. -->
+  <MessageNewBondRelationNewName>{HUMAN_labelShort} και {1} έχουν σχηματίσει δεσμό. {HUMAN_labelShort} {ANIMAL_objective} ονόμασε {ANIMAL_nameFull}.</MessageNewBondRelationNewName>
+  
+  <!-- EN: {ANIMAL} has a mental break because of {HUMAN_labelShort}'s death. -->
+  <MessageBondedAnimalMentalBreak>{ANIMAL} έχει ένα ψυχικό κλονισμό λόγω του θανάτου του {HUMAN_labelShort}.</MessageBondedAnimalMentalBreak>
+  <!-- EN: {ANIMAL_kindIndef} named {ANIMAL_label} has a mental break because of {HUMAN_labelShort}'s death. -->
+  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindIndef} που ονομάζεται {ANIMAL_label} έχει ψυχικό κλονισμό λόγω του θανάτου {HUMAN_possessive} {HUMAN_labelShort}.</MessageNamedBondedAnimalMentalBreak>
+  <!-- EN: {0} animals have a mental break because of {HUMAN_labelShort}'s death. -->
+  <MessageBondedAnimalsMentalBreak>Τα {0} ζώα έχουν διανοητικές διαταραχές λόγω του θανάτου {HUMAN_possessive} {HUMAN_labelShort}.</MessageBondedAnimalsMentalBreak>
+  
+  <!-- EN: {SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}. -->
+  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} κατάργησε με επιτυχία του {PATIENT_labelShort} {HEDIFF}.</MessageSuccessfullyRemovedHediff>
+  
+  <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
+  <MessageShipChunkDrop>Ένα κομμάτι ενός διαστημικού σκάφους έχει συντριβεί κοντά. Μπορείς να το αποδομήσεις και να πάρεις του πόρους.</MessageShipChunkDrop>
+  
+  <!-- EN: The party has been called off. -->
   <MessagePartyCalledOff>Το πάρτι έχει ακυρωθεί.</MessagePartyCalledOff>
+  <!-- EN: The party has finished. -->
   <MessagePartyFinished>Το πάρτι έχει τελειώσει.</MessagePartyFinished>
 
+  <!-- EN: Some items cannot be traded because of:  -->
   <MessageCannotSellItemsReason>Ορισμένα αντικείμενα δεν μπορούν να πωληθούν λόγω: </MessageCannotSellItemsReason>
 
-  <MessageConstructionFailed>{1} απέτυχε κατά την κατασκευή {0}. Κάποιοι πόροι χάθηκαν.</MessageConstructionFailed>
+  <!-- EN: {WORKER_labelShort} failed while constructing {0}. Some resources have been wasted. -->
+  <MessageConstructionFailed>{WORKER_labelShort} απέτυχε κατά την κατασκευή {0}. Κάποιοι πόροι χάθηκαν.</MessageConstructionFailed>
 
+  <!-- EN: Screenshot saved as: {0} -->
   <MessageScreenshotSavedAs>Το στιγμιότυπο της οθόνης αποθηκεύτηκε ως: {0}</MessageScreenshotSavedAs>
+  
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting. -->
+  <MessageNoLongerSocialFighting>{PAWN1_labelShort} και {PAWN2_labelShort} δεν έχουν πλέον κοινωνική διαμάχη.</MessageNoLongerSocialFighting>
+  
+  <!-- EN: {2_labelShort} is no longer binging on {1}. -->
+  <MessageNoLongerBingingOnDrug>{2_labelShort} δεν είναι άλλο εθισμένος με {1}.</MessageNoLongerBingingOnDrug>
 
-  <MessageNoLongerSocialFighting>{0} και {1} δεν έχουν πλέον κοινωνική διαμάχη.</MessageNoLongerSocialFighting>
+  <!-- EN: {PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}. -->
+  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort} δεν είναι πλέον σε μια προσβλητική ευωχία ενάντια σ{TARGET_objective} {TARGET_label}.</MessageNoLongerOnTargetedInsultingSpree>
 
-  <MessageNoLongerBingingOnDrug>{0} δεν είναι άλλο εθισμένος με {1}.</MessageNoLongerBingingOnDrug>
-
-  <MessageNoLongerOnTargetedInsultingSpree>{0} δεν είναι πλέον σε μια προσβλητική ευωχία ενάντια στον {1}.</MessageNoLongerOnTargetedInsultingSpree>
-
-  <MessageRottedAwayInStorage>{0} έχει σαπίσει στην αποθήκη.</MessageRottedAwayInStorage>
-
-  <MessageFoodPoisoning>{0} έχει πάθει τροφική δηλητηρίαση από: {1}.</MessageFoodPoisoning>
-
-  <MessageFailedToSendCaravanBecausePawnLost>Αποτύχατε να στείλετε το καραβάνι επειδή ένας από τους αποίκους, τους φυλακισμένους ή τα ζώα χάθηκε.</MessageFailedToSendCaravanBecausePawnLost>
+  <!-- EN: {1_label} has rotted away in storage. -->
+  <MessageRottedAwayInStorage>{1_label} έχει σαπίσει στην αποθήκη.</MessageRottedAwayInStorage>
+  
+  <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
+  <MessageFoodPoisoning>{PAWN_labelShort} έχει πάθει τροφική δηλητηρίαση από: {FOOD_labelShort}. Αιτία: {2}.</MessageFoodPoisoning>
+  
+  <!-- EN: {0} has been removed from the caravan. -->
+  <MessagePawnLostWhileFormingCaravan>{0} έχει φύγει από το καραβάνι.</MessagePawnLostWhileFormingCaravan>
+  <!-- EN: The caravan formation process has been terminated. -->
+  <MessagePawnLostWhileFormingCaravan_AllLost>Η διαδικασία σχηματισμού του καραβανιού έχει ακυρωθεί</MessagePawnLostWhileFormingCaravan_AllLost>
+  <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
   <MessageCaravanFormationPaused>Η διαδικασία σχηματισμού του καραβανιού θα συνεχιστεί όταν όλοι ανακάμψουν από ένα ψυχικό κλονισμό.</MessageCaravanFormationPaused>
+  <!-- EN: Your colonists will now continue forming a caravan. -->
   <MessageCaravanFormationUnpaused>Οι άποικοι σας θα συνεχίσουν τώρα να σχηματίζουν ένα καραβάνι.</MessageCaravanFormationUnpaused>
-
+  
+  <!-- EN: One of the caravan members has a mental break. -->
   <MessageCaravanMemberHasExtremeMentalBreak>Ένα από τα μέλη του καραβανιού έχει ένα ψυχικό κλονισμό.</MessageCaravanMemberHasExtremeMentalBreak>
-
+  
+  <!-- EN: Warning: It can take a very long time to generate an entire planet. -->
   <MessageMaxPlanetCoveragePerformanceWarning>Προειδοποίηση: Μπορεί να χρειαστεί πολύς χρόνος για να δημιουργηθεί ένας ολόκληρος πλανήτης.</MessageMaxPlanetCoveragePerformanceWarning>
 
+  <!-- EN: {0} has died because of cold. -->
   <MessagePlantDiedOfCold>Το {0} μαράθηκε εξαιτίας του ψύχους.</MessagePlantDiedOfCold>
+  <!-- EN: {0} has died from rotting due to being left unharvested. -->
   <MessagePlantDiedOfRot_LeftUnharvested>{0} σάπισε από την σήψη λόγω του ότι έμεινε αμάζευτο.</MessagePlantDiedOfRot_LeftUnharvested>
+  <!-- EN: {0} has died due to being exposed to light. -->
   <MessagePlantDiedOfRot_ExposedToLight>Το {0} ξεράθηκε λόγω έκθεσης στο φως.</MessagePlantDiedOfRot_ExposedToLight>
+  <!-- EN: {0} has died from rotting. -->
   <MessagePlantDiedOfRot>Το {0} έχει σαπίσει από σήψη.</MessagePlantDiedOfRot>
+  <!-- EN: {0} has died because of poison. -->
   <MessagePlantDiedOfPoison>Το {0} έχει ξεραθεί λόγω δηλητηρίασης.</MessagePlantDiedOfPoison>
-  <MessagePlantDiedOfBlight>Το {0} έχει μαραθεί λόγω ερυσίβης</MessagePlantDiedOfBlight>
+  <!-- EN: {1_label} has died because of blight. -->
+  <MessagePlantDiedOfBlight>Το {1_label} έχει μαραθεί λόγω ερυσίβης</MessagePlantDiedOfBlight>
 
-  <MessagePawnBeingBurned>{0} καίγεται από υπερθερμαινόμενο αέρα!</MessagePawnBeingBurned>
+  <!-- EN: {1_labelShort} is being burned by superheated air! -->
+  <MessagePawnBeingBurned>{1_labelShort} καίγεται από υπερθερμαινόμενο αέρα!</MessagePawnBeingBurned>
 
-  <MessageAccidentalOverdose>{0} πίρε υπερβολική δόση κατά την κατανάλωση {1}!</MessageAccidentalOverdose>
-
+  <!-- EN: {INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}! -->
+  <MessageAccidentalOverdose>{INGESTER} πίρε υπερβολική δόση κατά την κατανάλωση {DRUG_labelShort}!</MessageAccidentalOverdose>
+  
+  <!-- EN: {0} has arrived at its destination. -->
   <MessageCaravanArrivedAtDestination>{0} έχει φθάσει στον προορισμό του.</MessageCaravanArrivedAtDestination>
-
-  <MessageCaravanIsVisitingSettlement>Το {0} έφτασε στο {1}.</MessageCaravanIsVisitingSettlement>
-
-  <MessageCaravanEnteredWorldObject>Το {0} έφτασε στο {1}.</MessageCaravanEnteredWorldObject>
-
-  <MessagePawnLeftMapAndCreatedCaravan>{0} έφυγε από την περιοχή και σχημάτισε καραβάνι.</MessagePawnLeftMapAndCreatedCaravan>
-
+  
+  <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
+  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort} έφυγε από την περιοχή και σχημάτισε καραβάνι.</MessagePawnLeftMapAndCreatedCaravan>
+  <!-- EN: Your animals are moving to join it. -->
+  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>Τα ζώα σας πηγαίνουν να ενωθούν μαζί τους</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+  
+  <!-- EN: You have successfully settled in a new area. -->
   <MessageSettledInExistingMap>Έχετε εγκατασταθεί επιτυχώς σε μια νέα περιοχή.</MessageSettledInExistingMap>
+  
+  <!-- EN: {PAWN_labelShort}'s {2} has healed. Cause: {0} -->
+  <MessagePermanentWoundHealed>{PAWN_possessive} {PAWN_labelShort} {2} θεραπεύτηκε. Αιτία: {0}</MessagePermanentWoundHealed>
 
-  <MessageAmbushVictory>Επιτυχία! Στο {0}, το καραβάνι θα μετατραπεί αυτόματα. Τώρα μπορείτε να μεταρρυθμίσετε το καραβάνι στην οθόνη του Κόσμου.</MessageAmbushVictory>
-
-  <MessageAutomaticallyReformedCaravan>Οι άποικοι σας έχουν διαμορφώσει το καραβάνι.</MessageAutomaticallyReformedCaravan>
-
-  <MessageOldWoundHealed>Λόγω του {0}, του {1} το {2} έχει θεραπευτεί.</MessageOldWoundHealed>
-
-  <MessageRescueeJoined>Από τη στιγμή που τον διασώσατε, {0} προσχώρησε στην ομάδα σας!</MessageRescueeJoined>
-
-  <MessageAttackedCaravanIsNowHostile>Επειδή επιτεθήκατε σε καραβάνι της {0}, αυτή η φατρία είναι τώρα εχθρική σε σας.</MessageAttackedCaravanIsNowHostile>
-  <MessageFactionPawnCrushed>Οι {0} έχασαν ανθρώπους σε κατάρρευση στέγης. Σχέση φατρίας: {1}</MessageFactionPawnCrushed>
-  <MessageFactionPawnLost>{0} έχασαν {1}. Σχέση φατρίας: {2}</MessageFactionPawnLost>
-
+  <!-- EN: {1_labelShort} has joined your group after being rescued! -->
+  <MessageRescueeJoined>{1_labelShort} προσχώρησε στην ομάδα σας, μετά τη διάσωσή {1_possessive}!</MessageRescueeJoined>
+  
+  <!-- EN: Some transport pods are unreachable. -->
   <MessageTransporterUnreachable>Ορισμένοι άτρακτοι μεταφοράς δεν είναι προσβάσιμοι.</MessageTransporterUnreachable>
+  <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
   <MessageTransportersNotAdjacent>Όλοι οι εκτοξευτές ατράκτων που είναι συνδεδεμένοι με τις επιλεγμένες ατράκτους μεταφοράς πρέπει να είναι δίπλα.</MessageTransportersNotAdjacent>
-
+  
+  <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
   <MessageTransportersLoadCanceled_TransporterDestroyed>Η διαδικασία φόρτωσης ακυρώθηκε επειδή μία από τις ατράκτους μεταφοράς έχει καταστραφεί.</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <!-- EN: The loading process has been canceled because one of the pod launchers has been destroyed. -->
   <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>Η διαδικασία φόρτωσης ακυρώθηκε επειδή ένας από τους εκτοξευτές ατράκτων έχει καταστραφεί.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
-
+  
+  <!-- EN: Your colonists will now load the assigned items into the transport pods. -->
   <MessageTransportersLoadingProcessStarted>Οι άποικοί σας θα φορτώσουν τώρα τα ανατεθέντα αντικείμενα στις ατράκτους μεταφοράς.</MessageTransportersLoadingProcessStarted>
-
+  
+  <!-- EN: Your transport pods have arrived. -->
   <MessageTransportPodsArrived>Οι άτρακτοι μεταφοράς έχουν φτάσει.</MessageTransportPodsArrived>
+  <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
   <MessageTransportPodsArrivedAndLost>Οι άτρακτοι μεταφοράς σας έχουν φτάσει, αλλά επειδή δεν υπήρχαν άποικοι μέσα, το περιεχόμενο χάθηκε.</MessageTransportPodsArrivedAndLost>
-  <MessageTransportPodsArrivedAndAddedToCaravan>Οι άτρακτοι μεταφοράς έχουν φτάσει. Τα περιεχόμενα έχουν προστεθεί στο καραβάνι σας.</MessageTransportPodsArrivedAndAddedToCaravan>
-  <MessageTransportPodsArrived_BecameHostile>{0} είναι τώρα εχθρική σε σας.</MessageTransportPodsArrived_BecameHostile>
-
-  <MessageFailedToLoadTransportersBecauseColonistLost>Η διαδικασία φόρτωσης ακυρώθηκε επειδή ένας από τους αποίκους χάθηκε.</MessageFailedToLoadTransportersBecauseColonistLost>
-
+  <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
+  <MessageTransportPodsArrivedAndAddedToCaravan>Οι άτρακτοι μεταφοράς έχουν φτάσει. Τα περιεχόμενα έχουν προστεθεί στο {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
+  
+  <!-- EN: Your colonists have finished loading the transport pods. -->
   <MessageFinishedLoadingTransporters>Οι άποικοί σας έχουν ολοκληρώσει τη φόρτωση των ατράκτων μεταφοράς.</MessageFinishedLoadingTransporters>
 
+  <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
+  <MessageCantLoadMoreIntoTransporters>Οι {1} σας δεν μπορούν να ολοκληρώσουν τη φόρτωση των ατράκτων μεταφοράς διότι ορισμένα αντικείμενα ή άτομα δεν είναι διαθέσιμα ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
+  
+  <!-- EN: Selected destination is invalid. -->
   <MessageTransportPodsDestinationIsInvalid>Ο επιλεγμένος προορισμός δεν είναι έγκυρος.</MessageTransportPodsDestinationIsInvalid>
-  <MessageTransportPodsDestinationIsTooFar>Κάθε εκτοξευτής ατράκτου θα χρειαστεί τουλάχιστον {0}x χημικά καύσιμα για να στείλει τις ατράκτους μεταφοράς μέχρι τώρα.</MessageTransportPodsDestinationIsTooFar>
-
+  <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
+  <MessageTransportPodsDestinationIsTooFar>Κάθε εκτοξευτής ατράκτου θα χρειαστεί τουλάχιστον {0}x χημικά καύσιμα για να στείλει τις ατράκτους μεταφοράς μέχρι εκεί.</MessageTransportPodsDestinationIsTooFar>
+  
+  <!-- EN: The caravan has been reformed. -->
   <MessageReformedCaravan>Το καραβάνι έχει αναμορφωθεί.</MessageReformedCaravan>
-
+  
+  <!-- EN: You can't banish the last colonist. -->
   <MessageCantBanishLastColonist>Δεν μπορείτε να εξορύξετε τον τελευταίο άποικο.</MessageCantBanishLastColonist>
-
-  <MessageCantEquipIncapableOfViolence>Δεν μπορεί να εξοπλιστεί: {0} είναι ανίκανος για βία.</MessageCantEquipIncapableOfViolence>
+  
+  <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
+  <MessageCantEquipIncapableOfViolence>Δεν μπορεί να εξοπλιστεί: {1_labelShort} είναι ανίκανος για βία.</MessageCantEquipIncapableOfViolence>
+  <!-- EN: Cannot equip: incapable. -->
   <MessageCantEquipIncapableOfManipulation>Δεν μπορεί να εξοπλιστεί: ανίκανος.</MessageCantEquipIncapableOfManipulation>
+  
+  <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
+  <MessageSlaughteringBondedAnimal>Επειδή είναι συνδεδεμένοι, η σφαγή {DESIGNATED_possessive} {DESIGNATED_labelShort} θα κάνει {BONDED_objective} {BONDED_labelShort} δυστυχισμένο.</MessageSlaughteringBondedAnimal>
+  
+  <!-- EN: {0} has run out of food ({PAWN_label}). -->
+  <MessageCaravanRanOutOfFood>{0} έχει ξεμείνει από τροφή ({PAWN_label}).</MessageCaravanRanOutOfFood>
 
-  <MessageSlaughteringBondedAnimal>Επειδή είναι συνδεδεμένοι, η σφαγή του {0} θα κάνει {1} δυστυχισμένο.</MessageSlaughteringBondedAnimal>
-
-  <MessageCaravanRunOutOfFood>{0} έχει εξαντλήσει το φαγητό ({1}).</MessageCaravanRunOutOfFood>
-
+  <!-- EN: To form a caravan, select your own colony or a site where you have people. -->
   <MessageSelectOwnBaseToFormCaravan>Για να δημιουργήσετε ένα καραβάνι, επιλέξτε τη δική σας αποικία ή μια τοποθεσία όπου έχετε ανθρώπους.</MessageSelectOwnBaseToFormCaravan>
 
+  <!-- EN: At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution. -->
   <MessageScreenResTooSmallForUIScale>Σε αυτήν την ανάλυση και την κλίμακα UI, η διεπαφή του παιχνιδιού δεν θα ταιριάζει στην οθόνη. Παρακαλώ μειώστε την κλίμακα UI ή αυξήστε την ανάλυση.</MessageScreenResTooSmallForUIScale>
-
+  
+  <!-- EN: You have to reform the caravan now. Everyone left behind will be abandoned. -->
   <MessageYouHaveToReformCaravanNow>Πρέπει τώρα να αναμορφώσετε το καραβάνι. Ο καθένας που θα μείνει πίσω θα εγκαταλειφθεί.</MessageYouHaveToReformCaravanNow>
-
+  
+  <!-- EN: {0} from {1} are attacking your {2}. -->
   <MessageDefendersAttacking>{0} από {1} επιτέθηκαν στο {2} σας.</MessageDefendersAttacking>
 
-  <MessageSelfTendUnsatisfied>Για την αυτοΐαση, {0} πρέπει επίσης να ανατεθεί εργασία στον Γιατρό.</MessageSelfTendUnsatisfied>
-  <MessageCannotSelfTendEver>{0} είναι ανίκανος να κάνει δουλειά Γιατρού, και έτσι δεν μπορεί ποτέ να αυτοθεραπευτεί.</MessageCannotSelfTendEver>
-
+  <!-- EN: To self-tend, {1_labelShort} must also be assigned to Doctor work. -->
+  <MessageSelfTendUnsatisfied>Για την αυτοΐαση, πρέπει επίσης να ανατεθεί σ{1_objective} {1_labelShort} η εργασία {1_possessive} Γιατρού.</MessageSelfTendUnsatisfied>
+  <!-- EN: {1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend. -->
+  <MessageCannotSelfTendEver>{1_labelShort} είναι ανίκανος να κάνει δουλειά Γιατρού, και έτσι δεν μπορεί ποτέ να αυτοθεραπευτεί.</MessageCannotSelfTendEver>
+  
+  <!-- EN: This tile is impassable. -->
   <MessageCantAddWaypointBecauseImpassable>Αυτό το πλακάκι είναι αδιάβατο.</MessageCantAddWaypointBecauseImpassable>
+  <!-- EN: It's not possible to reach this tile from the last waypoint. -->
   <MessageCantAddWaypointBecauseUnreachable>Δεν είναι δυνατό να φτάσετε σε αυτό το πλακάκι από το τελευταίο σημείο.</MessageCantAddWaypointBecauseUnreachable>
+  <!-- EN: You can't add more than {0} waypoints. -->
   <MessageCantAddWaypointBecauseLimit>Δεν μπορείτε να προσθέσετε περισσότερα από {0} σημεία.</MessageCantAddWaypointBecauseLimit>
+  <!-- EN: You can't remove this waypoint. -->
   <MessageCantRemoveWaypointBecauseFirst>Δεν μπορείτε να αφαιρέσετε αυτό το σημείο.</MessageCantRemoveWaypointBecauseFirst>
-
+  
+  <!-- EN: None of your wardens is capable of violence. The execution won't be performed. -->
   <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Κανείς από τους φύλακες σας δεν είναι ικανός για βία. Η εκτέλεση δεν θα πραγματοποιηθεί.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
-
+  
+  <!-- EN: You have defeated all enemies. In {0}, the caravan will automatically be reformed. -->
   <MessageSiteCountdownBecauseNoMoreEnemies>Έχετε νικήσει όλους τους εχθρούς. Στο {0}, το καραβάνι θα ανασχηματιστεί αυτόματα.</MessageSiteCountdownBecauseNoMoreEnemies>
+  <!-- EN: In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen. -->
   <MessageSiteCountdownBecauseNoEnemiesInitially>Στο {0}, το καραβάνι θα ανασχηματιστεί αυτόματα. Μπορείτε τώρα να αναμορφώσετε το καραβάνι στην οθόνη του Κόσμου.</MessageSiteCountdownBecauseNoEnemiesInitially>
 
-  <MessageCantBanishDownedPawn>Δεν είναι δυνατός ο εξορισμός του {0} επειδή HE δεν μπορεί να περπατήσει.</MessageCantBanishDownedPawn>
+  <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
+  <MessageCantBanishDownedPawn>Δεν είναι δυνατός ο εξορισμός του {1_labelShort} επειδή {1_pronoun} δεν μπορεί να περπατήσει.</MessageCantBanishDownedPawn>
 
+  <!-- EN: {0} have woken up. -->
   <MessageSleepingPawnsWokenUp>{0} έχουν ξυπνήσει.</MessageSleepingPawnsWokenUp>
 
+  <!-- EN: Item produced: {0}. -->
   <MessageCompSpawnerSpawnedItem>Αντικείμενο που παράχθηκε: {0}.</MessageCompSpawnerSpawnedItem>
 
+  <!-- EN: Health condition healed: {0}. -->
   <MessageHediffCuredByItem>Κατάσταση θεραπείας: {0}.</MessageHediffCuredByItem>
+  <!-- EN: Body part restored: {0}. -->
   <MessageBodyPartCuredByItem>Το μέλος του σώματος έχει αποκατασταθεί: {0}.</MessageBodyPartCuredByItem>
+  <!-- EN: Technology given: {0}. -->
   <MessageResearchProjectFinishedByItem>Τεχνολογία που δόθηκε: {0}.</MessageResearchProjectFinishedByItem>
 
+  <!-- EN: {0} has been brought back to life! -->
   <MessagePawnResurrected> {0} έχει ξανάρθει πίσω στη ζωή!</MessagePawnResurrected>
 
-  <MessageFailedToRescueRelative>Δεν επιτύχατε τη διάσωση του {0}. Αυτό θα κάνει τον {1} λυπημένο.</MessageFailedToRescueRelative>
-  <MessageRescuedRelative>Σώσατε τον {0}. Αυτό θα κάνει τον {1} ευτυχισμένο.</MessageRescuedRelative>
+  <!-- EN: You have failed to rescue {PAWN_labelShort}. This will make {RELATIVE_labelShort} sad. -->
+  <MessageFailedToRescueRelative>Δεν επιτύχατε τη διάσωση {PAWN_possessive} {PAWN_labelShort}. Αυτό θα κάνει {RELATIVE_objective} {RELATIVE_labelShort} λυπημένο.</MessageFailedToRescueRelative>
+  <!-- EN: You have rescued {PAWN_labelShort}. This will make {RELATIVE_labelShort} happy. -->
+  <MessageRescuedRelative>Σώσατε {PAWN_objective} {PAWN_labelShort}. Αυτό θα κάνει {RELATIVE_objective} {RELATIVE_labelShort} ευτυχισμένο.</MessageRescuedRelative>
 
-  <MessagePrisonerRescued>Έχεις σώσει NAME και HE έχει ενταχθεί στην αποικία σου.</MessagePrisonerRescued>
-
+  <!-- EN: The tornado has left the map. -->
   <MessageTornadoLeftMap>Ο ανεμοστρόβιλος έχει φύγει από τον χάρτη.</MessageTornadoLeftMap>
+  <!-- EN: The tornado has dissipated. -->
   <MessageTornadoDissipated>Ο ανεμοστρόβιλος έχει διαλυθεί.</MessageTornadoDissipated>
 
+  <!-- EN: No conscious, capable diplomat. -->
   <MessagePeaceTalksNoDiplomat>Κανένας γνωρίζων, ικανός διπλωμάτης.</MessagePeaceTalksNoDiplomat>
 
+  <!-- EN: Warning: {0} cannot live when exposed to light. -->
   <MessageWarningCavePlantsExposedToLight>Προειδοποίηση: Το {0} δεν μπορεί να ζήσει όταν εκτίθεται στο φως.</MessageWarningCavePlantsExposedToLight>
 
-  <MessageTargetedTantrumChangedTarget>{0} δεν μπόρεσε να φτάσει {1} έτσι HE αποφάσισε να ανακατευθύνει τον HIS θυμό του στο {2}.</MessageTargetedTantrumChangedTarget>
+  <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
+  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} δεν μπόρεσε να φτάσει {OLDTARGET_objective} {OLDTARGET_label} έτσι {PAWN_pronoun} αποφάσισε να ανακατευθύνει το θυμό {PAWN_possessive} σ{TARGET_objective} {TARGET_label}.</MessageTargetedTantrumChangedTarget>
 
-  <MessageTargetedInsultingSpreeChangedTarget>{0} δεν μπόρεσε να φτάσει {1} έτσι HE αποφάσισε να ανακατευθύνει τον HIS θυμό του στο {2}.</MessageTargetedInsultingSpreeChangedTarget>
+  <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
+  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} δεν μπόρεσε να φτάσει {OLDTARGET_objective} {OLDTARGET_label} έτσι {PAWN_pronoun} αποφάσισε να ανακατευθύνει το θυμό {PAWN_possessive} σ{TARGET_objective} {TARGET_label}.</MessageTargetedInsultingSpreeChangedTarget>
+
+  <!-- EN: {PAWN_labelShort} has decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
+  <MessageMurderousRageChangedTarget>{PAWN_labelShort} αποφάσισε να ανακατευθύνει το θυμό {PAWN_possessive} σ{TARGET_objective} {TARGET_label}.</MessageMurderousRageChangedTarget>
+
+  <!-- EN: {0} cannot grow underneath a roof. -->
+  <MessagePlantIncompatibleWithRoof>{0} δεν μπορεί να αναπτυχθεί κάτω από μια στέγη.</MessagePlantIncompatibleWithRoof>
+  <!-- EN: Cannot build a roof over {0}. -->
+  <MessageRoofIncompatibleWithPlant>Δεν γίνεται να κατασκευαστεί οροφή πάνω από {0}.</MessageRoofIncompatibleWithPlant>
+
+  <!-- EN: Caravan will automatically travel to the first waypoint. -->
+  <MessageChoseRoute>Το καραβάνι αυτόματα θα ταξιδέψει στο πρώτο σημείο αναφοράς</MessageChoseRoute>
+
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}. -->
+  <MessageCraftedMasterwork>{WORKER_labelShort} κατασκεύασε ένα {CRAFTED_labelShort}.</MessageCraftedMasterwork>
+
+  <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>Για να φύγετε από την περιοχή, χρησιμοποίησε το κουμπί "αναμόρφωση καραβανιού" στην προβολή του κόσμου.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <!-- EN: You can't leave the map now. -->
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>Δεν μπορείτε να φύγετε από την περιοχή τώρα</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
+
+  <!-- EN: Relations with {0} have changed from {1} to {2}. -->
+  <MessageGoodwillChanged>Οι σχέσεις με τους {0} έχουν αλλάξει από {1} σε {2}.</MessageGoodwillChanged>
+  <!-- EN: Relations with {0} have changed from {1} to {2} ({3}). -->
+  <MessageGoodwillChangedWithReason>Οι σχέσεις με τους {0} έχουν αλλάξει από {1} σε {2} ({3}).</MessageGoodwillChangedWithReason>
+  <!-- EN: attacked {1_labelShort} -->
+  <GoodwillChangedReason_AttackedPawn>επιτέθηκε {1_labelShort}</GoodwillChangedReason_AttackedPawn>
+  <!-- EN: used {ITEM_labelShort} on {TARGET_labelShort} -->
+  <GoodwillChangedReason_UsedItem>χρησιμοποίησε το {ITEM_labelShort} σ{TARGET_objective} {TARGET_labelShort}</GoodwillChangedReason_UsedItem>
+  <!-- EN: harvested {0} -->
+  <GoodwillChangedReason_RemovedBodyPart>πίρε {0}</GoodwillChangedReason_RemovedBodyPart>
+  <!-- EN: needlessly installed {0} -->
+  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>τοποθετήθηκε άσκοπα {0}</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+  <!-- EN: captured {1_labelShort} -->
+  <GoodwillChangedReason_CapturedPawn>αιχμαλώτισε {1_labelShort}</GoodwillChangedReason_CapturedPawn>
+  <!-- EN: {1_labelShort} crushed -->
+  <GoodwillChangedReason_PawnCrushed>{1_labelShort} συντρίφθηκε</GoodwillChangedReason_PawnCrushed>
+  <!-- EN: {1_labelShort} died -->
+  <GoodwillChangedReason_PawnDied>{1_labelShort} πέθανε</GoodwillChangedReason_PawnDied>
+  <!-- EN: traded -->
+  <GoodwillChangedReason_Traded>πουλήθηκε</GoodwillChangedReason_Traded>
+  <!-- EN: attacked a caravan -->
+  <GoodwillChangedReason_AttackedCaravan>επιτέθηκε σε ένα καραβάνι</GoodwillChangedReason_AttackedCaravan>
+  <!-- EN: natural tendency to reach {0} over time -->
+  <GoodwillChangedReason_NaturallyOverTime>φυσική τάση να φτάσει στο {0} με την πάροδο του χρόνου</GoodwillChangedReason_NaturallyOverTime>
+  <!-- EN: {1_labelShort} exited the map healthy -->
+  <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} έφυγε από το χάρη υγιής</GoodwillChangedReason_ExitedMapHealthy>
+  <!-- EN: tended to {1_labelShort} -->
+  <GoodwillChangedReason_Tended>θεραπεύτηκε στο {1_labelShort}</GoodwillChangedReason_Tended>
+  <!-- EN: received a gift -->
+  <GoodwillChangedReason_ReceivedGift>έλαβε ένα δώρο</GoodwillChangedReason_ReceivedGift>
+  <!-- EN: fulfilled a trade offer -->
+  <GoodwillChangedReason_FulfilledTradeRequest>εκπλήρωσε μια εμπορική προσφορά</GoodwillChangedReason_FulfilledTradeRequest>
+
+  <!-- EN: {0} accept your gift but they don't appreciate it. -->
+  <MessageGiftGivenButNotAppreciated>{0} δέχτηκαν το δώρο σας αλλά δεν το εκτίμησαν.</MessageGiftGivenButNotAppreciated>
+
+  <!-- EN: The caravan is already encumbered and can't carry anything else. -->
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>Το καραβάνι έχει ήδη παραφορτωθεί και δεν μπορεί να μεταφέρει τίποτα άλλο.</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <!-- EN: The caravan can't carry that much. The gifts weigh {0} but the caravan can only carry {1} more. -->
+  <MessageCantGiveGiftBecauseCantCarry>Το καραβάνι δεν μπορεί να μεταφέρει τόσο πολλά. Τα δώρα ζυγίζουν {0} αλλά το καραβάνι μπορεί να φέρει μόνο {1} περισσότερο.</MessageCantGiveGiftBecauseCantCarry>
+
+  <!-- EN: {0} has formed and is now traveling on the world map. -->
+  <MessageFormedCaravan>Το {0} έχει σχηματισθεί και τώρα ταξιδεύει στο χάρτη του κόσμου</MessageFormedCaravan>
+  <!-- EN: Orders -->
+  <MessageFormedCaravan_Orders>Εντολές</MessageFormedCaravan_Orders>
+
+  <!-- EN: {1}'s "{0}" can no longer deliver to deleted stockpile {2}. -->
+  <MessageBillValidationStoreZoneDeleted>{1_possessive} {1} το "{0}" δεν μπορεί πλέον να μεταφερθεί στο διαγραμμένο αποθηκευτικό χώρο {2}.</MessageBillValidationStoreZoneDeleted>
+  <!-- EN: {1}'s "{0}" can no longer deliver to unavailable stockpile {2}. -->
+  <MessageBillValidationStoreZoneUnavailable>{1_possessive} {1} το "{0}" δεν μπορεί πλέον να μεταφερθεί στο μη διαθέσιμο αποθηκευτικό χώρο {2}.</MessageBillValidationStoreZoneUnavailable>
+  <!-- EN: {0} can no longer work on "{1}" at {2}. The restriction has been removed. -->
+  <MessageBillValidationPawnUnavailable>{0} δεν μπορεί πλέον να εργασθεί στο "{1}" κατά {2}. Ο περιορισμός έχει καταργηθεί.</MessageBillValidationPawnUnavailable>
+  <!-- EN: {1}'s "{0}" can no longer count items in deleted stockpile {2}. -->
+  <MessageBillValidationIncludeZoneDeleted>{1_possessive} {1} το "{0}" δεν μπορεί πλέον να καταμετρήσει στο διαγραμμένο αποθηκευτικό χώρο {2}.</MessageBillValidationIncludeZoneDeleted>
+  <!-- EN: {1}'s "{0}" can no longer count items in unavailable stockpile {2}. -->
+  <MessageBillValidationIncludeZoneUnavailable>{1_possessive} {1} το "{0}" δεν μπορεί πλέον να καταμετρήσει στο μη διαθέσιμο αποθηκευτικό χώρο {2}.</MessageBillValidationIncludeZoneUnavailable>
+  <!-- EN: {1}'s "{0}" can no longer deliver all products to stockpile {2}. -->
+  <MessageBillValidationStoreZoneInsufficient>{1_possessive} {1} το "{0}" δεν μπορεί πλέον να μεταφέρει όλα τα προϊόντα στον αποθηκευτικό χώρο {2}.</MessageBillValidationStoreZoneInsufficient>
+
+  <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
+  <MessageAnimalReturnedWild>Λόγω έλλειψης συστηματικής εξημέρωσης, το {1_labelShort} επέστρεψε στην άγρια φύση.</MessageAnimalReturnedWild>
+  <!-- EN: Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1} -->
+  <MessageAnimalLostSkill>Λόγω έλλειψης συστηματικής εξημέρωσης, {ANIMAL_labelShort} έχασε μία ικανότητα: {1}</MessageAnimalLostSkill>
+
+  <!-- EN: Translation report written to {0} -->
+  <MessageTranslationReportSaved>Η αναφορά μετάφρασης αποθηκεύτηκε σε {0}</MessageTranslationReportSaved>
+
+  <!-- EN: {0} couldn't reach its destination. -->
+  <MessageCaravanArrivalActionNoLongerValid>{0} δεν μπορούσε να φτάσει στον προορισμό του </MessageCaravanArrivalActionNoLongerValid>
+
+  <!-- EN: You can't re-enter for another {0} days. -->
+  <MessageEnterCooldownBlocksEntering>Δεν μπορείτε να ξαναμπείτε για τις επόμενες {0} μέρες</MessageEnterCooldownBlocksEntering>
+
+  <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
+  <MessagePredatorHuntingPlayerAnimal>{PREDATOR} κυνηγά το {PREY_definite} για φαγητό</MessagePredatorHuntingPlayerAnimal>
+
+  <!-- EN: Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}. -->
+  <MessagePrisonerResistanceBroken>Η αντίσταση {PRISONER_possessive} φυλακισμένου {PRISONER_labelShort} έσπασε από {WARDEN_objective} {WARDEN_labelShort}</MessagePrisonerResistanceBroken>
+  <!-- EN: Recruitment attempts will begin. -->
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>Οι προσπάθειες στρατολόγησης θ' αρχίσουν.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+
+  <!-- EN: Disable all mods before using this tool. -->
+  <MessageDisableModsBeforeCleaningTranslationFiles>Απενεργοποίησε όλα τα mod πριν την χρήση αυτού του εργαλείου.</MessageDisableModsBeforeCleaningTranslationFiles>
+  <!-- EN: Done. Affected folder: {0} -->
+  <MessageTranslationFilesCleanupDone>Ολοκληρώθηκε. Επηρεασμένος φάκελος: {0}</MessageTranslationFilesCleanupDone>
+
+  <!-- EN: One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first. -->
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>Δεν ήταν δυνατή η φόρτωση ενός αρχείου μετάφρασης ({0}). Όλα τα τεχνητά XML σφάλματα πρέπει πρώτα να επιλυθούν.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+
+  <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
+  <MessageCapturingWillAngerFaction>Προειδοποίηση: Η αιχμαλώτιση {PAWN_possessive} {PAWN_nameDef} θα προκαλέσει το θυμό της φατρίας {PAWN_factionName}.</MessageCapturingWillAngerFaction>
+
+  <!-- EN: Cannot shoot in melee. -->
+  <MessageCantShootInMelee>Δεν μπορεί να πυροβολήσει εξ' επαφής</MessageCantShootInMelee>
 
 </LanguageData>

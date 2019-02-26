@@ -1,11 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Master.label>αφεντικό</Master.label>
+  
+  <!-- EN: allowed area -->
   <AllowedArea.label>επιτρεπόμενη περιοχή</AllowedArea.label>
+  
+  <!-- EN: allowed area -->
   <AllowedAreaWide.label>επιτρεπόμενη περιοχή</AllowedAreaWide.label>
-  <Outfit.label>τρέχων ενδυμασία</Outfit.label>
+  
+  <!-- EN: drug policy -->
   <DrugPolicy.label>πολιτική ναρκωτικού</DrugPolicy.label>
-
-
+  
+  <!-- EN: food restriction -->
+  <FoodRestriction.label>περιορισμοί στη διατροφή</FoodRestriction.label>
+  
+  <!-- EN: Hostility response -->
+  <HostilityResponse.headerTip>Αντίδραση στους εχθρούς</HostilityResponse.headerTip>
+  
+  <!-- EN: master -->
+  <Master.label>αφεντικό</Master.label>
+  
+  <!-- EN: Medical care -->
+  <MedicalCare.headerTip>Ιατρική φροντίδα</MedicalCare.headerTip>
+  
+  <!-- EN: current outfit -->
+  <Outfit.label>τρέχων ενδυμασία</Outfit.label>
+  
 </LanguageData>

@@ -1,11 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: burned tree -->
   <BurnedTree.label>καμένο δέντρο</BurnedTree.label>
-  <BurnedTree.description>Ένα καμένο δέντρο. Δεν προσφέρει χρήσιμο ξύλο.</BurnedTree.description>
-
-  <PlantAmbrosia.label>θάμνος αμβροσίας</PlantAmbrosia.label>
-  <PlantAmbrosia.description>Ένας σπάνιος βλαστήνοντας θάμνος που αποδίδει τον καρπό της αμβροσίας. Η αμβροσία είναι ευχάριστη για φαγητό και παράγει ελαφρώς εθιστική χημική ζεστασιά.</PlantAmbrosia.description>
-
-
+  <!-- EN: A burned tree stump. It's ugly and yields no usable wood. -->
+  <BurnedTree.description>Ένα καμένο δέντρο. Είναι άσχημο και δεν προσφέρει χρήσιμο ξύλο.</BurnedTree.description>
+  
+  <!-- EN: ambrosia bush -->
+  <Plant_Ambrosia.label>θάμνος αμβροσίας</Plant_Ambrosia.label>
+  <!-- EN: A rare wild bush which yields the ambrosia fruit. Ambrosia fruit is delicious and produces a drug-like mood boost. Ambrosia cannot be farmed, which makes wild ambrosia groves very valuable.\n\nIts rarity, beauty, and desirability are why ambrosia was named after the food of the ancient Greek gods. -->
+  <Plant_Ambrosia.description>Ένας σπάνιος άγριος θάμνος που παράγει τον καρπό της αμβροσίας. Ο καρπός της αμβροσίας είναι νόστιμος και προσφέρει μια παρόρμηση όπως τα ναρκωτικά. Η αμβροσία δεν μπορεί να εκτραφεί, γεγονός που καθιστά τα άλση αμβροσίας πολύτιμα.\n\nΗ σπανιότητα, η ομορφιά και η επιθυμητότητά της είναι ο λόγος που η αμβροσία πήρε το όνομά της από το φαγητό των αρχαίων ελληνικών θεών.</Plant_Ambrosia.description>
+  
 </LanguageData>

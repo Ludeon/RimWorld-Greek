@@ -1,16 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Cassandra Classic -->
   <Cassandra.label>Η κλασική Κασσάνδρα</Cassandra.label>
-  <Cassandra.description>Η Κασσάνδρα δημιουργεί γεγονότα με έναν σταθερά αυξανόμενο βαθμό με προκλήσεις και εντάσεις.</Cassandra.description>
-
+  <!-- EN: Cassandra creates story events on a classic increasing curve of challenge and tension. She'll push you with dangerous events, then give breathing room, then come back to push once more. -->
+  <Cassandra.description>Η Κασσάνδρα δημιουργεί γεγονότα με έναν σταθερά αυξανόμενο βαθμό με προκλήσεις και εντάσεις. Θα σας σπρώξει σε επικίνδυνα γεγονότα, στη συνέχεια θα σας δώσει χώρο αναπνοής, και στη συνέχεια θα επιστρέψει για να σας πιέσει για άλλη μια φορά.</Cassandra.description>
+  
+  <!-- EN: Phoebe Chillax -->
   <Phoebe.label>Χαλαρωτική Φοίβη</Phoebe.label>
-  <Phoebe.description>Η Φοίβη δίνει πολύ χρόνο μεταξύ καταστροφών για να χαλαρώσετε και να χτίσετε την αποικία σας. Αλλά προσέξτε - σε μεγάλες δυσκολίες, θα χτυπήσει πιο σκληρά απ' τον καθένα.</Phoebe.description>
-
+  <!-- EN: Phoebe gives lots of time between disasters to build your colony. But beware - at high difficulties, she'll hit as hard as anyone. -->
+  <Phoebe.description>Η Φοίβη δίνει πολύ χρόνο μεταξύ καταστροφών για να χαλαρώσετε και να χτίσετε την αποικία σας. Αλλά προσέξτε - στις μεγάλες δυσκολίες, θα χτυπήσει πιο σκληρά απ' τον καθένα.</Phoebe.description>
+  
+  <!-- EN: Randy Random -->
   <Randy.label>Αβέβαιος Ράντι</Randy.label>
-  <Randy.description>Ο Ράντι δεν ακολουθεί κανόνες. Θα δημιουργεί τυχαία γεγονότα, και δεν τον νοιάζει αν θα πρόκειται για ιστορία θριάμβου ή απόλυτης απελπισίας. Γι' αυτόν όλα είναι ένα δράμα.</Randy.description>
-
+  <!-- EN: Randy doesn't follow rules. He'll generate random events, and he doesn't care if they make a story of triumph or utter hopelessness. It's all drama to him.\n\nWarning: Since Randy is truly random, he will sometimes send extremely difficult or unfair groups of events at you. It makes for high drama - and unavoidable sacrifices. -->
+  <Randy.description>Ο Ράντι δεν ακολουθεί κανόνες. Θα δημιουργεί τυχαία γεγονότα, και δεν τον νοιάζει αν θα πρόκειται για ιστορία θριάμβου ή απόλυτης απελπισίας. Γι' αυτόν όλα είναι ένα δράμα.\n\nΠροειδοποίηση: Επειδή ο Ράντι λειτουργεί πραγματικά τυχαία, μερικές φορές θα σας στείλει εξαιρετικά δύσκολες ή άδικες καταστάσεις συμβάντων. Δημιουργεί κορυφαίο δράμα με τις αναπόφευκτες θυσίες.</Randy.description>
+  
+  <!-- EN: Tutor Hidden -->
   <Tutor.label>Απόκρυψη Βοηθού Εκμάθησης</Tutor.label>
-
-
+  
 </LanguageData>

@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <GoJuiceHigh.stages.0.label>έχω φτιαχτεί με τον χυμό που σε στέλνει</GoJuiceHigh.stages.0.label>
-  <GoJuiceHigh.stages.0.description>Αισθάνομαι καύλα αλλά και ηρεμία. Είμαι η σφαίρα ελεύθερου σκοπευτή κατά την πτήση, έτοιμη να σας διαπεράσει.</GoJuiceHigh.stages.0.description>
-
-
-  <!-- Εθισμός στον χυμό που σε στέλνει (Go-juice addiction) -->
-
-  <GoJuiceWithdrawal.stages.1.label>στέρηση από τον χυμό που σε στέλνει</GoJuiceWithdrawal.stages.1.label>
-  <GoJuiceWithdrawal.stages.1.description>Είμαι όλο ζαλισμένος και δεν μπορώ να σκεφτώ σωστά. Αισθάνομαι τα άκρα μου βαριά, είμαι κουρασμένος και πεινασμένος, όλα πονάνε. Και γιατί τα μάτια μου δεν μπορούν να εστιάσουν σωστά;</GoJuiceWithdrawal.stages.1.description>
-
-
+  
+  <!-- EN: high on go-juice -->
+  <GoJuiceHigh.stages.high_on_gojuice.label>έχω φτιαχτεί με τον χυμό που σε στέλνει</GoJuiceHigh.stages.high_on_gojuice.label>
+  <!-- EN: I feel pumped but steady. I am the bullet in flight, ready to cut through you. -->
+  <GoJuiceHigh.stages.high_on_gojuice.description>Αισθάνομαι καύλα αλλά και ηρεμία. Είμαι η σφαίρα ελεύθερου σκοπευτή κατά την πτήση, έτοιμη να σας διαπεράσει.</GoJuiceHigh.stages.high_on_gojuice.description>
+  
+  <!-- EN: go-juice withdrawal -->
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.label>στέρηση από τον χυμό που σε στέλνει</GoJuiceWithdrawal.stages.gojuice_withdrawal.label>
+  <!-- EN: I'm all fuzzy and can't think straight. My limbs feel heavy, I'm tired and hungry, everything hurts. And why won't my eyes focus properly? -->
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.description>Είμαι όλο ζαλισμένος και δεν μπορώ να σκεφτώ σωστά. Αισθάνομαι τα άκρα μου βαριά, είμαι κουρασμένος και πεινασμένος, όλα πονάνε. Και γιατί τα μάτια μου δεν μπορούν να εστιάσουν σωστά;</GoJuiceWithdrawal.stages.gojuice_withdrawal.description>
+  
 </LanguageData>

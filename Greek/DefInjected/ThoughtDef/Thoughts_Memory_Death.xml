@@ -1,109 +1,163 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- εκτελέσεις και θάνατοι κρατουμένων (executions and prisoner deaths) -->
-
-  <KnowGuestExecuted.stages.0.label>δικαιολογημένη εκτέλεση</KnowGuestExecuted.stages.0.label>
-  <KnowGuestExecuted.stages.0.description>Εκτελέστηκε ένας ένοχος κρατούμενος ή επισκέπτης. Αυτό ήταν δικαιολογημένο, αλλά είναι ακόμα θλιβερό.</KnowGuestExecuted.stages.0.description>
-  <KnowGuestExecuted.stages.1.label>κάποιος υπέστη ευθανασία</KnowGuestExecuted.stages.1.label>
-  <KnowGuestExecuted.stages.1.description>Ένας αιχμάλωτος ή ένας φιλοξενούμενος υπέστη ευθανασία. Ήταν ανθρώπινο, παρόλα αυτά λυπηρό.</KnowGuestExecuted.stages.1.description>
-  <KnowGuestExecuted.stages.2.label>κάποιος εκτελέστηκε</KnowGuestExecuted.stages.2.label>
-  <KnowGuestExecuted.stages.2.description>Ένας αιχμάλωτος ή επισκέπτης σκοτώθηκε εν ψυχρώ. Φαίνεται λίγο κακό.</KnowGuestExecuted.stages.2.description>
-  <KnowGuestExecuted.stages.3.label>κάποιου αφαιρέθηκαν τα όργανα</KnowGuestExecuted.stages.3.label>
-  <KnowGuestExecuted.stages.3.description>Ένας φυλακισμένος ή ένας φιλοξενούμενος πέθανε επειδή η αποικία του αφαίρεσε μέλη του σώματός του. Είναι απαίσιο.</KnowGuestExecuted.stages.3.description>
-
-  <KnowColonistExecuted.stages.0.label>δικαιολογημένη εκτέλεση αποίκου</KnowColonistExecuted.stages.0.label>
-  <KnowColonistExecuted.stages.0.description>Εκτελέστηκε ένας ένοχος άποικος. Αυτό ήταν δικαιολογημένο, παρόλα αυτά θλιβερό.</KnowColonistExecuted.stages.0.description>
-  <KnowColonistExecuted.stages.1.label>ένας άποικος υπέστη ευθανασία</KnowColonistExecuted.stages.1.label>
-  <KnowColonistExecuted.stages.1.description>Ένας άποικος υπέστη ευθανασία. Ήταν ανθρώπινο, παρόλα αυτά λυπηρό.</KnowColonistExecuted.stages.1.description>
-  <KnowColonistExecuted.stages.2.label>ένας άποικος εκτελέστηκε</KnowColonistExecuted.stages.2.label>
-  <KnowColonistExecuted.stages.2.description>Ένας άποικος εκτελέστηκε εν ψυχρώ. Φαίνεται λίγο κακό.</KnowColonistExecuted.stages.2.description>
-  <KnowColonistExecuted.stages.3.label>σε έναν άποικο αφαιρέθηκαν τα όργανα</KnowColonistExecuted.stages.3.label>
-  <KnowColonistExecuted.stages.3.description>Ένας άποικος πέθανε επειδή η αποικία του αφαίρεσε μέλη του σώματός του. Είναι απαίσιο.</KnowColonistExecuted.stages.3.description>
-
-  <KnowPrisonerDiedInnocent.stages.0.label>αθώος φυλακισμένος πέθανε</KnowPrisonerDiedInnocent.stages.0.label>
-  <KnowPrisonerDiedInnocent.stages.0.description>Ένας από τους φυλακισμένους μας πέθανε παρά την αβλαβία του. Πρέπει να είμαστε σε θέση να φροντίσουμε τους κρατουμένους μας. Αν τους θέλαμε να είναι νεκροί, θα μπορούσαμε τουλάχιστον να κάνουμε μια κανονική εκτέλεση αντί να επιτρέψουμε αυτή τη βαρβαρότητα.</KnowPrisonerDiedInnocent.stages.0.description>
-
-  <KnowColonistDied.stages.0.label>πέθανε άποικος</KnowColonistDied.stages.0.label>
-  <KnowColonistDied.stages.0.description>Ένας από τους ανθρώπους μας πέθανε. Πρέπει να είμαστε σε θέση να φροντίζουμε τους ανθρώπους μας.</KnowColonistDied.stages.0.description>
-
-
-  <!-- ζώο με αφεντικό πέθανε (bonded animal died) -->
-
-  <BondedAnimalDied.stages.0.label>το ζώο {0} με αφεντικό πέθανε</BondedAnimalDied.stages.0.label>
-  <BondedAnimalDied.stages.0.description>Ένα τέτοιο, μοναδικό ζώο. Αυτό το σύμπαν είναι σατανικό!</BondedAnimalDied.stages.0.description>
-
-
-  <!-- φίλος/αντίπαλος πέθανε (friend/rival died) -->
-
-  <PawnWithGoodOpinionDied.stages.0.label>ο φίλος μου {0} πέθανε</PawnWithGoodOpinionDied.stages.0.label>
-  <PawnWithGoodOpinionDied.stages.0.description>Ένας υπέροχος άνθρωπος. Το σύμπαν γίνεται πιο σκούρο καθημερινά.</PawnWithGoodOpinionDied.stages.0.description>
-
-  <PawnWithBadOpinionDied.stages.0.label>ο αντίπαλος μου {0} πέθανε</PawnWithBadOpinionDied.stages.0.label>
-  <PawnWithBadOpinionDied.stages.0.description>Του άξιζε. Η κατάσταση βελτιώνεται.</PawnWithBadOpinionDied.stages.0.description>
-
-
-  <!-- Σκέψεις για το θάνατο οικογενειακού προσώπου (Family member died thoughts) -->
-
-  <MySonDied.stages.0.label>ο γιος μου {0} πέθανε</MySonDied.stages.0.label>
-  <MySonDied.stages.0.description>Ο γιος μου είναι νεκρός. Η δική μου σάρκα και αίμα...</MySonDied.stages.0.description>
-
-  <MyDaughterDied.stages.0.label>η κόρη μου {0} πέθανε</MyDaughterDied.stages.0.label>
-  <MyDaughterDied.stages.0.description>Η κόρη μου είναι νεκρή. Η σάρκα και το αίμα μου...</MyDaughterDied.stages.0.description>
-
-  <MyHusbandDied.stages.0.label>ο άντρας μου {0} πέθανε</MyHusbandDied.stages.0.label>
-  <MyHusbandDied.stages.0.description>Ο άντρας μου είναι νεκρός. Είμαι μόνη.</MyHusbandDied.stages.0.description>
-
-  <MyWifeDied.stages.0.label>η γυναίκα μου {0} πέθανε</MyWifeDied.stages.0.label>
-  <MyWifeDied.stages.0.description>Η σύντροφός μου είναι νεκρή. Είμαι μόνος μου.</MyWifeDied.stages.0.description>
-
-  <MyFianceDied.stages.0.label>ο αρραβωνιαστικός μου {0} πέθανε</MyFianceDied.stages.0.label>
-  <MyFianceDied.stages.0.description>Ο γκόμενός μου πέθανε. Ένας τέτοιος άντρας... το μέλλον μου πάει.</MyFianceDied.stages.0.description>
-
-  <MyFianceeDied.stages.0.label>η μνηστή μου {0} πέθανε</MyFianceeDied.stages.0.label>
-  <MyFianceeDied.stages.0.description>Ο κοπέλα μου πέθανε. Τέτοια γυναίκα... το μέλλον μου πάει.</MyFianceeDied.stages.0.description>
-
-  <MyLoverDied.stages.0.label>η αγάπη μου {0} πέθανε</MyLoverDied.stages.0.label>
-  <MyLoverDied.stages.0.description>Το σουτζουκάκι μου πέθανε. Είμαι τόσο μόνη.</MyLoverDied.stages.0.description>
-
-  <MyBrotherDied.stages.0.label>ο αδερφός μου {0} πέθανε</MyBrotherDied.stages.0.label>
-  <MyBrotherDied.stages.0.description>Ο αδερφός μου είναι νεκρός. Η σάρκα και το αίμα μου...</MyBrotherDied.stages.0.description>
-
-  <MySisterDied.stages.0.label>η αδερφή μου {0} πέθανε</MySisterDied.stages.0.label>
-  <MySisterDied.stages.0.description>Η αδελφή μου είναι νεκρή. Η σάρκα και το αίμα μου...</MySisterDied.stages.0.description>
-
-  <MyGrandchildDied.stages.0.label>το εγγόνι μου {0} πέθανε</MyGrandchildDied.stages.0.label>
-  <MyGrandchildDied.stages.0.description>Το εγγονάκι μου είναι νεκρό. Η σάρκα και το αίμα μου...</MyGrandchildDied.stages.0.description>
-
-  <MyFatherDied.stages.0.label>ο πατέρας μου {0} πέθανε</MyFatherDied.stages.0.label>
-  <MyFatherDied.stages.0.description>Ο πατέρας μου πέθανε. Έφυγε για πάντα.</MyFatherDied.stages.0.description>
-
-  <MyMotherDied.stages.0.label>η μητέρα μου {0} πέθανε</MyMotherDied.stages.0.label>
-  <MyMotherDied.stages.0.description>Η μάνα μου πέθανε. Έφυγε για πάντα.</MyMotherDied.stages.0.description>
-
-  <MyNieceDied.stages.0.label>η ανιψιά μου {0} πέθανε</MyNieceDied.stages.0.label>
-  <MyNieceDied.stages.0.description>Η ανιψιά μου πέθανε. Ήταν έναν καταπληκτικό παιδί.</MyNieceDied.stages.0.description>
-
-  <MyNephewDied.stages.0.label>ο ανιψιός μου {0} πέθανε</MyNephewDied.stages.0.label>
-  <MyNephewDied.stages.0.description>Ο ανιψιός μου πέθανε. Ήταν ένα υπέροχο παιδί.</MyNephewDied.stages.0.description>
-
-  <MyHalfSiblingDied.stages.0.label>ο ετεροθαλής αδελφός {0} μου πέθανε</MyHalfSiblingDied.stages.0.label>
-  <MyHalfSiblingDied.stages.0.description>Ο ετεροθαλής αδερφός μου είναι νεκρός. Η σάρκα και το αίμα μου...</MyHalfSiblingDied.stages.0.description>
-
-  <MyAuntDied.stages.0.label>η θεία μου {0} πέθανε</MyAuntDied.stages.0.label>
-  <MyAuntDied.stages.0.description>Η θιά μου πέθανε.</MyAuntDied.stages.0.description>
-
-  <MyUncleDied.stages.0.label>ο θείος μου {0} πέθανε</MyUncleDied.stages.0.label>
-  <MyUncleDied.stages.0.description>Ο μπάρμπας μου πέθανε.</MyUncleDied.stages.0.description>
-
-  <MyGrandparentDied.stages.0.label>ο παππούς μου {0} πέθανε</MyGrandparentDied.stages.0.label>
-  <MyGrandparentDied.stages.0.description>Ο παππούς μου πέθανε.</MyGrandparentDied.stages.0.description>
-
-  <MyCousinDied.stages.0.label>ο ξάδερφος μου {0} πέθανε</MyCousinDied.stages.0.label>
-  <MyCousinDied.stages.0.description>Ο ξάδερφός μου είναι νεκρός. Η σάρκα και το αίμα μου...</MyCousinDied.stages.0.description>
-
-  <MyKinDied.stages.0.label>ο συγγενής μου {0} πέθανε</MyKinDied.stages.0.label>
-  <MyKinDied.stages.0.description>Το σόι μου πέθανε.</MyKinDied.stages.0.description>
-
-
+  
+  <!-- EN: bonded animal {0} died -->
+  <BondedAnimalDied.stages.bonded_animal_died.label>το ζώο {0} με αφεντικό πέθανε</BondedAnimalDied.stages.bonded_animal_died.label>
+  <!-- EN: Such a tender, unique animal. This universe is evil! -->
+  <BondedAnimalDied.stages.bonded_animal_died.description>Ένα τέτοιο, μοναδικό ζώο. Αυτό το σύμπαν είναι σατανικό!</BondedAnimalDied.stages.bonded_animal_died.description>
+  
+  <!-- EN: colonist died -->
+  <KnowColonistDied.stages.colonist_died.label>πέθανε άποικος</KnowColonistDied.stages.colonist_died.label>
+  <!-- EN: One of our people died. We should be able to take care of our people. -->
+  <KnowColonistDied.stages.colonist_died.description>Ένας από τους ανθρώπους μας πέθανε. Πρέπει να είμαστε σε θέση να φροντίζουμε τους ανθρώπους μας.</KnowColonistDied.stages.colonist_died.description>
+  
+  <!-- EN: justified execution of colonist -->
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.label>δικαιολογημένη εκτέλεση αποίκου</KnowColonistExecuted.stages.justified_execution_of_colonist.label>
+  <!-- EN: A guilty colonist was executed. It was justified, but still sad. -->
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.description>Εκτελέστηκε ένας ένοχος άποικος. Αυτό ήταν δικαιολογημένο, παρόλα αυτά θλιβερό.</KnowColonistExecuted.stages.justified_execution_of_colonist.description>
+  <!-- EN: colonist euthanized -->
+  <KnowColonistExecuted.stages.colonist_euthanized.label>ένας άποικος υπέστη ευθανασία</KnowColonistExecuted.stages.colonist_euthanized.label>
+  <!-- EN: A colonist was euthanized. It was humane, but still sad. -->
+  <KnowColonistExecuted.stages.colonist_euthanized.description>Ένας άποικος υπέστη ευθανασία. Ήταν ανθρώπινο, παρόλα αυτά λυπηρό.</KnowColonistExecuted.stages.colonist_euthanized.description>
+  <!-- EN: colonist executed -->
+  <KnowColonistExecuted.stages.colonist_executed.label>ένας άποικος εκτελέστηκε</KnowColonistExecuted.stages.colonist_executed.label>
+  <!-- EN: A colonist was killed in cold blood. It seemed a bit evil. -->
+  <KnowColonistExecuted.stages.colonist_executed.description>Ένας άποικος εκτελέστηκε εν ψυχρώ. Φαίνεται λίγο κακό.</KnowColonistExecuted.stages.colonist_executed.description>
+  <!-- EN: colonist organ-harvested -->
+  <KnowColonistExecuted.stages.colonist_organharvested.label>σε έναν άποικο αφαιρέθηκαν τα όργανα</KnowColonistExecuted.stages.colonist_organharvested.label>
+  <!-- EN: A colonist died because someone took body parts from him. It's horrible. -->
+  <KnowColonistExecuted.stages.colonist_organharvested.description>Ένας άποικος πέθανε επειδή η αποικία του αφαίρεσε μέλη του σώματός του. Είναι απαίσιο.</KnowColonistExecuted.stages.colonist_organharvested.description>
+  
+  <!-- EN: justified execution -->
+  <KnowGuestExecuted.stages.justified_execution.label>δικαιολογημένη εκτέλεση</KnowGuestExecuted.stages.justified_execution.label>
+  <!-- EN: A guilty prisoner or guest was executed. It was justified, but still sad. -->
+  <KnowGuestExecuted.stages.justified_execution.description>Εκτελέστηκε ένας ένοχος κρατούμενος ή επισκέπτης. Αυτό ήταν δικαιολογημένο, αλλά είναι ακόμα θλιβερό.</KnowGuestExecuted.stages.justified_execution.description>
+  <!-- EN: someone was euthanized -->
+  <KnowGuestExecuted.stages.someone_was_euthanized.label>κάποιος υπέστη ευθανασία</KnowGuestExecuted.stages.someone_was_euthanized.label>
+  <!-- EN: A prisoner or guest was euthanized. It was humane, but still sad. -->
+  <KnowGuestExecuted.stages.someone_was_euthanized.description>Ένας αιχμάλωτος ή ένας φιλοξενούμενος υπέστη ευθανασία. Ήταν ανθρώπινο, παρόλα αυτά λυπηρό.</KnowGuestExecuted.stages.someone_was_euthanized.description>
+  <!-- EN: someone was executed -->
+  <KnowGuestExecuted.stages.someone_was_executed.label>κάποιος εκτελέστηκε</KnowGuestExecuted.stages.someone_was_executed.label>
+  <!-- EN: A prisoner or guest was killed in cold blood. It seemed a bit evil. -->
+  <KnowGuestExecuted.stages.someone_was_executed.description>Ένας αιχμάλωτος ή επισκέπτης σκοτώθηκε εν ψυχρώ. Φαίνεται λίγο κακό.</KnowGuestExecuted.stages.someone_was_executed.description>
+  <!-- EN: someone was organ-murdered -->
+  <KnowGuestExecuted.stages.someone_was_organmurdered.label>κάποιου αφαιρέθηκαν τα όργανα</KnowGuestExecuted.stages.someone_was_organmurdered.label>
+  <!-- EN: A prisoner or guest died because the colony took body parts from him. It's horrible. -->
+  <KnowGuestExecuted.stages.someone_was_organmurdered.description>Ένας φυλακισμένος ή ένας φιλοξενούμενος πέθανε επειδή η αποικία του αφαίρεσε μέλη του σώματός του. Είναι απαίσιο.</KnowGuestExecuted.stages.someone_was_organmurdered.description>
+  
+  <!-- EN: innocent prisoner died -->
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>αθώος φυλακισμένος πέθανε</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>
+  <!-- EN: One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism. -->
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>Ένας από τους φυλακισμένους μας πέθανε παρά την αβλαβία του. Πρέπει να είμαστε σε θέση να φροντίσουμε τους κρατουμένους μας. Αν τους θέλαμε να είναι νεκροί, θα μπορούσαμε τουλάχιστον να κάνουμε μια κανονική εκτέλεση αντί να επιτρέψουμε αυτή τη βαρβαρότητα.</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>
+  
+  <!-- EN: my aunt {0} died -->
+  <MyAuntDied.stages.my_aunt_died.label>η θεία μου {0} πέθανε</MyAuntDied.stages.my_aunt_died.label>
+  <!-- EN: My aunt died. -->
+  <MyAuntDied.stages.my_aunt_died.description>Η θεία μου πέθανε.</MyAuntDied.stages.my_aunt_died.description>
+  
+  <!-- EN: my brother {0} died -->
+  <MyBrotherDied.stages.my_brother_died.label>ο αδερφός μου {0} πέθανε</MyBrotherDied.stages.my_brother_died.label>
+  <!-- EN: My brother died. My own flesh and blood... -->
+  <MyBrotherDied.stages.my_brother_died.description>Ο αδερφός μου είναι νεκρός. Η σάρκα και το αίμα μου...</MyBrotherDied.stages.my_brother_died.description>
+  
+  <!-- EN: my cousin {0} died -->
+  <MyCousinDied.stages.my_cousin_died.label>ο ξάδερφος μου {0} πέθανε</MyCousinDied.stages.my_cousin_died.label>
+  <!-- EN: My cousin died. My own flesh and blood... -->
+  <MyCousinDied.stages.my_cousin_died.description>Ο ξάδερφός μου είναι νεκρός. Η σάρκα και το αίμα μου...</MyCousinDied.stages.my_cousin_died.description>
+  
+  <!-- EN: my daughter {0} died -->
+  <MyDaughterDied.stages.my_daughter_died.label>η κόρη μου {0} πέθανε</MyDaughterDied.stages.my_daughter_died.label>
+  <!-- EN: My daughter is dead. My own flesh and blood... -->
+  <MyDaughterDied.stages.my_daughter_died.description>Η κόρη μου είναι νεκρή. Η σάρκα και το αίμα μου...</MyDaughterDied.stages.my_daughter_died.description>
+  
+  <!-- EN: my father {0} died -->
+  <MyFatherDied.stages.my_father_died.label>ο πατέρας μου {0} πέθανε</MyFatherDied.stages.my_father_died.label>
+  <!-- EN: My father died. He's gone forever. -->
+  <MyFatherDied.stages.my_father_died.description>Ο πατέρας μου πέθανε. Έφυγε για πάντα.</MyFatherDied.stages.my_father_died.description>
+  
+  <!-- EN: my fiance {0} died -->
+  <MyFianceDied.stages.my_fiance_died.label>ο αρραβωνιαστικός μου {0} πέθανε</MyFianceDied.stages.my_fiance_died.label>
+  <!-- EN: My fiance died. Such a man... my future is gone. -->
+  <MyFianceDied.stages.my_fiance_died.description>Ο γκόμενός μου πέθανε. Ένας τέτοιος άντρας... το μέλλον μου πάει.</MyFianceDied.stages.my_fiance_died.description>
+  
+  <!-- EN: my fiancée {0} died -->
+  <MyFianceeDied.stages.my_fiance_died.label>η μνηστή μου {0} πέθανε</MyFianceeDied.stages.my_fiance_died.label>
+  <!-- EN: My fiancée died. Such a woman... my future is gone. -->
+  <MyFianceeDied.stages.my_fiance_died.description>Ο κοπέλα μου πέθανε. Τέτοια γυναίκα... το μέλλον μου καταστράφηκε.</MyFianceeDied.stages.my_fiance_died.description>
+  
+  <!-- EN: my grandchild {0} died -->
+  <MyGrandchildDied.stages.my_grandchild_died.label>το εγγόνι μου {0} πέθανε</MyGrandchildDied.stages.my_grandchild_died.label>
+  <!-- EN: My grandchild died. My own flesh and blood... -->
+  <MyGrandchildDied.stages.my_grandchild_died.description>Το εγγονάκι μου είναι νεκρό. Η σάρκα και το αίμα μου...</MyGrandchildDied.stages.my_grandchild_died.description>
+  
+  <!-- EN: my grandparent {0} died -->
+  <MyGrandparentDied.stages.my_grandparent_died.label>ο παππούς μου {0} πέθανε</MyGrandparentDied.stages.my_grandparent_died.label>
+  <!-- EN: My grandparent died. -->
+  <MyGrandparentDied.stages.my_grandparent_died.description>Ο παππούς μου πέθανε.</MyGrandparentDied.stages.my_grandparent_died.description>
+  
+  <!-- EN: my half-sibling {0} died -->
+  <MyHalfSiblingDied.stages.my_halfsibling_died.label>ο ετεροθαλής αδελφός {0} μου πέθανε</MyHalfSiblingDied.stages.my_halfsibling_died.label>
+  <!-- EN: My half-sibling died. My own flesh and blood... -->
+  <MyHalfSiblingDied.stages.my_halfsibling_died.description>Ο ετεροθαλής αδερφός μου είναι νεκρός. Η σάρκα και το αίμα μου...</MyHalfSiblingDied.stages.my_halfsibling_died.description>
+  
+  <!-- EN: my husband {0} died -->
+  <MyHusbandDied.stages.my_husband_died.label>ο άντρας μου {0} πέθανε</MyHusbandDied.stages.my_husband_died.label>
+  <!-- EN: My husband is dead. I am alone. -->
+  <MyHusbandDied.stages.my_husband_died.description>Ο άντρας μου είναι νεκρός. Είμαι μόνη.</MyHusbandDied.stages.my_husband_died.description>
+  
+  <!-- EN: my kin {0} died -->
+  <MyKinDied.stages.my_kin_died.label>ο συγγενής μου {0} πέθανε</MyKinDied.stages.my_kin_died.label>
+  <!-- EN: My kin died. -->
+  <MyKinDied.stages.my_kin_died.description>Το σόι μου πέθανε.</MyKinDied.stages.my_kin_died.description>
+  
+  <!-- EN: my lover {0} died -->
+  <MyLoverDied.stages.my_lover_died.label>η αγάπη μου {0} πέθανε</MyLoverDied.stages.my_lover_died.label>
+  <!-- EN: My lover died. I am so alone. -->
+  <MyLoverDied.stages.my_lover_died.description>Το σουτζουκάκι μου πέθανε. Είμαι τόσο μόνη.</MyLoverDied.stages.my_lover_died.description>
+  
+  <!-- EN: my mother {0} died -->
+  <MyMotherDied.stages.my_mother_died.label>η μητέρα μου {0} πέθανε</MyMotherDied.stages.my_mother_died.label>
+  <!-- EN: My mother died. She's gone forever. -->
+  <MyMotherDied.stages.my_mother_died.description>Η μάνα μου πέθανε. Έφυγε για πάντα.</MyMotherDied.stages.my_mother_died.description>
+  
+  <!-- EN: my nephew {0} died -->
+  <MyNephewDied.stages.my_nephew_died.label>ο ανιψιός μου {0} πέθανε</MyNephewDied.stages.my_nephew_died.label>
+  <!-- EN: My nephew died. Such a wonderful child. -->
+  <MyNephewDied.stages.my_nephew_died.description>Ο ανιψιός μου πέθανε. Ήταν ένα υπέροχο παιδί.</MyNephewDied.stages.my_nephew_died.description>
+  
+  <!-- EN: my niece {0} died -->
+  <MyNieceDied.stages.my_niece_died.label>η ανιψιά μου {0} πέθανε</MyNieceDied.stages.my_niece_died.label>
+  <!-- EN: My niece died. Such a wonderful child. -->
+  <MyNieceDied.stages.my_niece_died.description>Η ανιψιά μου πέθανε. Ήταν έναν καταπληκτικό παιδί.</MyNieceDied.stages.my_niece_died.description>
+  
+  <!-- EN: my sister {0} died -->
+  <MySisterDied.stages.my_sister_died.label>η αδερφή μου {0} πέθανε</MySisterDied.stages.my_sister_died.label>
+  <!-- EN: My sister died. My own flesh and blood... -->
+  <MySisterDied.stages.my_sister_died.description>Η αδελφή μου είναι νεκρή. Η σάρκα και το αίμα μου...</MySisterDied.stages.my_sister_died.description>
+  
+  <!-- EN: my son {0} died -->
+  <MySonDied.stages.my_son_died.label>ο γιος μου {0} πέθανε</MySonDied.stages.my_son_died.label>
+  <!-- EN: My son is dead. My own flesh and blood... -->
+  <MySonDied.stages.my_son_died.description>Ο γιος μου είναι νεκρός. Η δική μου σάρκα και αίμα...</MySonDied.stages.my_son_died.description>
+  
+  <!-- EN: my uncle {0} died -->
+  <MyUncleDied.stages.my_uncle_died.label>ο θείος μου {0} πέθανε</MyUncleDied.stages.my_uncle_died.label>
+  <!-- EN: My uncle died. -->
+  <MyUncleDied.stages.my_uncle_died.description>Ο μπάρμπας μου πέθανε.</MyUncleDied.stages.my_uncle_died.description>
+  
+  <!-- EN: my wife {0} died -->
+  <MyWifeDied.stages.my_wife_died.label>η γυναίκα μου {0} πέθανε</MyWifeDied.stages.my_wife_died.label>
+  <!-- EN: My wife is dead. I am alone. -->
+  <MyWifeDied.stages.my_wife_died.description>Η σύντροφός μου είναι νεκρή. Είμαι μόνος μου.</MyWifeDied.stages.my_wife_died.description>
+  
+  <!-- EN: my rival {0} died -->
+  <PawnWithBadOpinionDied.stages.my_rival_died.label>ο αντίπαλος μου {0} πέθανε</PawnWithBadOpinionDied.stages.my_rival_died.label>
+  <!-- EN: Serves them right. At least there's some justice in this world. -->
+  <PawnWithBadOpinionDied.stages.my_rival_died.description>Του άξιζε. Τουλάχιστον υπάρχει κάποια δικαιοσύνη σε αυτόν τον κόσμο.</PawnWithBadOpinionDied.stages.my_rival_died.description>
+  
+  <!-- EN: my friend {0} died -->
+  <PawnWithGoodOpinionDied.stages.my_friend_died.label>ο φίλος μου {0} πέθανε</PawnWithGoodOpinionDied.stages.my_friend_died.label>
+  <!-- EN: Such a wonderful person, gone forever. The universe gets darker every day. -->
+  <PawnWithGoodOpinionDied.stages.my_friend_died.description>Ένας υπέροχος άνθρωπος έφυγε για πάντα. Το σύμπαν γίνεται πιο σκούρο καθημερινά.</PawnWithGoodOpinionDied.stages.my_friend_died.description>
+  
 </LanguageData>

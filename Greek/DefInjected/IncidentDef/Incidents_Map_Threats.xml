@@ -1,30 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Μεγάλες απειλές (Big threats) -->
-
-  <RaidEnemy.label>εχθρική επιδρομή</RaidEnemy.label>
-
+  
+  <!-- EN: mass animal insanity -->
+  <AnimalInsanityMass.label>μαζική τρέλα ζώων</AnimalInsanityMass.label>
+  
+  <!-- EN: single animal insanity -->
+  <AnimalInsanitySingle.label>ατομική τρέλα ζώων</AnimalInsanitySingle.label>
+  
+  <!-- EN: deep drill infestation -->
+  <DeepDrillInfestation.label>ενόχληση βαθιάς γεώτρησης</DeepDrillInfestation.label>
+  <!-- EN: Too deep: Infestation -->
+  <DeepDrillInfestation.letterLabel>Βαθιά γεώτρηση: Ενόχληση</DeepDrillInfestation.letterLabel>
+  <!-- EN: Vibrations from your deep drills have angered some underground insects. Now they're tunneling upwards to seek revenge!\n\nBeware - the insects have been angered and will try to destroy your base. -->
+  <DeepDrillInfestation.letterText>Οι κραδασμοί από τα βαθιά σας τρυπάνια έχουν εξοργίσει μερικά υπόγεια έντομα. Τώρα κατασκευάζουν σήραγγες με κατεύθυνση προς τα πάνω για να αναζητήσουν εκδίκηση!\n\nΠροσοχή - τα έντομα έχουν εξαγριωθεί και θα προσπαθήσουν να καταστρέψουν τη βάση σας.</DeepDrillInfestation.letterText>
+  
+  <!-- EN: infestation -->
   <Infestation.label>εισβολή</Infestation.label>
-  <Infestation.letterText>Έχει εμφανιστεί μια κυψέλη από έντομα!\n\nΘα γεννούν αργά άλλα έντομα και θα παράγουν επιπλέον κυψέλες. Αν δεν θέλετε να προσβάλουν ολόκληρη την περιοχή, συγκεντρώστε τις δυνάμεις σας και καταστρέψτε την. Αλλά προσέξτε - τα έντομα θα υπερασπιστούν την κυψέλη τους.</Infestation.letterText>
+  <!-- EN: Infestation -->
   <Infestation.letterLabel>Εισβολή</Infestation.letterLabel>
-
-  <ManhunterPack.label>συμμορία ανθρωποκυνηγών</ManhunterPack.label>
-
-  <PsychicEmanatorShipPartCrash.label>πτώση τμήματος διαστημοπλοίου (ψυχικό)</PsychicEmanatorShipPartCrash.label>
-  <PsychicEmanatorShipPartCrash.letterText>Ένα μεγάλο κομμάτι ενός αρχαίου διαστημόπλοιου έχει συντριβεί εδώ κοντά.\n\nΟι άποικοι σας μπορούν να νιώσουν στο πίσω μέρος του μυαλού τους, παροτρύνσεις για ανείπωτες πράξεις. Πρέπει να φέρει μία προσωπικότητα τεχνητής νοημοσύνης με ικανότητα ψυχική υποβολής. Και αυτή η τεχνητή νοημοσύνη δεν είναι φιλική.\n\nΚαταστρέψτε την το συντομότερο δυνατόν.</PsychicEmanatorShipPartCrash.letterText>
+  <!-- EN: Giant insects are tunneling towards you! They will break through in a few seconds and plant hives.\n\nThe hives will spawn more insects and more hives.\n\nIf you don't want the insects to infest the whole area, destroy the hives. But beware - the bugs will defend their home. -->
+  <Infestation.letterText>Γίγαντα έντομα ανοίγουν σήραγγες προς εσάς! Θα περάσουν από μέσα σας σε λίγα δευτερόλεπτα και θα σπείρουν κυψέλες.\n\nΟι κυψέλες θα δημιουργήσουν περισσότερα έντομα και περισσότερες κυψέλες.\n\nΑν δεν θέλετε τα έντομα να προσβάλλουν ολόκληρη την περιοχή, καταστρέψτε τις κυψέλες. Αλλά προσέξτε - τα έντομα θα υπερασπιστούν το σπίτι τους.</Infestation.letterText>
+  
+  <!-- EN: manhunter pack -->
+  <ManhunterPack.label>αγέλη ανθρωποφάγων</ManhunterPack.label>
+  
+  <!-- EN: ship part crash (poison) -->
+  <PoisonShipPartCrash.label>πτώση τμήματος διαστημόπλοιου (δηλητήριο)</PoisonShipPartCrash.label>
+  <!-- EN: Poison ship -->
+  <PoisonShipPartCrash.letterLabel>Δηλητηριασμένο διαστημόπλοιο</PoisonShipPartCrash.letterLabel>
+  <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nIt's mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
+  <PoisonShipPartCrash.letterText>Ένα μεγάλο τμήμα αρχαίου διαστημοπλοίου έχει καταρρεύσει κοντά.\n\nΜια μυστηριώδης επίδραση σκοτώνει όλα τα φυτά σε έναν διευρυνόμενο κύκλο γύρω από τον εαυτό του.\n\nΚαταστρέψτε το, το συντομότερο δυνατό. Αλλά προσέξτε - πιθανότατα θα υπερασπιστεί τον εαυτό του.</PoisonShipPartCrash.letterText>
+  
+  <!-- EN: ship part crash (psychic) -->
+  <PsychicEmanatorShipPartCrash.label>πτώση τμήματος διαστημόπλοιου (ψυχικό)</PsychicEmanatorShipPartCrash.label>
+  <!-- EN: Psychic ship -->
   <PsychicEmanatorShipPartCrash.letterLabel>Ψυχικό διαστημόπλοιο</PsychicEmanatorShipPartCrash.letterLabel>
-
-  <PoisonShipPartCrash.label>πτώση τμήματος διαστημοπλοίου (δηλητηριώδες)</PoisonShipPartCrash.label>
-  <PoisonShipPartCrash.letterText>Ένα μεγάλο κομμάτι ενός αρχαίου διαστημοπλοίου έχει καταπέσει εδώ κοντά.\n\nΈχει διαρροή τοξικών υλικών και θα σκοτώσει όλα τα φυτά σε έναν διαστελλόμενο κύκλο γύρω από τον εαυτό του.\n\nΚαταστρέψτε το το συντομότερο δυνατόν.</PoisonShipPartCrash.letterText>
-  <PoisonShipPartCrash.letterLabel>Δηλητηριώδες διαστημόπλοιο</PoisonShipPartCrash.letterLabel>
-
-  <AnimalInsanityMass.label>μαζική παραφροσύνη ζώων</AnimalInsanityMass.label>
-
-
-  <!-- Μικρές απειλές (Small threats) -->
-
-  <AnimalInsanitySingle.label>τρελαμένο ζώο</AnimalInsanitySingle.label>
-
-
+  <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nYour colonists can feel it in the back of their mind, exhorting unspeakable acts. It must have an onboard AI persona with psychic projection ability. And this AI is not friendly.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
+  <PsychicEmanatorShipPartCrash.letterText>Ένα μεγάλο τμήμα αρχαίου διαστημοπλοίου έχει καταρρεύσει εδώ κοντά.\n\nΟι άποικοι σας μπορούν να νιώθουν κάτι στο πίσω μέρος του μυαλού τους, προτρέποντας τους σε ανείπωτες πράξεις. Πρέπει να διαθέτει μια προσωπικότητα τεχνητής νοημοσύνη με ικανότητα ψυχικής υποβολής. Και αυτή η τεχνική νοημοσύνη δεν είναι φιλική.\n\nΚαταστρέψτε τη το συντομότερο δυνατό. Αλλά προσέξτε - πιθανότατα θα υπερασπιστεί τον εαυτό της.</PsychicEmanatorShipPartCrash.letterText>
+  
+  <!-- EN: enemy raid -->
+  <RaidEnemy.label>εχθρική επιδρομή</RaidEnemy.label>
+  
 </LanguageData>

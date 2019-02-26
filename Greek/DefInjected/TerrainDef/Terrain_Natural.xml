@@ -1,15 +1,45 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Sand.label>άμμος</Sand.label>
-  <Soil.label>χώμα</Soil.label>
-  <MarshyTerrain.label>βαλτώδης έδαφος</MarshyTerrain.label>
-  <SoilRich.label>εύφορο έδαφος</SoilRich.label>
-  <Mud.label>λάσπη</Mud.label>
-  <Marsh.label>βάλτος</Marsh.label>
-  <Gravel.label>χαλίκι</Gravel.label>
-  <MossyTerrain.label>χώμα καλυμμένο με λειχήνες</MossyTerrain.label>
+  
+  <!-- EN: stony soil -->
+  <Gravel.label>πετρώδες έδαφος</Gravel.label>
+  <!-- EN: gravel -->
+  <Gravel.tools.gravel.label>χαλίκι</Gravel.tools.gravel.label>
+  
+  <!-- EN: Ice -->
   <Ice.label>πάγος</Ice.label>
-
-
+  
+  <!-- EN: marshy soil -->
+  <MarshyTerrain.label>βαλτώδης έδαφος</MarshyTerrain.label>
+  <!-- EN: mud -->
+  <MarshyTerrain.tools.mud.label>λάσπη</MarshyTerrain.tools.mud.label>
+  
+  <!-- EN: lichen-covered soil -->
+  <MossyTerrain.label>χώμα καλυμμένο με λειχήνες</MossyTerrain.label>
+  
+  <!-- EN: mud -->
+  <Mud.label>λάσπη</Mud.label>
+  <!-- EN: mud -->
+  <Mud.tools.mud.label>λάσπη</Mud.tools.mud.label>
+  
+  <!-- EN: sand -->
+  <Sand.label>άμμος</Sand.label>
+  <!-- EN: sand -->
+  <Sand.tools.sand.label>άμμος</Sand.tools.sand.label>
+  
+  <!-- EN: soft sand -->
+  <SoftSand.label>μαλακή άμμος</SoftSand.label>
+  <!-- EN: sand -->
+  <SoftSand.tools.sand.label>άμμος</SoftSand.tools.sand.label>
+  
+  <!-- EN: soil -->
+  <Soil.label>χώμα</Soil.label>
+  <!-- EN: dirt -->
+  <Soil.tools.dirt.label>χώμα</Soil.tools.dirt.label>
+  
+  <!-- EN: rich soil -->
+  <SoilRich.label>εύφορο έδαφος</SoilRich.label>
+  <!-- EN: dirt -->
+  <SoilRich.tools.dirt.label>χώμα</SoilRich.tools.dirt.label>
+  
 </LanguageData>

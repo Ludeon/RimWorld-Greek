@@ -1,61 +1,80 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- κοντινοί συγγενείς (close family) -->
-
-  <Parent.label>πατέρας</Parent.label>
-  <Parent.labelFemale>μητέρα</Parent.labelFemale>
-
+  
+  <!-- EN: son -->
   <Child.label>γιος</Child.label>
+  <!-- EN: daughter -->
   <Child.labelFemale>κόρη</Child.labelFemale>
-
-  <Sibling.label>αδερφός</Sibling.label>
-  <Sibling.labelFemale>αδερφή</Sibling.labelFemale>
-
-  <HalfSibling.label>ετεροθαλής αδερφός</HalfSibling.label>
-  <HalfSibling.labelFemale>ετεροθαλή αδερφή</HalfSibling.labelFemale>
-
-  <Grandparent.label>παππούς</Grandparent.label>
-  <Grandparent.labelFemale>γιαγιά</Grandparent.labelFemale>
-
-  <Grandchild.label>εγγονός</Grandchild.label>
-  <Grandchild.labelFemale>εγγονή</Grandchild.labelFemale>
-
-  <NephewOrNiece.label>ανιψιός</NephewOrNiece.label>
-  <NephewOrNiece.labelFemale>ανιψιά</NephewOrNiece.labelFemale>
-
-  <UncleOrAunt.label>θείος</UncleOrAunt.label>
-  <UncleOrAunt.labelFemale>θεία</UncleOrAunt.labelFemale>
-
+  
+  <!-- EN: cousin -->
   <Cousin.label>ξάδερφος</Cousin.label>
   <Cousin.labelFemale>ξαδέρφη</Cousin.labelFemale>
-
-
-  <!-- μακρινοί συγγενείς (distant family) -->
-
-  <GreatGrandparent.label>προπάππους</GreatGrandparent.label>
-  <GreatGrandparent.labelFemale>προγιαγιά</GreatGrandparent.labelFemale>
-
-  <GreatGrandchild.label>δισέγγονος</GreatGrandchild.label>
-  <GreatGrandchild.labelFemale>δισέγγονη</GreatGrandchild.labelFemale>
-
-  <GranduncleOrGrandaunt.label>αδέλφι του παππού</GranduncleOrGrandaunt.label>
-  <GranduncleOrGrandaunt.labelFemale>αδέλφι της γιαγιάς</GranduncleOrGrandaunt.labelFemale>
-
-  <GrandnephewOrGrandniece.label>μικρανίψιος</GrandnephewOrGrandniece.label>
-  <GrandnephewOrGrandniece.labelFemale>μικρανίψια</GrandnephewOrGrandniece.labelFemale>
-
+  
+  <!-- EN: cousin once removed -->
   <CousinOnceRemoved.label>μακρινός ξάδερφος</CousinOnceRemoved.label>
   <CousinOnceRemoved.labelFemale>μακρινή ξαδέρφη</CousinOnceRemoved.labelFemale>
-
-  <SecondCousin.label>δεύτερος ξάδερφος</SecondCousin.label>
-  <SecondCousin.labelFemale>δεύτερη ξαδέρφη</SecondCousin.labelFemale>
-
-
-  <!-- συγγενείς (kin) -->
-
+  
+  <!-- EN: grandson -->
+  <Grandchild.label>εγγονός</Grandchild.label>
+  <!-- EN: granddaughter -->
+  <Grandchild.labelFemale>εγγονή</Grandchild.labelFemale>
+  
+  <!-- EN: grandnephew -->
+  <GrandnephewOrGrandniece.label>μικρανίψιος</GrandnephewOrGrandniece.label>
+  <!-- EN: grandniece -->
+  <GrandnephewOrGrandniece.labelFemale>μικρανίψια</GrandnephewOrGrandniece.labelFemale>
+  
+  <!-- EN: grandfather -->
+  <Grandparent.label>παππούς</Grandparent.label>
+  <!-- EN: grandmother -->
+  <Grandparent.labelFemale>γιαγιά</Grandparent.labelFemale>
+  
+  <!-- EN: granduncle -->
+  <GranduncleOrGrandaunt.label>αδέλφι του παππού</GranduncleOrGrandaunt.label>
+  <!-- EN: grandaunt -->
+  <GranduncleOrGrandaunt.labelFemale>αδέλφι της γιαγιάς</GranduncleOrGrandaunt.labelFemale>
+  
+  <!-- EN: great grandson -->
+  <GreatGrandchild.label>δισέγγονος</GreatGrandchild.label>
+  <!-- EN: great granddaughter -->
+  <GreatGrandchild.labelFemale>δισέγγονη</GreatGrandchild.labelFemale>
+  
+  <!-- EN: great grandfather -->
+  <GreatGrandparent.label>προπάππους</GreatGrandparent.label>
+  <!-- EN: great grandmother -->
+  <GreatGrandparent.labelFemale>προγιαγιά</GreatGrandparent.labelFemale>
+  
+  <!-- EN: brother -->
+  <HalfSibling.label>ετεροθαλής αδερφός</HalfSibling.label>
+  <!-- EN: sister -->
+  <HalfSibling.labelFemale>ετεροθαλή αδερφή</HalfSibling.labelFemale>
+  
+  <!-- EN: kin -->
   <Kin.label>συγγενής</Kin.label>
   <Kin.labelFemale>συγγενής</Kin.labelFemale>
-
-
+  
+  <!-- EN: nephew -->
+  <NephewOrNiece.label>ανιψιός</NephewOrNiece.label>
+  <!-- EN: niece -->
+  <NephewOrNiece.labelFemale>ανιψιά</NephewOrNiece.labelFemale>
+  
+  <!-- EN: father -->
+  <Parent.label>πατέρας</Parent.label>
+  <!-- EN: mother -->
+  <Parent.labelFemale>μητέρα</Parent.labelFemale>
+  
+  <!-- EN: second cousin -->
+  <SecondCousin.label>δεύτερος ξάδερφος</SecondCousin.label>
+  <SecondCousin.labelFemale>δεύτερη ξαδέρφη</SecondCousin.labelFemale>
+  
+  <!-- EN: brother -->
+  <Sibling.label>αδερφός</Sibling.label>
+  <!-- EN: sister -->
+  <Sibling.labelFemale>αδερφή</Sibling.labelFemale>
+  
+  <!-- EN: uncle -->
+  <UncleOrAunt.label>θείος</UncleOrAunt.label>
+  <!-- EN: aunt -->
+  <UncleOrAunt.labelFemale>θεία</UncleOrAunt.labelFemale>
+  
 </LanguageData>

@@ -1,25 +1,54 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Crashlanded -->
   <Crashlanded.label>Συντριβή</Crashlanded.label>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
   <Crashlanded.description>Οι τρεις από εσάς ξυπνάτε στις κρυογονικές σας σαρκοφάγους από τον ήχο των σειρήνων και το σκίσιμο του μετάλλου. Μόλις προλάβατε να φτάσετε στις ατράκτους διαφυγής πριν διαλυθεί το διαστημόπλοιο. Κάποια στιγμή αργότερα, προσγειώνεστε σε αυτό τον άγνωστο εξωπλανήτη.</Crashlanded.description>
-  <Crashlanded.scenario.name>Συντριβή</Crashlanded.scenario.name>
-  <Crashlanded.scenario.summary>Τρεις επιζήσαντες της συντριβής - η κλασική εμπειρία RimWorld.</Crashlanded.scenario.summary>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
   <Crashlanded.scenario.description>Οι τρεις από εσάς ξυπνάτε στις κρυογονικές σας σαρκοφάγους από τον ήχο των σειρήνων και το σκίσιμο του μετάλλου. Μόλις προλάβατε να φτάσετε στις ατράκτους διαφυγής πριν διαλυθεί το διαστημόπλοιο. Κάποια στιγμή αργότερα, προσγειώνεστε σε αυτό τον άγνωστο εξωπλανήτη.</Crashlanded.scenario.description>
-
+  <!-- EN: Crashlanded -->
+  <Crashlanded.scenario.name>Συντριβή</Crashlanded.scenario.name>
+  <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
+  <Crashlanded.scenario.summary>Τρεις επιζήσαντες της συντριβής - η κλασική εμπειρία RimWorld.</Crashlanded.scenario.summary>
+  
+  <!-- EN: Lost Tribe -->
   <LostTribe.label>Χαμένη Φυλή</LostTribe.label>
-  <LostTribe.description>Η φυλή σας καταστράφηκε από τις μεγάλες αιματηρές μηχανές που έστειλαν οι θεοί. Πέντε από σας κατάφεραν να ξεφύγουν. Τώρα, ήρθε η ώρα να οικοδομήσουμε ένα νέο σπίτι.\n\nΣημείωση: Από τη στιγμή που θα αρχίσετε φτωχοί και με αργή έρευνα, αυτό είναι ένα δύσκολο σενάριο.</LostTribe.description>
+  <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and research slowly, this is a difficult scenario. -->
+  <LostTribe.description>Η φυλή σας καταστράφηκε από τις μεγάλες αιματηρές μηχανές που έστειλαν οι θεοί. Πέντε από σας κατάφεραν να ξεφύγουν. Τώρα, ήρθε η ώρα να οικοδομήσετε ένα νέο σπίτι.\n\nΣημείωση: Καθώς αρχίζετε φτωχοί και με αργή έρευνα, αυτό είναι ένα δύσκολο σενάριο.</LostTribe.description>
+  <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and research slowly, this is a difficult scenario. -->
+  <LostTribe.scenario.description>Η φυλή σας καταστράφηκε από τις μεγάλες αιματηρές μηχανές που έστειλαν οι θεοί. Πέντε από σας κατάφεραν να ξεφύγουν. Τώρα, ήρθε η ώρα να οικοδομήσετε ένα νέο σπίτι.\n\nΣημείωση: Επειδή αρχίζετε φτωχοί και με αργή έρευνα, αυτό είναι ένα δύσκολο σενάριο.</LostTribe.scenario.description>
+  <!-- EN: Lost Tribe -->
   <LostTribe.scenario.name>Χαμένη Φυλή</LostTribe.scenario.name>
+  <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped. Now, after a harrowing journey on foot, with no close friends to turn to, you must build a new home in the wilderness, like your ancestors did. -->
+  <LostTribe.scenario.parts.GameStartDialog.text>Οι θεοί ήταν πολύ θυμωμένοι. Τα αιματηρά μηχανήματα ήρθαν τη νύχτα. Σάρωναν το χωριό σας, κόβοντας και καίγοντας τους ανθρώπους σας με τις λεπίδες τους και τη διαβολοφωτιά.\n\nΜόνο μερικοί από εσάς ξέφυγαν. Τώρα, μετά από ένα οδυνηρό ταξίδι με τα πόδια, χωρίς τους στενούς φίλους να σας παρηγορήσουν, πρέπει να οικοδομήσετε ένα νέο σπίτι στην έρημο, όπως και οι πρόγονοί σας.</LostTribe.scenario.parts.GameStartDialog.text>
+  <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
   <LostTribe.scenario.summary>Πέντε χαμένοι άνθρωποι της φυλής προσπαθούν να την ανοικοδομήσουν. Δύσκολο.</LostTribe.scenario.summary>
-  <LostTribe.scenario.description>Η φυλή σας καταστράφηκε από τις μεγάλες αιματηρές μηχανές που έστειλαν οι θεοί. Πέντε από σας κατάφεραν να ξεφύγουν. Τώρα, ήρθε η ώρα να οικοδομήσουμε ένα νέο σπίτι.\n\nΣημείωση: Από τη στιγμή που θα αρχίσετε φτωχοί και με αργή έρευνα, αυτό είναι ένα δύσκολο σενάριο.</LostTribe.scenario.description>
-  <LostTribe.scenario.parts.14.text>Οι θεοί ήταν πολύ θυμωμένοι. Τα αιματηρά μηχανήματα ήρθαν τη νύχτα. Σάρωναν το χωριό σας, κόβοντας και καίγοντας τους ανθρώπους σας με τις λεπίδες τους και τη διαβολοφωτιά.\n\nΜόνο μερικοί από εσάς ξέφυγαν. Τώρα, μετά από ένα οδυνηρό ταξίδι με τα πόδια, χωρίς τους στενούς φίλους να σας παρηγορήσουν, πρέπει να οικοδομήσουμε ένα νέο σπίτι στην έρημο, όπως και οι πρόγονοί σας.</LostTribe.scenario.parts.14.text>
-
+  
+  <!-- EN: Naked Brutality -->
+  <NakedBrutality.label>Γυμνή Κτηνωδία</NakedBrutality.label>
+  <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
+  <NakedBrutality.description>Ήσουνα υπό αναισθησία για μια μικρή χειρουργική επέμβαση. Τώρα έχεις ξυπνήσει σε μια πτώση ατράκτου που συνετρίβη σε έναν μακρινό πλανήτη. Είσαι γυμνός, μόνος και εντελώς απροετοίμαστος. Μπορείς να επιβιώσεις;\n\nΠροειδοποίηση: Δεν υπάρχει τίποτα δίκαιο σε αυτό το σενάριο - είναι εξαιρετικά δύσκολο και ο θάνατος μπορεί να συμβεί για οποιονδήποτε λόγο.</NakedBrutality.description>
+  <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
+  <NakedBrutality.scenario.description>Ήσουν αναίσθητος για μια μικρή χειρουργική επέμβαση. Τώρα ξυπνάς από την πτώση μιας ατράκτου που συνετρίβη σε έναν μακρινό πλανήτη. Είσαι γυμνός, μόνος και εντελώς απροετοίμαστος. Μπορείς να επιβιώσεις;\n\nΠροειδοποίηση: Δεν υπάρχει τίποτα δίκαιο σε αυτό το σενάριο - είναι εξαιρετικά δύσκολο και ο θάνατος παραμονεύει παντού.</NakedBrutality.scenario.description>
+  <!-- EN: Naked Brutality -->
+  <NakedBrutality.scenario.name>Γυμνή Βιαιότητα</NakedBrutality.scenario.name>
+  <!-- EN: It was supposed to be a minor surgery. Just an hour under anesthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rim world.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive? -->
+  <NakedBrutality.scenario.parts.GameStartDialog.text>Υποτίθεται ότι θα ήταν μικρή χειρουργική επέμβαση. Μόλις μια ώρα μετά την αναισθησία. Νιώθεις εντελώς ασφαλής.\n\nΤώρα έχεις ξυπνήσει μέσα σε μια άτρακτο που πέφτει μέσα στην ατμόσφαιρα ενός μακρινού κόσμου.\n\nΕκτός από μια κηλίδα μυστηριώδης κόλας σε όλο σου το σώμα, είσαι εντελώς γυμνός. Χωρίς προετοιμασία, χωρίς προμήθειες και χωρίς εργαλεία, μπορείς να επιβιώσεις;</NakedBrutality.scenario.parts.GameStartDialog.text>
+  <!-- EN: Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair. -->
+  <NakedBrutality.scenario.summary>Γυμνός, μόνος και εντελώς απροετοίμαστος. Μπορείς να επιβιώσεις; Εξαιρετικά δύσκολο και άδικο.</NakedBrutality.scenario.summary>
+  
+  <!-- EN: The Rich Explorer -->
   <TheRichExplorer.label>Πλούσιος Εξερευνητής</TheRichExplorer.label>
-  <TheRichExplorer.description>Οι άνθρωποι σας αποκαλούσαν τρελό που θέλατε να φύγετε από το σπίτι σας, αλλά πάντα περιμένατε να εξερευνήσετε τα αστέρια - έξω από το νευροεξομοιωτή. Τώρα βρισκόσαστε στο τέλος του μακρινού σας ταξιδιού σε κρυογονικό λήθαργο, προσγειωθήκατε σε ένα άγνωστο εξωπλανήτη που πρέπει να δείτε τι είναι.\n\nΣημείωση: Δεδομένου ότι ο αρχικός σας χαρακτήρας θα στερείται κάποιων δεξιοτήτων, αυτό είναι ένα ιδιαίτερα δύσκολο σενάριο για πρώιμο παιχνίδι.</TheRichExplorer.description>
+  <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
+  <TheRichExplorer.description>Οι άνθρωποι σας αποκαλούσαν τρελό που θέλατε να φύγετε από το πλούσιο σπίτι σας, αλλά πάντα περιμένατε να εξερευνήσετε τα αστέρια - έξω από το νευροεξομοιωτή. Τώρα βρισκόσαστε στο τέλος του μακρινού σας ταξιδιού σε κρυογονικό λήθαργο, προσγειωθήκατε σε ένα άγνωστο εξωπλανήτη που πρέπει να δείτε τι είναι.\n\nΣημείωση: Δεδομένου ότι ο αρχικός σας χαρακτήρας θα στερείται κάποιων δεξιοτήτων, αυτό είναι ένα ιδιαίτερα δύσκολο σενάριο για πρώιμο παιχνίδι.</TheRichExplorer.description>
+  <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
+  <TheRichExplorer.scenario.description>Οι άνθρωποι σας αποκαλούσαν τρελό που θέλατε να εγκαταλείψετε το σπίτι σας στον λαμπρόκοσμο, αλλά πάντα περιμένατε να εξερευνήσετε τα αστέρια - έξω από το νευροεξομοιωτή. Τώρα βρισκόσαστε στο τέλος του μακρινού σας ταξιδιού σε κρυογονικό λήθαργο, προσγειωθήκατε σε ένα άγνωστο εξωπλανήτη που πρέπει να δείτε τι είναι.\n\nΣημείωση: Δεδομένου ότι ο αρχικός σας χαρακτήρας θα στερείται κάποιων δεξιοτήτων, αυτό είναι ένα ιδιαίτερα δύσκολο σενάριο για πρώιμο παιχνίδι.</TheRichExplorer.scenario.description>
+  <!-- EN: The Rich Explorer -->
   <TheRichExplorer.scenario.name>Πλούσιος Εξερευνητής</TheRichExplorer.scenario.name>
+  <!-- EN: The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you. -->
+  <TheRichExplorer.scenario.parts.GameStartDialog.text>Οι νευροαπεικονισμοί, τα ολογραφικά παιχνίδια και τα όργια δεν ήταν ποτέ αρκετά για εσάς. Θέλατε περισσότερα - το κότσια και την σπουδαιότητα της πραγματικής ζωής, όπως μιλούν τα βιβλία ιστορίας. Θέλατε να μάθετε ποια είναι η πραγματική πρόκληση και να αισθανθείτε σπουδαίοι.\n\nΤώρα, μετά από ένα ταξίδι δεκαετιών σε κρυογονικό λήθαργο, προσγειώνεστε σε αυτό το άγνωστο εξωπλανήτη. Οι πραγματικές συνέπειες σας περιμένουν.</TheRichExplorer.scenario.parts.GameStartDialog.text>
+  <!-- EN: One rich explorer out to experience the universe. Extra difficult. -->
   <TheRichExplorer.scenario.summary>Ένας πλούσιος εξερευνητής που βιώνει το σύμπαν. Πολύ δύσκολο.</TheRichExplorer.scenario.summary>
-  <TheRichExplorer.scenario.description>Οι άνθρωποι σας αποκαλούσαν τρελό που θέλατε να φύγετε από το σπίτι σας, αλλά πάντα περιμένατε να εξερευνήσετε τα αστέρια - έξω από το νευροεξομοιωτή. Τώρα βρισκόσαστε στο τέλος του μακρινού σας ταξιδιού σε κρυογονικό λήθαργο, προσγειωθήκατε σε ένα άγνωστο εξωπλανήτη που πρέπει να δείτε τι είναι.\n\nΣημείωση: Δεδομένου ότι ο αρχικός σας χαρακτήρας θα στερείται κάποιων δεξιοτήτων, αυτό είναι ένα ιδιαίτερα δύσκολο σενάριο για πρώιμο παιχνίδι.</TheRichExplorer.scenario.description>
-  <TheRichExplorer.scenario.parts.12.text>Οι νευροαπεικονισμοί, τα ολογραφικά παιχνίδια και τα όργια δεν ήταν ποτέ αρκετά για εσάς. Θέλατε περισσότερα - το κότσια και την σπουδαιότητα της πραγματικής ζωής, όπως μιλούν τα βιβλία ιστορίας. Θέλατε να μάθετε ποια είναι η πραγματική πρόκληση και να αισθανθείτε σπουδαίοι.\n\nΤώρα, μετά από ένα ταξίδι δεκαετιών σε κρυογονικό λήθαργο, προσγειώνεστε σε αυτό το άγνωστο εξωπλανήτη. Πραγματικές συνέπειες σας περιμένουν.</TheRichExplorer.scenario.parts.12.text>
-
-
+  
 </LanguageData>

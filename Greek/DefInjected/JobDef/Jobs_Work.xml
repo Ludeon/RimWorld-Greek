@@ -1,77 +1,145 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Μεταφορά αντικειμένου (Item hauling) -->
-
-  <HaulToCell.reportString>μεταφέρει TargetA.</HaulToCell.reportString>
-  <HaulToContainer.reportString>κουβαλάει TargetA.</HaulToContainer.reportString>
-
-
-  <!-- Ειδική μεταφορά (Special hauling) -->
-
-  <Steal.reportString>κλέβει TargetA.</Steal.reportString>
-  <Kidnap.reportString>απαγάγει TargetA.</Kidnap.reportString>
-  <CarryDownedPawnToExit.reportString>βαστάζει TargetA.</CarryDownedPawnToExit.reportString>
-
-
-  <!-- Μεταφορά ανθρώπου (Pawn hauling) -->
-
-  <Rescue.reportString>διασώζει TargetA.</Rescue.reportString>
-  <CarryToCryptosleepCasket.reportString>μεταφέρει TargetA στη κάψουλα κρυογενούς ύπνου.</CarryToCryptosleepCasket.reportString>
-  <Capture.reportString>καταλαμβάνει TargetA.</Capture.reportString>
+  
+  <!-- EN: arresting TargetA. -->
   <Arrest.reportString>συλλαμβάνει TargetA.</Arrest.reportString>
-  <ReleasePrisoner.reportString>απελευθερώνει TargetA.</ReleasePrisoner.reportString>
-  <EscortPrisonerToBed.reportString>συνοδεύει τον κρατούμενο TargetA.</EscortPrisonerToBed.reportString>
-  <TakeWoundedPrisonerToBed.reportString>μεταφέρει τον πληγωμένο κρατούμενο TargetA.</TakeWoundedPrisonerToBed.reportString>
-  <TakeToBedToOperate.reportString>πηγαίνει TargetA στο κρεβάτι.</TakeToBedToOperate.reportString>
-
-
-  <!-- Μεταχείριση ζώων (Animal handling) -->
-
-  <Slaughter.reportString>σφάζει TargetA.</Slaughter.reportString>
-  <Milk.reportString>αρμέγει TargetA.</Milk.reportString>
-  <Shear.reportString>κουρεύει TargetA.</Shear.reportString>
-  <Tame.reportString>εξημερώνει TargetA.</Tame.reportString>
-  <Train.reportString>εκπαιδεύει TargetA.</Train.reportString>
-
-
-  <!-- Κατασκευή και επιδιόρθωση (Construction and repair) -->
-
-  <PlaceNoCostFrame.reportString>φτιάχνει TargetA.</PlaceNoCostFrame.reportString>
-  <FinishFrame.reportString>κατασκευάζει TargetA.</FinishFrame.reportString>
-  <Deconstruct.reportString>διαλύει TargetA.</Deconstruct.reportString>
-  <Uninstall.reportString>απεγκαταστεί TargetA.</Uninstall.reportString>
-  <Repair.reportString>επισκευάζει TargetA.</Repair.reportString>
-  <FixBrokenDownBuilding.reportString>αντικαθιστά το χαλασμένα εξαρτήματα στο TargetA.</FixBrokenDownBuilding.reportString>
+  
+  <!-- EN: building roof. -->
   <BuildRoof.reportString>βάζει οροφή.</BuildRoof.reportString>
-  <RemoveRoof.reportString>βγάζει οροφή.</RemoveRoof.reportString>
-
-
-  <!-- Ιατρικό (Medical) -->
-
-  <FeedPatient.reportString>ταΐζει TargetA τον TargetB.</FeedPatient.reportString>
-  <TendPatient.reportString>φροντίζει TargetA.</TendPatient.reportString>
-
-
-  <!-- Διάφορα (Misc) -->
-
-  <DeliverFood.reportString>ταΐζει TargetA τον TargetB.</DeliverFood.reportString>
-  <DoBill.reportString>κάνει την εργασία σε TargetA.</DoBill.reportString>
-  <OperateDeepDrill.reportString>τρυπάει TargetA.</OperateDeepDrill.reportString>
+  
+  <!-- EN: capturing TargetA. -->
+  <Capture.reportString>καταλαμβάνει TargetA.</Capture.reportString>
+  
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnToExit.reportString>βαστάζει TargetA.</CarryDownedPawnToExit.reportString>
+  
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasket.reportString>μεταφέρει TargetA στη κάψουλα κρυογενούς ύπνου.</CarryToCryptosleepCasket.reportString>
+  
+  <!-- EN: cleaning TargetA. -->
   <Clean.reportString>καθαρίζει TargetA.</Clean.reportString>
-  <Research.reportString>ερευνά.</Research.reportString>
-  <Hunt.reportString>κυνηγάει TargetA.</Hunt.reportString>
-  <UseCommsConsole.reportString>χρησιμοποιεί την κονσόλα επικοινωνίας.</UseCommsConsole.reportString>
-  <Mine.reportString>κάνει εξόρυξη TargetA.</Mine.reportString>
-  <SmoothFloor.reportString>λειαίνει το έδαφος.</SmoothFloor.reportString>
-  <RemoveFloor.reportString>αφαιρεί το πάτωμα.</RemoveFloor.reportString>
-  <Sow.reportString>φυτεύει TargetA.</Sow.reportString>
-  <Harvest.reportString>θερίζει TargetA.</Harvest.reportString>
+  
+  <!-- EN: cutting TargetA. -->
   <CutPlant.reportString>κόβει TargetA.</CutPlant.reportString>
-  <PrisonerFriendlyChat.reportString>κουβεντιάζει φιλικά με τον κρατούμενο TargetA.</PrisonerFriendlyChat.reportString>
+  
+  <!-- EN: cutting TargetA. -->
+  <CutPlantDesignated.reportString>κόβει TargetA.</CutPlantDesignated.reportString>
+  
+  <!-- EN: deconstructing TargetA. -->
+  <Deconstruct.reportString>διαλύει TargetA.</Deconstruct.reportString>
+  
+  <!-- EN: feeding TargetA to TargetB. -->
+  <DeliverFood.reportString>ταΐζει TargetA τον TargetB.</DeliverFood.reportString>
+  
+  <!-- EN: doing bill at TargetA. -->
+  <DoBill.reportString>κάνει την εργασία σε TargetA.</DoBill.reportString>
+  
+  <!-- EN: escorting prisoner TargetA. -->
+  <EscortPrisonerToBed.reportString>συνοδεύει τον κρατούμενο TargetA.</EscortPrisonerToBed.reportString>
+  
+  <!-- EN: feeding TargetA to TargetB. -->
+  <FeedPatient.reportString>ταΐζει TargetA τον TargetB.</FeedPatient.reportString>
+  
+  <!-- EN: building TargetA. -->
+  <FinishFrame.reportString>κατασκευάζει TargetA.</FinishFrame.reportString>
+  
+  <!-- EN: replacing broken components in TargetA. -->
+  <FixBrokenDownBuilding.reportString>αντικαθιστά το χαλασμένα εξαρτήματα στο TargetA.</FixBrokenDownBuilding.reportString>
+  
+  <!-- EN: harvesting TargetA. -->
+  <Harvest.reportString>θερίζει TargetA.</Harvest.reportString>
+  
+  <!-- EN: harvesting TargetA. -->
+  <HarvestDesignated.reportString>μαζεύει TargetA.</HarvestDesignated.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToCell.reportString>μεταφέρει TargetA.</HaulToCell.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToContainer.reportString>κουβαλάει TargetA.</HaulToContainer.reportString>
+  
+  <!-- EN: hunting TargetA. -->
+  <Hunt.reportString>κυνηγάει TargetA.</Hunt.reportString>
+  
+  <!-- EN: kidnapping TargetA. -->
+  <Kidnap.reportString>απαγάγει TargetA.</Kidnap.reportString>
+  
+  <!-- EN: milking TargetA. -->
+  <Milk.reportString>αρμέγει TargetA.</Milk.reportString>
+  
+  <!-- EN: digging at TargetA. -->
+  <Mine.reportString>κάνει εξόρυξη TargetA.</Mine.reportString>
+  
+  <!-- EN: drilling at TargetA. -->
+  <OperateDeepDrill.reportString>τρυπάει TargetA.</OperateDeepDrill.reportString>
+  
+  <!-- EN: scanning at TargetA. -->
+  <OperateScanner.reportString>σαρώνει με TargetA.</OperateScanner.reportString>
+  
+  <!-- EN: building TargetA. -->
+  <PlaceNoCostFrame.reportString>φτιάχνει TargetA.</PlaceNoCostFrame.reportString>
+  
+  <!-- EN: attempting to recruit TargetA. -->
   <PrisonerAttemptRecruit.reportString>προσπαθεί να στρατολογήσει TargetA.</PrisonerAttemptRecruit.reportString>
-  <PrisonerExecution.reportString>εκτελεί τον κρατούμενο TargetA.</PrisonerExecution.reportString>
-  <BuryCorpse.reportString>θάβει TargetA.</BuryCorpse.reportString>
-
-
+  
+  <!-- EN: executing TargetA. -->
+  <PrisonerExecution.reportString>εκτελεί TargetA.</PrisonerExecution.reportString>
+  
+  <!-- EN: releasing TargetA. -->
+  <ReleasePrisoner.reportString>απελευθερώνει TargetA.</ReleasePrisoner.reportString>
+  
+  <!-- EN: removing floor. -->
+  <RemoveFloor.reportString>αφαιρεί το πάτωμα.</RemoveFloor.reportString>
+  
+  <!-- EN: removing roof. -->
+  <RemoveRoof.reportString>βγάζει οροφή.</RemoveRoof.reportString>
+  
+  <!-- EN: repairing TargetA. -->
+  <Repair.reportString>επισκευάζει TargetA.</Repair.reportString>
+  
+  <!-- EN: rescuing TargetA. -->
+  <Rescue.reportString>διασώζει TargetA.</Rescue.reportString>
+  
+  <!-- EN: researching. -->
+  <Research.reportString>ερευνά.</Research.reportString>
+  
+  <!-- EN: shearing TargetA. -->
+  <Shear.reportString>κουρεύει TargetA.</Shear.reportString>
+  
+  <!-- EN: slaughtering TargetA. -->
+  <Slaughter.reportString>σφάζει TargetA.</Slaughter.reportString>
+  
+  <!-- EN: smoothing floor. -->
+  <SmoothFloor.reportString>λειαίνει το έδαφος.</SmoothFloor.reportString>
+  
+  <!-- EN: smoothing wall. -->
+  <SmoothWall.reportString>λειαίνει τον τοίχο.</SmoothWall.reportString>
+  
+  <!-- EN: sowing TargetA. -->
+  <Sow.reportString>φυτεύει TargetA.</Sow.reportString>
+  
+  <!-- EN: stealing TargetA. -->
+  <Steal.reportString>κλέβει TargetA.</Steal.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeToBedToOperate.reportString>πηγαίνει TargetA στο κρεβάτι.</TakeToBedToOperate.reportString>
+  
+  <!-- EN: taking wounded prisoner TargetA. -->
+  <TakeWoundedPrisonerToBed.reportString>μεταφέρει τον πληγωμένο κρατούμενο TargetA.</TakeWoundedPrisonerToBed.reportString>
+  
+  <!-- EN: taming TargetA. -->
+  <Tame.reportString>εξημερώνει TargetA.</Tame.reportString>
+  
+  <!-- EN: tending to TargetA. -->
+  <TendPatient.reportString>φροντίζει TargetA.</TendPatient.reportString>
+  
+  <!-- EN: training TargetA. -->
+  <Train.reportString>εκπαιδεύει TargetA.</Train.reportString>
+  
+  <!-- EN: uninstalling TargetA. -->
+  <Uninstall.reportString>απεγκαταστεί TargetA.</Uninstall.reportString>
+  
+  <!-- EN: using comms console. -->
+  <UseCommsConsole.reportString>χρησιμοποιεί την κονσόλα επικοινωνίας.</UseCommsConsole.reportString>
+  
 </LanguageData>

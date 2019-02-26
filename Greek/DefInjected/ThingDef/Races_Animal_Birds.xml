@@ -1,51 +1,50 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: cassowary -->
   <Cassowary.label>καζουάριος</Cassowary.label>
-  <Cassowary.description>Ένα μεγάλο πουλί χωρίς φτερά με έντονα χρωματιστά πούπουλα. Αν και φαίνεται όμορφο, το λάκτισμά του είναι άγριο.</Cassowary.description>
-  <Cassowary.tools.0.label>νύχια</Cassowary.tools.0.label>
-  <Cassowary.tools.2.label>κεφάλι</Cassowary.tools.2.label>
-  <Cassowary_Leather.label>δέρμα καζουάριου</Cassowary_Leather.label>
-  <Cassowary_Leather.description>πέτσα από καζουάριο</Cassowary_Leather.description>
-  <Cassowary_Leather.stuffProps.stuffAdjective>δέρμα καζουάριου</Cassowary_Leather.stuffProps.stuffAdjective>
-  <Cassowary_Meat.label>κρέας πουλερικού</Cassowary_Meat.label>
-  <Cassowary_Meat.description>κρέας από πτηνό</Cassowary_Meat.description>
-  <Cassowary_Corpse.label>κουφάρι καζουάριου</Cassowary_Corpse.label>
-  <Cassowary_Corpse.description>πτώμα καζουάριου</Cassowary_Corpse.description>
-
+  <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
+  <Cassowary.description>Ένα μεγάλο πουλί χωρίς φτερά με έντονα χρωματιστά πούπουλα. Αν και φαίνεται όμορφο, το λάκτισμά του είναι άγριο. Είναι γνωστό ότι είναι γρήγορο στην αντεπίθεση όταν ενοχληθεί από βία ή αντιμετωπιστεί από ανίκανους εξημερωτές ζώων.</Cassowary.description>
+  <!-- EN: bird meat -->
+  <Cassowary.race.meatLabel>κρέας πτηνού</Cassowary.race.meatLabel>
+  <!-- EN: claws -->
+  <Cassowary.tools.claws.label>νύχια</Cassowary.tools.claws.label>
+  <!-- EN: beak -->
+  <Cassowary.tools.beak.label>ράμφος</Cassowary.tools.beak.label>
+  <!-- EN: head -->
+  <Cassowary.tools.head.label>κεφάλι</Cassowary.tools.head.label>
+  
+  <!-- EN: emu -->
   <Emu.label>εμού</Emu.label>
-  <Emu.description>Ένα μεγάλο πουλί χωρίς φτερά με μπιρμπιλοτά μάτια στο άσχημο πρόσωπο του. Με την άσχημη διάθεσή του, είναι ο κόπανος του φυσικού κόσμου.</Emu.description>
-  <Emu.tools.0.label>νύχια</Emu.tools.0.label>
-  <Emu.tools.2.label>κεφάλι</Emu.tools.2.label>
-  <Emu_Leather.label>δέρμα εμού</Emu_Leather.label>
-  <Emu_Leather.description>πέτσα από εμού</Emu_Leather.description>
-  <Emu_Leather.stuffProps.stuffAdjective>δέρμα εμού</Emu_Leather.stuffProps.stuffAdjective>
-  <!-- Χρήση Κρέατος Από: Καζουάριο (Use Meat From: Cassowary) -->
-  <Emu_Corpse.label>κουφάρι εμού</Emu_Corpse.label>
-  <Emu_Corpse.description>πτώμα εμού</Emu_Corpse.description>
-
+  <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
+  <Emu.description>Ένα μεγάλο πουλί χωρίς φτερά με μπιρμπιλοτά μάτια στο άσχημο πρόσωπο του. Με την άσχημη διάθεσή του, είναι ο κόπανος του φυσικού κόσμου. Ενόχλησέ το και είναι εγγυημένη η εκδίκηση του</Emu.description>
+  <!-- EN: claws -->
+  <Emu.tools.claws.label>νύχια</Emu.tools.claws.label>
+  <!-- EN: beak -->
+  <Emu.tools.beak.label>ράμφος</Emu.tools.beak.label>
+  <!-- EN: head -->
+  <Emu.tools.head.label>κεφάλι</Emu.tools.head.label>
+  
+  <!-- EN: ostrich -->
   <Ostrich.label>στρουθοκάμηλος</Ostrich.label>
-  <Ostrich.description>Τα μεγαλύτερα μη τροποποιημένα είδη πουλιών, οι στρουθοκάμηλοι είναι γνωστοί για την ταχύτητά τους, τα τεράστια αυγά και το ισχυρό λάκτισμα.</Ostrich.description>
-  <Ostrich.tools.0.label>νύχια</Ostrich.tools.0.label>
-  <Ostrich.tools.2.label>κεφάλι</Ostrich.tools.2.label>
-  <Ostrich_Leather.label>δέρμα στρουθοκαμήλου</Ostrich_Leather.label>
-  <Ostrich_Leather.description>πέτσα από στρουθοκάμηλο</Ostrich_Leather.description>
-  <Ostrich_Leather.stuffProps.stuffAdjective>δέρμα στρουθοκαμήλου</Ostrich_Leather.stuffProps.stuffAdjective>
-  <!-- Χρήση Κρέατος Από: Καζουάριο (Use Meat From: Cassowary) -->
-  <Ostrich_Corpse.label>κουφάρι στρουθοκαμήλου</Ostrich_Corpse.label>
-  <Ostrich_Corpse.description>πτώμα στρουθοκαμήλου</Ostrich_Corpse.description>
-
+  <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
+  <Ostrich.description>Τα μεγαλύτερα μη τροποποιημένα είδη πουλιών, οι στρουθοκάμηλοι είναι γνωστοί για την ταχύτητά τους, τα τεράστια αυγά και το ισχυρό λάκτισμα. Αγριεύει εύκολα.</Ostrich.description>
+  <!-- EN: claws -->
+  <Ostrich.tools.claws.label>νύχια</Ostrich.tools.claws.label>
+  <!-- EN: beak -->
+  <Ostrich.tools.beak.label>ράμφος</Ostrich.tools.beak.label>
+  <!-- EN: head -->
+  <Ostrich.tools.head.label>κεφάλι</Ostrich.tools.head.label>
+  
+  <!-- EN: turkey -->
   <Turkey.label>γαλοπούλα</Turkey.label>
+  <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
   <Turkey.description>Ένα κοντό, λιπαρό, μη πτητικό πουλί γνωστό για την λαρυγγιστή του κραυγή. Έχει εδώ και καιρό εξημερωθεί, αλλά ζει και στην άγρια φύση.</Turkey.description>
-  <Turkey.tools.0.label>νύχια</Turkey.tools.0.label>
-  <Turkey.tools.2.label>κεφάλι</Turkey.tools.2.label>
-  <Turkey_Leather.label>δέρμα γαλοπούλας</Turkey_Leather.label>
-  <Turkey_Leather.description>πέτσα από γαλοπούλα</Turkey_Leather.description>
-  <Turkey_Leather.stuffProps.stuffAdjective>δέρμα γαλοπούλας</Turkey_Leather.stuffProps.stuffAdjective>
-  <Turkey_Meat.label>κρέας γαλοπούλας</Turkey_Meat.label>
-  <Turkey_Meat.description>κρέας από γαλοπούλα</Turkey_Meat.description>
-  <Turkey_Corpse.label>κουφάρι γαλοπούλας</Turkey_Corpse.label>
-  <Turkey_Corpse.description>πτώμα γαλοπούλας</Turkey_Corpse.description>
-
-
+  <!-- EN: claws -->
+  <Turkey.tools.claws.label>νύχια</Turkey.tools.claws.label>
+  <!-- EN: beak -->
+  <Turkey.tools.beak.label>ράμφος</Turkey.tools.beak.label>
+  <!-- EN: head -->
+  <Turkey.tools.head.label>κεφάλι</Turkey.tools.head.label>
+  
 </LanguageData>

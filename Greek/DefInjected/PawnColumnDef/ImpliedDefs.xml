@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Κουβάλημα -->
+  <Trainable_Haul.headerTip>κουβάλημα</Trainable_Haul.headerTip>
+  
+  <!-- EN: Υποταγή -->
+  <Trainable_Obedience.headerTip>υπακοή</Trainable_Obedience.headerTip>
+  
+  <!-- EN: Λύσιμο -->
+  <Trainable_Release.headerTip>ξαμολημένο</Trainable_Release.headerTip>
+  
+  <!-- EN: Διάσωση -->
+  <Trainable_Rescue.headerTip>διάθεση</Trainable_Rescue.headerTip>
+  
+</LanguageData>

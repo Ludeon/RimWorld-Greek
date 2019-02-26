@@ -1,7 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: bridge -->
+  <Bridge.label>γέφυρα</Bridge.label>
+  <!-- EN: A flat wooden surface on supportive beams which can be built over water. You can build non-heavy structures on bridges, but be careful - bridges are fragile. If a bridge falls, buildings on top of it fall as well. -->
+  <Bridge.description>Μια επίπεδη ξύλινη επιφάνεια σε υποστηρικτικές δοκούς που μπορούν να κατασκευαστεί πάνω από το νερό. Μπορείτε να οικοδομήσετε μη βαριές κατασκευές στις γέφυρες, αλλά να είστε προσεκτικοί - οι γέφυρες είναι εύθραυστες. Εάν πέσει μια γέφυρα, τα κτίρια από πάνω της θα πέσουν επίσης.</Bridge.description>
+  
+  <!-- EN: underwall -->
   <Underwall.label>υποβαθμισμένο</Underwall.label>
-
-
+  
 </LanguageData>

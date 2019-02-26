@@ -1,48 +1,41 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Νάρκωση (Anesthetize) -->
-
-  <Anesthetize.label>αναισθησία</Anesthetize.label>
-  <Anesthetize.description>Κάνει ένα πλάσμα αναίσθητο με τη χορήγηση αναισθητικού.</Anesthetize.description>
-  <Anesthetize.jobString>Ναρκώνετε.</Anesthetize.jobString>
-
-
-  <!-- Ευθανασία (Euthanasia) -->
-
-  <Euthanize.label>ευθανασία με τομή</Euthanize.label>
-  <Euthanize.description>Ευθανατοποίηση ενός πλάσματος με τομή.</Euthanize.description>
-  <Euthanize.jobString>Γίνετε ευθανασία με τομή.</Euthanize.jobString>
-
-  <ShutDownMechanoid.label>απενεργοποίηση</ShutDownMechanoid.label>
-  <ShutDownMechanoid.description>Απενεργοποίηση ενός μηχανοειδές.</ShutDownMechanoid.description>
-  <ShutDownMechanoid.jobString>Απενεργοποιείτε το μηχανοειδές.</ShutDownMechanoid.jobString>
-
-
-  <!-- αφαίρεση χέντιφ (πχ. ασθένειες) (removing hediffs (e.g. diseases)) -->
-
-  <ExciseCarcinoma.label>αφαίρεση καρκινώματος</ExciseCarcinoma.label>
-  <ExciseCarcinoma.description>Αφαίρεση καρκινικού όγκου.</ExciseCarcinoma.description>
-  <ExciseCarcinoma.jobString>Αφαιρείτε το καρκίνωμα.</ExciseCarcinoma.jobString>
-  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} έχει αφαιρέσει επιτυχώς το καρκίνωμα του {1}.</ExciseCarcinoma.successfullyRemovedHediffMessage>
-
-
-  <!-- αφαίρεση μέλη του σώματος (removing body parts) -->
-
-  <RemoveBodyPart.label>αφαίρεση μέλους</RemoveBodyPart.label>
-  <RemoveBodyPart.description>Αφαιρεί μέλος του σώματος.</RemoveBodyPart.description>
-  <RemoveBodyPart.jobString>Αφαιρείτε μέλος του σώματος.</RemoveBodyPart.jobString>
-
-  <RemoveMechanoidBodyPart.label>αφαίρεση εξαρτήματος</RemoveMechanoidBodyPart.label>
-  <RemoveMechanoidBodyPart.description>Αφαιρεί εξάρτημα από το σώμα.</RemoveMechanoidBodyPart.description>
-  <RemoveMechanoidBodyPart.jobString>Αφαιρείτε εξάρτημα από το σώμα.</RemoveMechanoidBodyPart.jobString>
-
-
-  <!-- ειδική διαχείριση (special administer) -->
-
+  
+  <!-- EN: administer healer mech serum -->
   <AdministerMechSerumHealer.label>χορήγηση ιαματικού μηχανικού ορού</AdministerMechSerumHealer.label>
-  <AdministerMechSerumHealer.description>Χορηγεί θεραπευτικό μηχανικό ορό.</AdministerMechSerumHealer.description>
-  <AdministerMechSerumHealer.jobString>Χορηγείτε ιαματικός θεραπευτικός ορός.</AdministerMechSerumHealer.jobString>
-
-
+  <!-- EN: Administer a healer mech serum. -->
+  <AdministerMechSerumHealer.description>Χορήγηση ενός θεραπευτικού μηχανικού ορού.</AdministerMechSerumHealer.description>
+  <!-- EN: Administering healer mech serum. -->
+  <AdministerMechSerumHealer.jobString>Χορηγεί ένα ιαματικό θεραπευτικό ορό.</AdministerMechSerumHealer.jobString>
+  
+  <!-- EN: anesthetize -->
+  <Anesthetize.label>αναισθησία</Anesthetize.label>
+  <!-- EN: Render a creature unconscious by administering general anesthetic. -->
+  <Anesthetize.description>Κάνει ένα πλάσμα αναίσθητο με τη χορήγηση αναισθητικού.</Anesthetize.description>
+  <!-- EN: Anesthetizing. -->
+  <Anesthetize.jobString>Ναρκώνει.</Anesthetize.jobString>
+  
+  <!-- EN: euthanize by cut -->
+  <Euthanize.label>ευθανασία με τομή</Euthanize.label>
+  <!-- EN: Euthanize a creature by cutting. -->
+  <Euthanize.description>Ευθανατοποίηση ενός πλάσματος με τομή.</Euthanize.description>
+  <!-- EN: Euthanizing by cutting. -->
+  <Euthanize.jobString>Κάνει ευθανασία με τομή.</Euthanize.jobString>
+  
+  <!-- EN: excise carcinoma -->
+  <ExciseCarcinoma.label>αφαίρεση καρκινώματος</ExciseCarcinoma.label>
+  <!-- EN: Excise a carcinoma. -->
+  <ExciseCarcinoma.description>Αφαίρεση καρκινικού όγκου.</ExciseCarcinoma.description>
+  <!-- EN: Excising carcinoma. -->
+  <ExciseCarcinoma.jobString>Αφαιρείτε το καρκίνωμα.</ExciseCarcinoma.jobString>
+  <!-- EN: {0} has successfully excised {1}'s carcinoma. -->
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} έχει αφαιρέσει επιτυχώς το καρκίνωμα {1_possessive} {1}.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+  
+  <!-- EN: remove part -->
+  <RemoveBodyPart.label>αφαίρεση μέλους</RemoveBodyPart.label>
+  <!-- EN: Remove a body part. -->
+  <RemoveBodyPart.description>Αφαίρεση ενός μέλος του σώματος.</RemoveBodyPart.description>
+  <!-- EN: Removing body part. -->
+  <RemoveBodyPart.jobString>Αφαιρεί ένα μέλος του σώματος.</RemoveBodyPart.jobString>
+  
 </LanguageData>

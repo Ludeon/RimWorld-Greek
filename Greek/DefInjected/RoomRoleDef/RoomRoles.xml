@@ -1,20 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <None.label>κενό</None.label>
-  <Room.label>δωμάτιο</Room.label>
-  <Bedroom.label>κρεβατοκάμαρα</Bedroom.label>
-  <PrisonCell.label>κελί κρατούμενου</PrisonCell.label>
-  <DiningRoom.label>τραπεζαρία</DiningRoom.label>
-  <RecRoom.label>αίθουσα αναψυχής</RecRoom.label>
-  <Hospital.label>νοσοκομείο</Hospital.label>
-  <Laboratory.label>εργαστήριο</Laboratory.label>
-  <Workshop.label>συνεργείο</Workshop.label>
-  <Barracks.label>στρατώνας</Barracks.label>
-  <PrisonBarracks.label>παραπήγματα φυλακής</PrisonBarracks.label>
-  <Kitchen.label>κουζίνα</Kitchen.label>
-  <Tomb.label>μνήμα</Tomb.label>
+  
+  <!-- EN: barn -->
   <Barn.label>στάβλος</Barn.label>
-
-
+  
+  <!-- EN: barracks -->
+  <Barracks.label>στρατώνας</Barracks.label>
+  
+  <!-- EN: bedroom -->
+  <Bedroom.label>κρεβατοκάμαρα</Bedroom.label>
+  
+  <!-- EN: dining room -->
+  <DiningRoom.label>τραπεζαρία</DiningRoom.label>
+  
+  <!-- EN: hospital -->
+  <Hospital.label>νοσοκομείο</Hospital.label>
+  
+  <!-- EN: kitchen -->
+  <Kitchen.label>κουζίνα</Kitchen.label>
+  
+  <!-- EN: laboratory -->
+  <Laboratory.label>εργαστήριο</Laboratory.label>
+  
+  <!-- EN: none -->
+  <None.label>τίποτα</None.label>
+  
+  <!-- EN: prison barracks -->
+  <PrisonBarracks.label>παραπήγματα φυλακής</PrisonBarracks.label>
+  
+  <!-- EN: prison cell -->
+  <PrisonCell.label>κελί κρατούμενου</PrisonCell.label>
+  
+  <!-- EN: rec room -->
+  <RecRoom.label>αίθουσα αναψυχής</RecRoom.label>
+  
+  <!-- EN: room -->
+  <Room.label>δωμάτιο</Room.label>
+  
+  <!-- EN: tomb -->
+  <Tomb.label>μνήμα</Tomb.label>
+  
+  <!-- EN: workshop -->
+  <Workshop.label>συνεργείο</Workshop.label>
+  
 </LanguageData>

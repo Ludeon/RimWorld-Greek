@@ -1,256 +1,459 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Απαγόρευση (Forbid) -->
+  <!-- Forbid -->
+  <!-- EN: Forbid -->
   <CommandForbid>Απαγόρευση</CommandForbid>
-  <CommandForbiddenDesc>Απαγορευμένο - οι άποικοι δεν θα αλληλεπιδρούν με αυτό.</CommandForbiddenDesc>
-  <CommandNotForbiddenDesc>Όχι απαγορευμένο - οι άποικοι μπορεί να αλληλεπιδρούν με αυτό.</CommandNotForbiddenDesc>
+  <!-- EN: Allow -->
+  <CommandAllow>Επιτρέπεται</CommandAllow>
+  <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
+  <CommandForbiddenDesc>Απαγορευμένο: Οι άποικοί σου δεν επιτρέπεται να αλληλεπιδρούν με αυτό. Κάνε κλικ για να επιτρέπεται.</CommandForbiddenDesc>
+  <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
+  <CommandNotForbiddenDesc>Όχι απαγορευμένο: Οι άποικοί σου επιτρέπεται να αλληλεπιδρούν με αυτό. Κάνε κλικ για να απαγορεύεται.</CommandNotForbiddenDesc>
 
-  <!-- Ηλεκτρικό ρεύμα (Power) -->
+  <!-- Power -->
+  <!-- EN: Toggle power -->
   <CommandTogglePowerLabel>Ανοιγοκλείσιμο</CommandTogglePowerLabel>
+  <!-- EN: Toggle power. -->
   <CommandTogglePowerDesc>Συνδέει ή αποσυνδέει μία συσκευή από το ηλεκτρικό ρεύμα.</CommandTogglePowerDesc>
-
-  <CommandDesignateTogglePowerLabel>Υπόδειξη για ανοιγοκλείσιμο</CommandDesignateTogglePowerLabel>
-  <CommandDesignateTogglePowerDesc>Καθορίστε αυτό το αντικείμενο να ανοίγει και να κλείνει (ρεύμα). Ένας άποικος θα έρθει σύντομα να πατήσει το διακόπτη.</CommandDesignateTogglePowerDesc>
-
+  
+  <!-- EN: Designate toggle power -->
+  <CommandDesignateTogglePowerLabel>Υπόδειξη για ανοιγοκλείσ.</CommandDesignateTogglePowerLabel>
+  <!-- EN: Designate this thing to have power toggled. A colonist will come soon to flick the switch. -->
+  <CommandDesignateTogglePowerDesc>Καθορίστε αυτό το αντικείμενο να ανοιγοκλείνει στο ρεύμα. Ένας άποικος θα έρθει σύντομα να πατήσει το διακόπτη.</CommandDesignateTogglePowerDesc>
+  
+  <!-- EN: Reconnect -->
   <CommandTryReconnectLabel>Επανασύνδεση</CommandTryReconnectLabel>
+  <!-- EN: Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby. -->
   <CommandTryReconnectDesc>Προσπαθήστε να το συνδέσετε σε διαφορετικό δίκτυο ενέργειας στην ακτίνα σύνδεσης. Αυτό είναι χρήσιμο αν είναι συνδεδεμένο σε ένα χωρίς ισχύ δίκτυο, αλλά υπάρχει ένα δίκτυο με ισχύ κοντά.</CommandTryReconnectDesc>
 
+  <!-- EN: Gather spot -->
   <CommandGatherSpotToggleLabel>Σημείο συγκέντρωσης</CommandGatherSpotToggleLabel>
+  <!-- EN: Active - colonists will gather around this object. -->
   <CommandGatherSpotToggleDescActive>Ενεργό - οι άποικοι θα συγκεντρωθούν γύρω από αυτό το αντικείμενο.</CommandGatherSpotToggleDescActive>
+  <!-- EN: Inactive - colonists will not gather around this object. -->
   <CommandGatherSpotToggleDescInactive>Ανενεργό - οι άποικοι δεν θα συγκεντρωθούν γύρω από αυτό το αντικείμενο.</CommandGatherSpotToggleDescInactive>
-
-
-  <!-- Σχεδιασμός (Drafting) -->
+  
+  <!-- Drafting -->
+  <!-- EN: Draft -->
   <CommandDraftLabel>Στρατολόγηση</CommandDraftLabel>
+  <!-- EN: Undraft -->
   <CommandUndraftLabel>Απόλυση</CommandUndraftLabel>
+  <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
   <CommandToggleDraftDesc>Εναλλαγή στρατιωτικού σχεδίου.\n\nΟι στρατολογημένοι άνθρωποι λαμβάνουν εντολές και πολεμούν. Δεν θα δουλεύουν, δεν θα τρώνε ούτε θα ξεκουράζονται.</CommandToggleDraftDesc>
-  <IsIncapped>{0} δεν μπορεί να περπατήσει.</IsIncapped>
+  <!-- EN: {1_labelShort} cannot walk. -->
+  <IsIncapped>{1_labelShort} δεν μπορεί να περπατήσει.</IsIncapped>
 
+  <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>Πυρ κατά βούληση</CommandFireAtWillLabel>
+  <!-- EN: Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat. -->
   <CommandFireAtWillDesc>Εναλλαγή πυρ κατά βούλησης.\n\nΌταν απενεργοποιηθεί, αυτός ο χαρακτήρας δεν θα πυροβοληθεί αυτόματα σε στόχους μέσω στο βεληνεκές του. Δεν επηρεάζει τη μάχη σώμα με σώμα.</CommandFireAtWillDesc>
-
+  
+  <!-- EN: Clear prioritized work -->
   <CommandClearPrioritizedWork>Καθαρισμός προτεραιοτήτων εργασίας</CommandClearPrioritizedWork>
+  <!-- EN: Clear any prioritized work you assigned. The character will go back to their usual self-directed activities. -->
   <CommandClearPrioritizedWorkDesc>Καθαρίστε οποιαδήποτε εργασία προτεραιότητας που έχετε αναθέσει. Ο χαρακτήρας θα επιστρέψει στις συνηθισμένες αυτό-κατευθυνόμενες δραστηριότητες.</CommandClearPrioritizedWorkDesc>
-
+  
+  <!-- EN: Cancel -->
   <CommandCancelConstructionLabel>Ακύρωση</CommandCancelConstructionLabel>
+  <!-- EN: Cancel this construction. -->
   <CommandCancelConstructionDesc>Ακύρωση αυτής της κατασκευής.</CommandCancelConstructionDesc>
 
+  <!-- EN: Get out of bed -->
   <CommandGetOutOfBedLabel>Σήκω από το κρεβάτι</CommandGetOutOfBedLabel>
+  <!-- EN: Get out of current bed. -->
   <CommandGetOutOfBedDesc>Σήκω από το συγκεκριμένο κρεβάτι.</CommandGetOutOfBedDesc>
 
+  <!-- EN: Set owner -->
   <CommandBedSetOwnerLabel>Ορισμός ιδιοκτήτη</CommandBedSetOwnerLabel>
+  <!-- EN: Assign this bed to be owned by a specific colonist. -->
   <CommandBedSetOwnerDesc>Εκχωρήστε αυτό το κρεβάτι για να ανήκει σε συγκεκριμένο άποικο.</CommandBedSetOwnerDesc>
-  <CommandGraveAssignColonistLabel>Ορισμός ιδιοκτήτη</CommandGraveAssignColonistLabel>
+  <!-- EN: Assign colonist -->
+  <CommandGraveAssignColonistLabel>Ορισμός αποίκου</CommandGraveAssignColonistLabel>
+  <!-- EN: Assign this grave to be owned by a specific colonist. -->
   <CommandGraveAssignColonistDesc>Εκχωρήστε αυτό τον τάφο για να ανήκει σε συγκεκριμένο άποικο.</CommandGraveAssignColonistDesc>
+  <!-- EN: Assign -->
   <BuildingAssign>Ανάθεση</BuildingAssign>
+  <!-- EN: Reassign -->
+  <BuildingReassign>Εκ νέου ανάθεση</BuildingReassign>
+  <!-- EN: Unassign -->
   <BuildingUnassign>Μη ανάθεση</BuildingUnassign>
-  <CommandBedSetForPrisonersLabel>Για φυλακισμένους</CommandBedSetForPrisonersLabel>
+  <!-- EN: For prisoners -->
+  <CommandBedSetForPrisonersLabel>Φυλακής</CommandBedSetForPrisonersLabel>
+  <!-- EN: Whether beds in this room should be used by prisoners. -->
   <CommandBedSetForPrisonersDesc>Εάν τα κρεβάτια σε αυτό το δωμάτιο θα πρέπει να χρησιμοποιούνται από κρατούμενους.</CommandBedSetForPrisonersDesc>
+  <!-- EN: Only beds in enclosed spaces can be set for prisoners. -->
   <CommandBedSetForPrisonersFailOutdoors>Μόνο κρεβάτια σε κλειστούς χώρους μπορούν να οριστούν για κρατούμενους.</CommandBedSetForPrisonersFailOutdoors>
+  <!-- EN: Medical -->
   <CommandBedSetAsMedicalLabel>Ιατρικό</CommandBedSetAsMedicalLabel>
+  <!-- EN: Whether this bed is for medical use. -->
   <CommandBedSetAsMedicalDesc>Εάν αυτό το κρεβάτι είναι για ιατρική χρήση.</CommandBedSetAsMedicalDesc>
+  <!-- EN: Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
   <TurningOnPrisonerBedWarning>Η ενεργοποίηση της λειτουργίας φυλακισμένου επηρεάζει ολόκληρο το δωμάτιο (αφού οι κρατούμενοι και οι άποικοι δεν μπορούν να κοιμηθούν στο ίδιο δωμάτιο).\n\nΑυτοί οι άνθρωποι θα χάσουν την κυριότητα των κρεβατιών τους:</TurningOnPrisonerBedWarning>
+  <!-- EN: Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
   <TurningOffPrisonerBedWarning>Η απενεργοποίηση της λειτουργίας φυλακισμένου επηρεάζει ολόκληρο το δωμάτιο (αφού οι κρατούμενοι και οι άποικοι δεν μπορούν να κοιμηθούν στο ίδιο δωμάτιο).\n\nΑυτοί οι άνθρωποι θα χάσουν την κυριότητα των κρεβατιών τους:</TurningOffPrisonerBedWarning>
+  <!-- EN: Are you sure you want to do this? -->
   <AreYouSure>Είστε σίγουρος ότι θέλετε να το κάνετε αυτό;</AreYouSure>
 
+  <!-- EN: Detonate -->
   <CommandDetonateLabel>Ανατίναξη</CommandDetonateLabel>
+  <!-- EN: Start the countdown to detonation. -->
   <CommandDetonateDesc>Ξεκινά την αντίστροφη μέτρηση της ανατίναξης.</CommandDetonateDesc>
 
+  <!-- EN: Rename -->
   <CommandRenameZoneLabel>Μετονομασία</CommandRenameZoneLabel>
+  <!-- EN: Rename this zone. -->
   <CommandRenameZoneDesc>Αλλαγή ονόματος αυτή της ζώνης.</CommandRenameZoneDesc>
 
+  <!-- EN: Hide -->
   <CommandHideZoneLabel>Απόκρυψη</CommandHideZoneLabel>
+  <!-- EN: Unhide -->
   <CommandUnhideZoneLabel>Εμφάνιση</CommandUnhideZoneLabel>
+  <!-- EN: Hide/unhide this zone. -->
   <CommandHideZoneDesc>Απόκρυψη/εμφάνιση αυτής της ζώνης.</CommandHideZoneDesc>
 
+  <!-- EN: Delete -->
   <CommandDeleteZoneLabel>Διαγραφή</CommandDeleteZoneLabel>
+  <!-- EN: Delete this zone. -->
   <CommandDeleteZoneDesc>Διαγράφει αυτή την ζώνη.</CommandDeleteZoneDesc>
 
+  <!-- EN: Copy settings -->
   <CommandCopyZoneSettingsLabel>Αντιγραφή ρυθμίσεων</CommandCopyZoneSettingsLabel>
+  <!-- EN: Copy this zone's settings to the clipboard so you can paste them onto another zone. -->
   <CommandCopyZoneSettingsDesc>Αντιγράφει τις ρυθμίσεις αυτής της ζώνης στο πρόχειρο ώστε να μπορούν να γίνουν επικόλληση σε μια άλλη ζώνη.</CommandCopyZoneSettingsDesc>
 
+  <!-- EN: Paste settings -->
   <CommandPasteZoneSettingsLabel>Επικόλληση ρυθμίσεων</CommandPasteZoneSettingsLabel>
-  <CommandPasteZoneSettingsDesc>Αντικαθιστά τις ρυθμίσεις αυτής της ζώνης με αυτές που προηγουμένως αντιγράφτηκαν στο πρόχειρο.</CommandPasteZoneSettingsDesc>
+  <!-- EN: Overwrite this zone's settings with those previously copied to the clipboard. -->
+  <CommandPasteZoneSettingsDesc>Αντικαθιστά τις ρυθμίσεις αυτής της ζώνης με αυτές που προηγουμένως αντιγράφηκαν στο πρόχειρο.</CommandPasteZoneSettingsDesc>
 
+  <!-- EN: Allow sowing -->
   <CommandAllowSow>Επιτρέπετε σπορά</CommandAllowSow>
+  <!-- EN: When disabled, colonists will never sow plants in this zone. They will still harvest. -->
   <CommandAllowSowDesc>Όταν είναι απενεργοποιημένη, οι άποικοι ποτέ δεν θα σπείρουν φυτά σε αυτή τη ζώνη. Θα εξακολουθούν να συγκομίζουν.</CommandAllowSowDesc>
 
-  <!-- Πυροβολικό (Artillery) -->
+  <!-- Artillery -->
+  <!-- EN: Set forced target -->
   <CommandSetForceAttackTarget>Ορισμός αναγκαστικού στόχου</CommandSetForceAttackTarget>
+  <!-- EN: Sets a target that this turret must attack continuously as long as it can. -->
   <CommandSetForceAttackTargetDesc>Ορίζει έναν στόχο όπου αυτός ο πυργίσκος πρέπει να επιτίθεται συνεχώς για όσο διάστημα μπορεί.</CommandSetForceAttackTargetDesc>
+  <!-- EN: Stop forced attack -->
   <CommandStopForceAttack>Παύση αναγκαστικής επίθεσης</CommandStopForceAttack>
+  <!-- EN: Stops force-attacking and allows the turret to fire as it wishes. -->
   <CommandStopForceAttackDesc>Σταματάει την αναγκαστική επίθεση και επιτρέπει στον πυργίσκο να βάλει κατά βούληση.</CommandStopForceAttackDesc>
+  <!-- EN: Not currently force-attacking. -->
   <CommandStopAttackFailNotForceAttacking>Αυτή τη στιγμή δεν επιτίθεται αναγκαστικά.</CommandStopAttackFailNotForceAttacking>
+  <!-- EN: Extract shell -->
   <CommandExtractShell>Εξαγωγή οβίδας</CommandExtractShell>
+  <!-- EN: Unloads the current shell so it can be replaced with different ammunition. -->
   <CommandExtractShellDesc>Ξεφορτώνει τη συγκεκριμένη οβίδα ώστε να μπορεί να αντικατασταθεί με διαφορετικό πυρομαχικό.</CommandExtractShellDesc>
-  <CommandExtractShellFailNoShell>Δεν έχει φορτωθεί καμία οβίδα.</CommandExtractShellFailNoShell>
+  <!-- EN: Target beyond maximum range. -->
   <MessageTargetBeyondMaximumRange>Στόχευση πέρα από το μέγιστο βεληνεκές.</MessageTargetBeyondMaximumRange>
+  <!-- EN: Target below minimum range. -->
   <MessageTargetBelowMinimumRange>Στόχευση πέρα από το ελάχιστο βεληνεκές.</MessageTargetBelowMinimumRange>
+  <!-- EN: Warning: The mortar won't fire because it's set to "Hold fire". -->
   <MessageTurretWontFireBecauseHoldFire>Προειδοποίηση: Το ολμοβόλο δεν θα πυροβολεί επειδή έχει ρυθμιστεί σε "Παύση πυρός".</MessageTurretWontFireBecauseHoldFire>
-
-  <!-- Πυρήνας υπολογιστή διαστημοπλοίου (Ship computer core) -->
+  
+  <!-- Ship computer core -->
+  <!-- EN: Launch ship -->
   <CommandShipLaunch>Εκτόξευση διαστημόπλοιου</CommandShipLaunch>
+  <!-- EN: Start the ship launch sequence with the current configuration. -->
   <CommandShipLaunchDesc>Ξεκινήστε την ακολουθία εκτόξευσης διαστημοπλοίου με την τρέχουσα σύνθεση.</CommandShipLaunchDesc>
+  <!-- EN: Show launch report -->
   <CommandShipLaunchReport>Εμφάνιση αναφοράς εκτόξευσης</CommandShipLaunchReport>
+  <!-- EN: Show a readiness report about the ship's launch capability. -->
   <CommandShipLaunchReportDesc>Δείχνει μια έκθεση ετοιμότητας σχετικά με την ικανότητα εκτόξευσης του διαστημόπλοιου.</CommandShipLaunchReportDesc>
+  <!-- EN: Start ship -->
   <CommandShipStartup>Εκκίνηση διαστημοπλοίου</CommandShipStartup>
+  <!-- EN: Wake up hibernating ship components. -->
   <CommandShipStartupDesc>Ενεργοποιεί τα εξαρτήματα του διαστημοπλοίου που βρίσκονται σε αδρανοποίηση.</CommandShipStartupDesc>
 
-  <!-- Άτρακτος (Pod) -->
+  <!-- Pod -->
+  <!-- EN: Eject sleeper -->
   <CommandPodEject>Εξαγωγή κοιμώμενου</CommandPodEject>
+  <!-- EN: Wake up the cryptosleeper and eject them. -->
   <CommandPodEjectDesc>Ξυπνάει αυτόν που βρίσκετε σε κρυογονικό λήθαργο και τον βγάζει έξω.</CommandPodEjectDesc>
+  <!-- EN: Contains nobody. -->
   <CommandPodEjectFailEmpty>Δεν περιέχει κανέναν.</CommandPodEjectFailEmpty>
 
-  <!-- Πόρτα (Door) -->
+  <!-- Door -->
+  <!-- EN: Passage forbidden -->
   <CommandToggleDoorForbid>Απαγόρευση διέλευσης</CommandToggleDoorForbid>
+  <!-- EN: When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door. -->
   <CommandToggleDoorForbidDesc>Όταν μια πόρτα είναι απαγορευμένη, οι άποικοι και οι σύμμαχοι δεν θα περάσουν από αυτή. Αυτό δεν επηρεάζει τον τρόπο με τον οποίο οι εχθροί ή τα ζώα αλληλεπιδρούν με την πόρτα.</CommandToggleDoorForbidDesc>
+  <!-- EN: Hold open -->
   <CommandToggleDoorHoldOpen>Κρατήστε ανοιχτή</CommandToggleDoorHoldOpen>
+  <!-- EN: When active, your colonists will not close the door after passing through. -->
   <CommandToggleDoorHoldOpenDesc>Όταν ενεργοποιηθεί, οι άποικοί σας δεν θα κλείνουν την πόρτα μόλις διέρχονται από αυτή.</CommandToggleDoorHoldOpenDesc>
 
-  <!-- Έλεγχος θερμοκρασίας (Temperature control) -->
+  <!-- Temperature control -->
+  <!-- EN: Reset -->
   <CommandResetTemp>Επαναφορά</CommandResetTemp>
+  <!-- EN: Reset the target temperature to room temperature. -->
   <CommandResetTempDesc>Επαναφέρει τη θερμοκρασία στόχου σε θερμοκρασία δωματίου.</CommandResetTempDesc>
+  <!-- EN: Raise the target temperature. -->
   <CommandRaiseTempDesc>Αυξάνει τη θερμοκρασία στόχου.</CommandRaiseTempDesc>
+  <!-- EN: Lower the target temperature. -->
   <CommandLowerTempDesc>Μειώνει τη θερμοκρασία στόχου.</CommandLowerTempDesc>
 
-  <!-- Εγκατάσταση/απεγκατάσταση (Install/reinstall) -->
+  <!-- Install/reinstall -->
+  <!-- EN: Install -->
   <CommandInstall>Τοποθέτηση</CommandInstall>
+  <!-- EN: This item is currently packaged up for storage and transport. Use this command to install this item in a final location. -->
   <CommandInstallDesc>Αυτό το αντικείμενο είναι συσκευασμένο προς το παρόν για αποθήκευση και μεταφορά. Χρησιμοποιήστε αυτήν την εντολή για να εγκαταστήσετε αυτό το αντικείμενο στη τελική θέση.</CommandInstallDesc>
-  <CommandReinstall>Επανατοποθέτηση σε...</CommandReinstall>
+  <!-- EN: Reinstall at... -->
+  <CommandReinstall>Επαντπθτηση</CommandReinstall>
+  <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
   <CommandReinstallDesc>Ορίστε αυτό το αντικείμενο για να τον απεγκαταστήσετε και να τον εγκαταστήσετε ξανά.</CommandReinstallDesc>
-
-  <!-- Φάρος εμπορίου (Trade beacon) -->
+  
+  <!-- Trade beacon -->
+  <!-- EN: Create a stockpile around this building exactly matching the shape of the beacon's launch radius. -->
   <CommandMakeBeaconStockpileDesc>Δημιουργεί μία αποθήκη γύρω από αυτό το κτίριο που ταιριάζει ακριβώς με το σχήμα της ακτίνας εκτόξευσης του φάρου.</CommandMakeBeaconStockpileDesc>
+  <!-- EN: Create stockpile -->
   <CommandMakeBeaconStockpileLabel>Δημιουργία αποθήκης</CommandMakeBeaconStockpileLabel>
 
-  <!-- Λάμπα με το φως του ήλιου (Sun lamp) -->
+  <!-- Sun lamp -->
+  <!-- EN: Create a growing zone around this building exactly matching the shape of the lamp's light radius. -->
   <CommandSunLampMakeGrowingZoneDesc>Δημιουργεί μια ζώνη καλλιέργειας γύρω από αυτό τη κατασκευή που ταιριάζει ακριβώς  με το σχήμα της ακτίνας φωτός της λάμπας.</CommandSunLampMakeGrowingZoneDesc>
+  <!-- EN: Create growing zone -->
   <CommandSunLampMakeGrowingZoneLabel>Δημιουργία ζώνης καλλιέργειας</CommandSunLampMakeGrowingZoneLabel>
 
-  <!-- Παγίδα (Trap) -->
+  <!-- Trap -->
+  <!-- EN: Auto Rearm -->
   <CommandAutoRearm>Αυτόματος επανεξοπλισμός</CommandAutoRearm>
+  <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
   <CommandAutoRearmDesc>Αν αυτό είναι ενεργοποιημένο, αυτή η παγίδα θα οριστεί αυτομάτως για επανοπλισμό όταν ταλαντευτεί.</CommandAutoRearmDesc>
-
-  <!-- Έλεγχος ζώου (Animal control) -->
-  <CommandReleaseAnimalsLabel>Απελευθέρωση ζώων</CommandReleaseAnimalsLabel>
+  
+  <!-- Animal control -->
+  <!-- EN: Release animals -->
+  <CommandReleaseAnimalsLabel>Αποδέσμευση ζώων</CommandReleaseAnimalsLabel>
+  <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
   <CommandReleaseAnimalsDesc>Ενώ αυτό είναι ενεργοποιημένο, τα ζώα υπό κηδεμονία στέλνονται για να επιτεθούν σε μακρινούς στόχους. Ενώ όταν απενεργοποιείτε, παραμένουν κοντά και φυλάσσουν το αφεντικό τους.</CommandReleaseAnimalsDesc>
-
-  <!-- Επίθεση ουλαμού (Squad attack) -->
+  <!-- EN: No animals available. -->
+  <CommandReleaseAnimalsFail_NoAnimals>Δεν υπάρχουν διαθέσιμα ζώα.</CommandReleaseAnimalsFail_NoAnimals>
+  
+  <!-- Squad attack -->
+  <!-- EN: Attack -->
   <CommandSquadAttack>Επίθεση</CommandSquadAttack>
+  <!-- EN: Order selected colonists to attack designated target. -->
   <CommandSquadAttackDesc>Ορίστε τους επιλεγμένους αποίκους να επιτεθούν σε καθορισμένους στόχους.</CommandSquadAttackDesc>
-
-  <!-- Επίθεση εξ επαφής (Melee attack) -->
+  
+  <!-- Melee attack -->
+  <!-- EN: Melee attack -->
   <CommandMeleeAttack>Επίθεση εξ επαφής</CommandMeleeAttack>
+  <!-- EN: Order selected colonists to attack designated target using only fists and melee weapons. -->
   <CommandMeleeAttackDesc>Ορίστε του επιλεγμένους αποίκους να επιτεθούν σε καθορισμένους στόχους χρησιμοποιώντας μόνο μπουνιές και όπλα εξ επαφής.</CommandMeleeAttackDesc>
 
-  <!-- Κατάπαυση πυρός (Hold fire) -->
+  <!-- Hold fire -->
+  <!-- EN: Hold fire -->
   <CommandHoldFire>Κατάπαυση πυρός</CommandHoldFire>
+  <!-- EN: End any ongoing attacks. -->
   <CommandHoldFireDesc>Τερματίστε κάθε επίθεση σε εξέλιξη.</CommandHoldFireDesc>
-
-  <!-- Επιλογή φυτού για καλλιέργεια (Select plant to grow) -->
+  
+  <!-- Select plant to grow -->
+  <!-- EN: Select plant to grow -->
   <CommandSelectPlantToGrowMulti>Επιλογή φυτού για καλλιέργεια</CommandSelectPlantToGrowMulti>
+  <!-- EN: Plant: {0} -->
   <CommandSelectPlantToGrow>Φυτό: {0}</CommandSelectPlantToGrow>
+  <!-- EN: Determine which plant should be sown here. -->
   <CommandSelectPlantToGrowDesc>Καθορίζει πιο φυτό θα φυτευτεί εδώ.</CommandSelectPlantToGrowDesc>
+  
+  <!-- Select mineral to scan for (long-range mineral scanner) -->
+  <!-- EN: Tuned to -->
+  <CommandSelectMineralToScanFor>Συντονισμός σε</CommandSelectMineralToScanFor>
 
-  <!-- Αντιγραφή κατασκευής (Build copy) -->
+  <!-- Build copy -->
+  <!-- EN: Build copy -->
   <CommandBuildCopy>Αντιγραφή κατασκευής</CommandBuildCopy>
+  <!-- EN: Build a copy of this building. -->
   <CommandBuildCopyDesc>Δημιουργήστε ένα αντίγραφο αυτής της κατασκευής.</CommandBuildCopyDesc>
-
-  <!-- Σύνθεση καραβανιού (Form caravan) -->
+  
+  <!-- Form caravan -->
+  <!-- EN: Form caravan -->
   <CommandFormCaravan>Σύνθεση καραβανιού</CommandFormCaravan>
+  <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
   <CommandFormCaravanDesc>Δημιουργήστε μια ομάδα αποίκων που μπορεί να ταξιδέψει σε νέες περιοχές. Οι άποικοι θα συγκεντρώσουν όλες τις προμήθειες και τα ζώα συνοδείας, θα εγκαταλείψουν την περιοχή τους και θα περιμένουν περαιτέρω οδηγίες.</CommandFormCaravanDesc>
-
-  <!-- Επανασχεδίαση καραβανιού (Reform caravan) -->
-  <CommandReformCaravan>Επανασχεδίαση καραβανιού</CommandReformCaravan>
+  
+  <!-- Reform caravan -->
+  <!-- EN: Reform caravan -->
+  <CommandReformCaravan>Αναμόρφωση καραβανιού</CommandReformCaravan>
+  <!-- EN: Reform a group of colonists. The colonists will leave their current area and await further orders. -->
   <CommandReformCaravanDesc>Επανασχεδιάστε μία ομάδα από αποίκους. Οι άποικοι θα εγκαταλείψουν την περιοχή τους και θα περιμένουν περαιτέρω οδηγίες.</CommandReformCaravanDesc>
+  <!-- EN: There are still some enemies in this area. -->
   <CommandReformCaravanFailHostilePawns>Υπάρχουν ακόμα μερικοί εχθροί σε αυτή την περιοχή.</CommandReformCaravanFailHostilePawns>
-
-  <!-- Διαχωρισμός καραβανιού (Split caravan) -->
+  
+  <!-- Split caravan -->
+  <!-- EN: Split -->
   <CommandSplitCaravan>Διαχωρισμός</CommandSplitCaravan>
+  <!-- EN: Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other. -->
   <CommandSplitCaravanDesc>Διαχωρίστε αυτό το καραβάνι σε δύο. Τα καραβάνια μπορούν αργότερα να συγχωνευθούν ξανά σε ένα, εφόσον πλησιάσουν μεταξύ τους.</CommandSplitCaravanDesc>
-
-  <!-- Συγχώνευση καραβανιών (Merge caravan) -->
+  
+  <!-- Merge caravan -->
+  <!-- EN: Merge -->
   <CommandMergeCaravans>Συγχώνευση</CommandMergeCaravans>
+  <!-- EN: Merge selected caravans. -->
   <CommandMergeCaravansDesc>Συγχωνεύει τα επιλεγμένα καραβάνια.</CommandMergeCaravansDesc>
+  <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
   <CommandMergeCaravansFailCaravansNotSelected>Επιλέξτε όλα τα καραβάνια που θέλετε να συγχωνεύσετε. Τα καραβάνια πρέπει να είναι κοντά το ένα στο άλλο.</CommandMergeCaravansFailCaravansNotSelected>
-
-  <!-- Αποίκηση (Settle) -->
+  
+  <!-- Settle -->
+  <!-- EN: Settle -->
   <CommandSettle>Αποίκηση</CommandSettle>
+  <!-- EN: Settle in this area. Your colonists will enter this area and you will be able to start building a new home. -->
   <CommandSettleDesc>Αποικήστε αυτή την περιοχή. Οι άποικοι σας θα εισέλθουν σε αυτή τη περιοχή και θα είστε σε θέση να ξεκινήσετε την οικοδόμηση ενός νέου σπιτιού.</CommandSettleDesc>
+  <!-- EN: Your faction can only have one base. -->
   <CommandSettleFailAlreadyHaveBase>Η φατρία σας μπορεί να έχει μόνο μία βάση.</CommandSettleFailAlreadyHaveBase>
+  <!-- EN: Reached maximum number of colonies. -->
   <CommandSettleFailReachedMaximumNumberOfBases>Έχετε φτάσει στο μέγιστο αριθμό αποικιών.</CommandSettleFailReachedMaximumNumberOfBases>
+  <!-- EN: There isn't anybody there to claim the area. -->
   <CommandSettleFailNoColonists>Δεν υπάρχει κανένας εκεί για να διεκδικήσει την περιοχή.</CommandSettleFailNoColonists>
+  <!-- EN: There are enemies in this area. -->
   <CommandSettleFailEnemies>Υπάρχουν εχθροί σε αυτή την περιοχή.</CommandSettleFailEnemies>
-
-  <!-- Εγκατάλειψη σπιτιού (Abandon home) -->
+  
+  <!-- Abandon home -->
+  <!-- EN: Abandon -->
   <CommandAbandonHome>Εγκατάλειψη</CommandAbandonHome>
+  <!-- EN: Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area. -->
   <CommandAbandonHomeDesc>Εγκαταλείψτε αυτήν την περιοχή. Η περιοχή θα γίνει απρόσιτη και δεν θα μπορέσετε να επιστρέψετε ξανά εδώ. Αφού εγκαταλείψετε το σπίτι σας, θα είστε σε θέση να παραγγείλετε ένα από τα καραβάνια σας να εγκατασταθεί σε μια νέα περιοχή.</CommandAbandonHomeDesc>
+  <!-- EN: All of your colonists are there. -->
   <CommandAbandonHomeFailAllColonistsThere>Όλοι οι άποικοί σας είναι εκεί.</CommandAbandonHomeFailAllColonistsThere>
-
-  <!-- Ακύρωση σχηματισμού καραβανιού (Cancel forming caravan) -->
+  
+  <!-- Cancel forming caravan -->
+  <!-- EN: Cancel forming caravan -->
   <CommandCancelFormingCaravan>Ακύρωση σχηματισμού καραβανιού</CommandCancelFormingCaravan>
+  <!-- EN: Terminate the caravan formation process. -->
   <CommandCancelFormingCaravanDesc>Τερματίζει τη διαδικασία σχηματισμού καραβανιού.</CommandCancelFormingCaravanDesc>
 
-  <!-- Εμφάνιση χάρτη (Show map) -->
+  <!-- Remove from caravan -->
+  <!-- EN: Remove from caravan -->
+  <CommandRemoveFromCaravan>Αφαίρεση από το καραβάνι</CommandRemoveFromCaravan>
+  <!-- EN: Remove this person or animal from the caravan. -->
+  <CommandRemoveFromCaravanDesc>Αφαιρεί αυτό το άτομο ή ζώο από το καραβάνι.</CommandRemoveFromCaravanDesc>
+  
+  <!-- Add to caravan -->
+  <!-- EN: Add to caravan -->
+  <CommandAddToCaravan>Προσθήκη στο καραβάνι</CommandAddToCaravan>
+  <!-- EN: Add this person or animal to the forming caravan. -->
+  <CommandAddToCaravanDesc>Προσθέτει αυτό το άτομο ή ζώο από τον σχηματισμό του καραβανιού</CommandAddToCaravanDesc>
+  
+  <!-- Show map -->
+  <!-- EN: Zoom in -->
   <CommandShowMap>Μεγέθυνση</CommandShowMap>
+  <!-- EN: Zoom in on this area. -->
   <CommandShowMapDesc>Κάνει μεγέθυνση σε αυτή τη περιοχή.</CommandShowMapDesc>
-
-  <!-- Εμπόριο (Trade) -->
+  
+  <!-- Trade -->
+  <!-- EN: Trade -->
   <CommandTrade>Εμπόριο</CommandTrade>
+  <!-- EN: Trade with this faction. -->
   <CommandTradeDesc>Εμπόριο με αυτή τη φατρία.</CommandTradeDesc>
+  <!-- EN: There isn't any conscious and capable negotiator. -->
   <CommandTradeFailNoNegotiator>Δεν υπάρχει κανένας γνωρίζων και ικανός διαπραγματευτής.</CommandTradeFailNoNegotiator>
 
-  <!-- Εκπλήρωση αιτήματος (Fulfill request) -->
+  <!-- Offer gifts -->
+  <!-- EN: Offer gifts -->
+  <CommandOfferGifts>Προσφορά δώρων</CommandOfferGifts>
+  <!-- EN: Offer gifts to this faction. -->
+  <CommandOfferGiftsDesc>Προσφέρετε δώρα σε αυτή την φατρία.</CommandOfferGiftsDesc>
+
+  <!-- Fulfill request -->
+  <!-- EN: Fulfill trade offer -->
   <CommandFulfillTradeOffer>Εκπλήρωση εμπορικής προσφοράς</CommandFulfillTradeOffer>
+  <!-- EN: Fulfill the settlement's request for goods and claim your reward. -->
   <CommandFulfillTradeOfferDesc>Εκπληρώστε το αίτημα της αποικίας για αγαθά και ζητήστε την ανταμοιβή σας.</CommandFulfillTradeOfferDesc>
+  <!-- EN: Your caravan must have {0} to fulfill this trade offer. -->
   <CommandFulfillTradeOfferFailInsufficient>Το καραβάνι σας πρέπει να έχει {0} για να εκπληρώσει αυτή την εμπορική προσφορά.</CommandFulfillTradeOfferFailInsufficient>
+  <!-- EN: Offer {0} for {1}? -->
   <CommandFulfillTradeOfferConfirm>Προσφέρετε {0} για {1};</CommandFulfillTradeOfferConfirm>
-
-  <!-- Απογείωση (Take off) -->
+  
+  <!-- Take off -->
+  <!-- EN: Take off -->
   <CommandTakeOff>Απογείωση</CommandTakeOff>
-  <CommandTakeOffDesc>Μπείτε στο πιλοτήριο του διαστημόπλοιου και αποδράσετε από τον πλανήτη Get on board the ship and escape the planet.</CommandTakeOffDesc>
+  <!-- EN: Get on board the ship and escape the planet. -->
+  <CommandTakeOffDesc>Μπείτε στο πιλοτήριο του διαστημόπλοιου και αποδράσετε από τον πλανήτη.</CommandTakeOffDesc>
+  <!-- EN: Are you sure you want to launch the ship?\n\nEveryone in this area will escape the planet. Everyone else will be left behind. -->
   <CommandTakeOffConfirmation>Είστε βέβαιοι ότι θέλετε να εκτοξεύσετε το διαστημόπλοιο;\n\nΌλοι σε αυτήν την περιοχή θα φύγουν από τον πλανήτη. Όλοι οι άλλοι θα μείνουν πίσω.</CommandTakeOffConfirmation>
-
-  <!-- Ορίστε το επίπεδο του καυσίμου (Set target fuel level) -->
+  
+  <!-- Set target fuel level -->
+  <!-- EN: Set target fuel level -->
   <CommandSetTargetFuelLevel>Ορισμός ποσότητας καυσίμου</CommandSetTargetFuelLevel>
+  <!-- EN: Set the target fuel level. Colonists will attempt to fill this up to the target fuel level. -->
   <CommandSetTargetFuelLevelDesc>Ορίστε τη στάθμη του καυσίμου. Οι αποικιστές θα προσπαθήσουν να το γεμίσουν μέχρι το συγκεκριμένο επίπεδο καυσίμου.</CommandSetTargetFuelLevelDesc>
-
-  <!-- Ακύρωση φορτώματος (Cancel load) -->
+  
+  <!-- Cancel load -->
+  <!-- EN: Cancel load -->
   <CommandCancelLoad>Ακύρωση εκφόρτωσης</CommandCancelLoad>
+  <!-- EN: Cancel loading this with people or items and eject everything already loaded. -->
   <CommandCancelLoadDesc>Ακύρωση φόρτωσης των ατόμων ή των αντικείμενων και εξαγωγή όσων έχουν ήδη φορτωθεί.</CommandCancelLoadDesc>
-
-  <!-- Ομάδα εκτόξευσης (Launch group) -->
+  
+  <!-- Launch group -->
+  <!-- EN: Launch group -->
   <CommandLaunchGroup>Ομάδα εκτόξευσης</CommandLaunchGroup>
+  <!-- EN: Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together. -->
   <CommandLaunchGroupDesc>Ξεκινά τη διαδικασία για την εκτόξευση μιας ομάδας ατράκτων μεταφοράς. Το επόμενο βήμα είναι η επιλογή ενός στόχου. Οι άτρακτοι θα πετάξουν και θα προσγειωθούν μαζί.</CommandLaunchGroupDesc>
+  <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
   <CommandLaunchGroupFailNotConnectedToFuelingPort>Ορισμένες άτρακτοι μεταφοράς σε αυτήν την ομάδα φόρτωσης δεν είναι συνδεδεμένες με έναν λυμένα τροφοδοσίας.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <!-- EN: Some pod launchers in this group have no fuel. -->
   <CommandLaunchGroupFailNoFuel>Μερικοί εκτοξευτές ατράκτων σε αυτή την ομάδα δεν έχουν καύσιμο.</CommandLaunchGroupFailNoFuel>
+  <!-- EN: Some pod launchers are under a roof. -->
   <CommandLaunchGroupFailUnderRoof>Μερικοί εκτοξευτές ατράκτων είναι κάτω από οροφή.</CommandLaunchGroupFailUnderRoof>
-
-  <!-- Φόρτωση μεταφορέα (Load transporter) -->
+  
+  <!-- Load transporter -->
+  <!-- EN: Load launch group of {0} -->
   <CommandLoadTransporter>Φόρτωση ομάδας εκτόξευσης από {0}</CommandLoadTransporter>
+  <!-- EN: Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside. -->
   <CommandLoadTransporterDesc>Ορίζει τον επιλεγμένο μεταφορέα(εις) ως ομάδα εκτόξευσης. Ανοίγει το παράθυρο διαλόγου φόρτωσης, ώστε να μπορείτε να αποφασίσετε ποιος και τι πρέπει να φορτωθεί μέσα.</CommandLoadTransporterDesc>
+  <!-- EN: The transport pod is not connected to a fueling port. -->
   <CommandLoadTransporterFailNotConnectedToFuelingPort>Η άτρακτος μεταφοράς δεν είναι συνδεδεμένη με έναν λυμένα τροφοδοσίας.</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <!-- EN: The pod launcher has no fuel. -->
   <CommandLoadTransporterFailNoFuel>Ο εκτοξευτής ατράκτου δεν έχει καύσιμο.</CommandLoadTransporterFailNoFuel>
-
-  <!-- Επιλογή προηγούμενου μεταφορικού (Select previous transporter) -->
+  
+  <!-- Select previous transporter -->
+  <!-- EN: Select previous in launch group -->
   <CommandSelectPreviousTransporter>Επιλογή προηγουμένου στην ομάδα εκτόξευσης</CommandSelectPreviousTransporter>
+  <!-- EN: Select previous transport pod in this launch group. -->
   <CommandSelectPreviousTransporterDesc>Επιλέγει τη προηγούμενη άτρακτο μεταφοράς σε αυτή την ομάδα εκτόξευσης.</CommandSelectPreviousTransporterDesc>
-
-  <!-- Επιλογή όλων των μεταφορικών (Select all transporters) -->
+  
+  <!-- Select all transporters -->
+  <!-- EN: Select launch group -->
   <CommandSelectAllTransporters>Επιλογή ομάδας εκτόξευσης</CommandSelectAllTransporters>
+  <!-- EN: Select all transport pods in this launch group. -->
   <CommandSelectAllTransportersDesc>Επιλέγει όλες τις ατράκτους μεταφοράς σε αυτή την ομάδα εκτόξευσης.</CommandSelectAllTransportersDesc>
-
-  <!-- Επιλογή επόμενου μεταφορικού (Select next transporter) -->
+  
+  <!-- Select next transporter -->
+  <!-- EN: Select next in launch group -->
   <CommandSelectNextTransporter>Επιλογή επόμενου στην ομάδα εκτόξευσης</CommandSelectNextTransporter>
+  <!-- EN: Select next transport pod in this launch group. -->
   <CommandSelectNextTransporterDesc>Επιλέγει τη επόμενη άτρακτο μεταφοράς σε αυτή την ομάδα εκτόξευσης.</CommandSelectNextTransporterDesc>
-
-  <!-- Αεραγωγός (Vent) -->
+  
+  <!-- Vent -->
+  <!-- EN: Designate open/close -->
   <CommandDesignateOpenCloseVentLabel>Ορίστε το άνοιγμα/κλείσιμο</CommandDesignateOpenCloseVentLabel>
+  <!-- EN: Designate this vent to be opened or closed. A colonist will come soon to perform the task. -->
   <CommandDesignateOpenCloseVentDesc>Ορίστε αυτός ο αεραγωγός να είναι ανοικτός ή κλειστός. Ένας άποικος θα έρθει σύντομα να εκτελέσει αυτή την εντολή.</CommandDesignateOpenCloseVentDesc>
-
-  <!-- Αφαίρεση σημείου (Remove waypoint) -->
+  
+  <!-- Remove waypoint -->
+  <!-- EN: Remove -->
   <CommandRemoveWaypointLabel>Αφαίρεση</CommandRemoveWaypointLabel>
+  <!-- EN: Remove this waypoint. -->
   <CommandRemoveWaypointDesc>Αφαιρεί αυτό το σημείο.</CommandRemoveWaypointDesc>
+
+  <!-- Pause caravan -->
+  <!-- EN: Rest -->
+  <CommandPauseCaravan>Ξεκούραση</CommandPauseCaravan>
+  <!-- EN: Start resting. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1} -->
+  <CommandToggleCaravanPauseDesc>Ξεκινήστε να ξεκουράζεστε. Αυτό έχει τα ακόλουθα οφέλη:\n\n - Οι άνθρωποι μπορούν να αλληλεπιδρούν κοινωνικά\n - Συγκομιδή τροφής γίνετε {0} φορές γρηγορότερα\n - Η ορατότητα πολλαπλασιάζεται επί {1}</CommandToggleCaravanPauseDesc>
+  
+  <!-- Show sellable items -->
+  <!-- EN: Show what will buy -->
+  <CommandShowSellableItems>Δες τι μπορείτε να αγοράσετε</CommandShowSellableItems>
+  <!-- EN: Show everything this trader wants to buy. -->
+  <CommandShowSellableItemsDesc>Εμφανίζει όλα όσα αυτός ο έμπορος θέλει να αγοράσει.</CommandShowSellableItemsDesc>
+
+  <!-- Attack settlement -->
+  <!-- EN: Attack -->
+  <CommandAttackSettlement>Επίθεση</CommandAttackSettlement>
+  <!-- EN: Attack this settlement. -->
+  <CommandAttackSettlementDesc>Επίθεση σε αυτήν την κοινότητα.</CommandAttackSettlementDesc>
 
 </LanguageData>

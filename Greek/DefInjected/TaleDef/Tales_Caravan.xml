@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: caravan ambush defeated -->
+  <CaravanAmbushDefeated.label>απώθηση ενέδρας καραβανιού</CaravanAmbushDefeated.label>
+  <!-- EN:
+    <li>tale_noun->a successful defense of [PAWN_nameDef]'s caravan</li>
+    <li>tale_noun->[PAWN_nameDef]'s caravan fighting off an ambush</li>
+    <li>image->[PAWN_nameFull] organizing resistance while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] wielding a [Weapon] defensively while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] retaliating with [PAWN_possessive] [Weapon] while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] standing as tall as a building while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] wearing a [AdjectiveBadass] expression while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] wearing a [AdjectiveAngsty] expression while [circumstance_group]</li>
+    <li>circumstance_phrase->bracing against the advancing horde</li>
+    <li>circumstance_phrase->circling the wagons</li>
+    <li>circumstance_phrase->roaring in victory</li>
+    <li>circumstance_phrase->brandishing [Weapon]s</li>
+    <li>circumstance_phrase->covered in [Gore]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s advance, brandishing [Weapon]s.</li>
+    <li>desc_sentence->A huge [Enemy] advances, brandishing a [Weapon].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s advance with a [AdjectiveBadass] look in their eyes.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s advance with a [AdjectiveAngsty] look in their eyes.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s advance with glowing [Color] eyes.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s advance, covered in [Gore].</li>
+    <li>desc_sentence->The ground is coated in [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+  -->
+  <CaravanAmbushDefeated.rulePack.rulesStrings><li>tale_noun->μια επιτυχημένη υπεράσπιση του καραβανιού [PAWN_possessive] [PAWN_nameDef]</li>
+    <li>tale_noun->Το καραβάνι [PAWN_possessive] [PAWN_nameDef] απώθησε μια ενέδρα</li>
+    <li>image->[PAWN_nameFull] οργανώνει την αντίσταση ενώ [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] κραδαίνει ένα [Weapon] για να αμυνθεί ενώ [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] αντεπιτίθεται με το [Weapon] [PAWN_possessive] ενώ [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] στέκεται δυνατά όσο ένα κτίριο ενώ [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] έχοντας μία [AdjectiveBadass] έκφραση καθώς [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] φορώντας ένα [AdjectiveAngsty] ύφος ενώ [circumstance_group]</li>
+    <li>circumstance_phrase->υποστηρίζει την αντίσταση στην ορδή που εφορμεί</li>
+    <li>circumstance_phrase->κάνοντας κύκλο τα κάρα</li>
+    <li>circumstance_phrase->φωνάζοντας για νίκη</li>
+    <li>circumstance_phrase->κραδαίνοντας [Weapon]</li>
+    <li>circumstance_phrase->γεμάτη [Gore]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] προχωρούν, κρατώντας [Weapon].</li>
+    <li>desc_sentence->Ένα τεράστιος [Enemy] εφορμεί, βαστάζοντας ένα [Weapon].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] προελαύνουν με μία [AdjectiveBadass] όψη στα μάτια τους.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] προωθούνται με ένα [AdjectiveAngsty] ύφος στα πρόσωπά τους.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] προχωρούσαν με [Color] γυαλιστερά μάτια.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] εφορμούν, καλυμμένοι με [Gore].</li>
+    <li>desc_sentence->Το έδαφος είναι σκεπασμένο με [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] πιλαλάνε από την περιοχή.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] εγκαταλείπουν το σημείο.</li></CaravanAmbushDefeated.rulePack.rulesStrings>
+  
+  <!-- EN: caravan assault successful -->
+  <CaravanAssaultSuccessful.label>επιτυχημένη επιδρομή καραβανιού</CaravanAssaultSuccessful.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan defeating an enemy stronghold</li>
+    <li>image->[PAWN_nameFull] running towards a [Enemy], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] wielding a [Weapon], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] swinging a [Weapon], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] standing as tall as a building, [circumstance_group]</li>
+    <li>circumstance_phrase->wearing a [AdjectiveBadass] look in [PAWN_possessive] eyes</li>
+    <li>circumstance_phrase->wearing a [AdjectiveAngsty] look in [PAWN_possessive] eyes</li>
+    <li>circumstance_phrase->roaring in victory</li>
+    <li>circumstance_phrase->covered in [Gore]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s cower from the assault.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are visibly wounded.</li>
+    <li>desc_sentence->A [Community] burns in the distance.</li>
+    <li>desc_sentence->A [Community] smokes in the distance.</li>
+    <li>desc_sentence->The ground is coated in [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+  -->
+  <CaravanAssaultSuccessful.rulePack.rulesStrings><li>tale_noun->το καραβάνι [PAWN_possessive] [PAWN_nameDef] εξουδετέρωσε ένα εχθρικό προπύργιο</li>
+    <li>image->[PAWN_nameFull] τρέχει κατά πάνω σε έναν [Enemy], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] κραδαίνει ένα [Weapon], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] στριφογυρίζει ένα [Weapon], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] στέκεται δυνατή σαν κτίριο, [circumstance_group]</li>
+    <li>circumstance_phrase->έχοντας μία[AdjectiveBadass] όψη στα μάτια [PAWN_possessive]</li>
+    <li>circumstance_phrase->με σχηματισμένη μία [AdjectiveAngsty] έκφραση στα μάτια [PAWN_possessive]</li>
+    <li>circumstance_phrase->κάνοντας νικηφόρες ιαχές</li>
+    <li>circumstance_phrase->καλυμμένη από [Gore]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] τρέμουν από την επίθεση.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] το σκάνε από την περιοχή.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] είναι εμφανώς πληγωμένοι.</li>
+    <li>desc_sentence->Μία [Community] καίγεται στο βάθος.</li>
+    <li>desc_sentence->Μια [Community] καπνίζει από μακριά.</li>
+    <li>desc_sentence->Το έδαφος καλύπτεται από [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] την κοπανάνε από το σημείο.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] τρέπονται σε φυγή.</li></CaravanAssaultSuccessful.rulePack.rulesStrings>
+  
+  <!-- EN: caravan fled -->
+  <CaravanFled.label>το καραβάνι δραπετεύει</CaravanFled.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan fleeing danger</li>
+    <li>tale_noun->[PAWN_nameDef]'s caravan escaping danger</li>
+    <li>tale_noun->[PAWN_nameDef]'s caravan narrowly escaping danger</li>
+    <li>tale_noun->[PAWN_nameDef]'s caravan being chased away by enemies</li>
+    <li>image->[PAWN_nameFull] running frantically [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sprinting [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] tucked behind a [TerrainFeature], hiding [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] putting up a fighting retreat [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] casually strolling away [circumstance_group]</li>
+    <li>circumstance_phrase->as [Quantity_adjphrase] [Enemy]s chase</li>
+    <li>circumstance_phrase->while [Quantity_adjphrase] [Enemy]s search</li>
+    <li>circumstance_phrase->from [Quantity_adjphrase] [Enemy]s</li>
+    <li>circumstance_phrase->from [Quantity_adjphrase] enemy [Animal]s</li>
+    <li>circumstance_phrase->from a [huge] [Enemy]</li>
+    <li>desc_sentence->[PAWN_nameDef]'s pursuers are brandishing [Weapon]s.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s pursuers are wreathed in [Color] smoke.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s pursuers wear [AdjectiveAngsty] expressions.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s pursuers are brandishing [Weapon]s.</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweating.</li>
+    <li>desc_sentence->[PAWN_nameDef] is gasping for breath.</li>
+  -->
+  <CaravanFled.rulePack.rulesStrings><li>tale_noun->το καραβάνι [PAWN_possessive] [PAWN_nameDef] το σκάει από τον κίνδυνο</li>
+    <li>tale_noun->το καραβάνι [PAWN_possessive] [PAWN_nameDef] ξεφεύγει από τον κίνδυνο</li>
+    <li>tale_noun->το καραβάνι [PAWN_possessive] [PAWN_nameDef] τσίμα, τσίμα που γλυτώνει την απειλή</li>
+    <li>tale_noun->το καραβάνι [PAWN_possessive] [PAWN_nameDef] καταδιώκεται από τους εχθρούς</li>
+    <li>image->[PAWN_nameFull] τρέχει μανιωδώς [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] τρέχει βιαστικά [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] συγκεντρώνεται πίσω από ένα [TerrainFeature], για να κρυφτεί [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ξεκινάει μια σθεναρή υποχώρηση [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] φεύγει όπου νάνε [circumstance_group]</li>
+    <li>circumstance_phrase->καθώς [Quantity_adjphrase] [Enemy] [PAWN_objective] καταδιώκουν</li>
+    <li>circumstance_phrase->ενώ [Quantity_adjphrase] [Enemy] [PAWN_objective] ψάχνουν</li>
+    <li>circumstance_phrase->από [Quantity_adjphrase] [Enemy]</li>
+    <li>circumstance_phrase->από  [Quantity_adjphrase] εχθρικά [Animal]</li>
+    <li>circumstance_phrase->από έναν [huge] [Enemy]</li>
+    <li>desc_sentence->Οι διώκτες [PAWN_possessive] [PAWN_nameDef] κραδαίνουν [Weapon].</li>
+    <li>desc_sentence->Οι διώκτες [PAWN_possessive] [PAWN_nameDef] περιβάλλονται από έναν [Color] καπνό.</li>
+    <li>desc_sentence->Οι διώκτες [PAWN_possessive] [PAWN_nameDef] έχουν [AdjectiveAngsty] εκφράσεις.</li>
+    <li>desc_sentence->Οι διώκτες [PAWN_possessive] [PAWN_nameDef] κρατάνε [Weapon]s.</li>
+    <li>desc_sentence->[PAWN_nameDef] είναι ιδρωμένη.</li>
+    <li>desc_sentence->[PAWN_nameDef] ασθμαίνει για πνοή.</li></CaravanFled.rulePack.rulesStrings>
+  
+  <!-- EN: caravan formed -->
+  <CaravanFormed.label>σχηματισμός καραβανιού</CaravanFormed.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] departing for adventure</li>
+    <li>tale_noun->[PAWN_nameDef] forming a caravan</li>
+    <li>image->[PAWN_nameFull] striding forward purposefully [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] looking towards the horizon [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] packing supplies for a journey [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] planning a journey [circumstance_group]</li>
+    <li>circumstance_phrase->and equipped for a fight</li>
+    <li>circumstance_phrase->and equipped for survival</li>
+    <li>circumstance_phrase->and equipped for exploration</li>
+    <li>circumstance_phrase->with an eager look in [PAWN_possessive] eyes</li>
+    <li>circumstance_phrase->with a [AdjectiveAny] look in [PAWN_possessive] eyes</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]s watch the preparations.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]s help with the preparations.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s shrink away from the scene.</li>
+    <li>desc_sentence->A [TerrainFeature] is visible in the distance.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s watch from a distance.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander peacefully.</li>
+  -->
+  <CaravanFormed.rulePack.rulesStrings><li>tale_noun->[PAWN_nameDef] αναχωρεί για περιπέτειες</li>
+    <li>tale_noun->[PAWN_nameDef] σχηματίζει ένα καραβάνι</li>
+    <li>image->[PAWN_nameFull] βηματίζει προς τα μπροστά συνειδητά [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ατενίζει τον ορίζοντα [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] συγκεντρώνει προμήθειες για το ταξίδι [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] σχεδιάζει τη διαδρομή [circumstance_group]</li>
+    <li>circumstance_phrase->και εξοπλίζεται για τη μάχη</li>
+    <li>circumstance_phrase->και εξοπλίζεται για επιβίωση</li>
+    <li>circumstance_phrase->και εξοπλίζεται για εξερεύνηση</li>
+    <li>circumstance_phrase->με ένα ανυπόμονο βλέμμα στα μάτια [PAWN_possessive]</li>
+    <li>circumstance_phrase->με μια [AdjectiveAny] όψη στα μάτια [PAWN_possessive]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally] κοιτάζουν τις προετοιμασίες.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally] βοηθούν στην προετοιμασία.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] μαζεύονται μακριά από το σημείο.</li>
+    <li>desc_sentence->Ένα [TerrainFeature] είναι ορατό από απόσταση.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] επιτηρούν από μακριά.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] περιφέρονται ειρηνικά.</li></CaravanFormed.rulePack.rulesStrings>
+  
+  <!-- EN: caravan remote mining -->
+  <CaravanRemoteMining.label>απομακρυσμένη εξόρυξη καραβανιού</CaravanRemoteMining.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan mining a rich vein of [MATERIAL_label] in a foreign land</li>
+    <li>image->[PAWN_nameFull] working a [MATERIAL_label] wall with mining tools, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] holding up a chunk of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] resting against a wall of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] coordinating an excavation team against a rich vein of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] carefully inspecting a rich vein of [MATERIAL_label], [circumstance_group]</li>
+    <li>circumstance_phrase->sweating heavily</li>
+    <li>circumstance_phrase->wearing a [AdjectiveFriendly] expression</li>
+    <li>circumstance_phrase->smiling proudly</li>
+    <li>circumstance_phrase->a satisfied expression on [PAWN_possessive] face</li>
+    <li>circumstance_phrase->looking around warily for danger</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]s assist.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander the area.</li>
+    <li>desc_sentence->There is a makeshift shelter in the background.</li>
+    <li>desc_sentence->[Quantity_adjphrase] further veins are visible in the distance.</li>
+    <li>desc_sentence->A [TerrainFeature] is visible in the distance.</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
+  -->
+  <CaravanRemoteMining.rulePack.rulesStrings><li>tale_noun->Το καραβάνι [PAWN_possessive] [PAWN_nameDef] εξορύσσει μια πλούσια φλέβα από [MATERIAL_label] σε μια ξένη γη</li>
+    <li>image->[PAWN_nameFull] εργάζεται σε ένα [MATERIAL_label] τοίχωμα με εργαλεία εξόρυξης, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] κρατάει ένα κομμάτι [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ξεκουράζεται απέναντι από έναν τοίχωμα από [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] συντονίζει μια ομάδα εκσκαφής για μια πλούσια φλέβα από [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] εξετάζει προσεχτικά ένα πλούσια κοίτασμα από [MATERIAL_label], [circumstance_group]</li>
+    <li>circumstance_phrase->βαριά ιδρωμένη </li>
+    <li>circumstance_phrase->φορώντας μια [AdjectiveFriendly] έκφραση</li>
+    <li>circumstance_phrase->χαμογελώντας με υπερηφάνεια</li>
+    <li>circumstance_phrase->με μια έκφραση ικανοποίησης στο πρόσωπό [PAWN_possessive]</li>
+    <li>circumstance_phrase->κοιτάζοντας τριγύρω προσεχτικά για κάποιον κίνδυνο</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally] βοηθάνε.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] τριγυρνάνε στην περιοχή.</li>
+    <li>desc_sentence->Υπάρχει ένα πρόχειρο καταφύγιο στο παρασκήνιο.</li>
+    <li>desc_sentence->[Quantity_adjphrase] περαιτέρω φλέβες είναι ορατές σε απόσταση.</li>
+    <li>desc_sentence->Ένα [TerrainFeature] φαίνεται από μακρυά.</li>
+    <li>desc_sentence->[PAWN_nameDef] είναι ιδρωμένη και βρόμικη από τη δουλειά.</li></CaravanRemoteMining.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,20 +1,57 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Outlander.label>ξένες κοινότητες</Outlander.label>
-  <Outlander.description>Αυτοί οι άνθρωποι έχουν ζήσει εδώ για δεκαετίες ή αιώνες και έχουν χάσει το μεγαλύτερο μέρος της τεχνολογίας που τους έφερε σε αυτόν τον κόσμο. Συνήθως εργάζονται με απλά μηχανικά εργαλεία και υπερασπίζονται τον εαυτό τους με προηγμένα όπλα πυρίτιδας.\n\nΤους απασχολούν τα πρακτικά θέματα του εμπορίου, της εμπιστοσύνης και της επιβίωσης.</Outlander.description>
-  <Outlander.pawnsPlural>ξένοι</Outlander.pawnsPlural>
-  <Outlander.leaderTitle>κύριος σύμβουλος</Outlander.leaderTitle>
-
-  <Tribe.label>φυλές</Tribe.label>
-  <Tribe.description>Αυτοί οι άνθρωποι βρίσκονται εδώ από πολύ παλιά. Ίσως οι πρόγονοί τους να είχαν πέσει σε αυτόν τον πλανήτη εδώ και χιλιάδες χρόνια. Ίσως είναι επιζώντες κάποιου κατακλυσμού που εξαφάνισε τον τεχνολογικό πολιτισμό της περιοχής. Σε κάθε περίπτωση οι φυλές είναι κυρίως νομαδικές που ζουν από την γη χρησιμοποιώντας απαρχαιωμένα εργαλεία και όπλα.\n\nΚάποιες φυλές είναι πιο επιθετικές από κάποιες άλλες. Πολλές είναι ανοιχτές σε ανταλλαγές ακόμη και με παράξενους τύπους όπως εσείς. Η στενή συνεργασία η ακόμη και η στρατολόγησή τους θα είναι πολύ δύσκολη εξαιτίας του πολιτιστικοτεχνολογικού σας χάσματος και των γλωσσικών σας διαφορών.\n\nΠαρά τις εμφανές τεχνολογικές τους αδυναμίες, οι φυλές μπορεί να είναι επικίνδυνοι εχθροί αλλά και πολύτιμοι φίλοι εξαιτίας των πολεμικών τους επιδεξιοτήτων, της σκληρότητάς τους και της αριθμητικής τους υπεροχής.</Tribe.description>
-  <Tribe.pawnsPlural>φυλές</Tribe.pawnsPlural>
-  <Tribe.leaderTitle>αρχηγός</Tribe.leaderTitle>
-
+  
+  <!-- EN: civil outlander union -->
+  <OutlanderCivil.label>ευγενική ξένη κοινότητα</OutlanderCivil.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
+  <OutlanderCivil.description>Αυτοί οι άνθρωποι έχουν ζήσει εδώ για δεκαετίες ή αιώνες και έχουν χάσει το μεγαλύτερο μέρος της τεχνολογίας που τους έφερε σε αυτόν τον κόσμο. Συνήθως εργάζονται με απλά μηχανικά εργαλεία και υπερασπίζονται τον εαυτό τους με προηγμένα όπλα πυρίτιδας.\n\nΤους απασχολούν τα πρακτικά θέματα του εμπορίου, της εμπιστοσύνης και της επιβίωσης.\n\nΑυτή η συγκεκριμένη ομάδα έχει ευγενική συμπεριφορά με μεγάλη εκτίμηση.</OutlanderCivil.description>
+  <!-- EN: prime councilor -->
+  <OutlanderCivil.leaderTitle>κύριος σύμβουλος</OutlanderCivil.leaderTitle>
+  <!-- EN: outlander -->
+  <OutlanderCivil.pawnSingular>ξένος</OutlanderCivil.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderCivil.pawnsPlural>ξένοι</OutlanderCivil.pawnsPlural>
+  
+  <!-- EN: rough outlander union -->
+  <OutlanderRough.label>βίαιη ξένη κοινότητα</OutlanderRough.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group has a streak of barbarity in them. -->
+  <OutlanderRough.description>Αυτοί οι άνθρωποι έχουν ζήσει εδώ για δεκαετίες ή αιώνες και έχουν χάσει το μεγαλύτερο μέρος της τεχνολογίας που τους έφερε σε αυτόν τον πλανήτη. Συνήθως εργάζονται με απλά μηχανήματα και υπερασπίζονται τον εαυτό τους με προηγμένα όπλα πυρίτιδας.\n\nΕνδιαφέρονται για τα πρακτικά θέματα του εμπορίου, της εμπιστοσύνης και της επιβίωσης.\n\nΑυτή η συγκεκριμένη ομάδα έχει το χαρακτηριστικό της βαρβαρότητας.</OutlanderRough.description>
+  <!-- EN: prime councilor -->
+  <OutlanderRough.leaderTitle>κύριος σύμβουλος</OutlanderRough.leaderTitle>
+  <!-- EN: outlander -->
+  <OutlanderRough.pawnSingular>ξένος</OutlanderRough.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderRough.pawnsPlural>ξένοι</OutlanderRough.pawnsPlural>
+  
+  <!-- EN: pirate band -->
   <Pirate.label>παρέα πειρατών</Pirate.label>
-  <Pirate.description>Συμμορία εγκληματιών.\n\nΟι πειρατές δεν σπέρνουν, δεν κτίζουν και σπάνια ανταλλάζουν. Πλουτίζουν κυρίως από επιδρομές και ληστείες στις πιο παραγωγικές ομάδες στην περιοχή.\n\nΤο τεχνολογικό τους επίπεδο εξαρτάται κυρίως από αυτών που έκλεψαν επιτυχώς πρόσφατα. Οι περισσότεροι κατέχουν όπλα μπαρουτιού, όμως μπορεί κάποιοι να έχουν εξελιγμένα ενεργειακά όπλα ή απλά να πολεμούν τους εχθρούς τους από κοντά.</Pirate.description>
-  <Pirate.pawnsPlural>πειρατές</Pirate.pawnsPlural>
+  <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
+  <Pirate.description>Μια εύθραυστη συνομοσπονδία πειρατικών συμμοριών που συμφώνησαν να καταπολεμούν κυρίως τους ξένους, αντί να σφάζονται μεταξύ τους.\n\nΟι πειρατές δεν καλλιεργούν, δεν χτίζουν και σπάνια εμπορεύονται. Οδηγούμενοι από μια κουλτούρα αίματος και τιμής που εκτιμά την προσωπική δύναμη και την σκληρότητα, πλουτίζουν με επιδρομές και ληστείες στους πιο παραγωγικούς γείτονές τους.\n\nΤο επίπεδο τεχνολογίας τους εξαρτάται κυρίως από αυτό το οποίο κατάφεραν να κλέψουν πιο πρόσφατα. Κυρίως φέρουν πυροβόλα όπλα, αν και μερικοί προτιμούν να μαχαιρώνουν τα θύματά τους από κοντινή απόσταση.</Pirate.description>
+  <!-- EN: boss -->
   <Pirate.leaderTitle>αφεντικό</Pirate.leaderTitle>
-
-
+  <!-- EN: pirate -->
+  <Pirate.pawnSingular>πειρατής</Pirate.pawnSingular>
+  <!-- EN: pirates -->
+  <Pirate.pawnsPlural>πειρατές</Pirate.pawnsPlural>
+  
+  <!-- EN: gentle tribe -->
+  <TribeCivil.label>ήσυχη φυλή</TribeCivil.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe pursues a gentle way of life where they can. They are quite open to trade and alliances, even with strange peoples. -->
+  <TribeCivil.description>Αυτοί οι άνθρωποι βρίσκονται εδώ από πολύ παλιά. Ίσως οι πρόγονοί τους να είχαν πέσει σε αυτόν τον πλανήτη εδώ και χιλιάδες χρόνια. Ίσως είναι επιζώντες κάποιου κατακλυσμού που εξαφάνισε τον τεχνολογικό πολιτισμό της περιοχής. Σε κάθε περίπτωση οι φυλές είναι κυρίως νομαδικές που ζουν από την γη χρησιμοποιώντας απαρχαιωμένα εργαλεία και όπλα.\n\nΠαρά τις εμφανές τεχνολογικές τους αδυναμίες, οι φυλές μπορεί να είναι επικίνδυνοι εχθροί αλλά και πολύτιμοι φίλοι εξαιτίας των πολεμικών τους επιδεξιοτήτων, της σκληρότητάς τους και της αριθμητικής τους υπεροχής. \n\nΑυτή η συγκεκριμένη φυλή προτιμά έναν ήπιο τρόπο ζωής όπου είναι εφικτό. Είναι αρκετά ανοιχτοί στο εμπόριο και στις συμμαχίες, ακόμη και με τους παράξενους λαούς.</TribeCivil.description>
+  <!-- EN: chief -->
+  <TribeCivil.leaderTitle>φύλαρχος</TribeCivil.leaderTitle>
+  <!-- EN: tribesman -->
+  <TribeCivil.pawnSingular>ιθαγενής</TribeCivil.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeCivil.pawnsPlural>ιθαγενείς</TribeCivil.pawnsPlural>
+  
+  <!-- EN: savage tribe -->
+  <TribeRough.label>άγρια φυλή</TribeRough.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
+  <TribeRough.description>Αυτοί οι άνθρωποι βρίσκονται εδώ και πολύ καιρό. Ίσως οι πρόγονοί τους συνετρίβησαν εδώ και χίλια χρόνια. Ίσως επέζησαν εδώ από κάποιο κατακλυσμό που κατέστρεψε έναν τεχνολογικό πολιτισμό. Σε κάθε περίπτωση, οι φυλές είναι κυρίως νομαδικοί άνθρωποι που ζουν από τη γη χρησιμοποιώντας πρωτόγονα εργαλεία και όπλα.\n\nΠαρά την προφανή τεχνολογική τους αδυναμία, οι φυλές μπορεί να είναι επικίνδυνοι εχθροί και πολύτιμοι φίλοι λόγω της ικανότητάς τους στον πόλεμο χαμηλής τεχνολογίας, στον αριθμό τους και στην ανθεκτικότητά τους.\n\nΑυτή η συγκεκριμένη φυλή προτιμά την πολεμική επέκταση και μπορεί να είναι δύσκολο να μετατραπούν σε σύμμαχο.</TribeRough.description>
+  <!-- EN: tribesman -->
+  <TribeRough.pawnSingular>ιθαγενής</TribeRough.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeRough.pawnsPlural>ιθαγενείς</TribeRough.pawnsPlural>
+  
 </LanguageData>

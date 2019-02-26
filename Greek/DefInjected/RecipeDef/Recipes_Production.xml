@@ -1,37 +1,67 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MakeStoneBlocksAny.label>φτιάξε πέτρινα τούβλα</MakeStoneBlocksAny.label>
-  <MakeStoneBlocksAny.description>Μετατρέπει τα πέτρινα κομμάτια σε χρήσιμα πέτρινα τούβλα.</MakeStoneBlocksAny.description>
-  <MakeStoneBlocksAny.jobString>Κόβει πέτρινα τούβλα από κομμάτι.</MakeStoneBlocksAny.jobString>
-
-  <ExtractMetalFromSlag.label>απέσπασε το μέταλλο από την σκουριά</ExtractMetalFromSlag.label>
-  <ExtractMetalFromSlag.description>Χρησιμοποίησε υψηλές θερμοκρασίες και ισχυρούς ηλεκτρομαγνήτες για να διαχωρίσεις το μέταλλο από τα σκουριασμένα ερείπια.</ExtractMetalFromSlag.description>
-  <ExtractMetalFromSlag.jobString>Αποσπά μέταλλου από σκουριά.</ExtractMetalFromSlag.jobString>
-
-  <SmeltWeapon.label>λιώσε όπλο</SmeltWeapon.label>
-  <SmeltWeapon.description>Χρησιμοποιήστε τη θερμότητα και τους ισχυρούς ηλεκτρομαγνήτες για να μετατρέψετε τα όπλα σε χρήσιμους πόρους.</SmeltWeapon.description>
-  <SmeltWeapon.jobString>Λιώσιμο όπλου.</SmeltWeapon.jobString>
-
+  
+  <!-- EN: destroy weapon -->
   <DestroyWeapon.label>διέλυσε όπλο</DestroyWeapon.label>
-  <DestroyWeapon.description>Χρησιμοποιήστε θερμότητα για να καταστρέψετε ανεπιθύμητα όπλα. Ταχύτερο από την τήξη, και λειτουργεί σε μη τηκόμενα αντικείμενα, αλλά δεν αποφέρει πόρους.</DestroyWeapon.description>
+  <!-- EN: Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
+  <DestroyWeapon.description>Χρησιμοποιήστε θερμότητα για να καταστρέψετε ανεπιθύμητα όπλα. Αυτή η διαδικασία είναι ταχύτερη από την τήξη, και λειτουργεί σε μη τηκόμενα αντικείμενα, αλλά δεν αποφέρει πόρους.</DestroyWeapon.description>
+  <!-- EN: Destroying weapon. -->
   <DestroyWeapon.jobString>Καταστροφή όπλου.</DestroyWeapon.jobString>
-
-  <MakeChemfuelFromWood.label>φτιάξε χημικό καύσιμο από ξύλο</MakeChemfuelFromWood.label>
-  <MakeChemfuelFromWood.description>Κάνετε μια παρτίδα χημικών καυσίμων με αεριοποίηση ξύλινων κορμών.</MakeChemfuelFromWood.description>
-  <MakeChemfuelFromWood.jobString>Διύλιση χημικού καυσίμου από ξύλο.</MakeChemfuelFromWood.jobString>
-
-  <MakeChemfuelFromOrganics.label>φτιάξε χημικό καύσιμο από οργανικά υλικά</MakeChemfuelFromOrganics.label>
-  <MakeChemfuelFromOrganics.description>Κάνετε μια παρτίδα χημικών καυσίμων με την εξαγωγή βιοκαυσίμων από οργανικές πρώτες ύλες.</MakeChemfuelFromOrganics.description>
-  <MakeChemfuelFromOrganics.jobString>Διύλιση χημικού καύσιμου από οργανικά υλικά.</MakeChemfuelFromOrganics.jobString>
-
-  <MakeComponent.label>φτιάξε εξάρτημα</MakeComponent.label>
-  <MakeComponent.description>Κατασκεύασε ένα εξάρτημα.</MakeComponent.description>
-  <MakeComponent.jobString>Κατασκευή εξαρτήματος.</MakeComponent.jobString>
-
-  <MakeAdvancedComponent.label>φτιάξε προηγμένο εξάρτημα</MakeAdvancedComponent.label>
-  <MakeAdvancedComponent.description>Κατασκεύασε ένα προηγμένο εξάρτημα.</MakeAdvancedComponent.description>
-  <MakeAdvancedComponent.jobString>Κατασκευή προηγμένου εξαρτήματος.</MakeAdvancedComponent.jobString>
-
-
+  
+  <!-- EN: smelt metal from slag -->
+  <ExtractMetalFromSlag.label>απέσπασε το μέταλλο από την σκουριά</ExtractMetalFromSlag.label>
+  <!-- EN: Use heat and strong electromagnets to extract useful metal from slag chunks. -->
+  <ExtractMetalFromSlag.description>Χρησιμοποίησε υψηλές θερμοκρασίες και ισχυρούς ηλεκτρομαγνήτες για να διαχωρίσεις το μέταλλο από τα σκουριασμένα ερείπια.</ExtractMetalFromSlag.description>
+  <!-- EN: Smelting metal from slag. -->
+  <ExtractMetalFromSlag.jobString>Αποσπά μέταλλου από σκουριά.</ExtractMetalFromSlag.jobString>
+  
+  <!-- EN: make chemfuel from organics -->
+  <Make_ChemfuelFromOrganics.label>φτιάξε χημικό καύσιμο από οργανικά υλικά</Make_ChemfuelFromOrganics.label>
+  <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
+  <Make_ChemfuelFromOrganics.description>Κάνετε μια παρτίδα χημικών καυσίμων με την εξαγωγή βιοκαυσίμων από οργανικές πρώτες ύλες.</Make_ChemfuelFromOrganics.description>
+  <!-- EN: Refining chemfuel from organics. -->
+  <Make_ChemfuelFromOrganics.jobString>Διύλιση χημικού καύσιμου από οργανικά υλικά.</Make_ChemfuelFromOrganics.jobString>
+  
+  <!-- EN: make chemfuel from wood -->
+  <Make_ChemfuelFromWood.label>φτιάξε χημικό καύσιμο από ξύλο</Make_ChemfuelFromWood.label>
+  <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
+  <Make_ChemfuelFromWood.description>Κάνετε μια παρτίδα χημικών καυσίμων με την εξαγωγή και συμπίεση του αερίου των ξύλινων κορμών.</Make_ChemfuelFromWood.description>
+  <!-- EN: Refining chemfuel from wood. -->
+  <Make_ChemfuelFromWood.jobString>Διύλιση χημικού καυσίμου από ξύλο.</Make_ChemfuelFromWood.jobString>
+  
+  <!-- EN: make component -->
+  <Make_ComponentIndustrial.label>φτιάξε εξάρτημα</Make_ComponentIndustrial.label>
+  <!-- EN: Make a component. -->
+  <Make_ComponentIndustrial.description>Κατασκεύασε ένα εξάρτημα.</Make_ComponentIndustrial.description>
+  <!-- EN: Making component. -->
+  <Make_ComponentIndustrial.jobString>Κατασκευή εξαρτήματος.</Make_ComponentIndustrial.jobString>
+  
+  <!-- EN: make advanced component -->
+  <Make_ComponentSpacer.label>φτιάξε προηγμένο εξάρτημα</Make_ComponentSpacer.label>
+  <!-- EN: Make an advanced component. -->
+  <Make_ComponentSpacer.description>Κατασκεύασε ένα προηγμένο εξάρτημα.</Make_ComponentSpacer.description>
+  <!-- EN: Making advanced component. -->
+  <Make_ComponentSpacer.jobString>Κατασκευή προηγμένου εξαρτήματος.</Make_ComponentSpacer.jobString>
+  
+  <!-- EN: make patchleather -->
+  <Make_Patchleather.label>ράψε μπαλωμένο δέρμα</Make_Patchleather.label>
+  <!-- EN: Combine various types of leather to create weak patchleather. -->
+  <Make_Patchleather.description>Συνδυάστε διάφορα είδη δέρματος για να δημιουργήσετε ένα αδύναμο μπαλωμένο δέρμα.</Make_Patchleather.description>
+  <!-- EN: Making patchleather. -->
+  <Make_Patchleather.jobString>Ραφή μπαλωμένου δέρματος.</Make_Patchleather.jobString>
+  
+  <!-- EN: make any stone blocks -->
+  <Make_StoneBlocksAny.label>φτιάξε πέτρινα τούβλα</Make_StoneBlocksAny.label>
+  <!-- EN: Cut rock chunks into usable stone blocks. -->
+  <Make_StoneBlocksAny.description>Μετατρέπει τα πέτρινα κομμάτια σε χρήσιμα πέτρινα τούβλα.</Make_StoneBlocksAny.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksAny.jobString>Κόβει πέτρινα τούβλα από κομμάτι.</Make_StoneBlocksAny.jobString>
+  
+  <!-- EN: smelt weapon -->
+  <SmeltWeapon.label>λιώσε όπλο</SmeltWeapon.label>
+  <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
+  <SmeltWeapon.description>Χρησιμοποιήστε τη θερμότητα και τους ισχυρούς ηλεκτρομαγνήτες για να μετατρέψετε τα όπλα σε χρήσιμους πόρους.</SmeltWeapon.description>
+  <!-- EN: Smelting weapon. -->
+  <SmeltWeapon.jobString>Λιώσιμο όπλου.</SmeltWeapon.jobString>
+  
 </LanguageData>

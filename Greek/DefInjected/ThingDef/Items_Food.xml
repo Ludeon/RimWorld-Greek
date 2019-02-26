@@ -1,26 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MealSurvivalPack.label>πακεταρισμένο φαγητό επιβίωσης</MealSurvivalPack.label>
-  <MealSurvivalPack.description>Ένα φαγητό υψηλής ποιότητας, κατασκευασμένο για χρήση σε καταστάσεις έκτακτης ανάγκης.</MealSurvivalPack.description>
-
-  <MealNutrientPaste.label>γεύμα θρεπτικής πάστας</MealNutrientPaste.label>
-  <MealNutrientPaste.description>Ένα συνθετικό μείγμα πρωτεϊνών, υδατανθράκων, βιταμινών, αμινοξέων και μετάλλων. Οτιδήποτε χρειάζεται το σώμα, και απολύτως αηδιαστικό.</MealNutrientPaste.description>
-
-  <MealSimple.label>απλό κολατσιό</MealSimple.label>
-  <MealSimple.description>Ένα απλό κολατσιό μαγειρεμένο γρήγορα με λίγα υλικά.</MealSimple.description>
-
-  <MealFine.label>καλό κολατσιό</MealFine.label>
-  <MealFine.description>Ένα καλό κολατσιό φτιαγμένο με φροντίδα από μία μεγάλη ποικιλία υλικών.</MealFine.description>
-
-  <MealLavish.label>πολυτελή γεύμα</MealLavish.label>
-  <MealLavish.description>Ένα αριστούργημα, έργο μαγειρικής τέχνης, είναι ένα γεύμα που τρέφει το μυαλό, το σώμα και την ψυχή.</MealLavish.description>
-
+  
+  <!-- EN: kibble -->
   <Kibble.label>κροκέτες</Kibble.label>
-  <Kibble.description>Κονιορτοποιημένες ζωοτροφές που παρασκευάζονται από τη μίξη κρέατος και φυτικών πηγών. Οι άνθρωποι μπορούν να το φάνε, αλλά πραγματικά, πραγματικά δεν θα τους αρέσει.</Kibble.description>
-
+  <!-- EN: Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it. -->
+  <Kibble.description>Κονιορτοποιημένες ζωοτροφές που παρασκευάζονται από τη μίξη κρέατος και φυτικών πηγών. Οι άνθρωποι μπορούν να τις φάνε, αλλά πραγματικά, πραγματικά δεν θα τους αρέσει.</Kibble.description>
+  
+  <!-- EN: fine meal -->
+  <MealFine.label>καλό κολατσιό</MealFine.label>
+  <!-- EN: A complex dish assembled with care from a variety of ingredients. -->
+  <MealFine.description>Ένα καλό κολατσιό φτιαγμένο με φροντίδα από μία μεγάλη ποικιλία υλικών.</MealFine.description>
+  
+  <!-- EN: lavish meal -->
+  <MealLavish.label>πολυτελή γεύμα</MealLavish.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish.description>Ένα αριστούργημα, έργο μαγειρικής τέχνης, είναι ένα γεύμα που τρέφει το μυαλό, το σώμα και την ψυχή.</MealLavish.description>
+  
+  <!-- EN: nutrient paste meal -->
+  <MealNutrientPaste.label>γεύμα θρεπτικής πάστας</MealNutrientPaste.label>
+  <!-- EN: A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. -->
+  <MealNutrientPaste.description>Ένα συνθετικό μείγμα πρωτεϊνών, υδατανθράκων, βιταμινών, αμινοξέων και μετάλλων. Οτιδήποτε χρειάζεται το σώμα, και απολύτως αηδιαστικό.</MealNutrientPaste.description>
+  
+  <!-- EN: simple meal -->
+  <MealSimple.label>απλό κολατσιό</MealSimple.label>
+  <!-- EN: A simple meal quickly cooked from one main ingredient. -->
+  <MealSimple.description>Ένα απλό κολατσιό μαγειρεμένο γρήγορα με λίγα υλικά.</MealSimple.description>
+  
+  <!-- EN: packaged survival meal -->
+  <MealSurvivalPack.label>πακεταρισμένο φαγητό επιβίωσης</MealSurvivalPack.label>
+  <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling. -->
+  <MealSurvivalPack.description>Ένα φαγητό υψηλής ποιότητας, κατασκευασμένο για χρήση σε καταστάσεις έκτακτης ανάγκης. Ενώ ποτέ δεν χαλάει, μπορεί να αλλοιωθεί αν ξεχαστεί έξω. Εξαιρετικό για ταξίδια.</MealSurvivalPack.description>
+  
+  <!-- EN: pemmican -->
   <Pemmican.label>πέμικαν</Pemmican.label>
-  <Pemmican.description>Ένα συντηρημένο πολτοποιημένο μείγμα λίπους και φυτικής τροφής. Οι γεύση είναι ήπια, αλλά όχι ενοχλητική. Διαρκεί πολύ καιρό χωρίς ψύξη.</Pemmican.description>
-
-
+  <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
+  <Pemmican.description>Ένα συντηρημένο πολτοποιημένο μείγμα λίπους και φυτικής τροφής. Οι γεύση είναι ήπια, αλλά όχι ενοχλητική. Διαρκεί πολύ καιρό χωρίς ψύξη. Ιδανικό για ταξίδια.</Pemmican.description>
+  
 </LanguageData>

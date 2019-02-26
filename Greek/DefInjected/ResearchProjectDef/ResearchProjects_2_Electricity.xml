@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: air conditioning -->
+  <AirConditioning.label>κλιματισμός</AirConditioning.label>
+  <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
+  <AirConditioning.description>Κατασκευάστε ψύκτες για να νιώθουν οι άνθρωποι άνετα σε ζεστό καιρό ή για να κατασκευάσετε καταψύκτες για την αποθήκευση αλλοιώσιμων προϊόντων.</AirConditioning.description>
+  
+  <!-- EN: autodoor -->
+  <Autodoors.label>αυτόματες πόρτες</Autodoors.label>
+  <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
+  <Autodoors.description>Κατασκευάστε πόρτες που ανοίγουν αυτόματα επιτρέποντας την κίνηση χωρίς να επιβραδύνουν κανέναν.</Autodoors.description>
+  
+  <!-- EN: battery -->
+  <Batteries.label>συσσωρευτές</Batteries.label>
+  <!-- EN: Build batteries for storing electricity. -->
+  <Batteries.description>Κατασκευή συσσωρευτών για την αποθήκευση ηλεκτρικού ρεύματος.</Batteries.description>
+  
+  <!-- EN: biofuel refining -->
+  <BiofuelRefining.label>διύλιση βιοκαυσίμου</BiofuelRefining.label>
+  <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
+  <BiofuelRefining.description>Κατασκευάστε τα διυλιστήρια βιοκαυσίμων για να φτιάξετε χημικά καύσιμα από βιολογική ύλη όπως το ξύλο ή τα τρόφιμα.</BiofuelRefining.description>
+  
+  <!-- EN: blowback operation -->
+  <BlowbackOperation.label>λειτουργία υποστροφής αερίων</BlowbackOperation.label>
+  <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
+  <BlowbackOperation.description>Δημιουργία πυροβόλων όπλων χαμηλής ισχύος που λειτουργούν με παλινδρόμηση, όπως αυτόματα και μηχανικά πιστόλια.</BlowbackOperation.description>
+  
+  <!-- EN: electricity -->
+  <Electricity.label>ηλεκτρικό ρεύμα</Electricity.label>
+  <!-- EN: Harness the power of electricity for a hundred different tasks. -->
+  <Electricity.description>Χρησιμοποιήστε τη δύναμη της ηλεκτρικής ενέργειας για εκατοντάδες διαφορετικές εργασίες.</Electricity.description>
+  
+  <!-- EN: firefoam -->
+  <Firefoam.label>αφρός πυρόσβεσης</Firefoam.label>
+  <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
+  <Firefoam.description>Επιτρέπει την κατασκευή εκτοξευτήρων πυροσβεστικού αφρού, αυτόματες κατασκευές πυρασφάλειας που διασκορπίζουν βραδύκαυστο αφρό σε απάντηση στις καταστροφικές φλόγες.</Firefoam.description>
+  
+  <!-- EN: flak armor -->
+  <FlakArmor.label>αλεξίσφαιρο</FlakArmor.label>
+  <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
+  <FlakArmor.description>Μπορείτε να ράψετε ενδύματα με ενσωματωμένη μεταλλική θωράκιση για να αντιστέκεται στις σφαίρες και τις εκρήξεις. Αυτή η βαριά πανοπλία επιβραδύνει ελαφρά την κίνηση.</FlakArmor.description>
+  
+  <!-- EN: gas operation -->
+  <GasOperation.label>λειτουργία αερίου</GasOperation.label>
+  <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
+  <GasOperation.description>Δημιουργήστε πιο δυνατής ισχύος αυτόματα όπλα όπως επαναληπτικές καραμπίνες, οπλοπολυβόλα και βαριά υποπολυβόλα.</GasOperation.description>
+  
+  <!-- EN: geothermal power -->
+  <GeothermalPower.label>γεωθερμική ενέργεια</GeothermalPower.label>
+  <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
+  <GeothermalPower.description>Σας δίνει τη δυνατότητα να χτίσετε γεωθερμικούς σταθμούς ηλεκτροπαραγωγής στην κορυφή των θερμοπίδακων για αδιάλειπτη ισχύ.</GeothermalPower.description>
+  
+  <!-- EN: gunsmithing -->
+  <Gunsmithing.label>οπλοτεχνουργία</Gunsmithing.label>
+  <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
+  <Gunsmithing.description>Δημιουργήστε απλά χειροκίνητα όπλα όπως περίστροφα, κοντόκαννες καραμπίνες, επαναληπτικά τουφέκια και εμπρηστικούς εκτοξευτήρες.</Gunsmithing.description>
+  
+  <!-- EN: gun turrets -->
+  <GunTurrets.label>πυργίσκοι όπλων</GunTurrets.label>
+  <!-- EN: Produce simple automated gun turrets. -->
+  <GunTurrets.description>Επιτρέπει την παραγωγή πυργίσκων με απλά αυτόματα όπλα.</GunTurrets.description>
+  
+  <!-- EN: hydroponics -->
+  <Hydroponics.label>Υδροπονία</Hydroponics.label>
+  <!-- EN: Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
+  <Hydroponics.description>Κατασκευάστε δεξαμενές υδροπονίας για την ταχεία καλλιέργεια φυτών σε εσωτερικούς χώρους ανεξάρτητα από το έδαφος ή τον καιρό έξω.</Hydroponics.description>
+  
+  <!-- EN: IEDs -->
+  <IEDs.label>αυτοσχέδιες εκρηκτικές συσκευές</IEDs.label>
+  <!-- EN: Build improvised traps from any kind of mortar shell. -->
+  <IEDs.description>Επιτρέπει στους αποίκους να κατασκευάσουν αυτοσχέδιες παγίδες από οποιαδήποτε είδος βλήματος ολμοβόλου.</IEDs.description>
+  
+  <!-- EN: machining -->
+  <Machining.label>μηχανική κατεργασία</Machining.label>
+  <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to disassemble dead mechanoids for resources. -->
+  <Machining.description>Κατασκευάστε τραπέζια μηχανικής επεξεργασίας για να κατασκευάσετε όπλα, χειροβομβίδες και να αποσυναρμολογήσετε τα νεκρά μηχανόειδή για τους πόρους τους.</Machining.description>
+  
+  <!-- EN: mortars -->
+  <Mortars.label>ολμοβόλο</Mortars.label>
+  <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
+  <Mortars.description>Μάθετε να φτιάχνετε ολμοβόλα τα οποία μπορούν να εκσφενδονίσουν βλήματα σε μακρινές αποστάσεις πάνω από τους τοίχους.</Mortars.description>
+  
+  <!-- EN: nutrient paste -->
+  <NutrientPaste.label>θρεπτική πάστα</NutrientPaste.label>
+  <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
+  <NutrientPaste.description>Δημιουργήστε διανομείς θρεπτικού πολτού που παράγουν αποτελεσματικά βρώσιμα γεύματα από ακατέργαστες θρεπτικές πρώτες ύλες, χωρίς να απαιτείται καθόλου εργασία.</NutrientPaste.description>
+  
+  <!-- EN: packaged survival meal -->
+  <PackagedSurvivalMeal.label>συσκευασμένο γεύμα επιβίωσης</PackagedSurvivalMeal.label>
+  <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
+  <PackagedSurvivalMeal.description>Μάθετε να παράγετε συσκευασμένα γεύματα επιβίωσης, ένα διατηρημένο και σφραγισμένο φαγητό που δεν παθαίνει ποτέ κακό. Εξαιρετικό για ταξίδια.</PackagedSurvivalMeal.description>
+  
+  <!-- EN: prosthetics -->
+  <Prosthetics.label>προσθετικά</Prosthetics.label>
+  <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
+  <Prosthetics.description>Κατασκευάστε φθηνά προσθετικά μέρη σώματος για να αντικαταστήσετε τα χαμένα άκρα. Απαιτείτε ένας εξειδικευμένος γιατρός για να τα τοποθετήσει.</Prosthetics.description>
+  
+  <!-- EN: smokepop belts -->
+  <SmokepopBelt.label>ζώνες καπνού</SmokepopBelt.label>
+  <!-- EN: Build smokepop belts which generate an automatic defensive smokescreen when the user is shot. -->
+  <SmokepopBelt.description>Μάθετε να δημιουργείτε ζώνες καπνού που μπορούν να παρέχουν ένα αυτόματο παραπέτασμα καπνού όταν πυροβολείται αυτός που την φοράει.</SmokepopBelt.description>
+  
+  <!-- EN: solar panel -->
+  <SolarPanels.label>ηλιακά κάτοπτρα</SolarPanels.label>
+  <!-- EN: Build solar panels for electricity generation. -->
+  <SolarPanels.description>Κατασκευή ηλιακών κατόπτρων για την παραγωγή ηλεκτρισμού.</SolarPanels.description>
+  
+  <!-- EN: sterile materials -->
+  <SterileMaterials.label>αποστειρωμένα υλικά</SterileMaterials.label>
+  <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
+  <SterileMaterials.description>Κατασκευάστε αποστειρωμένα πλακάκια για να κάνετε καθαρές αίθουσες για ασφαλέστερη και πιο αποτελεσματική ιατρική περίθαλψη, έρευνα και μαγείρεμα.</SterileMaterials.description>
+  
+  <!-- EN: tube television -->
+  <TubeTelevision.label>καθοδικός σωλήνας</TubeTelevision.label>
+  <!-- EN: Produce tube televisions for recreational watching. -->
+  <TubeTelevision.description>Επιτρέπει την παραγωγή τηλεοράσεων για ψυχαγωγική παρακολούθηση.</TubeTelevision.description>
+  
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>γεννήτρια νερόμυλου</WatermillGenerator.label>
+  <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
+  <WatermillGenerator.description>Κατασκευάστε γεννήτριες νερού στους ποταμούς για να φτιάξετε μια σταθερή παροχή ενέργειας.</WatermillGenerator.description>
+  
+</LanguageData>

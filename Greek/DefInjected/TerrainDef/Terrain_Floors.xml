@@ -1,46 +1,64 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Διάφορα (Misc) -->
-
-  <Concrete.label>τσιμέντο</Concrete.label>
-  <Concrete.description>Σκυρόδεμα που στρώνετε εύκολα. Περπατάτε γρήγορα, φθηνό, και πολύ γρήγορο στο να το ρίξετε, αλλά αρκετά άσχημο.</Concrete.description>
-
-  <PavedTile.label>πλακόστρωμα</PavedTile.label>
-  <PavedTile.description>Εύχρηστες πλάκες από σκυρόδεμα. Φτηνές και περπατάτε γρήγορα, αλλά ουδέτερες όσον αφορά την εμφάνιση και αργές στην κατασκευή.</PavedTile.description>
-
-  <WoodPlankFloor.label>ξύλινο πάτωμα</WoodPlankFloor.label>
-  <WoodPlankFloor.description>Δάπεδα ξύλινων σανίδων. Για μία ζεστή, σπιτική αίσθηση. Ενώ είναι εύκολο να τοποθετηθεί, είναι επίσης εύφλεκτο.</WoodPlankFloor.description>
-
-  <MetalTile.label>μεταλλικό πλακάκι</MetalTile.label>
-  <MetalTile.description>Μεταλλικά πλακάκια, για διακόσμηση παρόμοια με διαστημοπλοίου. Όμορφο, αλλά κοπιαστικό στην τοποθέτηση και θέλει πολλά υλικά.</MetalTile.description>
-
-  <SilverTile.label>ασημένιο πλακάκι</SilverTile.label>
-  <SilverTile.description>Ακριβό και χρονοβόρα τοποθέτηση, αλλά πολύ όμορφο. Ταιριάζει τέλεια σε πολυτελή δωμάτια.</SilverTile.description>
-
-  <GoldTile.label>χρυσό πλακάκι</GoldTile.label>
-  <GoldTile.description>Το πιο όμορφο και εντυπωσιακό είδος δαπέδου. Πολύ ακριβό και απαιτεί πολλή δουλειά για να τοποθετηθεί.</GoldTile.description>
-
-  <SterileTile.label>αποστειρωμένο πλακάκι</SterileTile.label>
-  <SterileTile.description>Τα αποστειρωμένα πλακάκια συμβάλλουν στη διατήρηση του καθαρού χώρου. Πολύ χρήσιμο στα νοσοκομεία για να αποφευχθεί η εμφάνιση διαφόρων λοιμώξεων από τους ασθενείς. Ουδέτερο όσον αφορά την εμφάνιση και πολύ αργό στην τοποθέτηση.</SterileTile.description>
-
-
-  <!-- Χαλιά (Carpets) -->
-
-  <CarpetRed.label>κόκκινο χαλί</CarpetRed.label>
-  <CarpetRed.description>Βελούδινο χαλί σε πανέμορφη κόκκινη απόχρωση.</CarpetRed.description>
-
-  <CarpetGreen.label>πράσινο χαλί</CarpetGreen.label>
-  <CarpetGreen.description>Πράσινο χαλί στο χρώμα της φύσης.</CarpetGreen.description>
-
+  
+  <!-- EN: blue carpet -->
   <CarpetBlue.label>μπλε χαλί</CarpetBlue.label>
+  <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
   <CarpetBlue.description>Το βελούδινο χαλί που αγκαλιάζει τα δάχτυλα των ποδιών σε ένα σαγηνευτικό μπλε χρώμα.</CarpetBlue.description>
-
+  
+  <!-- EN: cream carpet -->
   <CarpetCream.label>μπεζ χαλί</CarpetCream.label>
+  <!-- EN: Inviting cream-colored carpet. -->
   <CarpetCream.description>Ελκυστικό μπεζ χρώματος χαλί.</CarpetCream.description>
-
+  
+  <!-- EN: dark carpet -->
   <CarpetDark.label>σκούρο χαλί</CarpetDark.label>
+  <!-- EN: Professional-looking dark gray carpet. -->
   <CarpetDark.description>Επαγγελματικής εμφάνισης σκούρο γκρι χαλί.</CarpetDark.description>
-
-
+  
+  <!-- EN: green carpet -->
+  <CarpetGreen.label>πράσινο χαλί</CarpetGreen.label>
+  <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
+  <CarpetGreen.description>Πράσινο χαλί στο χρώμα της φύσης. Στους ρυθμούς της φύσης.</CarpetGreen.description>
+  
+  <!-- EN: red carpet -->
+  <CarpetRed.label>κόκκινο χαλί</CarpetRed.label>
+  <!-- EN: Plush carpet in a lovely rose hue. -->
+  <CarpetRed.description>Βελούδινο χαλί σε πανέμορφη κόκκινη απόχρωση.</CarpetRed.description>
+  
+  <!-- EN: concrete -->
+  <Concrete.label>τσιμέντο</Concrete.label>
+  <!-- EN: Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly. -->
+  <Concrete.description>Σκυρόδεμα που στρώνετε εύκολα. Περπατάτε γρήγορα, φθηνό, και πολύ γρήγορο στο να το ρίξετε, αλλά αρκετά άσχημο.</Concrete.description>
+  
+  <!-- EN: gold tile -->
+  <GoldTile.label>χρυσό πλακάκι</GoldTile.label>
+  <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
+  <GoldTile.description>Για υπερβολική σπάταλη, τίποτα δεν ξεπερνά τα χρυσά πλακάκια. Είναι εξαιρετικά δαπανηρά και εξαιρετικά όμορφα και οι άνθρωποι θα σκεφτούν ότι είστε εξαιρετικά φαντασμένος για να ζείτε πραγματικά πάνω τους.</GoldTile.description>
+  
+  <!-- EN: metal tile -->
+  <MetalTile.label>μεταλλικό πλακάκι</MetalTile.label>
+  <!-- EN: Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
+  <MetalTile.description>Μεταλλικά πλακάκια, για διακόσμηση παρόμοια με διαστημοπλοίου. Είναι όμορφα και η ομαλή τους επιφάνεια δίνει ένα μπόνους καθαριότητας.</MetalTile.description>
+  
+  <!-- EN: paved tile -->
+  <PavedTile.label>πλακόστρωμα</PavedTile.label>
+  <!-- EN: Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build. -->
+  <PavedTile.description>Εύχρηστες πλάκες από σκυρόδεμα. Φτηνές και περπατάτε γρήγορα, αλλά ουδέτερες όσον αφορά την εμφάνιση και αργές στην κατασκευή.</PavedTile.description>
+  
+  <!-- EN: silver tile -->
+  <SilverTile.label>ασημένιο πλακάκι</SilverTile.label>
+  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
+  <SilverTile.description>Για ένα φουτουριστική, αλλά βασιλική διακόσμηση, τα ασημένια πλακάκια ταιριάζουν απόλυτα στα πολυτελή δωμάτια. Δίνουν μπόνους καθαριότητας.</SilverTile.description>
+  
+  <!-- EN: sterile tile -->
+  <SterileTile.label>αποστειρωμένο πλακάκι</SterileTile.label>
+  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
+  <SterileTile.description>Αποστειρωμένα πλακάκια με ενσωματωμένες ειδικές ιδιότητες ενίσχυσης της καθαριότητας. Τα εξαιρετικά καθαρά δωμάτια βελτιώνουν τα αποτελέσματα σε νοσοκομεία και ερευνητικά εργαστήρια. Αυτό το πλακάκι χρειάζεται πολύ χρόνο για να τοποθετηθεί.</SterileTile.description>
+  
+  <!-- EN: wood floor -->
+  <WoodPlankFloor.label>ξύλινο πάτωμα</WoodPlankFloor.label>
+  <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+  <WoodPlankFloor.description>Δάπεδα ξύλινων σανίδων για μία ζεστή, σπιτική αίσθηση. Ενώ είναι εύκολο να τοποθετηθεί, είναι επίσης πολύ εύφλεκτο.</WoodPlankFloor.description>
+  
 </LanguageData>

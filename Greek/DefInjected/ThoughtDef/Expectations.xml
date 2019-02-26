@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sky-high expectations -->
+  <LowExpectations.stages.skyhigh_expectations.label>υπερβολικές προσδοκίες</LowExpectations.stages.skyhigh_expectations.label>
+  <!-- EN: This place is really rich. I should be made very comfortable here. -->
+  <LowExpectations.stages.skyhigh_expectations.description>Αυτό το μέρος είναι πραγματικά πλούσιο. Πρέπει να είμαι πολύ άνετος εδώ.</LowExpectations.stages.skyhigh_expectations.description>
+  <!-- EN: high expectations -->
+  <LowExpectations.stages.high_expectations.label>υψηλές προσδοκίες</LowExpectations.stages.high_expectations.label>
+  <!-- EN: This place is almost rich. There's no reason I shouldn't have the things I want. -->
+  <LowExpectations.stages.high_expectations.description>Το μέρος αυτό είναι σχεδόν πλούσιο. Δεν υπάρχει λόγος να μην έχω τα πράγματα που θέλω.</LowExpectations.stages.high_expectations.description>
+  <!-- EN: moderate expectations -->
+  <LowExpectations.stages.moderate_expectations.label>κανονικές προσδοκίες</LowExpectations.stages.moderate_expectations.label>
+  <!-- EN: This place isn't quite rich. I can't expect to be totally pampered. -->
+  <LowExpectations.stages.moderate_expectations.description>Αυτός ο τόπος δεν είναι αρκετά πλούσιος. Δεν μπορώ να περιμένω να είμαι και πολύ καλομαθημένος.</LowExpectations.stages.moderate_expectations.description>
+  <!-- EN: low expectations -->
+  <LowExpectations.stages.low_expectations.label>λίγες προσδοκίες</LowExpectations.stages.low_expectations.label>
+  <!-- EN: This place doesn't have the wealth for many luxuries. I can't expect great comforts. -->
+  <LowExpectations.stages.low_expectations.description>Αυτός ο τόπος δεν έχει τον πλούτο για πολλές πολυτέλειες. Δεν μπορώ να περιμένω μεγάλες ανέσεις.</LowExpectations.stages.low_expectations.description>
+  <!-- EN: very low expectations -->
+  <LowExpectations.stages.very_low_expectations.label>πολύ λίγες προσδοκίες</LowExpectations.stages.very_low_expectations.label>
+  <!-- EN: This place is poverty-stricken. I need to keep myself strong to survive. -->
+  <LowExpectations.stages.very_low_expectations.description>Αυτός ο τόπος είναι φτωχός. Πρέπει να είμαι ισχυρός για να επιβιώσω.</LowExpectations.stages.very_low_expectations.description>
+  <!-- EN: extremely low expectations -->
+  <LowExpectations.stages.extremely_low_expectations.label>υπερβολικά λίγες προσδοκίες</LowExpectations.stages.extremely_low_expectations.label>
+  <!-- EN: There's nothing here to make me comfortable. I'd better steel myself to survive. -->
+  <LowExpectations.stages.extremely_low_expectations.description>Δεν υπάρχει τίποτα εδώ για να με κάνει άνετο. Θα πρέπει να ατσαλώσω τον εαυτό μου για να επιβιώσω.</LowExpectations.stages.extremely_low_expectations.description>
+  
+</LanguageData>

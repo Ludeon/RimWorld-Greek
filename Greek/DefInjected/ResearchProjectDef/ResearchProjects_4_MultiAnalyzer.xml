@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced fabrication -->
+  <AdvancedFabrication.label>προηγμένα εξαρτήματα</AdvancedFabrication.label>
+  <!-- EN: Fabricate advanced components from standard components and other materials. -->
+  <AdvancedFabrication.description>Κατασκευάστε προηγμένα εξαρτήματα από βασικά εξαρτήματα και άλλα υλικά.</AdvancedFabrication.description>
+  
+  <!-- EN: bionics -->
+  <Bionics.label>βιονικά</Bionics.label>
+  <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
+  <Bionics.description>Κατασκευάστε βιονικά μέλη σώματος υψηλής τεχνολογίας για να αντικαταστήσετε τα χαμένα άκρα και μάτια. Απαιτείτε ένας εξειδικευμένος γιατρός για να τα τοποθετήσει.</Bionics.description>
+  
+  <!-- EN: pulse-charged munitions -->
+  <ChargedShot.label>ενεργειακή βολή</ChargedShot.label>
+  <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
+  <ChargedShot.description>Κατασκευάστε όπλα που ρίχνουν παλμικά φορτισμένα βλήματα για επιπλέον ζημιά. Σημειώστε επίσης ότι αυτά απαιτούν προηγμένα εξαρτήματα.</ChargedShot.description>
+  
+  <!-- EN: cryptosleep casket -->
+  <Cryptosleep.label>κάψουλα κρυογονικού ύπνου</Cryptosleep.label>
+  <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
+  <Cryptosleep.description>Επιτρέπει στους αποίκους να κατασκευάσουν κρυογενικές κάψουλες, οι οποίες μπορούν να βάλουν τα ζωντανά όντα σε κατάσταση αναστολής βασικών λειτουργιών.</Cryptosleep.description>
+  
+  <!-- EN: deep drilling -->
+  <DeepDrilling.label>βαθιά γεώτρηση</DeepDrilling.label>
+  <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
+  <DeepDrilling.description>Σας επιτρέπει να κατασκευάσατε γεωτρύπανα μεγάλου βάθους για την εξόρυξη πόρων από τα βαθιά στρώματα. Θα χρειαστείτε ένα σαρωτή διείσδυσης εδάφους για να βρείτε τους πόρους.</DeepDrilling.description>
+  
+  <!-- EN: fabrication -->
+  <Fabrication.label>συναρμολόγηση εξαρτημάτων</Fabrication.label>
+  <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
+  <Fabrication.description>Κατασκευάστε πάγκους κατασκευής, ικανούς για κατασκευές υψηλής τεχνολογίας που κυμαίνονται από τη συναρμολόγηση εξαρτημάτων έως την κατασκευή ισχυρής θωράκισης.</Fabrication.description>
+  
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>σαρωτής διείσδυσης εδάφους</GroundPenetratingScanner.label>
+  <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires advanced components to construct. -->
+  <GroundPenetratingScanner.description>Σας επιτρέπει να δημιουργείτε σαρωτές που διαπερνούν το έδαφος και μπορούν να ανιχνεύσουν τους δυσπρόσιτους πόρους που βρίσκονται βαθιά κάτω από την επιφάνεια. Απαιτούνται προηγμένα εξαρτήματα για την κατασκευή του.</GroundPenetratingScanner.description>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>πολυαναλυτής</MultiAnalyzer.label>
+  <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
+  <MultiAnalyzer.description>Επιτρέπει στους αποίκους να κατασκευάσουν πολυαναλυτές οι οποίοι αυξάνουν την ταχύτητα της έρευνας και επιτρέπουν ερευνητικά έργα υψηλότερου επιπέδου.</MultiAnalyzer.description>
+  
+  <!-- EN: powered armor -->
+  <PoweredArmor.label>ισχυρή πανοπλία</PoweredArmor.label>
+  <!-- EN: Build the power armor and power armor helmets. Note that these also require advanced components. -->
+  <PoweredArmor.description>Η νευρο-μιμητική ρομποτική και οι προηγμένες τεχνολογίες ύφανσης πλαστέλ σας επιτρέπουν να κατασκευάσετε την ισχυρή πανοπλία και τα κράνη ισχυρής θωράκισης. Σημειώστε επίσης ότι αυτά απαιτούν προηγμένα εξαρτήματα.</PoweredArmor.description>
+  
+  <!-- EN: uranium slug turret -->
+  <SniperTurret.label>πυργίσκος σφαίρας ουρανίου</SniperTurret.label>
+  <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
+  <SniperTurret.description>Κατασκευάστε τον πυργίσκο με σφαίρες διείσδυσης στη θωράκιση ουρανίου. Ρίχνει σφαίρες ουρανίου η οποίες σχίζουν το πλαστέλ σαν χαρτί, αλλά είναι λιγότερο αποτελεσματικές σε κοντινή απόσταση.</SniperTurret.description>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>παρακολούθηση ζωτικών οργάνων</VitalsMonitor.label>
+  <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
+  <VitalsMonitor.description>Επιτρέπει στους αποίκους να κατασκευάζουν οθόνες παρακολούθησης ζωτικών οργάνων, οι οποίες βελτιώνουν την ιατρική περίθαλψη όταν τοποθετούνται δίπλα στα νοσοκομειακά κρεβάτια.</VitalsMonitor.description>
+  
+</LanguageData>

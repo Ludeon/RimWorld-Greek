@@ -1,37 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ιατρική (Medicine) -->
-
-  <HerbalMedicine.label>βότανα</HerbalMedicine.label>
-  <HerbalMedicine.description>Ένα πακέτο βοτανικών παρασκευασμάτων που εκχυλίζονται τυπικά από το φυτό της γιατρόριζας. Λιγότερο ισχυρό από τα βιομηχανικά φαρμακευτικά προϊόντα, αλλά πολύ καλύτερο από το τίποτα.</HerbalMedicine.description>
-
-  <Medicine.label>φάρμακο</Medicine.label>
-  <Medicine.description>Το ιατρικό προσωπικό χρησιμοποιεί αυτές τις προμήθειες για να θεραπεύσει τους τραυματίες.</Medicine.description>
-
-  <GlitterworldMedicine.label>ιατρική λαμπρόκοσμου</GlitterworldMedicine.label>
-  <GlitterworldMedicine.description>Προηγμένες ιατρικές προμήθειες από έναν λαμπρό κόσμο υψηλής τεχνολογίας.</GlitterworldMedicine.description>
-
-
-  <!-- Εξάρτημα (Component) -->
-
-  <Component.label>εξάρτημα</Component.label>
-  <Component.description>Διάφορα γρανάζια, πυκνωτές, κυκλώματα, σωλήνες, τροχοί, αισθητήρες, καλώδια, τσιπ, επεξεργαστές και άλλα ηλεκτρονικά και βιομηχανικά μέρη. Απαραίτητο για τη συναρμολόγηση πολύπλοκων μηχανών ή ηλεκτρονικών.</Component.description>
-
-  <AdvancedComponent.label>προηγμένο εξάρτημα</AdvancedComponent.label>
-  <AdvancedComponent.description>Υψηλής ποιότητας ηλεκτρονικός εξοπλισμός, μικροσκοπικός και σκληρυμένος για τις πιο περίπλοκες εφαρμογές.</AdvancedComponent.description>
-
-
-  <!-- Ουδετερομίνη (Neutroamine) -->
-
-  <Neutroamine.label>ουδετερομίνη</Neutroamine.label>
-  <Neutroamine.description>Ένα προπαρασκευαστικό συνθετικό χημικό. Άχρηστο από μόνο τους, αλλά πολλά φάρμακα απαιτούν ουδετερομίνη ως συστατικό.</Neutroamine.description>
-
-
-  <!-- Χημικό καύσιμο (Chemfuel) -->
-
+  
+  <!-- EN: chemfuel -->
   <Chemfuel.label>χημικό καύσιμο</Chemfuel.label>
-  <Chemfuel.description>Πτητική υγρή χημική ένωση. Χρησιμοποιείται ως καύσιμο σε πυραύλους και άλλες μηχανές.</Chemfuel.description>
-
-
+  <!-- EN: A volatile liquid chemical. Used to fuel engines and rockets, or to transmute into propellant for projectiles, or as an incendiary weapon. -->
+  <Chemfuel.description>Πτητική υγρή χημική ένωση. Χρησιμοποιείται για την τροφοδοσία κινητήρων και πυραύλων ή για τη μετατροπή του σε προωθητικό αέριο στα βλήματα ή ως ένα εμπρηστικό όπλο.</Chemfuel.description>
+  
+  <!-- EN: component -->
+  <ComponentIndustrial.label>εξάρτημα</ComponentIndustrial.label>
+  <!-- EN: Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics. -->
+  <ComponentIndustrial.description>Διάφορα γρανάζια, πυκνωτές, κυκλώματα, σωλήνες, τροχοί, αισθητήρες, καλώδια, τσιπ, επεξεργαστές και άλλα ηλεκτρονικά και βιομηχανικά μέρη. Απαραίτητο για τη συναρμολόγηση πολύπλοκων μηχανών ή ηλεκτρονικών.</ComponentIndustrial.description>
+  
+  <!-- EN: advanced component -->
+  <ComponentSpacer.label>προηγμένο εξάρτημα</ComponentSpacer.label>
+  <!-- EN: Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. -->
+  <ComponentSpacer.description>Υψηλής ποιότητας ηλεκτρονικός εξοπλισμός, μικροσκοπικός και σκληρυμένος για τις πιο περίπλοκες εφαρμογές.</ComponentSpacer.description>
+  
+  <!-- EN: herbal medicine -->
+  <MedicineHerbal.label>βότανα</MedicineHerbal.label>
+  <!-- EN: A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing. -->
+  <MedicineHerbal.description>Ένα πακέτο βοτανικών παρασκευασμάτων που εκχυλίζονται τυπικά από το φυτό της γιατρόριζας. Λιγότερο ισχυρό από τα βιομηχανικά φαρμακευτικά προϊόντα, αλλά πολύ καλύτερο από το τίποτα.</MedicineHerbal.description>
+  
+  <!-- EN: medicine -->
+  <MedicineIndustrial.label>φάρμακο</MedicineIndustrial.label>
+  <!-- EN: A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids. -->
+  <MedicineIndustrial.description>Ένα κιτ ιατρικού εξοπλισμού της βιομηχανικής εποχής. Περιέχει βασικά φάρμακα, εργαλεία συρραφής και ρύθμισης των οστών, διαγνωστικές συσκευές, διάφορα επιθέματα και υγρά.</MedicineIndustrial.description>
+  
+  <!-- EN: glitterworld medicine -->
+  <MedicineUltratech.label>ιατρική λαμπρόκοσμου</MedicineUltratech.label>
+  <!-- EN: A kit of advanced ultra-tech medical supplies, probably manufactured on a distant glitterworld. It contains advanced polymorphic drugs, nanite diagnostic and healing assisters, a mini-imager, and various multi-use tools. -->
+  <MedicineUltratech.description>Ένα κιτ προηγμένων ιατρικών προμηθειών υψηλής τεχνολογίας, κατασκευασμένο πιθανώς σε έναν μακρινό λαμπρόκοσμο. Περιέχει προηγμένα πολυμορφικά φάρμακα, διαγνωστικούς νανήτες και θεραπευτικά βοηθήματα, μίνι-απεικονιστής και διάφορα εργαλεία πολλαπλής χρήσης.</MedicineUltratech.description>
+  
+  <!-- EN: neutroamine -->
+  <Neutroamine.label>ουδετερομίνη</Neutroamine.label>
+  <!-- EN: A synthetic precursor chemical. While it is useless on its own, many drugs require neutroamine as an ingredient. -->
+  <Neutroamine.description>Ένα προπαρασκευαστικό συνθετικό χημικό. Άχρηστο από μόνο τους, αλλά πολλά φάρμακα απαιτούν ουδετερομίνη ως συστατικό.</Neutroamine.description>
+  
 </LanguageData>

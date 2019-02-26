@@ -1,22 +1,40 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Head.label>κεφάλι</Head.label>
-  <Skull.label>κρανίο</Skull.label>
+  
+  <!-- EN: brain -->
   <Brain.label>μυαλό</Brain.label>
-  <LeftEye.label>αριστερό μάτι</LeftEye.label>
-  <RightEye.label>δεξί μάτι</RightEye.label>
-  <LeftEar.label>αριστερό αυτί</LeftEar.label>
-  <RightEar.label>δεξί αυτί</RightEar.label>
-  <Nose.label>μύτη</Nose.label>
+  
+  <!-- EN: ear -->
+  <Ear.label>αφτί</Ear.label>
+  
+  <!-- EN: eye -->
+  <Eye.label>μάτι</Eye.label>
+  
+  <!-- EN: foot -->
+  <Foot.label>πατούσα</Foot.label>
+  
+  <!-- EN: head -->
+  <Head.label>κεφάλι</Head.label>
+  
+  <!-- EN: jaw -->
   <Jaw.label>σαγόνι</Jaw.label>
+  
+  <!-- EN: leg -->
+  <Leg.label>πόδι</Leg.label>
+  
+  <!-- EN: neck -->
   <Neck.label>λαιμός</Neck.label>
-  <Rib.label>πλευρό</Rib.label>
+  
+  <!-- EN: nose -->
+  <Nose.label>μύτη</Nose.label>
+  
+  <!-- EN: ribcage -->
+  <Ribcage.label>πλευρά</Ribcage.label>
+  
+  <!-- EN: skull -->
+  <Skull.label>κρανίο</Skull.label>
+  
+  <!-- EN: spine -->
   <Spine.label>ραχοκοκαλιά</Spine.label>
-  <LeftLeg.label>αριστερό πόδι</LeftLeg.label>
-  <LeftFoot.label>αριστερή πατούσα</LeftFoot.label>
-  <RightLeg.label>δεξί πόδι</RightLeg.label>
-  <RightFoot.label>δεξιά πατούσα</RightFoot.label>
-
-
+  
 </LanguageData>

@@ -1,38 +1,54 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <RawPotatoes.label>πατάτες</RawPotatoes.label>
-  <RawPotatoes.description>Άψητες πατάτες.</RawPotatoes.description>
-
-  <RawFungus.label>ωμοί μύκητες</RawFungus.label>
-  <RawFungus.description>Ακατέργστοι μύκητες.</RawFungus.description>
-
-  <RawRice.label>ρύζι</RawRice.label>
-  <RawRice.description>Ωμό ρύζι.</RawRice.description>
-
-  <RawAgave.label>φρούτα αγαύης</RawAgave.label>
-  <RawAgave.description>Ωμά φρούτα από δεντρό αγαύης.</RawAgave.description>
-
-  <RawCorn.label>καλαμπόκι</RawCorn.label>
-  <RawCorn.description>Ωμό καλαμπόκι.</RawCorn.description>
-
-  <RawBerries.label>μούρα</RawBerries.label>
-  <RawBerries.description>Ανάμεικτα μούρα. Νόστιμα ακόμη και ωμά.</RawBerries.description>
-
-
-  <!-- Φυτική ύλη (μη βρώσιμη από τους ανθρώπους) (Plant matter (inedible by people)) -->
-
+  
+  <!-- EN: hay -->
   <Hay.label>σανό</Hay.label>
+  <!-- EN: Nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is good animal feed, but inedible for humans. -->
   <Hay.description>Πλούσια σε θρεπτικά συστατικά χόρτα και βλαστοί, συγκομίζονται και συμπιέζονται για αποθήκευση. Το σανό είναι καλή ζωοτροφή, αλλά δεν είναι βρώσιμο για τον άνθρωπο.</Hay.description>
-
-  <RawHops.label>λυκίσκος</RawHops.label>
-  <RawHops.description>Ακατέργαστος λυκίσκος. Ένας γευστικός και συντηρητικός παράγοντας που είναι απαραίτητο για την παρασκευή μπύρας.</RawHops.description>
-
+  
+  <!-- EN: psychoid leaves -->
   <PsychoidLeaves.label>φύλλα ψυχοειδούς</PsychoidLeaves.label>
-  <PsychoidLeaves.description>Ακατέργαστα κομμένα φύλλα ψυχοειδούς φυτού.</PsychoidLeaves.description>
-
+  <!-- EN: Raw cut leaves of a psychoid plant. Can be refined into various form of the stimulant drug psychite. -->
+  <PsychoidLeaves.description>Ακατέργαστα κομμένα φύλλα ψυχοειδούς φυτού. Μπορούν να διυλιστούν σε διάφορες μορφές του διεγερτικού ναρκωτικού το ψυχηλό</PsychoidLeaves.description>
+  
+  <!-- EN: agave fruit -->
+  <RawAgave.label>φρούτα αγαύης</RawAgave.label>
+  <!-- EN: Raw agave fruit. -->
+  <RawAgave.description>Ωμά φρούτα από δεντρό αγαύης.</RawAgave.description>
+  
+  <!-- EN: berries -->
+  <RawBerries.label>μούρα</RawBerries.label>
+  <!-- EN: Assorted berries. Nice to eat, even when raw. -->
+  <RawBerries.description>Ανάμεικτα μούρα. Νόστιμα ακόμη και ωμά.</RawBerries.description>
+  
+  <!-- EN: corn -->
+  <RawCorn.label>καλαμπόκι</RawCorn.label>
+  <!-- EN: Raw corn. -->
+  <RawCorn.description>Ωμό καλαμπόκι.</RawCorn.description>
+  
+  <!-- EN: raw fungus -->
+  <RawFungus.label>ωμοί μύκητες</RawFungus.label>
+  <!-- EN: Raw fungus. -->
+  <RawFungus.description>Ακατέργστοι μύκητες.</RawFungus.description>
+  
+  <!-- EN: hops -->
+  <RawHops.label>λυκίσκος</RawHops.label>
+  <!-- EN: Raw hops. A flavoring and preserving agent that is necessary for making beer. -->
+  <RawHops.description>Ακατέργαστος λυκίσκος. Ένας γευστικός και συντηρητικός παράγοντας που είναι απαραίτητο για την παρασκευή μπύρας.</RawHops.description>
+  
+  <!-- EN: potatoes -->
+  <RawPotatoes.label>πατάτες</RawPotatoes.label>
+  <!-- EN: Raw potatoes. -->
+  <RawPotatoes.description>Άψητες πατάτες.</RawPotatoes.description>
+  
+  <!-- EN: rice -->
+  <RawRice.label>ρύζι</RawRice.label>
+  <!-- EN: Raw rice. -->
+  <RawRice.description>Ωμό ρύζι.</RawRice.description>
+  
+  <!-- EN: smokeleaf leaves -->
   <SmokeleafLeaves.label>καπνόφυλλα</SmokeleafLeaves.label>
+  <!-- EN: Raw cut leaves of a smokeleaf plant. Can be rolled into smokeable joints at a crafting spot. -->
   <SmokeleafLeaves.description>Τα ακατέργαστα κομμένα φύλλα ενός καπνόφυλλου φυτού. Μπορεί να τυλιχτεί σε τσιγαριλίκι σε ένα σημείο κατασκευών.</SmokeleafLeaves.description>
-
-
+  
 </LanguageData>

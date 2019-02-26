@@ -1,75 +1,138 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Autosaving -->
   <Autosaving>Αυτόματη αποθήκευση</Autosaving>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
   <GameStartDialog>Οι τρεις από εσάς ξυπνάτε στις σαρκοφάγους κρυογονικού ύπνου με τον ήχο των σειρήνων και το σκίσιμο του μετάλλου. Μόλις φτάσετε στις ατράκτους διαφυγής πριν το διαστημόπλοιο διαλυθεί.\n\nΚάποια στιγμή αργότερα, προσγειώνεστε σε αυτό τον άγνωστο εξωπλανήτη.\n\nΚαθώς τα κομμάτια του διαλυμένου αστρόπλοιου πέφτουν γύρω σας, αρχίζετε να σχεδιάζετε πως να επιβιώσετε.</GameStartDialog>
+  <!-- EN: Colony -->
   <Colony>Αποικία</Colony>
+  <!-- EN: You can only change language from the options screen on the main menu. -->
   <ChangeLanguageFromMainMenu>Μπορείς να αλλάξεις γλώσσα μόνο από την οθόνη επιλογών του βασικού μενού.</ChangeLanguageFromMainMenu>
+  <!-- EN: and -->
   <AndLower>και</AndLower>
+  <!-- EN: disabled -->
   <DisabledLower>απενεργοποιημένο</DisabledLower>
 
-
+  <!-- EN: Version {0} -->
   <VersionIndicator>Έκδοση {0}</VersionIndicator>
+  <!-- EN: development build -->
   <DevelopmentBuildLower>ανάπτυξη</DevelopmentBuildLower>
+  <!-- EN: Compiled {0} -->
   <CompiledOn>Σύνταξη {0}</CompiledOn>
+  <!-- EN: Logged into Steam as {0} -->
   <LoggedIntoSteamAs>Είσοδος στη Steam ως {0}</LoggedIntoSteamAs>
 
-  <!-- Γενικής χρήσης λέξεις (General-use words) -->
+  <!-- General-use words -->
+  <!-- EN: Yes -->
   <Yes>Ναι</Yes>
+  <!-- EN: No -->
   <No>Όχι</No>
+  <!-- EN: min -->
   <min>ελάχιστο</min>
+  <!-- EN: max -->
   <max>μέγιστο</max>
+  <!-- EN: chance -->
   <chance>πιθανότητα</chance>
-  <context>συμφραζόμενα </context>
+  <!-- EN: context -->
+  <context>συμπεριλαμβ.</context>
+  <!-- EN: multiplier -->
   <multiplier>πολλαπλασιαστής</multiplier>
+  <!-- EN: damage -->
   <damage>ζημιά</damage>
+  <!-- EN: radius -->
   <radius>εύρος</radius>
+  <!-- EN: duration (days) -->
   <durationDays>διάρκεια (μέρες)</durationDays>
+  <!-- EN: interval (days) -->
   <intervalDays>διάστημα (ημέρες)</intervalDays>
+  <!-- EN: repeat -->
   <repeat>επανάληψη</repeat>
+  <!-- EN: default -->
   <default>προκαθορισμένο</default>
+  <!-- EN: distance -->
   <distance>απόσταση</distance>
+  <!-- EN: YES -->
+  <YesUppercase>ΝΑΙ</YesUppercase>
+  <!-- EN: NO -->
+  <NoUppercase>ΟΧΙ</NoUppercase>
+  <!-- EN: kg -->
+  <kg>κιλά</kg>
+  <!-- EN: Day -->
+  <Day>Μέρα</Day>
+  <!-- EN: day -->
+  <day>μέρα</day>
+  <!-- EN: Default -->
+  <Default>Καθορισμένο</Default>
+  <!-- EN: Average -->
+  <Average>Μέσος</Average>
+  <!-- EN: ${0} -->
+  <MoneyFormat>${0}</MoneyFormat>
 
-  <!-- Δημιουργία περιεχομένου (Content generation)-->
-
-  <MeatLabel>{0} κρέας</MeatLabel>
+  <!-- Content generation-->
+  
+  <!-- EN: {0} meat -->
+  <MeatLabel>κρέας {0}</MeatLabel>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <MeatDesc>Ωμή σφαγμένη σάρκα. Μπορεί να μαγειρευτεί σε γεύματα, ή να φαγωθεί ωμή.</MeatDesc>
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <MeatInsectDesc>Ωμή σφαγμένη σάρκα. Εάν είναι απαραίτητο, μπορεί να μαγειρευτεί σε γεύματα ή ακόμα και καταναλωθεί ωμή. Εξαιρετικά άγευστη.</MeatInsectDesc>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <MeatHumanDesc>Ωμή σφαγμένη σάρκα. Μπορεί να μαγειρευτεί σε γεύματα ή να φαγωθεί ωμή, αν και στους περισσότερους ανθρώπους δεν αρέσει η ιδέα.</MeatHumanDesc>
 
-  <LeatherLabel>{0} δέρμα</LeatherLabel>
-  <LeatherDesc>Αποξηραμένο, στεγνό, γδαρμένο δέρμα. Ένα καλό παραδοσιακό υλικό για ρούχα και τσάντες.</LeatherDesc>
-
-  <CorpseLabel>{0} πτώμα</CorpseLabel>
+  <!-- EN: {0} corpse -->
+  <CorpseLabel>πτώμα {0}</CorpseLabel>
+  <!-- EN: Dead body of a {0}. -->
   <CorpseDesc>Νεκρό σώμα από {0}.</CorpseDesc>
-  <DeadLabel>{0} (νεκρό)</DeadLabel>
+  <!-- EN: {1_label} (dead) -->
+  <DeadLabel>{1_label} (νεκρό)</DeadLabel>
 
+  <!-- EN: rough {0} -->
   <RoughStoneTerrainLabel>τραχύ {0}</RoughStoneTerrainLabel>
+  <!-- EN: Rough, natural {0} ground. -->
   <RoughStoneTerrainDesc>Τραχύ, φυσικό {0} έδαφος.</RoughStoneTerrainDesc>
+  <!-- EN: rough-hewn {0} -->
   <RoughHewnStoneTerrainLabel>ακατέργαστο {0}</RoughHewnStoneTerrainLabel>
+  <!-- EN: Roughly cut natural {0} floor. -->
   <RoughHewnStoneTerrainDesc>Φυσικά κομμένο {0} τραχύ πάτωμα.</RoughHewnStoneTerrainDesc>
+  <!-- EN: smooth {0} -->
   <SmoothStoneTerrainLabel>ομαλό {0}</SmoothStoneTerrainLabel>
+  <!-- EN: Smoothed natural {0} floor. -->
   <SmoothStoneTerrainDesc>Λείο φυσικό {0} πάτωμα.</SmoothStoneTerrainDesc>
 
+  <!-- EN:  (blueprint) -->
   <BlueprintLabelExtra> (σχέδιο)</BlueprintLabelExtra>
+  <!-- EN:  (building) -->
   <FrameLabelExtra> (κτίριο)</FrameLabelExtra>
 
+  <!-- EN: Unaffiliated -->
+  <FactionUnaffiliated>Ακοινώνητη</FactionUnaffiliated>
 
-  <!-- Για πράγματα κατασκευασμένα από υλικό, π.χ. "Πέτρινο κρεβάτι" (For things made of stuff, e.g. "Stone bed") -->
-  <!-- 0 είναι η ιδιότητα thingsAdjective κάτω από stuffProps και το 1 είναι η ετικέτα (0 is the stuffAdjective property under stuffProps and 1 is the label) -->
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <!-- EN: {0} {1} -->
   <ThingMadeOfStuffLabel>{1} από {0}</ThingMadeOfStuffLabel>
 
-  <SomeonesRoom>{1} του {0}</SomeonesRoom>
-  <CouplesRoom>{2} του {0} και του {1}</CouplesRoom>
-
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <SomeonesRoom>{1} {PAWN_possessive} {PAWN_labelShort}</SomeonesRoom>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
+  <CouplesRoom>{2} {PAWN1_possessive} {PAWN1_labelShort} και {PAWN2_possessive} {PAWN2_labelShort}</CouplesRoom>
+  
+  <!-- EN: (various) -->
   <VariousLabel>(διάφορα)</VariousLabel>
 
-  <!-- Ιστορικά γεγονότα (History events) -->
+  <!-- History events -->
+  <!-- EN: Colonist died -->
   <ColonistDied>Πεθαμένοι άποικοι</ColonistDied>
-
-  <!-- Περιστροφή (Rotation) -->
+  
+  <!-- Rotation -->
+  <!-- EN: North -->
   <North>Βοράς</North>
+  <!-- EN: South -->
   <South>Νότος</South>
+  <!-- EN: West -->
   <West>Ανατολή</West>
+  <!-- EN: East -->
   <East>Δύση</East>
-
 
 </LanguageData>

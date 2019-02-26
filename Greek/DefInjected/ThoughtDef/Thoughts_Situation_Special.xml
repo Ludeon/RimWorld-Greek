@@ -1,55 +1,81 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <FeelingRandom.stages.0.label>Νιώθει υπέροχα</FeelingRandom.stages.0.label>
-  <FeelingRandom.stages.0.description>Χωρίς προφανή λόγο, αισθάνομαι καταπληκτικά τώρα.</FeelingRandom.stages.0.description>
-  <FeelingRandom.stages.1.label>Νιώθει καλά</FeelingRandom.stages.1.label>
-  <FeelingRandom.stages.1.description>Χωρίς προφανή λόγο, αισθάνομαι όμορφα τώρα.</FeelingRandom.stages.1.description>
-  <FeelingRandom.stages.2.label>Νιώθει άσχημα</FeelingRandom.stages.2.label>
-  <FeelingRandom.stages.2.description>Χωρίς προφανή λόγο, αισθάνομαι άβολα τώρα.</FeelingRandom.stages.2.description>
-  <FeelingRandom.stages.3.label>Νιώθει απαίσια</FeelingRandom.stages.3.label>
-  <FeelingRandom.stages.3.description>Χωρίς προφανή λόγο, αισθάνομαι φριχτά τώρα.</FeelingRandom.stages.3.description>
-
-  <Imprisoned.stages.0.label>φυλακισμένος</Imprisoned.stages.0.label>
-  <Imprisoned.stages.0.description>Σιχαίνομαι να με έχουν κλειδωμένο.</Imprisoned.stages.0.description>
-
-  <SharedBed.stages.0.label>μοιράζετε το κρεβάτι</SharedBed.stages.0.label>
-  <SharedBed.stages.0.description>Πρέπει να μοιραστώ ένα κρεβάτι με κάποιον που δεν συμπαθώ ιδιαίτερα.</SharedBed.stages.0.description>
-
-  <ColonistLeftUnburied.stages.0.label>άθαφτος άποικος</ColonistLeftUnburied.stages.0.label>
-  <ColonistLeftUnburied.stages.0.description>Ένας από μας πέθανε και εμείς αφήνουμε το σώμα του να κείτεται στα ανοιχτά. Κανείς δεν το αξίζει αυτό. Όλοι οι άνθρωποι αξίζουν μία αξιοπρεπής ταφή.</ColonistLeftUnburied.stages.0.description>
-
-  <Naked.stages.0.label>γυμνός</Naked.stages.0.label>
-  <Naked.stages.0.description>Είμαι γυμνός. Αυτό είναι ταπεινωτικό.</Naked.stages.0.description>
-
-  <Pain.stages.0.label>με λίγο πόνο</Pain.stages.0.label>
-  <Pain.stages.0.description>Όου... αυτό πόνεσε.</Pain.stages.0.description>
-  <Pain.stages.1.label>με μέτριο πόνο</Pain.stages.1.label>
-  <Pain.stages.1.description>Γιάχ... Πότε θα σταματήσει;</Pain.stages.1.description>
-  <Pain.stages.2.label>αντιμετωπίζοντας οξύ πόνο</Pain.stages.2.label>
-  <Pain.stages.2.description>Κάντο να σταματήσει... κάντο να σταματήσει... κάντο να σταματήσει...</Pain.stages.2.description>
-  <Pain.stages.3.label>σε σοκ από τον υπερβολικό πόνο</Pain.stages.3.label>
-  <Pain.stages.3.description>ΑΑΑΑΑααα! Σκότωσέ με τώρα!</Pain.stages.3.description>
-
-  <PsychicEmanatorSoothe.stages.0.label>παροχή ψυχικής καταπράυνσης</PsychicEmanatorSoothe.stages.0.label>
-  <PsychicEmanatorSoothe.stages.0.description>Η ψυχική γεννήτρια με κάνει να νιώθω περίεργα, αλλά και πολύ χαλαρά.</PsychicEmanatorSoothe.stages.0.description>
-
-  <PsychicDrone.stages.0.label>ψυχική καταπράυνση (μέτρια)</PsychicDrone.stages.0.label>
-  <PsychicDrone.stages.0.description>Είναι σαν μια ήρεμη φωνή στο πίσω μέρος του μυαλού μου, με καταπραΰνει, καλμάροντας τα νεύρα μου.</PsychicDrone.stages.0.description>
-  <PsychicDrone.stages.1.label>ψυχικό δρώμενο (ελάχιστο)</PsychicDrone.stages.1.label>
-  <PsychicDrone.stages.1.description>Νιώθω κάτι να με γαργαλάει το πίσω μέρος του μυαλού μου. Μια φωνή, ψιθυρίζει. Μπορώ να καταλάβω μόνο λίγες λέξεις, όμως δεν μου αρέσουν.</PsychicDrone.stages.1.description>
-  <PsychicDrone.stages.2.label>ψυχικό δρώμενο (κανονικό)</PsychicDrone.stages.2.label>
-  <PsychicDrone.stages.2.description>Νιώθω ότι κάποιος με παρακολουθεί και μου μιλάει. Η φωνή αλλάζει αλλά όχι το μήνυμα. Μου λέει ότι πρέπει να βλάψω ανθρώπους. Κάντε το να φύγει!</PsychicDrone.stages.2.description>
-  <PsychicDrone.stages.3.label>ψυχικό δρώμενο (υψηλό)</PsychicDrone.stages.3.label>
-  <PsychicDrone.stages.3.description>Η φωνή είναι δυσβάσταχτα δυνατή. Είναι δύσκολο να συγκεντρωθείς. Βρίσκω τον εαυτό μου να μιλάει με αυτό, να του φωνάζει. Όμως αυτό συνεχίζει να ουρλιάζει!</PsychicDrone.stages.3.description>
-  <PsychicDrone.stages.4.label>ψυχικό δρώμενο (ακραίο)</PsychicDrone.stages.4.label>
-  <PsychicDrone.stages.4.description>Η καρδιά μου σφυροκοπεί και ιδρώνω. Το μόνο που μπορώ να σκεφτώ είναι θάνατος και βάσανα και όλοι είναι εχθροί γύρο μου! Είναι ο εφιάλτης μου, ο εφιάλτης μου, ο εφιάλτης μου...</PsychicDrone.stages.4.description>
-
-  <Joywire.stages.0.label>καλώδιο της χαράς</Joywire.stages.0.label>
-  <Joywire.stages.0.description>Αισθάνομαι καταπληκτικά.</Joywire.stages.0.description>
-
-  <Aurora.stages.0.label>όμορφη αυγή</Aurora.stages.0.label>
-  <Aurora.stages.0.description>Η θέα είναι μαγευτική.</Aurora.stages.0.description>
-
-
+  
+  <!-- EN: beautiful aurora -->
+  <Aurora.stages.beautiful_aurora.label>όμορφο σέλας</Aurora.stages.beautiful_aurora.label>
+  <!-- EN: The view is amazing. -->
+  <Aurora.stages.beautiful_aurora.description>Η θέα είναι μαγευτική.</Aurora.stages.beautiful_aurora.description>
+  
+  <!-- EN: colonist left unburied -->
+  <ColonistLeftUnburied.stages.colonist_left_unburied.label>άθαφτος άποικος</ColonistLeftUnburied.stages.colonist_left_unburied.label>
+  <!-- EN: One of us died and we're just leaving them lying in the open. Nobody should be left like that. People deserve a decent burial. -->
+  <ColonistLeftUnburied.stages.colonist_left_unburied.description>Ένας από μας πέθανε και εμείς αφήνουμε το σώμα του να κείτεται στα ανοιχτά. Κανείς δεν το αξίζει αυτό. Όλοι οι άνθρωποι αξίζουν μία αξιοπρεπής ταφή.</ColonistLeftUnburied.stages.colonist_left_unburied.description>
+  
+  <!-- EN: minor passion for my work -->
+  <DoingPassionateWork.stages.minor_passion_for_my_work.label>μικρό πάθος για τη δουλειά μου</DoingPassionateWork.stages.minor_passion_for_my_work.label>
+  <!-- EN: I enjoy my work. -->
+  <DoingPassionateWork.stages.minor_passion_for_my_work.description>Απολαμβάνω τη δουλειά μου.</DoingPassionateWork.stages.minor_passion_for_my_work.description>
+  <!-- EN: burning passion for my work -->
+  <DoingPassionateWork.stages.burning_passion_for_my_work.label>φλογερό πάθος για τη δουλειά μου</DoingPassionateWork.stages.burning_passion_for_my_work.label>
+  <!-- EN: I love my work. I could do this all day, every day. -->
+  <DoingPassionateWork.stages.burning_passion_for_my_work.description>Αγαπάω τη δουλειά μου. Θα μπορούσα να την κάνω όλη μέρα, κάθε μέρα.</DoingPassionateWork.stages.burning_passion_for_my_work.description>
+  
+  <!-- EN: joywire -->
+  <Joywire.stages.joywire.label>καλώδιο της χαράς</Joywire.stages.joywire.label>
+  <!-- EN: It feels amazing. -->
+  <Joywire.stages.joywire.description>Αισθάνομαι καταπληκτικά.</Joywire.stages.joywire.description>
+  
+  <!-- EN: naked -->
+  <Naked.stages.naked.label>γυμνός</Naked.stages.naked.label>
+  <!-- EN: I'm naked. This is humiliating. -->
+  <Naked.stages.naked.description>Είμαι γυμνός. Αυτό είναι ταπεινωτικό.</Naked.stages.naked.description>
+  
+  <!-- EN: minor pain -->
+  <Pain.stages.minor_pain.label>με λίγο πόνο</Pain.stages.minor_pain.label>
+  <!-- EN: Ow... That hurts. -->
+  <Pain.stages.minor_pain.description>Όου... αυτό πόνεσε.</Pain.stages.minor_pain.description>
+  <!-- EN: serious pain -->
+  <Pain.stages.serious_pain.label>με μέτριο πόνο</Pain.stages.serious_pain.label>
+  <!-- EN: Ughhh... When will it end? -->
+  <Pain.stages.serious_pain.description>Γιάχ... Πότε θα σταματήσει;</Pain.stages.serious_pain.description>
+  <!-- EN: intense pain -->
+  <Pain.stages.intense_pain.label>αντιμετωπίζοντας οξύ πόνο</Pain.stages.intense_pain.label>
+  <!-- EN: Make it stop... make it stop... make it stop... -->
+  <Pain.stages.intense_pain.description>Κάντο να σταματήσει... κάντο να σταματήσει... κάντο να σταματήσει...</Pain.stages.intense_pain.description>
+  <!-- EN: mind-shattering pain -->
+  <Pain.stages.mindshattering_pain.label>σε σοκ από τον υπερβολικό πόνο</Pain.stages.mindshattering_pain.label>
+  <!-- EN: AAAAAHHH! -->
+  <Pain.stages.mindshattering_pain.description>ΑΑΑΑΑααα! Σκότωσέ με τώρα!</Pain.stages.mindshattering_pain.description>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicDrone.stages.psychic_soothe.label>ψυχική καταπράυνση</PsychicDrone.stages.psychic_soothe.label>
+  <!-- EN: It's like a calming voice at the back of my mind, soothing me, settling my nerves. -->
+  <PsychicDrone.stages.psychic_soothe.description>Είναι σαν μια ήρεμη φωνή στο πίσω μέρος του μυαλού μου, με καταπραΰνει, καλμάροντας τα νεύρα μου.</PsychicDrone.stages.psychic_soothe.description>
+  <!-- EN: low psychic drone -->
+  <PsychicDrone.stages.low_psychic_drone.label>μικρό ψυχικό δρώμενο</PsychicDrone.stages.low_psychic_drone.label>
+  <!-- EN: It's like a scratching at the back of my mind. A voice, whispering. I can only make out a few words, and I don't like them. -->
+  <PsychicDrone.stages.low_psychic_drone.description>Νιώθω κάτι να με γαργαλάει το πίσω μέρος του μυαλού μου. Μια φωνή, ψιθυρίζει. Μπορώ να καταλάβω μόνο λίγες λέξεις, όμως δεν μου αρέσουν.</PsychicDrone.stages.low_psychic_drone.description>
+  <!-- EN: moderate psychic drone -->
+  <PsychicDrone.stages.moderate_psychic_drone.label>κανονικό ψυχικό δρώμενο</PsychicDrone.stages.moderate_psychic_drone.label>
+  <!-- EN: I feel like someone is always just out of sight, speaking to me. The voice changes but the message doesn't. I'm supposed to hurt people. Make it go away! -->
+  <PsychicDrone.stages.moderate_psychic_drone.description>Νιώθω ότι κάποιος με παρακολουθεί και μου μιλάει. Η φωνή αλλάζει αλλά όχι το μήνυμα. Μου λέει ότι πρέπει να βλάψω ανθρώπους. Κάντε το να φύγει!</PsychicDrone.stages.moderate_psychic_drone.description>
+  <!-- EN: high psychic drone -->
+  <PsychicDrone.stages.high_psychic_drone.label>μεγάλο ψυχικό δρώμενο</PsychicDrone.stages.high_psychic_drone.label>
+  <!-- EN: The voice is unbearably loud. It's hard to concentrate. I find myself talking back to it, yelling at it. But it just keeps shouting! -->
+  <PsychicDrone.stages.high_psychic_drone.description>Η φωνή είναι δυσβάσταχτα δυνατή. Είναι δύσκολο να συγκεντρωθείς. Βρίσκω τον εαυτό μου να μιλάει με αυτό, να του φωνάζει. Όμως αυτό συνεχίζει να ουρλιάζει!</PsychicDrone.stages.high_psychic_drone.description>
+  <!-- EN: extreme psychic drone -->
+  <PsychicDrone.stages.extreme_psychic_drone.label>ακραίο ψυχικό δρώμενο</PsychicDrone.stages.extreme_psychic_drone.label>
+  <!-- EN: My heart pounds and I'm sweating. All I can think of is hurting and suffering and all these enemies around me. They're my nightmare, my nightmare, my nightmare... -->
+  <PsychicDrone.stages.extreme_psychic_drone.description>Η καρδιά μου σφυροκοπεί και ιδρώνω. Το μόνο που μπορώ να σκεφτώ είναι θάνατος και βάσανα και ότι όλοι είναι εχθροί γύρω μου! Είναι ο εφιάλτης μου, ο εφιάλτης μου, ο εφιάλτης μου...</PsychicDrone.stages.extreme_psychic_drone.description>
+  
+  <!-- EN: psychic emanator soothe -->
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>παροχή ψυχικής καταπράυνσης</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>
+  <!-- EN: The psychic emanator makes me feel strange, but also very relaxed. -->
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>Η ψυχική γεννήτρια με κάνει να νιώθω περίεργα, αλλά και πολύ χαλαρά.</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>
+  
+  <!-- EN: sharing bed -->
+  <SharedBed.stages.sharing_bed.label>μοιράζετε το κρεβάτι</SharedBed.stages.sharing_bed.label>
+  <!-- EN: I have to share a bed with someone who I don't particularly want to. -->
+  <SharedBed.stages.sharing_bed.description>Πρέπει να μοιραστώ ένα κρεβάτι με κάποιον που δεν συμπαθώ ιδιαίτερα.</SharedBed.stages.sharing_bed.description>
+  
 </LanguageData>

@@ -1,190 +1,391 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Jump to location -->
   <JumpToLocation>Μετάβαση στην τοποθεσία</JumpToLocation>
+  <!-- EN: Postpone -->
   <PostponeLetter>Αναβολή</PostponeLetter>
+  <!-- EN: Reject -->
   <RejectLetter>Απόρριψη</RejectLetter>
-
+  
+  <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>Καλοκαίρι</LetterLabelFirstSummerWarning>
-  <FirstSummerWarning>Το καλοκαίρι έχει αρχίσει! Αλλά ο χειμώνας έρχεται.\n\nΟι βρώσιμες καλλιέργειες σας δεν θα αναπτυχθούν το χειμώνα. Φροντίστε να αποθηκεύσετε τώρα τρόφιμα για αρκετές ημέρες, ενώ μπορείτε ακόμα.\n\nΜπορείτε να φτιάξετε ένα δωμάτιο ψυγείου για να αποφύγετε την αλλοίωση των τροφίμων.\n\nΚαι προσπαθήστε να αγοράσετε, να κλέψετε ή να φτιάξετε μερικά άνορακ (παλτό με κουκούλα), αλλιώς θα παγώσετε όταν βγείτε έξω.</FirstSummerWarning>
+  <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
+  <FirstSummerWarning>Το καλοκαίρι έχει αρχίσει! Αλλά ο χειμώνας έρχεται.\n\nΟι βρώσιμες καλλιέργειες σας δεν θα αναπτυχθούν το χειμώνα. Φροντίστε να αποθηκεύσετε τρόφιμα για αρκετές ημέρες. Μπορείτε να φτιάξετε ένα δωμάτιο ψυγείου για να αποφύγετε την αλλοίωση των τροφίμων.\n\nΑγοράστε, κλέψτε ή φτιάξτε μερικά άνορακ (παλτό με κουκούλα), αλλιώς θα παγώσετε όταν βγείτε έξω.</FirstSummerWarning>
 
-  <RelationsBrokenDown>Οι σχέσεις με τους {0} έχουν χαλάσει. Τώρα είναι εχθρικοί προς εσάς.</RelationsBrokenDown>
-  <RelationsWarmed>Οι σχέσεις με τους {0} έχουν αναθερμανθεί. Δεν είναι πλέων εχθρικοί προς εσάς.</RelationsWarmed>
+  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
+  <LetterRelationsChange_Hostile>Οι σχέσεις με τους {0} έχουν καταστραφεί πλήρως. Τώρα είναι εχθρικοί προς εσάς.\n\nΘα κάνουν περιοδικές επιδρομές στην αποικία και τα καραβάνια σας και θα αρνηθούν να συνδιαλλαγούν μαζί σας. Εάν θέλετε να βελτιώσετε τις σχέσεις, μπορείτε ακόμα να τους προσφέρετε δώρα χρησιμοποιώντας καραβάνια ή ατράκτους μεταφοράς.\n\nΑυτό συνέβη επειδή η καλή διάθεση ({1}) έπεσε κάτω από {2}. Προκειμένου να αποκατασταθούν οι ουδέτερες σχέσεις, η καλή διάθεση πρέπει να φτάσει ξανά στο {3}.</LetterRelationsChange_Hostile>
+  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
+  <LetterRelationsChange_NeutralFromHostile>Οι σχέσεις με τους {0} έχουν θερμανθεί. Τώρα σας θεωρούν ουδέτερο και δεν θα σας επιτεθούν πλέον.\n\nΑυτό συνέβη επειδή η καλή θέληση ({1}) έχει αυξηθεί πέρα από {2}. Εάν η καλή θέληση πέσει κάτω από {3}, οι {0} θα γίνουν εχθρικοί ξανά. Αν η καλή θέληση ξεπεράσει το {4}, θα γίνουν σύμμαχοί σας και θα αγωνιστούν για σας.</LetterRelationsChange_NeutralFromHostile>
+  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
+  <LetterRelationsChange_NeutralFromAlly>Οι σχέσεις με τους {0} έχουν παγώσει. Σας θεωρούν πλέον ουδέτερο αντί για σύμμαχους.\n\nΕνώ θα εξακολουθούν να αλληλεπιδρούν ειρηνικά μαζί σας, δεν θα στέλνουν πλέον μαχητές για να σας βοηθήσουν όταν απειλείστε.\n\nΑυτό συνέβη επειδή η καλή θέληση ({1}) έπεσε κάτω από {2}. Εάν η καλή θέληση πέσει κάτω από {3}, οι {0} θα γίνουν εχθρικοί. Εάν η καλή θέληση ανεβαίνει πάνω από {4}, θα γίνουν σύμμαχοί σας για άλλη μια φορά.</LetterRelationsChange_NeutralFromAlly>
+  <!-- EN: Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral. -->
+  <LetterRelationsChange_Ally>Οι σχέσεις με τους {0} έχουν έρθει πολύ κοντά. Σας θεωρούν πλέον σύμμαχο.\n\nΩς σύμμαχοι θα έρθουν μερικές φορές για να σας βοηθήσουν στην καταπολέμηση των εχθρών σας όταν δέχεστε επίθεση. Μπορείτε επίσης να τους καλέσετε για βοήθεια ανά πάσα στιγμή, με κόστος καλή θέληση.\n\nΈχετε γίνει σύμμαχος επειδή η καλή σας θέληση ({1}) έχει αυξηθεί πέρα από {2}. Εάν η καλή θέληση πέσει κάτω από {3}, οι σχέσεις θα γίνουν ουδέτερες.</LetterRelationsChange_Ally>
 
-  <RelationsBrokenCapture>Επειδή έχετε συλλάβει {0}, τώρα οι {1} είναι εχθρός σας.</RelationsBrokenCapture>
-
-  <ColonyGoodwill>Εύνοια αποικίας</ColonyGoodwill>
+  <!-- EN: goodwill -->
+  <goodwill>εύνοια</goodwill>
+  <!-- EN: Neutral -->
   <Neutral>Ουδέτερη</Neutral>
+  <!-- EN: Death -->
+  <Death>Θάνατος</Death>
 
-  <ShortCircuitRain>Ένα {0} έχει βραχυκυκλωθεί στη βροχή και ξεκίνησε μια φωτιά.</ShortCircuitRain>
+  <!-- EN: A {1_label} has short-circuited in the rain and started a fire. -->
+  <ShortCircuitRain>Ένα {1_label} έχει βραχυκυκλωθεί στη βροχή και ξεκίνησε μια φωτιά.</ShortCircuitRain>
 
+  <!-- EN: Area revealed -->
   <LetterLabelAreaRevealed>Αποκάλυψη περιοχής</LetterLabelAreaRevealed>
+  <!-- EN: A new area has been revealed. -->
   <AreaRevealed>Μία νέα περιοχή έχει ανακαλυφθεί.</AreaRevealed>
+  <!-- EN: A new area has been revealed. It contains ancient, hostile mechanoids. -->
   <AreaRevealedWithMechanoids>Μία νέα περιοχή έχει ανακαλυφθεί. Περιέχει αρχαία, εχθρικά μηχανοειδή.</AreaRevealedWithMechanoids>
 
+  <!-- EN: A roof has collapsed because it was too far from any support. -->
   <RoofCollapsed>Μια στέγη έχει καταρρεύσει επειδή επεκτείνετε πολύ χωρίς οποιαδήποτε στήριξη.</RoofCollapsed>
+  <!-- EN: These things were crushed: -->
   <TheseThingsCrushed>Αυτά τα αντικείμενα έσπασαν:</TheseThingsCrushed>
+  <!-- EN: Nothing was crushed. -->
   <NothingCrushed>Τίποτα δεν έσπασε.</NothingCrushed>
+  <!-- EN: Roof collapse -->
   <LetterLabelRoofCollapsed>Κατάρρευση οροφής</LetterLabelRoofCollapsed>
+  
+  <!-- EN: {0} successfully recruited {1} ({2} chance). -->
+  <RecruitSuccess>{0} στρατολόγησε με επιτυχία {1_objective} {1} ({2} πιθανότητα).</RecruitSuccess>
+  <!-- EN: {0} failed to recruit {1} ({2} chance). -->
+  <RecruitFail>{0} απέτυχε να στρατολογήσει {1_objective} {1} ({2} πιθανότητα).</RecruitFail>
 
-  <RecruitSuccess>{0} στρατολόγησε με επιτυχία {1} ({2} πιθανότητα).</RecruitSuccess>
-  <RecruitFail>{0} απέτυχε να στρατολογήσει {1} ({2} πιθανότητα).</RecruitFail>
+  <!-- EN: {PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time. -->
+  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} είναι {1} {RELATIVE_possessive} {RELATIVE_labelShort}. Εάν {PAWN_nameDef} πεθάνει, {RELATIVE_labelShort} θα υποφέρει από μακρόχρονη θλίψη. Ωστόσο, εάν καταφέρετε να σώσετε {PAWN_objective} {PAWN_nameDef}, {RELATIVE_labelShort} θα είναι πολύ χαρούμενος για πολύ καιρό.</RelatedPawnInvolvedInQuest>
 
-  <RelatedPawnInvolvedInQuest>NAME είναι {1} του {0}. Εάν NAME πεθάνει, {0} θα υποφέρει από μακρόχρονη θλίψη. Ωστόσο, εάν καταφέρετε να σώσετε NAME, {0} θα είναι πολύ χαρούμενος για πολύ καιρό.</RelatedPawnInvolvedInQuest>
-
+  <!-- EN: Birthday -->
   <LetterLabelBirthday>Γενέθλια</LetterLabelBirthday>
+  <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
   <BirthdayChronological>Είναι τα χρονολογικά γενέθλια του {0} σήμερα! Βιολογικά, {1} είναι {3} ετών.\n\nΧρονολογικά, {1} μόλις έγινε {2}.\n\nΣημειώστε ότι από τη στιγμή που οι άνθρωποι βρίσκονται σε κρυογονικό λήθαργο δεν γερνούν, τα χρονολογικά γενέθλια είναι ξεχωριστά από τα βιολογικά γενέθλια.</BirthdayChronological>
-  <BirthdayBiologicalAgeInjuries>{0} έχει φτάσει στη βιολογική ηλικία {1}.\n\nΔυστυχώς, {0} έχει αποκτήσει τις ακόλουθες ασθένειες λόγω γήρανσης:\n{2}</BirthdayBiologicalAgeInjuries>
+  <!-- EN: {0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2} -->
+  <BirthdayBiologicalAgeInjuries>{0_nameFull} έχει φτάσει στη βιολογική ηλικία {1}.\n\nΔυστυχώς, {0_nameFull} έχει αποκτήσει τις ακόλουθες ασθένειες λόγω γήρανσης:\n{2}</BirthdayBiologicalAgeInjuries>
 
+  <!-- EN: Disease -->
   <LetterLabelNewDisease>Ασθένεια</LetterLabelNewDisease>
-  <NewDisease>{0} έχει αρρωστήσει από {1}.\n\nΒεβαιωθείτε ότι έχετε ένα ιατρικό κρεβάτι και ένα γιατρό. Βεβαιωθείτε ότι {2} παίρνει τη σωστή θεραπεία και ξοδεύει όσο το δυνατόν περισσότερο χρόνο στο κρεβάτι.</NewDisease>
-  <NewPartDisease>{0} έχει αρρωστήσει από {3}. Η μόλυνση βρίσκεται στο HIS {1}\n\nΒεβαιωθείτε ότι έχετε ένα ιατρικό κρεβάτι και ένα γιατρό. Βεβαιωθείτε ότι {2} παίρνει τη σωστή θεραπεία και ξοδεύει όσο το δυνατόν περισσότερο χρόνο στο κρεβάτι.</NewPartDisease>
+  <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
+  <NewDisease>{PAWN} έχει αρρωστήσει από {1}.\n\nΒεβαιωθείτε ότι έχετε ένα ιατρικό κρεβάτι και ένα γιατρό. Βεβαιωθείτε ότι {PAWN_definite} παίρνει τη σωστή θεραπεία και ξοδεύει όσο το δυνατόν περισσότερο χρόνο στο κρεβάτι.</NewDisease>
+  <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
+  <NewPartDisease>{PAWN} έχει αρρωστήσει από {3}. Η μόλυνση {PAWN_possessive} βρίσκεται στο {1}\n\nΒεβαιωθείτε ότι έχετε ένα ιατρικό κρεβάτι και ένα γιατρό. Βεβαιωθείτε ότι {PAWN_definite} παίρνει τη σωστή θεραπεία και ξοδεύει όσο το δυνατόν περισσότερο χρόνο στο κρεβάτι.</NewPartDisease>
+  <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
+  <NewDiseaseAnimal>{PAWN_labelShort} έχει αναπτύξει μια ασθένεια: {1}</NewDiseaseAnimal>
+  <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
+  <NewPartDiseaseAnimal>{PAWN_labelShort} έχει αναπτύξει μια ασθένεια: {3} στο {1} {PAWN_possessive}</NewPartDiseaseAnimal>
 
-  <PawnWasFormerlyColonist>{0} ήταν παλαιότερα μέλος της φατρία σας.</PawnWasFormerlyColonist>
-  <PawnHasTheseRelationshipsWithColonists>{0} έχει αυτές τις σχέσεις με τους αποίκους σας:</PawnHasTheseRelationshipsWithColonists>
-  <PrisonerRescueTimeout>Η κατασκήνωση θα εξαφανιστεί μετά από {0} ημέρες. Αν χάσετε αυτήν την ευκαιρία, ίσως να μην ακούσετε ξανά για {1}.</PrisonerRescueTimeout>
+  <!-- EN: {1_labelShort} was formerly part of your faction. -->
+  <PawnWasFormerlyColonist>{1_labelShort} ήταν παλαιότερα μέλος της φατρία σας.</PawnWasFormerlyColonist>
+  <!-- EN: {1_labelShort} has these relationships with your colonists: -->
+  <PawnHasTheseRelationshipsWithColonists>{1_labelShort} έχει αυτές τις σχέσεις με τους αποίκους σας:</PawnHasTheseRelationshipsWithColonists>
+  <!-- EN: The camp will disappear after {0} days. If you miss this opportunity, you may never hear from {PRISONER_labelShort} again. -->
+  <PrisonerRescueTimeout>Η κατασκήνωση θα εξαφανιστεί μετά από {0} ημέρες. Αν χάσετε αυτήν την ευκαιρία, ίσως να μην ακούσετε ξανά για {PRISONER_objective} {PRISONER_labelShort}.</PrisonerRescueTimeout>
 
+  <!-- EN: Ancient danger -->
   <LetterLabelAncientShrineWarning>Αρχαίος κίνδυνος</LetterLabelAncientShrineWarning>
-  <AncientShrineWarning>Καθώς {0} πλησιάζει κοντά στον αρχαίο τοίχο, μια αίσθηση ανησυχίας καταβάλει HIM. HECAP δεν είναι σίγουρος γιατί, αλλά HE αισθάνεται ότι αυτή η σκονισμένη δομή μπορεί να περιέχει μεγάλο κίνδυνο.</AncientShrineWarning>
+  <!-- EN: As {0} draws near the ancient wall, a sense of foreboding overcomes {PAWN_objective}. {PAWN_pronoun} isn't sure why, but {PAWN_pronoun} feels that this dusty structure may contain great danger. -->
+  <AncientShrineWarning>Καθώς {0} πλησιάζει κοντά στον αρχαίο τοίχο, μια αίσθηση ανησυχίας {PAWN_objective} καταβάλει. {PAWN_pronoun} δεν είναι σίγουρος γιατί, αλλά {PAWN_pronoun} αισθάνεται ότι αυτή η σκονισμένη δομή μπορεί να περιέχει μεγάλο κίνδυνο.</AncientShrineWarning>
 
+  <!-- EN: We have struck {0}! -->
   <StruckMineable>Έχουμε χτυπήσει {0}!</StruckMineable>
 
+  <!-- EN: {0} revenge -->
   <LetterLabelAnimalManhunterRevenge>{0} εκδίκηση</LetterLabelAnimalManhunterRevenge>
-  <AnimalManhunterFromDamage>Ένα {0} επιτίθεται αφότου πληγώθηκε!</AnimalManhunterFromDamage>
-  <AnimalManhunterFromTaming>Το {0} επιτίθεται λόγω μιας προσπάθειας εξημέρωσης!</AnimalManhunterFromTaming>
-  <AnimalManhunterOthers>Άλλα {0} εκεί κοντά έχουν επίσης εξοργισθεί!</AnimalManhunterOthers>
+  <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
+  <AnimalManhunterFromDamage>Ένα {1_indefinite} επιτίθεται αφότου πληγώθηκε!\n\nΘα κυνηγάει κάθε ανθρωποειδές που μπορεί να φτάσει. Θα ηρεμήσει όταν πάει για ύπνο.</AnimalManhunterFromDamage>
+  <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
+  <AnimalManhunterFromTaming>Το {1_indefinite} επιτίθεται λόγω μιας προσπάθειας εξημέρωσης!</AnimalManhunterFromTaming>
+  <!-- EN: Other {1_kindBasePlural} nearby have also become enraged! -->
+  <AnimalManhunterOthers>Άλλα {1_kindBasePlural} εκεί κοντά έχουν επίσης εξοργισθεί!</AnimalManhunterOthers>
 
-  <LetterFriendlyTrapSprungLabel>{0} κτύπησε από παγίδα</LetterFriendlyTrapSprungLabel>
-  <LetterFriendlyTrapSprung>{0} πείραξε κατά λάθος μια παγίδα και λαβώθηκε από αυτή.</LetterFriendlyTrapSprung>
+  <!-- EN: {1_labelShort} hit trap -->
+  <LetterFriendlyTrapSprungLabel>{1_labelShort} κτύπησε στην παγίδα</LetterFriendlyTrapSprungLabel>
+  <!-- EN: {1_labelShort} has accidentally sprung a trap and taken damage from it. -->
+  <LetterFriendlyTrapSprung>{1_labelShort} πείραξε κατά λάθος μια παγίδα και λαβώθηκε από αυτή.</LetterFriendlyTrapSprung>
 
-  <LetterHealthComplications>{0} έχει αναπτύξει μια υγιεινή κατάσταση:\n\n  {1}\n\nΠροκλήθηκε από:\n\n  {2}</LetterHealthComplications>
-  <LetterHealthComplicationsLabel>{0}: {1}</LetterHealthComplicationsLabel>
-
-  <LetterHediffFromRandomHediffGiver>{0} έχει αναπτύξει μια υγιεινή κατάσταση: {1}.</LetterHediffFromRandomHediffGiver>
-  <LetterHediffFromRandomHediffGiverLabel>{0}: {1}</LetterHediffFromRandomHediffGiverLabel>
-
+  <!-- EN: {PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2} -->
+  <LetterHealthComplications>{PAWN_labelShort} έχει αναπτύξει μια υγιεινή κατάσταση:\n\n  {1}\n\nΠροκλήθηκε από:\n\n  {2}</LetterHealthComplications>
+  <!-- EN: {PAWN_labelShort}: {1} -->
+  <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
+  
+  <!-- EN: {PAWN_labelShort} has developed a health condition: {1}. -->
+  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort} έχει αναπτύξει μια υγιεινή κατάσταση: {1}.</LetterHediffFromRandomHediffGiver>
+  <!-- EN: {PAWN_labelShort}: {1} -->
+  <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}: {1}</LetterHediffFromRandomHediffGiverLabel>
+  
+  <!-- EN: {1} died: {0} -->
   <LetterLeadersDeathLabel>{1} πέθανε: {0}</LetterLeadersDeathLabel>
-  <LetterLeadersDeath>{0}, {3} από {1}, έχει πεθάνει.\n\nΤο νέο {3} είναι {2}.</LetterLeadersDeath>
+  <!-- EN: {OLDLEADER_nameFull}, {3} of {1}, has died.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
+  <LetterLeadersDeath>{OLDLEADER_nameFull}, {3} από {1}, έχει πεθάνει.\n\nΟ νέος {3} είναι {NEWLEADER_nameFull}.</LetterLeadersDeath>
 
+  <!-- EN: New {1}: {0} -->
   <LetterLeaderChangedLabel>Νέο {1}: {0}</LetterLeaderChangedLabel>
-  <LetterLeaderChanged>{0} δεν είναι πλέον {3} από {1}.\n\nΤο νέο {3} είναι {2}.</LetterLeaderChanged>
-
-  <MentalBreakLetterLabel>Ψυχολογική κατάρρευση</MentalBreakLetterLabel>
+  <!-- EN: {OLDLEADER_nameFull} is no longer {3} of {1}.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
+  <LetterLeaderChanged>{OLDLEADER_nameFull} δεν είναι πλέον {3} από {1}.\n\nΟ νέος {3} είναι {NEWLEADER_nameFull}.</LetterLeaderChanged>
+  
+  <!-- EN: The final straw was: {0} -->
   <FinalStraw>Η τελική σταγόνα που ξεχείλισε το ποτήρι ήταν: {0}.</FinalStraw>
+  <!-- EN: This happened because of poor mood. -->
+  <MentalStateReason_Mood>Αυτό συνέβη εξαιτίας της κακής διάθεσης</MentalStateReason_Mood>
+  <!-- EN: This happened because of the trait: {0}. -->
+  <MentalStateReason_Trait>Αυτό συνέβη λόγω του χαρακτηριστικού: {0}.</MentalStateReason_Trait>
+  <!-- EN: This happened because of: {0}. -->
+  <MentalStateReason_Hediff>Αυτό έγινε επειδή: {0}.</MentalStateReason_Hediff>
+  <!-- EN: This happened because of {0_definite}'s death. -->
+  <MentalStateReason_BondedHumanDeath>Αυτό έλαβε χώρα γιατί {0_definite} {0_possessive} πέθανε.</MentalStateReason_BondedHumanDeath>
+  <!-- EN: The last event was -->
+  <LastFactionRelationsEvent>Το τελευταίο γεγονός έγινε</LastFactionRelationsEvent>
 
-  <!-- Συγγενεύων πιόνια (Related pawns) -->
+  <!-- EN: Read more -->
+  <ReadMore>Διάβασε περισσότερα</ReadMore>
+  <!-- EN: The last events in {PAWN_definite}'s life -->
+  <LastEventsInLife>Τα τελευταία γεγονότα της ζωής {PAWN_possessive} {PAWN_definite}</LastEventsInLife>
+  
+  <!-- Related pawns -->
+  <!-- EN: Relationship -->
   <LetterLabelNoticedRelatedPawns>Συγγένεια</LetterLabelNoticedRelatedPawns>
-  <LetterRelatedPawnsRaidEnemy>Υπάρχουν άνθρωποι που έχουν συγγένεια με τους αποίκους ή τους φυλακισμένους σας στην ομάδα που φθάνει {0}.\n\nΛάβετε υπόψη ότι παρόλο που σχετίζονται, θα επιτίθενται εναντίον του άλλου λόγω των κακών σχέσεων των φατριών τους.\n\nΑυτοί οι άνθρωποι είναι:</LetterRelatedPawnsRaidEnemy>
-  <LetterRelatedPawnsRaidFriendly>Υπάρχουν άνθρωποι που έχουν συγγένεια με τους αποίκους ή τους φυλακισμένους σας στην φιλική ομάδα που φθάνει {0}:</LetterRelatedPawnsRaidFriendly>
-  <LetterRelatedPawnsNeutralGroup>Υπάρχουν άνθρωποι που έχουν συγγένεια με τους αποίκους ή τους φυλακισμένους σας στην ομάδα που φθάνει:</LetterRelatedPawnsNeutralGroup>
-  <LetterRelatedPawnsTradeShip>Ο πλανόδιος έμπορος πωλεί ανθρώπους που έχουν συγγένεια με τους αποίκους ή τους φυλακισμένους σας:</LetterRelatedPawnsTradeShip>
-  <LetterRelatedPawnsTradingWithSettlement>Ο οικισμός πωλεί ανθρώπους που έχουν συγγένεια με τους αποίκους ή τους φυλακισμένους σας:</LetterRelatedPawnsTradingWithSettlement>
-  <LetterRelatedPawnsTradingWithOtherCaravan>Το καραβάνι πωλεί ανθρώπους που έχουν συγγένεια με τους αποίκους ή τους φυλακισμένους σας:</LetterRelatedPawnsTradingWithOtherCaravan>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are: -->
+  <LetterRelatedPawnsRaidEnemy>Υπάρχουν άνθρωποι που έχουν συγγένεια με τους {0} ή τους φυλακισμένους σας στην ομάδα που φθάνει από {1}.\n\nΛάβετε υπόψη ότι παρόλο που σχετίζονται, θα επιτίθενται εναντίον του άλλου λόγω των κακών σχέσεων των φατριών τους.\n\nΑυτοί οι άνθρωποι είναι:</LetterRelatedPawnsRaidEnemy>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}: -->
+  <LetterRelatedPawnsRaidFriendly>Υπάρχουν άνθρωποι που έχουν συγγένεια με τους {0} ή τους φυλακισμένους σας στην φιλική ομάδα που φθάνει {1}:</LetterRelatedPawnsRaidFriendly>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group: -->
+  <LetterRelatedPawnsNeutralGroup>Υπάρχουν άνθρωποι που έχουν συγγένεια με τους {0} ή τους φυλακισμένους σας στην ομάδα που φθάνει:</LetterRelatedPawnsNeutralGroup>
+  <!-- EN: The orbital trader is selling people who have relationships with your {0} or prisoners: -->
+  <LetterRelatedPawnsTradeShip>Ο πλανόδιος έμπορος πωλεί ανθρώπους που έχουν συγγένεια με τους {0} ή τους φυλακισμένους σας:</LetterRelatedPawnsTradeShip>
+  <!-- EN: The settlement is selling people who have relationships with your {0} or prisoners: -->
+  <LetterRelatedPawnsTradingWithSettlement>Ο οικισμός πωλεί ανθρώπους που έχουν συγγένεια με τους {0} ή τους φυλακισμένους σας:</LetterRelatedPawnsTradingWithSettlement>
+  <!-- EN: The caravan is selling people who have relationships with your {0} or prisoners: -->
+  <LetterRelatedPawnsTradingWithOtherCaravan>Το καραβάνι πωλεί ανθρώπους που έχουν συγγένεια με τους {0} ή τους φυλακισμένους σας:</LetterRelatedPawnsTradingWithOtherCaravan>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the group: -->
+  <LetterRelatedPawnsGroupGeneric>Υπάρχουν άνθρωποι που έχουν συγγένεια με τους {0} ή τους φυλακισμένους σας στην ομάδα:</LetterRelatedPawnsGroupGeneric>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the area where your {0} have landed. -->
+  <LetterRelatedPawnsInMapWherePlayerLanded>Υπάρχουν άνθρωποι που έχουν συγγένεια με τους {0} ή τους φυλακισμένους στην περιοχή που οι {0} προσεδαφίστηκαν.</LetterRelatedPawnsInMapWherePlayerLanded>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in this settlement: -->
+  <LetterRelatedPawnsSettlement>Υπάρχουν άνθρωποι που έχουν συγγένεια με τους {0} ή τους φυλακισμένους σας σε αυτόν τον οικισμό:</LetterRelatedPawnsSettlement>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in this area: -->
+  <LetterRelatedPawnsSite>Υπάρχουν άνθρωποι που έχουν συγγένεια με τους {0} ή τους φυλακισμένους σας στην περιοχή:</LetterRelatedPawnsSite>
 
+  <!-- EN: (relationship) -->
   <RelationshipAppendedLetterSuffix>(συγγένεια)</RelationshipAppendedLetterSuffix>
-  <RelationshipAppendedLetterTextColonist>NAME έχει συγγένεια με έναν άποικο. HECAP είναι {1} του {0}.</RelationshipAppendedLetterTextColonist>
-  <RelationshipAppendedLetterTextPrisoner>NAME έχει συγγένεια με έναν από τους φυλακισμένους σου. HECAP είναι {1} του {0}.</RelationshipAppendedLetterTextPrisoner>
-
-  <!-- Προσπάθεια για ρομαντισμό / πρόταση για επικοινωνία (Attempt romance / propose interaction) -->
+  <!-- EN: {PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
+  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} έχει συγγένεια με έναν άποικο. {PAWN_pronoun} είναι {1} {RELATIVE_possessive} {RELATIVE_labelShort}.</RelationshipAppendedLetterTextColonist>
+  <!-- EN: {PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
+  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef} έχει συγγένεια με έναν από τους φυλακισμένους σου. {PAWN_pronoun} είναι {1} {RELATIVE_possessive} {RELATIVE_labelShort}.</RelationshipAppendedLetterTextPrisoner>
+  
+  <!-- Attempt romance / propose interaction -->
+  <!-- EN: Affair -->
   <LetterLabelAffair>Δεσμός</LetterLabelAffair>
-  <LetterAffair>{0}, παντρεμένος με {1}, έχει ξεκινήσει μια σχέση με {2}.</LetterAffair>
+  <!-- EN: {PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}. -->
+  <LetterAffair>{PAWN1_labelShort}, παντρεμένος με {SPOUSE_objective} {SPOUSE_labelShort}, έχει ξεκινήσει μια σχέση με {PAWN2_objective} {PAWN2_labelShort}.</LetterAffair>
+  <!-- EN: New lovers -->
   <LetterLabelNewLovers>Καινούριοι εραστές</LetterLabelNewLovers>
-  <LetterNewLovers>{0} και {1} έχουν έρθει κοντά και είναι τώρα είναι εραστές.</LetterNewLovers>
-  <LetterNoLongerLovers>{0} και {1} δεν είναι πλέων σε σχέση.</LetterNoLongerLovers>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed. -->
+  <LetterNewLovers>{PAWN1_labelShort} και {PAWN2_labelShort} τώρα κοιμούνται μαζί. Σκεφτείτε να τους δώσετε ένα διπλό κρεβάτι.</LetterNewLovers>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
+  <LetterNoLongerLovers>{PAWN1_labelShort} και {PAWN2_labelShort} δεν είναι πλέων σε σχέση.</LetterNoLongerLovers>
+  <!-- EN: Breakup -->
   <LetterLabelBreakup>Χωρισμός</LetterLabelBreakup>
+  <!-- EN: Marriage is on! -->
   <LetterLabelAcceptedProposal>Ο γάμος είναι σε ισχύ!</LetterLabelAcceptedProposal>
+  <!-- EN: Rejected proposal -->
   <LetterLabelRejectedProposal>Απόρριψη πρότασης</LetterLabelRejectedProposal>
-  <LetterAcceptedProposal>{1} έχει αποδεχθεί τη πρόταση γάμου του {0}.\n\nΣε κάποια στιγμή τις επόμενες μέρες ή εποχές, θα έχουν την τελετή του γάμου τους και θα καλέσουν όλους τους αποίκους. Εξετάστε το ενδεχόμενο τοποθέτησης ενός σημείου γάμου εάν θέλετε να ελέγξετε πού συμβαίνει η τελετή.</LetterAcceptedProposal>
-  <LetterRejectedProposal>{1} απέρριψε τη πρόταση γάμου του {0}. {0} πρόκειται να είναι δυσαρεστημένος γι' αυτό.</LetterRejectedProposal>
-
-  <!-- Γενικές ετικέτες τίτλων (Generalized letter labels) -->
-  <LetterLabelRelationsChangeGood>Καλή θέληση</LetterLabelRelationsChangeGood>
-  <LetterLabelRelationsChangeBad>Κακή θέληση</LetterLabelRelationsChangeBad>
+  <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
+  <LetterAcceptedProposal>Σε κάποια στιγμή τις επόμενες μέρες ή τετράκια, θα έχουν την τελετή του γάμου τους και θα καλέσουν όλους τους αποίκους. Εξετάστε το ενδεχόμενο τοποθέτησης ενός σημείου γάμου εάν θέλετε να ελέγξετε πού συμβαίνει η τελετή.</LetterAcceptedProposal>
+  <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
+  <LetterRejectedProposal>{INITIATOR_nameFull} πρόκειται να δυσαρεστηθεί γι' αυτό.</LetterRejectedProposal>
+  
+  <!-- Generalized letter labels -->
+  <!-- EN: Hostile: {0} -->
+  <LetterLabelRelationsChange_Hostile>Εχθρικός: {0}</LetterLabelRelationsChange_Hostile>
+  <!-- EN: Allied: {0} -->
+  <LetterLabelRelationsChange_Ally>Σύμμαχος: {0}</LetterLabelRelationsChange_Ally>
+  <!-- EN: Enemy now neutral: {0} -->
+  <LetterLabelRelationsChange_NeutralFromHostile>Ο εχθρός έγινε ουδέτερος: {0}</LetterLabelRelationsChange_NeutralFromHostile>
+  <!-- EN: Ally now neutral: {0} -->
+  <LetterLabelRelationsChange_NeutralFromAlly>Ο σύμμαχος έγινε ουδέτερος: {0}</LetterLabelRelationsChange_NeutralFromAlly>
+  <!-- EN: Zzztt... -->
   <LetterLabelShortCircuit>Ζζζττ...</LetterLabelShortCircuit>
+  <!-- EN: Mental break -->
   <LetterLabelMentalBreakdown>Ψυχολογική κατάρρευση</LetterLabelMentalBreakdown>
+  
+  <!-- Bonded animals -->
+  <!-- EN: bonded animal -->
+  <LetterLabelSuffixBondedAnimalDied>ζώο με αφεντικό</LetterLabelSuffixBondedAnimalDied>
+  <!-- EN: {ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood. -->
+  <LetterPartBondedAnimalDied>{ANIMAL_definite} υποτάχθηκε σ{HUMAN_objective} {HUMAN_labelShort}. Αυτό θα επιδράσει στη διάθεση {HUMAN_possessive} {HUMAN_labelShort}</LetterPartBondedAnimalDied>
+  <!-- EN: It will affect mood of the following people:\n\n{0} -->
+  <LetterPartBondedAnimalDiedMulti>Αυτό θα επηρεάσει τη διάθεση των παρακάτω ανθρώπων: \n\n{0}</LetterPartBondedAnimalDiedMulti>
 
-  <!-- Δεσμευμένα (που έχουν αφεντικό) ζώα (Bonded animals) -->
-  <LetterLabelBondedAnimalDied>Θάνατος δεσμευμένου ζώου</LetterLabelBondedAnimalDied>
-  <LetterBondedAnimalDied>{0}, δεσμευμένο από {1}, πέθανε. Αυτό επηρεάζει τη διάθεση του {1}.</LetterBondedAnimalDied>
-  <LetterNamedBondedAnimalDied>{0} ονομάστηκε {1}, δεσμευμένο από {2}, πέθανε. Αυτό επηρεάζει τη διάθεση του {2}.</LetterNamedBondedAnimalDied>
-  <LetterBondedAnimalDiedMulti>{0} πέθανε. Αυτό επηρεάζει τη διάθεση των παρακάτω ανθρώπων:\n\n{1}</LetterBondedAnimalDiedMulti>
-  <LetterNamedBondedAnimalDiedMulti>{0} ονομάστηκε {1} πέθανε. Αυτό επηρεάζει τη διάθεση των παρακάτω ανθρώπων:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
-
-  <!-- Απόδραση από τη φυλακή (Prison break) -->
+  <!-- Prison break -->
+  <!-- EN: Prison break -->
   <LetterLabelPrisonBreak>Απόδραση από τη φυλακή</LetterLabelPrisonBreak>
+  <!-- EN: Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy. -->
   <LetterPrisonBreak>Οι φυλακισμένοι έκαναν μία εξέγερση! Έχουν κατά κάποιο τρόπο ξεκλειδώσει τις κλειδαριές της πόρτας και βγήκαν έξω. Μπορούν να αναζητήσουν όπλα, να πολεμήσουν ή να προσπαθήσουν να ξεφύγουν. Αυτοί οι φυλακισμένοι εμπλέκονται:\n\n{0}\n\nΟι φυλακισμένοι είναι πιο πιθανό να επιχειρήσουν εξέγερση όταν είναι πολυάριθμοι και υγιείς.</LetterPrisonBreak>
-
-  <!-- Πάρτι (Party) -->
+  
+  <!-- Party -->
+  <!-- EN: Party -->
   <LetterLabelNewParty>Πάρτι</LetterLabelNewParty>
-  <LetterNewParty>{0} διοργανώνει ένα πάρτι! Ο καθένας που πηγαίνει θα κερδίσει χαρά και κοινωνική ενέργεια και μια διαρκή θετική διάθεση.</LetterNewParty>
+  <!-- EN: {1_labelShort} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost. -->
+  <LetterNewParty>{1_labelShort} διοργανώνει ένα πάρτι! Ο καθένας που πηγαίνει θα κερδίσει χαρά και κοινωνική ενέργεια και μια διαρκή θετική διάθεση.</LetterNewParty>
 
-  <!-- Φρέσκο εθισμένος (Newly addicted) -->
+  <!-- Newly addicted -->
+  <!-- EN: {0} addiction -->
   <LetterLabelNewlyAddicted>{0} εθισμός</LetterLabelNewlyAddicted>
-  <LetterNewlyAddicted>{0} έχει αναπτύξει έναν εθισμό στο {1}.\n\nHECAP έχει τώρα ανάγκη για {1}, ορατό στην καρτέλα Αναγκών HIS. HECAP θα καταναλώνει αυτόματα το ναρκωτικό για να εκπληρώσει την ανάγκη HIS. Εάν HE δεν μπορεί να πάρει {1}, HE θα πάθει στερητικό σύνδρομο.</LetterNewlyAddicted>
-
-  <!-- Λαιμαργία ναρκωτικού (Drug binge) -->
+  <!-- EN: {PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal. -->
+  <LetterNewlyAddicted>{PAWN_labelShort} έχει αναπτύξει έναν εθισμό στο {1}.\n\n{PAWN_pronoun} έχει τώρα ανάγκη για {1}, ορατό στην καρτέλα Αναγκών {PAWN_possessive}. {PAWN_pronoun} θα καταναλώνει αυτόματα το ναρκωτικό για να εκπληρώσει την ανάγκη {PAWN_possessive}. Εάν {PAWN_pronoun} δεν μπορεί να πάρει {1}, θα πάθει στερητικό σύνδρομο.</LetterNewlyAddicted>
+  
+  <!-- Drug binge -->
+  <!-- EN: {0} binge -->
   <LetterLabelDrugBinge>{0} λαιμαργία</LetterLabelDrugBinge>
-  <LetterDrugBinge>{0} είναι λαίμαργος στο {1}.</LetterDrugBinge>
-
-  <!-- Σύνθεση καραβανιού (Formed caravan) -->
-  <LetterLabelFormedCaravan>Έτοιμο καραβάνι</LetterLabelFormedCaravan>
-  <LetterFormedCaravan>Το καραβάνι σας έχει σχηματίσει και περιμένει εντολές στον παγκόσμιο χάρτη.</LetterFormedCaravan>
-
-  <!-- Κατεστραμμένο καραβάνι (Caravan destroyed) -->
+  <!-- EN: {2_label} is binging on {1}. -->
+  <LetterDrugBinge>{2_label} είναι λαίμαργος στο {1}.</LetterDrugBinge>
+  
+  <!-- Caravan destroyed -->
+  <!-- EN: Caravan destroyed -->
   <LetterLabelAllCaravanColonistsDied>Κατεστραμμένο καραβάνι</LetterLabelAllCaravanColonistsDied>
-  <LetterAllCaravanColonistsDied>Όλα τα μέλη του καραβανιού σας έχουν πεθάνει.</LetterAllCaravanColonistsDied>
-
-  <!-- Το καραβάνι εισήλθε σε χάρτη ενέδρας (Caravan entered ambush map) -->
-  <LetterLabelCaravanEnteredAmbushMap>Το καραβάνι έπεσε σε ενέδρα</LetterLabelCaravanEnteredAmbushMap>
-  <LetterCaravanEnteredAmbushMap>Το {0} έχει φτάσει σε τοποθεσία ενέδρας.</LetterCaravanEnteredAmbushMap>
-
-  <!-- Το καραβάνι εισήλθε σε εχθρική βάση (Caravan entered enemy base) -->
+  <!-- EN: All members of {0} have died. -->
+  <LetterAllCaravanColonistsDied>Όλα τα μέλη του {0} έχουν πεθάνει.</LetterAllCaravanColonistsDied>
+  
+  <!-- Caravan entered map -->
+  <!-- EN: Caravan arrived at {0_label} -->
+  <LetterLabelCaravanEnteredMap>Το καραβάνι έφτασε στο {0_label}</LetterLabelCaravanEnteredMap>
+  <!-- EN: {0} has arrived at {1_definite}. -->
+  <LetterCaravanEnteredMap>{0} έχει φτάσει στο {1_definite}.</LetterCaravanEnteredMap>
+  
+  <!-- Caravan entered enemy base -->
+  <!-- EN: Attack begun -->
   <LetterLabelCaravanEnteredEnemyBase>Η επίθεση άρχισε</LetterLabelCaravanEnteredEnemyBase>
+  <!-- EN: {0} has arrived at {1} and is ready to begin the attack. -->
   <LetterCaravanEnteredEnemyBase>{0} έφτασε σε {1} και είναι έτοιμοι να ξεκινήσουν την επίθεση.</LetterCaravanEnteredEnemyBase>
-  <LetterCaravanEnteredEnemyBaseBecameHostile>{0} έφτασε σε {1} και είναι έτοιμοι να ξεκινήσουν την επίθεση.\n\nΛόγω της εχθρικής σας προσέγγισης, {2} είναι τώρα εχθρική σε σας.</LetterCaravanEnteredEnemyBaseBecameHostile>
 
-  <!-- Εξολοθρεύτηκε βάση φατρίας (Faction base defeated) -->
-  <LetterLabelFactionBaseDefeated>Το φυλάκιο καταστράφηκε</LetterLabelFactionBaseDefeated>
-  <LetterFactionBaseDefeated>Το φυλάκιο του εχθρού {0} έχει καταστραφεί.\n\nΈχετε {1} να συλλέξετε αντικείμενα πριν οι άποικοί σας σχηματίσουν το καραβάνι.</LetterFactionBaseDefeated>
-  <LetterFactionBaseDefeated_FactionDestroyed>Αυτή είναι η τελευταία βάση της {0}, το οποίο σημαίνει πως η φατρία δεν θα υφίσταται πλέον.</LetterFactionBaseDefeated_FactionDestroyed>
-
-  <!-- Χαμένα πιόνια λόγω της αντίστροφης μέτρησης του χάρτη (Pawns lost due to map countdown) -->
-  <LetterLabelPawnsLostDueToMapCountdown>Έμεινα πίσω</LetterLabelPawnsLostDueToMapCountdown>
-  <LetterPawnsLostDueToMapCountdown>Ορισμένα από τα ζώα ή τους φυλακισμένους σας έμειναν πίσω στην ερημιά:\n\n{0}</LetterPawnsLostDueToMapCountdown>
-
-  <!-- Ολοκλήρωση αποστολής (Quest completed) -->
+  <!-- Transport pods landed in enemy base -->
+  <!-- EN: Attack begun -->
+  <LetterLabelTransportPodsLandedInEnemyBase>Η επίθεση άρχισε</LetterLabelTransportPodsLandedInEnemyBase>
+  <!-- EN: Your transport pods have arrived at {0}. -->
+  <LetterTransportPodsLandedInEnemyBase>Οι μεταφορικές σου άτρακτοι έχουν φτάσει στο {0}.</LetterTransportPodsLandedInEnemyBase>
+  
+  <!-- Faction base defeated -->
+  <!-- EN: Base destroyed -->
+  <LetterLabelFactionBaseDefeated>Το βάση καταστράφηκε</LetterLabelFactionBaseDefeated>
+  <!-- EN: The enemy base {0} has been destroyed.\n\nIn {1}, the caravan will automatically be reformed. You can reform the caravan now in the World screen by selecting the destroyed base and choosing the "Reform caravan" option. -->
+  <LetterFactionBaseDefeated>Η εχθρική βάση των {0} έχει καταστραφεί.\n\nΣε {1} το καραβάνι θα αναμορφωθεί αυτόματα. Μπορείτε να ανασχηματίσετε το καραβάνι τώρα στην οθόνη του Κόσμου επιλέγοντας την καταστραμμένη βάση και διαλέγοντας την επιλογή "Αναμόρφωση καραβανιού".</LetterFactionBaseDefeated>
+  <!-- EN: This was the last base of {0}, which means this faction doesn't exist anymore. -->
+  <LetterFactionBaseDefeated_FactionDestroyed>Αυτή είναι η τελευταία βάση των {0}, το οποίο σημαίνει πως αυτή η φατρία δεν θα υφίσταται πλέον.</LetterFactionBaseDefeated_FactionDestroyed>
+  
+  <!-- Quest completed -->
+  <!-- EN: Quest completed -->
   <LetterLabelDefeatAllEnemiesQuestCompleted>Ολοκλήρωση αποστολής</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <!-- EN: You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}. -->
   <LetterDefeatAllEnemiesQuestCompleted>Έχεις νικήσει το εχθρικό στρατόπεδο!\n\nΗ πληρωμή από {0} έχει φτάσει και οι σχέσεις φατριών έχουν βελτιωθεί κατά {1}.</LetterDefeatAllEnemiesQuestCompleted>
 
-  <!-- Βρέθηκε ένα κομμάτι από πολύτιμους πόρους (Found lump of precious resources) -->
+  <!-- Found lump of precious resources -->
+  <!-- EN: Precious minerals found -->
   <LetterLabelFoundPreciousLump>Βρέθηκαν πολύτιμοι πόροι</LetterLabelFoundPreciousLump>
-  <LetterFoundPreciousLump>Ο μεγάλης εμβέλειας σαρωτής ορυκτών έχει βρει σε μια κοντινή απόσταση πολύτιμους πόρους.\n\nΔεν ξέρουμε ποιος ή τι - οτιδήποτε - μπορεί να το προστατεύει.</LetterFoundPreciousLump>
-
-  <!-- Κοιμισμένα μηχανοειδή (Sleeping mechanoids) -->
-  <LetterLabelSleepingMechanoids>Κοιμισμένα μηχανοειδή</LetterLabelSleepingMechanoids>
-  <LetterSleepingMechanoids>Υπάρχουν λίγα κοιμισμένα εχθρικά μηχανοειδή σε αυτόν τον τομέα.\n\nΤα μηχανοειδή μπορεί ή δεν μπορεί να ξυπνήσουν όταν τα πλησιάσετε, προσέξτε.</LetterSleepingMechanoids>
-
-  <!-- Ενέδρα (Ambush) -->
+  <!-- EN: Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} nearby.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
+  <LetterFoundPreciousLump>Ο μεγάλης εμβέλειας σαρωτής ορυκτών, {WORKER_labelShort} βρήκε εδώ κοντά ένα σβώλο από {0}.\n\nΔυστυχώς, αυτός δεν θα παραμείνει - άλλοι θα το δουν πρώτοι σε {1} ημέρες αν δεν το κάνουμε.\n\n{2}.</LetterFoundPreciousLump>
+  
+  <!-- Ambush -->
+  <!-- EN: Ambush -->
   <LetterLabelAmbushInExistingMap>Ενέδρα</LetterLabelAmbushInExistingMap>
+  <!-- EN: Your {0} have been ambushed! -->
   <LetterAmbushInExistingMap>Το {0} σου έχει πέσει σε ενέδρα!</LetterAmbushInExistingMap>
 
-  <!-- Ειρηνευτικές συνομιλίες (Peace talks) -->
+  <!-- Peace talks -->
+  <!-- EN: Peace talks disaster -->
   <LetterLabelPeaceTalks_Disaster>Καταστροφικές ειρηνευτικές συνομιλίες</LetterLabelPeaceTalks_Disaster>
+  <!-- EN: The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}. -->
   <LetterPeaceTalks_Disaster>Οι συνομιλίες ήταν μια καταστροφή. Οι εκπρόσωποι μόλις έκαναν τους αρχικούς χαιρετισμούς τους και πριν η συζήτηση τελειώσει άρχισαν τις προσβολές και τις αλληλοκατηγορίες.\n\nΑφού το καραβάνι σας αναχώρησε νωρίς, {0} από {1} το πρόφτασαν και του επιτέθηκαν!\n\nΣχέσεις με {1}: {2}.</LetterPeaceTalks_Disaster>
+  <!-- EN: Peace talks backfire -->
   <LetterLabelPeaceTalks_Backfire>Αποτυχημένες ειρηνευτικές συνομιλίες</LetterLabelPeaceTalks_Backfire>
+  <!-- EN: The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}. -->
   <LetterPeaceTalks_Backfire>Οι συνομιλίες έχουν αποτύχει. Παρά τις συναλλαγές με κάποιες ευχαριστίες, οι αντιπρόσωποι δεν σημείωσαν πρόοδο σε ουσιαστικά ζητήματα και πολλές δηλώσεις ερμηνεύτηκαν ως προσβολές.\n\nΣχέσεις με {0}: {1}.</LetterPeaceTalks_Backfire>
+  <!-- EN: Peace talks flounder -->
   <LetterLabelPeaceTalks_TalksFlounder>Παραπαίουσες ειρηνευτικές συνομιλίες</LetterLabelPeaceTalks_TalksFlounder>
+  <!-- EN: The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged. -->
   <LetterPeaceTalks_TalksFlounder>Οι συνομιλίες ήταν ανεπιτυχείς. Οι αντιπρόσωποι κατάφεραν να επικοινωνούν με σαφήνεια και με βασικό σεβασμό, αλλά δεν ήταν σε θέση να σημειώσουν πρόοδο σε κανένα πραγματικό ζήτημα.\n\nΟι σχέσεις με τη {0} παραμένουν αμετάβλητες.</LetterPeaceTalks_TalksFlounder>
+  <!-- EN: Peace talks success -->
   <LetterLabelPeaceTalks_Success>Επιτυχείς ειρηνευτικές συνομιλίες</LetterLabelPeaceTalks_Success>
+  <!-- EN: The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}. -->
   <LetterPeaceTalks_Success>Οι συνομιλίες ήταν επιτυχείς. Οι εκπρόσωποι κατέληξαν σε μια νέα αμοιβαία κατανόηση σε αρκετά σημαντικά θέματα.\n\nΟι σχέσεις με {0} βελτιώθηκαν κατά {1}.</LetterPeaceTalks_Success>
+  <!-- EN: Peace talks triumph -->
   <LetterLabelPeaceTalks_Triumph>Θριαμβευτικές ειρηνευτικές συνομιλίες</LetterLabelPeaceTalks_Triumph>
-  <LetterPeaceTalks_Triumph>Οι συνομιλίες ήταν ένας μεγάλος θρίαμβος! Οι εκπρόσωποι συνδέθηκαν γρήγορα σε προσωπικό επίπεδο και μπόρεσαν να δουν αληθινά την οπτική των άλλων για τα πιο δύσκολα θέματα της εποχής.\n\nΟι σχέσεις με {0} βελτιώθηκαν κατά {1}.\n\nΚαθώς το καραβάνι σας αναχώρησε, {0} σας πρόσφερε ένα δώρο: {2}.</LetterPeaceTalks_Triumph>
-  <PeaceTalksSocialXPGain>{0}, ο διαπραγματευτής σου, προσκόμισε {1} κοινωνική εμπειρία.</PeaceTalksSocialXPGain>
+  <!-- EN: The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2} -->
+  <LetterPeaceTalks_Triumph>Οι συνομιλίες ήταν ένας μεγάλος θρίαμβος! Οι εκπρόσωποι συνδέθηκαν γρήγορα σε προσωπικό επίπεδο και μπόρεσαν να δουν αληθινά την οπτική των άλλων για τα πιο δύσκολα θέματα της εποχής.\n\nΟι σχέσεις με {0} βελτιώθηκαν κατά {1}.\n\nΚαθώς το καραβάνι σας αναχώρησε, {0} σας πρόσφερε ένα δώρο:\n\n{2}.</LetterPeaceTalks_Triumph>
+  <!-- EN: {PAWN_labelShort}, your negotiator, has gained {1} social experience. -->
+  <PeaceTalksSocialXPGain>{PAWN_labelShort}, ο διαπραγματευτής σου, προσκόμισε {1} κοινωνική εμπειρία.</PeaceTalksSocialXPGain>
 
-  <!-- Ανεξέλεγκτη πνευματική κατάρρευση (Run wild mental break) -->
-  <LetterRunWildMentalBreak>{0} αποφάσισε να αφήσει τη φατρία σας και να ζήσει με τα ζώα.</LetterRunWildMentalBreak>
+  <!-- Run wild mental break -->
+  <!-- EN: {0} is fed up with civilization.\n\n{0_pronoun} realized that wild creatures are always free. So, {0_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {0_objective} to get {0_objective} back. -->
+  <LetterRunWildMentalBreak>{0} μπούχτισε με τον πολιτισμό.\n\n{0_pronoun} συνειδητοποίησε ότι τα άγρια πλάσματα είναι πάντα ελεύθερα. Έτσι, {0_pronoun} αποφάσισε να αφήσει τη φατρία σας και να ζήσει με τα ζώα.\n\nΜπορείτε να προσπαθήσετε να {0_objective} δαμάσετε ή να {0_objective} συλλάβετε για να {0_objective} φέρετε πίσω.</LetterRunWildMentalBreak>
 
-  <!-- Κατατονικός ψυχολογικός κλονισμός (Catatonic mental break) -->
-  <LetterCatatonicMentalBreak>{0} έχει κατατονική ψυχολογική κατάρρευση που θα διαρκέσει αρκετές ημέρες.</LetterCatatonicMentalBreak>
+  <!-- Catatonic mental break -->
+  <!-- EN: {0} has suffered a total mental breakdown and entered a catatonic state. {0_pronoun} will recover in several days. -->
+  <LetterCatatonicMentalBreak>{0} έχει κατατονική ψυχολογική κατάρρευση που θα διαρκέσει αρκετές ημέρες. {0_pronoun} θα επανέλθει σε αρκετές ημέρες.</LetterCatatonicMentalBreak>
+
+  <!-- EN: AI Core Offer -->
+  <LetterLabelAICoreOffer>Προσφορά πυρήνα Τεχνητής Νοημοσύνης</LetterLabelAICoreOffer>
+  <!-- EN: {PAWN_definite} of {1} contacts you with an offer of information: the location of an AI persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested. -->
+  <LetterAICoreOffer>{PAWN_definite} των {1} επικοινωνεί μαζί σας για να προσφέρει μια πληροφορία: τη θέση ενός πυρήνα μια τεχνητής προσωπικότητας, τον οποίο θα χρειαστείτε για να χτίσετε ένα διαστημόπλοιο. Σας ενημερώνουν ότι αυτό το στοιχείο είναι αρκετά σπάνιο και συνήθως οι ιδιοκτήτες το έχουν κάτω υπό βαριά ασφάλεια. Καλέστε τους με την κονσόλα επικοινωνίας σας εάν ενδιαφέρεστε.</LetterAICoreOffer>
+
+  <!-- EN: Legendary Work -->
+  <LetterCraftedLegendaryLabel>Θρυλική δουλειά</LetterCraftedLegendaryLabel>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world. -->
+  <LetterCraftedLegendaryMessage>{WORKER_labelShort} δημιούργησε ένα {CRAFTED_labelShort}. Οι ειδήσεις για αυτό το πολύτιμο τεχνούργημα θα εξαπλωθούν σε ολόκληρο τον κόσμο.</LetterCraftedLegendaryMessage>
+
+  <!-- Pawns lost because map closed -->
+  <!-- EN: Caravan lost -->
+  <LetterLabelPawnsLostBecauseMapClosed_Caravan>Χαμένο καραβάνι</LetterLabelPawnsLostBecauseMapClosed_Caravan>
+  <!-- EN: Your caravan has been lost. The following people and animals have been lost with it -->
+  <LetterPawnsLostBecauseMapClosed_Caravan>Το καραβάνι σας χάθηκε. Οι ακόλουθοι άνθρωποι και ζώα έχουν χαθεί μαζί μ' αυτό.</LetterPawnsLostBecauseMapClosed_Caravan>
+  <!-- EN: Inhabitants abandoned -->
+  <LetterLabelPawnsLostBecauseMapClosed_Home>Εγκαταλελειμμένοι κάτοικοι</LetterLabelPawnsLostBecauseMapClosed_Home>
+  <!-- EN: The following people and animals have been abandoned -->
+  <LetterPawnsLostBecauseMapClosed_Home>Οι ακόλουθοι άνθρωποι και ζώα έχουν εγκαταλειφθεί</LetterPawnsLostBecauseMapClosed_Home>
+
+  <!-- Hibernate complete -->
+  <!-- EN: Reactor ready -->
+  <LetterLabelHibernateComplete>Έτοιμος αντιδραστήρας</LetterLabelHibernateComplete>
+  <!-- EN: Charlon Whitestone has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff. -->
+  <LetterHibernateComplete>Ο Τσάρλον Γουάιτστον ολοκλήρωσε την ακολουθία ανάκαμψης της αδρανοποίησης του αντιδραστήρα. Ο αντιδραστήρας είναι έτοιμος να ενεργοποιήσει μία απογείωση.</LetterHibernateComplete>
+  <!-- EN: The reactor's power up sequence is complete. It is now ready to power a liftoff. -->
+  <LetterHibernateCompleteStandalone>Η ακολουθία ανάκαμψης της αδρανοποίησης του αντιδραστήρα ολοκληρώθηκε. Αυτός είναι έτοιμος να ενεργοποιήσει μία απογείωση.</LetterHibernateCompleteStandalone>
+
+  <!-- Visitors gave gift -->
+  <!-- EN: Gift from {0} -->
+  <LetterLabelVisitorsGaveGift>Δώρα από τους {0}</LetterLabelVisitorsGaveGift>
+  <!-- EN: {0} from {PAWN_factionName} have left a gift:\n\n{1} -->
+  <LetterVisitorsGaveGift>{0} από τους {PAWN_factionName} άφησε ένα δώρο: \n\n{1}</LetterVisitorsGaveGift>
+
+  <!-- Faction base proximity -->
+  <!-- EN: Faction base proximity -->
+  <LetterLabelFactionBaseProximity>Γειτνίαση της βάσης της φατρίας</LetterLabelFactionBaseProximity>
+  <!-- EN: Because you are so close to other factions, they feel you're encroaching on their territory.\n\nFor the last quadrum, faction relations have been reduced by: -->
+  <LetterFactionBaseProximity>Επειδή είστε τόσο κοντά στις άλλες φατρίες, αισθάνονται ότι καταπατιέται η επικράτειά τους.\n\nΓια το τελευταίο τετράκιο, οι σχέσεις μεταξύ των φατριών έχουν μειωθεί κατά:</LetterFactionBaseProximity>
+
+  <!-- Caravans battlefield victory -->
+  <!-- EN: Caravan battle won -->
+  <LetterLabelCaravansBattlefieldVictory>Νικηφόρα μάχη καραβανιού</LetterLabelCaravansBattlefieldVictory>
+  <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, the caravan will be reformed automatically. -->
+  <LetterCaravansBattlefieldVictory>Το καραβάνι σας έχει κερδίσει τη μάχη.\n\nΜπορείτε να μετασχηματίσετε τώρα το καραβάνι στην οθόνη του Κόσμου επιλέγοντας το πεδίο της μάχης και διαλέγοντας την επιλογή "Αναμόρφωση καραβανιού".\n\nΔεν χρειάζεται να συλλέξετε τα αντικείμενα με το χέρι, το εργαλείο μετασχηματισμού καραβανιού μπορεί να το κάνει αμέσως.\n\nΣε {0}, το καραβάνι θα αναμορφωθεί αυτόματα.</LetterCaravansBattlefieldVictory>
+
+  <!-- Rescue quest -->
+  <!-- EN: Rescuee joins -->
+  <LetterLabelRescueQuestFinished>Ενσωμάτωση διασωθέντος</LetterLabelRescueQuestFinished>
+  <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group.\n\nYou can take {PAWN_objective} with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option. -->
+  <LetterRescueQuestFinished>Έχετε διασωθεί {PAWN_objective} {PAWN_nameDef} και {PAWN_pronoun} έχει προστεθεί στην ομάδα σας. Μπορείτε να {PAWN_objective} πάρετε μαζί σας αναδιαμορφώνοντας το καραβάνι στην οθόνη του Κόσμου επιλέγοντας αυτή την περιοχή και διαλέγοντας την επιλογή "Αναμόρφωση καραβανιού".</LetterRescueQuestFinished>
+
+  <!-- Predator hunting colonist -->
+  <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
+  <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort} κυνηγά {PREY_objective} {PREY_definite}</LetterLabelPredatorHuntingColonist>
+  <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
+  <LetterPredatorHuntingColonist>{PREDATOR_labelShort} κυνηγά {PREY_objective} {PREY_definite} για φαγητό!</LetterPredatorHuntingColonist>
+
+  <!-- Disease -->
+  <!-- EN: {0} blocked {1} on: {2}. -->
+  <LetterDisease_Blocked>{0} εμποδίστηκε {1} σε: {2}.</LetterDisease_Blocked>
+  <!-- EN: Disease ({0}) -->
+  <LetterLabelTraitDisease>Ασθένεια ({0})</LetterLabelTraitDisease>
+  <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
+  <LetterTraitDisease>{PAWN_label} έχει αρρωστήσει από {1}.\n\nΒεβαιωθείτε ότι έχετε ένα ιατρικό κρεβάτι και ένα γιατρό. Βεβαιωθείτε ότι {PAWN_pronoun} παίρνει την κατάλληλη θεραπεία και ξοδεύει όσο το δυνατόν περισσότερο χρόνο στο κρεβάτι.</LetterTraitDisease>
 
 </LanguageData>

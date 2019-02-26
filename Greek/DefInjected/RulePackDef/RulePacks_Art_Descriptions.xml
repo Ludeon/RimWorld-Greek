@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_art_description->[physical_description_root] [context_sentence]</li>
+    <li>circumstance_group->[circumstance_phrase]</li>
+    <li>desc_sentence_group->[desc_sentence] [style_group]</li>
+    <li>context_sentence->This [depiction] refers to [tale_noun] on [DATE].</li>
+    <li>context_sentence->This [depiction] relates to [tale_noun] on [DATE].</li>
+    <li>context_sentence->This [depiction] tells the story of [tale_noun] on [DATE].</li>
+  -->
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings><li>r_art_description->[physical_description_root] [context_sentence]</li>
+    <li>circumstance_group->[circumstance_phrase]</li>
+    <li>desc_sentence_group->[desc_sentence] [style_group]</li>
+    <li>context_sentence->Αυτή [depiction] αναφέρετε στο [tale_noun] στις [DATE].</li>
+    <li>context_sentence->Αυτή [depiction] διηγείται το πως [tale_noun] στις [DATE].</li>
+    <li>context_sentence->Αυτή [depiction] λέει την ιστορία [tale_noun] στις [DATE].</li></ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_art_description->[physical_description_root]</li>
+    <li>desc_sentence_group->[style_group]</li>
+  -->
+  <ArtDescriptionRoot_Taleless.rulePack.rulesStrings><li>r_art_description->[physical_description_root]</li>
+    <li>desc_sentence_group->[style_group]</li></ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>style_group->[artextra_clause]. [style_clause].</li>
+    <li>style_group->[style_clause]. [artconjunction] [artextra_clause].</li>
+    <li>style_group->[style_clause].</li>
+    <li>style_group->[artextra_clause].</li>
+    <li>style_group-></li>
+    <li>artconjunction(p=6)-></li>
+    <li>artconjunction->as an interesting contrast,</li>
+    <li>artconjunction->rounding out the work,</li>
+    <li>artconjunction->in addition to that,</li>
+    <li>artconjunction->strikingly,</li>
+    <li>artconjunction->provocatively,</li>
+    <li>artconjunction->unusually for this kind of work,</li>
+    <li>artconjunction->though few would expect it,</li>
+    <li>artconjunction->besides that,</li>
+    <li>artextra_clause->the image is bordered by [subimageplural]</li>
+    <li>artextra_clause->at the edge of the image are [subimageplural]</li>
+    <li>artextra_clause->there is [subimagesingle] [side_position]</li>
+    <li>artextra_clause->the subjects are in front of [subimageany]</li>
+    <li>artextra_clause->the lower part of the image is dominated by [subimageany]</li>
+    <li>artextra_clause->the scene takes place in the middle of a [Community]</li>
+    <li>artextra_clause->the scene takes place on the outskirts of a [Community]</li>
+    <li>artextra_clause->the scene takes place inside a [Community] built near a [TerrainFeature]</li>
+    <li>artextra_clause->a [Character] [idles] [side_position]</li>
+    <li>artextra_clause->a [PAWN_adj] [Character] [idles] [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [Character]s appear [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [PAWN_adj] [Character]s appear [side_position]</li>
+    <li>artextra_clause->a [Animal] [idles] [side_position]</li>
+    <li>artextra_clause->if you squint your eyes, the [composition] composition of the image reveals the outline of [subimageany]</li>
+    <li>artextra_clause->the [emotional_expression] head of a [PAWN_adj] [PersonJob] watches over all</li>
+    <li>artextra_clause->a [PAWN_adj] [PersonJob] watches over all while [emotional_expression]</li>
+    <li>artextra_clause->the head of a [PAWN_adj] [PersonJob] watches over all</li>
+    <li>artextra_clause->the whole image is depicted by the careful arrangement of [subimageplural]</li>
+    <li>subimageany->[subimagesingle]</li>
+    <li>subimageany->[subimageplural]</li>
+    <li>subimagesingle(p=4)->a [Character]</li>
+    <li>subimagesingle->a [TerrainFeature]</li>
+    <li>subimagesingle->a [Community]</li>
+    <li>subimagesingle->a [TreeType] tree</li>
+    <li>subimagesingle->a [Vegetable]</li>
+    <li>subimagesingle->a [AnimalGroup] of [Animal]s</li>
+    <li>subimageplural(p=3)->[Quantity_adjphrase] [Character]s</li>
+    <li>subimageplural->[Quantity_adjphrase] [Vegetable]s</li>
+    <li>subimageplural->[Quantity_adjphrase] [Shape]s</li>
+    <li>pawn_adj->dead</li>
+    <li>pawn_adj->dying</li>
+    <li>pawn_adj->injured</li>
+    <li>pawn_adj->sleeping</li>
+    <li>pawn_adj->standing</li>
+    <li>pawn_adj->sitting</li>
+    <li>pawn_adj->crazy</li>
+    <li>pawn_adj->young</li>
+    <li>pawn_adj->old</li>
+    <li>pawn_adj->[Gore]-covered</li>
+    <li>pawn_adj->filthy</li>
+    <li>pawn_adj->[Apparel]-wearing</li>
+    <li>pawn_adj->[Weapon]-wielding</li>
+    <li>pawn_adj->[Vegetable]-eating</li>
+    <li>emotional_expression->smiling</li>
+    <li>emotional_expression->frowning</li>
+    <li>emotional_expression->scowling</li>
+    <li>emotional_expression->laughing</li>
+    <li>emotional_expression->staring</li>
+    <li>emotional_expression->crying</li>
+    <li>emotional_expression->screaming</li>
+    <li>emotional_expression->overjoyed</li>
+    <li>idles->sits</li>
+    <li>idles->stands</li>
+    <li>idles->waits</li>
+    <li>idles->smiles</li>
+    <li>idles->lies</li>
+    <li>idles->poses</li>
+    <li>idles->appears</li>
+    <li>idles->is shown</li>
+    <li>idles->fades in</li>
+    <li>idles->floats</li>
+    <li>side_position->off to one side</li>
+    <li>side_position->in the background</li>
+    <li>side_position->in the distance</li>
+    <li>side_position->in the lower part of the image</li>
+    <li>side_position->in the upper part of the image</li>
+    <li>side_position->to the left of the main scene</li>
+    <li>side_position->to the right of the main scene</li>
+    <li>side_position->near the edge of the image</li>
+    <li>side_position->near the main subject</li>
+    <li>side_position->far from the main subject</li>
+    <li>side_position->beneath the main subject</li>
+    <li>side_position->behind the focal point</li>
+    <li>style_clause(p=4)->the work [symbolizes] [ConceptAny]</li>
+    <li>artextra_clause->[subimagesingle] [side_position] [symbolizes] [ConceptAny]</li>
+    <li>style_clause->the work is infused with the idea of [ConceptAny] and is done in a [artstyle_adj] style</li>
+    <li>style_clause->the work is executed in a [artstyle_adj] style</li>
+    <li>style_clause->the [artstyle_adj] style of the central scene clashes with the [artstyle_adj] depiction of the background</li>
+    <li>style_clause->the work has a [artstyle_adj] feeling and a [composition] structure</li>
+    <li>style_clause->the overall composition is [composition]</li>
+    <li>style_clause->the style is [artstyle_adj] with [artstyle_adj] elements</li>
+    <li>style_clause->the image somehow expresses both [ConceptAny] and [ConceptAny]</li>
+    <li>style_clause->the image contrasts [ConceptAny] with [ConceptAny]</li>
+    <li>style_clause->the [composition] structure of the image almost conflicts with its [artstyle_adj] style</li>
+    <li>style_clause->the work is shaded in hues of [Color] and [Color]</li>
+    <li>style_clause->almost every shape in the image seems to be [composition]</li>
+    <li>symbolizes->symbolizes</li>
+    <li>symbolizes->seems to symbolize</li>
+    <li>symbolizes->represents</li>
+    <li>symbolizes->seems to represent</li>
+    <li>symbolizes->seems to express</li>
+    <li>symbolizes->reminds the viewer of</li>
+    <li>symbolizes->conveys the emotions of</li>
+    <li>symbolizes->makes the viewer think of</li>
+    <li>symbolizes->represents the artist's</li>
+    <li>symbolizes->suggests the concept of</li>
+    <li>depicts->depicts</li>
+    <li>depicts->shows</li>
+    <li>depicts->portrays</li>
+    <li>depicts->resembles</li>
+    <li>depicts->illustrates</li>
+    <li>depicts->represents</li>
+    <li>depicts->is shaped like</li>
+    <li>depiction->depiction</li>
+    <li>depiction->image</li>
+    <li>depiction->portrayal</li>
+    <li>depiction->representation</li>
+    <li>depiction->illustration</li>
+    <li>depiction->artwork</li>
+    <li>composition->triangular</li>
+    <li>composition->rectangular</li>
+    <li>composition->square</li>
+    <li>composition->unbalanced</li>
+    <li>composition->well-balanced</li>
+    <li>composition->dynamic</li>
+    <li>composition->static</li>
+    <li>composition->vertical</li>
+    <li>composition->horizontal</li>
+    <li>composition->focused</li>
+    <li>artstyle_adj->unoriginal</li>
+    <li>artstyle_adj->simple</li>
+    <li>artstyle_adj->complex and realistic</li>
+    <li>artstyle_adj->surrealistic</li>
+    <li>artstyle_adj->classical</li>
+    <li>artstyle_adj->modern</li>
+    <li>artstyle_adj->symbolic</li>
+    <li>artstyle_adj->amateurish yet attractive</li>
+    <li>artstyle_adj->detail-oriented</li>
+    <li>artstyle_adj->blocky</li>
+    <li>artstyle_adj->cubist</li>
+    <li>artstyle_adj->impressionistic</li>
+    <li>artstyle_adj->expressionistic</li>
+    <li>artstyle_adj->photographic</li>
+    <li>artstyle_adj->baroque</li>
+    <li>artstyle_adj->dadaist</li>
+    <li>artstyle_adj->glitch-art</li>
+    <li>artstyle_adj->pixelated</li>
+    <li>artstyle_adj->fauvist</li>
+    <li>artstyle_adj->folksy</li>
+    <li>artstyle_adj->figurative</li>
+    <li>artstyle_adj->sinuous</li>
+    <li>artstyle_adj->geometric</li>
+    <li>artstyle_adj->abstract</li>
+    <li>artstyle_adj->hyper-realistic</li>
+    <li>artstyle_adj->pop art</li>
+    <li>artstyle_adj->minimalistic</li>
+    <li>artstyle_adj->neoclassical</li>
+    <li>artstyle_adj->cel-shaded</li>
+    <li>artstyle_adj->post-impressionistic</li>
+    <li>artstyle_adj->purist</li>
+    <li>artstyle_adj->rococo</li>
+    <li>artstyle_adj->romanesque</li>
+    <li>artstyle_adj->romantic</li>
+    <li>artstyle_adj->graffiti-like</li>
+    <li>artstyle_adj->erotic</li>
+    <li>artstyle_adj->sensual</li>
+    <li>artstyle_adj->heartfelt</li>
+  -->
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings><li>style_group->[artextra_clause]. [style_clause].</li>
+    <li>style_group->[style_clause]. [artconjunction] [artextra_clause].</li>
+    <li>style_group->[style_clause].</li>
+    <li>style_group->[artextra_clause].</li>
+    <li>style_group-></li>
+    <li>artconjunction(p=6)-></li>
+    <li>artconjunction->ως μια ενδιαφέρουσα αντίθεση,</li>
+    <li>artconjunction->εκλεπτίζει το έργο,</li>
+    <li>artconjunction->εκτός από αυτό,</li>
+    <li>artconjunction->αξιοθαύμαστα,</li>
+    <li>artconjunction->προκλητικά,</li>
+    <li>artconjunction->ασυνήθιστα για αυτό το είδος εργασίας,</li>
+    <li>artconjunction->αν και λίγοι θα το περίμεναν,</li>
+    <li>artconjunction->εκτός αυτού,</li>
+    <li>artextra_clause->η εικόνα περιβάλλεται από [subimageplural]</li>
+    <li>artextra_clause->στην άκρη της εικόνας είναι [subimageplural]</li>
+    <li>artextra_clause->υπάρχουν [subimagesingle] [side_position]</li>
+    <li>artextra_clause->τα υποκείμενα είναι μπροστά από [subimageany]</li>
+    <li>artextra_clause->το κάτω μέρος της εικόνας κυριαρχείται από [subimageany]</li>
+    <li>artextra_clause->η σκηνή λαμβάνει χώρα στη μέση μίας [Community]</li>
+    <li>artextra_clause->η σκηνή λαμβάνει χώρα στα περίχωρα της [Community]</li>
+    <li>artextra_clause->η σκηνή διαδραματίζεται μέσα σε ένα κτίριο της [Community] δίπλα σε ένα [TerrainFeature]</li>
+    <li>artextra_clause->ένας [Character] [idles] [side_position]</li>
+    <li>artextra_clause->ένας [PAWN_adj] [Character] [idles] [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [Character] εμφανίζονται [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [PAWN_adj] [Character] φένονται [side_position]</li>
+    <li>artextra_clause->ένα [Animal] [idles] [side_position]</li>
+    <li>artextra_clause->εάν αλληθωρίζουν τα μάτια σου, η σύνθεση [composition] της εικόνας αποκαλύπτει το περίγραμμα του [subimageany]</li>
+    <li>artextra_clause->το [emotional_expression] κεφάλι ενός [PAWN_adj] [PersonJob] τα παρακολουθεί όλα</li>
+    <li>artextra_clause->ένα [PAWN_adj] [PersonJob] τα παρακολουθεί όλα ενώ [emotional_expression]</li>
+    <li>artextra_clause->το κεφάλι ενός [PAWN_adj] [PersonJob] τους κοιτάει όλους</li>
+    <li>artextra_clause->ολόκληρη η εικόνα απεικονίζεται με την προσεκτική διάταξη του [subimageplural]</li>
+    <li>subimageany->[subimagesingle]</li>
+    <li>subimageany->[subimageplural]</li>
+    <li>subimagesingle(p=4)->ένας [Character]</li>
+    <li>subimagesingle->ένα [TerrainFeature]</li>
+    <li>subimagesingle->μία [Community]</li>
+    <li>subimagesingle->ένα [TreeType] δέντρο</li>
+    <li>subimagesingle->ένα [Vegetable]</li>
+    <li>subimagesingle->μία [AnimalGroup] από [Animal]</li>
+    <li>subimageplural(p=3)->[Quantity_adjphrase] [Character]</li>
+    <li>subimageplural->[Quantity_adjphrase] [Vegetable]</li>
+    <li>subimageplural->[Quantity_adjphrase] [Shape]</li>
+    <li>pawn_adj->νεκρό</li>
+    <li>pawn_adj->ετοιμοθάνατο</li>
+    <li>pawn_adj->λαβωμένο</li>
+    <li>pawn_adj->κοιμισμένο</li>
+    <li>pawn_adj->όρθιο</li>
+    <li>pawn_adj->καθιστό</li>
+    <li>pawn_adj->τρελό</li>
+    <li>pawn_adj->νεανικό</li>
+    <li>pawn_adj->γέρικο</li>
+    <li>pawn_adj->καλυμμένο [Gore]</li>
+    <li>pawn_adj->σιχαμερό</li>
+    <li>pawn_adj->που φοράει [Apparel]</li>
+    <li>pawn_adj->που κρατά [Weapon]</li>
+    <li>pawn_adj->που τρώει [Vegetable]</li>
+    <li>emotional_expression->χαμογελαστό</li>
+    <li>emotional_expression->συνοφρυωμένο</li>
+    <li>emotional_expression->βλοσυρό</li>
+    <li>emotional_expression->γελαστό</li>
+    <li>emotional_expression->επίμονο</li>
+    <li>emotional_expression->λυπημένο</li>
+    <li>emotional_expression->φοβισμένο</li>
+    <li>emotional_expression->τρισευτυχισμένο</li>
+    <li>idles->κάθετε</li>
+    <li>idles->στέκεται</li>
+    <li>idles->περιμένει</li>
+    <li>idles->χαμογελά</li>
+    <li>idles->ξαπλώνει</li>
+    <li>idles->ποζάρει</li>
+    <li>idles->φαίνεται</li>
+    <li>idles->παρουσιάζεται</li>
+    <li>idles->χάνεται</li>
+    <li>idles->επιπλέει</li>
+    <li>side_position->στη μία πλευρά</li>
+    <li>side_position->στο υπόβαθρο</li>
+    <li>side_position->σε απόσταση</li>
+    <li>side_position->στο κάτω μέρος της εικόνας</li>
+    <li>side_position->στο πάνω μέρος της εικόνας</li>
+    <li>side_position->στα αριστερά της κύριας σκηνής</li>
+    <li>side_position->στα δεξιά της κύριας σκηνής</li>
+    <li>side_position->κοντά στην άκρη της εικόνας</li>
+    <li>side_position->κοντά στο κεντρικό θέμα</li>
+    <li>side_position->μακριά από το κεντρικό θέμα</li>
+    <li>side_position->κάτω από το κύριο αντικείμενο</li>
+    <li>side_position->πίσω από το σημείο εστίασης</li>
+    <li>style_clause(p=4)->το έργο [symbolizes] [ConceptAny]</li>
+    <li>artextra_clause->[subimagesingle] [side_position] [symbolizes] [ConceptAny]</li>
+    <li>style_clause->το έργο εμπλουτίζεται με την ιδέα του [ConceptAny] και γίνεται με [artstyle_adj] στυλ</li>
+    <li>style_clause->το καλλιτέχνημα εκτελείται με [artstyle_adj] στυλ</li>
+    <li>style_clause->το [artstyle_adj] στυλ της κεντρικής σκηνής συγκρούεται με την απεικόνιση του [artstyle_adj] φόντου</li>
+    <li>style_clause->το έργο έχει μια αίσθηση [artstyle_adj] και μια δομή [composition]</li>
+    <li>style_clause->η συνολική σύνθεση είναι [composition]</li>
+    <li>style_clause->η τεχνοτροπία είναι [artstyle_adj] με [artstyle_adj] στοιχεία</li>
+    <li>style_clause->η εικόνα εκφράζει κάπως το [ConceptAny] όσο και το [ConceptAny]</li>
+    <li>style_clause->η εικόνα φέρνει σε αντίθεση το [ConceptAny] με το [ConceptAny]</li>
+    <li>style_clause->η [composition] δομή της εικόνας έρχεται σχεδόν σε σύγκρουση με το [artstyle_adj] ύφος της</li>
+    <li>style_clause->το δημιούργημα σκιάζεται στις αποχρώσεις του [Χρώμα] και του [Χρώμα]</li>
+    <li>style_clause->σχεδόν κάθε σχήμα στην εικόνα φαίνεται να είναι [composition]</li>
+    <li>symbolizes->συμβολίζει</li>
+    <li>symbolizes->μοιάζει να συμβολίζει</li>
+    <li>symbolizes->αναπαριστά</li>
+    <li>symbolizes->φαίνεται να αναπαριστά</li>
+    <li>symbolizes->μοιάζει να εκφράζει</li>
+    <li>symbolizes->υπενθυμίζει στον θεατή</li>
+    <li>symbolizes->μεταφέρει τα συναισθήματα</li>
+    <li>symbolizes->κάνει τον θεατή να σκεφτεί</li>
+    <li>symbolizes->αντιπροσωπεύει τον καλλιτέχνη</li>
+    <li>symbolizes->υποδηλώνει την έννοια του</li>
+    <li>depicts->απεικονίζει</li>
+    <li>depicts->δείχνει</li>
+    <li>depicts->υποδύεται</li>
+    <li>depicts->θυμίζει</li>
+    <li>depicts->αποτυπώνει</li>
+    <li>depicts->παριστάνει</li>
+    <li>depicts->είναι σε σχήμα</li>
+    <li>depiction->απεικόνιση</li>
+    <li>depiction->εικόνα</li>
+    <li>depiction->πορτραίτο</li>
+    <li>depiction->αναπαράσταση</li>
+    <li>depiction->εικονογράφηση</li>
+    <li>depiction->έργο τέχνης</li>
+    <li>composition->τριγωνικό</li>
+    <li>composition->ορθογώνιο</li>
+    <li>composition->τετράγωνο</li>
+    <li>composition->ασύμμετρο</li>
+    <li>composition->συμμετρικό</li>
+    <li>composition->δυναμικό</li>
+    <li>composition->στατικό</li>
+    <li>composition->κάθετο</li>
+    <li>composition->οριζόντιο</li>
+    <li>composition->εστιασμένο</li>
+    <li>artstyle_adj->κοινότοπο</li>
+    <li>artstyle_adj->απλό</li>
+    <li>artstyle_adj->πολύπλοκο και ρεαλιστικό</li>
+    <li>artstyle_adj->εξωπραγματικό</li>
+    <li>artstyle_adj->κλασικό</li>
+    <li>artstyle_adj->σύγχρονο</li>
+    <li>artstyle_adj->συμβολικό</li>
+    <li>artstyle_adj->ερασιτεχνικό αλλά ελκυστικό</li>
+    <li>artstyle_adj->προσανατολισμένο στη λεπτομέρεια</li>
+    <li>artstyle_adj->χοντροκομμένο</li>
+    <li>artstyle_adj->κυβικό</li>
+    <li>artstyle_adj->αόριστο</li>
+    <li>artstyle_adj->εξπρεσιονιστικό</li>
+    <li>artstyle_adj->φωτογραφικό</li>
+    <li>artstyle_adj->μπαρόκ</li>
+    <li>artstyle_adj->ντανταϊστικό</li>
+    <li>artstyle_adj->ατελής τέχνης</li>
+    <li>artstyle_adj->ψηφιοποιημένο</li>
+    <li>artstyle_adj->φωβιστικό</li>
+    <li>artstyle_adj->λαϊκό</li>
+    <li>artstyle_adj->αλληγορικό</li>
+    <li>artstyle_adj->ελικοειδής</li>
+    <li>artstyle_adj->γεωμετρικό</li>
+    <li>artstyle_adj->αφηρημένο</li>
+    <li>artstyle_adj->υπερρεαλιστικό</li>
+    <li>artstyle_adj->ποπ αρτ</li>
+    <li>artstyle_adj->μινιμαλιστικό</li>
+    <li>artstyle_adj->νεοκλασικό</li>
+    <li>artstyle_adj->σκιασμένο</li>
+    <li>artstyle_adj->μεταϊμπρεσιονιστικό</li>
+    <li>artstyle_adj->παραδοσιακό</li>
+    <li>artstyle_adj->ροκοκό</li>
+    <li>artstyle_adj->ρομανικό</li>
+    <li>artstyle_adj->ρομαντικό</li>
+    <li>artstyle_adj->γκράφιτι</li>
+    <li>artstyle_adj->ερωτικό</li>
+    <li>artstyle_adj->αισθησιακό</li>
+    <li>artstyle_adj->ειλικρινές</li></ArtDescriptionUtility_Global.rulePack.rulesStrings>
+  
+</LanguageData>

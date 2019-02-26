@@ -1,23 +1,59 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <WealthTotal.label>αξία (συνολική)</WealthTotal.label>
-  <WealthTotal.graphLabelY>Σύνολο</WealthTotal.graphLabelY>
-
-  <WealthItems.label>αξία (αντικειμένων)</WealthItems.label>
-  <WealthItems.graphLabelY>Σύνολο</WealthItems.graphLabelY>
-
-  <WealthBuildings.label>αξία (κτιρίων)</WealthBuildings.label>
-  <WealthBuildings.graphLabelY>Σύνολο</WealthBuildings.graphLabelY>
-
-  <FreeColonists.label>ελεύθεροι άποικοι</FreeColonists.label>
-  <FreeColonists.graphLabelY>Άποικοι</FreeColonists.graphLabelY>
-
-  <Prisoners.label>κρατούμενοι</Prisoners.label>
-  <Prisoners.graphLabelY>Κρατούμενοι</Prisoners.graphLabelY>
-
+  
+  <!-- EN: recovery -->
+  <Adaptation.label>ανάκτηση</Adaptation.label>
+  <!-- EN: Days -->
+  <Adaptation.graphLabelY>Μέρες</Adaptation.graphLabelY>
+  
+  <!-- EN: mood -->
   <ColonistMood.label>διάθεση</ColonistMood.label>
+  <!-- EN: Percent -->
   <ColonistMood.graphLabelY>Τοις εκατό</ColonistMood.graphLabelY>
-
-
+  
+  <!-- EN: free colonists -->
+  <FreeColonists.label>ελεύθεροι άποικοι</FreeColonists.label>
+  <!-- EN: Colonists -->
+  <FreeColonists.graphLabelY>Άποικοι</FreeColonists.graphLabelY>
+  
+  <!-- EN: pop recovery -->
+  <PopAdaptation.label>πληθυσμ. ανάπτυξη</PopAdaptation.label>
+  <!-- EN: Days -->
+  <PopAdaptation.graphLabelY>Μέρες</PopAdaptation.graphLabelY>
+  
+  <!-- EN: pop intent x10 -->
+  <PopIntent.label>πληθ. επιδίωξη x10</PopIntent.label>
+  <!-- EN: Days -->
+  <PopIntent.graphLabelY>Μέρες</PopIntent.graphLabelY>
+  
+  <!-- EN: prisoners -->
+  <Prisoners.label>κρατούμενοι</Prisoners.label>
+  <!-- EN: Prisoners -->
+  <Prisoners.graphLabelY>Κρατούμενοι</Prisoners.graphLabelY>
+  
+  <!-- EN: fun points /10 -->
+  <ThreatPoints.label>βαθμοί διασκέδ. /10</ThreatPoints.label>
+  <!-- EN: Points -->
+  <ThreatPoints.graphLabelY>Βαθμοί</ThreatPoints.graphLabelY>
+  
+  <!-- EN: wealth (buildings) -->
+  <Wealth_Buildings.label>αξία (κτιρίων)</Wealth_Buildings.label>
+  <!-- EN: Amount -->
+  <Wealth_Buildings.graphLabelY>Σύνολο</Wealth_Buildings.graphLabelY>
+  
+  <!-- EN: wealth (items) -->
+  <Wealth_Items.label>αξία (αντικειμένων)</Wealth_Items.label>
+  <!-- EN: Amount -->
+  <Wealth_Items.graphLabelY>Σύνολο</Wealth_Items.graphLabelY>
+  
+  <!-- EN: wealth (creatures) -->
+  <Wealth_Pawns.label>αξία (πλάσματα)</Wealth_Pawns.label>
+  <!-- EN: Amount -->
+  <Wealth_Pawns.graphLabelY>Σύνολο</Wealth_Pawns.graphLabelY>
+  
+  <!-- EN: wealth (total) -->
+  <Wealth_Total.label>αξία (συνολική)</Wealth_Total.label>
+  <!-- EN: Amount -->
+  <Wealth_Total.graphLabelY>Σύνολο</Wealth_Total.graphLabelY>
+  
 </LanguageData>

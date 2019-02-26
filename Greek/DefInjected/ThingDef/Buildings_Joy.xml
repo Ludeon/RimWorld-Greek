@@ -1,59 +1,54 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <HorseshoesPin.label>καρφί πετάλων</HorseshoesPin.label>
-  <HorseshoesPin.description>Ένα απλό αρχαίο παιχνίδι που παίζετε με μερικά πέταλα και ένα μεγάλο καρφί στο έδαφος. Οι παίκτες ρίχνουν τα πέταλα από απόσταση και προσπαθούν να τα προσγειώσουν κοντά ή γύρω από τον πείρο. Είναι χαλαρωτικό και ακόμη εκπαιδεύει το συντονισμό στο χέρι και στο μάτι.</HorseshoesPin.description>
-  <HorseshoesPin_Blueprint.label>καρφί πετάλων (προσχέδιο)</HorseshoesPin_Blueprint.label>
-  <HorseshoesPin_Blueprint_Install.label>καρφί πετάλων (προσχέδιο)</HorseshoesPin_Blueprint_Install.label>
-  <HorseshoesPin_Frame.label>καρφί πετάλων (κατασκευή)</HorseshoesPin_Frame.label>
-  <HorseshoesPin_Frame.description>Ένα απλό αρχαίο παιχνίδι που παίζετε με μερικά πέταλα και ένα μεγάλο καρφί στο έδαφος. Οι παίκτες ρίχνουν τα πέταλα από απόσταση και προσπαθούν να τα προσγειώσουν κοντά ή γύρω από τον πείρο. Είναι χαλαρωτικό και ακόμη εκπαιδεύει το συντονισμό στο χέρι και στο μάτι.</HorseshoesPin_Frame.description>
-
-  <HoopstoneRing.label>στεφανάκι</HoopstoneRing.label>
-  <HoopstoneRing.description>Ένα απλό αρχαίο παιχνίδι που παίζετε με μερικές πέτρες και ένα μεγάλο δαχτυλίδι στο έδαφος. Οι παίκτες ρίχνουν τις πέτρες από απόσταση και προσπαθούν να τις οδηγήσουν μέσα στο δαχτυλίδι. Είναι χαλαρωτικό και ακόμη εκπαιδεύει το συντονισμό χεριού ματιού.</HoopstoneRing.description>
-  <HoopstoneRing_Blueprint.label>στεφανάκι (προσχέδιο)</HoopstoneRing_Blueprint.label>
-  <HoopstoneRing_Blueprint_Install.label>στεφανάκι (προσχέδιο)</HoopstoneRing_Blueprint_Install.label>
-  <HoopstoneRing_Frame.label>στεφανάκι (κατασκευή)</HoopstoneRing_Frame.label>
-  <HoopstoneRing_Frame.description>Ένα απλό αρχαίο παιχνίδι που παίζετε με μερικές πέτρες και ένα μεγάλο δαχτυλίδι στο έδαφος. Οι παίκτες ρίχνουν τις πέτρες από απόσταση και προσπαθούν να τις οδηγήσουν μέσα στο δαχτυλίδι. Είναι χαλαρωτικό και ακόμη εκπαιδεύει το συντονισμό χεριού ματιού.</HoopstoneRing_Frame.description>
-
-  <ChessTable.label>σκακιέρα</ChessTable.label>
-  <ChessTable.description>Το αρχαίο παιχνίδι των βασιλιάδων. Διασκεδάστε για λίγες ώρες εδώ και εκεί, παίζετε και μόνοι σας.</ChessTable.description>
-  <ChessTable_Blueprint.label>σκακιέρα (προσχέδιο)</ChessTable_Blueprint.label>
-  <ChessTable_Blueprint_Install.label>σκακιέρα (προσχέδιο)</ChessTable_Blueprint_Install.label>
-  <ChessTable_Frame.label>σκακιέρα (κατασκευή)</ChessTable_Frame.label>
-  <ChessTable_Frame.description>Το αρχαίο παιχνίδι των βασιλιάδων. Διασκεδάστε για λίγες ώρες εδώ και εκεί, παίζετε και μόνοι σας.</ChessTable_Frame.description>
-
+  
+  <!-- EN: billiards table -->
   <BilliardsTable.label>μπιλιάρδο</BilliardsTable.label>
-  <BilliardsTable.description>Ένα τραπέζι με επένδυση μαλακής τσόχας για να παίξετε διάφορα παιχνίδια μπιλιάρδου.</BilliardsTable.description>
-  <BilliardsTable_Blueprint.label>μπιλιάρδο (προσχέδιο)</BilliardsTable_Blueprint.label>
-  <BilliardsTable_Blueprint_Install.label>μπιλιάρδο (προσχέδιο)</BilliardsTable_Blueprint_Install.label>
-  <BilliardsTable_Frame.label>μπιλιάρδο (κατασκευή)</BilliardsTable_Frame.label>
-  <BilliardsTable_Frame.description>Ένα τραπέζι με επένδυση μαλακής τσόχας για να παίξετε διάφορα παιχνίδια μπιλιάρδου.</BilliardsTable_Frame.description>
-
-  <PokerTable.label>τραπέζι πόκερ</PokerTable.label>
-  <PokerTable.description>Ένα τραπέζι σχεδιασμένο για τυχερά παιχνίδια με τράπουλα, κυρίως πόκερ. Ένας πολύ καλός τρόπος για να δοκιμάσετε τις στρατηγικές δεξιότητές σας και λίγη τύχη.</PokerTable.description>
-  <PokerTable_Blueprint.label>τραπέζι πόκερ (προσχέδιο)</PokerTable_Blueprint.label>
-  <PokerTable_Blueprint_Install.label>τραπέζι πόκερ (προσχέδιο)</PokerTable_Blueprint_Install.label>
-  <PokerTable_Frame.label>τραπέζι πόκερ (κατασκευή)</PokerTable_Frame.label>
-  <PokerTable_Frame.description>Ένα τραπέζι σχεδιασμένο για τυχερά παιχνίδια με τράπουλα, κυρίως πόκερ. Ένας πολύ καλός τρόπος για να δοκιμάσετε τις στρατηγικές δεξιότητές σας και λίγη τύχη.</PokerTable_Frame.description>
-
-  <TubeTelevision.label>τηλεόραση</TubeTelevision.label>
-  <TubeTelevision.description>Μια οθόνη καθοδικού σωλήνα για την προβολή κινούμενων εικόνων με ήχο. Ακόμα και στους εξωπλανήτες, υπάρχει συχνά ένας παλιός πομπός που εκπέμπει τουλάχιστον  κάτι οριακά ενδιαφέρον.</TubeTelevision.description>
-  <TubeTelevision_Blueprint.label>τηλεόραση (προσχέδιο)</TubeTelevision_Blueprint.label>
-  <TubeTelevision_Blueprint_Install.label>τηλεόραση (προσχέδιο)</TubeTelevision_Blueprint_Install.label>
-  <TubeTelevision_Frame.label>τηλεόραση (κατασκευή)</TubeTelevision_Frame.label>
-  <TubeTelevision_Frame.description>Μια οθόνη καθοδικού σωλήνα για την προβολή κινούμενων εικόνων με ήχο. Ακόμα και στους εξωπλανήτες, υπάρχει συχνά ένας παλιός πομπός που εκπέμπει τουλάχιστον  κάτι οριακά ενδιαφέρον.</TubeTelevision_Frame.description>
-
-  <FlatscreenTelevision.label>επίπεδη οθόνη</FlatscreenTelevision.label>
-  <FlatscreenTelevision.description>Μια τηλεόραση υψηλής τεχνολογίας με επίπεδη οθόνη με κρυστάλλινη εικόνα και ζωντανά χρώματα. Πιο διασκεδαστική από μια τηλεόραση καθοδικού σωλήνα.</FlatscreenTelevision.description>
-  <FlatscreenTelevision_Blueprint_Install.label>επίπεδη οθόνη (προσχέδιο)</FlatscreenTelevision_Blueprint_Install.label>
-
+  <!-- EN: A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability. -->
+  <BilliardsTable.description>Ένα τραπέζι με επένδυση μαλακής τσόχας για να παίξετε διάφορα παιχνίδια μπιλιάρδου. Εκπαιδεύει την ικανότητα σκόπευσης.</BilliardsTable.description>
+  
+  <!-- EN: chess table -->
+  <ChessTable.label>σκακιέρα</ChessTable.label>
+  <!-- EN: The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills. -->
+  <ChessTable.description>Το αρχαίο παιχνίδι των βασιλιάδων. Διασκεδάστε για λίγες ώρες εδώ και εκεί, παίζετε και μόνοι σας. Εκπαιδεύει τις διανοητικές ικανότητες.</ChessTable.description>
+  
+  <!-- EN: flatscreen television -->
+  <FlatscreenTelevision.label>τηλεόραση επίπεδης οθόνης</FlatscreenTelevision.label>
+  <!-- EN: A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
+  <FlatscreenTelevision.description>Μια τηλεόραση υψηλής τεχνολογίας με επίπεδη οθόνη με κρυστάλλινη εικόνα και ζωντανά χρώματα. Λαμβάνει αναμεταδόσεις από τους αρχαίους δορυφόρους και τις πανταχού παρούσες κάρτες δεδομένων.</FlatscreenTelevision.description>
+  
+  <!-- EN: game-of-Ur board -->
+  <GameOfUrBoard.label>παιχνίδι του Ουρ</GameOfUrBoard.label>
+  <!-- EN: Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills. -->
+  <GameOfUrBoard.description>Χρονολογείται από το 2500 π.Χ., αυτό το συναρπαστικό επιθετικό επιτραπέζιο παιχνίδι μπορεί να παιχτεί από ένα ή δύο άτομα. Εκπαιδεύει τις διανοητικές δεξιότητες.</GameOfUrBoard.description>
+  
+  <!-- EN: hoopstone ring -->
+  <HoopstoneRing.label>στεφανάκι</HoopstoneRing.label>
+  <!-- EN: A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills. -->
+  <HoopstoneRing.description>Ένα απλό αρχαίο παιχνίδι που παίζετε με μερικές πέτρες και ένα μεγάλο δαχτυλίδι στο έδαφος. Οι παίκτες ρίχνουν τις πέτρες από απόσταση και προσπαθούν να τις οδηγήσουν μέσα στο δαχτυλίδι. Είναι χαλαρωτικό και βελτιώνει την δεξιότητα της σκόπευσης.</HoopstoneRing.description>
+  
+  <!-- EN: horseshoes pin -->
+  <HorseshoesPin.label>καρφί πετάλων</HorseshoesPin.label>
+  <!-- EN: A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills. -->
+  <HorseshoesPin.description>Ένα απλό αρχαίο παιχνίδι που παίζετε με μερικά πέταλα και ένα μεγάλο καρφί στο έδαφος. Οι παίκτες ρίχνουν τα πέταλα από απόσταση και προσπαθούν να τα προσγειώσουν κοντά ή γύρω από τον πείρο. Είναι χαλαρωτικό και εκπαιδεύει την ικανότητα σκόπευσης.</HorseshoesPin.description>
+  
+  <!-- EN: megascreen television -->
   <MegascreenTelevision.label>τηλεόραση υψηλής ανάλυσης</MegascreenTelevision.label>
-  <MegascreenTelevision.description>Μια τεράστια τηλεόραση υψηλής τεχνολογίας. Γιγάντια, υπερβολικά ζωντανές εικόνες που σχεδόν ξεπετάγονται από την οθόνη. Πολύ διασκεδαστική.</MegascreenTelevision.description>
-  <MegascreenTelevision_Blueprint_Install.label>τηλεόραση υψηλής ανάλυσης (προσχέδιο)</MegascreenTelevision_Blueprint_Install.label>
-
+  <!-- EN: A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
+  <MegascreenTelevision.description>Μια τεράστια τηλεόραση υψηλής τεχνολογίας. Γιγάντια, υπερβολικά ζωντανές εικόνες που σχεδόν ξεπετάγονται από την οθόνη. Πολύ διασκεδαστική. Λαμβάνει αναμεταδόσεις από τους αρχαίους δορυφόρους και τις πανταχού παρούσες κάρτες δεδομένων.</MegascreenTelevision.description>
+  
+  <!-- EN: poker table -->
+  <PokerTable.label>τραπέζι πόκερ</PokerTable.label>
+  <!-- EN: A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck. -->
+  <PokerTable.description>Ένα τραπέζι σχεδιασμένο για τυχερά παιχνίδια με τράπουλα, κυρίως πόκερ. Ένας πολύ καλός τρόπος για να δοκιμάσετε τις στρατηγικές δεξιότητές σας και λίγη τύχη.</PokerTable.description>
+  
+  <!-- EN: telescope -->
   <Telescope.label>τηλεσκόπιο</Telescope.label>
-  <Telescope.description>Ένα τηλεσκόπιο για να κάνετε ερασιτεχνική αστρονομία. Είναι ένα χαλαρωτικό και διασκεδαστικό χόμπι για συγκεκριμένο τύπο ατόμων.</Telescope.description>
-  <Telescope_Blueprint_Install.label>τηλεσκόπιο (προσχέδιο)</Telescope_Blueprint_Install.label>
-
-
+  <!-- EN: A telescope for doing amateur astronomy. It's a relaxing hobby for a certain kind of person. Can only be used outdoors. -->
+  <Telescope.description>Ένα τηλεσκόπιο για να κάνετε ερασιτεχνική αστρονομία. Είναι ένα χαλαρωτικό και διασκεδαστικό χόμπι για συγκεκριμένο τύπο ατόμων. Μπορεί να χρησημοποιηθεί μόνο σε εξωτερικούς χώρους</Telescope.description>
+  
+  <!-- EN: tube television -->
+  <TubeTelevision.label>τηλεόραση</TubeTelevision.label>
+  <!-- EN: A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. -->
+  <TubeTelevision.description>Μια οθόνη καθοδικού σωλήνα για την προβολή κινούμενων εικόνων με ήχο. Ακόμα και στους εξωπλανήτες, υπάρχει συχνά ένας παλιός πομπός που εκπέμπει τουλάχιστον  κάτι οριακά ενδιαφέρον.</TubeTelevision.description>
+  
 </LanguageData>

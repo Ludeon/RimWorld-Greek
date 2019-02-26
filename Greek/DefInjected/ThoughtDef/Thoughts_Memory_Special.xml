@@ -1,8 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <ArtifactMoodBoost.stages.0.label>παράξενο συναίσθημα</ArtifactMoodBoost.stages.0.label>
-  <ArtifactMoodBoost.stages.0.description>Αισθάνομαι παράξενα, αλλά και πολύ χαλαρά.</ArtifactMoodBoost.stages.0.description>
-
-
+  
+  <!-- EN: strange feeling -->
+  <ArtifactMoodBoost.stages.strange_feeling.label>παράξενο συναίσθημα</ArtifactMoodBoost.stages.strange_feeling.label>
+  <!-- EN: I feel strange, but also very relaxed. -->
+  <ArtifactMoodBoost.stages.strange_feeling.description>Αισθάνομαι παράξενα, αλλά και πολύ χαλαρά.</ArtifactMoodBoost.stages.strange_feeling.description>
+  
 </LanguageData>
