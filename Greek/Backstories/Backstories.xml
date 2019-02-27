@@ -1812,173 +1812,173 @@
   
   <ExiledResearcher68>
     <!-- EN: exiled researcher -->
-    <title>TODO</title>
+    <title>εξόριστη ερευνήτρια</title>
     <!-- EN: exile -->
-    <titleShort>TODO</titleShort>
+    <titleShort>εξόριστη</titleShort>
     <!-- EN: [PAWN_nameDef]'s love of robotics was not appreciated in her technophobic empire. The High Cardinal of the system excommunicated her, and she was never allowed to return. -->
-    <desc>TODO</desc>
+    <desc>Η αγάπη [PAWN_possessive] [PAWN_nameDef] για τα ρομπότ δεν εκτιμήθηκε στην τεχνοφοβική αυτοκρατορία. Ο Μέγας Καρδινάλιος του συστήματος [PAWN_objective] εξόρισε και δεν [PAWN_possessive] επετράπη ποτέ να επιστρέψει.</desc>
   </ExiledResearcher68>
   
   <ExoticChef96>
     <!-- EN: exotic chef -->
-    <title>TODO</title>
+    <title>εξωτικός σεφ</title>
     <!-- EN: chef -->
-    <titleShort>TODO</titleShort>
+    <titleShort>αρχιμάγειρας</titleShort>
     <!-- EN: [PAWN_nameDef] has always gone overboard when it comes to food. [PAWN_pronoun] is always seeking new and exotic ingredients.\n\n[PAWN_possessive] quest for ingredients has brought [PAWN_objective] into some close calls with local flora and fauna. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] έκανε πάντοτε ταξίδια όταν πρόκειται για φαγητό. [PAWN_pronoun] αναζητούσε πάντα νέα και εξωτικά συστατικά.\n\nΗ αναζήτηση [PAWN_possessive] για νέα συστατικά [PAWN_objective] έχει φέρει σε ορισμένες στενές επαφές με την τοπική χλωρίδα και πανίδα.</desc>
   </ExoticChef96>
   
   <ExpertHandyman34>
     <!-- EN: expert handyman -->
-    <title>TODO</title>
+    <title>εξαίρετος τεχνίτης</title>
     <!-- EN: handyman -->
-    <titleShort>TODO</titleShort>
+    <titleShort>επισκευαστής</titleShort>
     <!-- EN: [PAWN_nameDef] worked as a traveling engineer. [PAWN_pronoun] fixed things ranging from a simple communications array to the intricate software harness in his ship's AI meta-core. Nothing is beyond repair for [PAWN_objective]. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] εργάστηκε ως μηχανικός ταξιδιού. [PAWN_pronoun] επιδιόρθωνε πράγματα που κυμαίνονταν από μια απλή συστοιχία επικοινωνιών έως ένα πολύπλοκο λογισμικό που λειτουργούσε η τεχνητή νοημοσύνη στο μετα-πυρήνα του πλοίου [PAWN_possessive]. Τίποτα δεν συγκρίνονταν με τις επισκευές για αυ[PAWN_objective].</desc>
   </ExpertHandyman34>
   
   <Explorer28>
     <!-- EN: explorer -->
-    <title>TODO</title>
+    <title>εξερευνητής</title>
     <!-- EN: explorer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>εξερευνητής</titleShort>
     <!-- EN: [PAWN_nameDef] traveled from planet to planet, gathering samples, stories, and research. He hoped one day to compile a record of every animal, plant, mineral, and machine and device in known space: The Complete Traveler's Guide to the RimWorlds. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] ταξίδευε από πλανήτη σε πλανήτη, συγκεντρώνοντας δείγματα, ιστορίες και έρευνες. Ήλπιζε μια μέρα να συντάξει ένα αρχείο για κάθε ζώο, φυτό, ορυκτό, μηχανή και συσκευή στον γνωστό διάστημα: Ο Πλήρες Οδηγός Ταξιδιωτών για τους ΕξώΚοσμους.</desc>
   </Explorer28>
   
   <ExplorerWriter10>
     <!-- EN: explorer-writer -->
-    <title>TODO</title>
+    <title>εξερευνητής συγγραφέας</title>
     <!-- EN: explorer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>εξερευνητής</titleShort>
     <!-- EN: [PAWN_nameDef] traveled from planet to planet, gathering samples, stories, and research. \n\n[PAWN_possessive] goal was to bring together enough knowledge to make a survival guide for future generations. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] ταξίδευε από πλανήτη σε πλανήτη, συγκεντρώνοντας δείγματα, ιστορίες και έρευνες.\n\nΟ στόχος [PAWN_possessive] ήταν να συγκεντρώσει αρκετές γνώσεις ώστε να συντάξει έναν οδηγό επιβίωσης για τις μελλοντικές γενιές.</desc>
   </ExplorerWriter10>
   
   <ExplosivesExpert26>
     <!-- EN: explosives expert -->
-    <title>TODO</title>
+    <title>ειδικός στα εκρηκτικά</title>
     <!-- EN: blaster -->
-    <titleShort>TODO</titleShort>
+    <titleShort>θρυαλλίδα</titleShort>
     <!-- EN: [PAWN_nameDef] was an explosive engineer employed in mines. [PAWN_pronoun] took [PAWN_possessive] job very seriously and was well-versed in the technicalities - so much so that [PAWN_pronoun] refused to demean [PAWN_objective]self by helping with the clean-up once [PAWN_possessive] carefully-calculated explosion was complete. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] ήταν ένας μηχανικός εκρηκτικών που απασχολούνταν στα ορυχεία. [PAWN_pronoun] έπαιρνε πολύ σοβαρά υπόψη την εργασία [PAWN_possessive] και ήταν πολύ προσεκτικός στις τεχνικές - τόσο πολύ ώστε αρνιόταν να βοηθήσει στον καθαρισμό μόλις ολοκληρωνόταν η προσεκτικά υπολογισμένη έκρηξη.</desc>
   </ExplosivesExpert26>
   
   <FactionLeader74>
     <!-- EN: faction leader -->
-    <title>TODO</title>
+    <title>αρχηγός φατρίας</title>
     <!-- EN: leader -->
-    <titleShort>TODO</titleShort>
+    <titleShort>ηγέτης</titleShort>
     <!-- EN: Early in [PAWN_possessive] adulthood, [PAWN_nameDef] found [PAWN_objective]self surrounded by a gaggle of low-lifes. \n\nFor fun, [PAWN_pronoun] gathered them and lead them to a certain death. [PAWN_pronoun] knew then that [PAWN_pronoun] had the talent to realize [PAWN_possessive] ambitions of leadership. -->
-    <desc>TODO</desc>
+    <desc>Νωρίς στην ενήλικη ζωή [PAWN_possessive], [PAWN_nameDef] βρέθηκε μια μέρα να περιβάλλεται από ένα κοπάδι μικρών ζωών.\n\nΓια διασκέδαση, τα συγκέντρωσε και τα οδήγησε να πεθάνουν με ένα συγκεκριμένο τρόπο. [PAWN_pronoun] τότε κατάλαβε ότι είχε το ταλέντο να πραγματοποιήσει τις φιλοδοξίες [PAWN_possessive] στην ηγεσία.</desc>
   </FactionLeader74>
   
   <FactoryWorker27>
     <!-- EN: factory worker -->
-    <title>TODO</title>
+    <title>εργάτης φάμπρικας</title>
     <!-- EN: worker -->
-    <titleShort>TODO</titleShort>
+    <titleShort>εργάτης</titleShort>
     <!-- EN: [PAWN_nameDef] did menial, unskilled work in an industrial-era factory. [PAWN_possessive] job also included caring for the mules and horses which transported goods around the city. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] έκανε ταπεινές και ανειδίκευτες εργασίες σε ένα εργοστάσιο βιομηχανικής εποχής. Η εργασία [PAWN_possessive] περιλάμβανε επίσης τη φροντίδα των μουλαριών και των αλόγων που μεταφέρουν αγαθά στην πόλη.</desc>
   </FactoryWorker27>
   
   <FactoryWorker58>
     <!-- EN: factory worker -->
-    <title>TODO</title>
+    <title>εργοστασιακός υπάλληλος</title>
     <!-- EN: worker -->
-    <titleShort>TODO</titleShort>
+    <titleShort>χειρώνακτας</titleShort>
     <!-- EN: Felix grew up in a large factory city on an industrial world.\n\nSince poverty was rampant and food scarce, he worked for whatever wages he could get. This wasn't an easy life, but Felix never shied away from a hard day's work. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] μεγάλωσε σε μια μεγάλη εργοστασιακή πόλη ενός βιομηχανικού κόσμου.\n\nΔεδομένου της αχαλίνωτης φτώχειας και των λιγοστών τροφίμων, εργάστηκε για οποιουσδήποτε μισθούς θα μπορούσε να πάρει. Αυτή δεν ήταν μια εύκολη ζωή, αλλά [PAWN_nameDef] δεν πτοήθηκε ποτέ από μια δύσκολη μέρα.</desc>
   </FactoryWorker58>
   
   <FallenOfficial12>
     <!-- EN: fallen official -->
-    <title>TODO</title>
+    <title>έκπτωτος αξιωματικός</title>
     <!-- EN: official -->
-    <titleShort>TODO</titleShort>
+    <titleShort>αξιωματικός</titleShort>
     <!-- EN: [PAWN_nameDef] was an official for an autocratic government.\n\nWhen [PAWN_possessive] superiors demanded [PAWN_pronoun] participate in atrocities, [PAWN_nameDef] resigned and escaped from [PAWN_possessive] homeworld with nothing but the clothes on [PAWN_possessive] back. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] ήταν αξιωματούχος μιας απολυταρχικής κυβέρνησης.\n\nΌταν οι ανώτεροι [PAWN_possessive] απαίτησαν [PAWN_pronoun] να συμμετάσχει σε φρικαλεότητες, [PAWN_nameDef] παραιτήθηκε και διέφυγε από τον πλανήτη [PAWN_possessive] με τίποτα άλλο εκτός από τα ρούχα [PAWN_possessive].</desc>
   </FallenOfficial12>
   
   <FallenProdigy79>
     <!-- EN: fallen prodigy -->
-    <title>TODO</title>
+    <title>αποτυχημένος ταλαντούχος</title>
     <!-- EN: prodigy -->
-    <titleShort>TODO</titleShort>
+    <titleShort>παιδί θαύμα</titleShort>
     <!-- EN: [PAWN_nameDef] was born on a glitterworld falling into chaos. [PAWN_possessive] father was killed in action.\n\n[PAWN_pronoun] struggled for a scholarship at Utmaior Academy and had to prove his right to be there. A child genius, [PAWN_pronoun] was bullied as a charity case and couldn't make friends with the other kids. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] γεννήθηκε σε έναν λαμπρόκοσμο που έπεσε στο χάος. Ο πατέρας [PAWN_possessive] σκοτώθηκε στις αναταραχές.\n\n[PAWN_pronoun] αγωνίστηκε για υποτροφία στην Ακαδημία ΓίνεΔυνατότερος και έπρεπε να αποδείξει το δικαίωμά [PAWN_possessive] να είναι εκεί. Ως παιδί ιδιοφυΐα, [PAWN_pronoun] χλευάστηκε λόγο ιδιαιτερότητας και έτσι δεν μπορούσε να κάνει φίλιες με τα άλλα παιδιά.</desc>
   </FallenProdigy79>
   
   <FarmBoy56>
     <!-- EN: farm boy -->
-    <title>TODO</title>
+    <title>αγροτόπαιδο</title>
     <!-- EN: farm boy -->
-    <titleShort>TODO</titleShort>
+    <titleShort>αγροτόπαιδο</titleShort>
     <!-- EN: John worked on his family's farm, looking after the animals and treating them when they were injured. Preferring hands-on tasks and the outdoors, he avoided softer jobs that might have kept him cooped up inside.\n\nHe enjoyed this lonely work, and tended to stay out of people's way and do his own thing. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] εργάστηκε στο αγρόκτημα της οικογένειάς [PAWN_possessive], φροντίζοντας τα ζώα και τα περιποιούνταν όταν τραυματίζονταν. Προτιμώντας τις χειρωνακτικές εργασίες και την ύπαιθρο, απέφευγε τις πιο ήπιες δουλειές που μπορεί να [PAWN_objective] κρατούσαν μέσα.\n\nΑπολάμβανε να εργάζεται μόνος [PAWN_possessive] και δεν μπερδευόταν στο δρόμο των άλλων ανθρώπων κάνοντας τα δικά [PAWN_possessive] πράγματα.</desc>
   </FarmBoy56>
   
   <FarmerBoy63>
     <!-- EN: farmer boy -->
-    <title>TODO</title>
+    <title>αγροτόπαιδο</title>
     <!-- EN: farmer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>αγρότης</titleShort>
     <!-- EN: Benjamin's parents died in a fire when he was seven. He grew up on his uncle's farm, plowing fields and doing manual labor.\n\nHe could not bear answering questions about his parents, so he replaced social contact with hard work. -->
-    <desc>TODO</desc>
+    <desc>Οι γονείς [PAWN_possessive] [PAWN_nameDef] πέθαναν σε μια φωτιά όταν ήταν επτά χρονών. Μεγάλωσε στο αγρόκτημα του θείου [PAWN_possessive], οργώνοντας χωράφια και κάνοντας τις χειρωνακτικές εργασίες.\n\nΔεν μπορούσε να απαντήσει σε ερωτήσεις σχετικά με τους γονείς [PAWN_possessive], οπότε αντικατέστησε την κοινωνική επαφή με τη σκληρή δουλειά.</desc>
   </FarmerBoy63>
   
   <FarmersDaughter81>
     <!-- EN: Farmer's daughter -->
-    <title>TODO</title>
+    <title>κόρη αγρότη</title>
     <!-- EN: Farm girl -->
-    <titleShort>TODO</titleShort>
+    <titleShort>αγρότισσα</titleShort>
     <!-- EN: [PAWN_nameDef] grew up on [PAWN_possessive] parents' vineyard. [PAWN_pronoun] spent [PAWN_possessive] youth exploring the land and making friends with various bugs and insects.\n\nHaving heard stories about all the fascinating things out there in the universe, [PAWN_pronoun] always dreamed of venturing out to see it for [PAWN_objective]self. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] μεγάλωσε στον αμπελώνα των γονέων [PAWN_possessive]. [PAWN_pronoun] ξόδεψε τα νιάτα [PAWN_possessive] εξερευνώντας τη γη και κάνοντας φίλους με διάφορα σκουλήκια και έντομα. Έχοντας ακούσει ιστορίες για όλα τα συναρπαστικά πράγματα εκεί έξω στο σύμπαν, [PAWN_pronoun] πάντα ονειρευόταν να αποτολμήσει να το δει από μόνος [PAWN_possessive].</desc>
   </FarmersDaughter81>
   
   <FarmersSon51>
     <!-- EN: farmer's son -->
-    <title>TODO</title>
+    <title>υιός αγρότη</title>
     <!-- EN: farmer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>κτηνοτρόφος</titleShort>
     <!-- EN: Ade spent much of his childhood learning biome farming. In his biome they kept animals to investigate which would cope best in the alien environment.\n\nDue to this, the travel restrictions and oxygen rationing system, he rarely got to meet anyone from outside his family. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] πέρασε μεγάλο μέρος της παιδικής ηλικίας [PAWN_possessive] μαθαίνοντας την βιομετρική καλλιέργειας. Στο οικοσύστημα τους διατηρούσαν τα ζώα για να διερευνήσουν ποια θα τα κατάφεραν καλύτερα στο εξωγήινο περιβάλλον. Λόγω των ταξιδιωτικών περιορισμών και του συστήματος παροχής οξυγόνου, σπάνια συναντήθηκε με κάποιον άλλο εκτός της οικογένειάς [PAWN_possessive].</desc>
   </FarmersSon51>
   
   <FarmHand30>
     <!-- EN: farm hand -->
-    <title>TODO</title>
+    <title>καλλιεργητής</title>
     <!-- EN: farm hand -->
-    <titleShort>TODO</titleShort>
+    <titleShort>καλλιεργητής</titleShort>
     <!-- EN: [PAWN_nameDef] was born on a farm on a smaller colony world.\n\nEverything was taken care of by the few members of the farm, including [PAWN_nameDef]. This helped [PAWN_objective] build independence, spirit, and a well-rounded character. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] γεννήθηκε σε ένα αγρόκτημα ενός μικροκαμωμένου κόσμο αποικιών.\n\nΌλα τα φροντίζουν τα λίγα μέλη του αγροκτήματος, συμπεριλαμβανομένου και [PAWN_possessive] [PAWN_nameDef]. Αυτό [PAWN_objective] βοήθησε να οικοδομήσει την ανεξαρτησία, το πνεύμα και έναν πολύ στρογγυλεμένο χαρακτήρα.</desc>
   </FarmHand30>
   
   <FarmKid40>
     <!-- EN: farm kid -->
-    <title>TODO</title>
+    <title>τσοπανόπουλο</title>
     <!-- EN: farm kid -->
-    <titleShort>TODO</titleShort>
+    <titleShort>τσοπανόπουλο</titleShort>
     <!-- EN: [PAWN_nameDef] grew up on his family's beef farm. He enjoyed working the fields and taking care of the animals. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] μεγάλωσε στο αγρόκτημα βοείου κρέατος της οικογένειάς [PAWN_possessive]. Απολάμβανε να εργάζεται στα χωράφια και να φροντίζει τα ζώα.</desc>
   </FarmKid40>
   
   <FarmMechanic1>
     <!-- EN: farm mechanic -->
-    <title>TODO</title>
+    <title>αγροτικός μηχανικός</title>
     <!-- EN: mechanic -->
-    <titleShort>TODO</titleShort>
+    <titleShort>μηχανικός</titleShort>
     <!-- EN: Growing up on a farming planet, [PAWN_nameDef] spent [PAWN_possessive] time learning about the automated machinery that grew and harvested the multitude of crops. -->
-    <desc>TODO</desc>
+    <desc>Μεγαλώνοντας σε έναν πλανήτη αγροτικής παραγωγής, [PAWN_nameDef] δαπάνησε το χρόνο [PAWN_possessive] μαθαίνοντας για τα αυτοματοποιημένα μηχανήματα που καλλιεργούν και συλλέγουν πλήθος καλλιεργειών.</desc>
   </FarmMechanic1>
   
   <FearfulChef49>
     <!-- EN: fearful chef -->
-    <title>TODO</title>
+    <title>φοβισμένος σεφ</title>
     <!-- EN: chef -->
-    <titleShort>TODO</titleShort>
+    <titleShort>σεφ</titleShort>
     <!-- EN: [PAWN_nameDef] was a excellent chef who worked in a high-end restaurant.\n\nOne day, [PAWN_pronoun] left the stove on, and accidentally burned down the whole building. This event shook [PAWN_objective] so much that [PAWN_pronoun] swore to never touch a stove again. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] ήταν ένας εξαιρετικός σεφ που δούλευε σε ένα εστιατόριο υψηλής ποιότητας.\n\nΜια μέρα, [PAWN_pronoun] ξέχασε τη κουζίνα ανοιχτή και έκαψε κατά λάθος ολόκληρο το κτίριο. Αυτό το γεγονός [PAWN_objective] επηρέασε τόσο πολύ που ορκίστηκε να μην αγγίξει ποτέ ξανά την κουζίνα.</desc>
   </FearfulChef49>
   
   <FelineScientist97>
@@ -2469,11 +2469,11 @@
   
   <Herbalist54>
     <!-- EN: herbalist -->
-    <title>TODO</title>
+    <title>βοτανοθεραπευτής</title>
     <!-- EN: herbalist -->
-    <titleShort>TODO</titleShort>
+    <titleShort>βοτανοθεραπευτής</titleShort>
     <!-- EN: [PAWN_nameDef] lived in the forest near a village. Though many of the villagers feared [PAWN_objective], sick villagers would come to [PAWN_objective] to purchase salves and poultices made from the herbs [PAWN_pronoun] grew in [PAWN_possessive] garden. [PAWN_pronoun] was happy to help them — for a price. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] ζούσε στο δάσος κοντά σε ένα χωριό. Αν και πολλοί από τους χωρικούς [PAWN_objective] φοβόντουσαν, οι άρρωστοι χωρικοί πήγαιναν σε αυ[PAWN_objective] για να αγοράσουν αλοιφές και καταπλάσματα από τα βότανα που [PAWN_pronoun] καλλιεργούσε σ[PAWN_objective] κήπο [PAWN_objective]. Ήταν πρόθυμος να τους βοηθήσει - για ένα αντίτιμο.</desc>
   </Herbalist54>
   
   <Herder58>
@@ -3108,11 +3108,11 @@
   
   <MedicalAssistant82>
     <!-- EN: medical assistant -->
-    <title>TODO</title>
+    <title>ιατρικός βοηθός</title>
     <!-- EN: medic -->
-    <titleShort>TODO</titleShort>
+    <titleShort>ιατρός</titleShort>
     <!-- EN: [PAWN_nameDef] was born during a catastrophic war in which both sides used napalm extensively. [PAWN_pronoun] grew up helping [PAWN_possessive] parents in an infirmary, treating the cascade of horrific burns from the battlefields. [PAWN_pronoun] was left with a lifelong fear of fire. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] γεννήθηκε κατά τη διάρκεια ενός καταστροφικού πολέμου στον οποίο και οι δύο πλευρές χρησιμοποίησαν εκτεταμένα βόμβες ναπάλμ. [PAWN_pronoun] μεγάλωσε βοηθώντας τους γονείς [PAWN_possessive] σε ένα ιατρείο, αντιμετωπίζοντας σωρηδόν τρομακτικών εγκαυμάτων από τα πεδία της μάχης. Σε αυ[PAWN_objective] έμεινε ο φόβος της φωτιάς δια βίου.</desc>
   </MedicalAssistant82>
   
   <MedicalHelper84>
@@ -3603,11 +3603,11 @@
   
   <Mute34>
     <!-- EN: mute -->
-    <title>TODO</title>
+    <title>σιωπηλός</title>
     <!-- EN: mute -->
-    <titleShort>TODO</titleShort>
+    <titleShort>σιωπηλός</titleShort>
     <!-- EN: [PAWN_nameDef] was greatly affected by a traumatic event early in [PAWN_possessive] life. For many years [PAWN_pronoun] refused to speak to people, preferring instead to play with [PAWN_possessive] household's numerous pets. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] επηρεάστηκε σε μεγάλο βαθμό από μια τραυματική εμπειρία στις αρχές της ζωής [PAWN_possessive]. Για πολλά χρόνια αρνιόταν να μιλήσει στους ανθρώπους, προτιμώντας να παίζει με τα πολυάριθμα κατοικίδια ζώα του νοικοκυριού [PAWN_possessive].</desc>
   </Mute34>
   
   <MutinousCaptain52>
@@ -5772,11 +5772,11 @@
   
   <UrbworldEntrepreneur14>
     <!-- EN: urbworld entrepreneur -->
-    <title>TODO</title>
+    <title>επιχειρηματίας αστόκοσμου</title>
     <!-- EN: entrepreneur -->
-    <titleShort>TODO</titleShort>
+    <titleShort>επιχειρηματίας</titleShort>
     <!-- EN: In the urbworlds, most suffer. But someone has to run the corporations.\n\n[PAWN_nameDef] learned the skills of the trade - greasing palms and technical analysis. [PAWN_pronoun] is a sociointellectual machine. -->
-    <desc>TODO</desc>
+    <desc>Στους αστόκοσμους, οι περισσότεροι υποφέρουν. Αλλά κάποιος πρέπει να διευθύνει τις εταιρείες.\n\n[PAWN_nameDef] έμαθε τις δεξιότητες των εμπορικών λιπαρών παλαμών και την τεχνική ανάλυση. [PAWN_pronoun] είναι μια κοινωνικοπνευματική μηχανή.</desc>
   </UrbworldEntrepreneur14>
   
   <UrbworldHooligan72>
